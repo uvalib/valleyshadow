@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
+	<xsl:template match="/">
+		<html>
+			<head>
+				<title>Valley of the Shadow Diaries</title>
+				<style> body {padding: 2em; align:center;}.highlightme { background-color: yellow; } .noresults { font-size: 16px; margin: 10px 0 10px 0; } .currentShowing { width: 100px; text-align: center; padding: 0 10px 0 10px; } .previousPage {
+					width: 250px; text-align: right; } .nextPage { width: 250px; text-align: left; } #resultSummary { padding: 5px 0 5px 0; border-top: 1px solid #c6c6c6; border-bottom: 1px solid #c6c6c6; } #returnPage { width: 65%; }
+					#topNavig { text-align: center; margin: 5px 0 5px 0; } #bottomNavig { text-align: center; margin: 5px 0 5px 0; } #jumpPages { padding: 5px 0 5px 0; border-top: 1px solid #c6c6c6; } #resultReturns { clear: both; }
+					.warning{font-weight:bold; padding:5px; color:#000099;} .red-head {color: #990000; font-family: times, serif; font-weight: bold; } #form { text-align: left; width: 80%;}</style>
+				<script type="text/javascript" src="javascript/jquery-1.2.1.js"/>
+				<script type="text/javascript" src="javascript/diaries_search.js"/>
+				<script type="text/javascript" src="javascript/generic_search_paging.js"/>
+			</head>
+			<body bgcolor="#FFFFFF" link="#cd7f32" vlink="#00009c">
+				<div style="width:100%;text-align:center;" id="no-javascript">
+					<h3 class="warning">This page requires Javascript. Please ensure that you have enabled Javascript in your browser's preferences</h3>
+				</div>
+				<div id="form">
+					<form name="diariesSearchForm" action="diaries_search_results.html" method="get">
+						<input type="hidden" id="query" name="q"/>
+						<input type="hidden" name="rows" value="10"/>
+						<input type="hidden" name="start" value="0"/>
+						<div style="width:80%;text-align:center;">
+							<img src="VoS/redesign/images/vtitle4.gif" style="padding-left:10px;"/>
+							<h2 class="red-head">Search the Valley of the Shadow Diaries</h2>
+							<blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be substituted for any number of characters at the middle or back of a word. Please see <a href="VoS/reference/tips.html">
+									<b>Tips for Searching</b>
+								</a> for a full explanation. </blockquote>
+							<hr/><p> Search for word or phrase: <br/><input name="search_text" size="40"/></p><p> within </p>
+							<p>
+							<select id="docs" name="docs">
+								<optgroup label="region">
+									<option value="">All Diaries</option>
+									<option value="augusta">All Augusta County Entries</option>
+									<option value="franklin">All Franklin County Entries</option>
+								</optgroup>
+								<optgroup label="keyword">
+									<option value="African Americans">Entries including keyword:: African-Americans</option>
+									<option value="Agriculture">Entries including keyword:: Agriculture</option>
+									<option value="Arts/Leisure">Entries including keyword:: Arts and Leisure</option>
+									<option value="Battle Description">Entries including keyword:: Battle Description</option>
+									<option value="Camp Life">Entries including keyword:: Camp Life</option>
+									<option value="Church/Religious Activity">Entries including keyword:: Church and Religious Activity</option>
+									<option value="Death/Casualties">Entries including keyword:: Death and Casualties</option>
+									<option value="Desertion/Leave">Entries including keyword:: Desertion or Leave</option>
+									<option value="Family">Entries including keyword:: Family</option>
+									<option value="HomeFront">Entries including keyword:: Home Front</option>
+									<option value="Medicine/Hospitals">Entries including keyword:: Medicine and Hospitals</option>
+									<option value="Military">Entries including keyword:: Military</option>
+									<option value="Military Authority">Entries including keyword:: Military Authority</option>
+									<option value="National/Government">Entries including keyword:: National Government</option>
+									<option value="Prisons/Prisoners">Entries including keyword:: Prisons and Prisoners</option>
+									<option value="Slavery">Entries including keyword:: Slavery</option>
+									<option value="Troop Movement">Entries including keyword:: Troop Movement</option>
+									<option value="Women">Entries including keyword:: Women</option>
+								</optgroup>
+							</select></p>
+							<p>
+								<span>begin date: year <input name="begin_year" size="4"/> end date: year <input name="end_year" size="4"/></span></p>
+							<br/>Group results by <select id="sort" name="sort">
+								<option value="">closest match</option>
+								<option value="title_string asc">document title</option>
+							</select>
+							<div style="padding: 2em;">
+								<input type="submit" value="Submit Query" id="search_button"/>
+								<input type="reset" value="Clear"/>
+								<br/>
+							</div><hr/>
+							<center>
+								<a href="VoS/choosepart.html">
+									<img src="VoS/graphics/full7.gif" border="0" alt=""/>
+								</a>
+							</center>
+						</div>
+					</form>
+				</div>
+
+			</body>
+		</html>
+
+	</xsl:template>
+</xsl:stylesheet>
