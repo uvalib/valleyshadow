@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2012"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A2012">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Ann E. T. Magill to Mary Buckner Magill
+     Randolph, April 28, 1873</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county ann e t magill to mary buckner magill randolph, april 28 1873</title>
+        <author>Magill, Ann E. T.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Susanna Michele Lee</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Susanna Michele Lee</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A2012</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:501985</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Ann E. T. Magill to Mary Buckner Magill Randolph, April 28, 1873</title>
+            <title level="m"/>
+            <title type="sort">augusta county ann e t magill to mary buckner magill randolph, april 28 1873</title>
+            <author>Ann E. T. Magill</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>7 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Virginia Historical Society</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Virginia Historical Society, Richmond Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1873-04-28">1873-04-28</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>African Americans, Arts/Leisure, Church/Religious Activity, Family, Race Relations, Women</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A2012T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Ann E. T. Magill writes her sister-in-law Mary Randolph about her experiences at the Augusta
+     Female Seminary and relates news from her children.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Mary Buckner Magill Randolph</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1873-04-28">April 28, 1873</date>
+      <name type="place">Augusta Female Seminary<lb/>Staunton</name>
+     </dateline>
+     <salute>My beloved Sister</salute>
+    </opener>
+
+    <p>I had determined to write to you to night, &amp; now that I have <hi rend="underline">blindly</hi>, as, if
+     I put off writing <hi rend="underline">now</hi>, I dont know when I shall have another chance - being separated
+     from all my children they all expect me to send them a letter every week, which keeps me
+     pretty busy in my <sic>liesure</sic> hours. No doubt you have heard through Hol all about me. I
+     am very nicely fixed in this large Seminary, it suits me exactly. I have plenty to do with all
+     the girls to give me an influen ce over them, &amp; 10 little girls under my care - after
+     they come out of school at 4 o'clock I take them a walk in the Country, &amp; let them play
+     &amp; amuse themselves, &amp; when we return make them study their lessons for the next
+     day - in the morn ing I go round &amp; see who are sick, take the D<hi rend="super">r</hi>
+     to see them, etc. Archie Fauntleroy &amp; his parter visit here <del rend="none" hand="h1"/> about,
+     every morning, so I see a great deal of them &amp; I think Archie enjoys going round with
+     me as much as I do with him. I have no responsibility, &amp; just the employment I like -
+     this is a splendid School, 130 pupils gathered from every state in the Union. I always thought
+     when there were so many girls they would lose their identity, but it is not so; Miss Ba ldwin
+     has 12 lady assistants, &amp; each one of them thoroughly understands each girl, temper,
+     disposition, ability, constitution, &amp; every thing connected with them, they make them a
+     regular study, &amp; everything is arranged with perfect regularity. I wish you could go
+     with me into the dining room - 12 tables set with perfect neatness, each one having a teacher
+     &amp; 12 or more girls - the greatest quantity, enough &amp; to spare of delightful hot
+     rolls for breakfast &amp; supper, butter, molasses, &amp; either Beefsteak, eggs, or
+     some other relish, perfection has certainly been attained in management of every kind - the
+     best servants I have seen since the War &amp; plenty of them -</p>
+
+    <p>Dear Hol I wrote this far last night &amp; hope your knowledge of my hand will enable you
+     to read - I have found my specks &amp; hope the rest will be more legible. Miss Baldwin
+     wants me next year but my children are so opposed to my "cutting myself o ff from them" that I
+     haven't made up my mind what to do. I do want to see you during the vacation &amp; if you
+     will be at Mittie's, will try &amp; spend a few days there with you, &amp; can see dear
+     Mit &amp; her chicks too, as I couldn't be with her las t winter. Blandy writes
+     <hi rend="underline">they</hi> are all well, but Jamie broke his arm, bore it like a little man &amp; is
+     doing well - Alf &amp; Will are great at "Declaiming" &amp; my hopes are high that they
+     may be Preachers. Tacher was tempted to break his arm also, because Jamie was made such a hero
+     of &amp; had so many good things sent him.</p>
+
+    <p>A portion of this letter is missing, but it concludes with love to various members of the
+     family and "May God ever bless you my own dear Sister, the Friend of my youth, &amp; of my
+     riper years also.</p>
+
+    <closer>
+     <salute>Your attached Sister</salute>
+     <signed>Ann E. T. Magill"</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

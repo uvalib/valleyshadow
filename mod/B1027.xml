@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1027"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1027">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: John W. Jordan to Orlando
+                    Brown, August 31, 1868</title>
+        <title type="sort">freedmens bureau records john w jordan to orlando brown, august 31 1868</title>
+        <author>Jordan, John W.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1027</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500895</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: John W. Jordan to Orlando Brown, August
+                            31, 1868</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records john w jordan to orlando brown, august 31 1868</title>
+            <author>John W. Jordan</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 49.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1868-08-31">1868-08-31</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Community Values/Local Behavior, Legal System, Patriotism, Race Relations,
+                        Economy, Employment/Labor, Education</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-05">May, 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1027T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Jordan reports that the distrust felt among blacks in Augusta County is a product
+                    of the fact that whites do not want to recognize their status as citizens, and
+                    because they continued to be taken advantage of in the labor market.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau of Refugees, Freedmen and Abandoned Lands,<lb/>Office 4th Division, 9th
+                    Sub-District, Virginia.
+                    <name type="recipient"><abbr expan="Brevet">Bvt</abbr>
+                        <abbr expan="Brigadier">Brig</abbr>
+                        <abbr expan="General">Gen.</abbr>
+                        <abbr expan="Orlando">O</abbr> Brown<lb/><abbr
+                            expan="Assistant Commissioner">Asst Comr</abbr><lb/><abbr
+                            expan="Bureau of Refugees, Freedmen and Abandoned Lands">B of R.F.
+                            &amp; A.L.</abbr><lb/>Richmond, <abbr expan="Virginia">Va</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1868-08-31"><abbr expan="August">Aug</abbr> 31<hi rend="super"
+                                >st</hi> 1868</date>
+                        <name type="place">Staunton, <abbr expan="Virginia">Va.</abbr></name>
+                    </dateline>
+                    <salute>General</salute>
+                </opener>
+
+                <p>In compliance with instructions contained in <abbr expan="Circular">Circ</abbr>
+                    <abbr expan="Number">No</abbr> VI from <abbr expan="Headquarters">H.Q.</abbr>
+                    <abbr expan="Assistant Commissioner">Asst Comr</abbr>
+                    <orig reg="etc.">&amp;c</orig> dated Richmond <abbr expan="January"
+                    >Jany</abbr> 29th 1866 I have the honor to submit the following "Report" showing
+                    the condition of "Freedmens affairs at this date in the above named Division.</p>
+
+                <p>Nothing has occurred during the "Month" which is calculated to change the
+                    opinions hitherto expressed as to the capacity of the colored race in the matter
+                    of becoming a thrifty self-supporting population. Occaisionally <pb n="2"/>I
+                        <orig reg="met">meet</orig> with one who seems disposed to remain poverty
+                    stricken by declining to take advantage of opportunities by which employment
+                        <orig reg="etc.">&amp;c</orig> might be secured but with these
+                    exceptions the race as a race are evidently advancing in intelligence and
+                    industry - and <hi rend="underline">I</hi> am convinced they would show more
+                        <unclear>earnestness</unclear> in embracing education &amp; other
+                    advantages if any substantial encouragement was given them by the whites. I
+                    believe that the feeling of distrust cherished by them toward the white people
+                    which was engendered by the disposition betrayed (immediately after the war
+                    closed) to not allow them any of the rights &amp; privileges of the citizen,
+                    has been strengthened by the indifferent and <unclear>careless</unclear> manner
+                    in which the interests of the freedpeople are handled in the Courts and by the
+                    whites generally. I am not prepared to <pb n="3"/>produce any particular
+                    instances wherein the aforementioned facts can be established but my conclusions
+                    have been arrived at after close observation of the workings of public
+                    sentiment.</p>
+
+                <p>The crops have so far as a general thing turned out better than was generally
+                    expected thus demonstrating the fact that the farming interests have not been
+                    injured by the change in the larbor system and if all of the employers would
+                    deal justly and honorably with the laborers many of the evils of which they
+                    complain would be lost sight of entirely but when they impose all kinds of
+                    charges <orig reg="etc.">&amp;c</orig> upon the laborers reducing the
+                    balance due to almost nothing and frequently bringing the latter in debt they
+                    must expect that dissatisfaction would grow out of such <pb n="4"/>injustice and
+                    it becomes very reasonable when it is <unclear>remembered</unclear> that by
+                    reason of the ignorance of the laborer in connection with his suspicion of the
+                    white man the nature and details of business transactions cannot be explained to
+                    him in many cases.</p>
+
+                <p>Intemperance does not seem to be increasing to any marked extent among the
+                    colored people.</p>
+
+                <p>The Schools have been closed during the summer months but it is expected will
+                    open in few days with much larger numbers than ever.</p>
+
+                <closer>
+                    <salute>I Remain General<lb/>Very Respectfully<lb/>Your <abbr expan="obedient"
+                            >obt</abbr>
+                        <abbr expan="Servant">Sevt</abbr></salute>
+                    <signed><orig reg="John">Jno</orig> W. Jordan<lb/><abbr
+                            expan="Assistant Sub Assistant Commissioner">
+                            <hi rend="underline">A.S.A. Comr</hi>
+                        </abbr> &amp;c<lb/>4th <abbr expan="division">div</abbr> 9th <abbr
+                            expan="Sub-District"><hi rend="underline">Sub</hi>Dist</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

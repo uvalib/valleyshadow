@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+
+<?dlps id="A3042"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A3042">
+     <teiHeader type="migrated">
+
+          <fileDesc>
+               <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Sue P. Page to Cousin, August 9,
+                         1868</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county sue p page to cousin, august 9 1868</title>
+        <author>Page, Sue P.</author>
+        <editor/>
+        <respStmt>
+                         <resp>Creation of machine-readable version: </resp>
+                         <name>Doug O'Reagan</name>
+                         <resp>Conversion to TEI.2-conformant markup:</resp>
+                         <name>Doug O'Reagan</name>
+                    </respStmt>
+      </titleStmt>
+
+               <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+               <publicationStmt>
+                    <publisher>Virginia Center for Digital History</publisher>
+                    <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                    <idno type="VCDH">A3042</idno>
+
+        <!--
+                    <availability>
+                         <p>Publicly accessible </p>
+                         <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                         <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                              University of Virginia</p>
+                    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                    <date value="2002">2002</date>
+               <idno type="uva-pid">uva-lib:502202</idno>
+      </publicationStmt>
+               <seriesStmt>
+                    <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+               </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+               <notesStmt>
+                    <note/>
+               </notesStmt>
+
+               <sourceDesc>
+                    <biblFull>
+                         <titleStmt>
+            <title>Augusta County: Sue P. Page to Cousin, August 9, 1868</title>
+            <title level="m"/>
+            <title type="sort">augusta county sue p page to cousin, august 9 1868</title>
+            <author>Sue P. Page</author>
+            <editor/>
+            <respStmt>
+                                   <resp/>
+                                   <name/>
+                              </respStmt>
+          </titleStmt>
+                         <editionStmt>
+                              <p/>
+                         </editionStmt>
+                         <extent>2 pages</extent>
+                         <publicationStmt>
+                              <publisher/>
+                              <pubPlace/>
+                              <date value=""/>
+                              <idno type="callNo">Source copy consulted: Sue P. Page to Cousin,
+                                   August 9, 1868, from Nellie Harris private collection</idno>
+                         </publicationStmt>
+                         <seriesStmt>
+                              <p/>
+                         </seriesStmt>
+                         <notesStmt>
+                              <note/>
+                         </notesStmt>
+                    </biblFull>
+               </sourceDesc>
+          </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from private collection</p>
+      </projectDesc>
+    </encodingDesc>
+
+          <profileDesc>
+               <creation>
+                    <date value="1868-08-09">1868-08-09</date>
+               </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+               <textClass>
+                    <keywords>
+                         <term>Family, Women</term>
+                         <term>American Civil War</term>
+                    </keywords>
+               </textClass>
+          </profileDesc>
+
+          <revisionDesc>
+               <change>
+                    <date value=""/>
+                    <respStmt>
+                         <resp/>
+                         <name/>
+                    </respStmt>
+                    <item/>
+               </change>
+          <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+     </teiHeader>
+
+     <text id="A3042T">
+          <front id="d2">
+               <div1 type="summary" id="d3">
+                    <p>Ms. Page writes to her family begging them to write to her and asking for
+                         news. She mentions that she will not ever see them again in person and
+                         craves contact with them.</p>
+               </div1>
+          </front>
+
+          <body id="d4">
+               <div1 type="letter" id="d5">
+                    <opener>
+                         <dateline>
+                              <date value="1868-08-09">Aug 9<hi rend="super">th</hi> 1868</date>
+                         </dateline>
+                         <salute>Dear Cousin,</salute>
+                    </opener>
+
+                    <p> It has been a long time since I had the pleasure of writing you, but I hope
+                         you still think enough of me to answer my short note &amp; if the
+                         Lord's willing I will write you a long letter when I hear from you. how is
+                         Cousin Sam &amp; Annie oh I forgot they had a boy how is he, how I
+                         could enjoy myself if I were with you all as I once was but that is past
+                         forever until we meet in a better world. if you see any of your Uncle
+                              <unclear>Adams</unclear> people ask them why they did not answer my
+                         last letter to Father &amp; Wilford mailed the Same day nearly 2 months
+                         ago if they are mad it would be more <orig reg="gratifying"
+                         >gratificatious</orig> to me to know what it is about than to be treated
+                         with silent contempt if I wrote <orig reg="anything">any thing</orig>
+                              wrong<pb n="2"/> it was ignorance not intentional.</p>
+                    <p>Dear Bob if I could only see you <orig reg="today">to day</orig> how I would
+                         love to talk to you as in days past &amp; gone, write &amp; tell me
+                              <hi rend="underline">all</hi>
+                         <hi rend="underline">the</hi>
+                         <hi rend="underline">news</hi>
+                         <hi rend="underline">good</hi> &amp; <hi rend="underline">Bad</hi> So
+                         good boy until I hear from you &amp; I hope that will only be a few
+                         days write the <hi rend="underline">minute</hi> you get this. my love to
+                         all.</p>
+
+                    <closer>
+                         <salute>your affectionate Cousin</salute>
+                         <signed>Sue P. Page</signed>
+                         <seg type="postscript">P.S.<lb/> Bob do come to Mo I want to see you so
+                              bad. Sue.<lb/><lb/>
+                              <hi rend="underline">do</hi>
+                              <hi rend="underline">write</hi>
+                              <hi rend="underline">soon</hi>. Sue,<lb/>
+                              <hi rend="underline">do</hi>
+                              <hi rend="underline">write</hi>
+                              <hi rend="underline">soon</hi>. Sue,<lb/><lb/> if Bob is not about sam
+                              you or John answer it, <hi rend="underline">please</hi>, Sue. </seg>
+                    </closer>
+               </div1>
+          </body>
+     </text>
+</TEI.2>

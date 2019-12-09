@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0060"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="F0060">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Bob Taggart to Captain John Taggart, August 28, 1863</title>
+        <title type="sort">bob taggart to captain john taggart, august 28 1863</title>
+        <author>Taggart, Bob </author>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amy Murrell </name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Institute for Advanced Technology in the Humanities </publisher>
+                <publisher>University of Virginia </publisher>
+                <pubPlace>Charlottesville, Va. </pubPlace>
+                <idno type="VCDH">F0060</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1997 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved. </p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1997 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1997">1997 </date>
+            <idno type="uva-pid">uva-lib:501235</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War </p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note> </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Bob Taggart to Captain John Taggart, August 28, 1863</title>
+            <title type="sort">franklin county bob taggart to captain john taggart, august 28 1863</title>
+            <author>Bob Taggart</author>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <publicationStmt>
+                        <publisher> </publisher>
+                        <pubPlace> </pubPlace>
+                        <date value=""> </date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p>Source copy consulted: Taggart Letters, Microfilm MG-132, Civil War
+                            Material, Misc. Diaries and Letters, Pennsylvania Historical and Museum
+                            Commission, Harrisburg, Pennsylvania. </p>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Pennsylvania Historical and Museum Commission, Harrisburg, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1863-08-28">1863-08-28 </date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Desertion/Leave, Military Authority, Troop Movement</term>
+                    <term>Regiment: 9th Pa. Res. </term>
+                    <term>Company: </term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value="2000">Summer 2000</date>
+                <respStmt>
+                    <resp/>
+                    <name>Amy Voorhees</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="F0060T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Taggart discusses military business, including a sword presentation and an
+                    execution of deserters. </p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Captain John Taggart, 9th Penn. Reserve Infantry</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1863-08-28">August 28<hi rend="super">th</hi> 1863 </date>
+                        <name type="place">Camp near Rappahannock </name>
+                    </dateline>
+                    <salute>
+                        <hi rend="underline">Dear</hi>
+                        <hi rend="underline">John</hi>
+                    </salute>
+                </opener>
+                <p>I received yours of the 26<hi rend="super">th</hi>, Sam's of the 25<hi
+                        rend="super">th</hi>, Tilly's of 26<hi rend="super">th</hi>, together with
+                    one from Cunningham one from Waterman, and one from a member of the Company
+                    (Agnew) who was wounded at Gettysburg, and is now at home in Allegheny, all by
+                    to-days mail. I will consider yours and Will's to-night. </p>
+
+                <p>The sword presentation to <abbr expan="General">Gen<hi rend="super">l</hi></abbr>
+                    Meade came off at Division Head Quarters yesterday. The presentation speech was
+                    made by <abbr expan="General">Gen<hi rend="super">l</hi></abbr> Crawford. <abbr
+                        expan="General">Gen<hi rend="super">l</hi></abbr> Meade replied in a very
+                    handome manner and was followed by <abbr expan="Governor">Gov</abbr>
+                    <orig reg="Curtin">Curten</orig>, <abbr expan="Colonel">Col</abbr>
+                    <unclear>
+                        <orig reg="Ferney">Ferney</orig>
+                    </unclear>, <abbr expan="Colonel">Col</abbr> Roberts and others -- After the
+                    speeches came the feasting in which<pb n="2"/> about Three hundred officers
+                    embracing all grades, from 2<hi rend="super">d</hi>
+                    <abbr expan="Lieutenants">Lieuts</abbr> up to Major Generals, took an active
+                    part. It looked quite gay to see such a congregation of officers all in sunday
+                    clothes, and side arms. and it was truly astonishing the way Champagne and about
+                    a dozen different <hi rend="underline">etcs</hi> were disposed of. I <orig
+                        reg="ain't">a'nt</orig> going to "tell tales out of school" but I may be
+                    allowed to say that I returned to Camp all right. </p>
+
+                <p>To-day we had a performance of a different character. We were marched out along
+                    with the rest of the Corps to witness the execution of five deserters from the
+                        1<hi rend="super">st</hi> division notwithstanding I have a <hi
+                        rend="underline">hearty</hi>
+                    <hi rend="underline">contempt</hi> for all Deserters. -- more especially for
+                    such as follow up the practice time after time for pecuniary purposes, and
+                    believe they ought to be shot, to<pb n="3"/> death as an example and terror to
+                    such evil doers. I could not help indulging in feeling of commiseration for the
+                    five poor wretches as the escort marched in front of the Corps to the "<hi
+                        rend="underline">Dead</hi>
+                    <hi rend="underline">March</hi>" each criminal following his own Coffin, and
+                    sitting down on it at the foot of his own grave, facing the soldiers who stood
+                    ready to execute the sentence of the law. A few moments of preparation, the
+                    Command ready -- aim -- fire -- a volley and the scene ends. You will read full
+                    particulars in the papers, and it is unnecessary for me to say more</p>
+
+                <p>Mr. Kelly was up at the <abbr expan="Regiment">Regt</abbr> today and stopped an
+                    hour or so. He looks as well as I ever saw him. Burck Campbell called in as he
+                    was passing this evening. He is well and wishes to be kindly remembered<pb n="4"
+                    /> Now to business -- In relation to that money you deposited, -- if the <abbr
+                        expan="Regiment">Regt</abbr> is mustered out in May as all think it will be,
+                    or in April, as many think, I will have to square up. But then, I can manage to
+                    save enough before that time to settle. I have about $100 belonging to the Fund
+                    loaned in the Regiment. I will get it next pay day. The "fund" for which I am
+                    responsible is about $260 or thereabouts which will leave me only $160 to deduct
+                    from some pay day between this and settlement! You need have no hesitancy about
+                    using the present deposit, and as I think we will be paid now in two or three
+                    weeks. I can let you have more if you need it.</p>
+
+                <p>Give my love to all the folks. Respects to <orig reg="inquiring">enquiring</orig>
+                    friends </p>
+
+                <closer>
+                    <salute>Your <abbr expan="Affectionate">Affect</abbr> Brother </salute>
+                    <signed>Bob </signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

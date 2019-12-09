@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+
+<?dlps id="F1120"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F1120">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Franklin Rosenbery to John Abraham
+                    Rosenbery (father), January 4, 1864</title>
+        <title type="sort">franklin county franklin rosenbery to john abraham rosenbery father , january 4 1864</title>
+        <author>Rosenbery, Franklin</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Matt Speiser</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Matt Speiser</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F1120</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501416</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Franklin Rosenbery to John Abraham Rosenbery
+                            (father), January 4, 1864</title>
+            <title level="m"/>
+            <title type="sort">franklin county franklin rosenbery to john abraham rosenbery father , january 4 1864</title>
+            <author>Franklin Rosenbery</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent> pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Kittochtinney Historical Society,
+                            Chambersburg, PA</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Kittochtinney Historical Society, Chambersburg, PA</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1864-01-04">1864-01-04</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Battle Description, Camp Life, Death/Casualties, Military Authority,
+                        Military Strategy, Troop Movement</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2005-07">July, 2005</date>
+                <respStmt>
+                    <resp/>
+                    <name>Kid W.</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F1120T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Rosenbery mentions the snow and planned troop movement and then describes a
+                    recent battle with the enemy.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+               
+
+                <opener>
+                    <dateline>
+                        <date value="1864-01-04">January 4, 1864</date>
+                        <name type="place">Camp near Stephensville, <abbr expan="Virginia">Va.</abbr></name>
+                    </dateline>
+                    <salute>Dear Father:</salute>
+                </opener>
+
+                <p>As I have not much time to write I will hurry and scribble a few lines to you. I
+                    am well. Hoping that these few lines may find you enjoying the same blessing of
+                    health.</p>
+                <p>It is snowing today. I expect that we must move our camp tomorrow General Hancock
+                    thinks that this is an unhealthy place.</p>
+                <p>As I mentioned in my letter something about the 6th <orig reg="Corp">Corpe</orig>
+                    suffering. The 6th supported the 3rd. It was the 3rd that suffered. They were on
+                    our left. It was stated that 600 were killed and wounded and missing but out of
+                    this number there was only 60 killed. I cannot tell how many wounded.</p>
+                <p>Our line of battle was about 7 miles long at one time. I thought that the 2nd
+                    Corps would have to fight but we got off quite lucky--We were laying as reserves
+                    when our <orig reg="artillery">artilery</orig>
+                    <orig reg="opened">oppened</orig> on the <abbr expan="rebel">reb</abbr>'s train.
+                    We were that close that the smoke of the powder soon over-showered us.</p>
+                <p>Some of the <abbr expan="rebel">Reb</abbr> shells came <orig reg="whistling"
+                        >whisling</orig> that it made me dodge my head-the same as a sheep when the
+                        <orig reg="flies">flys</orig> got bad.</p>
+                <p>On Friday the 27th firing commenced. Along the skirmish line <orig reg="we"
+                    >wer</orig> were <orig reg="back">bask</orig> as reserve. Firing was kept up
+                    from 9 in the morning till in the evening.</p>
+                <p>Saturday it was raining. We was in a miserable <orig reg="muddy">mudy</orig>
+                    place in a line of battle. Then our men shelled <abbr expan="rebel">reb</abbr>'s
+                    train. We laid down on Pine Brush for the night.</p>
+                <p>The next morning we had to march without breakfast. We marched to the right of
+                    our line. Monday night we slept on a hill in line of Battle, near <orig
+                        reg="Orange">Organe</orig>. This was an awful cold night. We were <orig
+                        reg="woken">waked</orig> up at 12 o'clock. We marched a short distance where
+                    we were put in front on the picket line.</p>
+                <p>On Monday Morning about 8 o'clock the <abbr expan="rebels">rebs</abbr>
+                    <orig reg="opening">openen</orig> their <orig reg="pieces">peices</orig> of
+                        <orig reg="Artillery">Artilery</orig> on us. Soon we got orders to lay down.</p>
+                <p>Then we could hear the canons thunder. Their shells flew over us. At first I
+                    thought if the shells would come hopping along they would <orig reg="tear"
+                    >tare</orig> a person in two so I thought it safe to stand up. But they flew
+                    over us so I felt <orig reg="safer">saffer</orig> to lay down. Shelling did not
+                    last long.</p>
+                <p>But I <orig reg="tell">teell</orig> you that I hated the sharp <orig
+                        reg="shooters'">shooters</orig> bullets the worst. They would come
+                    zip-zip-zip. So sneaking and they came pretty close. If ever I felt like hugging
+                    the ground, I felt that way when I could hear a shell sailing over me. I felt as
+                    though they were determined to kill if they could.</p>
+                <p>We lay on that picket line 3 days and almost 3 nights. Then we fell back to our
+                    old camp that night....all night and the next day all day.</p>
+                <p>I have no time to write more. I have a book that I keep to mark such things in.
+                    If I can see an opportunity I will give you a history of my travels.</p>
+                <p>The mail will soon start out.</p>
+
+                <closer>
+                    <salute>Your son,</salute>
+                    <signed>Franklin D. Rosenbery</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

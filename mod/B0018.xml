@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+
+<?dlps id="B0018"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B0018">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: John A. McDonnell to
+                    Thomas P. Jackson, May 9, 1867</title>
+        <title type="sort">freedmens bureau records john a mcdonnell to thomas p jackson, may 9 1867</title>
+        <author>McDonnell, John A.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>HIUS 403 Students</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Peter Brownfeld</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B0018</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 1999, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:500383</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: John A. McDonnell to Thomas P. Jackson,
+                            May 9, 1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records john a mcdonnell to thomas p jackson, may 9 1867</title>
+            <author>John A. McDonnell</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Bureau of Refugees, Freedmen, and
+                            Abandoned Lands, Record Group 105, Box E4269</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-05-09">1867-05-09</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Administration/Bureaucracy, Aid/Relief</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2003-08">August 2003</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B0018T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>McDonnell requests that Jackson send him a list of rations and clothing needed in
+                    his district, noting that he has not received such a report in several
+                months.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau of Refugees, Freedmen, and Abandoned Lands,<lb/>Head Quarters 9th District
+                    Department of the Potomac,
+                    <name type="recipient">Mr Tho<hi rend="super">s</hi> P.
+                        Jackson<lb/>Agent<lb/>Staunton, <abbr expan="Virginia">Va.</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-05-07">May 7, 1867</date>
+                        <name type="place">Winchester, <abbr expan="Virginia">Va.</abbr>,</name>
+                    </dateline>
+                    <salute>Sir</salute>
+                </opener>
+
+                <p>In your report of Bureau affairs for April you state "I regret to find myself
+                    without food or clothing to ration." &amp;c.</p>
+
+                <p>On the second of March last, <hi rend="underline">Mr. Tukey</hi>, <hi
+                        rend="underline">your predecessor</hi>, reported to this office, that he had
+                    received two (2) boxes of clothing for gratuitous distribution. Since that time,
+                    no application for clothing has been received from your sub-District at this
+                    office. </p>
+
+                <p>No Estimate of Rations required to prevent destitution has been received from
+                    your sub-district since the month of February, as required by circular 32. <abbr
+                        expan="Headquarters">Hd Qrs</abbr>
+                    <abbr expan="Assistant">Asst.</abbr>
+                    <abbr expan="Commissioner">Comr</abbr>
+                    <abbr expan="Virginia">Va.</abbr> series of 1866.</p>
+
+                <p>You will at once send to this office the Estimate of Rations required by said
+                    circular for the present month, and a <pb n="2"/>List of clothing necessary to
+                    prevent suffering. </p>
+
+                <closer>
+                    <salute>Very Respectfully<lb/>Your <abbr expan="Obedient">Obt</abbr>
+                        <abbr expan="Servant">Srt.</abbr></salute>
+                    <signed>John A. McDonnell<lb/><abbr expan="Captain">Capt.</abbr> V.R.C.<lb/>Sub
+                            <abbr expan="Assistant">Asst.</abbr>
+                        <abbr expan="Commissioner">Com<hi rend="super">r</hi></abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+
+<?dlps id="F3513"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="F3513">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: John H. Reed to General L. Thomas,
+                    January 10, 1863</title>
+        <title type="sort">franklin county john h reed to general l thomas, january 10 1863</title>
+        <author>Reed, John H.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Peter Brownfeld </name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Peter Brownfeld</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">4</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F3513</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2001, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2001">2001</date>
+            <idno type="uva-pid">uva-lib:501522</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: John H. Reed to General L. Thomas, January 10, 1863</title>
+            <title level="m"/>
+            <title type="sort">franklin county john h reed to general l thomas, january 10 1863</title>
+            <author>John H. Reed</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 page</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Compiled Military Service Records
+                            for John Reed, 126th Pa., Box 36134, Record 904, National
+                        Archives</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1863-01-10">1863-01-10</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Death/Casualties, Desertion/Leave, Medicine/Hospitals</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2001">Fall 2001</date>
+                <respStmt>
+                    <resp/>
+                    <name>Susanna Michele Lee</name>
+                </respStmt>
+                <item>Corrected TEI tagging, proofread for typos, added keywords, and edited
+                    summaries.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F3513T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>John H. Reed encloses his physician's certificate designating his unfitness for
+                    travel.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">L. Thomas Adj., Genl. U.S.</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1863-01-10">January 10, 1863</date>
+                        <name type="place">Johnstown</name>
+                    </dateline>
+                    <salute>Sir</salute>
+                </opener>
+
+                <p>Enclosed please find a Physician's certificate of my unfitness to travel.</p>
+
+                <p>My furlough on account of wounds commenced Dec. 23d for twenty days signed by L.
+                    Thomas Adjt. Genl.</p>
+
+                <p>There being no Army Physician in this place I send the certificate of my
+                    attending physician as directed by Regulations.</p>
+
+                <p>My address is Johnstown Cambria Co. Penna.</p>
+
+                <closer>
+                    <salute>Very Respectfully your obedient servant</salute>
+                    <signed>J.H. Reed Capt. Co. D <lb/> 126 Regt Penna Vol</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

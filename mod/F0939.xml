@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0939"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="F0939">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: W. Maxwell to Simon Cameron,
+                    December 16, 1862</title>
+        <title type="sort">franklin county w maxwell to simon cameron, december 16 1862</title>
+        <author>Maxwell, W.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Susanna Michele Lee</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Susanna Michele Lee</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">4</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F0939</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>copyright 1999, by the Rector and Visitors of the University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:501395</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: W. Maxwell to Simon Cameron, December 16, 1862</title>
+            <title level="m"/>
+            <title type="sort">franklin county w maxwell to simon cameron, december 16 1862</title>
+            <author>W. Maxwell</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Simon Cameron Papers, Microfilm
+                            reel 7, Collection of the Historical Society of Dauphin County,
+                            Pennsylvania Historical and Museum Commission, Harrisburg,
+                        Pennsylvania.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Historical Society of Dauphin County, Harrisburg, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1862-12-16">1862-12-16</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>National Government, State Government, Family</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2000">Summer 2000</date>
+                <respStmt>
+                    <resp/>
+                    <name>Amy Voorhees</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F0939T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>W. Maxwell offers Cameron his services in promoting his candidacy for
+                senator.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Simon Cameron</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1862-12-16">Dec 16<hi rend="super">th</hi> 1862</date>
+                        <name type="place">Mercer Pa</name>
+                    </dateline>
+                    <salute>Genl S. Cameron<lb/> Dear Sir</salute>
+                </opener>
+
+                <p>My son wrote me that he had seen you in <abbr expan="Philadelphia">Phila</abbr> -
+                    He wished me to have our members vote for you for U. S. Senator.</p>
+
+                <p>If you wish for the vote of our Members, I have some influence with them and I
+                    think I can induce one at least of them to.</p>
+
+                <p>My work of life has been never to forget a friend and always to be at the service
+                    of my friends, if you wish my services - please say so &amp; I will go to
+                    work -</p>
+
+                <closer>
+                    <salute>Yours truly</salute>
+                    <signed>
+                        <hi rend="underline">W. Maxwell</hi>
+                    </signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

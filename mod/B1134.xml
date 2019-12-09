@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1134"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="B1134">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: George T. Cook to R. S.
+                    Lacey, July 6, 1866</title>
+        <title type="sort">freedmens bureau records george t cook to r s lacey, july 6 1866</title>
+        <author>Cook, George T.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1134</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500994</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: George T. Cook to R. S. Lacey, July 6,
+                            1866</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records george t cook to r s lacey, july 6 1866</title>
+            <author>George T. Cook</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 16.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1866-07-06">1866-07-06</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Legal System, Violence/Crime, Race Relations</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-06">June 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Kid Wongsrichanalai</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1134T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Cook recounts a case where a white man was acquitted in a case of blatant assault
+                    against a young black hotel porter.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau <abbr expan="Refugees, Freedmen and Abandoned Lands">R. F. and A.
+                        L.</abbr><lb/>Office <abbr expan="Assistant Superintendent">Asst. Supt.</abbr>
+                    Sub-<abbr expan="District">Dist.</abbr>
+                    <abbr expan="Virginia">Va</abbr>
+                    <name type="recipient">Captain R. S. <orig reg="Lacey">Lacy</orig><lb/><abbr
+                            expan="Superintendent">Supt</abbr> Seventh <abbr expan="District">Dist.</abbr>
+                        <abbr expan="Virginia">Va.</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1866-07-06">July 6<hi rend="super">th</hi> 1866</date>
+                        <name type="place">Staunton <abbr expan="Virginia">Va.</abbr></name>
+                    </dateline>
+                    <salute>Sir:</salute>
+                </opener>
+
+                <p>I have the honor to submit the following report of the Action taken by Civil
+                    Authorities in the following case of <hi rend="underline">Floyd Adams</hi>,
+                    freedboy, vs. <hi rend="underline">Madison Dooms</hi>, white,</p>
+
+                <p>Adams is employed as porter at the Virginia Hotel at this place, on the afternoon
+                    of Tuesday the 26<hi rend="super">th</hi> of June 1866, while calling his Hotel
+                    at the Railway Station, an employee of the road named Madison Dooms stepped up
+                    to Adams and after ordering him to leave the platform, according to the
+                    testimony of some witnesses, in the preliminary hearing, before the Mayor of the
+                    town, and according to the testimony of others, without saying anything struck
+                    him a severe blow with a heavy Club <pb n="2"/>knocking him down - the affair
+                    created considerable excitement it not being the first instance in which the man
+                    Downs has struck the porters - the proprietors of the Hotel interested
+                    themselves about the affair to such an extent that one of them was bound over to
+                    keep the peace in the sum of $500.</p>
+
+                <p>The boy Floyd Adams complained to me and I referred the case to the Mayor of the
+                    town, who after hearing the evidence, bound Madison Dooms in the fund of $100 to
+                    answer to the Grand Jury. The Grand Jury, who commenced their session on the
+                        4<hi rend="super">th</hi> inst., failed to find any <orig reg="indictment"
+                        >inditement</orig> against Dooms, and he was therefore discharged.</p>
+
+                <p>The plea in favor of Dooms at the preliminary hearing, was, that he was obeying
+                    the instructions of the stationmaster, who had instructed him to keep the
+                    platform clear of the Hotel porters, that the platform was the property of the
+                    Rail Road Co. Such a plea could not have covered an assault upon a white person.</p>
+
+                <p>In my opinion the action of the Grand Jury in discharging <hi rend="underline"
+                        >Madison Dooms</hi> from <pb n="3"/>accountability was an act of gross
+                    injustice and the case from its <unclear>prominence</unclear> should receive
+                    attention, the jury having literally given the white man permission to knock the
+                    negro down without fear of molestation.</p>
+
+                <p>The Corporation Attorney informed me that he furnished the jury with the law <hi
+                        rend="underline">and</hi>
+                    <hi rend="underline">does</hi>
+                    <hi rend="underline">not</hi>
+                    <hi rend="underline">know</hi> how they came to act as they did.</p>
+
+                <closer>
+                    <salute>I am Sir, <lb/>Very Respectfully<lb/>Your <abbr expan="Obedient"
+                        >Obt.</abbr> Servant</salute>
+                    <signed>Geo. T. Cook<lb/>1st <abbr expan="Lieutenant">Lt</abbr> 24th <abbr
+                            expan="Veterans' Reserve Corps">V.R.C.</abbr> &amp; <abbr
+                            expan="Assistant Superintendent">Asst. Supt.</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

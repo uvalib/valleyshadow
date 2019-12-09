@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2591"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A2591">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Jedediah Hotchkiss to Nelson H. Hotchkiss,
+     October 25, 1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county jedediah hotchkiss to nelson h hotchkiss, october 25 1863</title>
+        <author>Hotchkiss, Jedediah</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Rider</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Rider</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A2591</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:502080</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Jedediah Hotchkiss to Nelson H. Hotchkiss, October 25, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta county jedediah hotchkiss to nelson h hotchkiss, october 25 1863</title>
+            <author>Jedediah Hotchkiss</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>1 page</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Jedediah Hotchkiss Collection, Reel 4, Manuscripts
+       Division, Library of Congress, Washington, D.C.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>The only original is a typed copy.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Congress, Washington, D. C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1863-10-25">1863-10-25</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Troop Movement, Military Authority, Battle Description, Home Front, Women</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A2591T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Hotchkiss describes recent troop movements, Stuart's cavalry skirmishes, and possible winter
+     quarters for the Confederate army. He also discusses matters at home.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Nelson H. Hotchkiss</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1863-10-25">October 25th., 1863</date>
+      <name type="place">"Berry Hill" <abbr expan="Head Quarters">Hd. Qrs.</abbr> 2nd Corps <abbr
+       expan="Army of Northern Virginia">A.N.Va.</abbr></name>
+     </dateline>
+     <salute>My dear Brother:-</salute>
+    </opener>
+
+    <p>I wrote to you from Bristoe station while we were on the march just before we started back. I
+     have not heard from you but not considering that I avail myself of the quiet of the early
+     candle lighting of this Sunday night to speak a few words by pen as I would by mouth if I were
+     near enough.</p>
+    <p> We did not succeed in heading off Meade; his conscripts are too fleetfooted and we have no
+     "Old Jack" with the "foot Cavalry to beat him in a long race, so we only had a fight with his
+     rear guard in which a portion of A.P. Hill's corps got the worst of it for a short time and the
+     enemy fled before we could join a general battle, so we could only turn around and come back as
+     our rations for man and beast had run out and there was absolutely nothing <orig reg="where"
+      >were</orig> we were but ruined houses and a waste and howling wilderness and no enemy to
+     fight except in the fortifications of Alexandria and Washington.</p>
+    <p> Stuart remained there several days subsisting his men on nothing and his horses on the
+     commons and had several fights with the Yankee Cavalry in most of which he got the better of
+     them: in fact all the glory of this movement, if there is any, belongs of the cavalry. They
+     fought elegantly, charging the enemy on all occasions and carrying everthing before them,
+     capturing hundreds of Yankees. Our infantry witnessed the charges of the cavalry and cheered
+     them on. As we came back we tore up and burnt the ties and bent the rails of the railroad back
+     to the Rappahannock, destroying it completely and we are now hauling away the rails of that
+     portion of the railway that is nearest to us.</p>
+    <p> The enemy pickets some 5 miles beyond the river and we <pb n="2"/> have a skirmish with them
+     every now and then but there is no prospect of a fight and we may spend the winter here for all
+     I know, judging from all appearances. We are at a deserted house and I have very comfortable
+     quarters in a large upper room with fireplace. This was an old place; a fine family mansion
+     well furnished, but when the Yanks were here last they broke up the furniture, tore up and
+     carried off the books, smashed the books and made a general desolation.</p>
+    <p> I suppose Allie may have written to you of Sterritt's health and his disinclination to marry
+     now. I hope he has gotten better and come to reason. If not I must believe he is insincere and
+     has trifled with the affections of one of the most loving and confident of her sex. If so shame
+     to him. I hope it may not prove so but have my fears and though Allie has pride enough to bear
+     up outwardly it will be a crushing blow to her spirits which she can illy endure in the present
+     state of her health. I hope to soon hear more of the matter and in the mean time hope and pray
+     for the best. </p>
+    <p> I saw McCue when I was home and spoke to him about the Hogsett matter. He said it was no
+     matter about it but did not tell me what wrote. I am thankful it is thus disposed of and I will
+     pay it up as soon as I can.</p>
+    <p> I was so unfortunate as to have my horse taken the night after I got back for camp and but
+     for the kindness of Mr. Harnsberger, one of my former pupils, I would be on foot. I hardly know
+     what to do with existing prices staring me in the face for I cannot save enough from current
+     expenses from self and family under the most rigid economy to buy another but some way will be
+     provided. As General Ewell says: "I will fall on my feet, fall as I may". <pb n="3"/></p>
+    <p> Can you find the potatoes for me. I shall come to see you when the prospects will admit of
+     it. My love to all. Write to me soon. May Heaven help you all. </p>
+
+    <closer>
+     <salute>Your <abbr expan="affectionate">aff.</abbr> brother,</salute>
+     <signed>Jed.</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

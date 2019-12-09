@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9627"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A9627">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title id="VShadow" type="main">Augusta: Jacob C. Armentrout to Kate Armentrout,
+                    April 22, 1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta jacob c armentrout to kate armentrout, april 22 1862</title>
+        <author>Armentrout, Jacob C.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Jaime Martinez</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A9627</idno>
+
+                <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+                <availability status="public">
+                    <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the
+                        University of Virginia</p>
+                    <p n="access">Publicly accessible</p>
+                </availability>
+                <date value="2002">2002</date>
+                <idno type="uva-pid">uva-lib:502789</idno>
+            </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: Jacob C. Armentrout to Kate Armentrout, April 22, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta jacob c armentrout to kate armentrout, april 22 1862</title>
+            <author>Jacob C. Armentrout</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William Brand Papers, Albert and
+                            Shirley Small Special Collections Library, University of Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Used with permission from Albert and Shirley Small Special Collections Library,
+                    University of Virginia, Charlottesville, Virginia</p>
+            </projectDesc>
+        </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1862-04-22">1862-04-22</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Desertion/Leave, Family, Military Authority, Troop Movement</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A9627T">
+        <front id="d2">
+            <div1 id="d3" type="summary">
+                <p>Jacob tells Kate about troop movements around Winchester and throughout the
+                    Valley, changes in the leadership of the 5th Virginia Regiment, and recent
+                    desertions. He also includes news about family members. The beginning of the
+                    letter is unclear.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 id="d5" type="letter">
+                <opener>
+
+                    <salute>Dear Sister,</salute>
+                </opener>
+
+                <p><del hand="h1" rend="none"/>we were on picket about two <del hand="h1"
+                        rend="none"/> in the <unclear>morning</unclear> we suppose the object of the
+                    picket was to stop <orig reg="stragglers">straglers</orig> for the tenth <abbr
+                        expan="Regiment">Regt.</abbr> came across upon the same road consequently
+                    the enemy could not leave unexpected. We left Rude's Hill the 11<hi rend="super"
+                        >th</hi> &amp; camped near the Spring. Abe, Hunter, John &amp; I
+                        <orig reg="stopped">stope</orig>
+                    <orig reg="all night">allnight</orig> at <orig reg="Aunt's">Ants</orig> She was
+                    very much distressed at the thought of the advance of the enemy the people in
+                    general were rioting about in the utmost confusion not knowing their personal
+                    fate if they stayed nor the fate of their property if they left. <orig
+                        reg="Uncle">Unkle</orig>
+                    <orig reg="Cyrus">Cirus</orig> sold some cattle in town &amp; on his return,
+                    he &amp; his three sons met the Brigade they had their horses &amp;
+                    equipments <pb n="2"/>expecting to join their company at Richmond they certainly
+                    had but little time to escape for the enemy's <orig reg="cavalry">calvery</orig>
+                    were at the Spring the next morning. Ashby killed several in Mr. Lincon's
+                    wheat-field it is <orig reg="said">sayed</orig> Cousin John &amp; Albert
+                    took dinner at home the next day. They say the enemy did not disturb any citizen
+                    but took several horses.</p>
+
+                <p>The Brigade was strongly <orig reg="averse">aversed</orig> to leaving the <del
+                        hand="h1">leaving</del> the valley out of the fifth <abbr expan="Regiment"
+                        >Reg.</abbr> about 170 men deserted. Three or Four of our company.</p>
+
+                <p>It is the general belief that we will return to the valley as we are being
+                    reinforced some here &amp; reported that troops are being transported to
+                    Staunton. Last night <abbr expan="Colonel">Co.</abbr> Hearmon <orig
+                        reg="brought">brot</orig> action to the <abbr expan="Regiment">Reg.</abbr>
+                    &amp; departed for home <abbr expan="Colonel">Co.</abbr> Baylor takes
+                    command being elected yesterday evening. <abbr expan="Captain">Cap.</abbr>
+                    <unclear>Hunk</unclear> of Winchester was elected <abbr expan="Lieutenant">Lieu</abbr>
+                    <abbr expan="Colonel">Col.</abbr> &amp; <abbr expan="Captain">Cap</abbr>
+                    Williams Major. <abbr expan="Lieutenant">Lieu</abbr> Rosse's time having expired
+                    he expects to return home in a few days says he will take <pb n="3"/>letters for
+                    the company. I went to tell cousin <abbr expan="George">Geo.</abbr> of the
+                    opportunity of sending a letter home but found he was on <orig reg="guard"
+                    >gard</orig> John Fauber <orig reg="told">tould</orig> me to tell Sue he is well
+                    &amp; would like to write home. It was rumored in camp that the enemy was in
+                    Staunton a <orig reg="few">fiew</orig> days ago but that was <orig reg="false"
+                        >falce</orig> for General Jackson from <orig reg="Alleghany">Alegany</orig>
+                    was at head quarters and reported that he was holding his position.</p>
+
+                <p>Mr <unclear>Glenn</unclear> &amp; Mr Shelly are well this morning &amp;
+                    appeared to be very well <orig reg="satisfied">sadisfied</orig>. I do not wish
+                    any thing at present &amp; not <orig reg="until">untill</orig> we are
+                    located for I have just as much as I can attend to, Uncle Cyrus buried another
+                    son lately his name I have forgotten. Mary is very poorly yet &amp; doubtful
+                    whether she will recover. Give my love to all I am very well contented &amp;
+                    think as little of home as possible. I have a <orig reg="vial">viol</orig> of
+                        <orig reg="powder">pouder</orig> I will try to send to Pa by <orig
+                        reg="Lieutenant">Lieu</orig>.</p>
+
+                <closer>
+                    <salute>I remain your affectionate brother,</salute>
+                    <signed>J.C. Armentrout</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

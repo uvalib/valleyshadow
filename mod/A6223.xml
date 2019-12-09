@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+
+<?dlps id="A6223"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A6223">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Susan Evans to David H. Evans,
+                    August 7, 1868</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county susan evans to david h evans, august 7 1868</title>
+        <author>Evans, Susan</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Andre Fleche</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Andre Fleche</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A6223</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502464</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Susan Evans to David H. Evans, August 7, 1868</title>
+            <title level="m"/>
+            <title type="sort">augusta county susan evans to david h evans, august 7 1868</title>
+            <author>Susan Evans</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Susan Evans to David H. Evans,
+                            August 7, 1868, Evans-Sibert Family Papers, Accession 27770, Virginia
+                            State Library and Archives, Richmond, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Virginia State Library and Archives, Richmond, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1868-08-07">1868-08-07</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Women, Family</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A6223T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Susan Evans writes to her son David Evans and discusses business, family news,
+                    and sending David some of his belongings.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1868-08-07">August 7th 1868</date>
+                        <name type="place">Winchester</name>
+                    </dateline>
+                    <salute>Dear Son</salute>
+                </opener>
+
+                <p>Your letter came duly to Hand. I was glad to <orig reg="hear">here</orig> You was
+                    all well in Staunton. this <orig reg="finds">find's</orig> us all the same in
+                    Winchester and doing as well as the times will permit.</p>
+
+                <p>"You I suppose have heard that Henry &amp; Edwar Have opened a Tobacco store
+                    in Town <orig reg="their">there</orig> Business I beleive is <orig reg="very"
+                        >Verry</orig> flattering they are doing Much better than they anticipated.</p>
+
+                <p>"<abbr expan="Samuel">Saml</abbr> is also driving a good trade at his Business.
+                    he has also opened for himself and is doing <orig reg="remarkably"
+                    >remarkabeley</orig> well! I Suppose Edward will be in "Staunton by the time
+                    this reaches You. He started for Richmond Via: Baltimore last week he will come
+                    back By the way of Staunton" and he can give you all news in town. I <orig
+                        reg="don't">dont</orig>
+                    <orig reg="believe">beleive</orig>
+                    <orig reg="anything">any thing</orig> has transpired worth noticing since his
+                    departure.</p>
+
+                <p>You Speak of <hi rend="underline">Hard</hi>
+                    <hi rend="underline">times</hi> the times in Winchester is dull <orig
+                        reg="comparatively">comparitively</orig> Speaking, but there is a tremendous
+                    business done here considering the times it looks more like a <orig reg="city">
+                        <hi rend="underline">citty</hi>
+                    </orig> Now than it Ever did</p>
+
+                <p>"Little Staunton" Now will Have to stand back! You Ought to try and make it suit
+                    to pay us a visit and take a look for <orig reg="yourself">Your Self</orig>. You
+                    would not <orig reg="recognize">reconize</orig> a Portion of the Town all the
+                    Store Houses has been neatly repaired and all occupied and full of goods they
+                    Present a pleasant and business like appearance! Winchester I suppose has <orig
+                        reg="picked">pict</orig> up more since the war than <orig reg="any"
+                    >anney</orig> other Town In the Valley.</p>
+
+                <pb n="2"/>
+                <p>You ask me to send you your Trunk and shirts you left behind you. I will send
+                    your Trunk the first <orig reg="opportunity">oppertunity</orig> but your shirts
+                    I <orig reg="cannot">can not</orig> send as they are now in other Hands. William
+                    has Come Home and all his clothes has been worn out and He now has not a Shirt
+                    to wear of his own and he thinks no more than right that he Should take these
+                    that is here. So You need not wait for them. You will have to buy more and Send
+                    others down and I will make them for you. I am sorry that I have to disappoint
+                    You but you Know I <orig reg="can't">cant</orig> control them now as he (Wm)
+                    says he will take them for his own use! You say John talks of a going to
+                    Richmond this winter. Henry &amp; Edward talks of going this fall. Edward
+                    can tell you More about it when you see him in Staunton</p>
+
+                <p>We Expect <hi rend="underline">Tif</hi> down in a few weeks from <orig
+                        reg="Moorefield">Moorefild</orig> She will come to live <abbr expan="Samuel"
+                        >Saml</abbr> is talking about selling out in "Moorefield" and settle <orig
+                        reg="permanently">permantly</orig> in Winchester. You must write soon again.
+                    All is well I had had been <orig reg="very">verry</orig> sick but am well again.
+                    My Love to all in Staunton.</p>
+                <closer>
+                    <salute>I Remain Your Mother</salute>
+                    <signed>Susan Evans</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

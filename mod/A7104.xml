@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+
+<?dlps id="A7104"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A7104"> 
+<teiHeader type="migrated"> 
+
+    <fileDesc> 
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: John Scott to Samuel Hunt, January 2, 1866</title>
+        <title type="sort">augusta county john scott to samuel hunt, january 2 1866</title>
+        <author>John Scott</author>
+        <editor/>
+        <respStmt> 
+          <resp>Creation of machine-readable version: </resp> 
+          <name>Bart Elmore</name> 
+          <resp>Conversion to TEI.2-conformant markup:</resp> 
+          <name>Bart Elmore</name> 
+        </respStmt>
+      </titleStmt> 
+
+      <extent>ca. 8.172 kilobytes </extent> 
+      <publicationStmt> 
+        <publisher>Virginia Center for Digital History</publisher> 
+        <pubPlace>Charlottesville, Virginia </pubPlace> 
+
+        <idno type="VCDH">A7104</idno> 
+
+        <!--
+<availability> 
+<p>Publicly accessible </p> 
+<p n="public">URL: http://valley.vcdh.virginia.edu/</p> 
+<p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the University of Virginia</p> 
+</availability>
+--> 
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date> 
+        <idno type="uva-pid">uva-lib:500220</idno>
+      </publicationStmt> 
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt> 
+
+      <sourceDesc> 
+        <biblFull> 
+          <titleStmt>
+            <title>Augusta County: John Scott to Samuel Hunt, January 2, 1866</title>
+            <title level="m"/>
+            <title type="sort">augusta county john scott to samuel hunt, january 2 1866</title>
+            <author>John Scott</author>
+          </titleStmt> 
+          <editionStmt>
+            <p/>
+          </editionStmt> 
+          <extent>4 pages</extent> 
+          <publicationStmt> 
+            <idno type="callNo">Source copy consulted: John Scott to Samuel Hunt, January 2, 1866, American Missionary Association Archives Collection, Microfilm 72, Alderman Library, University of Virginia, Charlottesville</idno>
+          </publicationStmt> 
+ 
+        </biblFull> 
+      </sourceDesc> 
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Alderman Library, University of Virginia</p>
+      </projectDesc>
+    </encodingDesc> 
+
+    <profileDesc> 
+      <creation>
+        <date value="1866-01-02">1866-01-02</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage> 
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass> 
+        <keywords> 
+          <term>African Americans, Education</term> 
+          <term>American Civil War</term>
+        </keywords> 
+      </textClass> 
+    </profileDesc> 
+
+
+    <revisionDesc>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+  </teiHeader> 
+
+<text id="A7104T">
+<front id="d2">
+<div1 type="summary" id="d3">
+<p>Scott provides a summary report concerning the teachers in Staunton.  He talks about their qualifications and what they have been able to accomplish in Staunton.  He attacks C. E. Dewey for being too abrasive with local whites.  He states that Dewey told one Southerner, "You are worms under our feet."</p> 
+</div1> 
+
+</front> 
+
+<body id="d4">
+<div1 type="letter" id="d5">
+<head>
+<name type="recipient">Rev S Hunt</name> 
+<name type="place">Staunton</name> 
+</head>
+
+<opener>
+<dateline>
+    <date value="1866-01-02">Jan 2/66</date> 
+</dateline> 
+<salute></salute> 
+</opener> 
+
+<p>In your blanks for Supt's you say that you expect those who act as such to, speak frankly concerning the <del hand="h1">efficiently</del> qualifications of teachers under their charge  I therefore deem it proper both to make some statements and some inquiries.</p>
+		<p>When our school was organized there were 4 of us teachers in the day school and 5 in the night, (the matron the 5<hi rend="super">th</hi>) and all in one building.  Harmony of plan and action was necessary  And the teachers called on me to act as Supt.  And though I had no commission from you to that effect, except a single remark that "you placed these ladies under my care" as we left New York, yet being the only gentleman teacher, and finding that I had had more experience than the rest I felt it a duty to accept; especially as Mr Coan favored the arrangement.  The teachers were, and are now glad, to receive my suggestions, with (I am sorry to say) the exception of one (Miss Dewey).  And in our councils we respect the opinion of each other and move in harmony mostly</p><pb n="2"/>
+	<p>Mrs Dunn is an admirable teacher, <hi rend="underline">a very rapid workman</hi>, and a <hi rend="underline">good disciplinarian</hi>, and excellent <hi rend="underline">musician</hi>.  Miss Williams is not as good in governing but is very kind and <hi rend="underline">can communicate well</hi>.  She is better counsel in regard to <hi rend="underline">measures</hi> (<hi rend="underline">outside of the school</hi>) for the general improvement of the freedmen, than she is teacher, but she is efficient at that, and very industrious in her labors.  Mrs Tukey the matron of our Mission House is very useful in the night school.</p>
+	<p>Miss Dewey keeps quite a good school, but evidently has had but little experience, and I think lacks in consideration of the bearing of this or that measure upon different classes--or in a careful study of <hi rend="underline">the way things are working</hi>.  She therefore opposes many measures very needful for the good of the school.  She opposed the change of classes from one room to another necessary for the grading of the school, both night and day,  She also felt unwilling to exchange rooms so as to let the largest school into the largest room.  And when Miss Dunn returned from Lexington tried without my knowledge at the time to keep her from retaking her own school, and had been quite dictatorial in her bearing in many respects remarking that "I have always had my own way and always mean to"  Mr. Tukey suggested that I speak to Mr Coan about it and ask if he intended me as Supt here--I did so, and was advised to act as such<pb n="3"/> by all means, and upon hearing the state of the case (as he had previously heard it from Mr Tukey I presume) he advised me to remain although he had that morning ordered me up to Lexington to se how that school was working under Mr Johnstone and McLean,  And I expected to spend Christmas week there, as their school did not stop.  After informing Miss Dewey that under Mr Tukeys advice I had spoken to Mr Coan, and telling her the result of the conversation, she agreed to conform to my wishes, in every thing pertaining to school matters and has indeed reformed.  But if you wish me to carry out Mr Coans suggestions and act as Local Supt, if you would write me that fact, and also inform Miss Dewey of the same, without bringing to her knowledge anything of these statements, I have no doubt but that you would much help me and the work, and save me and the other teachers some unnecessary words, as they are generally ready to coincide with me, in explaining to Miss Dewey the propriety of any proposed measure.  She is unnecessarily strong in her denunciations of Rebels "Not wishing to meet them in heaven" "Nor that any of the South who had anything to do with the War should<pb n="4"/> be saved."  And while we were on board the Steamer Albermarle, on our way here she used such severe terms as to attract the attention of Southern men on the Steamer and would have hightened prejudice against us very much had we been going to stay in Richmond where these people were to stop</p>
+
+<p>She told a gentleman who came here the other day that "You are worms under our feet"
+</p>
+
+<p>My opinion is that we should be more successful by gentlemanly treatment than by that which borders upon incivility, and perhaps a remark addressed to Miss Dewey from you would not do harm on the subject and might do good
+</p>
+
+<p>Please answer soon although there is nothing demanding any immediate or severe action, indeed I think we shall not have much more trouble.
+</p>
+<closer>
+<salute>Respectfully yours</salute> 
+<signed>John Scott</signed> 
+
+
+</closer> 
+</div1> 
+</body> 
+</text> 
+</TEI.2>

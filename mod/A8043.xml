@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+
+<?dlps id="A8043"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]> 
+
+
+<TEI.2 id="A8043">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: J. M. McCue to Howard McCue, January
+                    5, 1859</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county j m mccue to howard mccue, january 5 1859</title>
+        <author>McCue, John M.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Andrew J. Torget</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A8043</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502694</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: J. M. McCue to Howard McCue, January 5, 1859</title>
+            <title level="m"/>
+            <title type="sort">augusta county j m mccue to howard mccue, january 5 1859</title>
+            <author>J. M. McCue</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: J. M. McCue to Howard McCue, 5
+                            January 1859, Papers of the McCue Family, 1777-1920, Accession #4406,
+                            Box 3, Special Collections Department, University of Virginia Library,
+                            Charlottesville, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1859-01-05">1859-01-05</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Family, Arts/Leisure, Agriculture, Economy, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A8043T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>McCue sends list of books to be purchased, relates family news, and discusses his
+                    finances.</p>
+            </div1>
+
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>McCue, J. M.<lb/><hi rend="underline">1859</hi><lb/><hi rend="underline"
+                        >Warwick Books</hi>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1859-01-05">Jan 5. /59</date>
+                        <name type="place">Home</name>
+                    </dateline>
+                    <salute>Dear Howard</salute>
+                </opener>
+
+                <p>Yours containing a catalogue of Warwick <abbr expan="Library">Lib.</abbr> I found
+                    a day or two since on my table, after returning from a jaunt--This
+                    <unclear>beig</unclear> the first <unclear>liegins</unclear> I have had, with
+                    Mr. <unclear>Pinkertons</unclear> assistance, we estimated the value of each
+                    book, as well as we could--making the aggregate near $300. and I have selected
+                    the following books, which if agreeable to yourself &amp; our young friends
+                    the <unclear>Messrs</unclear> Wills--I would like to take--and you &amp;
+                        <del rend="none" hand="h1"/> think after making your own figures the worth of mine <hi
+                        rend="underline">too much</hi>, I will pay you $10. over &amp; above
+                    $25--the 4h. of <unclear>promise</unclear> cost.</p>
+
+                <p>Youatt &amp; Martin on Cattle 1 Youatt on the horse 1<pb n="2"/> A genteel
+                    edition of a Bible--Testament &amp; prayer book--(as he had a larger number)
+                    Farmer &amp; Grazier Guide 1 Miscellaneous Pamphlets 5 vols Wm. Partington'
+                    saying 1 Nat. Hist. of <unclear>Enthusians</unclear>1 Confessions of an <abbr
+                        expan="English">Eng.</abbr> Opium Eater 1 Christian Hearer 1 Woman &amp;
+                    her Master 1 Cummins on the Apocalypse 1 Edwards on <del hand="h1">the</del>
+                    Affections 1 Works of Cotton Mather 1 Horns Introduction 1 Mission of the
+                    Comforter 1 Rees Encyclopedia <hi rend="underline">41</hi> 59 vols </p>
+
+                <p>If the above proposition is deemed reasonable on your part &amp; acceded to
+                    please <orig reg="have">hav</orig> the above <abbr expan="volumes">vols.</abbr>
+                    carefully put up in a box--labelled in such way as to prevent their <hi
+                        rend="underline">getting lost</hi> &amp; sent either direct to Wm.
+                        McCue<pb n="3"/>at Afton or via Richmond. if you think that safer &amp;
+                    more prompt &amp; pay the cost &amp; I will refund to you--or if you
+                    deem me unreasonable--make your proposition.</p>
+                <p>I got home from Staunton this <orig reg="evening">evng.</orig>--Geo. E. Daniels'
+                    trial will close this <abbr expan="evening">evg</abbr>--&amp;
+                        <unclear>Travis</unclear>
+                    <unclear>Mosyter</unclear>
+                    <unclear>he</unclear> would be acquitted--You will see the report of it in the
+                    papers--</p>
+                <p>Nothing new about town--Ma <abbr expan="received">recd.</abbr> a letter
+                        <unclear>from</unclear> your father today inviting us all to D. S. Bell'
+                    &amp; Lizzie' marriage on the 26'. One of the <unclear>loonday</unclear> you
+                    will suppose--doubtless--as most of us do--Presume David will get <hi
+                        rend="underline">the road</hi>.</p>
+                <p><abbr expan="William">Wm.</abbr> Cochran (Big Bill) is married this or to-morrow
+                        <abbr expan="evening">ev'g</abbr>--to Maj. Cameron &amp; gets besides
+                    getting <hi rend="underline">into her</hi> affections, into a snug fortune
+                    &amp;c</p>
+                <p>Ma has been somewhat complaining of neurologia..&amp; some symptoms of
+                        pleu<pb n="4"/>risy--Rest of our family are well. Anna Barry is at <abbr
+                        expan="cousin">Cz.</abbr>
+                    <unclear>Janis</unclear>, this <abbr expan="evening">ev'g</abbr> with Bettie
+                    &amp; <unclear>Mat.</unclear> Cranford--Mary <unclear>Tyrer</unclear>
+                    <unclear>Mat</unclear> Bill &amp; Sally Reid &amp; Lizzie
+                        <unclear>Vanlers</unclear> and enjoying themselves of course.</p>
+                <p>I have been little at home, since I saw you--Engaged pretty largely in cattle
+                    operations. Was at Gen Gordons sale next week after I saw you.</p>
+                <p>I have <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> much to do and tired &amp; so sleepy as hardly all to hold
+                    my eyes open--So <del rend="none" hand="h1"/> excuse illegibility--</p>
+                <p>Rest of family all asleep--Ma and she know it--would send much love to you
+                    &amp; <abbr expan="Cousin">Coz.</abbr> Liz &amp; family--</p>
+                <p>Please send me some good tobacco seed of white Stem, in a letter soon &amp;
+                    the next best variety that will ripen easily here--</p>
+                <p>Let me hear from you soon--my love to <abbr expan="Cousin">Coz.</abbr> Liz
+                    &amp; <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> to Mrs. Wills &amp; family</p>
+
+                <closer>
+                    <salute>Your <abbr expan="affectionate">affec.</abbr> relation</salute>
+                    <signed>
+                        <hi rend="underline">J. M. McCue</hi>
+                    </signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

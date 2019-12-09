@@ -1,0 +1,328 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2955"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A2955">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: Amanda C. Armentrout to William F. Brand,
+                    July 29, 1866</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta amanda c armentrout to william f brand, july 29 1866</title>
+        <author>Armentrout, Amanda C.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Elizabeth Ladner</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">15</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A2955</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502125</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: Amanda C. Armentrout to William F. Brand, July 29, 1866</title>
+            <title level="m"/>
+            <title type="sort">augusta amanda c armentrout to william f brand, july 29 1866</title>
+            <author>Amanda C. Armentrout</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William F. Brand Papers</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1866-07-29">1866-07-29</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Home Front, Church/Religious Activity, Family</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A2955T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Kate, blaming herself for their estrangement, apologizes to Willie and pleads
+                    with him to forgive her and find his way back to God.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1866-07-29">July 29th 66</date>
+                        <name type="place">Rose Dale</name>
+                    </dateline>
+                    <salute>My dear friend</salute>
+                </opener>
+
+                <p>This is a beautiful <orig reg="Sabbath">Sabbeth</orig> morn &amp; all nature
+                    seems to be sending up its praises to the great &amp; good God yes I say
+                        <add hand="h1" place="inline">good</add> (good when he gives supremely good
+                    nor less when he <orig reg="denies">dinies</orig>) &amp; it is Him who
+                    deserves the <orig reg="praise">prais</orig> for he does all things well. Willie
+                    I was not well this morning nor have not been for a week &amp; could not go
+                    to church so I thought I would respond to your dear <orig reg="missive"
+                    >messive</orig> that I <abbr expan="received">Recd</abbr> last Thursday Oh you
+                    know not how I felt when I got it I feared to open it my hand trembled when I
+                    grasped it &amp; saw it was from you; but you will say what caused the fear
+                    now do not <orig reg="censure">centure</orig> me for my weakness, I feared it
+                    would be cold &amp; <orig reg="indifferent">indiferent</orig> &amp;
+                    perhaps bid me <orig reg="never">neve</orig> to <orig reg="write">right</orig>
+                    again but when I saw dear Kate it <orig reg="cheered">cheared</orig> me up yes I
+                        <orig reg="felt">filt</orig> strong again &amp; thought perhaps <orig
+                        reg="there">ther</orig> were some hope &amp; now I am replying with you
+                    last request (<hi rend="underline">write soon</hi>) yes I will try &amp;
+                    comply with <orig reg="every">evry</orig> request that you make though I have
+                    been denied of <orig reg="every">evry</orig> one I have made. I will try
+                    &amp; return good for <orig reg="evil">evel</orig>, I am resigned to my
+                    fate. <pb n="2"/>but I must hasten to respond to your dear sweet letter. you say
+                    mine caused your sensitive nature to mourn over the past my dear friend I am
+                    sorry that I caused you to <orig reg="mourn">morn</orig> over the past for it is
+                    wicked for me to mourn over it let alone being the cause of another one to be
+                    sad forgive me for making you thus. God in his goodness has some wise <orig
+                        reg="device">devise</orig> for doing this so I am willing to <orig
+                        reg="bear">bare</orig> though the <orig reg="chastening">chastning</orig>
+                    rod has been <orig reg="severe">sever</orig> it has brought me nearer <hi
+                        rend="underline">him</hi> &amp; <orig reg="made">maid</orig> a better
+                    girl of me &amp; I hope ere long dear brother that you will <orig
+                        reg="exclaim">exclame</orig> God is good &amp; does all things well.
+                    Willie you wish a <orig reg="release">relies</orig> you have loved me I do not
+                    doubt that but your affections have changed &amp; you soon wish to be free
+                    again &amp; can I hold thy pure &amp; noble heart bind it to me that is
+                    so impure as mine for I have been the cause of you being unhappy &amp; I
+                    know not but what I am the cause of you <orig reg="losing">loosing</orig> your
+                    religion though I hope not so Willie I am not worthy of you. I love you
+                    &amp; can not help it but Willie I will never harm you love works no ill to
+                    any one I never expect to love another nor do not wish to no could I trust
+                    another could I ask my dear Father to <orig reg="change">chang</orig> that which
+                    I asked him to do but with in my <orig reg="bossom">bosom</orig> no never, but
+                    can I claim you when you are <orig reg="changed">chainged</orig>; Oh my Heavenly
+                    Father forbid no no Willie I care not what may be my fate I can not hold thee to
+                    me if you do not wish it nor can I spurn you no Willie I blame myself in part
+                    for it yes the letter that I wrote last winter just after Christmas I blame for
+                    it yes dear Willie I will take half of the blame or all of it if it will make
+                    you happy for I have bore the blame &amp; <orig reg="censure">centure</orig>
+                    of the people for it &amp; swore then it yes Willie I have bore the burden
+                    in the heat of the day I caused &amp; cast it all <orig reg="upon"
+                    >uppon</orig> thee now but will <orig reg="bear">bare</orig> half of it with
+                    you. I will tell you some things that has (come) been said to me Kate you look
+                    sad you kicked Billie thinking you could do better &amp; I dont <orig
+                        reg="pity">pitty</orig> you one bit what could I say I <orig reg="denied"
+                        >dened</orig> the charge but it is <orig reg="generally">generly</orig>
+                    believed that I did kick you yes I am blamed with your drinking which I <orig
+                        reg="never">neve</orig> did believe you did though you thought I did no
+                    Willie I could not believe it I would see you laying dead drunk in the mud I
+                    would (not) think it was not you there oh you said the next to the last time you
+                    were down <orig reg="here">her</orig> if I ever kicked you that you would get to
+                    drinking but Willie here is the hardest thing I had to endure that I had kicked
+                    you &amp; you got to drinking on the account of it &amp; that now I had
+                    lost my mind on the account of it Oh Willie is it not a <pb n="3"/>wonder that I
+                    have not lost my mind as be <orig reg="blamed">blaimed</orig> with so much that
+                    I hope I am <orig reg="innocent">inosent</orig> of &amp; yet I <orig
+                        reg="believe">bilieve</orig> it is all for my own good "all work together
+                    for good to those that love God yes dear Willie God in all his ways is just
+                    &amp; merciful &amp; if we <orig reg="really">rely</orig> trust him
+                    though we pass through fire it will not harm us.</p>
+
+                <p>Willie do not think that I wrote this to make you sad no no dear one I would do
+                    anything in my power to make you happy; you say you would like to see me why do
+                    you think then it is best for us not to meet; I <orig reg="sort of"
+                    >sorter</orig> believe you are a <orig reg="little">lettle</orig> contrary ha ha
+                    &amp; what do you think of that no Willie but why is it do you think I can
+                    not <orig reg="bear">bare</orig> to meet you I have taught or rather God has
+                    taught me to <orig reg="bear">bare</orig> much I think I could meet you as
+                    cheerful as ever I met you in my life. you say my cup has been bitter it has
+                    been bitter Oh far worse than you have any <orig reg="idea">idie</orig> of but
+                    dear Willie there was some sweets with it at times; you say blame you with it
+                    not all dear one can I blame you no no you could not help it for I think that
+                    the wicked one has done it not your good heart dictated but you were not happy
+                    &amp; he wished to claim you for one of his <orig reg="servants"
+                    >servents</orig> &amp; persuaded you that you did not love me yes Willie he
+                    knew that I was trying to win you back to God &amp; that he would get you to
+                    dismiss me at once but my dear Father ordered other wise he bid me noy to give
+                    thee up Willie dear I believe he has directed me how to <orig reg="write"
+                    >wright</orig> every letter that I have written to you since you were here
+                    &amp; Oh I pray that my dear <orig reg="Savior">Savier</orig> may make them
+                    the instrument of bringing you back to God Oh dear one you say you are willing
+                    to bear my malice if it but make me happpy my malice Willie no Malice if I have
+                    any in my heart I pray to my dear <orig reg="Savior">Savier</orig> (to) to pluck
+                    it out Willie come to see me &amp; I will tell you what will make me happy
+                    Willie I will treat you as a fond sister would a brother <orig reg="mistreat"
+                        >misstreat</orig> you no never &amp; as for the rest of the family <orig
+                        reg="mistreating">misstreating</orig> you there are no danger of that I
+                        <orig reg="don't">dont</orig> think none but Susie knows how you have
+                    treated me I think that she <orig reg="pitied">pittied</orig> you now as for Pa
+                    &amp; Ma Willie I do not think they will ever <orig reg="mistreat"
+                    >misstreat</orig> you for they see my perfect <orig reg="indifference"
+                        >indifferents</orig> to every other man so Willie I <orig reg="don't"
+                    >dont</orig> think you need to fear at all S was not at the Barbecue nor none of
+                    our family nor I do not regret that I was not there I think Willie there is more
+                        <pb n="4"/>harm done at such places than good they had a <orig reg="picnic"
+                        >picknick</orig> at Mint Spring &amp; danced in the church Oh that these
+                    dances were turned to prayer <orig reg="meetings">metings</orig> how much sooner
+                    could we expect the blessings of God <orig reg="upon">uppon</orig> our country.
+                    Willie All have <orig reg="gone">gon</orig> to <orig reg="Sabbath"
+                    >Sabbeth</orig> school this eve but Pa Ma &amp; myself &amp; I feel very
+                    lonely Alone yes Alone shall it always be thus Oh my Father forsaken &amp;
+                        <orig reg="forgotten">forgoten</orig> no one to care for me how long Oh how
+                    long but enough thy will <add hand="h1" place="inline">be done</add> The health
+                    of the neighborhood is very good &amp; our family is all well with the <orig
+                        reg="exception">excep</orig> of myself I have not been ill but am not well
+                    though I hope it is nothing serious I <orig reg="have been">been</orig> taking
+                        <orig reg="medicine">medisson</orig> but it has had but <orig reg="little"
+                        >lettle</orig>
+                    <orig reg="effect">affect</orig> I <orig reg="hope">hopefly</orig> I will be
+                    well by next <orig reg="Sabbath">Sabbeth</orig> (I will) be well as there are
+                    camp <orig reg="meeting">metning</orig> at <orig reg="Bethel">Bethle</orig>
+                    &amp; I want to go Willie do come down &amp; go with me Sis Lizzie
+                    &amp; both Jimmie are going to be taken in on <orig reg="certificate"
+                        >sertificate</orig> do come brother &amp; commune with (me) us come
+                    &amp; stay down a week &amp; go to the pines with
+                    <unclear>Aleberryine</unclear> we are expecting a nice dance there is talk of a
+                    crowd going Tuesday a week I expect we will join the crowd if it goes Willie
+                        <orig reg="don't">dont</orig> deny me this time but do come. I suppose you
+                    heard that Frank McFarland was <orig reg="buried">burried</orig> last Monday.
+                    Dear Willie I have some very bad news to relate to you cousin Bell Rubush has
+                    lost her mind Oh Willie is it not sad indeed to think such a good woman should
+                    be afflicted thus I <orig reg="pity">pitty</orig> her so much we know not what
+                    one day may bring forth yes we we may sink beneath the <unclear>rod</unclear>
+                    Willie my dear dear brother ought we not then to strive more &amp; more
+                        <orig reg="every">evry</orig> day to meet our God than to spurn his
+                    pleadings who are so indifferent to our dear <orig reg="Savior's">Saviers</orig>
+                    pleadings has he not said no to is the accepted time brother I am try<add
+                        hand="h1" place="inline">ing</add> to make my bible my companion <add
+                        hand="h1" place="inline">and guardian</add> through life as I have nothing
+                    to care for in this world but why have I nothing to care for does not Willie
+                    call me dear Kate once more &amp; will he not return I can only hope. Oh
+                    Willie I have <orig reg="never">neve</orig> told you about my little pet Ida
+                    Lizzie little babe she is the sweetest little thing that I ever saw Sis brings
+                    her up <orig reg="every">evry</orig>
+                    <orig reg="Sunday">sunday</orig> did not come today I do not know why will be
+                    here next if nothing happens she leaves her here when she goes to church I know
+                    you will love her Willie do come down next Saturday evening you can get some one
+                    to stay in the mill that long I will look for you <orig reg="don't">dont</orig>
+                    let me be disappointed where ever there is a will there is a way but enough Well
+                    I must close this disinteresting note now Willie let nothing in this hurt your
+                    feelings or cause you to be sad but be cheerful &amp; happy &amp; come
+                    to see me &amp; you will find me a true sister please excuse all
+                    imperfections. Willie if it is impolitic for you to come write soon but I want
+                    to see you your own dear self</p>
+
+                <closer>
+                    <salute>your ever true &amp; fond friend</salute>
+                    <signed>Midie</signed>
+                    <seg type="postscript">Willie read the 7 Chap from the 8<hi rend="super">th</hi>
+                        to the 12<hi rend="super">th</hi> verses &amp; the 6<hi rend="super"
+                        >th</hi> of Second Corinthians <orig reg="they">the</orig> express my
+                        sentiments to thee my eyes are getting very weak or I would write more but
+                            <unclear>tears at</unclear> I will worry you with this <orig reg="yours"
+                            >your</orig> as ever Midie</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2520"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A2520">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Jedediah Hotchkiss to Sara A. Hotchkiss, March
+     25, 1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county jedediah hotchkiss to sara a hotchkiss, march 25 1862</title>
+        <author>Hotchkiss, Jedediah</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Rider</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Rider</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A2520</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:502009</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Jedediah Hotchkiss to Sara A. Hotchkiss, March 25, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta county jedediah hotchkiss to sara a hotchkiss, march 25 1862</title>
+            <author>Jedediah Hotchkiss</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>2 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Jedediah Hotchkiss Collection, Reel 4, Manuscripts
+       Division, Library of Congress, Washington, D.C.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Congress, Washington, D. C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1862-03-25">1862-03-25</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Family, Troop Movement, Battle Description, Death/Casualties, Military Authority</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A2520T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Hotchkiss reacts to the news of his children's illness, and recounts the results of a recent
+     battle.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Sara A. Hotchkiss</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1862-03-25">Tuesday March 25<hi rend="super">th</hi> 1862</date>
+      <name type="place">Near Woodstock Shenandoah Co. Va. Camp Narrow Passage</name>
+     </dateline>
+     <salute>My afflicted wife --</salute>
+    </opener>
+
+    <p>I read with streaming eyes by the camp fire, where we stopped after a long advance &amp;
+     a weary &amp; rapid retreat, your two letters, both mailed the 21<hi rend="super">st</hi>,
+     &amp; the first news I have <abbr expan="received">recd</abbr> from home -- sad, sad, may
+     God forgive me for the sorrows of last night &amp; may he in mercy have spared my child --
+     but I am now resigned -- May you be supported in your extreme sorrow -- I would that I could be
+     with you, but it is forbidden me -- &amp; it is now too late to reach you before the crisis
+     has passed -- I wait in painful solicitude the further news --</p>
+    <p>We had a bloody battle on Sunday resulting disastrously to our arms, though our retreat was
+     conducted in good order -- &amp; our front only fell back a few miles -- Jackson was
+     deceived as to the number of the enemy when he started after them &amp; they came on him
+     with overwhelming numbers -- the 5<hi rend="super">th</hi> Va. stood the shock of battle
+     &amp; <orig reg="stopped">stooped</orig> the advance of the foe -- we lost some 40 killed
+     &amp; some 300 wounded -- the enemy refused to let us bury our dead or bring away our
+     wounded -- saying they neither asked or gave quarter -- we met ambulances all day yesterday
+     with wounded men, wounds of all kinds in them -- Col. Echols was one it was a sad sight for us
+     to thus meet them but we went on until we met Jackson &amp; were ordered to retreat. <pb
+      n="2"/> We are now some 10 miles from the enemy &amp; about 60 miles from Staunton -- I
+     will write again tonight -- &amp; hope to hear more today -- May God bless our neighbors
+     for their kindness to you &amp; sustain you under the burden of sorrow falling upon us --
+     None of the W. Augusta Guards were killed some were wounded -- write to me to Mt. Jackson to be
+     sent on if the Augusta <orig reg="Battalion">Battallion</orig> of Va M. is ahead of these</p>
+    <p> May God be with you</p>
+    <p> My love to all -- kisses for my children if any are spared to me -- &amp; God be praised
+     that they have been dedicated to him -- </p>
+
+    <closer>
+     <salute>Your <abbr expan="Affectionate">Aff</abbr> husband,</salute>
+     <signed>Jed. Hotchkiss</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

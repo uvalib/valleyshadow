@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+
+<?dlps id="A0301"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="A0301">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Stephen D. Ramseur to J. H. S. Funk,
+                    May 22, 1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county stephen d ramseur to j h s funk, may 22 1863</title>
+        <author>Ramseur, Stephen D.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Sarah Richardson</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">9</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A0301</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501809</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Stephen D. Ramseur to J. H. S. Funk, May 22, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta county stephen d ramseur to j h s funk, may 22 1863</title>
+            <author>Stephen D. Ramseur</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: S. D. Ramseur #136, North
+                            Carolina State Archives, Raleigh, North Carolina</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from North Carolina Office of Archives and History, Raleigh, North Carolina</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1863-05-22">1863-05-22</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Battle Description, Military Authority, Military Strategy,
+                        Desertion/Leave, Patriotism</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2002-11">November 2002</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A0301T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Ramseur responds to Funk's letter, and describes his version of events during the
+                    battle in Chancellorsville.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Col J H S Funk</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1863-05-22">May 22<hi rend="super">nd</hi> 1863</date>
+                        <name type="place">Hd Qrs Ramseur's Brigade</name>
+                    </dateline>
+                    <salute>Sir</salute>
+                </opener>
+
+                <p>Your letter of the 9th May was <abbr expan="received">rec'd</abbr> last night. I
+                    hasten to reply.</p>
+
+                <p>First let me express great satisfaction your Statement of facts affords me. I was
+                    slow in believing that the veterans once commanded by our beloved and the
+                    departed Hero, the Immortal Jackson, could or would ever falter in the discharge
+                    of their duty. </p>
+
+                <p>I will briefly state the the occurrences of Sunday May 3<hi rend="super">rd</hi>
+                    in order that you may understand <hi rend="underline">why</hi> I reported to
+                        <abbr expan="Major General">Maj. Gen.</abbr> R.E. <unclear>Rodes</unclear>
+                    that I had passed over <unclear>Jones'</unclear>
+                    <abbr expan="Brigade">Brig</abbr> and a <hi rend="underline">part</hi> of <abbr
+                        expan="General">Genl</abbr> Paxton's. Having been in the advance Friday and
+                        <abbr expan="Saturday">Sat.</abbr> our Division was placed in the 3<hi
+                        rend="super">rd</hi> line on Sunday. Soon I was ordered to advance to the
+                    support of our 2nd line. Arriving at the enemy's first line of breast works at a
+                        <unclear>dary</unclear>
+                    <del rend="none" hand="h1"/>
+                    <unclear>crisis</unclear>. I found behind this line a large body of troops 3
+                        <del rend="none" hand="h1"/> sometimes 6 deep. I immediately halted my <abbr
+                        expan="Brigade">Brig.</abbr> &amp; told these troops the order was to
+                    advance. Directed them to move forward, that I would support them. Not a man
+                    moved. I then <orig reg="inquired">enquired</orig> what troops were there.
+                    Several men answered "I belong to the Stonewall <abbr expan="Brigade"
+                    >Brig</abbr>" I asked for <abbr expan="General">Genl</abbr> Paxton, whom I knew
+                    as a brave man and true. They could not tell me where he was but stated he had
+                    moved to the Right. I then moved on to the right, asked again about 75 or 100
+                        <abbr expan="yards">yds</abbr> from the men I had just questioned. As above,
+                    what troops they were lying in my front. I was answered "We belong to the
+                    Stonewall <abbr expan="Brigade">Brig</abbr>" I hastened on to the right. About
+                    fifty <abbr expan="yards">yds</abbr> further to the right <pb n="2"/>when I
+                    found an Officer in Majors uniform. In answer to my questions he told me that he
+                    belonged to Jones <abbr expan="Brigade">Brig.</abbr> that <abbr expan="General"
+                        >Gen'l</abbr> Jones was not there and that <abbr expan="Colonel">Col.</abbr>
+                    <unclear>Garnett</unclear>
+                    <abbr expan="Commander">Comd.</abbr> of the <abbr expan="Brigade">Brig</abbr>
+                    had been killed. The troops on his right were those of Jones' <abbr
+                        expan="Brigade">Brig</abbr>. These troops I urged to go forward. They did
+                    not move. The crisis was <del rend="none" hand="h1"/>. A general advance of the whole line I
+                    knew had been ordered. Therefore I ordered my <abbr expan="Brigade">Brig</abbr>
+                    forward over those of <abbr expan="General">Genl</abbr> Jones' and <add
+                        hand="h1" place="inline">over those who told me that they were of the
+                        Stonewall <abbr expan="Brigade">Brig</abbr>.</add> and my officers &amp;
+                    men have been under the impression that they ran over Paxton and Jones Brigades.
+                    I am happy to correct an impression which does injustice to the Brigade called
+                    after the Immortal "Stonewall", which I will do most cheerfully by having your
+                    letter published to <unclear>the very</unclear> troops at Dress Parade.</p>
+
+                <p>The number of men who said they belonged to the Stonewall <abbr expan="Brigade"
+                        >Brig</abbr> I do not know. I take it they were rather lost from their <abbr
+                        expan="regiments">regts.</abbr> &amp; were skulkers or were other than
+                    they represented themselves to be.</p>
+
+                <p>I have sent to all that I have always deprecated all miserable jealousies between
+                    troops from Sister States <unclear>contending</unclear> for a common and
+                    glorious cause and this matter has been spoken of by me with caution and regret.
+                    In order to explain any terrible loss more than 1/2 of the force carried into
+                    action I conceived it to be my duty to report to <abbr expan="Major General"
+                        >Maj. Gen.</abbr> Rodes that though frequently sent for <add hand="h1"
+                        place="inline">after my <abbr expan="Brigade">Brig.</abbr> advanced to come
+                        to my assistance</add>, and twice by myself ordered forward, the troops <add
+                        hand="h1" place="inline">I had passed over</add> refused to drive the enemy
+                    from a gap on my right flank, from which position he was pouring a destructive
+                        <unclear>enfilading</unclear> fire into my line by which I lost most of my
+                    men.</p>
+
+                <closer>
+                    <salute>I am Col Very Respectfully</salute>
+                    <signed>S. D. Ramseur <lb/>Brig Genl</signed>
+                    <seg type="postscript">P.S. I would have <abbr expan="received">rec'd</abbr>
+                        your letter earlier had I not been absent on account of my wounds. I
+                        returned on the 20th. S.D.R.</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

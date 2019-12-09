@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9504"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A9504">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Mary J. Grove to James M.
+                    Schreckhise, September 7, 1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county mary j grove to james m schreckhise, september 7 1862</title>
+        <author>Grove, Mary J.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Jaime Martinez</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A9504</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502747</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Mary J. Grove to James M. Schreckhise, September 7,
+                            1862</title>
+            <title level="m"/>
+            <title type="sort">augusta county mary j grove to james m schreckhise, september 7 1862</title>
+            <author>Mary J. Grove</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: James M. Schreckhise Papers,
+                            Special Collections Library, Duke University, Durham, North
+                        Carolina.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Special Collections Department, William R. Perkins Library, Duke University, Durham, North Carolina</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1862-09-07">1862-09-07</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Battle Description, Death/Casualties, Desertion/Leave, Family, Home Front,
+                        Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2003-06">June 2003</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Item proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A9504T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Mary writes to her brother James about news from home, and that she fears that
+                    their brother Daniel may have been killed at Manassas.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1862-09-07">Sept the 7 1862</date>
+                    </dateline>
+                    <salute>Dear Brother James</salute>
+                </opener>
+
+                <p>I seat myself this <orig reg="evening">evning</orig> to write you a few lines to
+                    let you know that I am in the land of the living. I have not heard from you for
+                    so long, that I do not know <orig reg="whether">wheather</orig> I writing to the
+                    living or dead. I know that you will be anxious to hear from Daniel, I have not
+                    heard from him since the fight at Manassas I dread to hear from him. I have
+                    heard of a good many from Augusta being killed but we have a hope if he is
+                    killed that he will be prepared to meet death. I thought he had changed a great
+                    deal. <orig reg="He">he</orig>
+                    <orig reg="stayed">staid</orig> here a week after he was wounded at port. I
+                    thought he went back too soon before he was able for duty. Abe was <orig
+                        reg="wounded">wonded</orig> at the Richmond fight by a <orig reg="Minie"
+                        >minne</orig> ball in the side an inch more would have killed him he has got
+                    well, he is staying in Staunton now but expects to start to the army next week
+                    he came home yesterday <orig reg="evening">evning</orig> he had a statement of
+                    the killed and wounded but it did not mention any thing about Daniel, but that
+                    dont console me, for I know <orig reg="several">sevral</orig> who have been sent
+                    home that were killed that was not mentioned on the paper <abbr expan="Captain"
+                        >Cap</abbr> Patrick was buried yesterday <pb n="2"/>but I suppose you will
+                    see an account in the paper, it is a dreadful state of affairs many a poor soul
+                        <orig reg="buried">burried</orig> in to <orig reg="eternity">eterny</orig>
+                    unprepared. John hired a substitute papa would like to put one in for Daniel I
+                    am afraid he <orig reg="can't">cant</orig> papa was <orig reg="here">hear</orig>
+                    the other day he was anxious to hear from Daniel george is a big boy and can
+                    talk any thing, I want you to send me a name for my little boy he looks like
+                    george. he is 7 months old he can walk around a chair. it is late, I must
+                    retire, good night.</p>
+
+                <p>Please write soon and in future I will try and answer more prompt the friends are
+                        <orig reg="generally">generaly</orig> well but Aunt Lizzie Corner is not
+                    well. <orig reg="When">when</orig> do you expect to come to <orig reg="Augusta"
+                        >Agusta</orig> will you not come this fall? excuse this no more</p>
+
+                <closer>
+                    <salute/>
+                    <signed>Mary J. Grove</signed>
+                    <seg type="postscript">John send his love to you.</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

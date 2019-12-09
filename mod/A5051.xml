@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+
+<?dlps id="A5051"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="A5051">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Martha Roadcap to Mary C. Baylor,
+                    November 2, 1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county martha roadcap to mary c baylor, november 2 1863</title>
+        <author>Roadcap, Martha L.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amy Voorhees</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A5051</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502335</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Martha Roadcap to Mary C. Baylor, November 2, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta county martha roadcap to mary c baylor, november 2 1863</title>
+            <author>Martha Roadcap</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: McGuffin Family Papers, Accession
+                            #6732, Special Collections Department, University of Virginia Library,
+                            Charlottesville, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1863-11-02">1863-11-02</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Home Front, Women, Death/Casualties</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2002-11">November 2002</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A5051T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Martha Roadcap writes Mary Baylor to thank her for taking care of her son,
+                    Charles W. McGuffin while he was recovering. (Mary Baylor and Charles McGuffin
+                    will marry later).</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Miss Mary C. Baylor, Summerdean, Augusta Co, Va</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1863-11-02">Nov 2d 63</date>
+                        <name type="place">Goshen Bridge</name>
+                    </dateline>
+                    <salute>Dear Friend</salute>
+                </opener>
+
+                <p>I received your note &amp; was glad to hear that Charlie is recovering
+                    &amp; is able to walk out again. I got over the mountain quite safely I got
+                    home very well they let me off at my home - Miss Mary I feel very thankful to
+                    you all for your kindness to Charlie &amp; also to me while with you I feel
+                    that I shall never be able to repay you for your kindness to us. I never think
+                    of you but with a heart swelling with gratitude - I wish you to see what Mr.
+                    Kerr is selling cotton yarn at &amp; let me know in your next letter. This
+                    package you <orig reg="speak">speake</orig> of I wrote a <orig reg="note"
+                    >not</orig> to Mr Kunkle concerning it &amp; I wish you to give it to the
+                    mail boy to give to him but direct it yourself and <pb n="2"/> if you please
+                    direct it to me - Tell Charlie I have gotten my <unclear>James</unclear> home
+                    &amp; it is very pretty &amp; I think will make him a very nice suit -
+                    &amp; I will make his clothes for him but will like him to have the lining
+                    &amp; buttons as soon as I can get them I suppose Charlie has left you all
+                    &amp; I know you will miss him &amp; he will miss you too I would be so
+                    glad if I could &amp; stay a week with him after he gets to his grandmothers
+                    &amp; would do so if I possibly could give my love to your Mother &amp;
+                    sisters &amp; Mrs. Groves &amp; tell her I was greatly obliged to her
+                    for the <orig reg="loan">lone</orig> of her horse which carried me across the
+                    mountain so safely Tell Lizzie &amp; Estie I will certainly expect a visit
+                    from them soon tell Mrs Groves I will remember her madder roots &amp; send
+                    as soon as I can tell Lizzie I hope her &amp; Mrs Miller is coming on finely
+                    &amp; I suppose she will soon be at the White house you must come to see me
+                    next summer &amp; write to me very soon &amp; let me know how Charlie is</p>
+
+                <closer>
+                    <salute>from your affectionate friend</salute>
+                    <signed>Martha Roadcap</signed>
+                    <seg type="postscript">tell your Pa Mr Roadcap says <del rend="none" hand="h1"/> will have
+                        some Collar Leather some time this winter &amp; will save him some</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+
+<?dlps id="B3002"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B3002">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: H. H. Wilson to W. Storer How, May 7,
+     1866</title>
+        <title type="sort">freedmens bureau records h h wilson to w storer how, may 7 1866</title>
+        <author>Wilson, H. H.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Desi Hopkins</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Desi Hopkins</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">B3002</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+     <p>Text and Images (c) copyright 1993-2005, by the Rector and Visitors of the University of
+      Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date>
+        <idno type="uva-pid">uva-lib:501177</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Freedmen's Bureau Records: H. H. Wilson to W. Storer How, May 7, 1866</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records h h wilson to w storer how, may 7 1866</title>
+            <author>H. H. Wilson</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>2 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: National Archives and Records Administration,
+       Records of the Bureau of Refugees, Freedmen, and Abandoned Lands, Record Group 105, Box
+       E4265.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1866-05-07">1866-05-07</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Administration/Bureaucracy, Family</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2006-04">April 2006</date>
+        <respStmt>
+          <resp/>
+          <name>Heather Weidner</name>
+        </respStmt>
+        <item>Item proofread against original; corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="B3002T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>In this letter, H.H. Wilson announces his intention to leave Augusta County for Pennsylvania.
+     It is unclear in what capacity he served the Bureau, although it may have been as a clerk.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+
+   <div1 type="letter" id="d5">
+    <head>
+     Bureau of <abbr expan="Refugees, Freedmen and Abandoned">R. F. &amp; A.</abbr> Lands
+     <name type="recipient"><abbr expan="Major">Maj</abbr> W. S. How</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1866-05-07">May 7th, 1866</date>
+      <name type="place">Winchester, <abbr expan="Virginia">Va</abbr></name>
+     </dateline>
+
+     <salute>Major,</salute>
+    </opener>
+
+    <p>My personal affairs have taken such shape that it is very much to my future interest to go to
+     Pennsylvania, where very favorable inducements are held out to me; I regret exceedingly to
+     leave the very pleasant family down here, but justice to my own obliges me to give up my own
+     inclinations in the matter.</p>
+
+    <p>When I came down, Mr. Tukey very kindly advanced me some $25, to pay the Hotel Bill I had
+     contracted here, and I shall in addition to that <abbr expan="amount">am't</abbr>, be indebted
+     to him for my boarding while in his family; I propose to leave about the 15th, and having
+      <unclear>free</unclear> passes over the roads from Harpers Ferry, will take that route,
+     stopping at Winchester, where I can sign your Receipts Rolls for my pay.</p>
+
+    <p>Is there any way in which it can be managed that I can draw my pay before leaving here, so
+     that I settle with Mr. Tukey <del hand="h1">before</del> at the time?</p>
+
+    <pb n="2"/>
+
+    <p>I should feel under considerable obligation if you could aid me in the matter, and would be
+     glad to have reply as early as convenient.</p>
+
+    <closer>
+     <salute>I am my dear sir<lb/>Very truly yours</salute>
+     <signed>H. H. Wilson</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+
+<?dlps id="A1005"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="A1005">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Michael G. Harman to Colonel East, August [9?],
+     186[?]</title>
+        <title>[electronic resource]</title>
+        <title type="sort">augusta county michael g harman to colonel east, august 9 186</title>
+        <author>Harman, Michael G.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Merryn Pinch</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Merryn Pinch</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A1005</idno>
+        <!--
+    <availability>
+     <p>Publicly accessible</p>
+     <p> n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>copyright 1999, by the Rector and Visitors of the University of Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:501903</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Michael G. Harman to Colonel East, August [9?], 186[?]</title>
+            <title level="m"/>
+            <title type="sort">augusta county michael g harman to colonel east, august 9 186</title>
+            <author>M. G. Harman</author>
+            <editor/>
+            <respStmt>
+              <resp>e.g. Translator</resp>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>3 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Garber Family Letters, Augusta County Historical
+       Society, Staunton, Virginia.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Augusta County Historical Society, Staunton, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="-08-09">186[?]-08-09</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Military Authority, Enlistment, Troop Movement, State Government</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2000">Summer 2000</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Voorhees</name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A1005T">
+
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>M.G. Harman writes Colonel East about his concern that Augusta County will not meet its
+     military quota.</p>
+   </div1>
+
+
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>Head Quarters, <lb/><add hand="h1" place="inline">Confederate State</add>
+     <del hand="h1">Virginia</del> Forces <lb/>Staunton, Va</head>
+    <opener>
+
+
+     <name type="recipient">Col. East</name>
+
+     <dateline>
+      <date value="-08-09">August <unclear>9</unclear>, 186<del rend="none" hand="h1"/></date>
+     </dateline>
+     <salute>Sir:</salute>
+    </opener>
+
+    <p>I have your letter The fact that Mr. <unclear>Pulz</unclear>
+     <hi rend="underline">says</hi>
+     <add hand="h1" place="inline">he</add> has no one to drive his impressed team but his son who
+     has volunteered (or is at least subject to Military duty) is an excuse often made to get rid of
+     the <hi rend="underline">military </hi><hi rend="underline">duty</hi> -- the Government will
+     hire or impress a careful driver.</p>
+
+    <p>Judge Thompson has refused a half dozen writs of Habeus Corpus during the last few days
+     mostly from your county to cause the surrender of volunteers between the ages of 18 &amp;
+     21_-- under 18 he grants the writ &amp; requires the surrender. Mr. Moore gives the
+      <unclear>issue</unclear> interpretation of the Law but the Judge says that he has given the
+     matter due consideration &amp; read all the reported cases carefully &amp; decides as I
+     have stated -- an infant over 18 is compelled to perform military duty - &amp; being called
+     into service he goes into a volunteer company as a choice over the militia.</p>
+
+    <p>I must further say that if your<pb n="2"/>Countys quota is reduced and I apprehend it will be
+     and the loss is not made up I am directed to again call the militia out - I hope you will so
+     arrange it as to prevent the disagreeable necessity of such a step.</p>
+
+    <p>I am surprised to learn from many of the applicants from your county that they were induced
+     or seduced to join by improper and undue means; of this I know nothing and do not credit it,
+     but it is bringing a change against your commands which ought to be <hi rend="underline"
+      >desired</hi>, at least.</p>
+
+    <p>Under the circumstances I cannot let off young <unclear>Pulz</unclear> to drive his fathers
+     team - or from his volunteer company unless another <hi rend="underline">acceptable</hi>
+     volunteer is furnished in his place.</p>
+
+    <p>If the team is not sent I will be compelled to send a <unclear>force</unclear> for it which
+     Mr. <unclear>Pulz</unclear> should not permit as there is a penalty attached to the offence.</p>
+
+    <p>My instructions are <unclear>positive</unclear> to see that your quota is full. <add
+      hand="h1" place="inline">The place of</add> every one exempted before they are marched away
+     must be followed up or the militia must go <hi rend="underline">enmasse</hi>
+     <pb n="3"/> is the order of the Governor -</p>
+
+    <closer>
+     <salute>very obediently<lb/>yours</salute>
+     <signed>M.G. Harman, <abbr expan="magistrate">Magist<hi rend="super">r</hi></abbr></signed>
+     <seg type="postscript">P.S. Show this to Col D.E. Moore</seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

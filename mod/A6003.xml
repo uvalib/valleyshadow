@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+
+<?dlps id="A6003"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="A6003">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Henry H. Dedrick to Mary E. A. Dedrick, November
+     23, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county henry h dedrick to mary e a dedrick, november 23 1861</title>
+        <author>Dedrick, Henry H.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Diane B. Jacob, Virginia Military Institute</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Alice McShane </name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A6003</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:502366</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Henry H. Dedrick to Mary E. A. Dedrick, November 23, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta county henry h dedrick to mary e a dedrick, november 23 1861</title>
+            <author>Henry H. Dedrick</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>1 page</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Henry H. Dedrick Papers, Manuscript #0332, Virginia
+       Military Institute Archives, Lexington, Virginia.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Virginia Military Institute Archives, Lexington, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1861-11-23">1861-11-23</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Camp Life, Family, Home Front, Women</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001-07">July 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Murrell</name>
+        </respStmt>
+        <item>Tagging checked; final corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A6003T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Dedrick writes about cold weather, winter quarters, and the fact that he is sending money.
+     The reverse of the letter is one from his wife about the food she tried to send.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Mary E.A. Dedrick</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1861-11-23">November the 23 1861</date>
+      <name type="place">Pocahontas County VA</name>
+     </dateline>
+     <salute>Dear Wife</salute>
+    </opener>
+
+    <p>I have an opportunity this morning to send you a few lines by Walter Lewis to let you know
+     that I am well at this time and I hope when these few lines comes to hand they may find you all
+     are well and doing well. Bill O. is well he is agetting breakfast. The rest of the creek boys
+     is all well with the exception of Rice and <unclear>Bridge</unclear>. They aint very well at
+     this time. We have had some hard times here. We have had some snow here, it is a snowing here
+     now. We have rain or snow every two or three days and it is most impossible to get provisions
+     here for all the soldiers.</p>
+    <p>We have moved in our cabin and we have very good times now. We can do almost as well here as
+     we can at home. All of the soldiers have left Greenbrier River. They come up here yesterday.
+     Some of them will stay here with us and some of them will go to Staunton. I am on guard. I have
+     stood one tour and I tell you it is cold. </p>
+    <p>I wrote this above before daylight this morning. I heard while I was on my post that our
+     regiment and four other regiments was to stay on Alleghany this winter. I saw Jeremy Falls last
+     night. He was well. Give my love to all my friends. Lissa we drawed our money yesterday and I
+     will send you fifteen dollars in this letter. I will send you five more in this which will make
+     twenty dollars in this letter and I will send you seven dollars by Lewis, that will make twenty
+     seven dollars. I want you to take care of it for me. If you need any you must take as much of
+     it as you want. I drawed $63.85. I paid $6.50 for my coat and $6.00 for a pair of boots that I
+     got from Smith, and I paid Lewis $20.00 and <del rend="none" hand="h1"/> 35 cents. I wrote you a letter
+     some time ago and I have not got any answer from it yet. I want you to write soon and let me
+     know how you are agetting along. If you have anything to send me if you have a chance you may
+     send it and if you don't have any chance it don't make any difference. I have more to write but
+     I have not got time to write. Write soon. So nothing more but remain your affectionate husband
+     until death. So fare you well my Dear. H. H. Dedrick to his Dear wife. Lissa, I don't want you
+     to lend out one cent of it to nobody on occasion at all.</p>
+    <p>Mary E. A. Dedrick to Henry</p>
+    <p>Nov. [?] 1861</p>
+    <p>Dear Henry- I packed up a good many things, preserves and one thing and another and took them
+     over to Grasses and he told me he would take them and I went over there the next day after he
+     started and he hadn't took them, and this letter was in the satchel, the reason you didn't get
+     it sooner. We are well. It is agetting late and I must go to the office yet. May my kind
+     saviour protect you. Yours truly, M.E.A.D.</p>
+
+    <closer>
+     <salute/>
+     <signed/>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

@@ -1,0 +1,394 @@
+<?xml version="1.0"?>
+
+<?dlps id="FD1006"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+ 
+<TEI.2 id="FD1006">  
+<teiHeader type="migrated">  
+ 
+    <fileDesc>  
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Diary of Rachel Cormany (1863)</title>
+        <title type="sort">franklin county diary of rachel cormany 1863</title>
+        <author>Cormany, Rachel</author>
+        <editor/>
+        <respStmt>  
+          <resp>Creation of machine-readable version: </resp>  
+          <name>Virginia Center for Digital History</name>  
+          <resp>Conversion to TEI.2-conformant markup:</resp>  
+          <name>Amy Murrell</name>  
+        </respStmt>
+      </titleStmt>  
+ 
+      <extent>
+        <num type="kilobytes"> 48 kilobytes</num>
+      </extent>  
+      <publicationStmt>  
+        <publisher>Virginia Center for Digital History</publisher>  
+        <pubPlace>Charlottesville, Virginia </pubPlace>  
+ 
+        <idno type="VCDH">FD1006</idno>  
+ 
+        <!--
+<availability>  
+<p>Publicly accessible </p>  
+<p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>  
+<p>copyright 1998, by the Rector and Visitors of the University of Virginia</p>  
+</availability>
+-->  
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1998 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1998">1998</date>  
+        <idno type="uva-pid">uva-lib:500347</idno>
+      </publicationStmt>  
+      <seriesStmt> 
+        <p>Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>  
+      <notesStmt>
+        <note/>
+      </notesStmt>  
+ 
+ 
+      <sourceDesc>   
+        <biblFull>  
+          <titleStmt>
+            <title>Rachel Cormany Diary</title>
+            <title level="m"/>
+            <title type="sort">rachel cormany diary</title>
+            <author>Rachel Cormany</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>  
+          <editionStmt>
+            <p/>
+          </editionStmt>  
+          <extent>13 pages</extent>  
+          <publicationStmt>  
+            <publisher/>  
+            <pubPlace/>  
+            <date value=""/>  
+            <idno type="callNo">Source copy consulted: James C. Mohr, editor, and Robert E. Winslow III, assistant editor, The Cormany Diaries: A Northern Family in the Civil War (Pittsburgh: University of Pittsburgh Press, 1982)</idno>  
+          </publicationStmt>  
+          <seriesStmt>
+            <p>Valley of the Shadow: Two Communities in the American Civil War</p>
+          </seriesStmt>  
+          <notesStmt>
+            <note>
+              <p>The footnotes and the introductory text, but not the short biography of Rachel Cormany, are the work of the editors James C. Mohr and Robert E. Winslow III.</p>
+            </note>
+          </notesStmt>  
+        </biblFull>  
+      </sourceDesc>  
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Published Source</p>
+      </projectDesc>
+    </encodingDesc>  
+ 
+    <profileDesc>  
+      <creation>
+        <dateRange from="1863-06-14" to="1863-07-06">1863-06-14 - 1863-07-06</dateRange>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>  
+      <textClass>  
+        <keywords>  
+          <term>
+African Americans, Battle Description, Church/Religious Activity, Family, 
+Home Front, Military Authority, Prisons/Prisoners, Troop Movement, Women
+</term>  
+          <term>American Civil War</term>
+        </keywords>  
+      </textClass>  
+    </profileDesc>  
+ 
+    <revisionDesc>  
+      <change>  
+        <date value="2003-03">March 2003</date>
+        <respStmt>
+          <resp/>
+          <name>Susanna Michele Lee</name>
+        </respStmt>  
+        <item>Proofread for typographical errors; corrections made.</item>  
+      </change>  
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>  
+  </teiHeader>  
+ 
+<text id="FD1006T"> 
+
+<front id="d2"> 
+<div1 id="FD1006bio" type="bio"> 
+<head>Biography
+<!-- <ref>FD1006bio</ref> -->
+</head> 
+
+<p>Rachel Cormany was originally born in Canada but moved to Chambersburg with her husband, Samuel, during the war.  She began writing in her diary well before the war.  Her diary entries for the war years vividly describe her life as a woman on the home front.  Alone while her husband served in the Union Army, Rachel often complained of depression and boredom.  After the war, the Cormanys moved to Missouri to live on a farm.</p> 
+
+</div1> 
+ 
+<div1 id="FD1006int" type="introduction"> 
+<head>Chambersburg During the Gettysburg Campaign, June 14-July 6, 1863
+<!-- <ref>FD1006int</ref> -->
+</head> 
+
+<p>Chambersburg lay squarely in the middle of the valley up which Lee launched his second and last grand offensive in June 1863. The evacuation of local militia units left the town undefended, and it was rapidly occupied by the advancing Southern army. Chambersburg was used as a central staging area by the Confederates; its importance to their operations increased when the massive confrontation began to develop in Gettysburg, approximately twenty-five miles east across the South Mountain ridge. Following their defeat at Gettysburg, the Confederates withdrew from Chambersburg toward the Potomac River. Hot in pursuit was Samuel's regiment, and Samuel himself was among the first Union soldiers to reenter the town.</p> 
+</div1> 
+</front> 
+ 
+<body id="d5"> 
+
+ 
+<div1 id="FD10061863" type="part" n="1863"> 
+<head>1863
+<!-- <ref>FD10061863</ref> -->
+</head> 
+ 
+<div2 type="section" n="1863-06" id="d7"> 
+<head>June 1863
+<!-- <ref>
+African Americans, Battle Description, Church/Religious Activity, Family, Home Front, Military Authority, Women</ref> --> 
+</head> 
+ 
+<div3 type="entry" n="1863-06-14" id="d8"> 
+<head>June 14, 1863</head> 
+
+<p>Read the R. Telescope &amp; wrote letters this A.M.--P.M. went to <abbr expan="Sunday">S.</abbr> School, took Cora along--she did pretty well--was in <abbr expan="Brother">Bro.</abbr> Hokes Bible class. How much better I feel to get out to religious gathering. Intend to go more. Mrs. Dulany was there with her little one too. I got such a good book to read. Some excitement about the rebels come. Evening the excitement pretty high.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1863-06-15" id="d9"> 
+<head>June 15, 1863</head> 
+
+<p>Monday. This morning pretty early <abbr expan="General">Gen</abbr> Milroys wagon train (so we were told) came.<ref n="1" target="rcormany1">[1]</ref> Contrabands<ref n="2" target="rcormany2">[2]</ref> on ahead coming as fast as they could on all &amp; any kind of horses, their eyes fairly protruding with fear--teams coming at the same rate--some with the covers half off--some lost--men without hats or coats--some lost their coats as they were flying, one darky woman astride of a horse going what she could. There really was a real panic. All reported that the rebels were just on their heels. Soon things became more quiet--&amp; all day government wagons &amp; horses were passing through. For awhile before dark the excitement abated a little--but it was only like the calm before a great storm. At dusk or a little before the news came that the rebels were in Greencastle &amp; that said town was on fire. Soon after some of the our guard came in reporting that they had a skirmish with them. Soon followed 100-200 cavalry men--the guard. Such a skedadling as <orig reg="there">their</orig> was among the women &amp; children to get into the houses. All thought the Rebels had really come. The report now is that they will be here in an hour. If I could only hear of My Samuels safety--Many have packed nearly all of their packable goods--I have packed nothing. I do not think that we will be disturbed even should they come. I will trust in God even in the midst of flying shells--but of course shall seek the safest place possible in that case--which I hope will not come to us. I have just put my baby to sleep &amp; will now sit at the front door awhile yet--then retire, knowing all will be well.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1863-06-16" id="d10"> 
+<head>June 16, 1863</head> 
+
+<p>Retired at 11 oclock. All was very quiet, so we concluded that all those reports must be untrue about the Reb's being so near, or that they had struck off in some other direction. Mr. Plough took his horse away so as to be on the safe side. So Annie and I were all alone. At 11 1/2 I heard the clattering of horses hoofs. I hopped out of bed &amp; ran to the front window &amp; sure enough there the Greybacks were going by as fast as their horses could take them down to the Diamond. Next I heard the report of a gun then they came back faster if possible than they came in. But a short time after the whole body came. the front ones with their hands on the gun triggers ready to fire &amp; calling out as they passed along that they would lay the town in ashes if fired on again. It took a long time for them all to pass, but I could not judge how many there were--not being accustomed to seeing troops in such a body--At 2 oclock A.M.  all was quiet again save an occasional <abbr expan="rebel">reb.</abbr> riding past. We went to bed again &amp; slept soundly until 5 the morning. All seemed quiet yet. We almost came to the conclusion that the <abbr expan="rebels">reb's</abbr> had left again leaving only a small guard who took things quite <orig reg="leisurely">leasurely</orig>. Soon however they became more active. Were hunting up the contrabands &amp; driving them off by droves. O! How it grated on our hearts to have to sit quietly &amp; look at such brutal deeds--I saw no men among the contrabands--all women &amp; children. Some of the colored people who were raised here were taken along--I sat on the front step as they were driven by just like we would drive cattle. Some laughed &amp; seemed not to care--but nearly all hung their heads. One woman was pleading wonderfully with her driver for her children--but all the sympathy she received from him was a rough "March along"--at which she would quicken her pace again. It is a query what they want with those little babies--whole families were taken. Of course when the mother was taken she would take her children. I suppose the men left thinking the women &amp; children would not be disturbed. I cannot describe all the scenes--now--Noon--The Rebel horses with just enough men to take care of them &amp; their teams, have just pased through town again on the retreat. Wonder what all this means. Just now the news came that the dismounted rebs are drawn up in line of battle out at McClures &amp; expect a fight--so they sent their horses to the safe side of town in case a retreat is necessary. Some are walking or riding by every few minutes. The horses &amp; wagons were taken back again. Evening--Had a good sleep this P.M. So had Pussy, &amp; will retire trusting in God for safety.</p>
+</div3>
+
+<div3 type="entry" n="1863-06-17" id="d11">
+<head>June 17, 1863</head>
+
+<p>Had quite a visiter last night. She came and <orig reg="asked">aske</orig> whether I was Mrs Cormany. I told her I was. she then told me she was preacher Millers daughter, &amp; that they had fled from the <abbr expan="Rebels">Reb's</abbr> &amp; she had no place to stay. So of course I told her I would keep her. I afterwards learned that she was a thief &amp;c but I had promised to keep her so I put all little things out of reach, &amp; frightened her by telling her I always had a loaded pistol near so I could shoot if anyone molested me. She acted quite strangely--before going to bed--wanted me to blow the light &amp; get in bed &amp; she after having shaken off her fleas would lock the door &amp; come too--but I let her know that I lock my own door &amp; that she is to get into bed--she slept all night &amp; left early this morning. All was so quiet during the night that I <orig reg="verily">veryly</orig> thought the <abbr expan="Rebels">Reb's</abbr> had left--but they are still here. All forenoon they were carrying away mens clothing &amp; darkeys. <orig reg="shortly">shortly</orig> after dinner their horses &amp; wagons were taken on the retreat again. Yes Generals and all went. Saw <abbr expan="General">Gen</abbr> Jenkins,<ref n="3" target="rcormany3">[3]</ref> he is not a bad looking man--Some of the officers tipped their hats to us I answered it with a curl of the lip. I knew they did it to taunt us. The one after he had tipped his hat most graciously &amp; received in answer a toss of the head &amp; curl of the lip took a good laugh over it. There were a few real <orig reg="intelligent">inteligent</orig> good looking men among them. What a pity that they are rebels. After the main body had passed the news came that our soldiers were coming &amp; just then some 1/2 <abbr expan="dozen">doz</abbr> <abbr expan="rebels">reb's</abbr> flew past as fast as their horses could take them. we learned since that one of them fired Oaks warehouse &amp; that he was very near being shot by the citizens.<ref n="4" target="rcormany4">[4]</ref> Among the last to leave were some with darkeys on their horses behind them. How glad we are they are gone--None of our Soldiers came.</p>
+</div3>
+
+<div3 type="entry" n="1863-06-18" id="d12">
+<head>June 18, 1863</head>
+
+<p>Was up early &amp; commenced washing. Got done <abbr expan="until">til</abbr> noon. Quite a number of the neighbors washed--Soon after dinner the town was all in excitement again--the report came that the <abbr expan="rebels">reb's</abbr> are coming back. Plough was so badly frightened that he fairly shook. Talked so snappy &amp; ugly when I asked him anything. I do not like to be snubbed by him or anybody--but guess it's best to bear all. I have not been frightened yet.</p>
+</div3>
+
+<div3 type="entry" n="1863-06-19" id="d13">
+<head>June 19, 1863</head>
+
+<p>The excitement is still high. I have slept well every night so far knowing that my Heavenly Parent watches over me at all times. Ironed this morning &amp; baked a loaf of brown bread. feel a little blue. I feel troubled about Mr. Cormany--we are penned up so here that we can hear nothing. All kinds of reports are flying about--still the excitement has abated considerably. Mended all my clothes &amp; put every thing away. Read about the great revivals of ,56 &amp; ,57. felt much happier than in the forenoon, enjoyed a sweet season of prayer.</p>
+</div3>
+
+<div3 type="entry" n="1863-06-20" id="d14">
+<head>June 20, 1863</head>
+
+<p>Went to bed early &amp; slept well all night. This morning there is great excitement again. The report came last night that 40,000 or 50,000 infantry &amp; some artillery have taken possession of Hagerstown--that the camps extend nearly to Greencastle--things surely look a little dubious.<ref n="5" target="rcormany5">[5]</ref> If we could only have regular mails. a mail came last night--but was not opened until this morning--Got a letter from My Samuel. it is but short. He is still safe--but were under marching orders again. it has been over a week on the way--I almost feel like getting out of this to some place where the mail is <orig reg="uninterrupted">uninterupted</orig>, but then I fear, My Samuel might chance to come here &amp; I would not see him so I shall stay--Will write to him now-.</p>
+</div3>
+
+<div3 type="entry" n="1863-06-21" id="d15">
+<head>June 21, 1863</head>
+
+<p>All was pretty quiet until near noon  The news came that the rebels are near here--which caused great excitement again. soon after a <abbr expan="regiment">reg.</abbr> of the N. Y. Greys came (militia) so all excitement died away<ref n="6" target="rcormany6">[6]</ref>--Wrote a letter (or finished it rather) to My Samuel. Read such a pretty <abbr expan="Sunday">S.</abbr> School book </p>
+</div3>
+
+<div3 type="entry" n="1863-06-22" id="d16">
+<head>June 22, 1863</head>
+
+<p>This A.M. the N. Y. 71st (militia) came &amp; one battery.<ref n="7" target="rcormany7">[7]</ref> we felt safe then. the mail came again, but this evening every soldier left us again &amp; the rebels are reported within 8 or 10 miles.<ref n="8" target="rcormany8">[8]</ref> Guess there will be nothing to hinder them from coming now--suppose they will be on here by tomorrow which will stop our mail again for some time. I do indeed feel like getting out of this place on that account but do not like to leave everything behind. do really feel like leaving. Old Plough still wants to take Annie off leave me all by myself--not a word does he say to take me along. Oh he does seem the meanest pile of dirt I have seen for some time. He seems too mean for any use. Indeed I believe I shall pack up &amp; leave in the morning. I cant bear to think of being shut up without any news another week.</p>
+</div3>
+
+<div3 type="entry" n="1863-06-23" id="d17">
+<head>June 23, 1863</head>
+
+<p>I packed my trunk last evening ready to start to <abbr expan="Philadelpha">Phil'dia</abbr> not knowing whether I could get away or not--went to bed at midnight &amp; slept well till after six this morning. I expected to find the town full of rebels but not a rebel could I see--none had come--So after breakfast I took Cora on my arms &amp; started out for a walk. met Mrs Clippinger at her door, asked her to go along for a walk, so we walked on until we saw where our men threw up breastworks but did not go near enough to examine them. Met quite a number of people (men &amp; boys) going out as we came in<ref n="9" target="rcormany9">[9]</ref>--we sat down by the roadside &amp; rested a little while then started on. just as we got to the edge of town or near it--two men came riding in fast as their horses could go--one said "The d--d buggers fired on us. the other looked as pale as death his mouth wide open--his hat lost--he was too badly frightened to speak. They <orig reg="met">me</orig> a few of our Cavalry at the edge of town--they whirled &amp; put off. I got a little frightened when those two men made so ugly &amp; the cavalry men warned us to go into the houses, looking so fierce with their hands on the gun triggers ready to shoot--all at once I got so weak I could scarcely walk, but that was over in a few minutes &amp; I could walk faster than before. The people were wonderfully frightened again, such a running. The streets were full--It was not long until the <abbr expan="rebels">reb's</abbr> really made their appearance--I do not think that they are <abbr expan="Cavalry">Cav.</abbr> but mounted infantry--they most of them have nothing but a musket to fight with. They rode in as leisurely as you please each one having his hand on the trigger though, to fire any minute--now I judge we are shut out again for awhile--I just wonder what they want this time. They are part of those that were here last week. P.M. just ate a piece &amp; fed my baby--both of us took a good nap after our walk. Evening--The <abbr expan="Rebels">Reb's</abbr> have been cutting up high. Sawed down telegraph poles, destroyed the scotland bridge<ref n="10" target="rcormany10">[10]</ref> again took possession of the warehouses &amp; were dealing out flour by the barrel &amp; <orig reg="molasses">mollasses</orig> by the bucket ful--They made people take them bread--meat--&amp;c to eat--Some dumb fools carried them jellies &amp; the like--Not a thing went from this place.<ref n="11" target="rcormany11">[11]</ref> Three <abbr expan="cannons">canno</abbr> went through when they came--but just now they took them back. wonder what that means again. from 7 to 15 thousand infantry are expected on tonight. they are reported to be at Greencastle by a man just from there. Well whatever betides us the good Lord is able to protect us. And He will protect us. Old Plough wanted Annie to go with him to the country but she would not go &amp; leave me here alone. That was mean in Plough. Annie told me herself--It shows what a great heart he has.</p>
+</div3>
+
+<div3 type="entry" n="1863-06-24" id="d18">
+<head>June 24, 1863</head>
+
+<p>Another eventful day has passed--All morning there was considerable riding done up &amp; down street. At 10 A.M. the infantry commenced to come &amp; for 3 hours they just marched on as fast as they could. it is supposed that about 15,000 have already passed through, &amp; there are still more coming. Ewel's brigade has <orig reg="passed">pas</orig>. I do not know what others. Longstreet &amp; Hill are expected this way too. It is thought by many that a desperate battle will be fought at <orig reg="Harrisburg">Harisburg</orig>. This P.M. the Rebs are plundering the stores. some of our merchants will be almost if not entirely ruined--I was sitting on Jared's <orig reg="porch">poarch</orig><ref n="12" target="rcormany12">[12]</ref> when a young man (rebel) came &amp; shook hands with Mr. Jared--a relative, his brother is in this army too. He was raised here--His mother is <orig reg="buried">burried</orig> here--Mr. Jared told him he ought to go &amp; kneel on his Mothers grave &amp; ask for <abbr expan="pardon">pardo</abbr> for having fought in such a bad cause. against such a good Government. tears almost came, he said he could not well help getting in, but he would not fight in <abbr expan="Pennsylvania">Pa</abbr>. he told his officers so, he was placed under arrest awhile but was released again. Now he said he is compelled to carry a gun &amp; that is as far as they will get toward making him fight. He was in Jacksons <abbr expan="Brigade">Brig</abbr>. Says Jackson was a christian &amp; means it honestly &amp; earnestly.<ref n="13" target="rcormany13">[13]</ref> Some of the <abbr expan="Rebels">Rebs</abbr> seemed quite jolly at the idea of being in <abbr expan="Pennsylvania">Pa</abbr>. All is quiet this evening so I shall retire after having committed myself to my maker.</p>
+</div3>
+
+<div3 type="entry" n="1863-06-25" id="d19">
+<head>June 25, 1863</head>
+
+<p>Slept well last night. Got up at 6 l/2 A.M. Got Emma Jarrett to go down street with me &amp; got the dried fruit, paper, envelopes &amp; stamps that I had left at Dr MtGomerys,<ref n="14" target="rcormany14">[14]</ref> then went up the back <abbr expan="street">st.</abbr> to Ditmans<ref n="15" target="rcormany15">[15]</ref> &amp; got 4 bbs of brown sugar for 50 <abbr expan="cents">cts</abbr>--when I got home Cora was sitting in the cradle playing. The streets are pretty clear this morning still there are plenty Greybacks about. 2 more divisions are expected on here today &amp; tomorrow. Evening The other division that was to come today did not come, but those here have not been idle. They must surely expect to set up stores or fill their empty ones judging from the loads they have been hauling away &amp; they take every thing a body can think of--I was across the street for water &amp; at Aunt Maria's two <abbr expan="rebels">rebs</abbr> were talking. one was telling about the battle at <orig reg="Chancellorsville">Chancelorville</orig>. A body would think by his talk that he did about all that was done, at least the greatest part--he told how mean our <orig reg="men">me</orig> acted in <abbr expan="December">Dec.</abbr> battle at <orig reg="Fredericksburg">Fredricksburg</orig>--he said they sent in a flag of truce to have time allowed them <orig reg="bury">burry</orig> their dead. well he helped to "toat" (as he said) off dead wounded &amp; behold when they came to where our men were. instead of digging graves they were throwing up breastworks, &amp; instead of <orig reg="burying">burrying</orig> the dead they left them lie where they were laid &amp; sneaked off over the river in the night--Lee then sent a flag of truce for a detail of men to <orig reg="bury">burry</orig> those dead--which was complied with but the way they were <orig reg="buried">burried</orig>, hands &amp; feet were sticking out they (rebels) had to <orig reg="bury">burry</orig> them over--He saw that did not take, so he said that both sides were to blame--&amp; that they were too hasty firing on Fort <orig reg="Sumter">Sumpter</orig>--if they had waited a little longer he believed <abbr expan="Pennsylvania">Pa.</abbr> would have <orig reg="seceded">seceeded</orig> too. That did me for bragadocio so I left--It made my blood fairly boil to have to take that &amp; not dare to tell him he lied. Plough was home this afternoon but left again. I made an apron for my baby today. Pretty reliable reports have reached us that McClellan has a heave force (80,000) at <orig reg="Harrisburg">Harisburg</orig> ready for the <abbr expan="Rebels">Reb's</abbr>. Also that Stoneman is at Harpers Ferry or near there with 15,000 <abbr expan="Cavalry">Cav</abbr>.<ref n="16" target="rcormany16">[16]</ref> I wish every one of these would be taken. Hope this is the beginning of the end.</p>
+</div3>
+
+<div3 type="entry" n="1863-06-26" id="d20">
+<head>June 26, 1863</head>
+
+<p>12 1/2 oclock Cannon-<orig reg="wagons">waggons</orig> &amp; men have been passing since between 9 &amp; 10 this morning--42 Cannon &amp; as many <orig reg="ammunition">amunition</orig> <orig reg="wagons">waggons</orig> have passed--so now there are 62 pieces of artillery between us &amp; Harrisburg &amp; between 30,000 &amp; 40,000 men.<ref n="17" target="rcormany17">[17]</ref> O it seems dreadful to be thus thrown into the hands of the <orig reg="rebels">rebbels</orig> &amp; to be thus excluded from all the rest of the world--I feel so very anxious about Mr. Cormany--&amp; who knows when we will hear from any of our friends again. It is no use to try to get away from here now--we must just take our chance with the rest--trusting in God as our Savior then come life come death  if  reconciled with God all is well--My God help me--I do wish to be a real true &amp; living christian. Oh for more religion. Evening--called at Mrs Dickson a few minutes. Also at Mrs Clippingers. Numerous campfires could be seen on the fair ground.</p>
+</div3>
+
+<div3 type="entry" n="1863-06-27" id="d21">
+<head>June 27, 1863</head>
+
+<p>Got up early &amp; wakened Annie. And we flew round &amp; put away our best bedclothes--before I got my things in order again Mrs. Clippinger came to go to Hokes where we got syrup &amp; sugar. I also got me a lawn dress. Before we got started the rebels poured in already. they just marched through. Such a hard looking set I never saw. All day since 7 oclock they have been going through. Between 30 &amp; 40 pieces of <abbr expan="cannon">canno</abbr>--&amp; an almost endless trail of <orig reg="wagons">waggons</orig>. While I am writing thousands are passing--such a rough dirty ragged rowdyish set one does not often see--<abbr expan="Generals">Gen's</abbr> Lee &amp; Longstreet passed through today. A body would think the whole south had broke loose &amp; are coming into <abbr expan="Pennsylvania">Pa</abbr>. It makes me feel too badly to see so many men &amp; cannon going through knowing that they have come to kill our men--Many have chickens as they pass--There a number are going with honey--<orig reg="robbed">robed</orig> some man of it no doubt--they are even carrying it in buckets. The report has reached us that Hooker &amp; Sickel &amp; Stoneman are after them. &amp; at <orig reg="Harrisburg">Harisburg</orig> the north has congregated en masse to oppose the invaders. Many think this the best thing in the <orig reg="world">word</orig> to bring the war to close--I hope our men will be strong enough to completely whip them--Now it is on our side--While down there our army was in the enemys country &amp; citizens kept the rebels posted in our army movements--now they are in the enemys country. Scarcely any are willing to give them anything--in fact none give unless the have to except perhaps the Copperheads<ref n="18" target="rcormany18">[18]</ref>--The cavalry had an engagement at not far from Carlisle--&amp; the <abbr expan="Rebels">Reb's</abbr> were driven back. This seems to be headquarters. A hospital has been established in the schoolhouse where the sick are put in &amp; the wounded. Two of the Generals are reported killed in that picket skirmish. They are going rather fast--wonder whether there is not fighting going on in front. They are poorly clad--many have no shoes on. As they pass along they take the hats off our citizens heads and throw their old ones in exchange. I was at the window up stairs with my baby nearly all day looking at them--at one time one of them said something that I did not like so I curled my lip as disdainful as I could &amp; turned away just look at <orig reg="her">he</orig> he said to another I saw a lot looking up, so I just wheeled &amp; left the window at which they set up a cheer. Once before the same was enacted except the general cheer. I did wish I dared spit at their old flag--I pity some of the men for I am sure they would like to be out. At Dicksons they told me that 400 went at one time--gagged the guards &amp; got off to the mountains &amp; on to <orig reg="Harrisburg">Harisburg</orig> to help our men. Or I believe J. Hoke told me this morning. He said too that about 1000 had deserted. I hope that all the rebels have passed that intended to pass through--After they quit coming once then I shall look for our men.</p>
+</div3>
+
+<div3 type="entry" n="1863-06-28" id="d22">
+<head>June 28, 1863</head>
+
+<p>Slept well. Nowadays our cooking does not take much time--nowadays being we do all our eating by piecing. At 8 A.M. the rebels commenced coming again. <abbr expan="Georgia">Ga.</abbr> troops. I was told this morning of some of their mean tricks of yesterday &amp; before. They took the hats &amp; boots off the men--Took that off Preacher Farney. Took $50. off Dr. Sneck &amp; his gold watch valued very highly--took the coats off some, tetotally stripped one young fellow not far from town--Mr. Skinner. We have to be afraid to go out of our houses. A large wagon train &amp; 500 or 600 Cavalry have just passed &amp; it is now about 3 1/2 oclock. hope all are through now. Many of the saddles were empty, &amp; any amount of negroes are along. This does not seem like Sunday. No church.</p>
+</div3>
+
+<div3 type="entry" n="1863-06-29" id="d23">
+<head>June 29, 1863</head>
+
+<p>Got up early &amp; washed was done &amp; dressed by ten oclock, had such bad luck this morning--first the washboard fell &amp; broke--next the water boiled down in the boiler it got empty the tin melted off so it leaks &amp; I cannot get it fixed as long as the rebels are here. I feel too badly about it--After I was dressed I put the baby to sleep then went to Ditmans &amp; got a Gallon molasses for 50 <abbr expan="cents">cts</abbr>--Also to <orig reg="Hoke's">Hoks</orig> &amp; got 3 <abbr expan="quarts">qts</abbr> syrup for 45 <abbr expan="cents">cts</abbr>--Hoke told me that the <abbr expan="Rebels">Reb's</abbr> had taken about 500 $ worth of sugar &amp; molasses--they went into the private cellar &amp; took Mrs Hokes canned fruit &amp; bread--Mr <abbr expan="Hoke">H</abbr> looks down this morning. The news reached us this A.M. that Stoneman &amp; Stuart had a fight last week in which Stuart was whipped &amp; ten pieces of artillery were taken from him.<ref n="19" target="rcormany19">[19]</ref> Also that our men hold Hagerstown again. Also that the rebel mail <orig reg="carrier">carryer</orig> could not get through the lines. If our men hold Hagerstown it will not be long before they will be here. Evening. A large <orig reg="wagon">waggon</orig> train headed by 10 pieces of artillery &amp; I judge a regiment of of infantry just passed. The wagons were all well loaded. I judge they are bound for Dixie--It looks as if they expected some opposition. It is reported too that the <abbr expan="Rebel">Reb</abbr> mail carrier, mail &amp; all have been captured. hope its true. I felt real badly to see those poor men going through as they did. likely many of them will be killed. There certainly is something on foot, for the ambulances were filled with sick, taking them away.</p>
+</div3>
+
+<div3 type="entry" n="1863-06-30" id="d24">
+<head>June 30, 1863</head>
+
+<p>Nothing special transpired today. The <abbr expan="Rebels">Rebs</abbr> are still about doing all the mischief they can. They have everything ready to set fire to the warehouses &amp; machine shops--Tore up the railroad track &amp; burned the crossties--They have cleared out nearly every store so they cannot rob much more--Evening--Quite a number of the young folks were in the parlor this evening singing all the patriotic &amp; popular war songs. Quite a squad of rebels gathered outside to listen &amp; seemed much pleased with the music--"When this cruel war is over" nearly brought tears from some. they sent in a petition to have it sung again which was done. they then thanked the girls very much &amp; left--they acted real nicely.</p>
+</div3>
+
+</div2>
+
+<div2 type="section" n="1863-07" id="d25">
+<head>July 1863
+<!-- <ref>African Americans, Prisons/Prisoners, Home Front, Troop Movement, Women</ref> -->
+</head>
+
+<div3 type="entry" n="1863-07-01" id="d26">
+<head>July 1, 1863</head>
+
+<p>It is very muddy this morning of yesterdays rain--in fact I believe it has rained every day this week. I was out hunting <orig reg="yeast">east</orig> &amp; got some at last I have not a bit of bread left my <orig reg="yeast">east</orig> got sour, so of course the <orig reg="yeast">east</orig> I set last evening is sour &amp; not fit to use. It is reported that <abbr expan="General">Gen.</abbr> Jenkins is wounded &amp; a prisoner. Also that the rebel pickets were driven in this side of Greencastle--&amp; that McClellan drove them to this side of Carlisle &amp; that Milroy &amp; Sigel are making a junction over by Strasburg--A darkey, Colonels waiter heard him say that he thought that Lee made a bad move this time--he (darkey) also said that that large wagon train was hid in the woods &amp;c that they could not get out, that they are watching their chance to slip out--he said too that the officers were very uneasy--Every one can see by their actions that they do not feel quite as easy as they would like.<ref n="20" target="rcormany20">[20]</ref>  They are chopping &amp;c at a great rate over at the <abbr expan="railroad">R.R.</abbr> all morning. I judge they are breaking up the iron by the sound. Must now go &amp; set my bread. Evening. Got good bread. Mrs. Fritz was here &amp; told us of Emma Plough being sick from the fright &amp; how the rebels have been carrying on out there. They robbed the country people of nearly everything they had and acted very insultingly.</p>
+</div3>
+
+<div3 type="entry" n="1863-07-02" id="d27">
+<head>July 2, 1863</head>
+
+<p>At 3 A.M. I was wakened by the yells &amp; howls of this dirty ragged lousy trash--they made as ugly as they could--all day they have been passing--part of the time on the double quick. At one time the report came that our men had come on them &amp; that they were fighting--the excitement was high in town--but it was soon found out to be untrue--but the shock was so great that I got quite weak &amp; immagined that I could already see My Samuel falling--I feel very uneasy about him--I cannot hear at all--They had quite a battle with Stuart--I almost fear to hear the result in who was killed &amp; who wounded--still I want to know.</p>
+</div3>
+
+<div3 type="entry" n="1863-07-03" id="d28">
+<head>July 3, 1863</head>
+
+<p>Started out with Cora &amp; a little basket on the hunt for something to eat out of the garden. I am tired of bread &amp; molasses--went to Mammy Royers &amp; got some peas &amp; new potatoes--Cora got as many raspberries as she could eat. Came home put Cora to sleep then went to Mrs McG's for milk. got a few cherries to eat also a few for Cora when I got back Daddy Byers <ref n="21" target="rcormany21">[21]</ref> was standing at the gate. he came to see how I was getting along &amp; told me how the rebels acted--they robbed him of a good deal--they wanted the horse but he plead so hard for him that they agreed to leave him &amp; while one wrote a paper of <orig reg="security">securety</orig> others plundered the house. I guess Samuels silk hat &amp; all that was in the box is gone. took Ellies best shoes--took towels sheets &amp;c &amp;c--After they were gone others came &amp; took the horse too yet--they did not care for his security. Other of their neighbors fared worse yet. He would not stay for dinner. After dinner Henry Rebok <ref n="22" target="rcormany22">[22]</ref> came--he walked part of the way had an old horse but feared to bring him in--they were robbed of their horses and cattle up there--many had their horses sent away--one of J. Cormanys <ref n="23" target="rcormany23">[23]</ref> horses was taken.<ref n="24" target="rcormany24">[24]</ref> Henry wanted me to go along home with him but I could not think of leaving now--Samuel might come this way &amp; if I were out there I would not get to see him. He said he had started for me when they first heard of the rebels coming but when he came to Orrstown two were there already. There are no rebels in town today except the sick--&amp; two or three squads passed through, in all not much over a hundred if that many. One squad asked the way to <orig reg="Gettysburg">Getysburg</orig> &amp; were sent towards <orig reg="Harrisburg">Harisburg</orig>. they did not go very far until they asked again, when they were told the truth they came back very angry &amp; wanted the man that sent them the wrong way but he was not to be found. Canonading was heard all day.<ref n="25" target="rcormany25">[25]</ref></p>
+</div3>
+
+<div3 type="entry" n="1863-07-04" id="d29">
+<head>July 4, 1863</head>
+
+<p>At daybreak the bells were rung--Then all was quiet until about 8 oclock when a flag was hoisted at the diamond. Soon after the band made its appearance &amp; marched from square &amp; played national airs--two rebels came riding along quite leisurely thinking I suppose to find their friends instead of that they were taken prisoners by the citizens--some 13 more footmen came and were taken prisoners. those were willing prisoners they had thrown their guns away before they reached this. The report has reached us that 6000 prisoners had been taken yesterday in Adams <abbr expan="County">Co.</abbr> near College Hill-- also that Carlisle was shelled. It is getting very dark cloudy--I judge we will have a heavy rain. That Will Wampler does yell and cry like a panther. Evening We have had a powerful rain. Wild rumors of a dreadful fight are numerous.</p>
+</div3>
+
+<div3 type="entry" n="1863-07-05" id="d30">
+<head>July 5, 1863</head>
+
+<p>I was roused out of sleep by Mr Early coming into Wampler &amp; telling him something about wounded prisoners. so I got up took a bath dressed &amp; went for a pitcher of water when I was told that 10, 4 or 6 horse waggons filled with wounded from the late battle were captured by citizens &amp; brought to town--the wounded were put into the hospitals &amp; the <orig reg="wagons">waggons</orig> &amp; drivers were taken on toward <orig reg="Harrisburg">Harisburg</orig>. Was also told that a great many more were out toward Greencastle--some went out to capture those but found that it was a train 20 miles long. P.M. A report has reached us that the whole rebel army is on the retreat--later that they are driven this way &amp; are expected on soon--Have church <abbr expan="Sunday">S.</abbr> School here today--seems like Sunday again  Evening. At or after 4 P.M. I dressed myself &amp; little girl and went to Mrs. Sulenbargers &amp; while there we heard a fuss outside &amp; when we got out lo our (Union of course) soldiers were coming in--she came along upstreet then to see them. They are of Milroys men<ref n="26" target="rcormany26">[26]</ref>--Just at dusk they went out the Greencastle road enroute to capture the <orig reg="wagon">waggon</orig> train which is trying to get over the river again. It is frightful how those poor wounded rebels are left to suffer. they are taken in large 4 horse <orig reg="wagons">waggons</orig>--wounds undressed--nothing to eat. Some are only about 4 miles from town &amp; those that are here are as dirty and lousy as they well can be. The condition of those poor rebels all along from <orig reg="Gettysburg">Getysburg</orig> to as far as they have come yet is reported dreadful. I am told they just beg the people along the road to help them--many have died by the way.</p>
+</div3>
+
+<div3 type="entry" n="1863-07-06" id="d31">
+<head>July 6, 1863</head>
+
+<p>I was sitting reading, Pussy playing by my side when little Willie Wampler came running as fast as he could to tell me a soldier had come to see me &amp; sure enough when I got to the door Mr Cormany just rode up. I was so very glad to see him that I scarcely knew how to act. He was very dirty &amp; sweaty so he took a bath &amp; changed clothes before he got himself dressed A. Holler &amp; Barny Hampshire called--next Rev. Dixon &amp; Dr Croft &amp; others. Eve we went down into the parlor to hear some of the girls play--Mr. <abbr expan="Cormany">C</abbr> was very much pleased with the music.</p>
+</div3>
+
+</div2>
+
+</div1>
+
+</body>
+
+<back id="d32">
+
+<div1 id="FD1006note" type="notes">
+<head>Notes
+<!-- <ref>FD1006note</ref> -->
+</head>
+
+<note n="1" place="end" id="rcormany1"><seg type="note-symbol">{1}</seg><p>  After repelling Hooker's attack at Chancellorsville, Lee had launched a new offensive, thrusting up the Shenandoah Valley, across the Potomac, through Hagerstown, Md., and then up the valley between South Mountain ridge and North Mountain ridge in Pennsylvania. His first major target was thought to be the Pennsylvania Railroad at Harrisburg. Maj. Gen. Robert H. Milroy, whose Union troops had been stationed at Winchester, Va., had lost more than a third of his command during the three previous days as his small force had been driven before the main Confederate army. Most of Milroy's remaining men had dug in near Harpers Ferry, but his supply wagons were still scurrying for safety just ahead of the invaders. See Glenn Tucker, <hi rend="italic">High Tide at Gettysburg: The Campaign in Pennsylvania</hi> (Indianapolis, 1958).</p></note>
+
+<note n="2" place="end" id="rcormany2"><seg type="note-symbol">{2}</seg><p>  Contrabands were black refugees. That usage had been initiated by Gen. Benjamin Butler who, though technically bound to return refugee slaves, had instead declared them contraband of war and put them to work. John G. Nicolay and John Hay, <hi rend="italic">Abraham Lincoln: A History</hi> (New York, 1890), IV, 388.</p></note>
+
+<note n="3" place="end" id="rcormany3"><seg type="note-symbol">{3}</seg><p>  Brig. Gen. Albert Gallatin Jenkins, a graduate of Harvard Law School, had been a member of Congress before the war. He resigned his seat to assume command of Confederate forces in western Virginia. During the Gettysburg offensive his cavalry brigade led the Southern drive up the valley along the railroad line from Hagerstown through Greencastle to Chambersburg. Official records confirm his time of arrival exactly when Rachel notes seeing him. <abbr expan="Dictionary of American Biography">DAB</abbr>, V, 43-44; Vincent J. Esposito, <hi rend="italic">The West Point Atlas of American Wars</hi> (New York, 1967), I, map 93. The bulk of the Southern cavalry was still far to the south and east, trying to screen Lee's invasion and monitor the Union response. See Samuel's entry for June 17, 1863.</p></note>
+
+<note n="4" place="end" id="rcormany4"><seg type="note-symbol">{4}</seg><p>  David Oaks, a dry-goods merchant, also managed the Oakes and Caufman warehouse beside the railroad depot on the edge of Chambersburg. John M. Cooper, <hi rend="italic">Recollections of Chambersburg, Pa., Chiefly Between the Years 1830-l850</hi> (Chambersburg 1900), pp. 7, 11. Most analyses of the issue of the destruction of civilian property during the Civil War focus on Sherman's actions in the South in 1864 and 1865. It can be argued, however, that his actions differed from previous practices on both side only in their self-conscious effectiveness. The Confederates were doing somewhat randomly in the spring of 1863 what Sherman--and many others on both sides--decided to do more systematically as the war dragged on.</p></note>
+
+<note n="5" place="end" id="rcormany5"><seg type="note-symbol">{5}</seg><p>  These reports were substantially correct, for the main body of Lee's army was now pushing up the valley behind Jenkins's advance columns. The 2nd Corps, under Lt. Gen. Richard Stoddard Ewell, with over twenty thousand men, was in the lead north of advance columns. The 2nd Corps, under Lt. Gen. Richard Stoddard Ewell, with over twenty thousand men, was in the lead north of Hagerstown; the 1st Corps, under Lt. Gen. James Longstreet, with another twenty thousand men, was in Hagerstown; and the 3rd Corps, commanded by Lt. Gen. Ambrose P. Hill, with twenty thousand more, was still at the Potomac end of the valley.</p></note>
+
+<note n="6" place="end" id="rcormany6"><seg type="note-symbol">{6}</seg><p>  Once it became clear that Lee was launching a full-scale invasion of the North, the authorities at Washington issued a series of desperate calls for all available militia units from the surrounding states to converge on the Harrisburg area. See, for example, "Proclamation Calling for 100,000 Militia," issued June 15, 1863, in Roy P. Basler, ed., <hi rend="italic">The Collected Works of Abraham Lincoln</hi> (New Brunswick, N.J., 1953), VI 277-78. Except for Pennsylvania itself, however, only New York State sent a substantial number of militia. Since these were local troops, they were not required to wear regular army uniforms; Irish-American militia from New York City, for example, arrived in Harrisburg wearing green jackets. See Wilbur Sturtevant Nye, <hi rend="italic">Here Come the Rebels!</hi> (Baton Rouge, La., 1965), p. 217. Hence, Rachel refers not to Confederate troops but to a New York unit known by the color of its uniforms.</p></note>
+
+<note n="7" place="end" id="rcormany7"><seg type="note-symbol">{7}</seg><p>  The New York militia established a defensive position overlooking the main road south toward Greencastle. Their battery consisted of two brass howitzers. Jacob Hoke, <hi rend="italic">The Great Invasion of 1863; or General Lee in Pennsylvania . . . With an Appendix Containing an Account of the Burning of Chambersburg, Pennsylvania</hi> (rpt. Dayton, Ohio), p. 123.</p></note>
+
+<note n="8" place="end" id="rcormany8"><seg type="note-symbol">{8}</seg><p>  As soon as real fighting appeared imminent, the poorly trained and inexperienced militia unit abandoned its camp to board a train for Harrisburg. The abandoned howitzers were rescued by the citizens and sent north. Ibid., pp. 128-30.</p></note>
+
+<note n="9" place="end" id="rcormany9"><seg type="note-symbol">{9}</seg><p>  The citizens of Chambersburg "helped themselves to what they pleased clothing and other articles" abandoned by the New Yorkers until the arrival of Confederates who were forcibly collecting supplies themselves. Hence the "men &amp; boys" headed out to the camp. Ibid., pp. 129-30.</p></note>
+
+<note n="10" place="end" id="rcormany10"><seg type="note-symbol">{10}</seg><p>  The Cumberland Valley Railroad crossed Conococheaque Creek at the hamlet of Scotland, about three and one-half miles northeast of Chambersburg. Jenkins's men had destroyed the bridge a week earlier. See Nye, <hi rend="italic">Here Come the Rebels!</hi>, p. 141.</p></note>
+
+<note n="11" place="end" id="rcormany11"><seg type="note-symbol">{11}</seg><p>  Even though there was substantial political opposition in this area to the Lincoln administration, and some opposition to the war itself, the civilian population seems to have been uncooperative with the Confederates during the Gettysburg offensive. Confederate scouts had been fired upon, civilians had tried to hide anything they thought the Confederates might want, and the townspeople had to be forced to feed the Southern soldiers. Later, there is evidence of petty resistance, including the giving of wrong directions and the withholding of supplies. Civilian hostility was a disappointment to Lee, who hoped that his invasion might flame discord in the North and spark anti-Lincoln activity. On popular reaction in Chambersburg see Jack McLaughlin, <hi rend="italic">Gettysburg: The Long Encampment</hi> (New York, 1963),p 35.</p></note>
+
+<note n="12" place="end" id="rcormany12"><seg type="note-symbol">{12}</seg><p>  The Jaretts lived four doors down the street from the Ploughs. <abbr expan="Atlas of Franklin County Pennsylvania">AFCP</abbr>, p. 24.</p></note>
+
+<note n="13" place="end" id="rcormany13"><seg type="note-symbol">{13}</seg><p>  Gen. Thomas "Stonewall" Jackson, a rigid Presbyterian, had died only a month before from a wound inflicted accidently by his own troops during the battle of Chancellorsville. Lee then reorganized the Army of Northern Virginia, placing most of Jackson's former command, including the famous Stonewall brigade, under General Ewell. James I. Robertson, Jr., <hi rend="italic">The Stonewall Brigade</hi> (Baton Rouge, La., 1963) pp. 194-201.</p></note>
+
+<note n="14" place="end" id="rcormany14"><seg type="note-symbol">{14}</seg><p>  A local physician. <abbr expan="Atlas of Franklin County Pennsylvania">AFCP</abbr>, pp. 19, 22.</p></note>
+
+<note n="15" place="end" id="rcormany15"><seg type="note-symbol">{15}</seg><p>  George Dittman ran a grocery store on Front Street, four doors toward the center of town from Ploughs. Ibid., pp. 19, 24.</p></note>
+
+<note n="16" place="end" id="rcormany16"><seg type="note-symbol">{16}</seg><p>  Neither of these reports was accurate.</p></note>
+
+<note n="17" place="end" id="rcormany17"><seg type="note-symbol">{17}</seg><p>  Rachel's estimates were reasonably accurate. Chambersburg had become an important Confederate staging area by this date. Part of Lee's army continued north, up the Cumberland Valley toward Carlisle and Harrisburg. Other elements took the road east, over the ridges to Cashtown and Gettysburg. Lee himself arrived in Chambersburg on June 26.</p></note>
+
+<note n="18" place="end" id="rcormany18"><seg type="note-symbol">{18}</seg><p>  "Copperhead" was a derogatory term for a Northerner who was considered sympathetic to the Southern cause.</p></note>
+
+<note n="19" place="end" id="rcormany19"><seg type="note-symbol">{19}</seg><p>  This was news of the battles at Aldie, Middleburg, and Upperville already detailed in Samuel's entries for June 17-22, 1863.</p></note>
+
+<note n="20" place="end" id="rcormany20"><seg type="note-symbol">{20}</seg><p>  Many of Lee's middle echelon officers were openly uneasy with the tactical decision that Lee had made on the night of June 28-29 to concentrate his invading army just east of the ridge between Chambersburg and Gettysburg, near the village of Cashtown. This decision "uncovered" the Confederate army, as it were, for Lee had come out from behind the shield of South Mountain. Glenn Tucker, <hi rend="italic">Lee and Longstreet at Gettysburg</hi> (Indianapolis, 1968), discusses some of the important disagreements among Confederate commanders and criticizes Lee for permitting them to become a major problem.</p></note>
+
+<note n="21" place="end" id="rcormany21"><seg type="note-symbol">{21}</seg><p>  Daniel Byers. Married Samuel's mother, Mary Eckerman Cormany, in 1859. Farmed some five miles north of Chambersburg.</p></note>
+
+<note n="22" place="end" id="rcormany22"><seg type="note-symbol">{22}</seg><p>  Henry W. Rebok, Married Samuel's older half sister Lydia, 1849.</p></note>
+
+<note n="23" place="end" id="rcormany23"><seg type="note-symbol">{23}</seg><p>  John Hampsher Cormany (1822/23-1892). Second child of Jacob Cormany and his first wife, Margaret Hampsher; half brother to Samuel. Lived with his family on the old Jacob Cormany farm throughout the period of the diaries.</p></note>
+
+<note n="24" place="end" id="rcormany24"><seg type="note-symbol">{24}</seg><p>  After the war John submitted a claim for the loss of this horse. The document is in the possession of his eighty-six-year-old grandson, J. Roy Cormany, of Chambersburg.</p></note>
+
+<note n="25" place="end" id="rcormany25"><seg type="note-symbol">{25}</seg><p>  This was the day of the great artillery duel and Pickett's Charge.</p></note>
+
+<note n="26" place="end" id="rcormany26"><seg type="note-symbol">{26}</seg><p>  These were the same Union forces that had been driven ahead of the invaders two weeks before. Now Milroy's men were helping local citizens capture wagon trains of Confederate wounded, which were desperately straggling toward Harpers Ferry and the relative safety of Virginia.</p></note>
+ 
+</div1> 
+</back> 
+</text> 
+</TEI.2> 
+ 

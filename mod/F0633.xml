@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0633"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F0633">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Josiah Bloss to His Sister, April 30, 1863</title>
+        <title type="sort">franklin county josiah bloss to his sister, april 30 1863</title>
+        <author>Bloss, Josiah</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Voorhees</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Voorhees</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">5</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">F0633</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:501297</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Franklin County: Josiah Bloss to His Sister, April 30, 1863</title>
+            <title level="m"/>
+            <title type="sort">franklin county josiah bloss to his sister, april 30 1863</title>
+            <author>Josiah Bloss</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>3 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Pennsylvania Archives, Bloss Family Collection,
+       1862-1910, Folder 1</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Pennsylvania Archives</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1863-04-30">1863-04-30</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Camp Life, Arts/Leisure </term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001">Fall 2001 </date>
+        <respStmt>
+          <resp/>
+          <name>Desi Hopkins</name>
+        </respStmt>
+        <item>Proofread against original; corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="F0633T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Josiah Bloss writes to his sister of the food they have in camp.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">His Sister</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1863-04-30">April 30. 1863</date>
+      <name type="place">Point Pleasent</name>
+     </dateline>
+     <salute>Dear Sister</salute>
+    </opener>
+
+    <p>I take the most and favorable opportunity to inform you that I am well and in great health at
+     the present and I hope this will find you the same. <orig reg="There">Ther</orig> is great
+     rumors here that our men is in <orig reg="Fredericksburg">Fredricksburg</orig> after fighting a
+     severe Battle but I <orig reg="don't">dont</orig> know how <pb n="2"/> true it is. This is a
+      <unclear>runing</unclear> hand writing that I have wrote on the other side I want you to send
+     me some gun shelack for <unclear>put</unclear> plates in a ring and send me a five <orig
+      reg="cent">sent</orig>
+     <orig reg="piece">peice</orig> of silver. I am going to make a ring of a bone of a horse.</p>
+
+    <p>I have had a belly full of apples <orig reg="today">to day</orig> on the steam boat, there
+     was a <orig reg="barrel">barl</orig> of on the boat for the <unclear>suttlers</unclear> and the
+     end of the <orig reg="barrel">barl</orig> was open and I eat as many as I could eat. the
+      <unclear>suttler</unclear> sells the <orig reg="apples">aples</orig> for five <orig
+      reg="cents">sents</orig> a <orig reg="piece">peise</orig>.<pb n="3"/></p>
+
+    <p>I have firstrate times here plenty of fresh <orig reg="bread">bred</orig> and I buy butter of
+     the <unclear>suttler</unclear> for fifty cents a pound. and lots of mustard and pepper. we have
+     good living here I <orig reg="don't">dont</orig> care if uncle <del hand="h1">sams</del> sam
+     lets me stay here till the war is over if he gives me plenty of <orig reg="bread">bred</orig>
+     pork and beans and potatoes coffee and sugar and tea, vinegar <orig reg="molasses"
+     >molases</orig> candles soap vegetables soap. The above is what we draw here to eat and candles
+     to burn,</p>
+
+    <closer>
+     <salute>from your Brother</salute>
+     <signed>Josiah Bloss<lb/>Co. K. 17 Pa Cavalry<lb/>Washington<lb/>D.C.</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

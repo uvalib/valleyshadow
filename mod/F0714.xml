@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0714"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub; 
+ <!NOTATION jpg SYSTEM "JPEG">  
+ <!ENTITY BitSho1a SYSTEM "uva-lib:502985" NDATA uvaHighRes> 
+ <!ENTITY BitSho1b SYSTEM "uva-lib:502986" NDATA uvaHighRes> 
+ <!ENTITY BitSho1c SYSTEM "uva-lib:502987" NDATA uvaHighRes> 
+ <!ENTITY BitSho1d SYSTEM "uva-lib:502988" NDATA uvaHighRes> 
+   
+ ]>  
+<TEI.2 id="F0714">
+ <teiHeader type="migrated">
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: David R. P. Shoemaker to Henry A. Bitner,
+     January 18, 1862</title>
+        <title type="sort">franklin county david r p shoemaker to henry a bitner, january 18 1862</title>
+        <author>Shoemaker, David R. P.</author>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Anne Rubin, Valley of the Shadow project, Institute for Advanced Technology in the
+      Humanities, University of Virginia </name>
+          <resp>Creation of digital images: </resp>
+          <name>Anne Rubin, Valley of the Shadow project, Institute for Advanced Technology in the
+      Humanities, University of Virginia </name>
+          <resp>Conversion to TEI.2-conformant markup: </resp>
+          <name>University of Virginia Library Electronic Text Center. </name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. <num type="kilobytes">10</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>University of Virginia Library </publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+        <idno type="VCDH">F0714</idno>
+        <!--
+    <availability>
+     <p>Publicly-accessible </p>
+     <p>URL: http://etext.lib.virginia.edu/modeng/modengB.browse.html </p>
+     <p>Publicly-accessible </p>
+     <p>URL: http://jefferson.village.Virginia.EDU/vshadow2/ </p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1998 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1998">1998 </date>
+        <idno type="uva-pid">uva-lib:501358</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p> </p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note>
+          <p>Images of the manuscript have been included. This electronic text is a faithful
+      transcription of the original manuscript. We have included SGML tags which allow the reader to
+      view a modernized version of the text in which the punctuation and the spelling have been
+      regularized.</p>
+        </note>
+        <note> </note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Franklin County: David R. P. Shoemaker to Henry A. Bitner, January 18, 1862</title>
+            <title level="u"> </title>
+            <title type="sort">franklin county david r p shoemaker to henry a bitner, january 18 1862</title>
+            <author>David R. P. Shoemaker</author>
+            <respStmt>
+              <resp> </resp>
+              <name> </name>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p> </p>
+          </editionStmt>
+          <extent> </extent>
+          <publicationStmt>
+            <publisher> </publisher>
+            <pubPlace> </pubPlace>
+            <date value=""> </date>
+            <idno type="callno">Manuscript copy consulted: University of Virginia, Alderman Library,
+       Special Collections MSS 11395 </idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p> </p>
+          </seriesStmt>
+          <notesStmt>
+            <note> </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Prepared for the University of Virginia Library Electronic Text Center. </p>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Original lineation has been maintained. </p>
+        <p>The images exist as archived TIFF images, one or more JPEG versions for general use, and
+     thumbnail GIFs. </p>
+        <p>Some keywords in the header are a local Electronic Text Center scheme to aid in establishing
+     analytical groupings. </p>
+      </editorialDecl>
+      <refsDecl>
+        <p> </p>
+      </refsDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings </title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date value="1862-01-18">1862-01-18 </date>
+      </creation>
+      <langUsage>
+        <language id="eng">English </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>nonfiction </term>
+          <term>prose </term>
+          <term>masculine </term>
+          <term>American Civil War; Special Collections </term>
+          <term>Eleventh Ohio Volunteer Infantry </term>
+          <term>Company E </term>
+          <term>Franklin County </term>
+          <term>Enlistment </term>
+          <term>Camp Life </term>
+
+          <term>American Civil War</term>
+        </keywords>
+        <keywords>
+          <term>LCSH </term>
+        </keywords>
+        <keywords>
+          <term> </term>
+          <term> </term>
+          <term type="format">72 dpi; 24-bit color </term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date value="1998-05">May 1998 </date>
+        <respStmt>
+          <resp>corrector </resp>
+          <name>Lisa Spiro and Carolyn Fay </name>
+        </respStmt>
+        <item>Added TEI header and tags, corrected transcription errors, and standardized punctuation
+     and spelling for the modernized version. </item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+ <text id="F0714T">
+  <body id="d2">
+   <div1 type="letter" n="1862-01-18" id="d3">
+    <!-- <page n=1><ID>BitSho11</ID> -->
+    <opener>
+
+
+     <pb n="1" entity="BitSho1a" pid="uva-lib:502985"/>
+
+
+     <dateline>
+      <name type="place">Camp Dennison, Ohio. </name>
+      <lb/>
+      <date value="1862-01-18">Jan. 18, 1862 </date>
+     </dateline>
+
+    </opener>
+    <p>Old friend-- It is <lb/> very seldom that I have to <orig reg="apologize">apolo= <lb/>
+     gize</orig> for any failure in <orig reg="punctuality">punctu= <lb/> ality</orig> in answering
+     correspondents, <lb/> but have not been as punctual as <lb/> usual in answering your last,
+     <lb/> (forwarded to me to <name type="place">Camp Chase</name>
+     <lb/> at <name type="place">Columbus</name>) from the fact <abbr expan="that">th</abbr>
+     <lb/> we have never known until now<lb/> how long we would remain in <lb/> Camp or where we
+     would be <lb/> ordered to. </p>
+    <p>You will perceive by this time <lb/> that I am again in the service <!-- </page> -->
+     <!-- <page n=2><ID>BitSho12</ID> -->
+     <pb n="2" entity="BitSho1b" pid="uva-lib:502986"/> of Uncle Sam. I have been <lb/> soldiering since the fifth of
+      <abbr expan="November">Nov.</abbr>
+     <lb/> I resigned my situation in <lb/>
+     <name type="place">Darke <abbr expan="County">Co.</abbr></name> and quit the business <lb/> of
+     teaching the young idea<lb/> how to shoot, in order <lb/> to learn how to shoot (secessionists)
+     <lb/> myself. O Lord! what men <lb/> will do for glory, beans, bacon <lb/> and $17 per month! I
+     am <lb/> writing this on the soldier's <lb/> writing desk, i.e. a board 18 <lb/> inches square
+     placed upon my <lb/> knees. </p>
+    <p>We are provided with very <lb/> good quarters here--regular <lb/> barracks--and plenty of
+     beans, <orig reg="bacon,">ba=<lb/> con,</orig> hominy, and other luxuries. <lb/> but alas! how
+     fleeting is all <lb/> earthly happiness! We are <orig reg="ordered">or=<lb/> dered</orig> to
+     leave next week for <!-- </page> -->
+     <!-- <page n=3><ID>BitSho13</ID> -->
+     <pb n="3" entity="BitSho1c" pid="uva-lib:502987"/>
+     <name type="place">Virginia</name>, and ere this reaches you <lb/> we will be in "Dixie's
+     Land." </p>
+    <p>The only thing about the <orig reg="business">busi=<lb/> ness</orig> I don't like is that it
+      <orig reg="deprives">de= <lb/> prives</orig> us of the pleasure of that <lb/> time honored
+     institution--"sparking <lb/> Sunday night." I haven't been <lb/> within 6 feet of a piece of
+      <orig reg="calico">cali= <lb/> co</orig> for two months. Ugh! Think <lb/> of that old fellow,
+     and the next <lb/> time you go to see your--what's <lb/> her name?--just give her a smack <lb/>
+     on those rosy lips of hers for me. <lb/> Well, sir, the tattoo is beating and I <lb/> must
+     attend roll call. </p>
+    <p> As taps will beat in 20 minutes <lb/> and all lights must be extinguished <lb/> I must now
+     close. My respects to <lb/> the friends and compliments to <lb/> the ladies--especially your
+     Angelia <lb/> Seraphina. Hope you will <!-- </page> -->
+     <!-- <page n=4><ID>BitSho14</ID> -->
+     <pb n="4" entity="BitSho1d" pid="uva-lib:502988"/> answer soon. My address <lb/> for a few weeks will be </p>
+    <closer>
+     <signed>
+      <name type="person">"Dave. R.P. Shoemaker</name>
+     </signed><lb/>
+     <abbr expan="Company">Co.</abbr> E. 11th <abbr expan="Regiment">Reg.</abbr>
+     <abbr expan="Ohio Volunteers">O.V.</abbr>U.S.A. <lb/>
+     <name type="place">Point Pleasant, Virginia</name><lb/> Care of <name type="person"><abbr
+       expan="Captain">Capt.</abbr> Douglas</name>."<lb/>
+    </closer>
+   </div1>
+   <!-- </page> -->
+  </body>
+ </text>
+</TEI.2>

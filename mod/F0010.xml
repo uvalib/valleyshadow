@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0010"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F0010">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Samuel M. Potter to Cynthia Potter,
+                    November 8, 1862</title>
+        <title type="sort">franklin county samuel m potter to cynthia potter, november 8 1862</title>
+        <author>Potter, Samuel M.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amy Voorhees</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F0010</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501185</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Samuel M. Potter to Cynthia Potter, November 8, 1862</title>
+            <title level="m"/>
+            <title type="sort">franklin county samuel m potter to cynthia potter, november 8 1862</title>
+            <author>Samuel M. Potter</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Pennsylvania Historical and
+                            Museum Commission, Civil War Material, Misc. Diaries, and Letter,
+                            Microfilm, MG-132</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note>
+                            <p>This transcription was made from a typescript of the original letter.
+                                The note to Potter's sister Mary, which is here appended as a
+                                postscript, is included on the same page of the transcription.</p>
+                        </note>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Pennsylvania Historical and Museum Commission, Harrisburg, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1862-11-08">1862-11-08</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Home Front, Church/Religious Activity, Family, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2003-01">January 2003</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against transcription; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F0010T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Potter writes of snow in camp and how much he looks forward to receiving his
+                    wife's letters. His letter enjoins his wife to continue instructing their
+                    children "in the ways of holiness" in his absence.</p>
+            </div1>
+
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+               
+
+                <opener>
+                    <dateline>
+                        <date value="1862-11-08">Nov 8th 1862</date>
+                        <name type="place">Camp Curtin</name>
+                    </dateline>
+                    <salute>Dear Cynthia</salute>
+                </opener>
+
+                <p>Your letter of Oct 31st came safely to hand &amp; I was glad to hear that you
+                    are all well. I am still in the enjoyment of good health. Yesterday morning it
+                    commenced snowing &amp; continued until late at night making 3 or 4 inches
+                    on snow on the ground. We lifted the floor of our tent &amp; built a fire so
+                    had a comfortable time of it. This morning our <abbr expan="Regiment">Reg</abbr>
+                    had orders to move about 2 miles the other side of Harrisburg on a hill to take
+                    up winter quarters, but on account of the rough weather we will not go until
+                    next week. I got your paper &amp; was pleased to read the news. Mr. Clutter
+                    got here this morning &amp; <orig reg="brought">brot</orig> that jar of
+                    ointment. The time is passing much more pleasantly since I am getting a letter
+                    every week from you. The days do not appear so long &amp; lonesome. Your
+                    letters carry my mind back home &amp; what you write of yourself Mary
+                    &amp; the children doing I think I see you &amp; hear you do. I think I
+                    can see the children carrying their walnuts down to the house &amp; Bell
+                    laughing &amp; talking when they come in with them &amp; then looking
+                    for the mail to come in the last of the week &amp; feel sure of a letter
+                    from you is a pleasure which keeps the time from being long &amp; lonesome
+                    on my hands. Tomorrow is the Sabbath &amp; I would like to keep it with you
+                    in the peace &amp; quiet of our home instructing the children in the ways of
+                    holiness but this duty comes to you &amp; my prayer is that God will give
+                    you grace for the performance of it. The vows rest on us both &amp; I hope
+                    to be spared to return to assist you &amp; uphold you in the performance of
+                    all duties &amp; to enjoy myself again in the bosom of my family. I must go
+                    on here in the performance of my duty &amp; leave the issue to the Disposer
+                    of all events. I wrote in my last of a box to be sent to the West Finley boys.
+                    You can send me what you think best but I would like to have some of your good
+                    butter on hard crackers.</p>
+
+                <closer>
+                    <salute>No more at present but I remain your loving &amp; affectionate
+                        husband</salute>
+                    <signed>S. M. Potter</signed>
+                    <seg type="postscript">Write my name on what your send me. My love to all the
+                        children &amp; all friends<lb/> Kind sister Mary<lb/> Your letter came
+                        with <orig reg="Cynthia's">Cynthias</orig> &amp; I was glad to know that
+                        you were well. I have not heard from home since you left. I sent them a
+                        letter by Tom Marshall. I thought it would be some time in getting to them
+                        &amp; have not got an answer yet. For the present time there is no
+                        change in my position. I would like to better it but all gifts come from the
+                        hand of Him who knows what is best for us &amp; I will use all lawful
+                        means &amp; leave all in the hands of the Disposer of all events, my
+                        petition &amp; endeavor to say thy will be done. We have no particular
+                        news other more than what I wrote to Cynthia. Your affectionate brother
+                        <lb/> S.M. Potter</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

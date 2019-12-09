@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+
+<?dlps id="A6042"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+<!ENTITY % MANUSCRIPT "INCLUDE">
+
+ 
+ <!ENTITY Smiley14 SYSTEM "uva-lib:503123" NDATA uvaHighRes> 
+ <!ENTITY Smiley14b SYSTEM "uva-lib:503124" NDATA uvaHighRes> 
+ <!ENTITY Smiley14c SYSTEM "uva-lib:503125" NDATA uvaHighRes> 
+
+ ]>  
+  
+  
+ <TEI.2 id="A6042">  
+ <teiHeader type="migrated">  
+  
+    <fileDesc>  
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Thomas M. Smiley to His Aunt, November 12, 1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county thomas m smiley to his aunt, november 12 1862</title>
+        <author>Smiley, Thomas M.</author>
+        <editor/>
+        <respStmt>  
+          <resp>Creation of machine-readable version: </resp>  
+          <name>Jaime Henshaw</name>  
+          <resp>Conversion to TEI.2-conformant markup:</resp>  
+          <name>Alice McShane</name>  
+        </respStmt>
+      </titleStmt>  
+  
+      <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+      <publicationStmt>  
+        <publisher>Virginia Center for Digital History</publisher>  
+        <pubPlace>Charlottesville, Virginia </pubPlace>  
+  
+        <idno type="VCDH">A6042</idno>  
+  
+        <!--
+ <availability>  
+ <p>Publicly accessible </p>  
+ <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>  
+ <p>Text and images (c) copyright 2001, by the Rector and Visitors of the 
+ University of Virginia</p>  
+ </availability>
+-->  
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>  
+        <idno type="uva-pid">uva-lib:503122</idno>
+      </publicationStmt>  
+      <seriesStmt> 
+        <p>The Valley of the Shadow: Two Communities in the American 
+ Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>  
+      <notesStmt>
+        <note/>
+      </notesStmt>  
+  
+      <sourceDesc>  
+        <biblFull>  
+          <titleStmt>
+            <title>Augusta County: Thomas M. Smiley to His Aunt, November 12, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta county thomas m smiley to his aunt, november 12 1862</title>
+            <author>Thomas M. Smiley</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>  
+          <editionStmt>
+            <p/>
+          </editionStmt>  
+          <extent>1 page</extent>  
+          <publicationStmt>  
+            <publisher/>  
+            <pubPlace/>  
+            <date value=""/> 
+            <idno type="callNo">Source copy consulted: Smiley Family Papers Special 
+ Collections Department, University of Virginia Library, Charlottesville, 
+ Virginia</idno> 
+          </publicationStmt>  
+          <seriesStmt>
+            <p/>
+          </seriesStmt>  
+          <notesStmt>
+            <note/>
+          </notesStmt>  
+        </biblFull>  
+      </sourceDesc>  
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>  
+  
+    <profileDesc>  
+      <creation>
+        <date value="1862-11-12">1862-11-12</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>  
+      <textClass>  
+        <keywords>  
+          <term>Battle Description, Camp Life, Death/Casualties, Home Front, 
+ Military Authority, Prisons/Prisoners, Troop Movement </term>  
+          <term>American Civil War</term> 
+        </keywords>  
+      </textClass>  
+    </profileDesc>  
+  
+    <revisionDesc>  
+      <change>  
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>  
+        <item/>  
+      </change>  
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>  
+ </teiHeader>  
+  
+ <text id="A6042T"> 
+ <front id="d2"> 
+ <div1 type="summary" id="d3"> 
+ <p>Thomas M. Smiley winter camp on Valley Turnpike near Winchester.  It is snowing and they are waiting for their tents.  He asks about a rumored wedding back home.</p>  
+ </div1>  
+ </front>  
+  
+ <body id="d4"> 
+ <div1 type="letter" id="d5"> 
+ <head> 
+ <name type="recipient">aunt</name>  
+ </head> 
+  
+ <opener> 
+ <pb n="1" entity="Smiley14" pid="uva-lib:503123"/>
+ <dateline> 
+ <date value="1862-11-12">Nov 12<hi rend="super">th</hi> 1862</date>
+  <name type="place">Camp Stephenson </name>  
+ </dateline>  
+ <salute>Dear Aunt</salute>  
+ </opener>  
+  
+ <p>I will endeavor this morning to write you a few lines to let you know 
+ that I am well &amp; hope these few lines may find you enjoying the same 
+ blessing.  We are now camped at the same place we were at this time last 
+ year four miles below Winchester on the Valley turnpike We came here on 
+ Monday.  We received orders to move above Winchester on sunday but on 
+ Monday morning we got orders to go below Winchester four miles and take up 
+  Winter quarters so we are now in our quarters for the winter<pb n="2" entity="Smiley14b" pid="uva-lib:503124"/> 
+ 
+ unless the enemy chase us away.  We have no tents although we expect them 
+ shortly I do not know how we would get along without tents as winter has 
+ already set in with us there was a considerable Snow here last friday and 
+ it is now cloudy and looks as if it would snow <orig reg="tonight">to 
+ night</orig>.  There has been considerable fighting along the mountain 
+ lately.  D H Hill had a skirmish with the enemy last week at Castlemans 
+ Ferry in which the enemys loss was forty killed, and one hundred wounded; 
+ and not a single man on our side injured.  We also took several hundred 
+ prisoners, at Harpers Ferry lately, they are now in Winchester under a 
+ strong guard.  It has been reported here that One division of the enemy; 
+ numbering ten, or fifteen, thousand men threw down their arms and refused 
+  to come on confederate soil to fight; but said that if we<pb n="3" entity="Smiley14c" pid="uva-lib:503125"/>  
+ 
+ would go to invade them they would do their best fighting.  I would not 
+ care much if they were all like this division refuse to invade us.  I 
+ heard a few days ago that there has been a wedding close to you, John 
+ M<hi rend="super">c</hi>Kenny, &amp; Hannah Berry  Lieutenant 
+ Carson got a letter last week in which it was that they were married and 
+ on a bridal trip to Giles County.  Tell Mary that I think it is pretty 
+ near time she was writing as I have not got any word from home since I 
+ started away three weeks ago.  I must now draw my note to a close by 
+ asking you to excuse all mistakes bad writing <orig 
+ reg="etc.">&amp;c</orig></p> 
+  
+ <closer> 
+ <salute>Give my love to Aunt Ann, Uncles Jamess family and all other 
+ enquiring friends also receive a due share yourself from your affectionate 
+ nephew</salute>  
+ <signed>Thomas. M. Smiley</signed>   
+ </closer>  
+ </div1>  
+ </body>  
+ </text>  
+ </TEI.2> 

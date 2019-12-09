@@ -1,0 +1,1407 @@
+<?xml version="1.0"?>
+
+<?dlps id="AD1009"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="AD1009">
+<teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Diary of Robert P. Bryarly (1863-1864)</title>
+        <title type="sort">augusta county diary of robert p bryarly 1863 1864</title>
+        <author>Bryarly, Robert P.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Elizabeth Crocker</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Elizabeth Crocker</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>
+        <num type="kilobytes"> 43 kilobytes</num>
+      </extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">AD1009</idno>
+
+        <!--
+<availability>
+<p>Publicly accessible </p>
+<p n="public">URL:
+http://jefferson.village.virginia.edu/vshadow2/</p>
+<p>copyright 1998, by the Rector and Visitors of the
+University of Virginia</p>
+</availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1998 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1998">1998</date>
+        <idno type="uva-pid">uva-lib:500331</idno>
+      </publicationStmt>
+      <seriesStmt> 
+        <p>The Valley of the Shadow:  Two Communities in
+the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Diary of Robert P. Bryarly</title>
+            <title level="m"> </title>
+            <title type="sort">diary of robert p bryarly</title>
+            <author>Robert P. Bryarly</author>
+            <editor/>
+            <respStmt>
+              <resp>e.g. Translator</resp>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt> 
+            <p> </p> 
+          </editionStmt>
+          <extent>pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Diary of Robert P.
+Bryarly in the private collection of Andrew C. Bryarly of
+Martinsburg, West Virginia</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p>The Valley of the Shadow:  Two Communities in
+the American Civil War</p>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>The original is in the private possession of
+Andrew C. Bryarly of Martinsburg, West Virginia.  We would
+like to thank Mr. Bryarly for allowing us to publish this
+diary in full here.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Berkeley County Historical Society, Martinsburg WV</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <dateRange from="1863-11-18" to="1864-11-09">1863-11-18; 1864-11-09</dateRange>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Battle Description, Camp Life, Death/Casualties, Family,
+Medicine/Hospitals, Troop Movement, Women</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001-05">May 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Susanna Michele Lee</name>
+        </respStmt>
+        <item>Proofread against photocopy of transcription obtained
+from Andrew C. Bryarly of Martinsburg, Virginia.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+
+<text id="AD1009T">
+
+<front id="d2">
+
+<div1 id="AD1009bio" type="bio">
+<head>Biography
+<!-- <ref>AD1009bio</ref> -->
+</head>
+<p>Robert P. Bryarly kept a diary from November 1863, when he
+turned 20 years old, to November 1864.  He titled his diary
+"Notes of my twenty-first year," and in it he provides
+accounts of his service in Company B of the 1st Virginia
+Cavalry.  Bryarly briefly chronicles troop movements,
+skirmishes with the enemy, visits to relatives while on
+furlough, and the deaths of comrades.  The diary ends with an
+injury in late 1864.  According to a register of the
+Confederate Hospital at Charlottesville, Virginia, Bryarly
+returned to duty on April 7, 1865.</p></div1></front>
+
+<body id="d4">
+
+
+
+
+<div1 id="AD10091863" type="part" n="1863">
+<head>1863
+<!-- <ref>AD10091863</ref> -->
+</head>
+
+<div2 type="section" n="1863-11" id="d6">
+<head>November 1863
+<!-- <ref>Battle Description, Troop Movement </ref> -->
+</head>
+
+<div3 type="entry" n="1863-11-18" id="d7">
+<head>Nov. 18th</head>
+<p>twentieth birthday, ordered to move camp, orders
+countermanded.</p>
+</div3>
+
+<div3 type="entry" n="1863-11-19" id="d8">
+<head>19th</head>
+<p>Moved camp about a mile + encamp near <orig
+reg="Rapidan">Rapid Ann</orig> River.</p> </div3>
+
+<div3 type="entry" n="1863-11-20" id="d9">
+<head>From the <dateRange from="1863-11-20" to="1863-11-26">20th to 26th</dateRange></head>
+<p>In camp, all quiet.  Evening of the 26th moved camp; passed
+through Orange Court house to Moreton's ford, on <orig reg="Rapidan River">Rapid Ann R</orig>.</p></div3>
+
+<div3 type="entry" n="1863-11-27" id="d10">
+<head>27th</head>
+<p>Enemy crossed at Raccoon ford, were driven back</p></div3>
+
+<div3 type="entry" n="1863-11-28" id="d11">
+<head><dateRange from="1863-11-28" to="1863-11-30">28th, 29th + 30th</dateRange>-</head>
+<p>Slight skirmishing at the ford.</p></div3>
+</div2>
+
+<div2 type="section" n="1863-12" id="d12">
+<head>December 1863
+<!-- <ref>Camp Life, Troop Movement </ref> -->
+</head>
+
+<div3 type="entry" n="1863-12-01" id="d13">
+<head><dateRange from="1863-12-01" to="1863-12-02">December 1st and 2d.</dateRange></head>
+<p>At Raccoon ford.</p>
+</div3>
+
+<div3 type="entry" n="1863-12-03" id="d14">
+<head>3d</head>
+<p>Returned to camp near Orange, <abbr expan="Courthouse">C.H.</abbr></p></div3>
+
+<div3 type="entry" n="1863-12-04" id="d15">
+<head><dateRange from="1863-12-04" to="1863-12-06">4th, 5th + 6th</dateRange>-</head>
+<p>In camp.</p></div3>
+
+<div3 type="entry" n="1863-12-07" id="d16">
+<head><dateRange from="1863-12-07" to="1863-12-08">7th + 8th</dateRange>-</head>
+<p>At Madison <abbr expan="Courthouse">C. H.</abbr></p></div3>
+
+<div3 type="entry" n="1863-12-09" id="d17">
+<head><dateRange from="1863-12-09" to="1863-12-10">9th + 10th</dateRange></head>
+<p>In camp.</p></div3>
+
+<div3 type="entry" n="1863-12-11" id="d18">
+<head>11th</head>
+<p>Moved camp passed through Barboursville; encamped near
+there for the night.</p></div3>
+
+<div3 type="entry" n="1863-12-12" id="d19">
+<head>12th</head>
+<p>Marched to within 2 miles of Charlottesville.</p></div3>
+
+<div3 type="entry" n="1863-12-13" id="d20">
+<head>13th</head>
+<p>In camp, nothing for our horses to eat.</p></div3>
+
+<div3 type="entry" n="1863-12-14" id="d21">
+<head>14th</head>
+<p>Started for the Valley, sent back with detail for rations. 
+overtook command near White Hall, crossed Blue Ridge
+Mountains, at Brown's gap.  Marching nearly all night, very
+cold.  Encamped near Port Republic.</p></div3>
+
+<div3 type="entry" n="1863-12-15" id="d22">
+<head>15th</head>
+<p>Marched about 3 miles above Mt. Sydney.  encamped for the
+night.--</p></div3>
+
+<div3 type="entry" n="1863-12-16" id="d23">
+<head>16th</head>
+<p>Moved at Sunrise towards Staunton, halted near there in the
+afternoon, returned nearby to Mt. Crawford.</p></div3>
+
+<div3 type="entry" n="1863-12-17" id="d24">
+<head>17th</head>
+<p>Moved at sunrise towards Staunton, passed through the town,
+on towards Greenville.  sleeting quite fast all day.  went
+into camp near the latter place about nine <orig reg="o'clock">oclock</orig> at night.  Ordered to move at
+<hi rend="underline">twelve</hi> <orig reg="o'clock">oclock</orig>.  Ration of whiskey issued to
+Brigades.  Moved at 12 <orig reg="o'clock">oclock</orig>,
+(still sleeting, very fast.) -in the direction of Lexington
+arrived there on the morning of the 18th - fed; and passed
+through the town.  Encamped near the town for the
+night.</p></div3>
+
+<div3 type="entry" n="1863-12-19" id="d25">
+<head>19th</head>
+<p>Moved on through <orig reg="Collierstown">Colierstown</orig> to Buchanan.  Halted.
+Ordered to move at 12 <orig reg="o'clock">oclock</orig> at
+night.</p></div3>
+
+<div3 type="entry" n="1863-12-20" id="d26">
+<head>20th</head>
+<p>Passed through Fincastle, marching all day, and
+night.</p></div3>
+
+<div3 type="entry" n="1863-12-21" id="d27">
+<head>21st</head>
+<p>Arrived at Covington, halted and fed.  Then moved on the
+warm spring road.  Encamped about fifteen miles from the
+town.</p></div3>
+
+<div3 type="entry" n="1863-12-22" id="d28">
+<head>22nd</head>
+<p>Marched on all day, + encamped at night near the Big Cow
+pasture river.</p></div3>
+
+<div3 type="entry" n="1863-12-23" id="d29">
+<head>23rd</head>
+<p>Moved on to Bath Alum Springs.  encamped for the
+night.</p></div3>
+
+<div3 type="entry" n="1863-12-24" id="d30">
+<head>24th</head>
+<p>Passed thorough Brownsburg.  The citizens distributed any
+amount of provisions among the troops at night encamped near
+Greenville.  <hi rend="underline">Went</hi> to
+Church.</p></div3>
+
+<div3 type="entry" n="1863-12-25" id="d31">
+<head>25th</head>
+<p>Passed through Staunton and encamped near the Willow pump
+for the night.</p></div3>
+
+<div3 type="entry" n="1863-12-26" id="d32">
+<head>26th</head>
+<p>Marched on to Harrisonburg.  at night encamped near
+there.</p></div3>
+
+<div3 type="entry" n="1863-12-27" id="d33">
+<head>27th</head>
+<p>Moved to New Market.</p></div3>
+
+<div3 type="entry" n="1863-12-28" id="d34">
+<head>28th</head>
+<p>Moved camp below town</p></div3>
+
+<div3 type="entry" n="1863-12-29" id="d35">
+<head><dateRange from="1863-12-29" to="1863-12-30">29th + 30th</dateRange></head>
+<p>In camp, all quiet</p></div3>
+
+<div3 type="entry" n="1863-12-31" id="d36">
+<head>31st</head>
+<p>Started for Moorefield in Hardy County.</p></div3>
+</div2>
+</div1>
+
+<div1 id="AD10091864" type="part" n="1864">
+<head>1864
+<!-- <ref>AD10091864</ref> -->
+</head>
+
+<div2 type="section" n="1864-01" id="d38">
+<head>January 1864
+<!-- <ref>Family, Troop Movement</ref> -->
+</head>
+
+<div3 type="entry" n="1864-01-01" id="d39">
+<head>January 1st 1864.</head>
+<p>Encamped about 12 <orig reg="o'clock">oclock</orig> at
+night about 3 miles south of Moorefield. Marching very bad on
+account of ice, and cold weather,</p></div3>
+
+<div3 type="entry" n="1864-01-02" id="d40">
+<head>2d</head>
+<p>In camp; very cold.</p></div3>
+
+<div3 type="entry" n="1864-01-03" id="d41">
+<head>3d</head>
+<p>Moved towards Petersburg, captured a train of wagons, and
+eighty-four prisoners, where the road from Moorefield
+intersects the Petersburg and New creek grade;  Encamped near
+there for the night.</p></div3>
+
+<div3 type="entry" n="1864-01-04" id="d42">
+<head>4th</head>
+<p>Went to Burlington stayed near there all night.</p></div3>
+
+<div3 type="entry" n="1864-01-05" id="d43">
+<head>5th</head>
+<p>Marched to <unclear>Ridgeville or Ridgeview</unclear>
+snowing quite fast, encamped there all night.</p></div3>
+
+<div3 type="entry" n="1864-01-06" id="d44">
+<head>6th</head>
+<p>Started for Newcreek at daylight after marching four or
+five miles.  The orders were countermanded, (on account of bad
+weather) returned to Burlington.</p></div3>
+
+<div3 type="entry" n="1864-01-07" id="d45">
+<head>7th</head>
+<p>Passed through Romney on to Brown's Gap settlement,
+encamped for the night.</p></div3>
+
+<div3 type="entry" n="1864-01-08" id="d46">
+<head>8th</head>
+<p>Moved and encamped about 8 miles from
+Harrisonburg</p></div3>
+
+<div3 type="entry" n="1864-01-09" id="d47">
+<head>9th</head>
+<p>Moved within one mile of town, had my ankle badly sprained
+by my horse falling on it.</p></div3>
+
+<div3 type="entry" n="1864-01-10" id="d48">
+<head>10th</head>
+<p>The 5 <hi rend="underline">Valley</hi> companies of my
+<abbr expan="Regiment">Regt.</abbr> disbanded for ten
+days.</p></div3>
+
+<div3 type="entry" n="1864-01-11" id="d49">
+<head>11th</head>
+<p>Started for my <orig reg="uncle's">uncles</orig> in
+Albemarle county.  spent the night with Mr. Brown, at Brown's
+Gap.</p></div3>
+
+<div3 type="entry" n="1864-01-12" id="d50">
+<head>12</head>
+<p>Arrived at my Uncle's.  From <dateRange from="1864-01-12" to="1864-01-21">12th to 21st</dateRange> at my
+<orig reg="Uncle's">Uncles</orig>.</p></div3>
+
+<div3 type="entry" n="1864-01-21" id="d51">
+<head>21st</head>
+<p>Started for camp near Charlottesville.</p></div3>
+
+<div3 type="entry" n="1864-01-22" id="d52">
+<head>22d</head>
+<p><abbr expan="Regiment">Regt.</abbr> disbanded with the
+    exception of companies A. B. F. + K.  From <dateRange from="1864-01-22" to="1864-01-31">22d to 31st</dateRange>.  In camp,
+drilling, and dress parade every day.</p></div3>
+</div2>
+
+<div2 type="section" n="1864-02" id="d53">
+<head>February 1864
+<!-- <ref>Camp Life, Desertion/Leave, Family</ref> -->
+</head>
+
+<div3 type="entry" n="1864-02-01" id="d54">
+<head>February 1st</head>
+<p>In camp.</p></div3>
+
+<div3 type="entry" n="1864-02-02" id="d55">
+<head>2d.</head>
+<p>Started for my Uncle Richard Bryarly in Rockbridge <abbr expan="County">Co.</abbr> on an 8 days furlough.  Arrived
+there on the 3d.</p></div3>
+
+<div3 type="entry" n="1864-02-04" id="d56">
+<head><dateRange from="1864-02-04" to="1864-02-08">4th to the 8th</dateRange></head>
+<p>At my <orig reg="Uncle's">Uncles</orig></p></div3>
+
+<div3 type="entry" n="1864-02-08" id="d57">
+<head>8th-</head>
+<p>Started for camp, overtook <abbr expan="Regiment">Regt.</abbr> near <orig reg="Barboursville">Barborsville</orig> on the
+12th.</p></div3>
+
+<div3 type="entry" n="1864-02-13" id="d58">
+<head>13th</head>
+<p>Went in to camp near Orange Court <abbr expan="House">H</abbr>.  From <dateRange from="1864-02-13" to="1864-02-17">13th to 17th</dateRange>.  In camp.</p>
+</div3>
+
+<div3 type="entry" n="1864-02-17" id="d59">
+<head>17th</head>
+<p>Regiment on Picket, on <del rend="none" hand="h1"></del> river.</p></div3>
+
+<div3 type="entry" n="1864-02-18" id="d60">
+<head><dateRange from="1864-02-18" to="1864-02-19">18th + 19th</dateRange></head>
+<p>On Picket</p></div3>
+
+<div3 type="entry" n="1864-02-20" id="d61">
+<head>20th</head>
+<p>Relieved and returned to camp.  From <dateRange from="1864-02-20" to="1864-02-28">20th to 28th</dateRange>-  In
+camp,</p></div3>
+
+<div3 type="entry" n="1864-02-28" id="d62">
+<head>28th</head>
+<p>Yankees drove in our picket at Madison Court house.
+ordered out with 2 days rations, Moved across <orig
+reg="Rapidan">Rapid Ann</orig> river at Liberty Mills.
+encamped near there for the night.</p></div3>
+
+<div3 type="entry" n="1864-02-29" id="d63">
+<head>29th</head>
+<p>Moved back across river, above Somerset, halted about three
+hours.  Afternoon  Marched on by <orig
+reg="Barboursville">Barborsville</orig>, Stonypoint, and
+Ruckersville, moving nearly all night, (raining very fast)
+halted about Stanardsville.</p></div3>
+</div2>
+
+<div2 type="section" n="1864-03" id="d64">
+<head>March 1864
+<!-- <ref>Battle Description, Troop Movement</ref> -->
+</head>
+
+<div3 type="entry" n="1864-03-01" id="d65">
+<head>March 1st</head>
+<p>Had a skirmish with <orig reg="Custer's">Custers</orig>
+Brigade,  In which we were driven back.  <hi
+rend="underline"><abbr expan="Second Virginia Cavalry">2d Va
+Cav.</abbr></hi> <hi rend="underline">behaved very
+cowardly</hi>.  <abbr expan="James">Jas.</abbr> L. Kearfort-
+mortally wounded and <unclear>Triplet</unclear> A. Paine taken
+prisoner from my <abbr expan="Company">Co</abbr>.  fell back
+to Jack's shop, <abbr expan="Regiment">Regt.</abbr> on Picket
+at night</p></div3>
+
+<div3 type="entry" n="1864-03-02" id="d66">
+<head>2d</head>
+<p>Returned to Camp, fed our horses.  and in the afternoon
+started towards Chancellorsville after Kilpatrick.  Encamped
+at night near Vidiersville.</p></div3>
+
+<div3 type="entry" n="1864-03-03" id="d67">
+<head>3d</head>
+<p>Moved on to Chancellorsville</p></div3>
+
+<div3 type="entry" n="1864-03-04" id="d68">
+<head><dateRange from="1863-03-04" to="1863-03-05">4th and 5th</dateRange></head>
+<p>My <abbr expan="Company">Co</abbr> on picket at Ely's
+ford.</p></div3>
+
+<div3 type="entry" n="1863-03-05" id="d69">
+<head>5th</head>
+<p>Returned to camp.</p>
+</div3>
+
+<div3 type="entry" n="1864-03-06" id="d70">
+<head>From <dateRange from="1864-03-06" to="1864-03-30">6th to the 30th</dateRange></head>
+<p>In Camp.  drilling, and dress parade every day.  all
+quiet.</p></div3>
+</div2>
+
+<div2 type="section" n="1864-04" id="d71">
+<head>April 1864
+<!-- <ref>Camp Life, Troop Movement</ref> -->
+</head>
+
+<div3 type="entry" n="1864-04-01" id="d72">
+<head><dateRange from="1864-04-01" to="1864-04-26">April 1st to 26th</dateRange>-</head>
+<p>In camp.  All quiet.</p></div3>
+
+<div3 type="entry" n="1864-04-26" id="d73">
+<head>26th-</head>
+<p>Moved camp towards Fredericksburg, encamped near
+Chancellorsville at night</p></div3>
+
+<div3 type="entry" n="1864-04-27" id="d74">
+<head>27th</head>
+<p>Marched to Hamiltons crossing.</p></div3>
+
+<div3 type="entry" n="1864-04-28" id="d75">
+<head>
+<dateRange from="1864-04-28" to="1864-04-30">28th, 29th, + 30th</dateRange>
+</head>
+<p>in camp, drill, and dress parade</p></div3>
+</div2>
+
+<div2 type="section" n="1864-05" id="d76">
+<head>May 1864
+<!-- <ref>Battle Description, Death/Casualties, Military
+Authority, Troop Movement</ref> -->
+</head>
+
+<div3 type="entry" n="1864-05-01" id="d77">
+<head>
+<dateRange from="1864-05-01" to="1864-05-02">May 1st and 2d</dateRange></head>
+<p>on <hi rend="underline">Guard</hi>, raining quite
+fast,</p></div3>
+
+<div3 type="entry" n="1864-05-03" id="d78">
+<head>3d</head>
+<p>In camp.</p></div3>
+
+<div3 type="entry" n="1864-05-04" id="d79">
+<head>4th-</head>
+<p>Yankees, Yankees crossed <orig reg="Rapidan">Rapid
+Ann</orig>.  Brigade moved out on Telegraph road, towards
+Chancellorsville.</p></div3>
+
+<div3 type="entry" n="1864-05-05" id="d80">
+<head>5th</head>
+<p>Marched by Massassonas church towards <orig
+reg="Spotsylvania">Spottsylvania</orig> Court house.  thence
+to Todds Tavern.  heavy skirmishing by Lomas' Brigade, my
+squadron on Picket at night.</p></div3>
+
+<div3 type="entry" n="1864-05-06" id="d81">
+<head>6th</head>
+<p>Infantry fighting near <unclear>Mine</unclear> run.  Heavy
+skirmishing near Todds Tavern with enemies
+infantry.</p></div3>
+
+<div3 type="entry" n="1864-05-07" id="d82">
+<head>7th</head>
+<p>Heavy fighting by my <abbr expan="Division">Div</abbr>.
+<abbr expan="Colonel">Col.</abbr> <unclear>Pro</unclear>
+Collins of 15th <abbr expan="Virginia Cavalry">Va Cav.</abbr>
+Killed.</p></div3>
+
+<div3 type="entry" n="1864-05-08" id="d83">
+<head>8th</head>
+<p>Had a severe fight relieved by Longstreet's corps.  A. P.
+Armstrong of my <abbr expan="company">co.</abbr> severely
+wounded.</p></div3>
+
+<div3 type="entry" n="1864-05-09" id="d84">
+<head>9th</head>
+<p>Had a severe fight with Yankees Infantry.  had 3 men
+wounded my <abbr expan="company">co.</abbr>: <abbr
+expan="Corporal">Corpl</abbr> Seivest and <abbr
+expan="Private">Pri</abbr> Frieze <unclear>A. J.</unclear>
+severely and M. L. Payne slightly.  In afternoon started after
+Sheridan's raiding party towards Richmond.  had a fight with
+their Rear guard, marching all night.  <abbr
+expan="Major">Maj.</abbr> Woolridge of 3d <abbr
+expan="Virginia">Va</abbr> Cavalry wounded.</p></div3>
+
+<div3 type="entry" n="1864-05-10" id="d85">
+<head>May 10th</head>
+<p>Fighting all day.  <abbr expan="Sergeant">Sargt.</abbr> G.
+W. Marshall severely wounded (of my <abbr
+expan="company">co.</abbr>) near Childsburg,</p></div3>
+
+<div3 type="entry" n="1864-05-11" id="d86">
+<head>11th-</head>
+<p>Found enemy destroying railroad at Ashland, drove him off. 
+followed them to Chickahomminy;  Had severe fight at Half Sink
+bridges,  In which we were repulsed.  We lost <hi
+rend="underline"><abbr expan="Major General">Maj. Gen</abbr>
+J. E. B. <orig reg="Stuart">Stewart</orig>, <abbr
+expan="Colonel">Col.</abbr> Pate of the 5th <abbr
+expan="Virginia Cavalry">Va Cav</abbr>.  Also our beloved
+<abbr expan="Captain">Capt.</abbr> G. N. Hammond</hi>, and
+Privates Kilmer and Stump slightly wounded.  our loss in
+officers and was very heavy.</p>
+</div3>
+
+<div3 type="entry" n="1864-05-12" id="d87">
+<head>12th</head>
+<p>Fighting near Meadow Bridge.  Afternoon my brigade moved on
+to the old Rappahannock stage road.  Encamped for the night on
+Hanover and Richmond road.  <abbr expan="General">Gen.</abbr>
+<orig reg="Stuart">Stewart</orig> died from his
+wounds.</p></div3>
+
+<div3 type="entry" n="1864-05-13" id="d88">
+<head>13th</head>
+<p>In camp near <orig
+reg="Mechanicsville">Machanicsville</orig></p></div3>
+
+<div3 type="entry" n="1864-05-14" id="d89">
+<head>14th</head>
+<p>In Camp.</p></div3>
+
+<div3 type="entry" n="1864-05-15" id="d90">
+<head>15th</head>
+<p>Moved near Richmond.</p></div3>
+
+<div3 type="entry" n="1864-05-16" id="d91">
+<head>16th</head>
+<p>Moved towards <abbr expan="James">Jas.</abbr> River, passed
+by Seven Pines on to the Charles city road, stopped and
+grazed, encamped at night 4 miles from Richmond.</p></div3>
+
+<div3 type="entry" n="1864-05-17" id="d92">
+<head>17th</head>
+<p>Grazing all day, <abbr expan="Captain">Capt.</abbr> <hi
+rend="underline">Hammond</hi> died about 4 <orig
+reg="o'clock">oclock</orig> in the morning.</p></div3>
+
+<div3 type="entry" n="1864-05-18" id="d93">
+<head>18th</head>
+<p>Grazing until evening, then moved.  Moved to <orig
+reg="Mechanicsville">Machanicsville</orig>.</p></div3>
+
+<div3 type="entry" n="1864-05-19" id="d94">
+<head>19th</head>
+<p>Moving all day and parts of the night.</p></div3>
+
+<div3 type="entry" n="1864-05-20" id="d95">
+<head>20th-</head>
+<p>Grazing near Atlees Station.  Yankees reported at Hanover
+<abbr expan="C. H.">Courthouse</abbr> in evening when we
+arrived they had gone, encamped there for the
+night.</p></div3>
+
+<div3 type="entry" n="1864-05-21" id="d96">
+<head>21st</head>
+<p>Went to Peaks <unclear>turnout</unclear> <abbr
+expan="Yankees">Yks</abbr> come to Court house soon after we
+left.  started back, but found that they had been driven back
+by Maryland line.  Encamped on <abbr
+expan="General">Gen.</abbr> Wickham's farm.</p></div3>
+
+<div3 type="entry" n="1864-05-22" id="d97">
+<head>22nd</head>
+<p>Grazed and returned to Atlee's station in the
+evening.</p></div3>
+
+<div3 type="entry" n="1864-05-23" id="d98">
+<head>23rd</head>
+<p>A detail from <abbr expan="Division">Div.</abbr> sent to
+Kinnon landing on James river, rest of <abbr
+expan="Division">Div.</abbr> went to Wickham's
+plantation</p></div3>
+
+<div3 type="entry" n="1864-05-24" id="d99">
+<head><dateRange from="1864-05-24" to="1864-05-26">24th, 25th, + 26th</dateRange>-</head>
+<p>In Camp.  Grazing.</p></div3>
+
+<div3 type="entry" n="1864-05-27" id="d100">
+<head>27th</head>
+<p>Saddled up and moved out near Hanover Courthouse.  In
+evening went to Atlee's station,</p></div3>
+
+<div3 type="entry" n="1864-05-28" id="d101">
+<head>28th.</head>
+<p>Had severe fight near Old Church relieved by <orig
+reg="Breckinridge's">Breckinridges</orig> Infantry.</p></div3>
+
+<div3 type="entry" n="1864-05-29" id="d102">
+<head>29th</head>
+<p>Lost one man from my <abbr expan="company">co.</abbr> on
+Picket (W. H. Janney)</p></div3>
+
+<div3 type="entry" n="1864-05-30" id="d103">
+<head>30th</head>
+<p>Grazing all day at night encamped near Atlee's station.
+Moved to Coal Harbour.  had severe fighting.</p></div3>
+</div2>
+
+<div2 type="section" n="1864-06" id="d104">
+<head>June 1864
+<!-- <ref>Battle Description, Family, Military Authority,
+Troop Movement, Women</ref> -->
+</head>
+
+<div3 type="entry" n="1864-06-01" id="d105">
+<head>June 1st.</head>
+<p>In camp near Coal Harbour.</p></div3>
+
+<div3 type="entry" n="1864-06-02" id="d106">
+<head>2d</head>
+<p>Fortifying on our right.  relieved by infantry in the
+evening.  and moved to Bottoms Ridge.</p></div3>
+
+<div3 type="entry" n="1864-06-03" id="d107">
+<head>3d</head>
+<p>In camp near there.  acting O. S. of <abbr
+expan="Company">Co.</abbr></p></div3>
+
+<div3 type="entry" n="1864-06-04" id="d108">
+<head>4th</head>
+<p>Grazing at 12 <abbr expan="o'clock">oclk</abbr>; moved to
+York river railroad bridge.  threw up fortifications near it,
+raining quite fast.</p></div3>
+
+<div3 type="entry" n="1864-06-05" id="d109">
+<head>5th-</head>
+<p>Moved out on the road to White Oak swamp, about three
+miles, and encamped.</p></div3>
+
+<div3 type="entry" n="1864-06-06" id="d110">
+<head>6th</head>
+<p><abbr expan="Regiment">Regt.</abbr> went on picket at
+<unclear>Lampser Ell</unclear> bridge.</p></div3>
+
+<div3 type="entry" n="1864-06-07" id="d111">
+<head>7th</head>
+<p>On picket <orig reg="mosquitoes">musquitoes</orig> very
+bad.  Relieved by <abbr expan="Second Virginia Cavalry">2d Va
+Cav</abbr>.</p></div3>
+
+<div3 type="entry" n="1864-06-08" id="d112">
+<head>8th</head>
+<p>In camp.  All quiet.  Moved at 12 <orig
+reg="o'clock">oclock</orig> at night.  Moving all
+night.</p></div3>
+
+<div3 type="entry" n="1864-06-09" id="d113">
+<head>9th</head>
+<p>Stopped and fed near Richmond.  thence to Ashland, drew
+horse feed and rations marched nearly all night.  stopped near
+Beaverdam station.</p></div3>
+
+<div3 type="entry" n="1864-06-10" id="d114">
+<head>10th</head>
+<p>Marched on to Fredericks Hall, stopped and fed, and rested
+about three hours.  Then to Louisa <abbr expan="Courthouse">C.
+H.</abbr> encamped for the night.</p></div3>
+
+<div3 type="entry" n="1864-06-11" id="d115">
+<head>11th</head>
+<p>Marched towards Orange Court house, met the Yankees and
+drove them back.  had a severe fight at Railroad about three
+miles from Louisa <abbr expan="Courthouse">C. H.</abbr>, at
+night went to <abbr expan="General">Gen.</abbr> Hampton near
+Trevillians depot.</p></div3>
+
+<div3 type="entry" n="1864-06-12" id="d116">
+<head>12</head>
+<p>drew rations.  In the evening had quite a severe fight and
+whipped the <abbr expan="Yankees">Yks</abbr> severely.
+<unclear>Fight until</unclear> 9 <abbr
+expan="o'clock">oclck</abbr> at night.  My <abbr
+expan="Regiment">Regt</abbr> in <unclear>breast</unclear>
+started home.  Spent the night near Criglersville.</p></div3>
+
+<div3 type="entry" n="1864-06-14" id="d117">
+<head>14th</head>
+<p>Went to Flint Hill.</p></div3>
+
+<div3 type="entry" n="1864-06-15" id="d118">
+<head>15th</head>
+<p>Thence to Howellsville, crossed Shenandoah river, there by
+White-fish and Brucetown to Mr. Cunningham's, arrived there at
+daylight.</p></div3>
+
+<div3 type="entry" n="1864-06-16" id="d119">
+<head>16th</head>
+<p>In woods near Mr. <abbr expan="Cunningham's">C's</abbr>
+went home that night.</p></div3>
+
+<div3 type="entry" n="1864-06-17" id="d120">
+<head>17th</head>
+<p>In woods, near home, went to the house at night.</p></div3>
+
+<div3 type="entry" n="1864-06-19" id="d121">
+<head>19th</head>
+<p>In woods near Darkesville, had a splendid time, young
+ladies brought plenty cake and lemonade, at night captured a
+horse and went up to Mr. <abbr
+expan="Cunningham's">C's</abbr>.</p></div3>
+
+<div3 type="entry" n="1864-06-20" id="d122">
+<head>20th</head>
+<p>In woods near Mr. <abbr expan="Cunnigham's">C's</abbr> saw
+Miss S &amp; P. P.  At night -  I started for Dixie.  rode all
+night.</p></div3>
+
+<div3 type="entry" n="1864-06-21" id="d123">
+<head>21st</head>
+<p>Crossed Shenandoah and spent the night with Mr. Downing
+near Chester Gap.</p></div3>
+
+<div3 type="entry" n="1864-06-22" id="d124">
+<head>22d</head>
+<p>came to <unclear>Puebla</unclear> Mills.</p></div3>
+
+<div3 type="entry" n="1864-06-23" id="d125">
+<head>23d</head>
+<p>Went to Criglersville spent the night with Mr.
+Berry.</p></div3>
+
+<div3 type="entry" n="1864-06-24" id="d126">
+<head>24th</head>
+<p>Came about 3 miles south of Stanardsville.</p></div3>
+
+<div3 type="entry" n="1864-06-25" id="d127">
+<head>25th</head>
+<p>Arrived at my Uncle's Farm</p></div3>
+
+<div3 type="entry" n="1864-06-25" id="d128">
+<head>From <dateRange from="1864-06-25" to="1864-07-02">25th to 2d July</dateRange></head>
+<p>at my <orig reg="Uncle's">Uncles</orig>.</p></div3></div2>
+
+<div2 type="section" n="1864-07" id="d129">
+<head>July 1864
+<!-- <ref>Camp Life, Troop Movement, Women</ref> -->
+</head>
+
+<div3 type="entry" n="1864-07-02" id="d130">
+<head>2d</head>
+<p>Started for camp.  spent the night at Mr. <orig
+reg="Woodard's">Woodards</orig> near the Goochland
+line.</p></div3>
+
+<div3 type="entry" n="1864-07-03" id="d131">
+<head>3d</head>
+<p>came by Goochland <abbr expan="Courthouse">C. H.</abbr> to
+Judes Ferry.</p></div3>
+
+<div3 type="entry" n="1864-07-04" id="d132">
+<head>4th</head>
+<p>Crossed James River at Jude's Ferry.  Ate breakfast at Mr.
+<unclear>Dubelles</unclear> who married a cousin of Miss M. S.
+passed through Powhatan county into Chesterfield into
+Chesterfield by Huguenot Springs, thence by Clover
+<unclear>Hill</unclear> Summit.</p></div3>
+
+<div3 type="entry" n="1864-07-05" id="d133">
+<head>5th</head>
+<p>To Exeter Mills where I crossed Appomattox river.  There on
+the <unclear>Nazarene</unclear> road to camp near Ream's
+station.</p></div3>
+
+<div3 type="entry" n="1864-07-06" id="d134">
+<head>6th</head>
+<p>Went out where <abbr expan="company">co</abbr> was guarding
+some forage, came to camp in evening  From <dateRange from="1864-07-06" to="1864-07-11">6th to 11th</dateRange>-  In camp. 
+Drill + dress parade.</p></div3>
+
+<div3 type="entry" n="1864-07-11" id="d135">
+<head>11th</head>
+<p>Went to Ream's station to reinforce pickets</p>
+</div3>
+
+<div3 type="entry" n="1864-07-12" id="d136">
+<head>12th</head>
+<p>Out as reserve pickets.</p></div3>
+
+<div3 type="entry" n="1864-07-13" id="d137">
+<head>13th</head>
+<p>Came to camp</p></div3>
+
+<div3 type="entry" n="1864-07-14" id="d138">
+<head><dateRange from="1864-07-14" to="1864-07-16">14th + 15th + 16th</dateRange></head>
+<p>In camp.  2 drills and 2 dress parades daily.</p></div3>
+
+<div3 type="entry" n="1864-07-17" id="d139">
+<head>17th</head>
+<p>Went to Reams Station to reinforce pickets whilst train was
+replaced on track.</p></div3>
+
+<div3 type="entry" n="1864-07-18" id="d140">
+<head>18th</head>
+<p>Went to camp.</p></div3>
+
+<div3 type="entry" n="1864-07-19" id="d141">
+<head>19th</head>
+<p>In camp</p></div3>
+
+<div3 type="entry" n="1864-07-20" id="d142">
+<head>20th</head>
+<p>came on Picket.  had false alarm.</p></div3>
+
+<div3 type="entry" n="1864-07-21" id="d143">
+<head>21st</head>
+<p>On Picket all quiet.</p></div3>
+
+<div3 type="entry" n="1864-07-22" id="d144">
+<head>22d</head>
+<p>Relieved by <abbr expan="Second Virginia Cavalry">2d Va
+Cavalry</abbr>, + returned to camp.</p></div3>
+
+<div3 type="entry" n="1864-07-23" id="d145">
+<head><dateRange from="1864-07-23" to="1864-07-24">23 + 24th</dateRange> -</head>
+<p>In camp</p></div3>
+
+<div3 type="entry" n="1864-07-25" id="d146">
+<head>25th</head>
+<p>On guard</p></div3>
+
+<div3 type="entry" n="1864-07-26" id="d147">
+<head>26th</head>
+<p>Relieved from guard</p>
+</div3>
+
+<div3 type="entry" n="1864-07-27" id="d148">
+<head><dateRange from="1864-07-27" to="1864-07-28">27th to 28th</dateRange></head>
+<p>Started at night.  Stopped near Petersburg, +
+fed.</p></div3>
+
+<div3 type="entry" n="1864-07-29" id="d149">
+<head>29th</head>
+<p>crossed <abbr expan="James">Jas.</abbr> river.  camped near
+Drewry's Bluff.</p></div3>
+
+<div3 type="entry" n="1864-07-30" id="d150">
+<head>30th</head>
+<p>Marched towards Seven Pines after going six miles returned
+to the place where we encamped the previous night.</p></div3>
+
+<div3 type="entry" n="1864-07-31" id="d151">
+<head>31st</head>
+<p>In camp.  In evening moved across <abbr
+expan="James">Jas.</abbr> river at Chaffins Bluffs Moving
+nearly all night, stopped near Petersburg.  All
+quiet.</p></div3>
+</div2>
+
+<div2 type="section" n="1864-08" id="d152">
+<head>August 1864
+<!-- <ref>Family, Military Authority, Troop Movement</ref> -->
+</head>
+
+<div3 type="entry" n="1864-08-01" id="d153">
+<head>1st</head>
+<p>Passed through town to old camp near Reams station.  I
+stopped in town, ate dinner, at Mr. D. Paynes.</p></div3>
+
+<div3 type="entry" n="1864-08-02" id="d154">
+<head>2d</head>
+<p>In Camp.  Slight showers.</p></div3>
+
+<div3 type="entry" n="1864-08-03" id="d155">
+<head>3d</head>
+<p>Our interior guard O. S. Murphy made <abbr
+expan="adjutant">adjt</abbr>.</p></div3>
+
+<div3 type="entry" n="1864-08-04" id="d156">
+<head>4th</head>
+<p>In camp</p></div3>
+
+<div3 type="entry" n="1864-08-05" id="d157">
+<head>5th</head>
+<p>Started towards Richmond.  stopped and fed about 4 miles
+beyond Petersburg, + fed.</p></div3>
+
+<div3 type="entry" n="1864-08-06" id="d158">
+<head>6th</head>
+<p>Marched and camped near Winchester.</p></div3>
+
+<div3 type="entry" n="1864-08-07" id="d159">
+<head>7th</head>
+<p>Passed through Richmond with jackets buttoned up and drawn
+sabres.  Camped near Ashland, for the night.</p></div3>
+
+<div3 type="entry" n="1864-08-08" id="d160">
+<head>8th</head>
+<p>Marched on, + encamped near Beaver dam station.</p></div3>
+
+<div3 type="entry" n="1864-08-09" id="d161">
+<head>9th</head>
+<p>Drew two days rations of horsefeed, moved on and encamped
+near Andersons Tavern for the night.  Drew two days
+rations.</p></div3>
+
+<div3 type="entry" n="1864-08-10" id="d162">
+<head>10th</head>
+<p>Moved on by <unclear>Vidiersville</unclear> to Sommersville
+ford on <abbr expan="Rapidan">Rapid Ann</abbr>.  raining very
+fast. </p></div3>
+
+<div3 type="entry" n="1864-08-11" id="d163">
+<head>11th</head>
+<p><del rend="none" hand="h1"></del></p>
+</div3>
+
+<div3 type="entry" n="1864-08-12" id="d164">
+<head>12th</head>
+<p>In camp until 5 <abbr expan="o'clock">ock</abbr> then
+detailed as escort to go to Clark <abbr
+expan="County">Co</abbr>. <orig
+reg="traveled">travelled</orig> all night. Stopped near Flint
+Hill and fed.</p></div3>
+
+<div3 type="entry" n="1864-08-13" id="d165">
+<head>13th</head>
+<p>Marched on all day crossed river at Front Royal, ran into a
+party of Yanks at Cedarville.  they chased me to the river.
+In evening went down river to Howellsville.</p></div3>
+
+<div3 type="entry" n="1864-08-14" id="d166">
+<head>14th</head>
+<p>Returned to Front Royal.  In evening started on a scout -
+came to Howellsville.</p></div3>
+
+<div3 type="entry" n="1864-08-15" id="d167">
+<head>15th</head>
+<p>Stayed near Millwood.  At night came to the Opequon near
+Mr. Ewell's.</p></div3>
+
+<div3 type="entry" n="1864-08-16" id="d168">
+<head>16th</head>
+<p>Stayed there and at Mrs. Bell's until night.  passed by
+home.</p></div3>
+
+<div3 type="entry" n="1864-08-17" id="d169">
+<head>17th</head>
+<p>Stayed in Pine hills.  At night went by Henson's Mills to
+the Martinsburg Pike.</p></div3>
+
+<div3 type="entry" n="1864-08-18" id="d170">
+<head>(on the morning of the 18th)</head>
+<p>near Joe Branson's  Then to Brucetown on to Mr. Bell's  In
+evening to Winchester reported to <abbr
+expan="General">Gen.</abbr> Lee that night.</p></div3>
+
+<div3 type="entry" n="1864-08-19" id="d171">
+<head>19th</head>
+<p>Had my horse shod in Winchester.  Then went down near
+Shepherdstown.  came back to Mr. C's reported to <abbr
+expan="General">Gen.</abbr> Lee.</p></div3>
+
+<div3 type="entry" n="1864-08-20" id="d172">
+<head>20th</head>
+<p>Went across Opequon at Sulphur spring ford.</p></div3>
+
+<div3 type="entry" n="1864-08-21" id="d173">
+<head>21st</head>
+<p>ate breakfast at Uncle Sam's, <abbr
+expan="Yankees">Yks</abbr> in Smithfield.  Our forces drove
+<abbr expan="Yankees">Yks</abbr> from Smithfield, went to
+Leetown.  then to Berryville to <abbr
+expan="General">Gen</abbr> Lee's <abbr expan="Headquarters">Hd
+Qtrs</abbr>.</p></div3>
+
+<div3 type="entry" n="1864-08-22" id="d174">
+<head>22nd</head>
+<p>went home</p></div3>
+
+<div3 type="entry" n="1864-08-23" id="d175">
+<head>23rd</head>
+<p>at home</p></div3>
+
+<div3 type="entry" n="1864-08-24" id="d176">
+<head>24th</head>
+<p>Went to Leetown as guide for <abbr
+expan="General">Gen.</abbr> Lee (Fitz.)  Went to Martinsburg
+by Burn's Ford.  Then to <abbr
+expan="Hainesville">Hainsville</abbr>.</p></div3>
+
+<div3 type="entry" n="1864-08-26" id="d177">
+<head>26th</head>
+<p>Drove <abbr expan="Yankees">Yks</abbr> across Potomac river
+then moved to Billmyer's mill went home.</p></div3>
+
+<div3 type="entry" n="1864-08-27" id="d178">
+<head>27th</head>
+<p>at home</p></div3>
+
+<div3 type="entry" n="1864-08-28" id="d179">
+<head>28th</head>
+<p>Came to Brigade at Brucetown.  <abbr
+expan="Yankees">Yks</abbr> advancing.</p></div3>
+
+<div3 type="entry" n="1864-08-29" id="d180">
+<head>29th</head>
+<p>Horse badly <unclear>pricked</unclear> very lame</p></div3>
+
+<div3 type="entry" n="1864-08-30" id="d181">
+<head>30th</head>
+<p>Put in horse detail.</p></div3>
+
+<div3 type="entry" n="1864-08-31" id="d182">
+<head>31st</head>
+<p>In camp saddled up</p></div3>
+</div2>
+
+<div2 type="section" n="1864-09" id="d183">
+<head>September 1864
+<!-- <ref>Battle Description, Family, Troop Movement</ref> -->
+</head>
+
+<div3 type="entry" n="1864-09-01" id="d184">
+<head>Sept. 1st</head>
+<p>With broken down horse at Burn a factory in Opequon
+skirmishing in Winchester and Berryville Pike.</p></div3>
+
+<div3 type="entry" n="1864-09-02" id="d185">
+<head>2d</head>
+<p>Went to see my Grandmama.</p></div3>
+
+<div3 type="entry" n="1864-09-03" id="d186">
+<head>3d</head>
+<p>Started on horse detail to Albemarle <abbr
+expan="County">Co</abbr>.  Spent the night at
+Woodstock.</p></div3>
+
+<div3 type="entry" n="1864-09-04" id="d187">
+<head>4th</head>
+<p>Came on above New Market thence on Resiltown
+road.</p></div3>
+
+<div3 type="entry" n="1864-09-05" id="d188">
+<head>5th</head>
+<p>crossed Ridge at Brown's Gap spent the night with Mr.
+Brown.</p></div3>
+
+<div3 type="entry" n="1864-09-06" id="d189">
+<head>6th</head>
+<p>Came to my uncle's in Albemarle <abbr
+expan="County">Co</abbr>.</p></div3>
+
+<div3 type="entry" n="1864-09-07" id="d190">
+<head>7th</head>
+<p>At my Uncle's.</p></div3>
+
+<div3 type="entry" n="1864-09-08" id="d191">
+<head>8th</head>
+<p>Started for camp.  Spent the night at Mr. William
+Rhodes.</p></div3>
+
+<div3 type="entry" n="1864-09-09" id="d192">
+<head>9th</head>
+<p>Came through Brown's Gap.  Spent the night with Mr. Sommers
+near Resiltown.</p></div3>
+
+<div3 type="entry" n="1864-09-10" id="d193">
+<head>10th</head>
+<p>Came to Edinburg spent the night, ate breakfast at Wood
+stock dined at Cousin Dav Miller's, spent the night at Uncle
+<abbr expan="John">Jno.</abbr> S. M.</p></div3>
+
+<div3 type="entry" n="1864-09-12" id="d194">
+<head>12th</head>
+<p>Went to Winchester + returned to Uncle <abbr
+expan="John">Jno</abbr>.</p></div3>
+
+<div3 type="entry" n="1864-09-13" id="d195">
+<head>13th</head>
+<p>Went to see my sweetheart.</p></div3>
+
+<div3 type="entry" n="1864-09-14" id="d196">
+<head>14th</head>
+<p>Went to camp.</p></div3>
+
+<div3 type="entry" n="1864-09-15" id="d197">
+<head>15th</head>
+<p>Detailed as guard at my Uncles.</p></div3>
+
+<div3 type="entry" n="1864-09-16" id="d198">
+<head><dateRange from="1864-09-16" to="1864-09-19">16th, 17th, 18th, + 19th</dateRange></head>
+<p>On guard.</p></div3>
+
+<div3 type="entry" n="1864-09-19" id="d199">
+<head>19th</head>
+<p>Early was whipped.  At night I went to
+Middletown.</p></div3>
+
+<div3 type="entry" n="1864-09-20" id="d200">
+<head>20th</head>
+<p>Overtook my Brigade at Front Royal.</p></div3>
+
+<div3 type="entry" n="1864-09-21" id="d201">
+<head>21st</head>
+<p><abbr expan="Yankees">Yks</abbr> drove our pickets from the
+town.  We moved back to about 12 miles from Luray.</p></div3>
+
+<div3 type="entry" n="1864-09-22" id="d202">
+<head>22nd</head>
+<p>Fortifying and fighting all day.  drove <abbr
+expan="Yankees">Yks</abbr> back.</p></div3>
+
+<div3 type="entry" n="1864-09-23" id="d203">
+<head>23rd</head>
+<p>Came on through Luray camped near there for the
+night.</p></div3>
+
+<div3 type="entry" n="1864-09-24" id="d204">
+<head>24th</head>
+<p>Marched across mountain towards New Market.  Early still
+falling back.  Brigade returned to Luray Valley.  moved on the
+road to Conrads store. Squadron on picket.  Brigade encamped
+near there for the night.</p></div3>
+
+<div3 type="entry" n="1864-09-25" id="d205">
+<head>25th</head>
+<p><abbr expan="Regiment">Regt.</abbr> left in breastworks at
+the river until 12 <abbr expan="o'clock">oclk</abbr> at night,
+then overtook brigade near <unclear>Magaccaville</unclear>.
+squadron on picket until 12 <abbr expan="o'clock">oclk</abbr>
+at night.</p></div3>
+
+<div3 type="entry" n="1864-09-26" id="d206">
+<head>26th</head>
+<p>Moved on to Port Republic then to Brown's Gap.  At night
+went about 4 miles towards Rockfish Gap.</p></div3>
+
+<div3 type="entry" n="1864-09-27" id="d207">
+<head>27th</head>
+<p>Moved out near Weyer's cave.  had severe skirmish three
+horses killed in <abbr expan="Company">Co.</abbr> B.  drove
+<abbr expan="Yankees">Yks</abbr> back across North river.
+Came back across North branch Shenandoah river.</p></div3>
+
+<div3 type="entry" n="1864-09-28" id="d208">
+<head>28th</head>
+<p>Came to Rockfish Gap.  Squadron on picket.  Brigade drove
+<abbr expan="Yankees">Yks</abbr> from Waynesboro.</p></div3>
+
+<div3 type="entry" n="1864-09-29" id="d209">
+<head>29th</head>
+<p>Camped on the Greenville Road.</p></div3>
+
+<div3 type="entry" n="1864-09-30" id="d210">
+<head>30th</head>
+<p>Came to Staunton in evening went back on Waynesboro road.
+encamped at Christian's creek.</p></div3>
+</div2>
+
+<div2 type="section" n="1864-10" id="d211">
+<head>October 1864
+<!-- <ref>Battle Description, Family, Medicine/Hospitals,
+Troop Movement</ref> -->
+</head>
+
+<div3 type="entry" n="1864-10-01" id="d212">
+<head>October 1st.</head>
+<p>Came through Staunton to Mt. Sydney on picket and advance
+guard.  at night on picket, Centreville.</p></div3>
+
+<div3 type="entry" n="1864-10-02" id="d213">
+<head>2d</head>
+<p>Had a skirmish at Bridgewater.  Drove <abbr
+expan="Yankees">Yks</abbr> across river, camped for the night
+near Centreville.</p></div3>
+
+<div3 type="entry" n="1864-10-03" id="d214">
+<head>3d</head>
+<p>In camp until 2 <abbr expan="o'clock">oclk</abbr> then went
+to Bridgewater.  Encamped near there for the night.</p></div3>
+
+<div3 type="entry" n="1864-10-04" id="d215">
+<head>4th</head>
+<p>Moved out near river to support picket.  In evening my
+squadron went on picket.</p></div3>
+
+<div3 type="entry" n="1864-10-05" id="d216">
+<head>5th</head>
+<p>On picket, relieved by <abbr expan="Second Virginia
+Cavalry">2d Va Cav.</abbr>, went to camp.</p></div3>
+
+<div3 type="entry" n="1864-10-06" id="d217">
+<head>6th</head>
+<p>Advanced to Brocks Gap, drove <abbr
+expan="Yankees">Yks</abbr> across north branch Shenandoah
+river.  nearly every barn burned and <unclear>same
+for</unclear> houses.  camped near there for the
+night.</p></div3>
+
+<div3 type="entry" n="1864-10-07" id="d218">
+<head>7th</head>
+<p>Moved on the back road.  captured several wagons and a
+great many sheep.  Encamped for the night near
+Forrestville.</p></div3>
+
+<div3 type="entry" n="1864-10-08" id="d219">
+<head><hi rend="underline">8th</hi></head>
+<p>Fighting all day near Fishershill.  I was severely wounded
+in right arm in the evening.  very cold.  stayed at field
+hospital during the night.</p></div3>
+
+<div3 type="entry" n="1864-10-09" id="d220">
+<head>9th</head>
+<p>Started for General Hospital at Charlottesville.  Rosser
+badly whipped lost all his artillery and wagons, spent the
+night at Mr. Hollers.</p></div3>
+
+<div3 type="entry" n="1864-10-10" id="d221">
+<head>10th</head>
+<p>Arrived at Brigewater, spent the night at Mr. Miller's.
+had my arm dressed at Dayton.</p></div3>
+
+<div3 type="entry" n="1864-10-11" id="d222">
+<head>11th</head>
+<p>Came to Spring Hill.  had my arm dressed by Dr. Bell.
+stayed with Mr. Theophilus Gamble until the 17th, (very kindly
+treated by his family, also by Dr. Bell,)  Then started for
+Charlottesville, spent the night at <orig
+reg="Brookville">Brooksville</orig>, next came to my Uncle's
+in Albemarle County</p></div3>
+
+<div3 type="entry" n="1864-10-20" id="d223">
+<head>20th</head>
+<p>Went to the Hospital, wound doing well.  Remained in
+hospital until 1st Nov. then came to Bluefield.</p></div3>
+</div2>
+
+<div2 type="section" n="1864-11" id="d224">
+<head>November 1864
+<!-- <ref>Medicine/Hospitals</ref> -->
+</head>
+
+<div3 type="entry" n="1864-11-03" id="d225">
+<head>3d</head>
+<p>had a chill</p></div3>
+
+<div3 type="entry" n="1864-11-04" id="d226">
+<head>4th</head>
+<p>had another, arm much worse.</p></div3>
+
+<div3 type="entry" n="1864-11-09" id="d227">
+<head>9th</head>
+<p>Returned to hospital.  I spent my 21st birthday in Ward K,
+bed No. 26th, 1st Division Delivan Hospital, Charlottesville,
+Albemarle County, Virginia.</p></div3>
+
+</div2>
+
+</div1>
+
+<div1 id="AD1009note" type="notes">
+
+<!-- <ref>AD1009note</ref> -->
+
+
+<div2 type="section" n="1" id="d229">
+
+<p>I certify that this is a true account of my <orig
+reg="wanderings">wandering's</orig> from Nov. 18th, 1864, to
+No 18th 1864.  That is to the best of my knowledge.</p>
+
+<p>Corporal, Robert P. Bryarly.<lb/>
+Co. (B), 1st <abbr expan="Virginia Cavalry">Va Cav</abbr><lb/>
+Wickham's Brigade<lb/>
+Fitz Lee's <abbr expan="Division">Div.</abbr></p>
+
+<p>Witness<lb/>
+M. L. Van Dorn<lb/>
+Co (B) 1st <abbr expan="Virginia Cavalry">Va Cav</abbr><lb/>
+Wickham <abbr expan="Brig">Brigade</abbr><lb/></p>
+</div2>
+</div1>
+
+</body>
+
+</text>
+</TEI.2>
+

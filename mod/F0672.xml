@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0672"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F0672">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: J. Milton Crawford to his Parents, May 18, 1865</title>
+        <title type="sort">franklin county j milton crawford to his parents, may 18 1865</title>
+        <author>Crawford, J. Milton</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Susanna Michele Lee</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Susanna Michele Lee</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">5</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">F0672</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:501333</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Franklin County: J. Milton Crawford to his Parents, May 18, 1865</title>
+            <title level="m"/>
+            <title type="sort">franklin county j milton crawford to his parents, may 18 1865</title>
+            <author>J. Milton Crawford</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>1 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Lewis Leigh Collection, Book 36, #18, U. S. Army
+       Military History Institute, Carlisle Barracks, Pennsylvania.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from U. S. Army Military History Institute, Carlisle Barracks, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1865-05-18">1865-05-18</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Agriculture, Troop Movement</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2003-06">June 2003</date>
+        <respStmt>
+          <resp/>
+          <name>Desi Hopkins</name>
+        </respStmt>
+        <item>Item proofread for typos.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="F0672T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>J. Milton Crawford describes to his parents about the status of rich and poor citizens near
+     Appomattox, where General Lee had just surrendered his army the month before. He also writes
+     about the poor conditions for Union soldiers.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+   
+    <opener>
+     <dateline>
+      <date value="1865-05-18">May 18th/65</date>
+      <name type="place">Appomatox Station <abbr expan="Virginia">Va</abbr></name>
+     </dateline>
+     <salute>Dear Parents</salute>
+    </opener>
+
+    <p>I received your letter of the 6th about one week ago but had no chance of answering it. there
+     has been no mail come nor goes from here the rail road is not fixed this far yet, we are
+     stationed where Lee surrendered I don't know how long we will stay our Brigade is <orig
+      reg="scattered">scatered</orig> all around this country there is one Regiment in Lynchburg The
+     rich people of this country went around among the poor and took every thing they had there was
+     some ration of flour and such things gave to the poor when our army went back after the
+     surrender and there was bands of eight or ten went around and took it all and the old horses
+     that were left they took from the poor. you don't know any thing about poor people up <orig
+      reg="there">ther</orig> poor people here are worse off than the slaves I received a letter
+     from Mariah before I left Petersburg they were all well</p>
+
+    <p>Cyrus Baughman is the only one that is along from Fayetteville the rest are all at dismounted
+     camp Forage is very scarce we only get about five quarts of oats a day and no hay and for
+     grazing there is no grass. I don't see how the people keeps their stock the corn looks pretty
+     well and that is the only thing that does look any thing like. there will be any amount of
+     Peaches in this country. this is a dull place we cannot get any papers nor any thing else when
+     you write I want you to send me some stanps for I can't get any here. from the time we broke up
+     winter quarters till we got here was forty seven days and out of that time we marched thirty
+     three days, so you may know we were traveling a good bit. I must close for this time write soon</p>
+
+    <closer>
+     <salute>your son</salute>
+     <signed>J Milton Crawford</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

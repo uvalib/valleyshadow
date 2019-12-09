@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+
+<?dlps id="F6507"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="F6507">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Eliza R. Stouffer to Catherine and Amos Miller,
+     July 10, 1864</title>
+        <title type="sort">franklin county eliza r stouffer to catherine and amos miller, july 10 1864</title>
+        <author>Stouffer, Eliza R.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Edsel Burdge, Jr., Shippensburg, PA</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Jaime Henshaw</name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">F6507</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:501635</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Franklin County: Eliza R. Stouffer to Catherine and Amos Miller, July 10, 1864</title>
+            <title level="m"/>
+            <title type="sort">franklin county eliza r stouffer to catherine and amos miller, july 10 1864</title>
+            <author>Eliza R. Stouffer</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>4 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: From the private collection of Margaret Binkley
+       DuVernet. Photocopies courtesy of the Reformed Mennonite Collection, Mennonite Historical
+       Association of the Cumberland Valley, Chambersburg, Pennsylvania.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>We would like to thank Edsel Burdge, Jr. of Shippensburg, PA, for bringing this letter to
+        our attention and for sharing with us his transcription.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from private collection</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1864-07-10">1864-07-10</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>African Americans, Agriculture, Church/Religious Activity, Death/Casualties, Family, Home
+      Front</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""> </date>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="F6507T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>In this letter, Eliza Stouffer describes crop harvests within the area, the status of
+     education at her son Amos' school, and the recent deaths of friends.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+   
+
+    <opener>
+     <dateline>
+      <date value="1864-07-10">July 10th 1864</date>
+     </dateline>
+     <salute>Dear Children</salute>
+    </opener>
+
+    <p>We <abbr expan="received">rec<hi rend="super">d</hi>
+     </abbr> both yours &amp; Davids letters yesterday, were very glad to hear from you, and as
+     times are, do not Know how long we may have the priviledge of writing together, we are all
+     well, hope this may find you all again restored to perfect health, Andrew Henry &amp; <abbr
+      expan="colored">col<hi rend="super">d</hi>
+     </abbr> Thomas came home with the horses &amp; wagon yesterday evening, he is done cutting
+     in the slate land, have quite a small portion to cut here yet, very few persons are done I Know
+     of none else, Some are about half done, The news appeared quite <orig reg="favorable"
+      >favourable</orig> yesterday, not so much so to day, at least the pickets say so, that stand
+     on the pike, on Wednesday the order was given out in town, that when there would be danger and
+     they thought it advisable for the farmers to move their stock, the Bells in town should be
+     wrung, which was done on wednesday about sun set, then the whole neighborhood cleared off their
+     horses, our men were as far as Leesburg, would have came on friday morning<pb n="2"/> But John
+     Stouffer. went to town and heard bad news, telegraphed to his men not to come <orig reg="until"
+      >untill</orig> he sent further orders. But they had started before the telegram arrived. So
+     those that were back <abbr expan="received">re<hi rend="super">cd</hi></abbr> it, and <orig
+      reg="stayed">staid</orig>, or else they would <orig reg="likely">likly</orig> all been home a
+     day or so sooner, how it will go further, is a mystery yet, But must hope for the best, and put
+     our trust in God, There was always a way yet and hope there is yet, Do not trouble yourselves
+     about us, and if we should be so situated that we <orig reg="cannot">can not</orig> get
+     together or hear from one another, Let us cast our care on him who has all power in Heaven
+     &amp; earth, and if we can feel that nearness of him, we shall not be made afraid, we had a
+     letter from Amos and a dispatch, enquiring, whether they should stay or come home, we advised
+     them to stay, he says they are anxious to get through with their studies, complain they have
+     two few teachers for so many <orig reg="Scholars">Schollars</orig>, which is a great drawback
+     to them, complains of the heat, perhaps you can write to them <orig reg="sometime">some time</orig>
+     <orig reg="particular">perticular</orig> if our mails should be closed and<pb n="3"/> not yours
+     which might be the case, &amp; if you want the glass jars he could get them for you Papa
+     send him a check for some <orig reg="money">mony</orig> so he could pay them we had meeting
+      <orig reg="today">to day</orig>, this <orig reg="afternoon">after noon</orig>, at the School
+     house, and had a very fine shower of rain which will freshen up things a little It was very
+     dry, and is no ways soaked deep yet,</p>
+
+    <p>The news are as yet not very <orig reg="favorable">favourable</orig> the Rebels are said to
+     be moving on towards Baltimore. But we Know nothing and should give all over to God to rule who
+     has all in his hands. and power I often feel that I dread the cross too much and would rather
+     see it go according to my wish &amp; will. Oh What short sighted creatures are we.</p>
+
+    <p>May the Lord rule my heart. and let me be silent</p>
+
+    <p>Anna Landis was buried last wednesday at 10 Oclock. Stoner &amp; Uncle Daniel were at the
+     funeral,</p>
+
+    <p>also Eliza Burkholders son was wounded in battle &amp; has since died,</p>
+
+    <pb n="4"/>
+
+    <p>write <orig reg="whenever">when ever</orig>
+     <orig reg="convenient">con venient</orig></p>
+
+    <closer>
+     <salute>Let David's see this as I may not answer theirs immediately</salute>
+     <signed/>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

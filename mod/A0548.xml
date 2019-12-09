@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+
+<?dlps id="A0548"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A0548">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: A. B. McCorkle to James Bumgardner,
+                    February 22, 1858</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county a b mccorkle to james bumgardner, february 22 1858</title>
+        <author>McCorkle, A. B.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Lauren Sklaroff</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A0548</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501862</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: A. B. McCorkle to James Bumgardner, February 22, 1858</title>
+            <title level="m"/>
+            <title type="sort">augusta county a b mccorkle to james bumgardner, february 22 1858</title>
+            <author>A. B. McCorkle</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: 1862 Civil War Papers, Special
+                            Collections, Alderman Library</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1858-02-22">1858-02-22</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Home Front</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2002-12">December 2002</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A0548T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>McCorkle's letter to his brother [in-law?] complains about delays in the mail
+                    system, as asks about his brother's family.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    A. B. McCorkle <del rend="none" hand="h1"/>, 22 February 1858 <lb/>Mr. James Bumgardner,
+                    Greenville, Augusta County, Virginia
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1858-02-22">Feby 22, 1858</date>
+                        <name type="place">Talladega</name>
+                    </dateline>
+                    <salute>My Dear Bro</salute>
+                </opener>
+
+                <p>You letter of <abbr expan="February">Feby</abbr> 9 has just come to hand. I am
+                    surprised that you had not <abbr expan="received">rec<hi rend="super"
+                    >d</hi></abbr> my letter written some time ago acknowledging receipt of your
+                    draft. We have had immense floods which I suppose have delayed the mails and at
+                    this place we have instead of a <abbr expan="Post">P.</abbr> Master an
+                    incompetent boy who does not know how to send letters to their proper
+                    destination.</p>
+
+                <p>I sold the draft for three <unclear>prct</unclear> just what it cost you so that
+                    nothing was lost. Your letter came in the midst of a most interesting meeting
+                        <pb n="2"/>and also one from <unclear>S</unclear> I am glad to hear that
+                    your daughters are nearly through with school. I hope they will prove a comfort
+                    to you and sister and that you will not have occasion to regret what you have
+                    done for them. My love to all.</p>
+
+                <closer>
+                    <salute>Yoru Affect Brother</salute>
+                    <signed>A. B. McCorkle</signed>
+                    <seg type="postscript">If you have to give <unclear>A Pct</unclear> please buy
+                        and send one. Yours Fraternally A.B.M</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

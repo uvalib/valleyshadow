@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+
+<?dlps id="B0278"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B0278">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: M. G. Harman to Thomas P.
+                    Jackson, January 24, 1868</title>
+        <title type="sort">freedmens bureau records m g harman to thomas p jackson, january 24 1868</title>
+        <author>Harman, M. G. </author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B0278</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500630</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: M. G. Harman to Thomas P. Jackson, January
+                            24, 1868</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records m g harman to thomas p jackson, january 24 1868</title>
+            <author>M. G. Harman</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Bureau of Refugees, Freedmen, and
+                            Abandoned Lands, Record Group 105, Box E4269.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1868-01-24">1868-01-24</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Employment/Labor</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-06">June, 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B0278T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Harman relates the details of a case in which a young man who was hired out by a
+                    man named Swink, did not complete his contract. The issue appears to be one of
+                    how much money, if any, Swink owes the man.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient"><abbr expan="Captain">Capt.</abbr> Jackson in charge of Freedmans Bureau</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1868-01-24">January 24 1868.</date>
+                        <name type="place">Staunton</name>
+                    </dateline>
+                    <salute><abbr expan="Dear">D.</abbr> Sir</salute>
+                </opener>
+
+                <p>I made the arrangement with Wash Swink Jr. to take <unclear>Dinna's</unclear>
+                    Baby Boy John for one year at $4 Dollars per month he commenced about 17th
+                    January 1867 and left Mr. Swink about 5 April 1867, <unclear>remaining</unclear>
+                    2 <abbr expan="months">mos</abbr> &amp; 20 days. he states he bought him a
+                    pair of shoes for which he paid $3.50 and gave him a shirt &amp; pair pants
+                    worth $2.50 as he would <add hand="h1" place="inline">have</add> received if he
+                    had complied with his contract $10.47 for the time. In my opinion taking into
+                    consideration the time of the year, he kept him, when he was of but little
+                    Service to him. I think he has paid him enough unless the Boy is made to comply
+                    with his contract &amp; serve the Balance of the Year in which event Mr. S.
+                    ought to pay Balance &amp; not otherwise.</p>
+
+                <closer>
+                    <salute>Very <abbr expan="Respectfully">Rspy</abbr></salute>
+                    <signed>M. G. Harman</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

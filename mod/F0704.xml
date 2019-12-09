@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0704"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+<!NOTATION jpg SYSTEM "JPEG">  
+<!ENTITY filename SYSTEM "uva-lib:502946" NDATA uvaHighRes> 
+<!ENTITY BitCre5a SYSTEM "uva-lib:502947" NDATA uvaHighRes> 
+<!ENTITY BitCre5b SYSTEM "uva-lib:502948" NDATA uvaHighRes> 
+<!ENTITY BitCre5c SYSTEM "uva-lib:502949" NDATA uvaHighRes> 
+
+]>
+
+<TEI.2 id="F0704">
+ <teiHeader type="migrated">
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Alex Cressler to Henry A. Bitner, July 15, 1861</title>
+        <title type="sort">franklin county alex cressler to henry a bitner, july 15 1861</title>
+        <author>Cressler, Alex</author>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Anne Rubin, Valley of the Shadow project, Institute for Advanced Technology in the
+      Humanities, University of Virginia </name>
+          <resp>Creation of digital images: </resp>
+          <name>Anne Rubin, Valley of the Shadow project, Institute for Advanced Technology in the
+      Humanities, University of Virginia </name>
+          <resp>Conversion to TEI.2-conformant markup: </resp>
+          <name>University of Virginia Library Electronic Text Center. </name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. <num type="kilobytes">10</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>University of Virginia Library </publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+        <idno type="VCDH">F0704</idno>
+        <!--
+    <availability>
+     <p>Publicly-accessible </p>
+     <p>URL: http://etext.lib.virginia.edu/modeng/modengB.browse.html </p>
+     <p>Publicly-accessible </p>
+     <p>URL: http://jefferson.village.Virginia.EDU/vshadow2/</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1998 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1998">1998 </date>
+        <idno type="uva-pid">uva-lib:501348</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p> </p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note>
+          <p>Images of the manuscript have been included. This electronic text is a faithful
+      transcription of the original manuscript. We have included SGML tags which allow the reader to
+      view a modernized version of the text in which the punctuation and the spelling have been
+      regularized.</p>
+        </note>
+        <note> </note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Franklin County: Alex Cressler to Henry A. Bitner, July 15, 1861</title>
+            <title level="u"> </title>
+            <title type="sort">franklin county alex cressler to henry a bitner, july 15 1861</title>
+            <author>Alex Cressler</author>
+            <respStmt>
+              <resp> </resp>
+              <name> </name>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p> </p>
+          </editionStmt>
+          <extent> </extent>
+          <publicationStmt>
+            <publisher> </publisher>
+            <pubPlace> </pubPlace>
+            <date value=""> </date>
+            <idno type="callno">Manuscript copy consulted: University of Virginia, Alderman Library,
+       Special Collections MSS 11395 </idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p> </p>
+          </seriesStmt>
+          <notesStmt>
+            <note> </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Prepared for the University of Virginia Library Electronic Text Center. </p>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Original lineation has been maintained. </p>
+        <p>The images exist as archived TIFF images, one or more JPEG versions for general use, and
+     thumbnail GIFs. </p>
+        <p>Some keywords in the header are a local Electronic Text Center scheme to aid in establishing
+     analytical groupings. </p>
+      </editorialDecl>
+      <refsDecl>
+        <p> </p>
+      </refsDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl> </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date value="1861-07-15">1861-07-15 </date>
+      </creation>
+
+      <langUsage>
+        <language id="eng">English </language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>nonfiction </term>
+          <term>prose </term>
+          <term>masculine </term>
+          <term>American Civil War; Special Collections </term>
+          <term>Regiment: none </term>
+          <term>Franklin County </term>
+          <term>Chambersburg </term>
+          <term>Home Front </term>
+          <term>George B. McClellan </term>
+          <term>American Civil War</term>
+        </keywords>
+        <keywords>
+          <term>LCSH </term>
+        </keywords>
+        <keywords>
+          <term> </term>
+          <term> </term>
+          <term type="format">72 dpi; 24-bit color </term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date value="1998-05">May 1998 </date>
+        <respStmt>
+          <resp>corrector </resp>
+          <name>Carolyn Fay and Lisa Spiro </name>
+        </respStmt>
+        <item>Added TEI header and tags, corrected transcription errors, and standardized punctuation
+     and spelling for the modernized version. </item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+ <text id="F0704T">
+  <body id="d2">
+   <!-- <page n=1><ID>BitCre51</ID> -->
+   <div1 type="letter" n="1861-07-15" id="d3">
+    <opener>
+
+
+     <pb n="1" entity="BitCre5a" pid="uva-lib:502947"/>
+
+
+     <dateline> Chambersburg,<lb/>
+      <date value="1861-07-15">July 15th<abbr expan="1861">/61</abbr>
+      </date>
+     </dateline>
+     <salute>Dear <name type="person">Henry</name>:- </salute>
+    </opener>
+
+    <p>Once more amid the scenes of confusion<lb/> and surrounded by the walls of <name type="place"
+      >Franklin Hall</name> is <name type="person">Ellic</name>,<lb/> your old <orig reg="friend."
+      >friend,</orig> this morning I got in the carriage &amp;<lb/> was hurried away from the
+     loved scenes of home, by<lb/> the gentle pace of faithful "<hi rend="underline">Lade</hi>" and
+     after two<lb/> hours ride was again at the place of study, and <orig reg="surrounded">sur-<lb/>
+      rounded</orig> by the hum and bustle of a county town. </p>
+    <p> I enjoyed my trip home very much, and consider that<lb/> I would have loosed a great
+     privilege, if not <orig reg="permitted">permit-<lb/> ted</orig> to give my assistance in
+     reaping the harvest; none<lb/> but the experienced know the value and comfort<lb/> of county
+     labor until deprived of its blessings.<lb/> I think a life in the county, surrounded by
+     nature's robes<lb/> of green, basking in the sun shine of heavenly purity, freed<lb/> from the
+     clamour and confusion of a county town,<lb/> breathing in the health and vigor of a county
+     home, and<lb/> reclining under family protection and affection,<lb/> one of heaven's richest
+     blessings. <!-- </page> -->
+     <!-- <page n=2><ID>BitCre52</ID> -->
+     <pb n="2" entity="BitCre5b" pid="uva-lib:502948"/> It is reported <orig reg="today">to day</orig> that <name
+      type="person"><abbr expan="General">Gen.</abbr> McClellan</name> has<lb/> routed the
+     Secessionist entirely, and taken about<lb/> sixteen hundred prisoners, "good for him", may<lb/>
+     he ever be successful in his efforts to protect<lb/> the rights of American citizens. And may
+     his right<lb/> arm be strengthened by every battle strife, and may<lb/> God unnerve every arm
+     that would raise<lb/> to aid in the destruction of this the home<lb/> of the <add hand="h1"
+      place="supralinear">free</add> and the assylum of <add hand="h1" place="supralinear">the</add>
+     oppressed. </p>
+    <p> Henry I did not get to <name type="person">Uncle Michael's</name>,<lb/>
+     <name type="person">Wallace's</name>, or <name type="person">Kyner's</name>, but I know you
+     will get<lb/>
+     <name type="person">Kyner's</name> name to your petition without my <orig reg="intercession"
+      >inter-<lb/> cession</orig> in your behalf. <orig reg="However">however</orig> I know I<lb/>
+     would have enjoyed a visit with you to<lb/> the <add hand="h1" place="supralinear">two</add>
+     latter named places, and will hope better<lb/> the next time I come home, which I hope
+     will<lb/> be when the <orig reg="huckleberries">huckelberries</orig> are ripe. As this<lb/> is
+     my second letter <orig reg="today">to day</orig>, I will close by<lb/> asking you to remember
+     me to the people<lb/> of the pines who are solicitous enough to enquire<lb/> of me. </p>
+    <closer>
+     <salute> Your Friend,</salute>
+     <signed>Ellic</signed>
+    </closer>
+   </div1>
+   <!-- </page> -->
+   <!-- <page n=3><ID>BitCre53</ID> -->
+
+   <div1 type="letter" id="d4">
+
+    <p>
+     <pb n="3" entity="BitCre5c" pid="uva-lib:502949"/>
+
+    </p>
+
+
+    <p>Since this was written Aunt received a<lb/> letter from <name type="person">Uncle
+     Stumbaugh</name>, he says that<lb/>
+     <name type="person"><abbr expan="General">Gen.</abbr> Patterson</name> assures him that if
+      <name type="person">Johnson</name><lb/> did not attack him that he (<name type="person"
+      >Patterson</name>)<lb/> would attack <name type="person">Johnson</name> before the term
+     of<lb/> the three months men would have<lb/> expired, so lookout for a fight the<lb/> last of
+     this week, or a retreat on<lb/> the part of the <orig reg="rebels.">rebels,</orig>
+    </p>
+
+    <closer>
+     <salute> Yours,</salute>
+     <signed>
+      <abbr expan="Alex Cressler">A.C.</abbr>
+     </signed>
+    </closer>
+
+   </div1>
+   <!-- </page> -->
+  </body>
+ </text>
+</TEI.2>

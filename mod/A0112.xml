@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+
+<?dlps id="A0112"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="A0112">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Jedediah Hotchkiss to Governor
+                    Letcher, July 27, 1861</title>
+        <title type="sort">augusta county jedediah hotchkiss to governor letcher, july 27 1861</title>
+        <author>Hotchkiss, Jedediah</author>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Matthew Kelly </name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">5</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Institute for Advanced Technology in the Humanities </publisher>
+                <publisher>University of Virginia </publisher>
+                <pubPlace>Charlottesville, Va. </pubPlace>
+                <idno type="VCDH">A0112</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 2001 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved. </p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2 </p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2001">2001</date>
+            <idno type="uva-pid">uva-lib:501797</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow Project: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note>
+                    <p>Transcription from photocopy</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Jedediah Hotchkiss to Governor Letcher, July 27, 1861</title>
+            <title type="sort">augusta county jedediah hotchkiss to governor letcher, july 27 1861</title>
+            <author>Jedediah Hotchkiss </author>
+            <respStmt>
+                            <resp> </resp>
+                            <name> </name>
+                        </respStmt>
+          </titleStmt>
+                    <publicationStmt>
+                        <publisher> </publisher>
+                        <pubPlace> </pubPlace>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Jedediah Hotchkiss Collection, Reel 4, Manuscripts Division, Library of Congress, Washington, D. C.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p>Virginia Historical Society</p>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Congress, Washington, D. C.</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1861-07-27">1861-07-27</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Troop Movement, Enlistment, Prisons/Prisoners, Military Strategy </term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp> </resp>
+                    <name> </name>
+                </respStmt>
+                <item> </item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="A0112T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Hotchkiss writes to Governor Letcher on behalf of a Colonel Heck, who was
+                    captured and sent to a Union prison. He asks Letcher to consider a prisoner
+                    exchange so that Heck's regiment may be reorganized as it once was before the
+                    war.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Governor Letcher </name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1861-07-27">July 27, 1861</date>
+                        <name type="place">Camp at McDowell, Highland Co, VA</name>
+                    </dateline>
+                    <salute>Gov. Letcher</salute>
+                </opener>
+                <p>At the request of the officers and men of our regiment, the one formally
+                    commanded by Lt. Col. Heck, I write to you to ask that you will have our
+                    regiment reorganized as it was before, by having an exchange of prisioners with
+                    the Lincoln government, if posssible, that our Captains and privates may come
+                    back to the regiment, as they all desire, and that we may again be put under the
+                    command of Col. Heck- who had and still has the respect and confidence of all
+                    who were formally under his command and whose conduct, in trying circumstances,
+                    was worthy of all praise, and his last act before the surrender, urging another
+                    attempt to escape and showing that it was practicable (and it was proven to have
+                    been so by the fact that soon after he did so he did escape) proves that he was
+                    worthy to command.</p>
+                <p>I am sure that you will endeavor yourself more than ever to a large number of the
+                    best men of Augusta, Rockbridge, Pendelton, Highland, and Upsher if you will
+                    grant as yours did and the power you have in the matter, in reorganizing a
+                    regiment that was a credit to the state when complete and in active service, and
+                    that when broken by the fortunes of war has kept up its own organization, and
+                    all of its members have kept immaculate the honor of the state in the midst of
+                    insubordination and misconduct on the part of other regiments. Therefore with
+                    the most confidence we ask this favor of your excellency.</p>
+                <closer>
+                    <salute>Yours most respectfully </salute>
+                    <signed><abbr expan="Jedediah">Jed.</abbr> Hotchkiss, Act. Adj: in behalf of
+                            <abbr expan="Regiment">Regt.</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

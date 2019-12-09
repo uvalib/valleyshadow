@@ -1,0 +1,299 @@
+<?xml version="1.0"?>
+
+<?dlps id="A1117"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A1117">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: R. Buchanan to Buchanan's roommates,
+                    February 12, 1867</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county r buchanan to buchanans roommates, february 12 1867</title>
+        <author>Buchanan, R.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Matt Speiser</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Matt Speiser</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">13</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A1117</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501920</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: R. Buchanan to Buchanan's roommates, February 12,
+                            1867</title>
+            <title level="m"/>
+            <title type="sort">augusta county r buchanan to buchanans roommates, february 12 1867</title>
+            <author>R. Buchanan</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Smiley Family Papers, Accession
+                            #1807, Special Collections Department, University of Virginia Library,
+                            Charlottesville, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-02-12">1867-02-12</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>African Americans, Arts/Leisure, Family, Medicine/Hospitals, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2005">Summer 2005</date>
+                <respStmt>
+                    <resp/>
+                    <name>Doug O'Reagan</name>
+                </respStmt>
+                <item>Proofread.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A1117T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Buchanan describes a recent party, delivers generally lighthearted news about
+                    acquaintances, and accuses an African-American woman of careless treatment of a
+                    child.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1867-02-12">Feb 12<hi rend="super"><hi rend="underline">th</hi></hi>/67</date>
+                        <name type="place">Home Lensdagene</name>
+                    </dateline>
+                    <salute>My dear Roommates</salute>
+                </opener>
+
+                <p> I <hi rend="underline">seat</hi>
+                    <hi rend="underline">myself</hi> this evening to hold a short conversation with
+                    you all. How are you "one and all" getting along in the <hi rend="underline">old</hi>
+                    <hi rend="underline">Maidens</hi> establishment, suppose Miss Baldwin is
+                    pleasant as ever. Does she ever get <hi rend="underline">Spotty</hi> on her back
+                    now? I hope not. I suppose she looked very <unclear>
+                        <hi rend="underline">disconsolable</hi>
+                    </unclear> after I left-I <orig reg="haven't">hav'nt</orig> a doubt but my
+                    departure cast a <hi rend="underline">gloom</hi> over the house. Well I must
+                    stop this &amp; tell you about the party, now Lucie Tish Annie and Mary all
+                    get round the stove with you "little feet on it as to be comfortable and put a
+                        <unclear>book</unclear> on the arm &amp; then set" the lamp on it, and I
+                    will begin about the party (all ready). Well we arrived at uncle James's about
+                    five and intended coming on home that night but Charlie and Annie's Billie came
+                    down to the road and said we should stay all night and go to the party. Father
+                    at last consented, and we drove up and spent the night. In the first place we
+                    had <orig reg="hardly">harly</orig> stopped till Billie asked how his <hi
+                        rend="underline">little</hi> Annie was <hi rend="underline">getting</hi>
+                    <hi rend="underline">along</hi>, when I went in the house, there sat two or
+                    three <orig reg="gentlemen">gentleman</orig>, you may know I was considerably
+                    frustrated but how some ever I stood the trial of being introduced to them After
+                    sitting awhile another gentleman came in. I felt very much agitated at being
+                    among so many (<hi rend="underline">males</hi>). As the evening advanced, supper
+                    was announced, need I tell an elegant one aunt R never has an<del hand="h1"
+                    >n</del>y other kind. And then about "7<hi rend="super">o</hi>clock" we started
+                    to the party. I was mounted behind Billie__"<pb n="2"/> Cousin Hannah behind Mr
+                    Dunlap one of the Brownsburg students who came home with Charlie that evening.
+                    You can fancy us riding across a cornfield with <unclear>cornstocks</unclear>
+                    higher than your he<add hand="h1" place="inline">a</add>d. I forgot to tell you
+                    how the rest of our party went. Charlie Mr Clemman (<unclear>Lew</unclear>) Mr
+                    Martin went in an old sleigh to break the road, we went up the <hi
+                        rend="underline">steepest</hi> hill you ever saw, <unclear>sow</unclear>
+                    dreadful deep. I was afraid I would pull Billie's shirt, drawers, and <orig
+                        reg="everything">every <hi rend="underline">thing</hi></orig>
+                    <hi rend="underline">else</hi> off before we got up the hill. But we got up at
+                    last, and arrived at the party without accidents happening. When we went in they
+                    were sitting all around the room, I was completely surprised to see so many
+                    there, when Cousin Hannah and me went in the parlor I got with Mary Smiley the
+                    first person. We had not been in but a few <del hand="h1">days</del> minutes
+                    when they commenced playing some kind of a thing, that you seized the boys by
+                    the arms and dragged them across the <hi rend="underline">rooms</hi>. The boys
+                    began to come around on our side, and <hi rend="underline">asking</hi> the <hi
+                        rend="underline">gals</hi> to promenade the floor <hi rend="underline"
+                        >wid</hi>-<hi rend="underline">em</hi>. I told Mary I thought we had better
+                    take a promenade on the porch (I told Mary out there about the cat fainting)
+                        <orig reg="stayed">staid</orig> a few minutes went in and sad
+                        <unclear>stower</unclear>, and lo! and behold! a feller asked me to take his
+                    arms. I was terribly excited and if it had not been for the support of his arm I
+                        <orig reg="don't">dont</orig> know what I might have done. I tell you he was
+                    a mighty nice little fellow. There was about <hi rend="underline">28</hi> or <hi
+                        rend="underline">30</hi> there - just enough to enjoy themselves they were
+                    all very sociable. I tell you I never was at a party where I enjoyed myself like
+                    I did there, (we had good things to eat too) We played all kinds of kissing
+                    plays, I always got around the kissing part as <hi rend="underline">quickly</hi>
+                    as <hi rend="underline">possible</hi>, managed to kiss my Cousins, I <orig
+                        reg="know">now</orig> you all are tired reading this awful<pb n="3"/> letter
+                    - especially this description of the party. But please bear with me a little
+                    longer. I want to tell you about <hi rend="underline">little</hi> Thompson
+                    Brower, Ok! Tish he <unclear>pintedly</unclear> cut around Marty that night, you
+                    ought to have seen him jumping over the floor <del hand="h1">he</del> cutting
+                    some kind of a step. I had a mind to ask him if it was what they call the <hi
+                        rend="underline">Grecian</hi>
+                    <hi rend="underline">bend</hi> I was dreadfully afraid he would slip and split
+                    himself up from the <orig reg="center">centre</orig> of <hi rend="underline"
+                        >gravity</hi>, you all know where that is, Annie does I know. I will tell
+                    you one more incident of the party &amp; close on the subject as I went to
+                    get on when we started I mounted the <unclear>stile</unclear> a plank broke
+                    which occassioned considerable laughter - I tried again and the <hi
+                        rend="underline">abominable</hi> old plank broke again I will have you all
+                    to comment on my misfortune; we got home <unclear>or</unclear> to <orig
+                        reg="uncle's">uncles</orig> half past 2 in the morning. The next morning
+                    when we were ready to start (we were all in aunts' room) Cousin Hannah came to
+                    the door &amp; called me out, I went out and there stood aunt killing
+                    herself laughing said one of the <unclear>oreges</unclear> women was going to
+                    have a little one, said she had just taken sick, while we were talking (<hi
+                        rend="underline">babie</hi>) <unclear>hollored</unclear>
+                    <hi rend="underline">recken it was hurtin</hi> / Uncle James, Father Mr Dunlap,
+                    Billie &amp; Charlie were in the room just over her. Cousin Hanna came and
+                    called Uncle James to take them out of that room so they went out pretty quick,
+                    cousin Hannah said the <hi rend="underline">nigger</hi> woman had the thing
+                    sitting on the floor, what do you think of that. I will try and stop on this
+                    subject and write something else. I want you all to decide about an offer which
+                    a gentleman sent me a few days ago. He sent me word in the first place he would
+                    give me $10.00<pb n="4"/> in Confederate <orig reg="money">monie</orig> for a
+                    composition told him <unclear>or</unclear> sent him word it would have to be <hi
+                        rend="underline">greenbacks</hi>. He returned the answer he did not have the
+                        <hi rend="underline">change</hi> but would give himself for one, the
+                    question is will <add hand="h1" place="inline">I</add> accept the offer I want
+                        <hi rend="underline">your</hi>
+                    <hi rend="underline">alls</hi> advice on the subject, of course I expect it to
+                    be <hi rend="underline">confidential</hi>. I have not been to <hi
+                        rend="underline">meeting</hi> since I came home, weather has been too
+                    inclement &amp; I am so <hi rend="underline">
+                        <unclear>skeary</unclear>
+                    </hi> about the house. <unclear>Mathi</unclear> said she was going to send the
+                        <orig reg="wagon">waggon</orig> around to take Sue &amp; me to preaching
+                    wish she would if <hi rend="underline">her</hi>
+                    <hi rend="underline">brother</hi> would drive. Well Lucie I might as well tell
+                    you that I lost that note you gave me for your Ma it was in my cloak pocket
+                    &amp; I suppose it dropped out I looked <orig reg="everywhere">every
+                    where</orig> for it. I am very sorry but I will cut a cuff out and take to your
+                    Ma next Sunday I <orig reg="don't">dont</orig> think you put <orig
+                        reg="anything">any thing</orig> in the note except that. I will tell your Ma
+                    how you wanted it made. I hope you <orig reg="won't">wont</orig> think hard of
+                    it I could not help it. Lucie I know you will like to hear about Robert Morrison
+                    &amp; James M<hi rend="super">c</hi>nutt, they are in Brownsburg studying
+                        <hi rend="underline">medicine</hi>, so it is no longer Jim M<hi rend="super"
+                        >c</hi>nutt &amp; Bob Morrison but <abbr expan="Doctor">Dr</abbr> M<hi
+                        rend="super">c</hi>Nutt &amp; <abbr expan="Doctor">Dr</abbr> Morrison;
+                    wonder where they will practice? I am afraid Bob's <hi rend="underline">health</hi>
+                    <orig reg="won't">wont</orig> stand it; you know he is delicate. Lucie you
+                    remember I told you I would transfer my correspondents to you a gentleman
+                    offered himself to write to you he asked me to let him write to you, He is the
+                    one that I used to get letters from every Thursday, you <orig reg="don't"
+                    >dont</orig> know what <hi rend="underline">pretty</hi> things he said about you
+                    I told him I would transfer to you any correspondence. I must stop as it is
+                    bedtime please all excuse this miserable letter write so I will get a letter
+                    next Wednesday, my love to you all Mary, Annie, Tish, and Lucie <orig
+                        reg="don't">dont</orig> let <orig reg="anyone">any one</orig> but the girls
+                    in your room [continued at top of first page] Give my best love to the girls in
+                        <orig reg="Nelie's">Nelies</orig> room and to Lucie &amp; Ella. And last
+                    but not least give my love to my dear Lizzie tell her I will write to her next
+                    week, hope she passed her examination, If you all let <orig reg="anyone">any
+                    one</orig> see this I never will write to you again</p>
+
+                <closer>
+                    <salute>I remain your <hi rend="underline">friend</hi>
+                        <hi rend="underline">till</hi>
+                        <hi rend="underline">death</hi></salute>
+                    <signed>R Buchanan</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

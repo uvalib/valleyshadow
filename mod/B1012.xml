@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1012"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="B1012">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: Thomas P. Jackson to
+                    Garrick Mallery, June 3, 1867</title>
+        <title type="sort">freedmens bureau records thomas p jackson to garrick mallery, june 3 1867</title>
+        <author>Jackson, Thomas P.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">9</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1012</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500880</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: Thomas P. Jackson to Garrick Mallery, June
+                            3, 1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records thomas p jackson to garrick mallery, june 3 1867</title>
+            <author>Thomas P. Jackson</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 47.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-06-03">1867-06-03</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Aid/Relief, Community Values/Local Behavior, Economy, Employment/Labor,
+                        Politics/Political Attitudes, Race Relations, </term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-05">May, 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1012T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Jackson's monthly report to the Bureau is relatively optimistic. He writes that
+                    the local population is coming to accept the fact that freedmen are citizens,
+                    and that they are more willing to settle contract disputes justly. Jackson also
+                    discusses the improving prospects of the poor, and the general lack of
+                    drunkenness, although medical care is still in short supply.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau <abbr expan="Refugees, Freedmen and Abandoned Lands">R. F. &amp; A.
+                        L.</abbr><lb/>Office 4th <abbr expan="Division">Div</abbr> 9 <abbr
+                            expan="Sub-District">Sub Dist</abbr>
+                    <abbr expan="Virginia">Va</abbr>
+                    <name type="recipient"><abbr expan="Captain">Capt.</abbr> Garrick Mallery 43<hi
+                            rend="super">d</hi>
+                        <unclear>U.S.I.</unclear><lb/><abbr expan="Acting Assistant">A.A.</abbr>
+                        <abbr expan="Adjutant">Adjt.</abbr>
+                        <abbr expan="General">Gen'l</abbr><lb/>Richmond <abbr expan="Virginia"
+                        >Va</abbr> (Through <abbr expan="Headquarters">HdQrs</abbr> 9th <abbr
+                            expan="District">Dist</abbr>
+                        <abbr expan="Virginia">Va</abbr>)</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-06-03">June 3, 1867</date>
+                        <name type="place">Staunton <abbr expan="Virginia">Va</abbr></name>
+                    </dateline>
+                    <salute>Captain</salute>
+                </opener>
+
+                <p>In compliance with <abbr expan="Circular">Cir.</abbr> 6 S. 1866 (<abbr
+                        expan="Bureau of Refugees, Freedmen and Abandoned Lands"
+                    >BR.F&amp;A.L</abbr>) I have the honor to report on the condition of Bureau
+                    affairs in the 4th Division 9th <abbr expan="Sub-District">Sub Dist</abbr>
+                    comprising the counties of Augusta &amp; Highland. The condition of
+                    freedpeople is improving slowly it is true, as the large majority of Whites who
+                    are employers are in straitened circumstances themselves but surely they are
+                    being thrown more and more on their own resources, and are learning the value -
+                    here at least - of time and money. The fact that the Freedman is now a citizen
+                    is generally recognized and he is spoken of and treated with more consideration.
+                    Employment is readily procured on farms, public works and lumbering at fair
+                    wages and the large crop of grain and grass which will soon be ready for harvest
+                    must place labor at a premium in this Valley. Numerous complaints are made at
+                    this office of refusal to pay for labor under old contracts or sharp practice in
+                    settlements under them but as a general rule I find the parties willing to
+                    settle promptly and justly. Threats of discharge of Freedmen vote contrary to
+                    the wishes of employers are very common but I attach but little importance to
+                    them for the Freedmen will vote Republican almost <pb n="2"/>to a man and the
+                    farmers of the two are the most dependent upon the other as with their large
+                    prospective harvest <add hand="h1" place="inline">they have</add> the most at
+                    stake and they will care less how the Freedman votes than how he works. The
+                    feeling between the Freedmen and their <unclear>former</unclear> masters is
+                    friendly with remarkably few exceptions. The condition of the sick, aged and
+                    helpless both old and young has been much improved by the issue of rations
+                    received at this Station and I am hopeful that with the incoming of garden
+                    vegetables, further assistance from the Bureau will not be necessary as most
+                    have small garden or corn patches and these will supply considerable food, while
+                    friends will be able to help also.</p>
+
+                <p>As to Medical attendance I respectfully renew my remark as to the needs of
+                    freedpeople in this Division. Dr. S.C. Harris completed this month twelve month
+                    gratuitous prescriptions and supply of medicine to the most indigent and
+                    afflicted colored people in Staunton. I have been personally cognizant of these
+                    services since my assignment to this station and I regret much that Dr. Harris
+                    informs me this morning he cannot afford his services and medicine longer,
+                    without remuneration sufficient to pay for the latter.</p>
+
+                <p>I received a copy of <abbr expan="General">Genl.</abbr>
+                    <abbr expan="Oliver">O.</abbr> O. Howards <abbr expan="Circular">Cir.</abbr>
+                    <abbr expan="Letter">Lett.</abbr> of May 15/67 with reference to establishment
+                    of "Lincoln" Temperance Associations and the general discouragement of drinking
+                    intoxicating liquor and have made a suggestion in accordance therewith to some
+                    of the leading <pb n="3"/>colored men in Staunton. If a copy of the constitution
+                    and <orig reg="bylaws">bye laws</orig> of the Central Society at Washington can
+                    be furnished I have no doubt a branch organization can be established here. I am
+                    happy to state that in Augusta &amp; Highland, drunkenness is much more
+                    prevalent among White than colored people and <hi rend="underline">quite
+                        exceptional among</hi>
+                    <hi rend="underline">the Whites</hi>.</p>
+
+                <p>Generally the future of the Freedman in my Division is full of promise. The aged
+                    and orphans, of whom there are many, must continue dependent upon local or
+                    National charity for some years, but the <orig reg="able-bodied">able
+                    bodied</orig> male and female will shortly be able to take care of themselves,
+                    physically and politically.</p>
+
+                <closer>
+                    <salute>Respectfully submitted<lb/><abbr expan="Your obedient servant">Yr obt
+                            servt</abbr></salute>
+                    <signed><hi rend="underline"><abbr expan="Thomas">Thos</abbr> P
+                        Jackson</hi><lb/>Agent</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

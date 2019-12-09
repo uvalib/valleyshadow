@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+
+<?dlps id="A3029"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A3029">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Tony Pastor to Annie Harris,
+                    November 11, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county tony pastor to annie harris, november 11 1861</title>
+        <author>Pastor, Tony</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Doug O'Reagan</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Doug O'Reagan</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A3029</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502189</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Tony Pastor to Annie Harris, November 11, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta county tony pastor to annie harris, november 11 1861</title>
+            <author>Tony Pastor</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Tony Pastor to Annie Harris,
+                            November 11, 1861, Nellie Harris private collection</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from private collection</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1861-11-11">1861-11-11</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Death/Casualties, Troop Movement</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A3029T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Pastor discusses his army's movement to a new position, including riding on top
+                    of train cars.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1861-11-11">November 11th 1861</date>
+                        <name type="place">Camp near Winchester</name>
+                    </dateline>
+                    <salute>Dear Annie</salute>
+                </opener>
+
+                <p> I embrace this my earliest opportunity of answering your <hi rend="underline"
+                        >very</hi> welcome, &amp; interesting letter, which I received before
+                    leaving Centerville - We left there on friday about 2 oclock &amp; arrived
+                    at the Junction about <orig reg="sunset">sun set</orig> - We then <orig
+                        reg="transferred">transfered</orig> our baggage to the cars &amp; took
+                    the same for Strawsburg, where we arrived <unclear>Sun</unclear>day, <del
+                        hand="h1"/> he D<del rend="none" hand="h1"/> was any thing else, but a pleasant one;
+                    from the fact that we<pb n="2"/> were so much crowded. I for one lay on the top
+                    of the cars &amp; slept, but was nearly frozen all the time. <orig
+                        reg="Everything">Every thing</orig> passed off very agreeably, considering -
+                    no accident occuring save one - &amp; that was truly sad. One of <abbr
+                        expan="Captain">Capt</abbr> Roberts men fell off the top of the cars
+                    &amp; got nearly killed. he lived about 2 hours after they got him on the
+                    train. He was an Irishman by the name of OBryan, the rest of the Irish belonging
+                    to the company <unclear>after</unclear> we got to Strawsburg got as "tight" as
+                    they could get. (This you know is part of their<pb n="3"/> religion, or their
+                    rule at least - which they strictly adhere to) Well, I <orig reg="can't"
+                    >cant</orig> say now, how long we will remain at this place or whether we will
+                    go into winter quarters - this will depend entirely on the movements of the
+                    enemy. It was reported before we left Centerville, that the <hi rend="underline"
+                        >Yankees</hi> were advancing toward this place. That there was a number of
+                    them in Martinsburg &amp; <unclear>Romney</unclear>. Also Shepards Town. But
+                    this has turned out to be false; except at Romney. There are about 5000 at that
+                    place &amp; are busily engaged fortifying.<pb n="4"/></p>
+                <p>I am <hi rend="underline">glad</hi> to inform you that I am not as corpulent as
+                    you heard, but still remain about the same - but not near so good looking as the
+                    Gentleman you spoke of. Lieut M<hi rend="super">c</hi> says he <del hand="h1"
+                        >would</del> certainly would like to kiss <hi rend="underline">that</hi>
+                    lady &amp; you too. he sends his best love to <hi rend="underline">you</hi>
+                    &amp; all the <unclear>girls</unclear>. Mr Miller has recovered. Says he was
+                    in the same fix but you can return my <hi rend="underline">love</hi> good
+                    wishes, &amp; To Maggie &amp; <del rend="none" hand="h1"/> tell them I would like to
+                    see <hi rend="underline">them</hi> so much, also all the rest. Excuse this short
+                    letter, nothing more at present but remain yours as ever</p>
+
+                <closer>
+                    <salute/>
+                    <signed>Tony Pastor</signed>
+                    <seg type="postscript">Direct to Winchester<lb/>
+                        <orig reg="don't">dont</orig> show this is you please</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

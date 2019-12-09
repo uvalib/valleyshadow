@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2518"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="A2518">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Jedediah Hotchkiss to Sara A. Hotchkiss, March
+     21, 1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county jedediah hotchkiss to sara a hotchkiss, march 21 1862</title>
+        <author>Hotchkiss, Jedediah</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Rider</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Rider</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A2518</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:502007</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Jedediah Hotchkiss to Sara A. Hotchkiss, March 21, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta county jedediah hotchkiss to sara a hotchkiss, march 21 1862</title>
+            <author>Jedediah Hotchkiss</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>2 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Jedediah Hotchkiss Collection, Reel 4, Manuscripts
+       Division, Library of Congress, Washington, D.C.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Congress, Washington, D. C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1862-03-21">1862-03-21</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Slavery, African Americans, Family, Military Authority, Enlistment, Desertion/Leave, Camp
+      Life</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A2518T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Hotchkiss describes the army's current encampment, the weather, and the mustering in of
+     militia units.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Sara A. Hotchkiss</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1862-03-21">March 21<hi rend="super">st</hi> 1862</date>
+      <name type="place">Gen. <unclear>Mecin's</unclear> -- near Mt. Jackson Va. Shenandoah
+       Co.</name>
+     </dateline>
+     <salute>My Dear Wife --</salute>
+    </opener>
+
+    <p>We have now been a day &amp; a half here at the Old <orig reg="Steenberger's"
+      >Steenbergers</orig> place, the most magnificent farm in Va - - some 1100 acres of level
+     meadowland, the house a fine stone one in the 1<hi rend="super">st </hi> terrace above the
+     level &amp; a mile back from the turnpike. Mrs. <unclear>Mecin</unclear> is a sister of
+     Mason Jordan -- they sent their servants to Lynchburg but 9 ran away the day before they were
+     to leave. Mason has gone home to see about his sisters. We had 2 days of fine weather to come
+     here in &amp; 1 bad. We stayed the 2<hi rend="super">nd</hi> night at Harrisonburg, at the
+     Mill there -- I went to <unclear>Frick's</unclear> with Col. Sproul -- we had <orig reg="a"
+      >&amp;</orig> nice time, the next night we were two miles from New Market at Dr.
+     Williamson's &amp; the next day came here. I have been very busy &amp; have had to
+     write a great deal -- but expect to get through tomorrow, when I shall be a private I suppose
+     as there are not men enough for a <abbr expan="Regiment">Regt</abbr> &amp; so the Col. does
+     not command, but he has offered me the Adjutancy of the <abbr expan="Regiment">Regt</abbr> when
+     made up -- But Baylor says Gen. Jackson will have me detailed on <abbr expan="Engineer"
+     >Eng.</abbr> Duty -- The Militia were partly mustered in today, by Col. Baylor -- they are put
+     into companies of 100. Some of the men that ran away from home were caught by Ashby's Cavalry
+     and brought here to jail -- Gen. Jackson has been falling back but today he moved forward. It
+     is reported that the enemy has fallen back, owing to a rebellion in Maryland, but there's no
+     finding <pb n="2"/> out what the truth is.</p>
+
+    <p>22<hi rend="super">nd</hi>
+     <unclear>this</unclear> morning some improvement in the weather, yesterday was very bad, the
+     mud is deep, but we are very well cared for, as we have houses to say in, though crowded. There
+     are about <unclear>12</unclear> of us that sleep in one room, with all sorts of sleeping
+     fixings &amp; some with no sleeping fixings. Gen. Jackson called up to see us yesterday, he
+     looks care worn, though he is a very pleasant man. I went down to see him the day we got here
+     he is very busy -- (pen again). I called at Mr. Ruffner's the morning we left Harrisonburg, for
+     a few minutes -- he gave me a very nice pocket compass -- &amp; letters to some of his
+     friends here -- He wants my Johnston's Physical Atlas &amp; if he sends for it do it u p
+     very carefully &amp; send it. See that the Martin boys return my Marlborough &amp;
+     Alison if they go away. Tell them I have not yet seen their father, or the Hardy Militia. I
+     hope you are well yet - - I am in much suspense about you all &amp; do not know when I
+     shall hear from you -- the mails are so deranged -- half of the time the mail bags are not
+     brought Write to me by private hands if you hear of any one coming here -- They are falling
+     every day -- the arresting of some starts the others. They have taken the Bank away from
+     Harrisonburg -- God bless you all -- kiss the dear children for Pa -- </p>
+
+    <closer>
+     <salute>Your <abbr expan="affectionate">aff.</abbr> husband</salute>
+     <signed>Jed. Hotchkiss</signed>
+     <seg type="postscript">I am very well indeed -- write if by mail to care of Lt. Col.
+       <unclear>W. S. H.</unclear> Baylor Mt. Jackson</seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

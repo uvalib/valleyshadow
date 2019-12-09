@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+
+<?dlps id="A7532"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A7532">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Mary Anna Sibert to David H. Evans,
+                    October 28, 1867</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county mary anna sibert to david h evans, october 28 1867</title>
+        <author>Sibert, Mary Anna</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Andrew Witmer</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Andrew Witmer</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">10</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A7532</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502574</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Mary Anna Sibert to David H. Evans, October 28, 1867</title>
+            <title level="m"/>
+            <title type="sort">augusta county mary anna sibert to david h evans, october 28 1867</title>
+            <author>Mary Anna Sibert</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Mary Anna Sibert to David H.
+                            Evans, October 28, 1867, Evans-Sibert Family Papers, Accession 27770,
+                            Virginia State Library and Archives, Richmond, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Virginia State Library and Archives, Richmond, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-10-28">1867-10-28</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Family, Women, Church/Religious Activity</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-12-29">December 29, 2004.</date>
+                <respStmt>
+                    <resp/>
+                    <name>Andre Fleche</name>
+                </respStmt>
+                <item>Proofread against original; changes made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A7532T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Sibert apologizes profusely for a misunderstanding between her and Evans which
+                    has caused her a great deal of pain. She offers to provide a full explanation
+                    when he next visits.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                
+                <opener>
+                    <dateline>
+                        <date value="1867-10-28">October 28 1867</date>
+                        <name type="place">Mt. Solon, Va.</name>
+                    </dateline>
+                    <salute>Mr D.H. Evans</salute>
+                </opener>
+
+                <p>I have never <del rend="none" hand="h1"/> Good bye feeling as unhappy as I did yesterday
+                    Evening because I know you were leaving <del rend="none" hand="h1"/> with wrong thoughts
+                    against me regarding our proposed ride. If you could have read my heart,
+                    &amp; known my disappointment you would only have been pleased, &amp;
+                    not disappointed, nor would you have blamed me had I told you why I did not go
+                    then. It was not that I thought people would say <orig reg="anything">any
+                    thing</orig>, for what could they say about me riding with <hi rend="underline"
+                        >you</hi> nothing at all &amp; who's business would it have been but
+                    yours &amp; mine? I am one who does not care what the world says, or persons
+                    think of what I do when I know I am right <del rend="none" hand="h1"/> I know it would have
+                    been right for <del rend="none" hand="h1"/> horse back jaunt with <del rend="none" hand="h1"/> but the
+                    holy Sabbath, but <del rend="none" hand="h1"/> reason I did not go. I will tell you <del
+                        hand="h1"/> the truth why I did not, when you come Saturday a week,
+                    &amp; nothing but the truth then you will say you did me wrong by thinking
+                        as<pb n="2"/>you did I knew just what you would say about it that was why I
+                    cried it grieved my very heart to have you misjudge me when I <del rend="none" hand="h1"/>
+                    it &amp; you will say so when I tell you <del rend="none" hand="h1"/> the world was
+                    against you knowing <del rend="none" hand="h1"/> do it would not keep me from giving <del
+                        hand="h1"/>, or from loving you, no I would only love you the more,
+                    &amp; go with you the oftener if that was the case, but it is not, for all
+                    speak highly of you who know you. I would neither Thank, nor respect the person
+                    (if my own dear father) who would come to me, &amp; say one word of
+                    unkindness against you, I could never esteem them again, nor would I have them
+                    for a friend, that is my way of doing for those I love I don't like any one who
+                    says any thing about them that is not just. If I could see your heart, &amp;
+                    read there that you truly believe <del rend="none" hand="h1"/> was not what you said that
+                    kept me <del rend="none" hand="h1"/> riding, it would lift such a heavy <del rend="none" hand="h1"/> my
+                    heart. I would write you why I <del rend="none" hand="h1"/> but I would rather tell you so I
+                    could <del rend="none" hand="h1"/> you, &amp; have your answer from your mouth you will
+                    laugh &amp; call me <hi rend="underline">vain</hi>. Ma told me to tell you
+                    that when you come she will tell you her self<pb n="3"/>&amp; so will I, it
+                    will not make you angry for you will then know why I said it was for your own
+                    dear sake that I did not <del rend="none" hand="h1"/> I loved you so truly. This <del
+                        hand="h1"/> talk to you now but I will <del rend="none" hand="h1"/> go <del rend="none" hand="h1"/>
+                    when you arrive, &amp; will tell you <del rend="none" hand="h1"/> did not go to church
+                    whilst <del rend="none" hand="h1"/> &amp; that was for your sake too, as you shall hear
+                    I know you will not love me less but love me more <orig reg="than">then</orig>
+                    Ever. bless Ma she has been talking about you all day, says, she is afraid you
+                    are in your store with no fire to warm you this cold damp day. Oh! how much I
+                    would love to be with you <orig reg="today">to day</orig> I feel so lonely,
+                    &amp; unhappy. If I could see you now I would tell you all but I must wait
+                    til you come which will seem ages to me two weeks Ma says you must come then, if
+                    you don't come in a buggy just so you come, if you come in a conveyance of your
+                    own we will if we <del rend="none" hand="h1"/> go to Mossy Creek church. I will not <del
+                        hand="h1"/> then indeed I will not I love <del rend="none" hand="h1"/> you &amp; I
+                    do not go with any gentlemen <del rend="none" hand="h1"/> not since I loved you. I would
+                        <unclear>no</unclear><del rend="none" hand="h1"/> you <hi rend="underline">in</hi>
+                    <hi rend="underline">an</hi>y <hi rend="underline">thin</hi>g because I love you
+                    too well for that &amp; some day if we live you will see &amp; know that
+                    I have not. I could not rest for thinking of what<pb n="4"/>you said. I went off
+                    to <orig reg="myself">my self</orig> to cry &amp; grieve after you left <del
+                        hand="h1"/> not told you the truth when you <del rend="none" hand="h1"/> never do so
+                    again but will <del rend="none" hand="h1"/> will understand &amp;
+                        <unclear>no</unclear><del rend="none" hand="h1"/> I was so anxious to put <del hand="h1"
+                    /> from you in the subject that <del rend="none" hand="h1"/> Friday's mail to <del rend="none" hand="h1"/>
+                    <hi rend="underline">Eve</hi>ry <hi rend="underline">thin</hi>g for I am <hi
+                        rend="underline">tru</hi>e you <del rend="none" hand="h1"/> f<hi rend="underline"
+                    >ea</hi>r to love &amp; t<hi rend="underline">rus</hi>t me, so long as <del
+                        hand="h1"/> God's help. I shall never <hi rend="underline">deceive</hi> you
+                    who I love above all others, nor will I tell you an <hi rend="underline"
+                    >untrut</hi>h any time, or about any thing I <del rend="none" hand="h1"/> you too devotedly
+                    for that. Ma says the exercise you have been taking in your rides down here has
+                    done a great deal to improve your health, &amp; appearance. I think so my
+                    self. come often then I am so p<hi rend="underline">roud</hi> of you. Oh! how I
+                    do <del rend="none" hand="h1"/> you. You are all all I want you to be but a true <del
+                        hand="h1"/> &amp; I will be all you would wish me to be. I will not do
+                    &amp; be what is not pleasant to you in my manners or dress. I have tried
+                    your patience <unclear>long</unclear> enough in many ways. I could see that <del
+                        hand="h1"/> so often have I done so, &amp; you <del rend="none" hand="h1"/>
+                    complained. I do think you are the best <del rend="none" hand="h1"/> the world, you
+                    &amp; my dear papa <del rend="none" hand="h1"/> I will do so no more, but will be <del
+                        hand="h1"/> &amp; love to see a true lady be in Every respect <del
+                        hand="h1"/> you will write to me by tomorrow's mail I shall be so <del
+                        hand="h1"/> said <unclear>if</unclear>
+                    <unclear>you</unclear> do not. Oh! love me will you? my heart aches so painfully
+                    when I think I have grieved you or done <orig reg="anything">any thing</orig>
+                    you don't like. Ma, Rennie, &amp; Ada send love Write to me soon. C<hi
+                        rend="underline">ome down</hi> Saturday if you live I will go with you <orig
+                        reg="anywhere">any where</orig> in this world for I love you. I send a
+                    loving kiss to you <del rend="none" hand="h1"/> bless you is the prayer of</p>
+
+                <closer>
+                    <salute>Yours</salute>
+                    <signed>Mollie Sibert</signed>
+                    <seg type="postscript">Please do not <hi rend="underline">throw</hi> your <hi
+                            rend="underline">head</hi>
+                        <hi rend="underline">back</hi> when you read this letter-- for I have
+                        written the truthful language of my heart I mean all I have said I am not
+                        going to Rockbridge tell Ella, all send love <del rend="none" hand="h1"/> to her
+                        &amp; children. I had <del rend="none" hand="h1"/> today</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

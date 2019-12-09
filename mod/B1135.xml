@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1135"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1135">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: R. S. Lacey to Orlando
+                    Brown, September 7, 1866</title>
+        <title type="sort">freedmens bureau records r s lacey to orlando brown, september 7 1866</title>
+        <author>Lacey, R. S.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1135</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500995</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: R. S. Lacey to Orlando Brown, September 7,
+                            1866</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records r s lacey to orlando brown, september 7 1866</title>
+            <author>R. S. Lacey</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 16.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1866-09-07">1866-09-07</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Administration/Bureaucracy, Aid/Relief, Employment/Labor, Legal System,
+                        Education, Violence/Crime</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-06">June 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Kid Wongsrichanalai</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1135T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Lacey describes conditions in several counties, including Augusta County. He
+                    writes the the local government levied a poll tax to support the poor, but does
+                    not know if it will take effect in time for the winter, and notes the opposition
+                    to establishing schools for blacks in rural areas.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau of Refugees, Freedmen and Abandoned Lands<lb/>Head Quarters Seventh
+                    District Dept. Potomac
+                    <name type="recipient"><abbr expan="Brevet Brigadier General">Bvt. Brig.
+                        Genl.</abbr> O. Brown<lb/>A.A.A.G.</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1866-09-07">September 7<hi rend="super">th</hi>, 1866</date>
+                        <name type="place">Lynchburg, <abbr expan="Virginia">Va.</abbr></name>
+                    </dateline>
+                    <salute>General</salute>
+                </opener>
+
+                <p>I have the honor to submit the following report of inspection of the
+                    sub-districts of <abbr expan="Brevet Colonel">Bvt. Col.</abbr> G.B. Carse, and
+                        <abbr expan="Lieutenant">Lieut.</abbr> Geo. T. Cook. Sub-district of <abbr
+                        expan="Colonel">Col.</abbr> Carse being Rockbridge, Alleghany and Bath
+                    Counties. Sub district <abbr expan="Lieutenant">Lieut</abbr> Cook Augusta and
+                    Highland Counties.</p>
+
+                <p>I visited the <abbr expan="Headquarters">H<hi rend="super">d</hi>qrs</abbr> of
+                    each Officer and found them competent and efficient in the discharge of their
+                    various Bureau duties. Having practical knowledge of proper manner of keeping
+                    military records their official books and papers are in commendable condition.</p>
+
+                <p>Both officers report the general condition of the freedmen in their sub-districts
+                    as good. Occasional outrages occur while many employers refuse payment for
+                    services rendered, yet in the main the freedmen are doing well though as a rule
+                    getting very low wages.</p>
+
+                <p>Justice will be given in the superior Courts excepting in occasional jury trials
+                    yet in all cases as a rule before magistrates no justice will be given. Assaults
+                    on freedmen result <pb n="2"/>in the offender being bound over merely to keep
+                    the peace in trifling sums by the magistrates and have not in any instance yet
+                    been carried before the grand juries for action of the higher courts while
+                    complaints for recovery of wages or compensation of labor are not entertained.
+                    Yet while the freedmen commit crimes and go before superior courts he stands a
+                    creditable show. <abbr expan="Colonel">Col.</abbr> Carsy's Register of Marriages
+                    is partially taken while care has been used to carry out remaining paragraphs of
+                    circular No. 11.</p>
+
+                <p>The County authorities have assured him that they will care for all destitute but
+                    have no means for so doing. Apprehends much suffering this winter. Supply of
+                    labor about equal to demand.</p>
+
+                <p>No schools have been established outside of Lexington. The freedmen have a
+                    general desire for them elsewhere. Has not had an opportunity of getting full
+                    data from Alleghany and Bath Counties. The introduction of schools will meet
+                    with much opposition and can only be <unclear>enacted</unclear> and supported
+                    through Government aid. He doubts whether a house can be obtained for this
+                    winters use in Lexington.</p>
+
+                <p><abbr expan="Lieutenant">Lieut.</abbr> Cook's Register of Marriages has been
+                    taken in Augusta County though differing from printed blanks since sent him and
+                    necessitating therefore a new registry which as soon as complete he will take
+                    that of Highland. He has endeavored to enforce other paragraphs of Circular No.
+                    11.</p>
+
+                <pb n="3"/>
+
+                <p>It is the intention of civil authorities to care for destitute having levied a
+                    poll tax for that purpose but which will not be in operation before spring. He
+                    apprehends also much suffering through the winter if government supplies are cut
+                    off as anticipated by order.</p>
+
+                <p>Supply of labor equal to demand.</p>
+
+                <p>Schools are in successful operation in Staunton and will be during the winter.
+                    None elsewhere in his sub-district though desired by the freedmen. They could be
+                    established if places could be obtained in which to put them. The opposition of
+                    the whites to the education of freedmen by yankees renders establishment of
+                    schools outside large towns almost impossible.</p>
+
+                <closer>
+                    <salute>Very Respectfully<lb/>Your <abbr expan="obedient">obdt</abbr> servant</salute>
+                    <signed>R.S. Lacey<lb/>Captain and <abbr expan="Superintendent"
+                    >Supt.</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

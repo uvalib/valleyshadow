@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9800"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A9800">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: John B. Baldwin to Alexander H. H. Stuart,
+                    November 18, 1864</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta john b baldwin to alexander h h stuart, november 18 1864</title>
+        <author>Baldwin, John B.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Andrew Meade McGee</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Andrew Meade McGee</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A9800</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502824</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: John B. Baldwin to Alexander H. H. Stuart, November 18, 1864</title>
+            <title level="m"/>
+            <title type="sort">augusta john b baldwin to alexander h h stuart, november 18 1864</title>
+            <author>John B. Baldwin</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: John B. Baldwin to Alexander H.
+                            H. Stuart, November 18, 1864, Papers of Alexander H. H. Stuart, Albert
+                            and Shirley Small Special Collections Library, University of
+                        Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1864-11-18">1864-11-18</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term/>
+                    <term>American Civil War, National Government</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A9800T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>John B. Baldwin writes Alexander H. H. Stuart about Confederate national
+                    politics, including a possible suspension of the writ of <hi rend="italic"
+                        >Habeas Corpus</hi>.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    
+                    <salute>Dear Stuart-</salute>
+                </opener>
+
+                <p>I have <abbr expan="received">rec<hi rend="super">d</hi></abbr> the claim of
+                    Cousins for a horse killed in Battle. It requires to pass through the Auditor's
+                    office which causes a good deal of delay. &amp; then I learn that the
+                    appropriation is exhausted, but that will be remedied very soon. I will put it
+                    in regular <unclear>course for so intend</unclear>.</p>
+                <p>We have no news here of any kind except that which comes from the Valley,
+                    indicating the coming of Early's army this way. I was all along our lines on the
+                    North side of the River yesterday &amp; saw <unclear>unescaped</unclear> war
+                    looking down from Fort Harrison to the point of Yankee lines. I was nearly all
+                    day within range of cannon &amp; at times in musket range of the enemy, but
+                    there was not a shot. The enemy are building within quarters.</p>
+                <p>I fear the <hi rend="underline">Habeas Corpus</hi> will again be suspended, but I
+                    hope <pb n="2"/>in some modified form. Mr. <unclear>Trenholm</unclear> has made
+                    a capital impression here socially, &amp; officially &amp; his report
+                    rates very well. I think it will in the main be adopted, but as yet matters are
+                    not sufficiently developed to enable me to form an opinion.</p>
+                <p>The President's negro mishap has cause much feeling against him in quarters very
+                    near him as Harris, Ruffin &amp;c &amp; I learn it is doing much
+                    mischief in stampeding the slaves.</p>
+                <p>The city is just now unusually free of gossip. I have not heard anything worth
+                    writing about. I saw Sandy &amp; so his the other day &amp; all well,
+                    but hungry.</p>
+                <p>Love to all your folks.</p>
+
+
+                <closer>
+                    <salute>Yours truly</salute>
+                    <signed>John B. Baldwin</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

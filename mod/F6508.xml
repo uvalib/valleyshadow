@@ -1,0 +1,229 @@
+<?xml version="1.0"?>
+
+<?dlps id="F6508"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="F6508">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Emma V. Stouffer to Amos Stouffer, August 1,
+     1864</title>
+        <title type="sort">franklin county emma v stouffer to amos stouffer, august 1 1864</title>
+        <author>Stouffer, Emma V.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Edsel Burdge, Jr., Shippensburg, PA</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Jaime Henshaw</name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. <num type="kilobytes">9</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">F6508</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:501636</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Franklin County: Emma V. Stouffer to Amos Stouffer, August 1, 1864</title>
+            <title level="m"/>
+            <title type="sort">franklin county emma v stouffer to amos stouffer, august 1 1864</title>
+            <author>Emma V. Stouffer</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>6 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: From the private collection of Margaret Binkley
+       DuVernet. Photocopies courtesy of the Reformed Mennonite Collection, Mennonite Historical
+       Association of the Cumberland Valley, Chambersburg, Pennsylvania.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>We would like to thank Edsel Burdge, Jr. of Shippensburg, PA, for bringing this letter to
+        our attention and for sharing with us his transcription.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from private collection</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1864-08-01">1864-08-01</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Battle Description, Home Front, Military Authority, Prisons/Prisoners, Troop Movement</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""> </date>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="F6508T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>In this letter to her brother, Emma V. Stouffer describes the burning of Chambersburg and the
+     extent of the fire's destruction.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     Ford<lb/> Due 3<lb/> Amos Stouffer<lb/>
+     <del hand="h1">Petesbough</del><lb/> Chambersburg <abbr expan="Pennsylvania">Pa</abbr><lb/> Box
+     951
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1864-08-01">Monday, August 1<hi rend="super">st</hi> 1864</date>
+      <name type="place">Home,</name>
+     </dateline>
+     <salute>My Dear Brother,</salute>
+    </opener>
+
+    <p>I have no doubt you are very anxious to hear from home, thanks to a kind Providence that we
+     still retain our home. I suppose you hear all sorts of news. But hardly much worse than it
+     really is. On Saturday morning at four O'clock we heard artillery firing which proved to be the
+     rebs on the fair grounds, and a few of our soldiers between them and town. We had two pieces I
+     do not know how many the rebels had, Our men then started with the horses, &amp; sheep Abe
+     Witmen along. Ben went<pb n="2"/> with a soldier and Noah Sollenberger to town to see if the
+     rebels were there, when one fired after them and a ball came within two inches of the soldiers
+     head. The rebels were commanded by that old scoundrel M<hi rend="super">c</hi> clausland. they
+     first (for an excuse) demanded 500,000 in Greenbacks, or 100,000 in gold which of course could
+     not be given them. They then fired the Companies ware house, Court-house-Hall, Academy
+      <unclear>V.</unclear> and then carried fire in the private houses. There is nothing but ruins
+     from the Depot up <abbr expan="until">till</abbr> D<hi rend="super">r</hi> Sueserott's house
+     Eysters mill the paper mill and everything is gone. There is nothing left but the superbs of
+     the place. Col. M'clures house and barn and J. Ebys barn are<pb n="3"/> burned. M<hi
+      rend="super">rs.</hi> M<hi rend="super">c</hi>lure was sick and they gave her ten minutes time
+     to leave, M<hi rend="super">rs.</hi> M<hi rend="super">c</hi>lellan saved her house by very
+     hard pleading. Oh Amos, town looks wonderful, Alice Snively has <orig reg="everything">every
+      thing</orig> here she owns which is a few of her best dresses. Andrew Snively's property
+     consists of one coat, besides what he has on. The D<hi rend="super">r</hi> is in <orig
+      reg="Philadelphia">Phila<hi rend="super">d</hi></orig> seeing about his position. he is ready
+     to take his place on the field as Surgeon. he has not come home yet, do not know what effect it
+     will have on him. I heard of but two families who saved <orig reg="anything">any thing</orig>
+     but a few clothes, The Citizens Killed a Rebel Major who was drunk &amp; had straggled back
+     and was burning buildings. David &amp; John Miller came up this morning to see whether we
+     were burned<pb n="4"/> out. There were two rebels came out to Porters on Saturday Morning and
+     while they were busy talking a squad of our men came dashing out the lane there and captured
+     them, they say now and it is the opinion of almost <orig reg="everyone">every one</orig> that
+     they came out for the purpose of burning the mill, as the rebels said in town that Stouffers
+     Mill must come down yet. In a short time <abbr expan="General">Gen</abbr> Averils men came,
+     when the rebels, aware of the fact, moved off. Some attach great blame to <abbr
+      expan="General's">Gens</abbr> Couch and <orig reg="Averil">Averel</orig>. the former some
+     persons say should have rallied the 1500 men who went through here on Friday eve, and the
+     latter was so drunk in GreenCastle that he could not write an answer to a dispatch sent him by
+      Couch<pb n="5"/> It is hard to tell where the blame rests it surely is a shame that so few
+     should come in &amp; do so much damage. No one knows the correct amount of rebs here, Some
+     say not more than 3-others 800 &amp; some 1500. Mother &amp; Aunt Leah are still up at
+     Grandmothers We have not heard <orig reg="anything">any thing</orig> from there since last
+     Thursday, it may likely be that Grandmother is no more. There are a great many persons come to
+     town, some from Lancaster, Carlisle Gettysburg <orig reg="etc.">&amp;c.</orig> to see the
+     place. I suppose you will be home soon, About that Photograph you need not send any I suppose
+     to Leah, as she, I suppose appropriated Abe's to herself. I was in town twice on<pb n="6"/>
+     Saturday, Once while the fire was raging and again when it was pretty well over, from the mill
+     we could see the Cupola of the Academy, <abbr expan="Benjamin">Benj<hi rend="super"
+     >m</hi></abbr> Franklin <orig reg="etc.">&amp;c.</orig> fall over it looked very hard.
+     Since I am writing it began to rain but I think it is already pretty well over, I have a great
+     deal to tell you and hope to see you soon when I can have the pleasure of again speaking to
+     you. I have not time now to write more. Uncle Daniel got a horse some-where and has gone up to
+     Loudon. The friends &amp; neighbors are well so far as I know. It is now reported that
+     Averell is fighting the rebels at M<hi rend="super">c</hi>Connellsburg but I do not think it is
+     correct. Write soon we are very anxious to hear from you</p>
+
+    <closer>
+     <salute>from your loving sister</salute>
+     <signed>Emma</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

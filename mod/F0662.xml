@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0662"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="F0662">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Samuel W. North to His Father,
+                    December 1, 1862</title>
+        <title type="sort">franklin county samuel w north to his father, december 1 1862</title>
+        <author>North, Samuel W. </author>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Sally Henninger </name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Institute for Advanced Technology in the Humanities </publisher>
+                <publisher>University of Virginia </publisher>
+                <pubPlace>Charlottesville, Va. </pubPlace>
+                <idno type="VCDH">F0662</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1997 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved. </p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2/ </p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1997 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1997">1997 </date>
+            <idno type="uva-pid">uva-lib:501324</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War </p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note> </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Samuel W. North to His Father, December 1, 1862</title>
+            <title type="sort">franklin county samuel w north to his father, december 1 1862</title>
+            <author> </author>
+            <respStmt>
+                            <resp> </resp>
+                            <name> </name>
+                        </respStmt>
+          </titleStmt>
+                    <publicationStmt>
+                        <publisher> </publisher>
+                        <pubPlace> </pubPlace>
+                        <date value=""> </date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p>Source copy consulted: Samuel W. North Letters, Company C, 126th
+                            Pennsylvania Infantry, Civil War Miscellaneous Collection, Archives of
+                            the U.S. Military History Institute, Carlisle Barracks, Pennsylvania.
+                        </p>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from U. S. Army Military History Institute, Carlisle Barracks, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="-12-01">xxxx-12-01 </date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Family, Troop Movement</term>
+                    <term>Regiment: 126th Pa. </term>
+                    <term>Company: C </term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value="2000">Summer 2000</date>
+                <respStmt>
+                    <resp/>
+                    <name>Amy Voorhees</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="F0662T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>North predicts an upcoming battle with the rebels across the Rappahannock and
+                    observes the poverty of the local Virginia countryside.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Father</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1862-12-01">Dec <unclear>
+                                <orig reg="1st">1<hi rend="super">st</hi></orig>
+                            </unclear>
+                        </date>
+                        <name type="place">Near Falmouth </name>
+                    </dateline>
+                    <salute>Dear Father </salute>
+                </opener>
+                <p>as it has been some time since I wrote home I take this time to write I suppose
+                    there was a letter for me in that <del hand="h1">box</del> package you sent me
+                    but through <orig reg="somebody's">some bodies</orig> carelessness it was left
+                    behind when Cook &amp; the others came back Peter Cook says he put my boots
+                    and all the other things given into his care into a box and had it directed <del
+                        hand="h1"/> the same as <abbr expan="Lieutenant">Lieut</abbr>
+                    <unclear>Hornbakers</unclear> box which came along safely when they got to
+                    Washington it was not along he says &amp; Hornbaker too that the conductor
+                    promised to hunt it up and send it on by express. I have been expecting it for
+                    the last week but it has not come yet I hope it will still come as it was
+                    directed to Capt <unclear>Brownreals</unclear> care. I was waiting until I would
+                    get it to write. We are camped within two or three miles of the Rappahannock
+                    have been waiting hourly for the report of the first gun to commence the great
+                    struggle wich will probably come off here our <orig reg="provisions"
+                    >provissions</orig> have been delayed so that they can get but one <orig
+                        reg="day's">days</orig> rations at a time. Some think the delay is on that
+                    account the rebels from all accounts are <unclear>making</unclear> good use of
+                    the delay in fortifying. there is no picket firing I hear that they talk across
+                    the river very composedly every <orig reg="day's">days</orig> delay is a great
+                    loss to us if we are to cross near <sic corr="Fredericksburg"
+                    >Fredricksburg</sic> - which I am beginning to think is not the case - as the
+                    enemy are getting their Batteries protected by breast works. I think It will be
+                    an artillery fight at first. I have heard that you had an
+                    <unclear>accident</unclear> with the team the old mare was killed was
+                        <unclear>fan</unclear> hurt or the wagon<pb n="2"/> much broken. write the
+                    particulars and whether you supplied <unclear>Dolls</unclear> place. we saw
+                    great numbers of condemned mules and horses going back while we were advancing
+                    into Virginia I suppose there will be bargains in them although they were very
+                    hard stock our regimental teams are pretty hard too but it is not much wonder as
+                    the roads are barely passable one of them stalled with two 2 <abbr
+                        expan="Bushels">BBS</abbr>
+                    <orig reg="mess">mes</orig> pork or not more than six hundred pounds for four
+                    mules the artillery goes in the mud until the axles touch it so you may have
+                    some idea of the difficulties in the way of moving an army it is not such bad
+                    walking but the soil is soft and sandy we can run a bayonet down <orig
+                        reg="without">with</orig> touching anything but sand it is the poorest part
+                    of the old dominion I have seen the houses are generally old tumble down log
+                    concerns with sticks built up for chimneys and plastered with mud some of the
+                    worst have no windows they pull up their corn by the roots and hang it across
+                    poles to keep for winter some chance places you <orig reg="See">Se</orig> one of
+                    the old Southern residences of the <abbr expan="?">F.F.V.</abbr> surrounded by
+                    about a dozen negro huts. we saw a good many mares with mule colts there <orig
+                        reg="were">was</orig> lots of persimmons when we came but they are all
+                    played out now we are very comfortable as regards sleeping and clothing we cut
+                    pine bushes for the bottom of our tents at night spread down our overcoats and
+                    two sleep together and cover with both blankets. I drew a new pair of
+                        <unclear>good</unclear> shoes and a pair of leggings. Mother wants to know
+                    where I think we will winter. I <orig reg="don't">dont</orig> know probably in
+                    Richmond I will answer soon</p>
+                <closer>
+                    <salute> </salute>
+                    <signed> </signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

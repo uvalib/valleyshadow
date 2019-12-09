@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+
+<?dlps id="F8520"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F8520">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Edward McPherson to John B.
+                    McPherson, [no date]</title>
+        <title type="sort">franklin county edward mcpherson to john b mcpherson, no date</title>
+        <author>McPherson, Edward</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Virginia Center for Digital History Staff</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F8520</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501702</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Edward McPherson to John B. McPherson, [no date]</title>
+            <title level="m"/>
+            <title type="sort">franklin county edward mcpherson to john b mcpherson, no date</title>
+            <author>Edward McPherson</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Edward McPherson to John B.
+                            McPherson, [no date], Library of Congress, Edward McPherson Papers, Box
+                            47, Folder 1857</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Congress, Washington, D. C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+             
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Arts/Leisure, Death/Casualties, Family, Home Front, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2003-07">July 2003</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Item proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F8520T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Edward McPherson writes to his father about the social events in Philadelphia,
+                    discusses friends and acquaintances, and requests news about friends.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+            
+
+                <opener>
+                    <dateline>
+                        
+                        <name type="place">424 Wall Street,<lb/><abbr expan="Philadelphia"
+                            >Phila.</abbr></name>
+                    </dateline>
+                    <salute>My Dear Father --</salute>
+                </opener>
+
+                <p>I quite expected to find some letter here on my return; but can find none. I
+                    infer you are all pretty well, and a little lazy.-- I left <abbr
+                        expan="Harrisburg">Har<hi rend="super">g</hi>.</abbr> on Saturday Evening,
+                    &amp; spent Sunday in Lancaster coming to <abbr expan="Philadelphia"
+                    >Phila.</abbr> in this morning's early train Between Harrisburg &amp;
+                    Lancaster, I had the company of Mr. &amp; Mrs. <abbr expan="Nathaniel"
+                        >Nathl.</abbr>
+                    <unclear>Ellmaker</unclear> who are returning from Bedford, Miss Sarah
+                        <unclear>Mayer</unclear> from Lewistown, &amp; Miss
+                    <unclear>Voorher</unclear> with her, &amp; the two Miss
+                    <unclear>Muosers</unclear> who had been to the Teacher's Convention at
+                    Chambersburg. One of these ladies was <del rend="none" hand="h1"/> bridesmaid at W. Runell's
+                    wedding.-- We had a great deal to say, &amp; the time passed pleasantly.-- I
+                    saw also in Harrisburg <abbr expan="William">Wm.</abbr>
+                    <unclear>Herenton</unclear>.-- He came from <abbr expan="Bedford">Bedf.</abbr>
+                    on Thursday evening, &amp; was on his way to Chambersburg-- I presume to see
+                    after an importunate debtor.--He looks tolerably well, only. His wife is
+                    suffering from a gathering in her heart.-- I forgot to ask him for his parents
+                    health, or his child's, as breakfast was announced soon after we commenced
+                    talking.-- Tell Lizzie Law that W. Hoff has been markedly attentive to Miss
+                    Hale, that Miss Hale has received his attention with marked pleasure, &amp;
+                    that Mrs. E. thinks they are engaged. W. Hoff talks as if they were, &amp;
+                    everything indicated that fact.-- Tell her, to write a sympathizing letter to
+                    Mr. <unclear>Horwitz</unclear> -- I was much amused at Mrs. E.'s earnestness of
+                    manner, &amp; her <del rend="none" hand="h1"/> were certainly very strong.-- Very few of
+                    our acquaintences re- <pb n="2"/>mained at Bedford. Miss Walker of Cincinnati
+                    left on Sunday, summoned home by news of her Father's extreme illness.-- Mrs.
+                    Budd was still there, &amp; very <unclear>gay</unclear>.-- A gentleman was
+                    with her, whom Mrs. E. was told to consider as her beau.-- She had forgotten his
+                    name.-- I saw Mr. Stevens yesterday afternoon.- He had returned on Friday <del
+                        hand="h1"/> from Chambersburg.-- He joined his <unclear>case</unclear>
+                    there.-- At <unclear>Hollisdayburg</unclear>, the other side took a
+                        <unclear>non-suit</unclear>, <hi rend="underline">after</hi> the Jury had
+                    come from their room and had agreed upon their verdict, but <hi rend="underline"
+                        >before</hi> the verdict was given to the Court. The other side, by some
+                    means, heard that the verdict was against them.-- Today, Court opens in
+                    Lancaster. Bachman's suit is one of the cases for trial. Mr Stevens, being one
+                    of his counsel.-- Bachman has lost a great deal of <unclear>flak</unclear>,
+                    since his trouble began, &amp; he looked badly.-- Judge Vondersmith came to
+                        <abbr expan="Philadelphia">Phila</abbr> in the same train with me,
+                    acccompanied by his bail. I don't know whether he will soon be tried.</p>
+
+                <p>Tell Lizzie that as I was going down Chest. Street this morning in an omnibus, I
+                    saw <unclear>Wycke</unclear> to Miss <unclear>Ard</unclear>, who was walking
+                    with a companion.-</p>
+
+                <p>Simon Stevens told me he saw W. Mchaffey the early part of last week, in <abbr
+                        expan="Philadelphia">Phila.</abbr> on his way to see his wife. I presume
+                    from that, she has been ill; &amp; I feel quite anxious to know what
+                    announcements have been made.-</p>
+
+                <p>Tomorrow there is to be a meeting of <del rend="none" hand="h1"/> politicians here, to raise
+                    money for the campaign.-- Mr. <unclear>Judd</unclear> is in town, &amp;
+                    insists upon definite action.- In this, he is backed <pb n="3"/> up by us all.--
+                    We have announced a series of meetings for W. Wilmot, which will give him
+                    something to do from next week to the election.-- The time fixed for <del
+                        hand="h1"/> September 30--is a very suitable period--</p>
+
+                <p>I write in haste.</p>
+
+                <closer>
+                    <salute>Yours truly</salute>
+                    <signed>
+                        <abbr expan="Edward">Edwd</abbr>
+                    </signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

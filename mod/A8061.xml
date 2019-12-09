@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+
+<?dlps id="A8061"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A8061">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: William McCue to John McCue,
+                    December 25, 1859</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county william mccue to john mccue, december 25 1859</title>
+        <author>McCue, William</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Andrew J. Torget</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">9</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A8061</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502712</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: William McCue to John McCue, December 25, 1859</title>
+            <title level="m"/>
+            <title type="sort">augusta county william mccue to john mccue, december 25 1859</title>
+            <author>William McCue</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>6 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William McCue to John McCue, 25
+                            December 1859, Papers of the McCue Family, 1777-1920, Accession #4406,
+                            Box 4, Special Collections Department, University of Virginia Library,
+                            Charlottesville, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1859-12-25">1859-12-25</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Family, State Government, National Government, Unionism, Secession, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A8061T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>John McCue's brother, William, discusses John Brown's raid and family
+                matters.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1859-12-25">Dec 25th 1859</date>
+                        <name type="place">Fincastle</name>
+                    </dateline>
+                    <salute>Dear Brother</salute>
+                </opener>
+
+                <p>Your kind favor bearing date <abbr expan="December">Dec</abbr> 16th was received
+                    yesterday &amp; read &amp; reread with more than usual interest, so
+                    replete was it with interesting items &amp; good advice. Permit me in the
+                    commencement of my letter, to express my very high appreciation of the motives
+                    which promted you to give expression to those feelings of paternal affection, so
+                    beautifully &amp; affectionately set forth in your communication. Time
+                    &amp; again have I meditated upon our brotherly conversation in the "Cabell
+                    House" and have thanked heaven that such an opportunity was afforded me of
+                    giving expression to those emotions of love and sympathy for you &amp; your
+                    family which had been locked up in my soul for so long, I can now <del hand="h1"
+                        >console</del> flatter myself that you can<pb n="2"/>appreciate something of
+                    the feelings of that brothers heart, who has for so long been a silent observer
+                    of passing events--one who has thought much but said little, because he <del
+                        hand="h1">thought</del> deemed it far more prudent to remain
+                    passive,-occupying as he did, a neutral position, (You understand my allusions)
+                    Had I the time &amp; space to <unclear>dilate</unclear> upon this theme I
+                    might consume hours &amp; pages, but I must forbear.</p>
+                <p>The late excitement occasioned by the foray of John Brown, &amp; his infamous
+                    coagators, is about to bring our school more prominently before the public,
+                    Owing to the disturbed state of the public mind &amp; the dangers that
+                    threaten the distinction of our once glorious honor, the citizens feeling the
+                    importance of fostering the military spirits now aroused, and of giving the
+                        <unclear>growth</unclear> of the country instruction in military <del
+                        hand="h1"/> on last court day drew up a petition to the Legislature asking
+                    an appropriation to assist<pb n="3"/>them in establishing a military
+                    Professorship, in the <unclear>Botelomt</unclear>
+                    <unclear>snule</unclear> Academy,--beleiving that the prosperity &amp;
+                    usefulness of the institution would be greatly promoted thereby. which was
+                    signed by a number of the most prominent citizens of the county &amp; sent
+                    to their <orig reg="delegates">delagates</orig>, accompanied with a petition
+                    from the "Board of Directors," If the petition should be granted, we may expect
+                    a large acquisition to our school.</p>
+                <p>9 of our students, members of a volunteer company, in obedience to Executive
+                    orders were in public service at Charlestown during the execution of
+                        <unclear>Coppie</unclear> &amp; Cook. If the said petition passes the
+                    Legislature the school will at once be converted into a military school. Wilson
+                    &amp; I will uniform &amp; take a regular course of military training.
+                    Since the excitement a large company of voulunteers has been raised in<pb n="4"
+                    />Fincastle &amp; a Company of cavalry is now being raised, to which I
+                    belong I think it more than probable that I will be elected to one of the
+                    offices, as I have the reputation of being one of the best horsemen in this
+                    section of country, At the public meeting of which I spoke, there were a number
+                    of resolutions adopted similar to those adopted throughout the state,--declaring
+                    their intention to cut off all trade with the north to preserve the Union if
+                    possible &amp; if not to maintain our rights at the point of the bayonet. A
+                    number of warm &amp; eloquent speeches were made some were in favor of an
+                    immediate secession but the prevailing sentiment seemed to be that contained in
+                    the resolution adopted- which you will see in the Richmond papers- I for my part
+                    love &amp; cherish the Union, &amp; do <orig reg="wholly">wholy</orig>
+                    &amp; heartly endorse that sentiment of Webster "Union now &amp;
+                    forever, one &amp; unseparable" but if this cannot be," I am ready to should
+                    my musket at a moments warning &amp; die if need be in defence of my
+                    country's rights.</p>
+                <pb n="5"/>
+                <p>I am sorry that the black does not suit you as a riding animal. I had not noticed
+                    anything like <unclear>sting-salt</unclear>, However I only had her 2 days
+                    before you got her &amp; of course did not have an opportunity of judging of
+                    her imperfections. Barefoot is regarded by several judges as being much older
+                    than she was represented to you She has been worked several times but did not
+                    work gently, Owing to the state of the roads &amp; the small-pox in
+                    Lexington I gave out my trip to Augusta, &amp; would certainly spend my
+                        <orig reg="holidays">holydays</orig> with you all, if the rail road between
+                    Charlottesville &amp; Lynchburg was completed. Nothing would afford me more
+                    pleasure, than to spend a week with you all. When that road is finished I will
+                        <orig reg="travel">tavel</orig> that road home altogether it being the
+                    quickest &amp; much the most pleasant.</p>
+                <p>I was in <unclear>Sursterdam</unclear> last week they are all well, but Lizzie
+                    &amp; Aunt Margaret are contemplating<pb n="6"/>a visit to Augusta next
+                    spring, &amp; will stop &amp; see you all on <unclear>their</unclear>
+                    way Aunt Lizzie often speaks of the pleasant visit she had at your house, when
+                    you were living in Staunton, Miss Mannie Turner &amp; Mr McDowel will be
+                    married next Thursday. Our school is still flourishing &amp; is in public
+                    favor, We have 36 scholars now (30 classical) &amp; expect an acquisition
+                    the first of <abbr expan="February">Feb.</abbr> We are now boarding at <del
+                        hand="h1"/> Glasgow's, a very nice place indeed, have every thing that is
+                    necessary for our comfort.</p>
+                <p>Give my love to sister Liz &amp; the children &amp; remember very kindly
+                    to Mrs Wills &amp; <unclear>write</unclear></p>
+
+                <closer>
+                    <salute>Your brother</salute>
+                    <signed>Billy</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

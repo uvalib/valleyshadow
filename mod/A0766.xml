@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+
+<?dlps id="A0766"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A0766">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: J. Kent Langhorne to his mother, May 19, 1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county j kent langhorne to his mother, may 19 1863</title>
+        <author>Langhorne, J. Kent</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Voorhees</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Voorhees</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A0766</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:501902</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note>
+          <p>The letter in this file was apparently enclosed with a letter from Colonel Munford to
+      Langhorne's mother dated May 18, 1863.</p>
+        </note>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: J. Kent Langhorne to His Mother, May 19, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta county j kent langhorne to his mother, may 19 1863</title>
+            <author>J. Kent Langhorne</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>1 page</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Jacob Kent Langhorne Papers, Manuscript #361,
+       Virginia Military Institute Archives, Lexington, Virginia. Also available online at
+       http://www.vmi.edu/~archtml/ms361.html</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Virginia Military Institute Archives, Lexington, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1863-05-19">1863-05-19</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Camp Life, Family, Death/Casualties</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2000">Summer 2000</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Voorhees</name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A0766T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Langhorne writes to his mother that he likes camp life "so far very much" and shares news
+     from camp and about his horse. He also encloses a letter from Colonel Munford to his
+    mother.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Mother</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1863-05-19">May 19th 1863</date>
+      <name type="place">Camp Near Culpeper CH</name>
+     </dateline>
+     <salute>Dear Mama</salute>
+    </opener>
+
+    <p>I wrote to sister yesterday and write this morning because <abbr expan="Colonel">Col.</abbr>
+     M. wishes to enclose a letter in mine. I have had no trouble in having my clothes washed so
+     far. I want you to send me the receipts for making buns those sweet <orig reg="rolls"
+     >roles</orig> you <orig reg="used">use</orig> to make as we have no use for our sugar, and how
+     to cook potatoes cut up under meat and to fry them. I like camp life so far very much. All the
+     cavalry forces we have are concentrated near hear except Robertson who we are looking for every
+     day. I hear that Gen. Beauregard is to take charge of Jackson Corps. God has certainly taken a
+     great man from us. No one hear thinks that his place can be filled. </p>
+
+    <p>Maggie is looking nearly as well now as when I left. I never knew a horse to become as much
+     attached to any one in my life. I have been offered $800 for her several times. Tell uncle
+     Archer if Pa is not at home to know what Mr. Billy Barwell will take for his brown horse and if
+     he will take $500 for him to let me know as Capt Steptoe wants a horse and cannot get one at
+     any price. There is no news. Never forget to mention him in your letters and tell him to try
+     and get well. Tell Sister &amp; cousin K I don't want such short letters. Love to all.</p>
+
+    <closer>
+     <salute>I am your attached son,</salute> This version of the letter has been transcribed from a
+     previously transcribed (by an unidentified transcriber), printed version that has been
+     published by VMI. <signed>Kent</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

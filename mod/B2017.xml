@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+
+<?dlps id="B2017"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B2017">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: Thomas P. Jackson to R.
+                    M. Manly, October 2, 1867</title>
+        <title type="sort">freedmens bureau records thomas p jackson to r m manly, october 2 1867</title>
+        <author>Jackson, Thomas P.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B2017</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501132</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: Thomas P. Jackson to R. M. Manly, October
+                            2, 1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records thomas p jackson to r m manly, october 2 1867</title>
+            <author>Thomas P. Jackson</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Superintendent of Education for the State
+                            of Virginia, Bureau of Refugees, Freedmen and Abandoned Lands,
+                            1865-1869, Record Group 105, M1053, Roll 7.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-10-02">1867-10-02</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Education, Church/Religious Activity, Aid/Relief</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-06">June 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+                <item>Item checked against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B2017T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Jackson informs Manly of the availabilty of a school room in the basement of the
+                    Methodist Episcopal Church and asks $100 for supplies. He also states the
+                    community's preference for a male teacher. </p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau of Refugees, Freedmen and Abandoned Lands,<lb/>Office 4th Division, 9th
+                    Sub-District, Virginia
+                    <name type="recipient"><abbr expan="Reverend">Rev.</abbr> R. M. Manly<lb/><abbr
+                            expan="Superintendent of">Sup.</abbr> Education, State of <abbr
+                            expan="Virginia">Va.</abbr><lb/>Richmond</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-10-02"><abbr expan="October">Oct.</abbr> 2nd 1867.</date>
+                        <name type="place">Staunton, <abbr expan="Virginia">Va.</abbr></name>
+                    </dateline>
+                    <salute>Sir</salute>
+                </opener>
+
+                <p>Your communication of <abbr expan="September">Sep</abbr> 19, has had attention
+                    but I could not give a satisfactory reply as there was some difficulty in the
+                    way of procuring a School Room in proper terms. The Trustees of the <abbr
+                        expan="Methodist Episcopal">M.E.</abbr> Church have now given consent to use
+                    of basement for school purposes if <abbr
+                        expan="Bureau of Refugees, Freedmen and Abandoned Lands"
+                    >BRF&amp;AL</abbr> will expend $100 in school fixtures in lieu of rent for
+                    the season and in my <abbr expan="September">Sept.</abbr> report I respectfully
+                    urge such appropriation be made and now I ask your assistance in securing this
+                    and teachers. If <hi rend="underline">but one</hi> can be sent by all means send
+                    a gentleman. We want a teacher who can go out among the poor and "make them come
+                    in".</p>
+
+                <p>Mr. Brackett when here was much in doubt whether his principals could spare
+                    teachers here, but the field is too large the in- <pb n="2"/>terest of too many
+                    at stake to let the door of the school house be closed at Staunton. The room
+                    will answer at once for school purposes if you can send a teacher <hi
+                        rend="underline">now</hi> and his suggestions would be useful in making the
+                    $100 provide the most needed articles.</p>
+
+                <closer>
+                    <salute>
+                        <abbr expan="Your obedient servant">Yr obt servt</abbr>
+                    </salute>
+                    <signed><hi rend="underline">Thos P. Jackson</hi><lb/>Agent</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

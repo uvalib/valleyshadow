@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+
+<?dlps id="F1400"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F1400">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin: Edward Denton Cottrell to Sarah Jerdone
+                    (Toler) Denton, October 16, 1862</title>
+        <title type="sort">franklin edward denton cottrell to sarah jerdone toler denton, october 16 1862</title>
+        <author>Cottrell, Edward Denton</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Unknown</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Kid W.</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F1400</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501433</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin: Edward Denton Cottrell to Sarah Jerdone (Toler) Denton,
+                            October 16, 1862</title>
+            <title level="m"/>
+            <title type="sort">franklin edward denton cottrell to sarah jerdone toler denton, october 16 1862</title>
+            <author>Edward Denton Cottrell</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>Unknown pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Cottrell Family Papers (VHS, Mss2
+                            C8297 b 1), The Virginia Historical Society, Richmond, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Virginia Historical Society, Richmond, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1862-10-16">1862-10-16</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Battle Description, Military Authority, Troop Movement, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2005">Summer 2005</date>
+                <respStmt>
+                    <resp/>
+                    <name>Doug O'Reagan</name>
+                </respStmt>
+                <item>Proofread.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F1400T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Cottrell describes a Confederate raid on Chambersburg to his grandmother.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+              
+
+                <opener>
+                    <dateline>
+                        <date value="1862-10-16"><abbr expan="October">Oct</abbr> 16th 1862</date>
+                        <name type="place">Camp Near Martinsburg</name>
+                    </dateline>
+                    <salute>My Dear Grand Ma</salute>
+                </opener>
+
+                <p>I returned yesterday to camp and found your welcome letter I have just returned
+                    from one of the greatest raids on record <abbr expan="General">Gen</abbr> Stuart
+                    left camp the 10th and returned on the 15th traveling over 400 miles in 5 days.
+                    We <add hand="h1" place="inline">went</add> through Maryland into <orig
+                        reg="Pennsylvania">Pensylvania</orig> about 80 miles to a place called <orig
+                        reg="Chambersburg">Chamsburg</orig> destroyed 300 thousand dollars worth of
+                    property of the federal government such as Coffee Sugar <orig reg="molasses"
+                        >Molosas</orig> bacon flour boots shoes hats and clothing of every
+                    description I <orig reg="equipped">equiped</orig> myself fully. I got 8 pair of
+                    boots 4 <orig reg="overcoats">over coats</orig> 5 pair of pantaloons 2 hats 6
+                    pair of socks 6 <abbr expan="pair">pr.</abbr> draws 6 over &amp; <orig
+                        reg="undershirts">under shirts</orig> some <orig reg="coffee">coffe</orig>
+                    &amp; sugar. We also took 1600 very fine horses from the citizens we had to
+                    ride so fast that it broke down over five hundred of our horses. we would get
+                    another as soon as ours gave out. Oh, how I wish I could get some of the nice
+                    calico silks and all things for making <orig reg="ladies'">ladies</orig> dresses
+                        <add hand="h1" place="inline">to you all</add>. Tell Buffie if he will come
+                    up here I will give him two nice suits also two for Papa. I got two pieces of
+                    calico &amp; two of silk I gave to some ladies in Maryland We burnt the
+                    Depot; there were things of all Description there. I wish I could have gotten
+                    some of them home. We went all round the enemy's lines and landed in Old
+                    Virginia safely, having only one small fight those we routed directly I believe
+                        <orig reg="it">its</orig> is the greatest thing that has ever been done.
+                    Fanny I traded for a horse smaller I found she could not stand it so I thought I
+                    better trade her as I would never get home safe &amp; sound again. Tell Pa
+                    to go to <abbr expan="Samuel">Saml</abbr>
+                    <orig reg="Cottrell's">Cottrells</orig> saddle shop when he goes to Richmond and
+                    he will find something for Mollie &amp; Isa there. As I am in a great hurry
+                    I must conclude to stop give my best to all the Family, tell Ma She must write
+                    to me as soon as she can I have a nice present for her if I only could get it to
+                    her. Excuse bad writing &amp; mistakes as I have not time to correct my
+                    letter I have been <del rend="none" hand="h1"/> going night &amp; day for nearly a week
+                    and am so hungry &amp; sleepy I can scarcely keep my eyes open.</p>
+
+                <closer>
+                    <salute>Write very soon to your devoted <orig reg="grand">gran</orig> Son</salute>
+                    <signed><abbr expan="Edward Denton">E.D.</abbr> Cottrell</signed>
+                    <seg type="postscript">P.S. <orig reg="Don't">Dont</orig> be uneasy about me. I
+                        have a plenty of every thing better fixed than ever before in my life. I can
+                        work my way through this world if any one else can. <abbr
+                            expan="Edward Denton Cottrell">E.D.C.</abbr></seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

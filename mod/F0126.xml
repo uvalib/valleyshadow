@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0126"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F0126">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Peter Boyer to Peter Boyer, May 28 1865</title>
+        <title type="sort">franklin county peter boyer to peter boyer, may 28 1865</title>
+        <author>Peter Boyer</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Voorhees</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Voorhees</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">6</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">F0126</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:501266</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note>
+          <p>Transcription from photocopy. A note to Peter's mother is added to the end of this
+     letter.</p>
+        </note>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Franklin County: Peter Boyer to Peter Boyer, May 28 1865</title>
+            <title level="m"/>
+            <title type="sort">franklin county peter boyer to peter boyer, may 28 1865</title>
+            <author>Peter Boyer</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>3 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: USMHI, Carlisle, PA</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from U. S. Army Military History Institute, Carlisle Barracks, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1865-05-28">1865-05-28</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Home Front, Family</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""> </date>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="F0126T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Peter Boyer writes to his father about his possibilities for discharge, about the work going
+     on at home, and about the whereabouts of his brother John.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Peter Boyer</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1865-05-28">May 28 1865</date>
+      <name type="place"><unclear>Bleactonsburg</unclear></name>
+     </dateline>
+     <salute>Dear father</salute>
+    </opener>
+
+    <p>I take the pleasure to answer your welcome letter which came to hand last night I also
+     received that five cent note that you sent to me further I let you know that we have orders to
+     start for <orig reg="Harrisburg">harisburg</orig> next monday but I <orig reg="don't"
+     >dont</orig> expect to get home they will discharge all the men whose time is up till the first
+     of october but my time is not out till the 17<hi rend="super">th</hi> of october I think I will
+     have to <orig reg="stay">stan</orig> till my time is up but I <orig reg="don't">dont</orig>
+     care I can <orig reg="stay">stan</orig>
+     <orig reg="for a">fore</orig> month more but I think they will take us all back to our own
+     state When I get to <orig reg="Harrisburg">harisburg</orig> I will write as soon as I get <orig
+      reg="there">ther</orig></p>
+
+    <p>
+     <pb n="2"/> you also stated in your last letter that you <orig reg="don't">dont</orig> know
+      <orig reg="anything">eny thing</orig> about Brother John I <orig reg="can't">cant</orig> think
+     where he is I wrote to him often already and got no answer I would like very much to hear of
+     him I also let you know that Gowner Curtin will come to <del hand="h1">out</del> our camp <orig
+      reg="today">to day</orig> at ten <orig reg="o'clock">o clock</orig> I <orig reg="don't"
+     >dont</orig> know much to write at present all the talk in camp is about going home I also saw
+     in your letter that you <orig reg="stopped">stopt</orig> wood hauling I also let you know that
+     we had rain for the last <orig reg="four">fore</orig> days but yesterday it <orig reg="cleared"
+      >cleered</orig> up and <orig reg="today">to day</orig> it is nice and warm you also stated
+     that my <pb n="3"/> Book reached home I sent two books I think you <orig reg="didn't"
+     >dident</orig> get the other one yet I must soon close for this time write soon again</p>
+
+    <closer>
+     <salute>from your Son</salute>
+     <signed>Peter Boyer</signed>
+     <seg type="postscript">
+      <name type="recipient">to my father Peter Boyer</name> A <orig reg="few">fiew</orig> lines to
+      my Mother I am well at the present time and I am <orig reg="sorry">sory</orig> to write that I
+       <orig reg="can't">cant</orig> come home before my time is up but the time will come once few
+       <orig reg="months">month</orig> more <orig reg="that's">thats</orig> all I <orig reg="don't"
+       >dont</orig> know <orig reg="any">eny</orig> more news at present from your son<lb/>Peter
+      Boyer good by</seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

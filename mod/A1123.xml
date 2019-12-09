@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+
+<?dlps id="A1123"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A1123">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Unknown ("L."?) to Sister of Author,
+                    ca.1865-1867</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county unknown l to sister of author, ca 1865 1867</title>
+        <author>Unknown ("L."?)</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Matt Speiser</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Matt Speiser</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A1123</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501926</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Unknown ("L."?) to Sister of Author, ca.1865-1867</title>
+            <title level="m"/>
+            <title type="sort">augusta county unknown l to sister of author, ca 1865 1867</title>
+            <author>Unknown ("L."?)</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Smiley Family Papers, Accession
+                            #1807, Special Collections Department, University of Virginia Library,
+                            Charlottesville, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <dateRange from="1865" to="1867">1865/1866/1867</dateRange>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Arts/Leisure, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2005">Summer 2005</date>
+                <respStmt>
+                    <resp/>
+                    <name>Doug O'Reagan</name>
+                </respStmt>
+                <item>Proofread.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A1123T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>The letter discusses the prospect of buying some clothes and also provides
+                    updates on school.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        Thursday evening
+                    </dateline>
+                    <salute>Dear sister</salute>
+                </opener>
+
+                <p>I am almost ashamed to write home, having nothing but <unclear>words</unclear> to
+                    write of. I <orig reg="don't">dont</orig> think the person told the truth that
+                    wrote the poem "Man wants but little here below." At least such has not been my
+                    experience and observation. I heard that you had got a hat, "with a white
+                    plume." What is the shape of it? I have not got my hat or bonnet yet I am rather
+                    undecided as to what to get I would rather have a bonnet. If I can get <add
+                        hand="h1" place="inline">a pretty bonnet</add> one for 5 or 6 I would prefer
+                    it to a hat. But I am afraid they will cost more than that. I do not know much
+                    about the price of dress goods here I have not seen very many yet. I do not
+                    suppose they are any cheaper here than in the country store, and they are higher
+                    here than in the stores in <del rend="none" hand="h1"/> Augusta. Right nice Mosambiques cost
+                    about <unclear>70</unclear> here. Miss <unclear>Pennie</unclear> Howard got a
+                    lawn for<pb n="2"/> $1 per <abbr expan="yard">yd.</abbr> but it was very fine
+                    and nice piece of goods. I know but little about the prices of goods. I expect
+                    Miss Lizzie Echard could tell you more than I know. If you can I would like to
+                        <unclear>picture</unclear> a corset with enough <unclear>swiss</unclear> for
+                    a new white body. I think it probable though that Mr <orig reg="Anderson's"
+                        >Andersons</orig>
+                    <unclear>swiss</unclear> is dearer than it would be almost any place else, as I
+                    heard he had bought it before goods fell. If you get me a corset, get about
+                        <unclear>20</unclear> 20. I <orig reg="don't">dont</orig> insist on the
+                    corset, if it cost too much. I will try and do with my body. I do not know what
+                    about wrappings <unclear>silk</unclear> wrapping made <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> be much worn, but I of course <orig reg="don't">dont</orig>
+                    expect to get any. If you have <unclear>not</unclear> need <unclear>that</unclear>
+                    <unclear>appear</unclear> and do not intend making yourself a little sock, I
+                    believe I will make one of it if you send it to me. When you send my clothes
+                    send my white dress. I do not suppose I will wear it as a dress but will need
+                    the skirt for a nice underskirt occassionally &amp; please send my
+                        <unclear>swiss</unclear>
+                    <unclear>body</unclear>. If you get me a dress you can just get it as if it were
+                    for yourself. I do not expect anything very expensive. I want to confine my
+                    wants as much as possible for I certainly am an expense myself, and I feel it.
+                    We will have an exam on the whole book of <abbr expan="Geometry">Geom</abbr>
+                    next Tues week. I have not commenced preparation for it yet but must commence
+                    and study faithfully. There is to be a little concert tomorrow night I <orig
+                        reg="don't">dont</orig>
+                    <unclear>know</unclear> whether I will come down to it or no. Ella Allen expects
+                    to go home next week. I am so very very sorry I love her so very much, but I
+                    know it will be better for her, and I ought not to be sorry. Liddie has not been
+                    well for a week, she too expects to go home for a few days. Bettie Echard was to
+                    see me <orig reg="today">to-day</orig>. Miss Lizzie did not come up. Mrs Turk
+                    coming down next week you had better come along <add hand="h1" place="inline"
+                        >coming down</add> to <unclear>see</unclear> the <unclear>town</unclear> if
+                    not only. But I must close, <unclear>have</unclear> you write<lb/> I expect you
+                    to <unclear>see</unclear></p>
+
+                <closer>
+                    <salute/>
+                    <signed/>
+                    <seg type="postscript">[at top of first page] I did not have time to write this
+                        with ink<lb/> I certainly have scratched this down in a hurry<lb/> Dr Brown
+                        preached two splendid sermons for us last Sunday. Mrs
+                        <unclear>Edmonson</unclear> (Ned's mother) was buried <orig reg="today"
+                            >to-day</orig>.</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+
+<?dlps id="F4027"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F4027">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Alexander K. McClure to Eli Slifer,
+                    July 9, 1851</title>
+        <title type="sort">franklin county alexander k mcclure to eli slifer, july 9 1851</title>
+        <author>McClure, Alexander K.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">6</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F4027</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501579</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Alexander K. McClure to Eli Slifer, July 9, 1851</title>
+            <title level="m"/>
+            <title type="sort">franklin county alexander k mcclure to eli slifer, july 9 1851</title>
+            <author>Alexander K. McClure</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Eli Slifer Papers, 1850-1891, Mss
+                            Slifer-Dill, Special Collections, Waidner-Spahr Library, Dickenson
+                            College, Carlisle, Pa.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Waidner-Spahr Library, Dickinson College, Carlisle, Pa.</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1851-07-09">1851-07-09</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>State Government</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F4027T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>McClure's letter discusses the upcoming elections for state Senate, and the
+                    circumstances under which he might consider running for office.</p>
+            </div1>
+
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head><hi rend="underline">Private &amp; Confidential</hi>
+                    <lb/> Sentinel Office 
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1851-07-09">July 9, 1851</date>
+                        <name type="place">Mifflintown</name>
+                    </dateline>
+                    <salute>Dear <orig reg="Colonel">Col</orig>-</salute>
+                </opener>
+
+                <p>You have doubtless been informed of the recommendation of <orig reg="General"
+                    >Gen</orig> Bell for Senator by our Whig <unclear>leg</unclear> Convention. It
+                    was rather unexpected here, but as there was a triagular fight for it, he
+                    succeeded I am a <unclear>conferee</unclear> &amp; I shall vote for him of
+                    course, but from the indifference that is manifested in reference to his
+                    nomination both here &amp; in Mifflin Co. I am induced to think that the
+                    district conference will turn to Union <orig reg="County">Co</orig> for the
+                    candidate. <orig reg="General">Gen</orig> Bell is a most estimable man &amp;
+                    a fine Whig, but he is justly liable to the charge of a want of efficiency. He
+                    is a quiet, honest man, but is a stranger to political tactics, and would be of
+                    little use as a partisan Senator. On this ground I find that he will be
+                        <unclear>strenuously</unclear> opposed, and I am inclined to think that he
+                    will be defeated.</p>
+
+                <p>After <unclear>mature</unclear> reflection, I have concluded that in the even of
+                    the nomination of a Union County man for Senator, <pb n="2"/>I will run for
+                        <unclear>A</unclear>, Bell will not want it, and our side of the view is
+                    entitled to it, so that there will be no difficulty with the Whigs of the
+                    County. As I am a Conferee, selected to sustain <orig reg="General">Gen</orig>
+                    Bell, I am morally bound to support him honestly, and I shall not enter a
+                    contest with him to throw the Senatory from your County, as I would deem such a
+                    course dishonorable; but considering the great probability of his defeat, I have
+                    taken the liberty to address you on the subject, I would like to meet you as a
+                    Conferee.</p>
+
+                <p>Please write to me, and post me up in reference to your County, State how the
+                    contest for Senator is likely to terminate in your County, and what the chances
+                    seem to be for Mifflin County concerning on your selection. Also state whether
+                    there has been any manifestation of popular sentiment in reference to
+                    <unclear>A</unclear>. State whether in any event you will be a candidate for
+                    Senator, Let me hear from you soon.</p>
+
+                <p>Remember me to friend Hickock</p>
+
+                <closer>
+                    <salute>Yours truly</salute>
+                    <signed>AK McClure</signed>
+                    <seg type="postscript">P.S. If you think it prudent, I would be glad if you will
+                        have my name brought before the public through the "Chronicle" for
+                            <unclear>A</unclear> It has been done in the "Star" but I would like to
+                        have it done in both. If you will attend to it, I will coridally reciprocate
+                        the favor at any time.</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

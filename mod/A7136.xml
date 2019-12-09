@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+
+<?dlps id="A7136"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]> 
+
+
+
+<TEI.2 id="A7136"> 
+<teiHeader type="migrated"> 
+
+    <fileDesc> 
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: John Scott to E. P. Smith, January 6, 1869</title>
+        <title type="sort">augusta county john scott to e p smith, january 6 1869</title>
+        <author>Scott, John</author>
+        <editor/>
+        <respStmt> 
+          <resp>Creation of machine-readable version: </resp> 
+          <name>Bart Elmore</name> 
+          <resp>Conversion to TEI.2-conformant markup:</resp> 
+          <name>Bart Elmore</name> 
+        </respStmt>
+      </titleStmt> 
+
+      <extent>ca. 6.138 kilobytes </extent> 
+      <publicationStmt> 
+        <publisher>Virginia Center for Digital History</publisher> 
+        <pubPlace>Charlottesville, Virginia </pubPlace> 
+
+        <idno type="VCDH">A7136</idno> 
+
+        <!--
+<availability> 
+<p>Publicly accessible </p> 
+<p n="public">URL: http://valley.vcdh.virginia.edu/</p> 
+<p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the University of Virginia</p> 
+</availability>
+--> 
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date>
+        <idno type="uva-pid">uva-lib:500252</idno>
+      </publicationStmt> 
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt> 
+      <notesStmt>
+        <note/>
+      </notesStmt> 
+
+      <sourceDesc> 
+        <biblFull> 
+          <titleStmt>
+            <title>Augusta County: John Scott to E. P. Smith, January 6, 1869</title>
+            <title level="m"/>
+            <title type="sort">augusta county john scott to e p smith, january 6 1869</title>
+            <author>John Scott</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt> 
+          <editionStmt>
+            <p/>
+          </editionStmt> 
+          <extent>4 pages</extent> 
+          <publicationStmt> 
+            <publisher/> 
+            <pubPlace/> 
+            <date value=""/> 
+            <idno type="callNo">Source copy consulted: John Scott to E. P. Smith, January 6, 1869, American Missionary Association Archives Collection, Microfilm 72, Alderman Library, University of Virginia, Charlottesville</idno>
+          </publicationStmt> 
+          <seriesStmt>
+            <p/>
+          </seriesStmt> 
+          <notesStmt>
+            <note/>
+          </notesStmt> 
+        </biblFull> 
+      </sourceDesc> 
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Alderman Library, University of Virginia</p>
+      </projectDesc>
+    </encodingDesc> 
+
+    <profileDesc> 
+      <creation>
+        <date value="1869-01-06">1869-01-06</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage> 
+      <textClass> 
+        <keywords> 
+          <term>African Americans, Education, Race Relations</term> 
+          <term>American Civil War</term>
+        </keywords> 
+      </textClass> 
+    </profileDesc> 
+
+    <revisionDesc> 
+      <change> 
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt> 
+        <item/> 
+      </change> 
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc> 
+  </teiHeader> 
+
+<text id="A7136T">
+<front id="d2">
+<div1 type="summary" id="d3">
+<p>Scott states that he has been in the habit of providing his students with the "Tribune" as reading material.  He also offers a brief anecdote about a treacherous journey on horseback to an outlying community (possibly Mt. Solon) during a heavy downpour.</p> 
+</div1> 
+ 
+</front> 
+
+<body id="d4">
+<div1 type="letter" id="d5">
+<head>
+<name type="recipient">Rev E P Smith</name> 
+<name type="place">Staunton Va</name> 
+</head>
+
+<opener>
+<dateline>
+    <date value="1869-01-06">Jan 6<hi rend="super">th</hi>/69</date> 
+</dateline> 
+<salute>Dear Sir</salute> 
+</opener> 
+
+<p>I am receiving the Tribune--for which I am much obliged  I first read it then hand it in the school room where it is perused with interest,-- and will tend to <hi rend="underline">form a habit of reading</hi> among the pupils.</p>
+	<p>The Blanks for Reports came also to night but my assistant did not.</p>
+	<p>My number in school has gone up to 120 and more are coming
+	The streets are yet full of scholars not attending any school.  Some are coming in from towns 20 miles distant to board and attend our school  My room is full</p><pb n="2"/>
+	<p>On Saturday I tried to go, although I was advised not to attempt it on account of the rain which had raised the North Branch of the Shenandoah river so that it was not considered fordable</p>
+	<p>It still rained some and before I left town my horse fell, throwing me from the saddle, but doing no other injury than daubing himself and the saddle and me in the mud.</p>
+	<p>I tried again but the horse slipped so that I did not consider it safe to ride and especially to attempt to ford a deep river with a smooth shod horse.  It was to late for further experiment and I sent a note down there by a man who happened to be going at night (He said the river event then was very high and unsafe for strangers.)</p><pb n="3"/>
+	<p>I asked Mr Cockran (the man who made the application for teacher) to have the <hi rend="underline">People take a vote</hi> to pay the teacher if they had not done it--and to inform me <hi rend="underline">immediately</hi> what was the result of the vote.  If they would vote to do as he represented <hi rend="underline">they</hi> would--also if they were still in want of a teacher.</p>
+	<p>The mail was due yesterday but did not come  I hope it will tomorrow.</p>
+	<p>I find by examining the records kept by the Bureau Agt that there has been for a month or two a little school kept there by a Colored man with but 15 scholars.<pb n="4"/>--after learning their reply--act as you chose--Yet If he comes his work will not be lost</p>
+	<p>This opinion of mine in regard to your sending a teacher forthwith or without further intelligence, is only to be taken for what it is worth, as the facts stated in the Application about their willingness to help pay and their intense desire for a teacher are supposed still to be the same</p>
+
+
+<closer>
+<salute></salute> 
+<signed>John Scott</signed> 
+<seg type="postscript">P S I have just been giving my <hi rend="underline">assistant</hi> a lesson in simple multiplication.<lb/>
+<lb/>
+	For the sake of Heaven and the Freedmen cant the North be informed that competent teachers are needed among these people--Print the idea in the Missionary--  J. S.
+</seg> 
+
+</closer> 
+</div1> 
+</body> 
+</text> 
+</TEI.2>

@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2574"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A2574">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Colonel Imboden to Sara A. Hotchkiss, December
+     18, 1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county colonel imboden to sara a hotchkiss, december 18 1862</title>
+        <author>Imboden, G</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Rider</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Rider</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A2574</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:502063</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Colonel Imboden to Sara A. Hotchkiss, December 18, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta county colonel imboden to sara a hotchkiss, december 18 1862</title>
+            <author>G Imboden</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>1 page</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Jedediah Hotchkiss Collection, Reel 4, Manuscripts
+       Division, Library of Congress, Washington, D.C.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Congress, Washington, D. C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1862-12-18">1862-12-18</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Home Front, Women, Medicine/Hospitals</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A2574T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Colonel Imboden writes to Sara Hotchkiss, thanking her and the ladies of Augusta County for
+     the supplies they gathered for the Confederate troops.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Sara A. Hotchkiss</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1862-12-18">Dec 18/62</date>
+      <name type="place"><abbr expan="Head Quarters">Hd. qurs</abbr>
+       <abbr expan="Confederate States ">C.S.</abbr> troops on Shenandoah Mt </name>
+     </dateline>
+     <salute>Mrs. Sara A. Hotchkiss <lb/> My dear Madam - </salute>
+    </opener>
+
+    <p> Your welcome contribution to the destitute men in my command was safely delivered here, and
+     the several articles sent, distributed at once to the more needy amongst the N.W. refugees -
+     The promptness with which the <hi rend="underline">ladies</hi> of Augusta have responded to my
+     appeal in their behalf has won my lasting gratitude. Through their generous kindness my poor
+     fellows who were ragged and shivering 3 weeks ago, are now Comfortable &amp; warm - God
+     bless my Countywomen!</p>
+    <p> You ask if I need hospital supplies - I am so fortunate as to have but little sickness
+     amongst my men, and at this time none of a <hi rend="underline">serious</hi> nature - Should I
+     find that we need such supplies I will inform you of it and most thankfully receive anything
+     you may be able to send us - </p>
+
+    <closer>
+     <salute>Very truly Yours</salute>
+     <signed>G Imboden Col Commd</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

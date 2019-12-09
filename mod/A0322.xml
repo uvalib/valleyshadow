@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+
+<?dlps id="A0322"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="A0322">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: P. H. Powers to Mrs. Powers, March 17, 1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county p h powers to mrs powers, march 17 1863</title>
+        <author>Powers, P.H.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Peter Brownfeld</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Peter Brownfeld</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">9</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A0322</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:501830</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: P. H. Powers to Mrs. Powers, March 17, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta county p h powers to mrs powers, march 17 1863</title>
+            <author>P.H. Powers</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>4 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: P.H. Powers Letters, Fredericksburg National
+       Battlefield.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>Several lines are cut off from this copy. This is signifed by "...".</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Fredericksburg and Spotsylvania National Battlefield Park</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1863-03-17">1863-03-17</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Battle Description, Camp Life, Family, Home Front</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A0322T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Powers discusses camp life and missing his family.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Mrs. Powers</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1863-03-17">March 17th, 1863</date>
+      <name type="place">Camp near Fredericksburg</name>
+     </dateline>
+     <salute>My Dearest Wife</salute>
+    </opener>
+
+    <p>Nearly a month has elapsed since I last wrote,. And every day since I have hoped to get some
+     tidings of you. But alas, not a word, not a line can i receive, until the heart has indeed
+     become sick with a long deferred hope. I should feel this more sensibly, but that everyone that
+     I have seen in the Army from Clarke or Jefferson, they hear from home from time to time. And as
+     no bad tidings of you come through this source, I argue that you are at least as well off as
+     your neighbors. Still, it is a source of uneasing anxiety and uneasiness that i cannot hear
+     from you personally. i know my love it is no fault of yours and fully appreciate your
+     dependence upon <del rend="none" hand="h1"/>, who either cannot or do not know what it is to be separated
+     for months from wife and children, and confined to the monotony of a camp in winter quarters.
+     If you would put your letters in the hands of those having friends in the Clarke Cavalry, they
+     could be sent out, and then mailed to Richmond. harry Bird told me he heard from hi s family
+     repeatedly in that way. And Mr. <del rend="none" hand="h1"/> frequently gets <del rend="none" hand="h1"/> out. One of
+     the Randolphs went home a few weeks ago. <sic>Staid</sic> two days ...</p>
+    <p> of the County. I would attempt <del rend="none" hand="h1"/>, in myself, but Milroy is represented as
+     being such a tyrant, that I should fear the consequences of falling into his hands just at this
+     time. </p>
+    <p> I must wait and bear. Sometimes I regret not having brought you away with me. Though how
+     could you have subsisted at the present price of everything. God only knows. A Major's pay
+     would not pay your board. Flour sells <del rend="none" hand="h1"/> for $35 per <del rend="none" hand="h1"/> Bacon
+     $1.25. Beef $1 &amp; everything in like proportion. I sincerely trust that you are not
+     molested by the Yankees and are enabled to provide yourself with such comforts as you need. If
+     there are any goods in the County do not fail to lay in a supply for me. Such as flannel, cloth
+     for pants-coat-Hat-etc. And get <del rend="none" hand="h1"/> or <del rend="none" hand="h1"/> to make me a good <del
+      hand="h1"/> of Books. Store them away. Events will very probably enable me to get home before
+     many months. They say we must have a fight here in a few weeks, and then, perhaps we may clear
+     the Valley once more. It is evident that the war will rage this spring with greater fury than
+     ever. May God enable our Armies to successfully resist the hordes of Vandals now being thrown
+     against us! If we can only hold out this campaign. All will be well days ago. Whither he had
+     gone to Lake Ellen-then having been in Richmond several weeks. I regret to have to tell you
+     that her health has failed to such an extent that reason has been dethroned. And she is <del
+      hand="h1"/> by this time at the Asylum, under Dr. Wribling's treatment. Poor Jim! He returned
+     perfectly miserable. He never apprehended such a sad <del rend="none" hand="h1"/> from her continued bad
+     health. And was of course shocked, beyond degree at her mental aberration. Doubtless her case
+     has been aggravated by long and continued separation from him. Let us pray and <del rend="none" hand="h1"/>
+     that she may be speedily restored. </p>
+    <p> I had intended leaving him as soon as he returned and joining the Cavalry, but I could not
+     leave him under such a trial and <del rend="none" hand="h1"/> to remain during this month, provided the
+     Conscript Officers permitted me. As I am not regularly enrolled and they have been looking at
+     all Regiment Officers of late. And enrolling them in the ranks. When I do leave here, I shall
+     attach myself to Gen. Stuart again and serve in the P.n. in some capacity. I can't stand the
+     ranks. And besides, from some staff officers. </p>
+    <p>All were well in Richmond when last heard from. Mildred has another son. </p>
+    <p> With most love to all and many Caresses for my little children Whom I am longing to have in
+     my arms <del rend="none" hand="h1"/> more. I am, my own beloved wife.</p>
+    <closer>
+     <salute>As Ever <lb/> Yours</salute>
+     <signed>P.H.P.</signed>
+     <seg type="postscript"><abbr expan="Dear">Dr</abbr> Sister-I send you my letter to read
+       <sic>altho</sic> it has been written so long that it affords me but little satisfaction. I am
+      still in all the doubt &amp; uncertainty about <del rend="none" hand="h1"/> present position and
+      whereabouts If I had not the <hi rend="underline"> strong hope </hi> that our army <del
+       hand="h1"/> coming in to keep me up I don't know what I should do. I hope <del rend="none" hand="h1"/>
+      <del rend="none" hand="h1"/> mine satisfactory. I am deeply grieved to hear of poor Ellies situation
+      &amp; feel for Ben James. That usually is one of the <hi rend="underline">greatest </hi>
+      trials a man can be <hi rend="underline">called </hi> upon to endure. Write to me sometimes.
+      Betsey is better. The Dr. thinks she will get well. Send this to Sister C.<lb/>Yours <name
+       type="recipient">PMP</name>
+     </seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

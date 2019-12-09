@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9641"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A9641">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title id="VShadow" type="main">Augusta: William Brand to Kate Armentrout, March 4,
+                    1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta william brand to kate armentrout, march 4 1862</title>
+        <author>Brand, William F.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Jaime Martinez</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A9641</idno>
+
+                <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+                <availability status="public">
+                    <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the
+                        University of Virginia</p>
+                    <p n="access">Publicly accessible</p>
+                </availability>
+                <date value="2002">2002</date>
+                <idno type="uva-pid">uva-lib:502803</idno>
+            </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: William Brand to Kate Armentrout, March 4, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta william brand to kate armentrout, march 4 1862</title>
+            <author>William Brand</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William Brand Papers, Albert and
+                            Shirley Small Special Collections Library, University of Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Used with permission from Albert and Shirley Small Special Collections Library,
+                    University of Virginia, Charlottesville, Virginia</p>
+            </projectDesc>
+        </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1862-03-04">1862-03-04</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Enlistment, Family, Troop Movement</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2007-04-03">2007-04-03</date>
+                <respStmt>
+                    <resp>proofed</resp>
+                    <name>Josh Botts</name>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A9641T">
+        <front id="d2">
+            <div1 id="d3" type="summary">
+                <p>William tells Kate that he believes the Confederates will evacuate Winchester in
+                    the near future. He also says that he, along with 35 members of his company, has
+                    re-enlisted for the duration of the war, and expresses disappointment that
+                    Kate's brother did not do so. He suggests that there will be "excitement in old
+                    Augusta" with the approaching Confederate draft.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 id="d5" type="letter">
+                <head>
+                    <name type="recipient">Miss Amanda C. Armentrout<lb/>Lacy Springs<lb/>Rockingham
+                            <abbr expan="County">Co.</abbr><abbr expan="Virginia">Va.</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1862-03-04">March 4th 1862</date>
+                        <name type="place"><orig reg="Camped">Campt</orig> Near Winchester</name>
+                    </dateline>
+                    <salute>Dear Kate</salute>
+                </opener>
+
+                <p>I <orig reg="received">recieved</orig> your much welcomed letter a <orig
+                        reg="few">fiew</orig> days ago and now seat my self to drop you a <orig
+                        reg="few">fiew</orig> lines. My health is very good &amp; hope this may
+                    find you enjoying the same blessing. The health of the <abbr expan="Company"
+                        >Com.</abbr> is very good at <orig reg="present">presant</orig>. We have
+                    evacuated Camp <unclear>Zollicoffer</unclear> &amp; <orig reg="camped"
+                    >Campt</orig> in a half mile of Winchester. I believe that we are going <pb
+                        n="2"/> to evacuate Winchester, as <orig reg="they">thay</orig> are <orig
+                        reg="moving">mooving</orig> all the <orig reg="Government">Guvernment</orig>
+                    property <orig reg="back">pack</orig> to <orig reg="Strasburg">Strausburg</orig>
+                    &amp; all the sick are <orig reg="hurried">hurryed</orig> back. It is
+                    reported that the Yankees have posession of Martinsburg, Charles town &amp;
+                    Berryville but I do not believe it and still hope that we may be ordered back to
+                    our <orig reg="cabins">Cabbins</orig> before long. The question was asked our
+                        <abbr expan="Company">Com</abbr> yesterday, whether we would enlist for the
+                    war or not. Thirty five enlisted for the war the remainder <pb n="3"/> say <orig
+                        reg="they">thay</orig> will stand the draft. I am no longer a <orig
+                        reg="volunteer">volintier</orig> but a regular for the War be it long or
+                    short &amp; my prayer is that the God of Nations may keep me as the apple of
+                    his eye. I will look to him at all times for he is able to save in the darkest
+                    hours of peril. It is an assurance most dear to know that he will not forsake
+                    those that put <orig reg="their">thare</orig> trust in him. I was very sorry
+                    that your Brother did not <orig reg="re-enlist">reinlist</orig> as I would like
+                    to have his <orig reg="company">Combany</orig> as a <orig reg="guide">gide</orig>
+                    <pb n="4"/> through this tempestuous world of war. I suppose <orig reg="there"
+                        >thare</orig> is a <orig reg="great">grate</orig> deal of excitement in old
+                    Augusta at this time on account of the draft that is to be made this month. I
+                    hope that it may hit some of the speculators &amp; hope I may have the
+                    pleasure of getting home on furlough before long. I would like very much to see
+                    you. Remember me in your prayers, that I may hold out <orig reg="faithful"
+                        >faithfull</orig> to the end. Write soon.</p>
+
+                <closer>
+                    <salute>I remain your devoted <orig reg="friend">freind</orig></salute>
+                    <signed>W.F.B.</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

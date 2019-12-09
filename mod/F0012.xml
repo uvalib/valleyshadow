@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0012"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F0012">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Samuel M. Potter to Cynthia Potter,
+                    December 3, 1862</title>
+        <title type="sort">franklin county samuel m potter to cynthia potter, december 3 1862</title>
+        <author>Potter, Samuel M.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amy Voorhees</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F0012</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501187</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Samuel M. Potter to Cynthia Potter, December 3, 1862</title>
+            <title level="m"/>
+            <title type="sort">franklin county samuel m potter to cynthia potter, december 3 1862</title>
+            <author>Samuel M. Potter</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Pennsylvania Historical and
+                            Museum Commission, Civil War Material, Misc. Diaries, and Letters,
+                            Microfilm, MG-132</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note>
+                            <p>This transcription was made from a typescript of the original
+                            letter.</p>
+                        </note>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Pennsylvania Historical and Museum Commission, Harrisburg, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1862-12-03">1862-12-03</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Church/Religious Activity, Death/Casualties, Desertion/Leave,
+                        Family, Medicine/Hospitals, National Government, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2003-01">January 2003</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against transcription; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F0012T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Potter describes his camp near Washington, D.C. and tells his wife about his trip
+                    through the city with a doctor, where he saw the White House and the Georgetown
+                    College Hospital. His letter includes a postscript addressed to his sister Mary
+                    with individual messages to each of his children.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                
+
+                <opener>
+                    <dateline>
+                        <date value="1862-12-03">Dec3 1862</date>
+                        <name type="place">Camp Casey Near Washington D.C.</name>
+                    </dateline>
+                    <salute>My Dear Wife</salute>
+                </opener>
+
+                <p>Our boys came from Harrisburg yesterday bringing your last letter with them
+                    &amp; it made me feel sorry that Bell was sick but I hope she will get
+                    better soon &amp; be running around singing &amp; playing with Josey
+                    &amp; Lucy making you <orig reg="feel">fell</orig> more cheerful. The box
+                    has never come yet with Polly Harvey's mince pies. Tell Polly I am sorry she
+                    could not get her pies sent, that her kindness will compensate for their loss.
+                    Our camp here is very pleasant &amp; we are getting along very comfortable.
+                    The Doctor took me with him to the city on Monday. We passed through it seeing
+                    the White House and a great many other things that paid for the trip. We went
+                    over to the Georgetown College Hospital where there are about 500 sick &amp;
+                    wounded soldiers. This was a Catholic College &amp; I saw a number of the
+                    priests in their long black robes with white crosses hanging from their belts.
+                    They were going about with books in their hands reading to the boys. We took
+                    dinner then with the Doctors of the Hospital &amp; visited some of the
+                    patients. It was the cleanest &amp; <orig reg="airiest">airyest</orig> place
+                    for the sick I have seen yet. We did not cross the Potomac river but we met a
+                    brigade of New Jersey infantry that had &amp; I tell you the soldiers were
+                    sweating with their heavy knapsacks, muskets &amp; cartridge boxes.
+                    Washington City appears to be full of Government wagons. We met them &amp;
+                    passed them at every street by hundreds. There were not very many soldiers
+                    around but on every hill there was a camp. Congress is in session now &amp;
+                    I wish to go if I can &amp; see the August body. You speak about Miller
+                    &amp; Gunn being at home &amp; why may not I be there as well as them.
+                    Well I could if I would only run the risk. They only get 24 hours leave of
+                    absence &amp; then stay a week or two &amp; no person in the company
+                    bothers about reporting them to the Colonel. But my situation is quite different
+                    &amp; if I were to go it would cost me my position. It is for your sake that
+                    I wish to hold it, so that I can do more for you &amp; the children. Still I
+                    will try all I can to get home. We have some sick to see evey day. I have had my
+                    bounty 27 dollars &amp; spent part of it. The balance of it I wish to keep
+                    to go home on. In the last letter I wrote you I gave you the wrong directions
+                    for sending <orig reg="your">you</orig> letters. Send</p>
+
+                <p>S.M. Potter<lb/>16Pa. Cavalry<lb/>Camp Casey<lb/>Washington D.C.</p>
+
+                <p>Be sure to put the number of the regiment on the letter and send it to Washington
+                    City &amp; they will send it after the regiment.</p>
+
+                <p>I will close my letter here by sending my love to you alike my best wishes to
+                    Polly Harvey, Mrs. Roney, &amp; the rest of the neighbors.</p>
+
+                <closer>
+                    <salute>Your affectionate husband</salute>
+                    <signed>S. M. Potter</signed>
+                    <seg type="postscript">I dont think of anything else to write. I dreamed of
+                        being at home with you last night &amp; had a good talk with you.<lb/>
+                        Sister Mary <lb/>Cynthia said you were spinning. You did not write any in
+                        her last letter &amp; I <orig reg="don't">dont</orig> think I answered
+                        your last. Since I commenced writing this the Doctor has gone to town, the
+                        nurses are out &amp; I am in here by myself with the sick &amp;
+                        cannot have much time to write without being <orig reg="interrupted"
+                            >interupted</orig>. Mary you are very kind to mine &amp; I wish you
+                        may be rewarded for your kindness. Josey I am glad that you are at the head
+                        of your class. That is the way my boy <orig reg="don't">dont</orig> be
+                        behind. &amp; Lucy carries <unclear>chips</unclear> &amp; goes to
+                        town on errands like a good girl. Poor Bell is sick. Pa would nurse you in
+                        his arms Bell if he was at home &amp; Show you the pictures in your new
+                        book. Lucy you will help Ma &amp; Aunt Mary wont you. </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

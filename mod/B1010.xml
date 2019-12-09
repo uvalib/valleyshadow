@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1010"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1010">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: Frederick S. Tukey to
+                    Garrick Mallery, April 1, 1867</title>
+        <title type="sort">freedmens bureau records frederick s tukey to garrick mallery, april 1 1867</title>
+        <author>Tukey, Frederick S.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1010</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500878</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: Frederick S. Tukey to Garrick Mallery,
+                            April 1, 1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records frederick s tukey to garrick mallery, april 1 1867</title>
+            <author>Frederick S. Tukey</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 47.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-04-01">1867-04-01</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Aid/Relief</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-05">May, 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1010T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Tukey reports that he did not have enough rations to distribute to the poor, and
+                    again calls for the Bureau to hire a Physician to care for the sick who are
+                    unable to afford medical care.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau of <abbr expan="Refugees">R.</abbr>
+                    <abbr expan="Freedmen">F.</abbr> &amp; <abbr expan="Abandoned">A.</abbr>
+                    Lands<lb/><abbr expan="District">Sub-Dist</abbr> Augusta &amp;
+                    Highland
+                    <name type="recipient"><abbr expan="Colonel">Col</abbr> G. <orig reg="Mallery"
+                            >Malory</orig><lb/><abbr expan="Acting Assistant Adjutant General"
+                            >A.A.A.G.</abbr>
+                        <abbr expan="Bureau of Refugees, Freedmen and Abandoned Lands">B. R. F.
+                            &amp; A. L.</abbr><lb/>Richmond <abbr expan="Virginia"
+                        >Va.</abbr><lb/>Through <abbr expan="District">Dist.</abbr>
+                        <abbr expan="Headquarters">Hd. Qrs.</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-04-01">April 1<hi rend="super">st</hi> 1867</date>
+                        <name type="place">Staunton <abbr expan="Virginia">Va.</abbr></name>
+                    </dateline>
+                    <salute>
+                        <abbr expan="Colonel">Col.</abbr>
+                    </salute>
+                </opener>
+
+                <p>I have the honor to submit in compliance with Circular <abbr expan="Number"
+                    >No.</abbr> 6 C.S. 1866 the following report of Bureau Affairs for the month of
+                    March 1867.</p>
+
+                <p>The freedpeople are generally getting along very well notwithstanding the unusual
+                    severe winter through which they have just <orig reg="passed">past</orig>. The
+                    Overseers of the poor have assisted, to my knowledge, 21 cases of suffering
+                    among them, and about fifty ($50) Dollars worth of clothing has been distributed
+                    by the Bureau. I have had many applications for Rations that I could not supply,
+                    simply because I had none. And I would most earnestly recommend that Rations in
+                    small amounts be furnished for this <abbr expan="Sub-District">Sub.Dist.</abbr>
+                    for the temporary relief of the Aged, Sick, and infirm. Also I would again call
+                    your attention to the necessity of providing Medical <orig reg="attendance"
+                        >attendence</orig> for extreme cases. Am of the opinion that an allowance of
+                    twenty five ($25) Dollars per month to some one of the local Physicians would
+                    cover all such cases.</p>
+
+                <closer>
+                    <salute>I am <abbr expan="Colonel">Col.</abbr> with much Respect<lb/>Your
+                        Obedient <abbr expan="Servant">Servt.</abbr></salute>
+                    <signed>Frederick S. <hi rend="underline">Tukey</hi><lb/><abbr expan="Assistant"
+                            >Asst.</abbr>
+                        <abbr expan="Superintendent">Supt.</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

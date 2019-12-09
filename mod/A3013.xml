@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+
+<?dlps id="A3013"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A3013">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Samuel Franklin Carson to Annie
+                    Harris, June 15, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county samuel franklin carson to annie harris, june 15 1861</title>
+        <author>Carson, Samuel Franklin</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Doug O'Reagan</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Doug O'Reagan</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A3013</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502173</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Samuel Franklin Carson to Annie Harris, June 15, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta county samuel franklin carson to annie harris, june 15 1861</title>
+            <author>Samuel Franklin Carson</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Samuel Franklin Carson to Annie
+                            Harris, June 15, 1861, Nellie Harris private collection</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from private collection</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1861-06-15">1861-06-15</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Camp Life</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A3013T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Carson describes camp life and the rigors of "soldiering" as he gets used to
+                    both.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1861-06-15">June 15th 1861</date>
+                        <name type="place">Fair Grounds.<lb/>Winchester</name>
+                    </dateline>
+                    <salute><hi rend="underline">Dear</hi>
+                        <hi rend="underline">Annie</hi>,</salute>
+                </opener>
+
+                <p>I am now seated on a bench in our Barracks (for the <abbr expan="present"
+                    >pres.</abbr> at least) writing on a box of ammunition, surrounded by at least 2
+                    hundred soldiers, all talking &amp; laughing so much that I hardly know
+                    whether I can write or not. But I will endeavor to do the best I can under the
+                    circumstances as I have just finished reading yours &amp; <orig
+                        reg="Jimmi's">Jimmis</orig> letter which believe me was a source of much
+                    pleasure &amp; I shall proceed immediately to answer it for fear that an
+                    opportunity will not present itself soon again. The 5th Regiment (of which we
+                    constitute a part) arrived here last night about dark <pb n="2"/>after <orig
+                        reg="traveling">travelling</orig> about 22 miles from Charlestown. The day
+                    before we marched from Shepardstown a distance of 12 miles starting from <orig
+                        reg="there">their</orig> at about five oclock in the evening &amp;
+                    arrived at our camp at 12 in the night. lay out in the woods on the ground like
+                    "Hogs" without anything to eat. This is the way soldiering goes.</p>
+                <p>about one half of our men were so much fatigued. &amp; their feet so sore
+                    that they could scarcely walk. my feet have blisters on now, as big as
+                        <unclear>ten</unclear>
+                    <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/>. You have no idea how much we have to endure &amp; yet I
+                    fear its nothing to what it will be. But if I have my health I care not what
+                    comes I can stand it as long as the <pb n="3"/>most of them. I have no idea when
+                    we will leave this place. The Bridge together with all the <orig reg="public"
+                        >publick</orig> buildings at the Ferry have been burnt by our troops
+                    &amp; the place is now vacated entirely. Also the bridge at shepardstown was
+                    burnt the evening we left by <abbr expan="Captain">Capt</abbr> Doyle such a
+                    destruction of Property. not less than <del rend="none" hand="h1"/> of <unclear>it</unclear>
+                    destroyed &amp; what <unclear>will</unclear> it be by the time the wars are
+                    ended? I had a little excursion over into Maryland the night before we left
+                    Shepardstown, some 20 of our men went out on a scout to see if we could find any
+                    of the <orig reg="Yankees">Yankey's</orig> I tell you we ran a considerable risk
+                    nevertheless we went. We <pb n="4"/>were at a place where a sentinal had been
+                    posted the night before but did not see anything of him. Then was a company of
+                    35 camp<unclear>ers</unclear> about 3 miles from the bridge &amp; if the
+                        <abbr expan="Colonel">Col.</abbr>
+                    <orig reg="would have">had'v</orig> let us we would <unclear>tried</unclear>
+                    them any how one <unclear>round</unclear>. But we had orders not <add hand="h1"
+                        place="inline">to</add> go farther than a mile &amp; half - consequently
+                    we got no fight. I must stop for the present, it is so warm &amp; I am so
+                    crowded that I <orig reg="can't">cant</orig> write more. if we <orig reg="don't"
+                        >dont</orig> leave directly I will write you again &amp; give all the
+                    news I can. As for the note enclosed - I hope <add hand="h1" place="inline"
+                    >you</add> will not think any thing more about it. I'll say nothing more myself.
+                    &amp; believe me to be as ever <hi rend="underline">yours</hi>. My love to
+                    all,</p>
+
+                <closer>
+                    <salute>yours in haste</salute>
+                    <signed>Sam Frank</signed>
+                    <seg type="postscript">no more <del rend="none" hand="h1"/>
+                        <del rend="none" hand="h1"/>
+                        <del rend="none" hand="h1"/>
+                        <del rend="none" hand="h1"/></seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

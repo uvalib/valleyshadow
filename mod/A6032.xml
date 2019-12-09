@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+
+<?dlps id="A6032"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+<!ENTITY % MANUSCRIPT "INCLUDE">
+
+ 
+ <!ENTITY Smiley5 SYSTEM "uva-lib:503093" NDATA uvaHighRes> 
+ <!ENTITY Smiley5b SYSTEM "uva-lib:503094" NDATA uvaHighRes> 
+ <!ENTITY Smiley5c SYSTEM "uva-lib:503095" NDATA uvaHighRes> 
+ <!ENTITY Smiley5d SYSTEM "uva-lib:503096" NDATA uvaHighRes> 
+  
+ ]>  
+  
+  
+<TEI.2 id="A6032">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Thomas M. Smiley to His Aunt, April 20, [1864]</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county thomas m smiley to his aunt, april 20 1864</title>
+        <author>Smiley, Thomas M.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Jaime Henshaw</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Alice McShane</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A6032</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:503092</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Thomas M. Smiley to His Aunt, April 20, [1864]</title>
+            <title level="m"/>
+            <title type="sort">augusta county thomas m smiley to his aunt, april 20 1864</title>
+            <author>Thomas M. Smiley</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>1 page</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Smiley Family Papers Accession #1807 Special
+       Collections Department, University of Virginia Library, Charlottesville, Virginia </idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>The numerical date [1862 Apr 20] was added by a later archivist or family member, but
+        Smiley's discussion of the Grant vs. Lee campaign suggests that the letter was instead
+        written in 1864.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1864-04-20">1864-04-20</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Agriculture, Camp Life, Military Authority, Military Strategy, Troop Movement </term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001">Summer 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Jaime Henshaw</name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A6032T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Smiley describes life in winter camp and the build up of Lee's army. </p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">aunt</name>
+    </head>
+
+    <opener>
+     <pb n="1" entity="Smiley5" pid="uva-lib:503093"/>
+     
+     <dateline>
+      <date value="1864-04-20">April 20<hi rend="super">th</hi></date>
+      <name type="place">Camp Randolph</name>
+     </dateline>
+     <salute>Dear Aunt</salute>
+    </opener>
+
+    <p>I will endeavor to write you a few lines once more to let you know how I am getting along. I
+     am well at present and hope that this may find you in the enjoyment of good health. We are
+     still in our winter <unclear>quarters with no immediate prospect</unclear> of a move, except on
+     picket which will be next week. Our time at present is pretty well taken up with drills and
+     police duty. We have two drills each day and dress parade in the evening<pb n="2" entity="Smiley5b" pid="uva-lib:503094"/>
+      There is preaching nearly every day or night as it suits. The
+     preaching is pretty well attended and pretty good attendance is had during the services. The
+     weather for the past week has been very fine but it has gotten colder the last day or two and
+      <orig reg="today">to day</orig> looks as if we <del hand="h1">we</del> would have snow I do
+     not think there will be much fruit this year <orig reg="especially">especialy</orig> in the
+     part of the country as it has been so cool that I think it would all be killed. Our sharp
+     Shooters are now out <orig reg="practicing">practising</orig> firing at a target which reminds
+     us very much of the commencement of a battle but it is to<pb n="3" entity="Smiley5c" pid="uva-lib:503095"/>
+     be hoped that we are not to have many more battles to fight as from
+     late northern news they are more unsettled now than they have been for some time past. General
+     Grant seems to be making great preparation for an active campaign but some persons think it is
+     only done for a show; while the real plan is to <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/> the first <del rend="none" hand="h1"/> here, and I suppose it true that a good many troops
+     are being sent here to <unclear>strengthen</unclear> Lee's army. if it is true I think it is
+     the policy of our leaders to assume an offensive <orig reg="attitude">atitude</orig>.<pb n="4" entity="Smiley5d" pid="uva-lib:503096"/>
+      But as we are to have a brigade drill this evening, and the hour is
+     about come. I will close by asking you to excuse all mistakes, bad writing, <orig reg="etc."
+      >&amp;c.</orig></p>
+    <p>Give my love to aunt Ann, Uncle Jame's family and any one else who may think worthwhile to
+     ask for me, </p>
+
+    <closer>
+     <salute>&amp; also receive a due share yourself from your affectionate nephew</salute>
+     <signed>Thomas M Smiley</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

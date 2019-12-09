@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+
+<?dlps id="B0019"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="B0019">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: John A. McDonnell to
+                    Thomas P. Jackson, June 6, 1867</title>
+        <title type="sort">freedmens bureau records john a mcdonnell to thomas p jackson, june 6 1867</title>
+        <author>McDonnell, John A.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>HIUS 403 Students</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Peter Brownfeld</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B0019</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 1999, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:500384</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: John A. McDonnell to Thomas P. Jackson,
+                            June 6, 1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records john a mcdonnell to thomas p jackson, june 6 1867</title>
+            <author>John A. McDonnell</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 page</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Bureau of Refugees, Freedmen, and
+                            Abandoned Lands, Record Group 105, Box E4269</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-06-06">1867-06-06</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Administration/Bureaucracy, Aid/Relief</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2003-08">August 2003</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B0019T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>McDonnell asks Jackson to clarify his report on the rations distributed in his
+                    district, and impresses upon Jackson the need for consistency in his reporting
+                    procedures.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau of Refugees, Freedmen, and Abandoned Lands,<lb/>Head Quarters 9th District
+                    Department of the Potomac,
+                    <name type="recipient">Mr. <abbr expan="Thomas">Thos</abbr> P.
+                        Jackson<lb/>Agent<lb/>Staunton, Va.</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-06-06">June 6, 1867</date>
+                        <name type="place">Winchester, Va.</name>
+                    </dateline>
+                    <salute/>
+                </opener>
+
+                <p>I return for <unclear>correction</unclear> your Reported rations--from which it
+                    appears that only 30 rations were issued 1049 persons. You evidently mistake
+                    what a ration is--a ration is the allowance to an adult for one day, or to two
+                    children one day. Supplies for 10 men 10 days would be 100 rations. so 10
+                    children 10 days =50. Please correct it in that particular.</p>
+
+                <p>Second-You are directed to make your report <hi rend="underline">correspond</hi>
+                    with the <hi rend="underline">
+                        <unclear>Prvv</unclear>
+                    </hi>
+                    <hi rend="underline">Returns</hi>
+                    <hi rend="underline">sent in</hi>. If you afterwards issued to more than
+                        <unclear>one</unclear> drawn for they must not be repeated. If they are your
+                    report will not agree with the Commissary's abstract which he makes up from the
+                        <unclear>Prvv</unclear> Returns received. You will return corrected report
+                    by first mail.</p>
+
+                <closer>
+                    <salute>Very Respectfully <lb/>Your <abbr expan="Obedient">Obdt</abbr>
+                        <abbr expan="Servant">Sv</abbr></salute>
+                    <signed>John A. McDonnell<lb/><abbr expan="Captain">Cap</abbr> &amp; <abbr
+                            expan="Sub Assistant Commissioner">S.A.C.</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

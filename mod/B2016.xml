@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+
+<?dlps id="B2016"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B2016">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: E. Lawson et. al. to R.
+                    M. Manly, September 30, 1867</title>
+        <title type="sort">freedmens bureau records e lawson et al to r m manly, september 30 1867</title>
+        <author>Lawson, E.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B2016</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501131</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: E. Lawson et. al. to R. M. Manly,
+                            September 30, 1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records e lawson et al to r m manly, september 30 1867</title>
+            <author>E. Lawson et. al.</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Superintendent of Education for the State
+                            of Virginia, Bureau of Refugees, Freedmen and Abandoned Lands,
+                            1865-1869, Record Group 105, M1053, Roll 7.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-09-30">1867-09-30</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Church/Religious Activity, Education</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-06">June 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+                <item>Item checked against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B2016T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Lawson and the other Methodist Episcopal Church Trustees ask Brackett to use his
+                    influence to have John Scott reappointed as teacher.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Chaplain R. M. Manly<lb/>State <abbr
+                            expan="Superintendent">Supt.</abbr> Freedmens Schools</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-09-30"><abbr expan="September">Sept.</abbr> 30th 1867</date>
+                        <name type="place">Staunton, <abbr expan="Virginia">Va.</abbr>,</name>
+                    </dateline>
+                    <salute>Dear Sir</salute>
+                </opener>
+
+                <p>We the undersigned Trustees, Pastor and Officers of the Colored <abbr
+                        expan="Methodist Episcopal">M. E.</abbr> Church of Staunton <abbr
+                        expan="Virginia">Va.</abbr> have the honor to inform you that on the 24th
+                    inst. we forwarded a Petition to the <abbr
+                        expan="American Missionary Association">A.M.A.</abbr> to have Mr. John Scott
+                    (who was here in the Winter of 1866) returned to this place the coming season.
+                    We also beg leave to state that at a meeting of the Colored people held for
+                    considering this subject that the sense of the people was taken and the whole
+                    body with one single exception voted in favor of forwarding this Petition.</p>
+
+                <p>And now thinking that you may have an influence in this matter we must earnestly
+                    pray that you will so direct it as to return Mr. Scott to us.</p>
+
+                <closer>
+                    <salute/>
+                    <signed>Rev. E. Lawson - preacher in charge<lb/>Trustees Aaron
+                        <unclear>Shoaly</unclear><lb/>Francis Overton<lb/>Aderson King<lb/>Wm
+                        Denny<lb/>Oscar Morris<lb/>David Davenport</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

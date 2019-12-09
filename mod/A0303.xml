@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+
+<?dlps id="A0303"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A0303">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: James B. McCutchan to His Cousin,
+                    July 27, 1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county james b mccutchan to his cousin, july 27 1862</title>
+        <author>McCutchan, James B. </author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A0303</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501811</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta : James B. McCutchan to his Cousin, July 27, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta james b mccutchan to his cousin, july 27 1862</title>
+            <author>James B. McCutchan</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Rockbridge Historical Society
+                            Collection, Special Collections, Leyburn Library, Washington and Lee
+                            University, Lexington, Virginia.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Special Collections, James G. Leyburn Library, Washington and Lee University</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1862-07-27">1862-07-27</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Church/Religious Activity, Death/Casualties, Family, Home
+                        Front, Military Authority, Prisons/Prisoners, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A0303T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>McCutchan's letter talks about his bad cold, the new preacher in camp, and refers
+                    to several friends and family members. The letter also makes reference to the
+                    fact that he has been charged with informing on his cousin, James R. McCutchan,
+                    but the details are not made clear.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1862-07-27">July 27 1862</date>
+                        <name type="place">Camp Near Gordonsville</name>
+                    </dateline>
+                    <salute>Dear Cousin</salute>
+                </opener>
+
+                <p>This is Sunday and I don't know how I can <del rend="none" hand="h1"/> myself more pleasantly
+                    than in writing you a short letter, although I don't feel much in a humor of
+                    writing or doing anything else, I have a bad cold sore throat and headache, we
+                    had a short march yesterday left camp about 5 o'clock marched to Gordonsville a
+                    distance of 5 miles stayed there until nearly sundown then marched back to camp.
+                    we marched very fast for a while and got very warm and it rained on us before we
+                    got to camp. I got very wet and lying on the damp ground all night is what gave
+                    me such a cold. I don't think I have had the cold as bad for six months. The
+                    company is <orig reg="generally">generly</orig> well some few are complaining.
+                    We have a very nice camp here in a beautiful grove. The Brigade is all together,
+                    have very good water for Eastern <abbr expan="Virginia">V<hi rend="super"
+                        >a</hi>.</abbr> We have a very good chaplain now, have preaching every
+                    Sunday and prayer meeting every night, Warden is his name, he is a very nice man
+                    and a good preacher. I met with <unclear>Mr.</unclear> Wheat at the spring
+                    today, would not have known <pb n="2"/> him but heard him remark to another man
+                    that was with him that Lizzie was well and that Mrs. Buchanan is dead. I found
+                    out from that that he was from your neighborhood. I then made some <orig
+                        reg="inquiries">enquiries</orig> about your mother, and found out who he
+                    was. Cousin Lizzies boy or yours I don't know which I was slightly acquainted
+                    with last winter. I had forgotten him. You said in your last letter that you had
+                    a message for me from an old acquaintance. I am very anxious to know who and
+                    what it was. I intend to have gone up to your neighborhood when I was at home
+                    but could not make it suit and so many of your <del rend="none" hand="h1"/> was sick, I hope
+                    you will excuse me. I also hope you all have gotten well ere this. I suppose you
+                    are well and healthy by this time. I was surprised to see that you had grown so
+                    much but it had been some time since I had seen you. I would have liked very
+                    much to have had a chat with you but <orig reg="circumstances"
+                    >sircumstances</orig> would not permit. I might have gone to see you that
+                    evening but I am sorry to tell you that I was not there when I was at home nor
+                    did have any desire to go. I was charged with things that I am <del rend="none" hand="h1"/>
+                    <orig reg="innocent">innosent</orig> of. I am sorry that it is so, but as <pb
+                        n="3"/> it is so it may remain so far as I am <orig reg="concerned"
+                        >conserned</orig> I shant trouble myself about it. I will tell you what it
+                    was. I was charged with informing on Ja's R which is entirely false. I did not
+                    write a letter to any one in the company while I was at home. I will drop it,
+                    will not be pleasant to you and I am <orig reg="sure">shure</orig> it is not to
+                    me. I am sorry I did not comply with your wishes about kissing cousin Sue that
+                    is <orig reg="surely">shurely</orig> a <del rend="none" hand="h1"/> pleasant task. She is a
+                    particular friend of mine I had some nice times with her when I was at home. Oh!
+                    I wish this war was over so we all could return to our homes in peace. I think
+                    we will know how to appreciate it if it is ever <del rend="none" hand="h1"/> it, which time
+                    I hope is not far distant. I will stop writing for the evening, probably will
+                    write some more in the morning if nothing happens to <unclear>prevent</unclear>
+                    it. I stopped wishing <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> and went to preaching, heard as often did <del rend="none" hand="h1"/> and
+                    heard a <orig reg="prayer">prear</orig> from from <abbr expan="General"
+                    >Gen'</abbr> Jackson which was <del rend="none" hand="h1"/> as good as I ever heard. I do
+                    think this is the best man I ever saw. how thankful we should be that he have
+                    such a General <del rend="none" hand="h1"/> is a <del rend="none" hand="h1"/> character.</p>
+
+                <p><pb n="4"/>I must bring my letter to a close <del rend="none" hand="h1"/> this very poor
+                    letter and answer soon. Direct to Gordonville. Give my love to all inquiring
+                    friends if there be any, receive a good portion for yourself.</p>
+
+                <closer>
+                    <salute>Your true and Aff cousin</salute>
+                    <signed>Ja's B. McCutchan</signed>
+                    <seg type="postscript">[in recipient's handwriting] Received <lb/> Saw Jim Buck
+                        last July 12, 1862 <lb/> George Baylor was killed near <lb/>Gordonsville
+                        August 9th 1862 <lb/> Jonnie Kerr died August 11th 1865 <del hand="h1"
+                    /></seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9201"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A9201">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Nicholas K. Trout to Enos Ott,
+                    December 19, 1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county nicholas k trout to enos ott, december 19 1863</title>
+        <author>Trout, Nicholas K.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Elizabeth Ladner</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A9201</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502086</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Nicholas K. Trout to Enos Ott, December 19, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta county nicholas k trout to enos ott, december 19 1863</title>
+            <author>Nicholas K. Trout</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Enos Ott Papers, Private
+                            Collection of Gail Ott</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from private collection</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1863-12-19">1863-12-19</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Enlistment, Desertion/Leave, Home Front</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A9201T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>In this short letter, Nicholas K. Trout informs Enos that his petition for detail
+                    was sent to Colonel Shields at Camp Lee.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Mr. Enos Ott<lb/>Camp Lee<lb/>Richmond Va</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1863-12-19">Dec. 19, 1863</date>
+                        <name type="place">Staunton</name>
+                    </dateline>
+                    <salute>Dear Sir:</salute>
+                </opener>
+
+                <p>I have your letter and telegram. The records of the enrolling office here <orig
+                        reg="show">shew</orig> that your petition was sent by mail to <abbr
+                        expan="Colonel">Col</abbr> Shields the Commandant of Camp Lee on the 6th day
+                    of this month. You must get him to look thoroughly. The Clerk, Mr. Peyton,
+                    recollects distinctly that it was sent.</p>
+
+                <closer>
+                    <salute>Yours truly</salute>
+                    <signed>N K Trout</signed>
+                    <seg type="postscript">
+                        <name type="recipient">Mr. Enos Ott</name>
+                    </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

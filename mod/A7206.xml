@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+
+<?dlps id="A7206"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]> 
+
+
+<TEI.2 id="A7206"> 
+<teiHeader type="migrated"> 
+
+    <fileDesc> 
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: F. S. Tukey to George Whipple, March 5, 1866</title>
+        <title type="sort">augusta county f s tukey to george whipple, march 5 1866</title>
+        <author>Tukey, F. S. </author>
+        <editor/>
+        <respStmt> 
+          <resp>Creation of machine-readable version: </resp> 
+          <name>Bart Elmore</name> 
+          <resp>Conversion to TEI.2-conformant markup:</resp> 
+          <name>Bart Elmore</name> 
+        </respStmt>
+      </titleStmt> 
+
+      <extent>ca. 6.351 kilobytes </extent> 
+      <publicationStmt> 
+        <publisher>Virginia Center for Digital History</publisher> 
+        <pubPlace>Charlottesville, Virginia </pubPlace> 
+
+        <idno type="VCDH">A7206</idno> 
+
+        <!--
+<availability> 
+<p>Publicly accessible </p> 
+<p n="public">URL: http://valley.vcdh.virginia.edu/</p> 
+<p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the University of Virginia</p> 
+</availability>
+--> 
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date>
+        <idno type="uva-pid">uva-lib:500322</idno>
+      </publicationStmt> 
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt> 
+      <notesStmt>
+        <note/>
+      </notesStmt> 
+
+      <sourceDesc> 
+        <biblFull> 
+          <titleStmt>
+            <title>Augusta County: F. S. Tukey to George Whipple, March 5, 1866</title>
+            <title level="m"/>
+            <title type="sort">augusta county f s tukey to george whipple, march 5 1866</title>
+            <author>F. S. Tukey</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt> 
+          <editionStmt>
+            <p/>
+          </editionStmt> 
+          <extent>4 pages</extent> 
+          <publicationStmt> 
+            <publisher/> 
+            <pubPlace/> 
+            <date value=""/> 
+            <idno type="callNo">Source copy consulted: F. S. Tukey to George Whipple, March 5, 1866, American Missionary Association Archives Collection, Microfilm 72, Alderman Library, University of Virginia, Charlottesville</idno>
+          </publicationStmt> 
+          <seriesStmt>
+            <p/>
+          </seriesStmt> 
+          <notesStmt>
+            <note/>
+          </notesStmt> 
+        </biblFull> 
+      </sourceDesc> 
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Alderman Library, University of Virginia</p>
+      </projectDesc>
+    </encodingDesc> 
+
+    <profileDesc> 
+      <creation>
+        <date value="1866-03-05">1866-03-05</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage> 
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass> 
+        <keywords> 
+          <term>African Americans, Education, Race Relations, Women, Church/Religious Activity, Economy</term> 
+          <term>American Civil War</term>
+        </keywords> 
+      </textClass> 
+    </profileDesc> 
+
+    <revisionDesc> 
+      <change> 
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt> 
+        <item/> 
+      </change> 
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc> 
+  </teiHeader> 
+
+<text id="A7206T">
+<front id="d2">
+<div1 type="summary" id="d3">
+<p>Responding to Whipple's criticism that he has been unwilling to find a more cost effective means of managing AMA facilities in Staunton, Tukey maintains that the "principle causes of your expense here over and above other places was because there was no confiscated building here in which the Teachers could get to live neither did the Colored people have any Church or other building in which we could hold your Schools."</p> 
+</div1> 
+ 
+</front> 
+
+<body id="d4">
+<div1 type="letter" id="d5">
+<head>
+<name type="recipient"><del rend="none" hand="h1"></del> Geo. Whipple</name> 
+<name type="place">Staunton Va.</name> 
+</head>
+
+<opener>
+<dateline>
+    <date value="1866-03-05">March 5<hi rend="super">th</hi> 1866</date> 
+</dateline> 
+<salute>Dear Sir</salute> 
+</opener> 
+
+<p>Your note of <del rend="none" hand="h1"></del> 6<hi rend="super">th</hi> with enclosed check is received.</p>
+	<p>You say the account is unexpectedly larger and makes you fear that your arrangements were not so definitely made as they should have been at the commencement.  If you mean by this to say that you are afraid that I have taken some advantage of you because we had so definite agreement at the beginning I beg leave to assure you with the kindest feelings that you labor under<pb n="2"/> a great mistake.  I am aware however that your expenses are much higher here in the Valley than they were last year in Eastern Va. but it is no fault of mine.  On the contrary I have labored zealously and hard; and by labor done with my own hands have saved you more than one hundred ($100) dollars.  The principle causes of your expense here over and above other <unclear>places</unclear> was because there was no confiscated building here in which the Teachers could get to live neither did the Colored people have any Church or other building in which we could hold your Schools.</p>
+	<p>Consequently every thing had to be <unclear>hired</unclear>.  besides this it should be <unclear>borne</unclear> in mind that a<pb n="3"/> portion of the Bill as forwarded was for <unclear>fixtures</unclear> for School room which we now have, and the expense for them will not have to be incured again.  besides there was expense for freight on Books and Mrs Tukey's traveling expenses, so you will readily see that the cost was not all for living.  I now inform you that the Colored people have got a Church on which I Labored two weeks with my own hands from early morn till late at night, and on which I expended $90, out of my own pocket with a poor prospect indeed of ever getting it back again.  but by so doing we shall get rid of paying School house rent.<pb n="4"/>  I have also rented one room of the House in which we live for $60 per Annum and taking them both together it reduces your expenses very materially at this point.  And in conclusion I beg leave to state that I think I have too just an appreciation of the noble work in which you are engaged in the elevation of God's oppressed people to take any advantage whatever of your Society simply because we had no previous agreement, and I regard any man who will attempt to speculate out of the charitable proceeds of your Association as contemptable and undeserving the confidence of any.  And now hoping this will be received in the same kind spirit in which it was written</p>
+
+
+<closer>
+<salute>I am with great respect your Abt. Servt.</salute> 
+<signed>F. S. Tukey Asst. Supt etc.</signed> 
+
+</closer> 
+</div1> 
+</body> 
+</text> 
+</TEI.2>

@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+
+<?dlps id="B3005"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="B3005">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: J. H. Remington to W. Storer How,
+     November 6, 1866</title>
+        <title type="sort">freedmens bureau records j h remington to w storer how, november 6 1866</title>
+        <author>Remington, J. H.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Desi Hopkins</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Desi Hopkins</name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">B3005</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+     <p>Text and Images (c) copyright 1993-2005, by the Rector and Visitors of the University of
+      Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date>
+        <idno type="uva-pid">uva-lib:501180</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Freedmen's Bureau Records: J. H. Remington to W. Storer How, November 6, 1866</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records j h remington to w storer how, november 6 1866</title>
+            <author>J. H. Remington</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>2 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: National Archives and Records Administration,
+       Records of the Bureau of Refugees, Freedmen, and Abandoned Lands, Record Group 105, Box
+       E4265.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1866-11-06">1866-11-06</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Administration/Bureaucracy, Legal System</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2006-05">May 2006</date>
+        <respStmt>
+          <resp/>
+          <name>Heather Weidner</name>
+        </respStmt>
+        <item>Item proofread against original; corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="B3005T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Remington asks How if he knows anything about the claim of a Doctor Shelton. The paperwork
+     for the claim appears to be missing.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+
+   <div1 type="letter" id="d5">
+    <head>
+     Bureau Refugees, Freedmen &amp; <abbr expan="Abandoned">A</abbr> Lands<lb/><abbr
+      expan="Headquarters">Head Quars</abbr> 9th <abbr expan="District">Dist.</abbr>
+     <abbr expan="Department">Dept</abbr> of Potomac
+     <name type="recipient">W. Storer How<lb/>late <abbr expan="Captain">Capt</abbr> &amp; <abbr
+       expan="Brevet">Bt.</abbr> Major <abbr expan="Assistant Quartermaster">A.Q.M.</abbr>
+      <abbr expan="Superintendent">Supt</abbr>
+     </name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1866-11-06"><abbr expan="November">Nov.</abbr> 6th 1866</date>
+     </dateline>
+
+     <salute><abbr expan="Dear">Dr</abbr> Sir</salute>
+    </opener>
+
+    <p>There has just been referred to me for information, a letter of <abbr expan="George"
+     >Geo.</abbr> T. Cook, <abbr expan="Lieutenant">Lt</abbr> &amp; <abbr
+      expan="Assistant Superintendent">Asst Supt.</abbr> at Staunton, asking for information from
+     the Quartermaster General as to the disposition made of and the action taken on some papers
+     forwarded by <abbr expan="Frederick">F.</abbr> S. Tukey, in April or May last, viz. Claim of
+     Doctor J. W. Shelton of Augusta <abbr expan="County">Co.</abbr> for one Horse seized or stolen
+     by a U.S. Soldier. <del rend="none" hand="h1"/> This letter on being forwarded to <abbr expan="General"
+      >Genl</abbr>
+     <abbr expan="Orlando">O.</abbr> Brown <abbr expan="Acting Assistant Adjutant General"
+     >A.A.A.G.</abbr> was returned with endorsement stating that these papers were returned to Mr.
+     Shelton <abbr expan="through">thro'</abbr> W.S. How <abbr expan="Brevet Major">Bt. Maj.</abbr>
+     &amp; <abbr expan="Superintendent">Supt</abbr> at Winchester on the 9th of April last,
+     informing him that the <abbr expan="Quartermaster">Q.M.</abbr> General could not assist him.
+      <abbr expan="Lieutenant">Lt.</abbr> Cook reforwarded his letter stating that the papers seem
+     to have been reforwarded by Mr. Tukey since which time nothing has been heard from them. This
+     was referred to me as stated <pb n="2"/> at the outset. <unclear>It seems</unclear> the matter
+     appears on <del hand="h1">rec</del> this office.</p>
+
+    <p>Can you give me any information concerning it?</p>
+
+    <closer>
+     <salute>Very Respectfully<lb/>Your <abbr expan="Obedient">Obedt</abbr>
+      <abbr expan="Servant">Servt</abbr>
+     </salute>
+     <signed>J.H. Remington<lb/><abbr expan="Captain">Capt</abbr> &amp; <abbr expan="Brevet"
+      >Bt</abbr> Major <abbr expan="Veterans' Reserve Corps">V.R.C.</abbr>
+      <lb/><abbr expan="Superintendent">Supt</abbr> 9th <abbr expan="District">Dist.</abbr>
+     </signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

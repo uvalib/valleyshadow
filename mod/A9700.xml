@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9700"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A9700">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: P. Brady to Alexander H. H. Stuart,
+                    March 31, 1868</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county p brady to alexander h h stuart, march 31 1868</title>
+        <author>Stuart, Alexander H. H.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Philip Herrington</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Philip Herrington</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A9700</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502811</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: P. Brady to Alexander H. H. Stuart, March 31, 1868</title>
+            <title level="m"/>
+            <title type="sort">augusta county p brady to alexander h h stuart, march 31 1868</title>
+            <author>P. Brady</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Alexander H. H. Stuart Papers,
+                            Manuscript Collection 228-a, Special Collections, University of Virginia
+                            Library</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1868-03-31">1868-03-31</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Family</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A9700T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>P. Brady writes to Alexander H. H. Stuart to help settle a financial dispute with
+                    Daniel Brady.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Hon. Alex H. H. Stuart</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1868-03-31">Mar 31/68</date>
+                        <name type="place">Philad<hi rend="super">a</hi></name>
+                    </dateline>
+                    <salute>Dear Sir</salute>
+                </opener>
+
+                <p>I beg to say that in Case <abbr expan="Daniel">Danl</abbr> Brady will carry out
+                    his offer of Sep 3. <orig reg="Shortening">Shortning</orig> the last four
+                    payments I will accept, giving him a full discharge from all further Claims,
+                    returning him two notes of 2500 each and a release as <orig reg="Guardian"
+                        >Guardine</orig> of my Children, he says the property of my Children passed
+                    into my hands, not so. it went to pay the debts of P. Brady &amp; <abbr
+                        expan="Company">Co.</abbr> after <hi rend="underline">I was</hi>
+                    <orig reg="robbed">robed</orig>, I make the offer to accept his proposition now
+                    as I am pressed by my <del rend="none" hand="h1"/> for monies due them <pb n="2"/>If you can
+                    get 5000 in good bonds as the proposes in June so much the better I would prefer
+                    an amicable settlement if it can <add hand="h1" place="inline">be</add> had on a
+                    fair basis, and trust to him to <add hand="h1" place="inline">do</add> more when
+                    he succeeds with his <orig reg="patent">pattent</orig>, it is understood thus he
+                    is to pay your fees &amp; all charges <orig reg="incurred">incured</orig>
+                    thus far</p>
+
+                <closer>
+                    <salute>Yours Very respectfully</salute>
+                    <signed>P Brady</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+
+<?dlps id="F1104"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F1104">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: H. W. Freedley to Maria Hiester,
+                    June 18, 1863</title>
+        <title type="sort">franklin county h w freedley to maria hiester, june 18 1863</title>
+        <author>Freedley, H. W.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Matt Speiser</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Matt Speiser</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">5</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F1104</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501400</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: H. W. Freedley to Maria Hiester, June 18, 1863</title>
+            <title level="m"/>
+            <title type="sort">franklin county h w freedley to maria hiester, june 18 1863</title>
+            <author>H. W. Freedley</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Rare Book, Manuscript, and
+                            Special Collections Library, Duke University</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Special Collections Department, William R. Perkins Library, Duke University, Durham, North Carolina</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1863-06-18">1863-06-18</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Desertion/Leave, Family, Home Front, Military Authority,
+                        Military Strategy, Troop Movement, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2005-08">August, 2005</date>
+                <respStmt>
+                    <resp/>
+                    <name>Kid W.</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F1104T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Freedley tells Hiester of the army's movement and predicts an imminent clash with
+                    Confederates. He mentions the isolation of soldiers from news and their
+                    immersion in rumors; and he wishes that he could visit Hiester.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+            
+
+                <opener>
+                    <dateline>
+                        <date value="1863-06-18">June 18<hi rend="super">
+                                <hi rend="underline">th</hi>
+                        </hi> 1863</date>
+                        <name type="place">Camp <unclear>5</unclear>
+                            <abbr expan="Infantry">Infty</abbr></name>
+                    </dateline>
+                    <salute>Dear Maria</salute>
+                </opener>
+
+                <p>I have taken this opportunity to write you a line I ascertained yesterday that my
+                    last two dispatches were intercepted at Army <orig reg="Headquarters">Head
+                        Quarters</orig>. We are now near Leesburg after the rebel army. I expect we
+                    will soon have another engagement. I do not know the news and we hear a variety
+                    of rumors. I have not seen a paper for a week and intercourse is entirely
+                    stopped. Our letters do not reach their <del hand="h1">
+                        <unclear>informal</unclear>
+                    </del> destination I hope you have left <unclear>Millmont</unclear> and that you
+                    are not exposed to the rudeness of the soldiers. I am so sorry that I could not
+                    take advantage of my "leave" to see you before their "raid" for I do not know
+                    when I will be able to come now. I will now endeavor to obtain a <abbr
+                        expan="Pennsylvania">Penna</abbr> regiment I'm so sorry that I could not
+                        <del rend="none" hand="h1"/> to these <del rend="none" hand="h1"/> to defend the promotion.</p>
+
+                <closer>
+                    <salute>Ever Your Friend</salute>
+                    <signed>HWFreedley</signed>
+                    <seg type="postscript">P.S. I wrote to your father at the Continental
+                    Hotel</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

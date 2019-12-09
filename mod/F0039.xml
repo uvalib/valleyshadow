@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0039"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="F0039">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: A Brother to David D. Hougham,
+                    August 4, 1863</title>
+        <title type="sort">franklin county a brother to david d hougham, august 4 1863</title>
+        <author>Hougham</author>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amy Murrell </name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Institute for Advanced Technology in the Humanities </publisher>
+                <publisher>University of Virginia </publisher>
+                <pubPlace>Charlottesville, Va. </pubPlace>
+                <idno type="VCDH">F0039</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1997 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved. </p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2/ </p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1997 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1997">1997 </date>
+            <idno type="uva-pid">uva-lib:501214</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War </p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note>
+                    <p>This is the only letter from the author in this collection, and it contains
+                        no first name for the author.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: A Brother to David D. Hougham, August 4, 1863</title>
+            <title type="sort">franklin county a brother to david d hougham, august 4 1863</title>
+            <author>Hougham</author>
+            <respStmt>
+                            <resp>Editor </resp>
+                            <name> </name>
+                        </respStmt>
+          </titleStmt>
+                    <publicationStmt>
+                        <publisher> </publisher>
+                        <pubPlace> </pubPlace>
+                        <date value=""> </date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p>Source copy consulted: Hougham Letter, Microfilm MG-132, Civil War
+                            Material, Misc. Diaries and Letters, Pennsylvania Historical and Museum
+                            Commission, Harrisburg, Pennsylvania. </p>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Pennsylvania Historical and Museum Commission, Harrisburg, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1863-08-04">1863-08-04 </date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Troop Movement, Women </term>
+                    <term>Regiment: none </term>
+                    <term>Company: </term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value="2000">Summer 2000</date>
+                <respStmt>
+                    <resp/>
+                    <name>Amy Voorhees</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="F0039T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>This letter to Hougham from a family member describes Union troop movement from
+                    Philadelphia to Reading, Pennsylvania. </p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">David D. Hougham </name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1863-08-04">August 4 1863</date>
+                        <name type="place">Pottsville Schuylkill <abbr expan="County">Co.</abbr></name>
+                    </dateline>
+                    <salute>Dear Brother</salute>
+                </opener>
+                <p>I <orig reg="received">reseived</orig> your letter yesterday about 10 minutes
+                    after reaching here. We left <abbr expan="Philadelphia">Phil.</abbr> friday eve
+                    at 7 <orig reg="o'clock">oclock</orig> and marched to Norristown 16 miles <orig
+                        reg="stopped">stoped</orig> 2 hours and fed and started again and went as
+                    far as <unclear>Trappe</unclear> and fed again there and then left and made
+                    another halt at Pottstown got there at 9 <abbr expan="Saturday">Sat</abbr> eve
+                    and stayed till Sunday eve at 10. When we left for Reading where we arrived at 7
+                    in <orig reg="moving">movng</orig> here we took the cars for Pottsville the
+                    weather during the <pb n="2"/> march was the hottest of the season. We left
+                    Franklin Palmer and one other fellow on the road sick every where along the road
+                    and here we had every thing we could eat. this morning a lot of ladies brought
+                    up enough for us all to have breakfast. we had a good trip, but it was an awful
+                    hard one. the trip from washington to <abbr expan="Philadelphia">Phil.</abbr>
+                    was rather long. we ran an extra train and had to wait for orders at every
+                    station so as to miss other trains. We are up in the coal mine region and we
+                    expect to have business there is <pb n="3"/> 16000 miners to oppose the draft,
+                    800 were drilling 4 miles from here yesterday having left the mines for what
+                    purpose we <orig reg="don't">dont</orig> expect to stay here long but are going
+                    5 or 6 miles up into the mines or mountains for it is all mountains here there
+                    is a mine about 100 <unclear>rods</unclear> from here have not had time to go to
+                    it yet they are raising a Brigade and we shall probably go to the front when we
+                    go from here I did not receive the letters you spoke of only <orig reg="Sarah's"
+                        >Sarahs</orig> and that I answered just before I left <abbr
+                        expan="Philadelphia">Phil.</abbr> here and got<pb n="4"/> here before I did
+                    the trip from <abbr expan="Washington">w</abbr> to <abbr expan="Philadelphia"
+                    >P</abbr> was about the same as when we went down only we got quite hungry and
+                        <orig reg="stopped">stoped</orig> at a station where there <orig reg="were"
+                        >was</orig> 5 <abbr expan="gallon">gal.</abbr> cans filled with milk and I
+                        <unclear>just took</unclear> one of them and it happened to be filled with
+                    cream and we had a big feast and have got the can yet and keep it to put water
+                    in it is quite handy I <orig reg="don't">dont</orig> know as there is any thing
+                    more at present all the boys are well and with us except <unclear>Orb</unclear>
+                    we left him in <abbr expan="Philadelphia">Phil</abbr> Gray and <unclear>
+                        <orig reg="jap">jap</orig>
+                    </unclear> was left but came all the way by <abbr expan="Railroad">RR</abbr> and
+                    got here. <del rend="none" hand="h1"/> we <unclear>shall</unclear> leave this <abbr
+                        expan="County">Co.</abbr> probably so write to Pottsville </p>
+
+                <closer>
+
+                    <salute><del rend="none" hand="h1"/>
+                        <unclear>yours</unclear>
+                        <lb/><unclear>Batt</unclear> A1<hi rend="super">st</hi><del rend="none" hand="h1"/>
+                        <lb/>Pottsville <abbr expan="Pennsylvania">Pa</abbr>
+                    </salute>
+
+                    <signed/>
+                </closer>
+
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+
+<?dlps id="A6137"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A6137">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: John P. Dull to Giney Dull, February 27, 1865</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county john p dull to giney dull, february 27 1865</title>
+        <author>Dull, John P.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Julie Beagle</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Julie Beagle</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A6137</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:502407</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: John P. Dull to Giney Dull, February 27, 1865</title>
+            <title level="m"/>
+            <title type="sort">augusta county john p dull to giney dull, february 27 1865</title>
+            <author>John P. Dull</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>4 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: John P. Dull Letters, Special Collections, James G.
+       Leyburn Library, Washinton and Lee University, Lexington, Virginia</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Special Collections, James G. Leyburn Library, Washington and Lee University</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1865-02-27">1865-02-27</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Military Strategy, Camp Life</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001">Summer 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Jaime Henshaw</name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A6137T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Dull discusses his health and the possible transition of his company to mounted cavalry.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <opener>
+     <dateline>
+      <date value="1865-02-27"><abbr expan="February">Fe<hi rend="super">b</hi></abbr> 27<hi
+        rend="super">th</hi> 1865</date>
+      <name type="place">Camp Ewell</name>
+     </dateline>
+     <salute>Dear Giney</salute>
+    </opener>
+
+    <p>I take this opportunity to drop you a line to let you <orig reg="know">now</orig> that I am
+     well <del rend="none" hand="h1"/>
+     <unclear>usual</unclear> I <orig reg="received">recievd</orig> yours mailed <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/> hear that you <orig reg="were">ware</orig> well and hope this may find you
+     still <orig reg="enjoy">engoy</orig> the same blessing my health has improved since I last
+      <orig reg="wrote">rote</orig> you, the Doctor has never told me what he thought was the matter
+     with me I believe it was all caused by the <orig reg="diarrhea">diarieah</orig>. Dear Giney I
+     have no <orig reg="news">nuse</orig> to <orig reg="write">rite</orig> you today <orig reg="we"
+      >wee</orig> have had orders to send <orig reg="off">of</orig> our <orig reg="extra">extry</orig>
+     <orig reg="baggage">bagage</orig> I did not send <orig reg="any">eney</orig> thing but the
+      <orig reg="Jug">Gug</orig> that you sent with <orig reg="molasses">molasos</orig> in if it is
+     not <orig reg="lost">los</orig> it will come to W<hi rend="super">m</hi> Dunlaps <orig reg="we"
+      >wee</orig> may have to move from <orig reg="here">heare</orig> soon and <orig reg="we"
+     >wee</orig> may not there is no telling how it may <orig reg="be">bee</orig>.</p>
+    <pb n="2"/>
+    <p>I was told this morning that Baylor will <orig reg="be">bee</orig>
+     <orig reg="here">heare</orig> this evening with a box for me this I did not expect if he gets
+      <orig reg="here">heare</orig> before the mail <orig reg="leaves">leavs</orig> I <del rend="none" hand="h1"/>
+     <unclear>tell</unclear> you all about it if it <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/> hope <orig reg="we">wee</orig> may not move <unclear>before</unclear>
+     <orig reg="we">wee</orig> can use it. if <orig reg="we">wee</orig> do I will sell it out the
+     best I can.</p>
+    <p>there is talk of this Brigade being turned to <orig reg="cavalry">cavelry</orig> by the
+     request of the men I do not <orig reg="know">now</orig> how it will <orig reg="be">bee</orig>
+     yet the papers have <orig reg="been">bin</orig> sent up to General Lee. General Gordon has
+      <orig reg="been">bin</orig> assigned to command of the <orig reg="valley">valey</orig> he
+     wants us mounted and assigned to his command. I am afraid this will fail but wish it may not if
+     I must fight I would rather fight in the <orig reg="valley">valey</orig> than <orig
+      reg="anywhere">eney wheare</orig>
+     <orig reg="else">elce</orig>
+     <orig reg="especially">espeshley</orig> if they let us ride the men have<del rend="none" hand="h1"/> to
+      <unclear>move</unclear>
+     <del rend="none" hand="h1"/><pb n="3"/> that is the most of them will furnish their <orig reg="own"
+     >one</orig> horses for my part I would as <orig reg="leave">leaf</orig> my horse would carry me
+     as to be left exposed to <orig reg="be">bee</orig> stolen at home. if it should turn out as
+     they talk I <unclear>will</unclear> let you know as soon as I am <orig reg="sure">shure</orig>
+     of it. I must stop for the present will wait to see if Baylor comes this evening Well I must
+     finish my letter for the mail Baylor has not come yet I will <orig reg="write">right</orig>
+     soon <orig reg="again">a gain</orig> and let you <orig reg="know">now</orig> about the box Tell
+     Nealy I am <orig reg="much">mutch</orig>
+     <orig reg="obliged">obbliged</orig> to <orig reg="her">hear</orig> for her letter will <orig
+      reg="answer">ansure</orig> it soon will direct this as you wish but think it will take a day
+     or two longer before you get it though I may <orig reg="be">bee</orig> mistaken you must excuse
+     me for not <orig reg="writing">rightin</orig> more this time will try and do better next
+      <unclear>time</unclear>
+    </p>
+    <pb n="4"/>
+    <p>Well Baylor has come he came last night he <orig reg="brought">brout</orig> two letters for
+     me one from you and one from Pa the boxes have not come from the railroad yet suppose they will
+     be in today well Giney I <unclear>must</unclear> stop for this time or miss the mail</p>
+    <closer>
+     <salute>so nothing more but<lb/> Remain your affectionate<lb/> husband <abbr expan="until"
+      >till</abbr> death</salute>
+     <signed><abbr expan="John">Jno</abbr> P. Dull</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

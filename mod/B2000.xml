@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+
+<?dlps id="B2000"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B2000">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: Frederick S. Tukey to M.
+                    E. Strieby, August 9, 1865</title>
+        <title type="sort">freedmens bureau records frederick s tukey to m e strieby, august 9 1865</title>
+        <author>Tukey, Frederick S.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B2000</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501115</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: Frederick S. Tukey to M. E. Strieby,
+                            August 9, 1865</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records frederick s tukey to m e strieby, august 9 1865</title>
+            <author>Frederick S. Tukey</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Superintendent of Education for the State
+                            of Virginia, Bureau of Refugees, Freedmen and Abandoned Lands,
+                            1865-1869, Record Group 105, M1053, Roll 6.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1865-08-09">1865-08-09</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Church/Religious Activity, Education, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-06">June 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+                <item>Item checked against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B2000T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Tukey writes to say that he has recently taken up his post in Staunton, and will
+                    not be able to go the Mission House in Portsmouth. He remarks that at least four
+                    teachers will be needed in Staunton, and he gives the name of two he would
+                    recommend.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Rev. M. E. Strieby</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1865-08-09"><abbr expan="August">Aug.</abbr> 9th 1865</date>
+                        <name type="place">Staunton <abbr expan="Virginia">Va</abbr></name>
+                    </dateline>
+                    <salute>Dear Sir</salute>
+                </opener>
+
+                <p>You will probably recollect that some 4 weeks ago I submitted to you through
+                        <abbr expan="Professor">Prof.</abbr> Woodbury, a
+                    <unclear>propposition</unclear> on <orig reg="taking">takeing</orig> charge of
+                    one of your Mission Houses in Portsmouth. Since then I have moved to Staunton,
+                    whilst on my way here I again saw <abbr expan="Professor">Prof.</abbr> Woodbury
+                    and he desired to know if I should <unclear>start</unclear> one in <abbr
+                        expan="Staunton">S.</abbr> on the same <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> I told him yes, he said he would consult you and give me an
+                    answer but I cannot hear a word <pb n="2"/>from him although I <del rend="none" hand="h1"/>
+                    written to him since I went to <abbr expan="New Jersey">N.J.</abbr> Now will you
+                    please take the matter in Hand and give me an <unclear>immediate</unclear>
+                    answer.</p>
+
+                <p>Staunton will be an <unclear>entire</unclear>
+                    <del rend="none" hand="h1"/> field of operations and will want about 4 teachers, and in
+                    order for me to carry out my propositions one of them must be Miss McLeane and
+                    both she and myself would be <orig reg="very">verry</orig> glad to have her
+                    sister, Mrs Dunn come with her.</p>
+
+                <p>Now if you will answer at <unclear>once</unclear> you will greatly oblige</p>
+
+                <closer>
+                    <salute>Your friend and <abbr expan="Obedient Servant">Obt Servt</abbr></salute>
+                    <signed>F.S. Tukey<lb/><abbr expan="Assistant Superintendent">Asst Supt</abbr>
+                        Freedmen &amp;c</signed>
+                    <seg type="postscript">Direct to Staunton via care <abbr expan="Captain"
+                        >Capt</abbr> W. S. <orig reg="How">Howe</orig>
+                        <abbr expan="Assistant Quartermaster">A.Q.M.</abbr></seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

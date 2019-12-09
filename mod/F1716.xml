@@ -1,0 +1,264 @@
+<?xml version="1.0"?>
+
+<?dlps id="F1716"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F1716">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">: Royster, Iowa to , June 29, 1863</title>
+        <title type="sort">royster, iowa to june 29 1863</title>
+        <author>Royster, Iowa</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Virginia Digital History Center Staff</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Heather Weidner</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">10</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F1716</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501437</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>: Royster, Iowa to , June 29, 1863</title>
+            <title level="m"/>
+            <title type="sort">royster, iowa to june 29 1863</title>
+            <author>Royster, Iowa</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Royster Family Papers (#4183),
+                            Southern Historical Collection, Manuscripts Department, Wilson Library,
+                            The University of North Carolina at Chapel Hill</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Southern Historical Collection, University of North Carolina at Chapel Hill</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1863-06-29">1863-06-29</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Troop Movement, Agriculture, Family, Women, Military Authority, Church
+                        Religious Activity</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2006-05">May 2006</date>
+                <respStmt>
+                    <resp/>
+                    <name>Heather Weidner</name>
+                </respStmt>
+                <item>Item proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F1716T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Iowa Royster writes a letter to his mother describing the march into
+                    Pennsylvania, the beauties of the country, and the attitudes of the people. He
+                    mentions being imprisoned for refusing to order men to work on the Sabbath. He
+                    also menions his recent engagement.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                
+
+                <opener>
+                    <dateline>
+                        <date value="1863-06-29">June 29th 1863</date>
+                        <name type="place">Chambersburg, Pa.,</name>
+                    </dateline>
+                    <salute>Dear Ma:</salute>
+                </opener>
+
+                <p>I suppose you saw in the "Progress" newspaper a notice of my appointment to this
+                    regiment. It was quite unexpected. I had made a request to <abbr expan="Captain"
+                        >Capt.</abbr> Nicholson of this <abbr expan="regiment">reg't</abbr> to
+                    recommend me to the <abbr expan="Company">Co.</abbr> but did not expect any good
+                    result. When I read the appointment in the newspaper I was under arrest in my
+                    old company. In a day or two came a note from <abbr expan="Colonel">Col.</abbr>
+                    Barbour of the 37th asking <abbr expan="Colonel">Col.</abbr> Baker to send me to
+                    him as I had been appointed in his regiment. <abbr expan="Colonel">Col.</abbr>
+                    Baker released me from arrest and sent me on with many expressions of goodwill,
+                    and wishes for my future success. The occasion of my arrest was this. <abbr
+                        expan="Colonel">Col.</abbr> Baker gave an order that the 1st sergeants
+                    should call out the men and make them clean out the camp - cut down the trees
+                    and pile up the brush. It was Sunday and I was acting as 1st Sergent of <abbr
+                        expan="Colonel">Co.</abbr> E. I refused to obey the order. I wouldn't make
+                    the men work on the Sabbath, and I was order to go to my tent and consider
+                    myself under arrest. It was less than a week before I heard of my appointment.
+                    The <abbr expan="regiment">reg't</abbr> had two fights with the Yankees while
+                    was under arrest. I didn't have to fight. They had taken my arms from me and
+                    sent me back to the wagon train. So it was a good thing at last.</p>
+
+                <p>On my way to join my <abbr expan="regiment">reg't</abbr>. I came by Winchester
+                    and saw Kate. She had <abbr expan="received">rec'd</abbr>. a letter from you
+                    date in <abbr expan="January">Jan</abbr>. and was preparing to answer it. She
+                    and I are engaged. Tell my Papa that I don't know much her father is worth.
+                    Don't know whether he is worth anything or not - couldn't come within ten
+                    thousand dollars of the amount to save my life. All of his good instructions
+                    lost! Well, "a fool will have his own way." Quick courtship wasn't it? A weeks
+                    acquaintance last September, and two days in June. I congratulate myself on
+                    promptness. Great qualities in a solider. When I left Winchester Kate gave me a
+                    bundle of provisions, a paper of candy, raisins, etc., some hankerchiefs,
+                    trimmed my hat and did a great many things to captivate me.</p>
+
+                <p>I sold my horse for 350 dollars and my saddle for fifty. So I have 400 cash with
+                    me. I wish I could get a chance to send it to Raleigh and settle Mr. Lovejoy's
+                    account. I am so extravagant that I am afraid I shall spend all my money here
+                    and have none, or if I get knocked over by a Minnie I would not like for the
+                    Yankees to get my Confederate.</p>
+
+                <p>I am the only officer present in my company. The men are very clever. There is
+                    not one among them who swears or uses any profane language. There are about
+                    twenty four. When the <abbr expan="company">co.</abbr> started from N. G. it
+                    numbered 126. At Sharpsburg last September only five. The <abbr expan="Captain"
+                        >Capt.</abbr> went back a few days ago on business expecting to join us in a
+                    few days. I fear that the Yankees have got him. He is a member of the Baptist
+                    Church. When the company was first made up, the captain, the three lieutenants
+                    and one private were all preachers. Every regiment in the brigade has a
+                    chaplain; I heard a sermon yesterday. In this brigade there are the 18th, 7th,
+                    33rd, and 37th and 28th <abbr expan="regiments">reg'ts</abbr>. I find a great
+                    many old acquaintances among them, and on the whole have quite a pleasant time.
+                    Everybody told me that my feet would be blistered, but I have been marching
+                    nearly a week and have experienced no inconvenience, though several men have
+                    fallen by the road. There is no straggling. All are compelled to keep up. Those
+                    who are too weak or sick ride in ambulances or wagons. Lee has fully double the
+                    number of men he had at Sharpsburg. Our regiment for instance had only fifty at
+                    Sharpsburg, there are about two hundred and seventy give now. The other
+                    regiments are the same way.</p>
+
+                <p>Yesterday and the day before our soldiers plundered far and wide - taking butter,
+                    milk, apple-butter, fruit, chickens, pigs and horses and everything they could
+                    lay their hands on. The people are frightened out of their senses. "take
+                    anything you want but don't hurt us" is there cry. They are afraid to protest
+                    against anything. It is the most beautifuly country you ever saw, the neatest
+                    farms, fine houses, good fences. The whole country is covered with the finest
+                    crops of wheat, such wheat as is not seen in our country.</p>
+
+                <p>Yesterday, however, <abbr expan="General">Genl.</abbr> Lee sent an order around
+                    that all stealing and plundering should be punished in each case with <hi
+                        rend="underline">death</hi>, that officers should be held accountable for
+                    the execution of his orders, that he made war upon armed men - not upon women
+                    and children. The plundering will be stopped now. I never saw people so
+                    submissive and badly scared as these people in my life. It must be conscience.
+                    They know how their soldiers have desolated Virginia and they fear that ours
+                    will retaliate. But I can't bear it. I hate to take anything when it is given
+                    from fear. Quartermasters and Commissaries and Surgeons are empowered to impress
+                    everything necessary for the use of the army. But men are not allowed to have
+                    anything but what they buy.</p>
+
+                <p>I heard but don't know how true it is that nine of our soldiers were shot
+                    yesterday for taking jewelry from off the persons of the women. The articles of
+                    war make a death the punishment for stealing, and in an enemy's country a
+                    regimental court-martial has the power to inflict this punishment. <abbr
+                        expan="General">Gen.</abbr> Lee seems determined to stop all marauding. I
+                    don't know what place we shall attack, most seem to think <orig reg="Harrisburg"
+                        >Harrissburg</orig>. For my part I want to stay here until the war is over,
+                    and take their towns and beat their armies and live on their people. Lee's men
+                    have unbounded confidence in him. The Yankees are in great perplexity - don't
+                    know what point to re-inforce - don't know whether Lee will attack Harrisburg,
+                    Pittsburg, Baltimore, or Washington. I want to take them all. It is glorious.
+                    All the fences that are burnt now are Yankee fences. They'll be willing for us
+                    to stay out of the Union hereafter. We've come back to the Union, but not as
+                    they expected. Write soon. Direct to <abbr expan="Lieutenant">Lieut</abbr>. Iowa
+                    Royster, 37th N. C. G. Lane's Brigade, Pender's Division, Hill's Corps.</p>
+
+                <closer>
+                    <salute/>
+                    <signed/>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

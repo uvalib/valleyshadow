@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0637"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F0637">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Josiah Bloss to His Sister, August 6, 1864</title>
+        <title type="sort">franklin county josiah bloss to his sister, august 6 1864</title>
+        <author>Josiah Bloss</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Voorhees</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Voorhees</name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. <num type="kilobytes">5</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">F0637</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:501301</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Franklin County: Josiah Bloss to His Sister, August 6, 1864</title>
+            <title level="m"/>
+            <title type="sort">franklin county josiah bloss to his sister, august 6 1864</title>
+            <author>Josiah Bloss</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>2 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Pennsylvania Archives, Bloss Family Collection,
+       1862-1910, Folder 1</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Pennsylvania Archives</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1864-08-06">1864-08-06</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Death/Causalties, Home Front, Troop Movement</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001">Fall 2001 </date>
+        <respStmt>
+          <resp/>
+          <name>Desi Hopkins</name>
+        </respStmt>
+        <item>Proofread against original; corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="F0637T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Bloss writes his sister about their brother William's illness and how it is impossible for
+     him to visit or bring his brother home.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">His Sister</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1864-08-06">Aug. 6<hi rend="super">th</hi>. 1864</date>
+      <name type="place">Washington City, D.C.</name>
+     </dateline>
+     <salute>Dear Sister,</salute>
+    </opener>
+
+    <p>I received yours of the 4<hi rend="super">th</hi>
+     <orig reg="today">to day</orig>. I am <orig reg="sorry">sory</orig> to tell you that I <orig
+      reg="can't">cant</orig> go to see William. we <orig reg="arrived">arived</orig> here last
+     night in Washington. and we are going <orig reg="today">to day</orig> to Maryland to drive the
+     invading rebels from the <orig reg="borders">boaders</orig> of Pennsylvania. I expect we will
+     have a fight with them tomorrow. I am about two hundred and sixty miles from William now. and I
+      <orig reg="can't">cant</orig> go to see him on any account that I can fix it. we <orig
+      reg="were">where</orig> three days on the water coming here with our horses on board. I <orig
+      reg="can't">cant</orig> do anything for William whatever, so you will have to do the best that
+     you can to have him home, take what money I have home and do the best with it you can in having
+     him home &amp; if it <orig reg="don't">dont</orig> reach<pb n="2"/>
+     <orig reg="borrow">borow</orig> money and I will Pay all <orig reg="expenses">expencess</orig>.
+     I have six <orig reg="months">month</orig> Pay coming to me now and I expect to get <orig
+      reg="paid">Pay</orig> in a few days or two weeks.</p>
+
+    <p>I am well and in good health hoping that this will find you the same.</p>
+
+    <closer>
+     <salute>from your Brother</salute>
+     <signed>J. Bloss</signed>
+     <seg type="postscript">my address - Co. K. 17<hi rend="super">th</hi>. Pa. Cavalry<lb/> 2<hi
+       rend="super">nd</hi>. Brig. 1<hi rend="super">st</hi>. Cav. Div.<lb/> Washington, D.C.</seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

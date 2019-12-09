@@ -1,0 +1,254 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9636"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A9636">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title id="VShadow" type="main">Augusta: William Brand to Kate Armentrout, September
+                    15, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta william brand to kate armentrout, september 15 1861</title>
+        <author>Brand, William F.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Jaime Martinez</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">9</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A9636</idno>
+
+                <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+                <availability status="public">
+                    <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the
+                        University of Virginia</p>
+                    <p n="access">Publicly accessible</p>
+                </availability>
+                <date value="2002">2002</date>
+                <idno type="uva-pid">uva-lib:502798</idno>
+            </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: William Brand to Kate Armentrout, September 15, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta william brand to kate armentrout, september 15 1861</title>
+            <author>William Brand</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William Brand Papers, Albert and
+                            Shirley Small Special Collections Library, University of Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Used with permission from Albert and Shirley Small Special Collections Library,
+                    University of Virginia, Charlottesville, Virginia</p>
+            </projectDesc>
+        </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1861-09-15">1861-09-15</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Family, Patriotism, Prisons/Prisoners, Troop Movement</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2007-04-03">2007-04-03</date>
+                <respStmt>
+                    <resp>proofed</resp>
+                    <name>Josh Botts</name>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A9636.xmlT">
+        <front id="d2">
+            <div1 id="d3" type="summary">
+                <p>William describes some of the recent troop movements and engagements in northern
+                    Virginia; he mentions some Union prisoners who seemed uninterested in continuing
+                    the war. He also suggests that Kate does not take his affections for her
+                    seriously.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 id="d5" type="letter">
+                <opener>
+                    <dateline>
+                        <date value="1861-09-15">September 15th 1861</date>
+                        <name type="place">Camp Harman <orig reg="Centreville">Senterville</orig>
+                            Fairfax <abbr expan="County">Co</abbr>
+                            <abbr expan="Virginia">Va</abbr></name>
+                    </dateline>
+                    <salute>My dear Kate</salute>
+                </opener>
+
+                <p>As I have not <orig reg="heard">hurd</orig> from you for a long time, I have
+                    seated my self this <orig reg="beautiful">beautifull</orig> Sabbath morning for
+                    the purpose of dropping you a <orig reg="few">fiew</orig> lines. I have been
+                    looking for a letter from you for some time past. Indeed, I have not <orig
+                        reg="received">recieved</orig> a from Augusta for the last three weeks. I
+                    begin to think that I am <unclear>uttrably</unclear> forsaken no one can tell
+                    the pleasure that it affords, a poor soldier on <orig reg="receiving"
+                    >recieveing</orig> a letter from his friends &amp; acquaintances. It
+                    enlivens his mind &amp; makes him <orig reg="energetic">energetick</orig> in
+                    performing his duties <orig reg="there">thre</orig> is no<del hand="h1">t</del>
+                    news of <orig reg="interest">interrest</orig> to write our advance pickets are
+                    in two miles of the Arlington <orig reg="heights">highths</orig> night before
+                    last <orig reg="Stuart's">Stuards</orig>
+                    <orig reg="Cavalry">Cavelry</orig> seen <orig reg="their">thare</orig> advance
+                    guard across the river. Colonel <orig reg="Stuart">Stuard</orig> said he was in
+                    two miles of Washington <pb n="2"/>
+                    <orig reg="they">thay</orig> took fifteen or twenty Prisoners. John Plunket went
+                    down to fairfax Court house he said he had an interview with some of the
+                    Prisoners two Lieutenants &amp; some privates <orig reg="they">thay</orig>
+                    said <orig reg="they">thay</orig>
+                    <orig reg="were">ware</orig> glad that they had been taken prisoners for <orig
+                        reg="they">thay</orig> did not care which way the victory went that <orig
+                        reg="they">thay</orig> had been forced to come on the soil of <abbr
+                        expan="Virginia">Va.</abbr>
+                    <orig reg="they">thay</orig> said that old Abe <orig reg="promised"
+                    >promest</orig> to keep them in the city for to protect it and after he got them
+                        <orig reg="there">thare</orig> he made them go <orig reg="wherever">whare
+                        ever</orig> he pleased.</p>
+
+                <p>I have <orig reg="no">now</orig> doubt that <orig reg="there">thare</orig> will
+                    be a forward <orig reg="movement">moovement</orig> on our side before long.
+                        <orig reg="Artillery">Artilery</orig> is going down almost <orig reg="every"
+                        >evry</orig> day it is said that we can burn Alexandria Georgetown &amp;
+                    part of Washington from halls hill, that was taken the other night it is said
+                    that we can knock the Washington <orig reg="Aqueduct">Aquiduct</orig> all to
+                    pieces. The red flag waves in full view of the white house <orig reg="every"
+                        >evry</orig> day I reckon that it is very provoking to old Abe, when he
+                    takes his spy glass &amp; looks over into Virginia and <orig reg="there"
+                        >thare</orig> see what he <orig reg="calls">cauls</orig>
+                    <pb n="3"/> the rebel flag waving <orig reg="right">write</orig> under his nose.</p>
+
+                <p>We just <orig reg="heard">hurd</orig> that we would have to move down the road
+                    about four miles. I am glad <orig reg="of">ove</orig> it though we will be <orig
+                        reg="leaving">laveing</orig> a very nice camp and a healthy one. We will be
+                        <orig reg="nearer">neerer</orig> the <orig reg="enemy">enimy</orig>.</p>
+
+                <p><orig reg="There">Thare</orig> are three men walking up and down our <orig
+                        reg="regiment">regament</orig>
+                    <orig reg="carrying">carriing</orig>
+                    <orig reg="their">thare</orig>
+                    <orig reg="knapsacks">napsacks</orig> as a punishment for <orig reg="their"
+                        >thare</orig> misconduct. I <add hand="h1" place="inline">would</add> as
+                        <orig reg="lief">leaf</orig> be shot I believe <orig reg="there"
+                    >thare</orig> is <orig reg="great">grate</orig> injustice done to our Company
+                    since the battle of the 21th of June, <orig reg="enough">enought</orig> to break
+                    our <orig reg="Company">Com.</orig> up but hope it will not have that <orig
+                        reg="effect">affect</orig> for I hope yet to see the Augusta Grays march
+                    back to Greenville after peace is made. I would like very much to see <hi
+                        rend="underline">you</hi> and open my <orig reg="whole">hold</orig>
+                    <hi rend="underline">heart</hi> to you <orig reg="but">put</orig> some times I
+                        <hi rend="underline">think</hi> you care nothing for <hi rend="underline"
+                    >me</hi> what <hi rend="underline">ever</hi>, then it cannot be that <hi
+                        rend="underline">lover</hi> so <hi rend="underline">pure</hi> can be treated
+                    with <hi rend="underline">coldness</hi>
+                    <orig reg="there">thare</orig> seems yet a happy <hi rend="underline"
+                    >future</hi> spread out before me. And I shall enjoy the <orig reg="Camp"
+                    >Camy</orig> prize of freedom. I must soon bring my letter to a close. My health
+                    is very good &amp; hope this short <pb n="4"/> letter will find you enjoying
+                    good health. Your Brother is well and <orig reg="hearty">harty</orig> my
+                    Brothers are both well your friend James V. is well &amp; <orig reg="hearty"
+                        >harty</orig>.</p>
+
+                <p>Give my respects to all <orig reg="inquiring">inquireing</orig> friends. I ask an
+                        <orig reg="interest">interrest</orig> in your prayers that I may hold out
+                        <orig reg="faithful">faith full</orig>
+                    <orig reg="until">untill</orig> the end. Write soon as I am ever <orig
+                        reg="anxious">ancious</orig> to hear from you.</p>
+
+                <closer>
+                    <salute>nothing more <orig reg="but">put</orig> remain your true and sincere <hi
+                            rend="underline">lover</hi>,</salute>
+                    <signed><abbr expan="William">Wm.</abbr> F. B.</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

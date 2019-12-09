@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+
+<?dlps id="A6520"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A6520">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Clinton Hatcher to Mary Anna Sibert, October 8,
+     1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county clinton hatcher to mary anna sibert, october 8 1861</title>
+        <author>Hatcher, Clinton</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Susanna Michele Lee</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Susanna Michele Lee</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">11</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A6520</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:502531</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Clinton Hatcher to Mary Anna Sibert, October 8, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta county clinton hatcher to mary anna sibert, october 8 1861</title>
+            <author>Clinton Hatcher</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>4 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Evans-Sibert Family Papers, 1849-1900, Accession
+       27770, Personal Papers Collection, Virginia State Library and Archives, Richmond,
+      Virginia</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>Included in the Library of Virginia with this letter is a newspaper clipping entitled "Our
+        Leesburg Victory," which notes the death of Clinton Hatcher of Loudoun County, and a small
+        bouquet of flowers tied with a string.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Virginia State Library and Archives, Richmond, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1861-10-08">1861-10-08</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Military Strategy, Women</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2005-02-04">February 4, 2005</date>
+        <respStmt>
+          <resp/>
+          <name>Andre Fleche</name>
+        </respStmt>
+
+        <item>Proofread against original; changes made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A6520T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Clinton Hatcher discusses changes in his regiment, including its possible incorporation into
+     Longstreet's Brigade. Hatcher also asks Mary Sibert whether she could possibly love him.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Miss Mary A Sibert<lb/> Mt. Solon<lb/>Augusta County<lb/>Virginia</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1861-10-08">October 8<hi rend="super">
+        <hi rend="underline">th</hi>
+      </hi> 1861</date>
+      <name type="place">Camp Johnson</name>
+     </dateline>
+     <salute>Dear Miss Mary:</salute>
+    </opener>
+
+    <p>Your <hi rend="underline">very</hi> welcome letter was received from the courier yesterday
+     and although he may have borne despatches of more importance to the Southern Confederacy, yet I
+     am certain that none contained half so much to interest the recipients as did that fair
+     missive. I was afraid at first that you would finally grow weary of writing such long letters
+     to one who could offer so poor a return for them and it rejoices me exceedingly every time I
+     receive another practical assurance that such is not, yet at least, the case.</p>
+
+    <p>It is currently reported here that we are soon to be attached to Longstreet's Brigade, which
+     you know is in the very vanguard of our army. They have been down nearly to Alexandria and are
+     still the advanced Brigade. If I was certain that a battle would take place very soon I would
+     like very much for the "eigth" to be placed under Longstreet as he is a brave man and will be
+     one of the first to commence fighting, but if we are only to be wearied out with marchings and
+     pickett duty I had much rather remain here in Loudon until we cross into Maryland. The news
+     from Jno. is glorious and if we could only get over into Maryland, Beauregard might soon
+     dictate his terms of peace with his cannons leveled at Philadephia. For my part I should like
+     Boston once to hear the roar of our artillery, it would tame the firey spirits of some
+     fanatical leaders. But I am tired of writing on a subject which I hear discussed so incessantly
+     therefore I will change the current to a theme which interests <hi rend="underline">me</hi>
+     infinitely more than <hi rend="underline">all</hi> else on earth your own <hi rend="underline"
+      >dear</hi> (pardon me) self <pb n="2"/> You bid me write all I feel, yet I can not summon
+     courage to tell what I have never told before. I fear--every thing. Yet I have already told you
+     in effect all I would say; my last letter must have conveyed <hi rend="underline">all</hi> to
+     your mind; Can you bid me hope? I know I have no right to infer any thing from what you have
+     said previous to this; it is true you have expressed friendship for me but friendship is cold
+     and formal, and I fear you can give nothing more. Oh! If I could only hold your hand and look
+     into those eyes which have lit the darkest hours of our separation you could then no longer
+     doubt with what feelings I regard <hi rend="underline">you</hi>, you would then know how much I
+      <hi rend="underline">love</hi>. I confess I have dared to hope, from the free and confiding
+     style of your letters that perhaps you could reciprocate my affections, but if I have
+     misconstrued your manner and from false premises formed wrong conclusions please do not blame
+     me, my wishes may have biased my judgement, but if so I deserve sympathy rather than censure. I
+     shall in that event <hi rend="underline">try</hi> to love you more as a sister, and be a friend
+     to the one, who more fortunate than myself, shall gain your hand and priceless love. So far
+     life has been to me a happy dream my wishes have been realised, I have succeeded in my
+     undertakings and fortune has smiled upon me. In school and college I never thought of failing
+     and thought the highest rank only worthy my exertions, but every one must learn to bear
+     disappointments, and if I must endure this, although the sorest of my life, I will try to nerve
+     myself for the sad task. Being alone in the world, having no sister in whom to confide and upon
+     whom to lavish the <pb n="3"/> tender affections of my nature, and no brother whose helping
+     hand could smooth the path of life, I have always longed for some one to <hi rend="underline"
+      >love</hi>, to trust with every secret of my heart one who would seem almost a part of my
+     existence. Although not usually considered sentimental, I do not think love to be a fairy
+     legend of the Poet's brain, but a powerful, enduring passion which binds the heart to that of
+     another, firmly and forever. Such is the <hi rend="underline">love</hi>
+     <hi rend="underline">I</hi> would offer. Can <hi rend="underline">you</hi> receive and requite
+     it? You ask who it is I would <unclear>bide</unclear> you love and encourage me with the
+     assurance that you "could not be so cruel as to deny him all the deep devotion of your fond
+     heart." But you have just said the one you love must be "embelished with the charms of
+     refinement nobleness and goodness." Oh! that the one of whom I spoke could pass that hard
+     ordeal, then it is I, I would bid you love but I feel that the aspirant for that greatest of
+      <hi rend="underline">all</hi>
+     <hi rend="underline">earthly</hi> prizes if weighed in the <orig reg="balance">ballance</orig>
+     would be found wanting. I am certain you have long ago become weary of the subject about which
+     I have been writing, and which my inexperienced pen has rendered so uninteresting. It is indeed
+     a novel undertaking with me to describe the secret attractions and impulses of my heart,
+     feelings never before experienced. But I know you will make sufficient apologies to your own
+     mind for a letter which is from the heart and not the intellect. Please do not neglect to
+     answer all these things in your next for you have no idea how eagerly and impatiently <pb n="4"
+     /> I shall <orig reg="await">awaite</orig> an answer. You need not fear of wearying me no
+     matter how much you may write on <hi rend="underline">that</hi> subject or indeed on any other.
+     The greatest pleasure of my life is in the free and unrestrained communion with kindred
+     spirits, and thoughts and feelings are always more welcome, whose sympathising emotions are
+      <orig reg="far">fare</orig> dearer than all on earth besides.</p>
+
+    <p>Oh! If I could only be free once more and go to the spot, to which my thoughts ever tend, I
+     could be supremely happy, now I cannot help like Moore's lover sighing for the placid
+     "Lake,<lb/> And the light canoe of my dear".<lb/> To be your companion in those boat rides and
+     mountain strolls, to be your escort when you ride and sit beside you when no one else is near
+     and tell you <hi rend="underline">all</hi> I feel, all the depth of my affection for <hi
+      rend="underline">you</hi>, that would be the ultimatum of happiness, my imagination can paint
+     nothing which nearer realises my idea of the "Sunum bonum", the greatest good of all on earth.</p>
+
+    <p>But I must close, I have already wearied you I fear and must not try your patience too far.
+     Please write to me <hi rend="underline">at</hi>
+     <hi rend="underline">once</hi> a long, confiding letter; tell me all, even the worst. I shall
+      <orig reg="wait">waite</orig>
+     <hi rend="underline">so</hi> impatiently for your next letter, but I know you will be punctual,
+     you always are.</p>
+
+    <closer>
+     <salute>Please think sometimes of one who always remembers you, and most truly <hi
+       rend="underline">your</hi>
+      <hi rend="underline">devoted</hi>,</salute>
+     <signed>Clinton</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

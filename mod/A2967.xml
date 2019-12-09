@@ -1,0 +1,259 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2967"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A2967">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: William F. Brand to Amanda C. Armentrout,
+                    November 2, 1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta william f brand to amanda c armentrout, november 2 1863</title>
+        <author>Brand, William F.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Elizabeth Ladner</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">10</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A2967</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502137</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: William F. Brand to Amanda C. Armentrout, November 2, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta william f brand to amanda c armentrout, november 2 1863</title>
+            <author>William F. Brand</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>8 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William F. Brand Papers</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1863-11-02">1863-11-02</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Battle Description, Camp Life, Death/Casualties, Patriotism</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A2967T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>William writes to Kate of the death of Thomas during a recent skirmish, his
+                    thoughts on the Confederacy, and his attempts to give up tobacco.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Miss Amanda C. Armentrout<lb/>Greenville<lb/>Augusta Co<lb/>Va
+                    <name type="recipient">Miss Amanda C. Armentrout</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1863-11-02">Nov 2th 1863</date>
+                        <name type="place">Camp Dale near Brandy Station</name>
+                    </dateline>
+                    <salute>My Dear Friend</salute>
+                </opener>
+
+                <p>I <orig reg="received">recieved</orig> your letters by your Pa last Friday night
+                    was truly glad to hear from you. My health is not very good I have been
+                    suffering for some time with a bad cold &amp; <orig reg="cough"
+                    >coughf</orig> &amp; headache through the day time I think I am getting
+                        <orig reg="somewhat">somwhat</orig> better &amp; hope <orig reg="ere"
+                        >ear</orig> long to be myself again. <orig reg="Hope">hope</orig> this may
+                    find you enjoying health with all other worldly blessings.</p>
+
+                <p>I have sad news to communicate in this; Brother Thomas is no more; He was killed
+                    in the skirmish near Bratton Station the 26th of last month poor Bro never <orig
+                        reg="knew">new</orig> what hurt him he was shot in the left breast <pb n="2"
+                    />the ball ranging through or near the heart. I never <orig reg="knew"
+                    >new</orig> what it was to have a brother shot down in battle before. It seemed
+                    to me at the time that if I had have been owner of the Confederacy I would have
+                    given it to have life restored to his inanimate frame once more I got his body
+                    hauled back to our camp near Brandy I tried all day long the 27th to get a
+                    furlough for John to take his body home but failed Mr. Anderson came down the
+                        <orig reg="eve">eav</orig> of the 27th &amp; I got him to start back
+                    next morning with Brothers corpse. Oh it will be a severe blow on Pa. He had
+                    been from home as it <orig reg="were">ware</orig>, but a few days we <orig
+                        reg="were">ware</orig> born, &amp; we must die. The time allotted to us
+                        <orig reg="here">hear</orig> below is short indeed. If we stretch out over
+                    hands, we may almost touch <pb n="3"/>the portals which terminate the path of
+                    our mortal pilgrimage. If we listen with attention we seem to hear the <orig
+                        reg="labor">labour</orig> of him who is engaged in <orig reg="digging"
+                        >diging</orig> our graves. And if the holy spirit is pleased to open our
+                    ears, we may already <orig reg="discern">descern</orig> the sounds <orig
+                        reg="which">wich</orig> proceed from the celestial abodes, Listen oh my soul
+                    to the warming voice, with the deepest attention, "All flesh is grass &amp;
+                    the glory of man is as the flower of the field, fresh &amp; verdent in the
+                    morning. It adorns the meadows, the sight is gladdened at its beauty, &amp;
+                    it sheds sweet perfume around, In the <orig reg="evening">eavning</orig> it is
+                    cut down &amp; withered. The glory is departed &amp; it tells us that a
+                    few hours must suffice for earthly enjoyment I will trust continually in God let
+                    come what will I know it shall be for my good The drum beats &amp; <pb n="4"
+                    />I have to go on drill just came. Your Pa starts home in the morning I had
+                        <orig reg="heard">hurd</orig> how badly Mr. Neff treated Kate B I am sorry
+                    indeed never would have thought Neff to be such a man I must say I was duped in
+                    him. The person that told your Ma that I knew he was going to fool her was
+                    certainly mistaken for I never spoke of such a thing any one poor Kate has my
+                        <orig reg="sympathies">simpathies</orig> Tell Lizzie I wish her much luck
+                    but she must not get married while the war lasts so all her friends may get to
+                    see her off. Did I not write to you my reasons for not getting to see your Cous
+                    Lizzie before leaving Staunton If I never I will now. I was <orig reg="running"
+                        >runing</orig> around through town <orig reg="until">untill</orig> late then
+                    I went out to the provost camp fully intending to come back before dark but your
+                    cous, insisted on me staying with them &amp; that I would have plenty of
+                    time in the morning before the cars would start so I stayed <pb n="5"/>Early the
+                    next morning I went to town the first <orig reg="place">plase</orig> was to Mrs
+                    Stevison Shop &amp; <orig reg="there">thare</orig> was no one <orig
+                        reg="there">thare</orig> then I went to the post office to try and get some
+                    postage stamps &amp; <orig reg="there">thare</orig>
+                    <orig reg="there">thare</orig> was no one up so I waited awhile then went back
+                    to Bro S Shop &amp; no one had came yet I was about to start to Mrs S
+                    dwelling house when the cars warned me by <orig reg="their">thare</orig> whistle
+                    they <orig reg="were">ware</orig> about to be off I was sorry indeed that I did
+                    not get to see Miss L before leaving town as I only had a few minutes
+                    conversation but I was to blame for idling my time the <orig reg="evening"
+                        >eavning</orig> before hope she will excuse me as it can not be <orig
+                        reg="helped">helpt</orig> now I could not have stayed all night as I had <pb
+                        n="6"/>Brother Tom to take care <orig reg="of">off</orig>. I <orig
+                        reg="received">recieved</orig> the cheese you sent me was very <orig
+                        reg="thankful">thankfull</orig> indeed as it was a nice little treat then
+                    the giver made it so much better you <orig reg="said">sad</orig> you would like
+                    to send me a box; Dear Kate you know I <orig reg="don't">dont</orig> expect such
+                    things but your noble heart is so kind &amp; generous that you seem to never
+                    tire in giving I hope the time is not far distant when I may constantly eat of
+                    your <orig reg="baking">paking</orig>. Poor Jinnie she has bad luck hope her
+                    wound will not cost her a <orig reg="doctor">docter</orig> fee. Again you
+                    admonish me to quit chewing <orig reg="tobacco">topackco</orig> It is my only
+                    toothache preserver I had quit chewing for a day or two when my tooth commenced
+                    aching I immediately recommenced using the weed The drum beats for dress <orig
+                        reg="parade">perrade</orig>
+                    <pb n="7"/>It is nearly dark &amp; I will have to close my letter <orig
+                        reg="the">they</orig> boys are generally well Hunter complains of the <orig
+                        reg="rheumatism">rhumatism</orig> Bro John is well I would write more but we
+                    have no <orig reg="candles">candels</orig> I ask your <orig reg="sympathies"
+                        >simpathies</orig> in my late <orig reg="bereavement">berevement</orig> I
+                    will have to have my tooth <orig reg="pulled">pooled</orig> then I will try and
+                    quit chewing If I <orig reg="succeed">sucseed</orig> I will let you know you
+                    must write soon</p>
+
+                <closer>
+                    <salute>nothing more but remain your true friend</salute>
+                    <signed>W</signed>
+                    <seg type="postscript">PS My respects to all the girls excuse bad writing
+                        &amp; <orig reg="spelling">speling</orig><lb/>yours W.F.B. <pb n="8"
+                        />Jim Vines has no files not to make rings with at present lost them all in
+                        the campagin to <orig reg="Pennsylvania">Pensylvania</orig> will try and get
+                        it made this winter I am sorry that it is not done as I have such a good
+                        chance of sending it to you yours &amp;c.<lb/>W</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

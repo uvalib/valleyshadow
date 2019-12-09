@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+
+<?dlps id="A0809"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+
+<!ENTITY garb9a SYSTEM "uva-lib:503034" NDATA uvaHighRes>
+<!ENTITY garb9b SYSTEM "uva-lib:503035" NDATA uvaHighRes>
+<!ENTITY garb9c SYSTEM "uva-lib:503036" NDATA uvaHighRes>
+]>
+  
+<TEI.2 id="A0809">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Thomas Garber to Albert Garber, September 25,
+     1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county thomas garber to albert garber, september 25 1862</title>
+        <author>Garber, Thomas</author>
+        <editor> </editor>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Alice Carter</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Murrell</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">9</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A0809</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>copyright 1998, by the Rector and Visitors of the University of Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1998 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1998">1998</date>
+        <idno type="uva-pid">uva-lib:503033</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Thomas Garber to Albert Garber, September 25, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta county thomas garber to albert garber, september 25 1862</title>
+            <author>Thomas Garber</author>
+            <editor> </editor>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p> </p>
+          </editionStmt>
+          <extent>3 pages</extent>
+          <publicationStmt>
+            <publisher> </publisher>
+            <pubPlace> </pubPlace>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Garber Family Letters, Augusta County Historical
+       Society, Staunton, Virginia </idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>The upper left corner of page two is missing.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Augusta County Historical Society, Staunton, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1862-09-25">1862-09-25</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Battle Description, Family, Military Strategy, Prisons/Prisoners, Troop Movement</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2000">Summer 2000</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Voorhees</name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A0809T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Thomas Garber describes the activities of his regiment since leaving the Valley.</p>
+   </div1>
+  </front>
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <opener>
+     <pb n="1" entity="garb9a" pid="uva-lib:503034"/>
+    
+
+     <name type="recipient">Albert Garber</name>
+
+     <dateline>
+      <date value="1862-09-25">Sept 25<hi rend="super">th</hi> 1862</date>
+     </dateline>
+     <salute>Dear Father</salute>
+    </opener>
+
+    <p>In the last few weeks I have received several letters from Addie complaining that I did not
+     write home <orig reg="at all">atall</orig> but she is mistaken for I have written you one
+     letter I have sent one to Kate and have written 3 o 4 times to Addie Addie <orig reg="also"
+      >allso</orig> complained that you know nothing about me at home when we were at Harrisonburg I
+     wrote <orig reg="home">hom</orig> that I had <orig reg="joined">join</orig> Co. I. Capt C
+     Ferralls Company and that Regiment was the 12<hi rend="super">th</hi> V<hi rend="super">a</hi>
+     and now I will try to give you an account of <orig reg="myself">my self</orig> since we left
+     the Valley. The Col. has just given orders to saddle up I will finish this the first
+     opportunity (Sept. 26) We passed through Charlestown yesterday &amp; have encamped 4 or 5
+     miles of that place. We left <orig reg="Harrisonburg">Harrison burg</orig> on the 1<hi
+      rend="super">st</hi> day of August and after a march of 20 or 25 miles we encamped near John
+     Lewis and on the next night we stayed at Michums River <orig reg="where">were</orig> we laid
+     over Sunday cousin <orig reg="Jenny">Jenney</orig> brought the Col a box which did a <orig
+      reg="heap">heep </orig> of good on the next night <del hand="h1">last we</del> we stayed <del
+      hand="h1">on</del> 7 miles <orig reg="from">form</orig>
+     <orig reg="Charlottesville">Charloatesville</orig> we laid over there to await orders from Gen
+     Jackson we were encamped near <unclear>Cobhan</unclear> Depot I rode out to <orig reg="see"
+     >se</orig> if I could hear <orig reg="anything">any thing</orig> of Mr. Lewis I found his
+     Father and Told Nicky had gone to Halifax to finish his education and was there arrested as a
+     conscript put in the guard house and sent to Richmond where he got an appointment in the Q.M.
+     Office. We left that neighborhood on the next day and every <pb n="2" entity="garb9b" pid="uva-lib:503035"/>
+      * <del rend="none" hand="h1"/> has <orig reg="almost">allmost</orig>
+     <orig reg="passed">past</orig> like a dream since that <del rend="none" hand="h1"/> had a good deal of hard
+      <orig reg="marching">marcing</orig>
+     <orig reg="both">booth</orig> day and night. We laid around while they were fighting <orig
+      reg="until">untill</orig>
+     <orig reg="Saturday">Satherday</orig> when the whole Brigade started out full gallop for about
+     2 miles when our Regiments &amp; the 7<hi rend="super">th</hi> and the 2<hi rend="super"
+     >nd</hi> and 6<hi rend="super">th</hi> went on before as fast as they could gallop. I did not
+     know <orig reg="what ">wat</orig> is <orig reg="meant">ment</orig> when old Stuart came and
+     ordered Col Harman up with his Regiment and we galloped a quarter of a mile and met the 2<hi
+      rend="super">nd</hi>
+     <orig reg="running">runing</orig>
+     <orig reg="away">a way</orig> we <orig reg="passed">past</orig> on through them to where I
+     thought the 7<hi rend="super">th</hi> was drawn up line when we got in 50 yards of them I found
+     out my mistake for I could see the stars &amp; stripes plainly then the Col ordered a
+     charge I made right for the flag and shot at it once but lost sight of it &amp; then <del
+      hand="h1">met up</del>
+     <orig reg="cought">cought</orig> up to a yankee <orig reg="running">runing</orig> like blazes I
+     shot him through the back and <orig reg="tried">tryed</orig> to get him but he fell <orig
+      reg="off">of</orig> of his horse and I went on to where the Col was he had halted near Bull
+     run and <orig reg="tried">tryed</orig> to form the Regt on the top of the hill the other side
+     of the Run there was 25 or 30 Yanks Capt Ford <orig reg="passed">past</orig> on &amp; told
+     me to come on with the flag I passed on in the creek and the whole line fired at me but did not
+     hurt <orig reg="anyone">any one</orig> but came all around us we charged up the hill and broke
+     the line and then Capt Ford myself and two other men galloped off to left and captured 34
+     yankees 8 horses &amp; two ambulances which were brought in to camp <pb n="3" entity="garb9c" pid="uva-lib:503036"/>
+     8 of the men we <orig reg="brought">brout</orig> in I captured myself
+     12 of them and the Ambulances I and one of the took together. In the first part of the fight I
+     lost my old black hat and the first yankee I met I told him to give me his hat which he did the
+     next one I met had a <orig reg="brand">bran</orig> new one so I traded with him Dear Father
+      <unclear>Bunch</unclear> is about starting I can not write any more I do not think because I
+     do not write often it is because I do not want to or that I do not <orig reg="wish"
+     >whish</orig> to hear from you for the true reason of my not writing <del hand="h1">when I have
+      time I two am tired when time do not think I am busy all the for often we do not see the
+      wagons for 5 or 6 days</del> we are <orig reg="moving">moveing</orig> around all the time and
+     we are very seldom with the wagons Give my love to Ma, Addie, Kate and sister Ellen and tell
+     them all to write to me and write soon your self to your</p>
+
+    <closer>
+     <salute>Affectionate son</salute>
+     <signed>Tho M Garber</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+
+<?dlps id="A1110"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A1110">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Willie Gilkeson to H W Gilkeson,
+                    October 31, probably 1867</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county willie gilkeson to h w gilkeson, october 31 probably 1867</title>
+        <author>Willie Gilkeson</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Matt Speiser</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Matt Speiser</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A1110</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501913</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Willie Gilkeson to H W Gilkeson, October 31, probably
+                            1867</title>
+            <title level="m"/>
+            <title type="sort">augusta county willie gilkeson to h w gilkeson, october 31 probably 1867</title>
+            <author>Willie Gilkeson</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Hugh W. Gilkeson Collection,
+                            SHC-052, Northwest Georgia Document Preservation Project, Shorter
+                            College, Rome, Georgia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Northwest Georgia Document Preservation Project, Shorter College, Rome, Georgia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="-10-31">18xx-10-31</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Agriculture, Family</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2005">Summer 2005</date>
+                <respStmt>
+                    <resp/>
+                    <name>Douglas Michael O'Reagan</name>
+                </respStmt>
+                <item>Proofread.</item>
+            </change>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A1110T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Willie, a boy, writes to his father, telling him about his studies, a recent
+                    snowfall, and life with his uncle.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Mr. H. W. Gilkeson<lb/> Summerville<lb/> Chattooga Co<lb/> Georgia</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="-10-31">Oct 31<hi rend="super">
+                                <hi rend="underline">st</hi>
+                        </hi></date>
+                        <name type="place">Brookfield</name>
+                    </dateline>
+                    <salute>My dear Father-</salute>
+                </opener>
+
+                <p>We went to Staunton a week or two ago and had our pictures taken for you which we
+                    send in this letter.</p>
+                <p>We have been gathering walnuts and have got our hands stained - we did not get
+                    many hickory nuts this year. I went<pb n="2"/> with Uncle David last saturday
+                    after his cattle They have been doing very badly - he has lost two or three. The
+                    Thresher has just now come and will finish the wheat this time. We had a <hi
+                        rend="underline">big</hi> snow last night but it has nearly all melted
+                    already The limbs of some of the trees were bent to the ground It was a fine
+                    sight this<pb n="3"/> morning. Uncle David has gathered all his winter apples -
+                    has about 30 bushels of bellflowers. I expect he will have more than 200 bushels
+                    in all.</p>
+                <p>I believe I like Geography the best of my studies Sister likes <orig
+                        reg="Arithmatic">Arithmetic</orig> best. I think Lillie can memorize the
+                    quickest but I <orig reg="don't">dont</orig> know which can recollect the
+                        longest<pb n="4"/> Uncle <abbr expan="David">D</abbr> has gone to attend Mrs
+                    Tate's sale today I am at the 27<hi rend="super">
+                        <hi rend="underline">th</hi>
+                    </hi> question in the Shorter catechism.</p>
+                <p>There are 50 cords of wood hauled for winter.</p>
+                <p>Give my love to all of them at home. Write soon to</p>
+
+                <closer>
+                    <salute>Your affectionate</salute>
+                    <signed>Willie</signed>
+                    <seg type="postscript">
+                        <name type="recipient">Mr H W Gilkeson</name>
+                    </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

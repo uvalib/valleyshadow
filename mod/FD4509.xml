@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+
+<?dlps id="FD4509"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="FD4509"> 
+<teiHeader type="migrated"> 
+
+    <fileDesc> 
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Diary of Early, Jubal Anderson (1864)</title>
+        <title type="sort">franklin county diary of early, jubal anderson 1864</title>
+        <author>Early, Jubal Anderson</author>
+        <editor/>
+        <respStmt> 
+          <resp>Creation of machine-readable version: </resp> 
+          <name>University of North Carolina at Chapel Hill Staff</name> 
+          <resp>Conversion to TEI.2-conformant markup:</resp> 
+          <name>Heather Weidner, Virginia Center for Digital History</name> 
+        </respStmt>
+      </titleStmt> 
+
+      <extent>
+        <num type="kilobytes"> 12 kilobytes</num>
+      </extent> 
+      <publicationStmt> 
+        <publisher>Virginia Center for Digital History</publisher> 
+        <pubPlace>Charlottesville, Virginia </pubPlace> 
+
+        <idno type="VCDH">FD4509</idno> 
+
+        <!--
+<availability> 
+<p>Publicly accessible </p> 
+<p n="public">URL: http://valley.vcdh.virginia.edu/</p> 
+<p>copyright 1993-2005, by the Rector and Visitors of the University of Virginia</p> 
+</availability>
+--> 
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date> 
+        <idno type="uva-pid">uva-lib:500362</idno>
+      </publicationStmt> 
+      <seriesStmt> 
+        <p>Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt> 
+      <notesStmt>
+        <note/>
+      </notesStmt> 
+
+      <sourceDesc> 
+        <biblFull> 
+          <titleStmt>
+            <title>Franklin County: Diary of Early, Jubal Anderson</title>
+            <title level="m"/>
+            <title type="sort">franklin county diary of early, jubal anderson</title>
+            <author>Early, Jubal Anderson</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt> 
+          <editionStmt> 
+            <p> </p> 
+          </editionStmt> 
+          <extent>5 pages</extent> 
+          <publicationStmt> 
+            <publisher/> 
+            <pubPlace/> 
+
+            <idno type="callNo">Source copy consulted: Autobiographical Sketch and Narrative of the War Between the States: Electronic Edition, University of North Carolina at Chapel Hill, Documenting the American South</idno> 
+          </publicationStmt> 
+          <seriesStmt>
+            <p/>
+          </seriesStmt> 
+          <notesStmt> 
+            <note/>
+          </notesStmt> 
+        </biblFull> 
+      </sourceDesc> 
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from University of North Carolina at Chapel Hill</p>
+      </projectDesc>
+    </encodingDesc> 
+
+    <profileDesc> 
+      <creation/>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage> 
+      <textClass> 
+        <keywords> 
+          <term>Battle Description, Death / Casualties, Military Authority, Military Strategy, Troop Movement</term> 
+          <term>American Civil War</term>
+        </keywords> 
+      </textClass> 
+    </profileDesc> 
+
+    <revisionDesc> 
+      <change> 
+        <date value="2006-05">May 2006 </date>
+        <respStmt>
+          <resp/>
+          <name>Heather Weidner</name>
+        </respStmt> 
+        <item>Item proofread against original; corrections made.</item> 
+      </change> 
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc> 
+  </teiHeader> 
+
+<text id="FD4509T">
+
+<front id="d2">
+<div1 type="summary" id="d3">
+<p>Lieutenant General Jubal Early records his post-war memories of the burning of Chambersburg and the events immediately following.  He offers some explanation for his decisions.</p>
+<p></p> 
+</div1> 
+</front>
+
+<body id="d4">
+  <div1 type="entry" id="d5">
+<head>Chapter XLIII:  The Burning of Chambersburg</head>
+
+<p>ON the 26th we moved to Martinsburg, the cavalry going to the Potomac. The 27th and 28th were employed in destroying the railroad, it having been repaired since we passed over it at the beginning of the month. While at Martinsburg, it was ascertained that while we were near Washington, after Hunter's return to the Valley, by his orders, a number of private residences had been burned,--among them the homes of Mr. Alex. R. Boteler, an ex-member of the Confederate Congress, of Mr. Andrew Hunter, a member of the Virginia Senate, and of Mr. Edmund I. Lee, a distant relative of General Lee,--all in Jefferson County, with their contents, only time enough being given for the ladies to get out of their houses. A number of towns in the South, as well as private country houses, had been burned by the Federal troops. I came to the conclusion it was time to open the eyes of the people of the North to this enormity, by an example in the way of retaliation. I did not select the cases mentioned, as having more merit or greater claims for retaliation than others, but because they had occurred within the limits of the country covered by my command and were brought more immediately to my attention.</p>
+ 
+<p>The town of Chambersburg in Pennsylvania was selected as the one on which retaliation should be made, and McCausland was ordered to proceed, with his brigade and that of Johnson and a battery of artillery, to that place, and demand of the municipal authorities the sum of $100,000 in gold or $500,000 in U. S. currency, as a compensation for the destruction of the houses named and their contents; and in default of payment, to lay the town in ashes. A written demand to that effect was sent to the authorities, and they were informed what would be the result of a failure or refusal to comply with 
+
+<pb n="2"/>it: for I desired to give the people of Chambersburg an opportunity of saving their town, by making compensation for part of the injury done, and hoped the payment of such a sum would have the effect of causing the adoption of a different policy. McCausland was also directed to proceed from Chambersburg towards Cumberland, Maryland, and levy contributions in money upon that and other towns able to bear them, and if possible destroy the machinery of the coal pits near Cumberland and the machine shops, depots and bridges on the Baltimore &amp; Ohio Railroad as far as practicable.</p>
+ 
+<p>On the 29th, McCausland crossed the Potomac near Clear Spring above Williamsport, and I moved with Rodes' and Ramseur's divisions and Vaughan's cavalry to the latter place, while Imboden demonstrated with his and Jackson's cavalry towards Harper's Ferry, in order to draw attention from McCausland. Breckenridge remained at Martinsburg and continued the destruction of the railroad. Vaughan drove a force of cavalry from Williamsport, and went into Hagerstown, where he captured and destroyed a train of cars loaded with supplies. One of Rodes' brigades was crossed over at Williamsport and subsequently withdrawn. On the 30th, McCausland being well under way I moved back to Martinsburg, and on the 31st, the whole infantry force was moved to Bunker Hill, where we remained on the 1st, 2nd, and 3rd of August.</p>
+
+<p>On the 4th, in order to enable McCausland to retire from Pennsylvania and Maryland, and to keep Hunter, who had been reinforced by the 6th and 19th corps, and had been oscillating between Harper's Ferry and Monocacy Junction, in a state of uncertainty, I again moved to the Potomac with the infantry and Vaughan's and Jackson' cavalry, while Imboden demonstrated towards Harper's Ferry. On the 5th, Rodes' and Ramseur's divisions crossed at Williamsport and took position near St. James' College and Vaughan's cavalry went into Hagerstown. Breckenridge, with his command, and
+ 
+<pb n="3"/>Jackson's cavalry, crossed at Shepherdstown, and took position at Sharpsburg. This position is in full view from Maryland Heights, and a cavalry force was sent out by the enemy to reconnoitre, which, after skirmishing with Jackson's cavalry, was driven off by the sharpshooters of Gordon's division. On the 6th, the whole force recrossed the Potomac at Williamsport, and moved towards Martinsburg, and on the 7th we returned to Bunker Hill*.</p>
+
+<pb n="4"/><p>On the 30th of July McCausland reached Chambersburg and made the demand as directed, reading to such of the authorities as presented themselves the paper sent by me. The demand was not complied with, the people stating that they were not afraid of having their town burned, and that a Federal force was approaching. The policy pursued by our army on former occasions had been so lenient that they did not suppose the threat was in earnest this time, and they hoped for speedy relief. McCausland, however, proceeded to carry out his orders, and the greater part of the town was laid in ashes.*</p> 
+
+<p>He then moved in the direction of Cumberland, but on approaching that town, he found it defended by a force under Kelly too strong for him to attack, and he withdrew towards Hampshire County in Virginia, and crossed the Potomac near the mouth of the South Branch, capturing the garrison at that place and partially destroying *
+
+<pb n="5"/>the railroad bridge. He then invested the post on the railroad at New Creek, but finding it too strongly fortified to take by assault, he moved to Moorefield in Hardy County, near which he halted to rest and recruit his men and horses, as the command was now considered safe from pursuit. Averill, however, had been pursuing from Chambersburg with a body of cavalry, and Johnson's brigade was surprised in camp, before day, on the morning of the 7th of August, and routed by Averill's force. This resulted also in the rout of McCausland's brigade, and the loss of the artillery (4 pieces), and about 300 prisoners from the whole command. The balance of the command made its way to Mount Jackson in great disorder, and much weakened. This affair had a very damaging effect upon my cavalry for the rest of the campaign.</p>
+</div1>
+
+<div1 id="FD4509notes" type="notes">
+<head>Notes
+<!-- <ref>FD4509notes</ref> -->
+</head>
+
+<note n="1" place="end"  id="Early1"><seg type="note-symbol">*</seg><p>* While at Sharpsburg on this occasion, I rode over the ground on which the battle of Sharpsburg or Antietam, as it is called by the enemy, was fought, and I was surprised to see how few traces of that great battle remained. In the woods at the famous Dunkard or Tunker Church, where, from personal observation at the battle, I expected to find the trees terribly broken and battered, a stranger would find difficulty in identifying the marks of the bullets and shells.</p> 
+</note>
+  <note n="1" place="end"  id="Early2"><seg type="note-symbol">*</seg><p>I will take occasion here to say that the public, North or South, has never known how small was the force with which General Lee fought that battle. From personal observation and conversation with other officers engaged, including General Lee himself, I am satisfied that the latter was not able to carry 30,000 men into action. The exhaustion of our men, in the battles around Richmond, the subsequent battles near Manassas, and on the march to Maryland, when they were for days without anything to eat except green corn, was so great, that the straggling was frightful before we crossed the Potomac. As an instance of our weakness, and a reminiscence worthy of being recorded, which was brought forcibly to my mind while riding over the ground, I state the following facts; in the early part of the day, all of General Jackson's troops on the field except my brigade (A. P. Hill had not then arrived from Harper's Ferry) were driven from the field in great disorder, and Hood had taken their place with his division.</p>
+ </note>
+  <note n="1" place="end"  id="Early3"><seg type="note-symbol">*</seg><p>My brigade, which was on the extreme left, supporting some artillery with which Stuart was operating, and had not been engaged, was sent for by General Jackson and posted in the left of the woods at the Dunkard Church. Hood was also forced back, and then the enemy advanced to this woods--Sumner's corps, which was fresh, advancing on our left flank. My brigade, then numbering about 1000 men for duty, with two or three hundred men of Jackson's own division, who had been rallied by Colonels Grigsby and Stafford, and with an interval of at least one-half a mile between us and any other part of our line, held Sumner's corps in check for some time, until Green's division, of Mansfield's corps, penetrated into the interval in the woods between us and the rest of our line, and I was compelled to move by the flank and attack it. That division was driven out of the woods by my brigade, while Grigsby and Stafford skirmished with Sumner's advancing force, when we turned on it, and with the aid of three brigades--to wit: Anderson's, Semmes' and Barksdale's--which had just arrived to our assistance, drove it from the woods in great confusion and with heavy loss. So great was the disparity in the forces at this point that the wounded officers who were captured were greatly mortified, and commenced making excuses by stating that the troops in their front were raw troops who stampeded and produced confusion in their ranks. McClellan, in his report, states that Sumner's corps and Green's division encountered in this woods "overwhelming numbers behind breastworks," and he assigns the heavy losses and consequent demoralization in Sumner's corps as one of the reasons for not renewing the fight on the 18th. We had no breastworks or anything like them in that woods on the 17th, and, on our part, it was a stand up fight there altogether. The slight breastworks subsequently seen by McClellan were made on the 18th, when we were expecting a renewal of the battle.</p>
+         </note>
+  <note n="1" place="end"  id="Early4"><seg type="note-symbol">*</seg><p>* For this act I, alone, am responsible, as the officers engaged in it were simply executing my orders, and had no discretion left them. Notwithstanding the lapse of time which has occurred and the result of the war, I see no reason to regret my conduct on this occasion.</p>
+</note>
+</div1>
+</body>
+</text>
+</TEI.2>

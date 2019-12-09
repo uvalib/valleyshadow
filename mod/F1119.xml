@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+
+<?dlps id="F1119"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F1119">
+   <teiHeader type="migrated">
+
+      <fileDesc>
+         <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Franklin Rosenbery to his family,
+               January 3, 1864</title>
+        <title type="sort">franklin county franklin rosenbery to his family, january 3 1864</title>
+        <author>Rosenbery, Franklin</author>
+        <editor/>
+        <respStmt>
+               <resp>Creation of machine-readable version: </resp>
+               <name>Matt Speiser</name>
+               <resp>Conversion to TEI.2-conformant markup:</resp>
+               <name>Matt Speiser</name>
+            </respStmt>
+      </titleStmt>
+
+         <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+         <publicationStmt>
+            <publisher>Virginia Center for Digital History</publisher>
+            <pubPlace>Charlottesville, Virginia </pubPlace>
+
+            <idno type="VCDH">F1119</idno>
+
+        <!--
+            <availability>
+               <p>Publicly accessible </p>
+               <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+               <p>Text and images (c) copyright 2002, by the Rector and Visitors of the University
+                  of Virginia</p>
+            </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+            <date value="2002">2002</date>
+         <idno type="uva-pid">uva-lib:501415</idno>
+      </publicationStmt>
+         <seriesStmt>
+            <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+         </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+         <notesStmt>
+            <note/>
+         </notesStmt>
+
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+            <title>Franklin County: Franklin Rosenbery to his family, January 3, 1864</title>
+            <title level="m"/>
+            <title type="sort">franklin county franklin rosenbery to his family, january 3 1864</title>
+            <author>Franklin Rosenbery</author>
+            <editor/>
+            <respStmt>
+                     <resp/>
+                     <name/>
+                  </respStmt>
+          </titleStmt>
+               <editionStmt>
+                  <p/>
+               </editionStmt>
+               <extent> pages</extent>
+               <publicationStmt>
+                  <publisher/>
+                  <pubPlace/>
+                  <date value=""/>
+                  <idno type="callNo">Source copy consulted: Kittochtinney Historical Society,
+                     Chambersburg, PA</idno>
+               </publicationStmt>
+               <seriesStmt>
+                  <p/>
+               </seriesStmt>
+               <notesStmt>
+                  <note/>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Kittochtinney Historical Society, Chambersburg, PA</p>
+      </projectDesc>
+    </encodingDesc>
+
+      <profileDesc>
+         <creation>
+            <date value="1864-01-03">1864-01-03</date>
+         </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+         <textClass>
+            <keywords>
+               <term>Camp Life, Church/Religious Activity, Death/Casualties, Family, Home Front,
+                  Patriotism</term>
+               <term>American Civil War</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+
+      <revisionDesc>
+         <change>
+            <date value="2005-07">July, 2005</date>
+            <respStmt>
+               <resp/>
+               <name>Kid W.</name>
+            </respStmt>
+            <item>Proofread against original; corrections made.</item>
+         </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+   </teiHeader>
+
+   <text id="F1119T">
+      <front id="d2">
+         <div1 type="summary" id="d3">
+            <p>Rosenbery responds to the news of his family, including that of his grandmother's
+               death. He offers praise to God and allegiance to country. Rosenbery then forcefully
+               writes that his acquantance, John Markey, should return his tools.</p>
+         </div1>
+      </front>
+
+      <body id="d4">
+         <div1 type="letter" id="d5">
+            
+
+            <opener>
+               <dateline>
+                  <date value="1864-01-03">January 3, 1864</date>
+                  <name type="place">Army of the Potomac<lb/> Stephensville, <abbr expan="Virginia"
+                     >Va.</abbr></name>
+               </dateline>
+               <salute>Dear Family:</salute>
+            </opener>
+
+            <p>Your <orig reg="letters">leters</orig> of December 27th came to hand yetserday
+               evening. I was glad to hear that you was well and Brother William and Sister Eliza
+               was recovering from their illness. Sorry to hear that Jonas must still be troubled
+               with them spells and sorry to hear of Grandmother's death but the Lord giveth and the
+               Lord taketh. Blessed by the Lord. I hope she is praising God in Heaven.</p>
+            <p>Where there is no war or no trouble to contend with. But all is joy and peace.</p>
+            <p>Well, I hope Brother John is well and Solomon I hope is well and obeying his parents
+               so that when he has to be away from home he will not have that trouble to think of.
+               If this should be his lot but I hope he will enjoy the presence of his parents awhile
+               he lives and the rest of my sisters and step mother are well and enjoying health
+               which is the richest of God's Blessings.</p>
+            <p>This is the Sabbath Morning and finds me in good company while living a soldier's
+               life for my country's sake.</p>
+            <p>By the help and grace of God I am trying to live a soldier for Jesus. May God keep me
+               faithful and all those that desire His Salvation.</p>
+            <p>Well, now, concerning John Markey...I would advise him, as a friend, to return them
+               tools home and in as good order as I left them. And if they are not all in the chest
+               or any of them broke he shall stand good from them. As to selling them-under any
+               circumstances whatever I intend using them myself if I live.</p>
+            <p>This is not going to last forever and if I never get home the tools will not eat
+               anything.</p>
+            <p>Now, I ask you to bring them home immediately-no matter where they are and if he does
+               not watch I shall sue him for stealing them as he had no orders to move them.</p>
+            <p>I could not tell whether the tools was at Stephen Keeffer's. As you had not writ it
+               very plain but no matter where they are. You get them home and when you get them. Let
+               me know and then if I can see the point I will pay.</p>
+            <p>I think that I can see the point. You make some inquiry to this affect and see if I
+               can hold his pay till him and Joseph Markey pays you. If I can I will pay him in his
+               own <orig reg="coin">coine</orig>. I will try here and name the tools:-<lb/> 1
+               joiner<lb/> 1 Face plane<lb/> 1 smoothing plane<lb/> Jack plane<lb/> 2 sets plow and
+               grooves<lb/> 1 rabbit <hi rend="super">1/4</hi> head 5/8 head<lb/> Roof <orig
+                  reg="bevel">Bevit</orig> Trying Square Steel Square <orig reg="Compasses"
+               >Compases</orig> 9 Thuset <orig reg="gauges">guages</orig> hand saw-tenant saw-three
+               lurges-chisel- a lot of small chisels. I can't give the number. Saw set-<orig
+                  reg="whetstone">whet stone</orig>-Brace and 3 or 4 bits. 2 small gimlets-2
+                  <unclear>seniling</unclear> all chalk line-red line-hatchet-hand aue=3 <orig
+                  reg="screwdrivers">screw drivers</orig> 1 3/4 auger that you gave me 3/4 auger-<hi
+                  rend="super">1/2</hi> auger 5/8 auger- a <orig reg="mallet">malet</orig>-bench
+               hook-screw and burr foot luge.</p>
+            <p>When you get the chest home, mark on a paper all the tools and what kind. I will tell
+               you if they are all there or not. If I had not been merciful my tools would have been
+               at home before I left.</p>
+            <p>I did not think John (Markey) was so bad up. I shall pay him every cent when it suits
+               me and he will take when he gets it..</p>
+            <p>No more at this time.</p>
+
+            <closer>
+               <salute/>
+               <signed>Franklin D. Rosenbery</signed>
+            </closer>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

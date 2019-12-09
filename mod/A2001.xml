@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2001"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A2001">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: William B. Gallaher to E. C. Gallaher, May 15,
+     1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county william b gallaher to e c gallaher, may 15 1861</title>
+        <author>Gallaher, William B.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Susanna Michele Lee</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Susanna Michele Lee</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A2001</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:501974</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note>
+          <p>This letter was transcribed from another transcribed copy. William B. Gallaher's mother's
+      name was taken from the 1860 population census.</p>
+        </note>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: William B. Gallaher to E.C. Gallaher, May 15, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta county william b gallaher to e c gallaher, may 15 1861</title>
+            <author>William B. Gallaher</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>1 page</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: William B. Gallaher Letters, Waynesboro Public
+       Library Collection, Waynesboro, Virginia.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Waynesboro Public Library Collection, Waynesboro, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1861-05-15">1861-05-15</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Camp Life, Enlistment, Family, Home front, Troop Movement</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2000">Summer 2000</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Voorhees</name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A2001T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>William B. Gallaher describes his satisfaction with camp life and his anticipation of troop
+     movement. He cautions his mother to "keep a sharp look out" on the farm yard and stable.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">E.C. Gallaher</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1861-05-15">May 15, 1861</date>
+      <name type="place">Harpers Ferry</name>
+     </dateline>
+     <salute>Dear Ma</salute>
+    </opener>
+
+    <p>I got here today and found all well &amp; very glad to see me and got my office. Capt
+     Patrick seemed glad to see me he said he intended writing to Pa but had been very busy. I was
+     about leaving for Shepherdstown when we got orders to get ready to leave at once but after we
+     were told to march at 8 oclock tomorrow morning. I expect we will go to Shepherdstown. Everyone
+     is talking about the way they were treated at Shepherdstown &amp; are anxious to go there
+     again they were so well treated. I will have no difficulty in getting along. I went down to see
+     Eddie Waddell. He was glad to see me &amp; said he wished he was in our company. Saw also
+     Lipscomb. Both are looking well. Camp life seems to agree with them. I left Clinton at
+     Stroudsburgh &amp; gave him money to pay his way home. I wish he could have come to the
+     Ferry. There is about 11000 men here now. You can see tents &amp; soldiers all over the
+     place. We are in camp in a large brick house in the upper part of Bolivar. It is only a few
+     hundred yards to Capt Baylors company. There is a regiment of 1100 men just left here for
+     Shepherdstown or Martinsburg. I will write you from where I am to go. I think to Shepheredstown
+     I will go &amp; see the folks. Tell Pa I will write to him next &amp; will write to you
+     all the first chance I have. The Capt myself &amp; the officers all sleep in the same room.
+     I will sleep with Irvine. I am very well pleased with camp life. Give my love to all. Excuse
+     this short &amp; badly written letter as I am very busy fixing things. I am very glad you
+     put so many little articles in my trunk. Write soon. I got Charley letter with no trouble and a
+     piece of the Dispatch. I will read it and take good care of myself. You need have no fears of
+     me keeping bad company or anything of that kind.</p>
+
+    <closer>
+     <salute>From your affectionate son</salute>
+     <signed>W B Gallaher</signed>
+     <seg type="postscript">Kiss the little folks for me. My horse stood the travel very well. I had
+      her put on the cart at Winchester &amp; brought down. It did not cost me much. Give my
+      respect to all. Write soon.<lb/> Your son<lb/>William <lb/> Tell Pa to keep a sharp look out
+      in the farm yard &amp; at the stable. I have never seen anything wrong but if they are so
+      inclined they have a very good chance. The reason Guy wrote to me to come he could not enlist
+      as a substitute unless he would enlist for 12 months &amp; he said he did not want me to
+      lose my place. He is going home Monday &amp; will be back in a week &amp; join our
+      company or get an appointment as he is trying very hard to get the adjutants place in the
+      Regiment. I will get Capt Patrick to sign the certificate for my horse &amp; send to you
+      next week.<lb/>
+      <lb/>Your son<lb/>William <lb/> Love to all. Tell Mr. Evans to make me a pair shoes like the
+      ones he made me &amp; send down with Ed Waddells. They are too narrow at the toes. I can
+      get along with the boots.</seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

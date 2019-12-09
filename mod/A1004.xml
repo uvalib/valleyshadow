@@ -1,0 +1,229 @@
+<?xml version="1.0"?>
+
+<?dlps id="A1004"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+<!ENTITY sister1 SYSTEM "uva-lib:503071" NDATA uvaHighRes>
+<!ENTITY sister2 SYSTEM "uva-lib:503072" NDATA uvaHighRes>
+<!ENTITY sister3 SYSTEM "uva-lib:503073" NDATA uvaHighRes>
+]>
+  
+<TEI.2 id="A1004">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Joseph Alfred Wilson to Bell Wilson, January 21,
+     1863</title>
+        <title>[electronic resource]</title>
+        <title type="sort">augusta county joseph alfred wilson to bell wilson, january 21 1863</title>
+        <author>Wilson, Joseph Alfred</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Merryn Pinch</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Merryn Pinch</name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+        <idno type="VCDH">A1004</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>copyright 1999, by the Rector and Visitors of the University of Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:503070</idno>
+      </publicationStmt>
+
+      <seriesStmt>
+        <p>Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Joseph Alfred Wilson to Bell Wilson, January 21, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta county joseph alfred wilson to bell wilson, january 21 1863</title>
+            <author>Joseph Alfred Wilson</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>3 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Letters of Peter E. and Joseph A. Wilson, Private
+       Collection of Mr. Pete Brown, Lexington, Virginia.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from private collection</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1863-01-21">1863-01-21</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Desertion/Leave, Family, Home Front, Patriotism, Military Authority, Camp Life, Women,
+      Death/Casualties </term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2000">Summer 2000</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Voorhees</name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A1004T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Joseph writes to his sister about family, his military company, and the weather.</p>
+   </div1>
+  </front>
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <opener>
+     <pb n="1" entity="sister1" pid="uva-lib:503071"/>
+    
+
+
+     <dateline>
+      <date value="1863-01-21">January the 21<hi rend="super">th</hi>, 1863</date>
+      <name type="place">Salem, Roanoke Co</name>
+     </dateline>
+
+     <salute>Dear Sister,</salute>
+    </opener>
+
+    <p>I received yours of the 17<hi rend="super">th</hi> just a few minutes ago I was just in the
+     act of writing to you anyway I perused it with unbounded pleasure &amp; love. But I have
+     not heard a word from home since I left nor feel any ways <orig reg="uneasy">uneasie</orig>
+     about it, for I know Maggie will write when she has an opportunity nor I have never since I
+     have been in the army for I have always considered it my duty to write to her 2 or 3 times to
+     her once. But to acknowledge I do <orig reg="want">wannt</orig> to hear from her &amp;
+      <unclear>Warler Elmer </unclear>all that I have on earth to care for Bell you seemed <del
+      hand="h1"/> what inclined to think I ought not become dissatisfied in the Army &amp; he
+     contended I know that I just as <orig reg="much">mutch</orig> to care for as any other man
+     &amp; I know that I have the same <orig reg="privilege">priviledge </orig> to hire a
+     subscribe as they that has done so &amp; more over I love my Wife &amp; child as <orig
+      reg="much">mutch</orig> &amp; will do as <orig reg="much">mutch</orig> for them as any
+     other man &amp; would love to remain at home with Them as well as as well as any other man,
+     &amp; I <orig reg="don't">dont</orig> know how soon I may be with them &amp; again I
+     may not see them till the war is over. for this reason I have been appointed Assisting Quarter
+     Master of this regiment 14th till it is organized &amp; then I have the best of nine
+     chances out of ten for the appointment of Capt. Q.M. and if I am pleased with it &amp; get
+     the appointment I will <add hand="h1" place="inline">remain in servise</add></p>
+
+    <p><pb n="2" entity="sister2" pid="uva-lib:503072"/>Bell you <orig reg="want">wannt</orig> me to write to Pete I would
+     do so with pleasure but know it to <add hand="h1" place="inline">be</add> useless to do so for
+     I have written to Jacksons several times &amp; none ever reached <orig reg="their"
+     >ther</orig> destination. Well I must give you the <unclear>points</unclear> of the Brigadier
+     General <unclear>A.G. Jenkens</unclear>
+     <orig reg="Brigade">Briggade</orig> in the first <orig reg="place">plase</orig> we were ordered
+     here <orig reg="encamped">in Campt</orig> a Camp of <unclear>instruction</unclear>
+     <orig reg="everything">every thing</orig> disarranged <orig reg="everybody">every body</orig>
+     dissatisfied &amp; no nothing you may <add hand="h1" place="inline">say</add> but all I
+     have to say about it is in the <orig reg="place">plase</orig> of it being a Camp of
+     instructions it a Camp of <unclear>diserfaction</unclear> at the best no rules nor <orig
+      reg="nothing">nothin</orig> as I have said. The Company that have <unclear>going
+     short</unclear> at all times in the <add hand="h1" place="inline">day</add> &amp; night
+     they even spent by volleys &amp; do just as they <orig reg="please">pleas</orig> &amp;
+     one hundred <orig reg="Yankees">Yankeez</orig> could come &amp; rout the <orig reg="whole"
+      >hole</orig> Camp.</p>
+
+    <p>The weather is very rough &amp; bad we had a very pretty snow last night it fell about
+     five or six inches deep but there was enough for a foot of snow it rained all day yesterday
+     &amp; consequently it melted. Bob Love is improving very fast I think will be able in the
+      <orig reg="course">cours</orig> of a <unclear>
+      <orig reg="couple">couble</orig>
+     </unclear> of weeks to join his Company &amp; several others are sick, but I still remain
+     the same old seven &amp; six. I have no <orig reg="news">neus</orig> of importance of war
+     to communicate. So I will have to close for the <del hand="h1">pleasant</del> present.</p>
+
+    <p><pb n="3" entity="sister3" pid="uva-lib:503073"/>Give Miss <unclear>Clemmins</unclear>
+     <unclear>my</unclear> respects &amp; Mr. <unclear>Brarey</unclear>
+     <add hand="h1" place="inline">my</add> regards &amp; ask him how his arm is get, &amp;
+      <orig reg="whether">weather</orig> he is ready to take <orig reg="another">anothe</orig> fish
+     or not, tell him to hold himself in reaching at all times that I may be there any day to fish
+     &amp; till then the hook I thought I had lost I found in my Coat afterwards &amp; write
+     often &amp; direct as follows</p>
+
+    <closer>
+     <salute/>
+     <signed>Lt Jos. A Wilson <del hand="h1">14th Reg Va Cavalry, Churchville Comp., Roanoke Co,
+      Va</del> 14th Reg Va Cavalry, Churchville Compy, Roanoke Co, Va</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

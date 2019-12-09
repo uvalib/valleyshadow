@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+
+<?dlps id="A5057"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A5057">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Charles W. Baylor to Charles W. McGuffin,
+     September[?] 24, 1864</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county charles w baylor to charles w mcguffin, september 24 1864</title>
+        <author>Baylor, Charles W.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Voorhees</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Desi Hopkins</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A5057</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2002, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date>
+        <idno type="uva-pid">uva-lib:502341</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Charles W. Baylor to Charles W. McGuffin, September[?] 24, 1864</title>
+            <title level="m"/>
+            <title type="sort">augusta county charles w baylor to charles w mcguffin, september 24 1864</title>
+            <author>Charles W. Baylor</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>4 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: McGuffin Family Papers, Accession #6732, Special
+       Collections Department, University of Virginia Library, Charlottesville, Virginia</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>No month was written on the letter, but it may be September soon after the battle of
+        Winchester which took place on September 19, 1864.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1864-09-24">1864-09[?]-24</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Death/Casualties, Battle Description, Women, Family</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2002-11">November 2002</date>
+        <respStmt>
+          <resp/>
+          <name>Desi Hopkins</name>
+        </respStmt>
+        <item>Proofread against original; corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A5057T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Charles W. Baylor's letter to Charles McGuffin describes what he knows of McGuffin's brother
+     John's death at the battle of Winchester, and mentions other men who were killed and
+    wounded.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <opener>
+     <dateline>
+      <date value="1864-09-24">24th/64</date>
+      <name type="place">Camp Near Newmarket</name>
+     </dateline>
+     <salute>Dear Charlie</salute>
+    </opener>
+
+    <p>I <abbr expan="received">rec'd</abbr> yours of the 18<hi rend="super">th</hi>
+     <unclear>inst</unclear> yesterday. I am sorry to tell you that your Brother John is no more. He
+     was killed in the battle at Winchester, shot in the head I think, though I am not certain for I
+     did not see him, though I was told by some one who professed to know, he lived but a very short
+     time after he was struck. I would <orig reg="have">of</orig> written to you immediately but I
+     did not have time, I wrote home, and told my wife to tell Mary to write to you about and let
+     you know the worst, I have but little good news to tell you, we had another hard fight on the
+     19th <unclear>inst</unclear>
+     <pb n="2"/> were victorious until about three o'clock, the Yanks flanked us and we had to fall
+     back which raised a perfect <orig reg="stampede">stampeed</orig>, we captured wagons, <orig
+      reg="ambulances">ambulences</orig>, mules, horses, eighteen pieces of artillery &amp;
+     about 1500 prisoners. Though fortune turned &amp; we lost all the artillery that we
+     captured &amp; I believe as much more, lost ambulance, wagons, &amp; I don't know what
+     all we did not losses, though we got the prisoners out by hard work &amp; had it not been
+     that they were in front of the train we would of gotten more of it out of the way. We lost but
+     very few prisoners &amp; an unusual small number of killed &amp; wounded. Though <abbr
+      expan="Company">Co.</abbr> H lost - I think, its full share of in killed we took 11 men with
+     myself <pb n="3"/> into the fight out of that number there were two killed &amp; one
+     wounded. <abbr expan="Sergeant">Sergt</abbr> B.F. Hupp &amp; W.H. McClung were killed or I
+     suppose McClung is dead my this time for he was shot in the head just above the right eye, the
+     ball is in his head, he was <unclear>insencible</unclear> in fifteen minutes afterward that was
+     about 9 O'clock in the morning, he was not dead at sundown but still insencible, &amp;
+     seemed to be <orig reg="dying">dieing</orig>, Jacob Runkle was wounded in the right shoulder
+     slightly <abbr expan="Colonel">Col</abbr> Williams was wounded in the right shoulder severely,
+      <abbr expan="Colonel">Col</abbr>
+     <unclear>Runk</unclear> was left at Winchester supposed to be mortally wounded in the side, Dr.
+     Walls pronounced it mortal, <abbr expan="Major">Maj</abbr> Newton wounded in ankle, &amp;
+     it is feared that he will lose his foot.</p>
+
+    <pb n="4"/>
+
+    <p>I must close as it is getting late, I would like to give you a more detailed account of our
+     doings in the <orig reg="Valley">Vallie</orig>, but I have not got the time. I have not <abbr
+      expan="received">rec'd</abbr> a letter from home for almost a month have only got two letters
+     from home since I left there</p>
+
+    <p>We have only got one <abbr expan="Major">Maj</abbr> &amp; one <abbr expan="Colonel"
+     >Col</abbr>, Stuart <abbr expan="Major">Maj</abbr> 2d <abbr expan="Regiment">Regt</abbr>
+     <abbr expan="Colonel">Col</abbr>
+     <unclear>Spungler</unclear> of the 33d <abbr expan="Regiment">Regt</abbr></p>
+
+    <p>I must Close, may God protect you is the humble prayer of</p>
+
+    <closer>
+     <salute>Your Friend</salute>
+     <signed>C.W. Baylor</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

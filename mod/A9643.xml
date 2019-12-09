@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9643"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A9643">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: William Brand to Kate Armentrout, May 29,
+                    1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta william brand to kate armentrout, may 29 1862</title>
+        <author>Brand, William F.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Jaime Martinez</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A9643</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502805</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: William Brand to Kate Armentrout, May 29, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta william brand to kate armentrout, may 29 1862</title>
+            <author>William Brand</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William Brand Papers, Albert and
+                            Shirley Small Special Collections Library, University of Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1862-05-29">1862-05-29</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Battle Description, Home Front, Military Authority, Patriotism, Troop
+                        Movement</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2007-04-03">2007-04-03</date>
+                <respStmt>
+                    <resp>proofed</resp>
+                    <name>Josh Botts</name>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A9643T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>William describes his Brigade's movements in the Valley, recent battles, and
+                    their reception in Charlestown, (West) Virginia.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Miss Amanda C. Armentrout<lb/>Greenville <lb/>Augusta <abbr expan="County"
+                        >Co</abbr><lb/><abbr expan="Virginia">Va</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1862-05-29">May 29th 1862</date>
+                        <name type="place"><orig reg="Camped">Campt</orig> near Charlestown <abbr
+                            expan="Virginia">Va</abbr></name>
+                    </dateline>
+                    <salute>Dear Kate</salute>
+                </opener>
+
+                <p>I <orig reg="received">recieved</orig> your kind letter some time ago I suppose
+                    you think I have forgotten you entirely as I have been so long in answering your
+                    letter. Indeed we have hardly had time to wash our <orig reg="clothes"
+                    >cloths</orig> for the past two months. You seemed to think when you wrote to me
+                    last that the Valley was almost <orig reg="gone">gon</orig> but thanks to
+                    Almighty God we have been able to drive them out <orig reg="there">thare</orig>
+                    is some in Harpers ferry yet we attacked them on the 23rd &amp; have been
+                    fighting less or more <orig reg="every">evry</orig> day since. We have entirely
+                    routed <unclear>Banke</unclear> Army. I think that we have taken about 3
+                    thousand Prisoners <pb n="2"/> all <orig reg="their">thare</orig>
+                    <orig reg="Baggage">Bagage</orig> &amp; <orig reg="government"
+                    >governmint</orig> stores our Brigade was ordered to Charlestown yesterday. We
+                    left Winchester early in the morning &amp; marched eighteen miles by the
+                    middle of the day the <orig reg="enemy">enimy</orig>
+                    <orig reg="were">ware</orig> drawn up in line of battle &amp; opened fire on
+                    our skirmishers we run up four or five pieces of <orig reg="artillery"
+                    >artilery</orig> &amp; fired on them. <orig reg="They">Thay</orig> fired
+                    five times &amp; commenced retreating throwing <orig reg="off">of</orig>
+                    <orig reg="their">thare</orig>
+                    <orig reg="blankets">blanketts</orig> canteens &amp; <orig reg="haversacks"
+                        >hapersacks</orig>. We run them for four or five miles the boys say we run
+                    them into <orig reg="their">thare</orig> den in the ferry. We captured fifteen
+                    prisoners <orig reg="they">thay</orig> fired some large guns this morning. We
+                    could see the smoke <orig reg="they">thay</orig> seemed to be on the Virginia
+                        <orig reg="heights">hights</orig> &amp; the hills of Boliven. I <orig
+                        reg="expect">exspect</orig> we will we will march on them this evening as
+                    two more <orig reg="brigades">brigads</orig> came down this morning.</p>
+
+                <pb n="3"/>
+
+                <p>I never seen people so rejoiced as we come in one end of Charlestown &amp;
+                    the <orig reg="enemy">enimy</orig> going out <orig reg="of">ove</orig> the other
+                    the <orig reg="people">peoppe</orig>
+                    <orig reg="cheered">Chereed</orig> us &amp; told us that <orig reg="their"
+                        >thare</orig> doors <orig reg="were">ware</orig> open &amp; ready to
+                        <orig reg="receive">recieve</orig> us the ladies asked us why we did <orig
+                        reg="holler">hollow</orig> we told them it was against orders, thay said we
+                        <orig reg="we">wee</orig> will <orig reg="do">doo</orig> the <orig
+                        reg="hollering">hollowing</orig> &amp; your all will <orig reg="do"
+                    >doo</orig> the fighting. The <orig reg="citizens">citisans</orig> kept asking
+                        <orig reg="where">whare</orig> was <orig reg="Jackson">Jakson</orig> we told
+                    them we left him in Winchester we cheered <abbr expan="General">Gen.</abbr>
+                    Winder yesterday for the first time the men do not like him much because he is
+                    so strict. The merchants have a full stock of Good &amp; sell them <orig
+                        reg="cheap">cheep</orig> I think coffee is a <del rend="none" hand="h1"/> per <abbr
+                        expan="pound">lb.</abbr> sugar<del hand="h1">s</del> the same <orig
+                        reg="there">thare</orig> is plenty of all kinds of Goods.</p>
+
+                <p>I must bring my letter to a <pb n="4"/> close as we have orders to <orig
+                        reg="move">moove</orig>. My health is not very good at <orig reg="present"
+                        >presant</orig>
+                    <del hand="h1">but</del> on account of a very bad cold. I hope this may find you
+                    enjoing the blessings of health</p>
+
+                <closer>
+                    <salute>nothing more but remain your true &amp; <orig reg="untiring"
+                            >untireing</orig> friend</salute>
+                    <signed>WFB</signed>
+                    <seg type="postscript">P.S. you will please write soon</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

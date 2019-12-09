@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9511"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A9511">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Thomas J. Jackson to Francis
+                    McFarland, July 31, 1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county thomas j jackson to francis mcfarland, july 31 1862</title>
+        <author>Jackson, Thomas</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Jaime Martinez</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A9511</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502753</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Thomas J. Jackson to Francis McFarland, July 31, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta county thomas j jackson to francis mcfarland, july 31 1862</title>
+            <author>Thomas J. Jackson</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent> pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Francis McFarland Papers, Mss
+                            053, Leyburn Library, Washington and Lee University, Lexington,
+                            Virginia.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note>
+                            <p>Heading on transcription reads: "Letters of Gen T.J. Jackson to Dr.
+                                Francis McFarland".</p>
+                        </note>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Special Collections, James G. Leyburn Library, Washington and Lee University</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1862-07-31">1862-07-31</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Church/Religious Activity, Patriotism</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2003-05">May 2003</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Item proofread against transcript, corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A9511T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Jackson thanks McFarland for his prayers and interest and reminds McFarland that
+                    the true author of Confederate military success is God.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>To
+                    <name type="recipient">Rev. Dr. Francis McFarland</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1862-07-31">July 31st, 1862</date>
+                    </dateline>
+                    <salute>My dear Doctor,</salute>
+                </opener>
+
+                <p>I am very grateful to you for your prayers to God for the success of the
+                    operations which God has entrusted to me. Please continue to pray for me and for
+                    the success of the troops entrusted to me. It cheers my heart to think that many
+                    of God's people are praying to our ever kind Heavenly Father for the success of
+                    the Army to which I belong. Without God's blessing I look for no success, and
+                    for every success my prayer is, that all the glory may be given unto <hi
+                        rend="underline">Him</hi> to whom it is properly due. If people would but
+                    give all the glory to God, and regard his creatures as but unworthy instruments,
+                    my heart would rejoice. Alas too frequently the praise is bestowed upon the
+                    creature. Whilst we must not forget the superior importance of spiritual
+                    victories, yet I trust that you under God's direction do what you can in
+                    securing the prayers of His people for the success of our arms, especially for
+                    the success of those which are entrusted to me, an unworthy servant, but who
+                    desires to glorify his name even in my present military calling. My trust is in
+                    God for success. Praying for a continuation of your usefulness,</p>
+
+                <closer>
+                    <salute>I remain your much attached friend.</salute>
+                    <signed>T.J. Jackson</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

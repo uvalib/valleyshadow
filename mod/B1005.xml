@@ -1,0 +1,262 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1005"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1005">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: George T. Cook to R. S.
+                    Lacey, October 31, 1866</title>
+        <title type="sort">freedmens bureau records george t cook to r s lacey, october 31 1866</title>
+        <author>Cook, George T.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">9</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1005</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500873</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: George T. Cook to R. S. Lacey, October 31,
+                            1866</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records george t cook to r s lacey, october 31 1866</title>
+            <author>George T. Cook</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 45.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1866-10-31">1866-10-31</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Economy, Employment/Labor, Family, Politics/Political Attitudes, Race
+                        Relations, Slavery, Local Government</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-05">May, 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1005T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Cook's detailed monthly report includes his commentary on the problems of labor
+                    and employment, low wages, the struggles to provide for children in freedmen's
+                    families, poll taxes, and the level of political engagement in Augusta County.
+                    He concludes his letter by stating: "The prejudice of the white man against
+                    allowing any rivalry by the black man must be conquered before the latter can
+                    become in the full sense of the word, free."</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau Refugees Freedmen and <abbr expan="Abandoned Lands">A.L.</abbr><lb/>Office
+                    <abbr expan="Assistant">Asst.</abbr>
+                    <abbr expan="Superintendent">Supt.</abbr>
+                    <abbr expan="Sub-District">Sub-Dist.</abbr>
+                    <abbr expan="Number">No.</abbr> 10. 7<hi rend="super">th</hi>
+                    <abbr expan="District">Dist</abbr>
+                    <abbr expan="Department">Dept</abbr> Potomac<lb/>Consisting of Augusta and
+                    Highland Counties
+                    <name type="recipient">Captain R. S. Lacey<lb/>Superintendent 7th <abbr
+                            expan="District">Dist.</abbr>
+                        <abbr expan="Virginia">Va</abbr><lb/>Lynchburg, <abbr expan="Virginia"
+                        >Va.</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1866-10-31"><abbr expan="October">Oct</abbr> 31<hi rend="super">st</hi> 1866</date>
+                        <name type="place">Staunton Augusta <abbr expan="County">Co</abbr><abbr expan="Virginia">Va</abbr></name>
+                    </dateline>
+                    <salute>Captain</salute>
+                </opener>
+
+                <p>I have the honor to submit the following report of Bureau Affairs in this <abbr
+                        expan="Sub-District">Sub-Dist</abbr> for the Month ending October 31<hi
+                        rend="super">st</hi> 1866.</p>
+
+                <p>The freedmen are very quiet seeming to feel that it is the better for them to
+                    submit to small inconveniences in order to live peaceably with their white
+                    employers - The number of idlers is largely on the increase the working season
+                    being nearly at an end; the majority of those who worked by the day must now be
+                    unemployed or work for their board during the coming winter. Many families
+                    throughout the Counties are now working on the same basis as before their
+                    freedom, this will if continued soon bring a large class of them completely
+                    dependent upon the will of the whites.</p>
+
+                <p>This state of affairs is attributable in some degree to the manner in which
+                    Slaves were treated here - it seems never to have been the practice to exact the
+                    hard labor from them in this portion of the State, exacted through most of the
+                    South the consequence is that as a class their labor is not as valuable</p>
+
+                <pb n="2"/>
+
+                <p>The fact that there is a great scarcity of money is another cause. The whites
+                    claim to be unable to pay high wages, actual monied transactions in everyday
+                    business dealings are rare and the enormous rates of interest which money
+                    commands would seem to justify a belief in their plea of lack of money. If
+                    whites in business transactions cannot trust each other how can it be expected
+                    that justice will be done the ignorant freedpeople.</p>
+
+                <p>The marriage register of the County of Augusta shows more than an average of
+                    three children to each married couple. Many of these children are grown, still
+                    the system of sale so lately in vogue has left a large proportion of small ones
+                    for which the freedpeople are obliged to provide hence the services of the
+                    Mother are generally obtained for her board and perhaps a few articles of
+                    clothing, or if the family has more than its proportion of children the Mother
+                    must have a house to live in and the family be chiefly subsisted by the Father
+                    who if a first class hand may obtain from 8 to ten dollars per month for his
+                    services with the understanding that the employer shall furnish him with
+                    subsistance for his family at <hi rend="underline">Store</hi>
+                    <hi rend="underline">rates</hi> - the amount considered and the prices charged
+                    are sometimes curious, and of course indisputable proofs of what can be made way
+                    with in a small family. The effect in most instances is to leave <pb n="3"/>the
+                    freedman little or nothing to look upon as saved at the end of a year of labor,
+                    indeed he may be thankful if he is not in debt. I make the above statement to
+                    show the system of labor in this County. I fear the result will be to leave a
+                    large class in very destitute circumstances this winter.</p>
+
+                <p>The system of County taxation seems very <unclear>unjust</unclear> the County
+                    taxes in this Sub-<abbr expan="District">Dist</abbr> are altogether poll tax
+                    amounting <add hand="h1" place="inline">in Augusta <abbr expan="County"
+                        >Co</abbr></add> to three (3) dollars each this bears <add hand="h1"
+                        place="inline">as</add> heavy upon a poor man as upon a man of property, it
+                    is an outside matter but has its effect many of the freedmen call upon me to see
+                    about the payment of tax; they seem to think it unjust to pay so much, and many
+                    of them have ideas about voting in connection with paying tax, which in time
+                    will lead them to demand good reasons for doing one and not the other. It seems
+                    to have touched them in a sensitive spot when called upon to pay.</p>
+
+                <p>The course of politics North is closely watched by them, in this town they are
+                    remarkably well posted and I have found that news of that kind spreads through
+                    the County very quickly. I am acquainted with one colored man who takes the
+                    "Washington Chronicle" and regularly imparts the news to his Color.</p>
+
+                <p>The freedmen are laboring under many disadvantages now which will require time
+                        <pb n="4"/>at least to remove. The prejudice of the white man against
+                    allowing any rivalry by the black man must be conquered before the latter can
+                    become in the full sense of the word, free.</p>
+
+                <closer>
+                    <salute>Very Respectfully<lb/>Your <abbr expan="Obedient">Obt</abbr> Servant</salute>
+                    <signed><abbr expan="George">Geo.</abbr> T. Cook<lb/>1<hi rend="super">st</hi>
+                        <abbr expan="Lieutenant">Lieut</abbr>
+                        <abbr expan="Veterans Reserve Corps">V.R.C.</abbr> and <abbr
+                            expan="Assistant">Asst.</abbr>
+                        <abbr expan="Superintendent">Supt.</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

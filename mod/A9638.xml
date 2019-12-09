@@ -1,0 +1,254 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9638"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A9638">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: William Brand to Kate Armentrout, November
+                    15, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta william brand to kate armentrout, november 15 1861</title>
+        <author>Brand, William F.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Jaime Martinez</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">9</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A9638</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502800</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: William Brand to Kate Armentrout, November 15, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta william brand to kate armentrout, november 15 1861</title>
+            <author>William Brand</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William Brand Papers, Albert and
+                            Shirley Small Special Collections Library, University of Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1861-11-15">1861-11-15</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Death/Casulaties, Family, Medicine/Hospitals, Military Authority, Troop
+                        Movement, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2007-04-03">2007-04-03</date>
+                <respStmt>
+                    <resp>proofed</resp>
+                    <name>Josh Botts</name>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A9638T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>William writes to Kate about illnesses and deaths among their friends and
+                    families. He also described his trip from Fairfax to Winchester, which
+                    culminated in a nearly-violent disagreement between his commanding officers.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+               <opener>
+                    <dateline>
+                        <date value="1861-11-15">November 15th 1861</date>
+                        <name type="place"><orig reg="Camped">Campt</orig> Near Winchester <abbr expan="Virginia">V<hi rend="super">a</hi></abbr></name>
+                    </dateline>
+                    <salute><hi rend="underline">Dearest</hi> Kate,</salute>
+                </opener>
+
+                <p>I <orig reg="received">recieved</orig> your letter a <orig reg="few">fiew</orig>
+                    days since. and it was with pleasure to me to open it &amp; peruse over its
+                    contents. It was with sorrow that I read of the death of Miss Kate Hall
+                    &amp; Miss Sarah M<hi rend="super">c</hi>Cadden but our loss is <orig
+                        reg="their">thare</orig> eternal gain. Miss Kate was my most intimate friend
+                    while I lived in Greenville. I saw a piece in the Newspaper Composed about Miss
+                    Kate I Judged that Mr. Monroe was its <orig reg="author">auther</orig>, it was a
+                    very good piece. Your Brother John has been sick for three or four days
+                    &amp; has <orig reg="gone">gon</orig> to the hospital in Winchester. I hope
+                    he may soon recover his former health. I think he is taking the fever. Your
+                    Cousin Abe has been complaining for some time past, but looks <orig reg="hearty"
+                        >harty</orig> at present. Brother John has returned from the hospital, he
+                    was sent to Richmond, I was very glad to see him as I <orig reg="couldn't"
+                        >could'nt</orig> hear from him he had the Typhoid fever &amp; looks
+                    quite thin yet he has not reported for duty yet. I got a pass to go to
+                    Winchester the other day <orig reg="every">evry</orig> thing is very <del
+                        hand="h1"/> The town <pb n="2"/> is not crowded like it was in the spring.</p>
+
+                <p>I will try &amp; give you a short account of our march to the Valley. Our
+                    Company was on <orig reg="picket">piket</orig> that morning had very little or
+                    nothing to eat; we <orig reg="received">recieved</orig> orders about ten <orig
+                        reg="o'clock">oclock</orig> A.M. to pack up &amp; march to camp a
+                    distance of two miles when we got <orig reg="there">thare</orig>
+                    <orig reg="every">evry</orig> thing was packed up &amp; ready to march. We
+                    had to carry our <orig reg="blankets">plankets</orig> &amp; overcoats. The
+                        <orig reg="regiment">regaments</orig> was formed at half past twelve
+                    &amp; took up the line of march at one <orig reg="o'clock">oclock</orig>. We
+                    got to Manassas about five o'clock &amp; rested <orig reg="there"
+                    >thare</orig> a while, then marched to the Junction &amp; loaded our <orig
+                        reg="baggage">bagage</orig> on the cars. We <orig reg="didn't">did'nt</orig>
+                    get started before nine we <orig reg="were">ware</orig> packed in the cars like
+                    cattle we had no seats but the <orig reg="baggage">bagage</orig>, and those on
+                    top of the cars <orig reg="were">ware</orig>
+                    <orig reg="exposed">exsposed</orig> to the cold &amp; Sam one of <orig
+                        reg="Captain">Capt</orig> Roberts men fell <orig reg="off">of</orig> the
+                    cars &amp; was <orig reg="bruised">brused</orig> so that he died next
+                    morning it was said that he was drunk &amp; walked <orig reg="off">of</orig>
+                    the top of the cars, we got to <orig reg="Strasburg">Strawsburg</orig> about
+                    daylight unloaded our <orig reg="baggage">bagage</orig> cooked of our breakfasts
+                    &amp; started for Winchester it rained hard all day. I do believe that one
+                        <orig reg="fourth">forth</orig> of the <orig reg="regiment">regament</orig>
+                    <orig reg="were">ware</orig> drunk we had gotten in about three quarters of a
+                    mile of Winchester when we <orig reg="received">recieved</orig> orders to turn
+                    round &amp; go a mile &amp; camp <del rend="none" hand="h1"/> &amp; officers
+                    refused to obey <pb n="3"/> the order, the Colonel swore he would be obeyed
+                    &amp; drew his <orig reg="sword">soard</orig> &amp; ordered his Brother
+                    to <orig reg="forward">foward</orig> his <abbr expan="Company">Comp</abbr>, but
+                    he would not move so the Colonel ordered him under arrest &amp; told <orig
+                        reg="Sims">Simbs</orig> to take the Command of the <abbr expan="Company"
+                        >Comp</abbr> &amp; the <abbr expan="Lieutenant">Lieut.</abbr> refused to
+                    obey the order. <abbr expan="Captain">Capt</abbr> Harman then went out and
+                    talked to the <abbr expan="Colonel">Col.</abbr> he had understood that we had to
+                    go back to Newtown a distance of five miles. As soon as he learned better he
+                    ordered his <abbr expan="company">comp</abbr> to <orig reg="move">moove</orig>
+                    <orig reg="off">of</orig>, &amp; the <orig reg="regiment">regament</orig>
+                    followed. I was smartly excited at the time of the <orig reg="fracas"
+                    >fracus</orig> the <abbr expan="Colonel">Col</abbr> struck one of Harmens men,
+                    with his <orig reg="sword">soard</orig> a <orig reg="great">grate</orig> many of
+                    the men <orig reg="were">ware</orig> getting out <orig reg="cartridges"
+                    >catriges</orig> others fixing <orig reg="their">thare</orig> bayonets. I <orig
+                        reg="expected">exspected</orig> nothing but a big row as the <abbr
+                        expan="Colonel">Col.</abbr> is not loved by any of his men. I know you are
+                    tired of this <orig reg="uninteresting">uninterresting</orig> letter. My health
+                    has been very good till late. I have had the head ache with chills &amp;
+                    fevers. I hope though it may soon <orig reg="wear">ware</orig>
+                    <orig reg="off">of</orig>. I hope <orig reg="these">theese</orig>
+                    <orig reg="few">fiew</orig> lines may find you enjoying health &amp;
+                    happiness. Excuse me for not writing sooner &amp; I will try and do better
+                    next time. You said you wanted to know if I <orig reg="needed">kneeded</orig>
+                    any socks I have three or four good pair but would <orig reg="receive"
+                    >recieve</orig> a pair from your hand with the <orig reg="greatest"
+                    >gratest</orig> pleasure. I wrote to your <orig reg="Pa">Paw</orig> about
+                        <unclear>a pair</unclear> of pants.</p>
+
+                <pb n="4"/>
+
+                <p>Give my respects to all <orig reg="inquiring">enquireing</orig> friends. Nothing
+                    more at present.</p>
+
+                <closer>
+                    <salute>Write soon to your true &amp; <orig reg="humble">omble</orig>
+                        friend,</salute>
+                    <signed>W.F.B.</signed>
+                    <seg type="postscript">P.S. So <orig reg="goodbye">good by</orig>. My mess are
+                        calling me to supper &amp; you may know the night is coming on.</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

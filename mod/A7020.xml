@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+
+<?dlps id="A7020"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A7020">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: James B. McCutchan [?] to Martha,
+                    April 17, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county james b mccutchan to martha, april 17 1861</title>
+        <author>McCutchan, James B.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A7020</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502540</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: James B. McCutchan[?] to Martha, April 17, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta county james b mccutchan to martha, april 17 1861</title>
+            <author>James B. McCutchan[?]</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Rockbridge Historical Society
+                            Collection, Special Collections, Leyburn Library, Washington and Lee
+                            University, Lexington, Virginia.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Special Collections, James G. Leyburn Library, Washington and Lee University</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1861-04-17">1861-04-17</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Enlistment, Military Authority, National Government, Troop Movement</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A7020T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>This letter, possibly by James B. McCutchan, describes some of the confusion
+                    among the troops in Staunton following the succession crisis in April, 1861.
+                </p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1861-04-17">April 17, 1861 Wednesday</date>
+                        <name type="place">Staunton</name>
+                    </dateline>
+                    <salute>My Dear Martha</salute>
+                </opener>
+
+                <p>We all have been in a great state of excitement here nearly all day, + in great
+                        <orig reg="distress">destress</orig>, poor <hi rend="underline"><unclear>Lgt</unclear>
+                        <unclear>Ewell</unclear>, Nelson</hi> with all the other poor fellows have
+                    just started for Harpers ferry + they were not to be told till after they
+                    started, where they were going, but William Patrick came up on the <del
+                        hand="h1"/> the enemy + told will Nelson, + he told us, you never saw such
+                    an excitement + such a <unclear>destressing</unclear> time as we have, it is
+                    said to be a secret movement <unclear>in</unclear> the Gov. having so many <orig
+                        reg="companies">companys</orig> called out, from Augusta, this evening later
+                    no then dispatch came for a company of troops, + if they could not get horses in
+                    any other way to take them by <hi rend="underline">forse</hi>, so
+                    <unclear>Legh</unclear> told us late this evening, + that <orig reg="Lincoln"
+                        >Lincon</orig> looked on Virginia still as his friend + that he was going to
+                    send 20,000 men to Staunton + 30,000 to Richmond, this is the news that came
+                    late this evening, Legh says <orig reg="Lincoln">Lincon</orig> must be a old
+                    fool, how do you all feel, I wish we all could be together, we dont know what is
+                    to take place, I forgot to say <orig reg="Lincoln">Lencon</orig> intended <pb
+                        n="2"/>coming to Staunton as a place of safety. I think he never intend
+                    coming as he is to have such a fourse, how true all this is I cant say. Nanny +
+                    the children were at well Nelsons when <unclear>Lyt</unclear> was called out
+                    today, he had to send for Len + Well Nelsons family all one at
+                    <unclear>Les</unclear> I feel so sorry for her to stay at Len house, I helped
+                    her to darn some socks, they were done in a short time two of James Calhoon's
+                    sons will go in the morning please some of you write + give much love to each +
+                    all at home as ever</p>
+
+                <closer>
+                    <salute>your affect</salute>
+                    <signed/>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

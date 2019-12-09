@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+
+<?dlps id="A1119"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A1119">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: E. (Elen?) Martin to Reverend H.
+                    Brown, March 30, 1865</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county e elen martin to reverend h brown, march 30 1865</title>
+        <author>Martin, E. (Elen?)</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Matt Speiser</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Matt Speiser</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A1119</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501922</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: E. (Elen?) Martin to Reverend H. Brown, March 30,
+                            1865</title>
+            <title level="m"/>
+            <title type="sort">augusta county e elen martin to reverend h brown, march 30 1865</title>
+            <author>E. (Elen?) Martin</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 page</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Smiley Family Papers, Accession
+                            #1807, Special Collections Department, University of Virginia Library,
+                            Charlottesville, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1865-03-30">1865-03-30</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Church/Religious Activity, Military Authority, National
+                        Government, Patriotism, Prisons/Prisoners, Troop Movement</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2005">Summer 2005</date>
+                <respStmt>
+                    <resp/>
+                    <name>Doug O'Reagan</name>
+                </respStmt>
+                <item>Proofread.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A1119T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Martin discusses the distribution of religious tracts to troops. He also laments
+                    the poor treatment of returning Confederate prisoners in Richmond.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1865-03-30">March 30<hi rend="super">th</hi> 65</date>
+                        <name type="place">Augusta <abbr expan="County">Co</abbr><abbr expan="Virginia">Va</abbr></name>
+                    </dateline>
+                    <salute><abbr expan="Reverend">Rev</abbr> H Brown</salute>
+                </opener>
+
+                <p>Sir I take this opportunity of thanking you for the excellent selection of tracts
+                    you sent me I have read many of them and think them excellent, The soldiers
+                    appear glad to get them I hope they will be read by many and be the means of
+                    doing good I always request those to <orig reg="whom">whome</orig> I give tracts
+                    to give them to others when they have read them, I have some of them yet perhaps
+                    as many as I may be able to distribute for a month that will depend very much on
+                    the movements of the army near us. I again ask the <orig reg="favor"
+                    >favour</orig> of another bundle when it may be convenient for you to send them.
+                    I send you $400 which I place at your disposal to be used in the way you think
+                    will do most good</p>
+                <p>There is one thing I must tell you. Some of our returned prisoners complain of
+                    the treatment they <orig reg="meet">meett</orig> with in Richmond They say they
+                    came there destitute of money and could procure nothing to eat without it, If
+                    this is true it is <orig reg="discouraging">discourageing</orig> to our soldiers
+                    who have suffered <add hand="h1" place="inline">so</add> much in Yankee prisons
+                    to <orig reg="meet">meett</orig> with such neglect at home I suppose Government
+                    has made provision for our prisoners But it may be through some neglect some are
+                    left to suffer If you are situated so near the Landing as to have an opportunity
+                    of observing our prisoners and see such please relieve them We are now looking
+                    for some of our Providence and Shemariah boys T Smiley H Wright of Beard F
+                    Meatcheon If you should see any of the above named destitute please furnish them
+                    with the means of <orig reg="procuring">procureing</orig> such things as they
+                    need If you have not funds in your hands at the time they may come and you
+                    expend <orig reg="anything">any thing</orig> for their comfort Let me know and I
+                    will refund it. I do not wish you to keep this money waiting to see if they will
+                    need it But use it in any way <add hand="h1" place="inline">you</add> wish for
+                    doing good Brother sends $100 which he places at your disposal to be used in the
+                    way you think will do most good Nothing more</p>
+
+                <closer>
+                    <salute>But remain your true friend</salute>
+                    <signed>E Martin</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

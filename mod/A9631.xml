@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9631"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A9631">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title id="VShadow" type="main">Augusta: William F. Brand to Kate Armentrout, May
+                    25, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta william f brand to kate armentrout, may 25 1861</title>
+        <author>Brand, William F.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Jaime Martinez</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A9631</idno>
+
+                <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+                <availability status="public">
+                    <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the
+                        University of Virginia</p>
+                    <p n="access">Publicly accessible</p>
+                </availability>
+                <date value="2002">2002</date>
+                <idno type="uva-pid">uva-lib:502793</idno>
+            </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: William F. Brand to Kate Armentrout, May 25, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta william f brand to kate armentrout, may 25 1861</title>
+            <author>William F. Brand</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William Brand Papers, Albert and
+                            Shirley Small Special Collections Library, University of Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Used with permission from Albert and Shirley Small Special Collections Library,
+                    University of Virginia, Charlottesville, Virginia</p>
+            </projectDesc>
+        </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1861-05-25">1861-05-25</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Enlistment, Family, Patriotism, Troop Movement</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2007-04-02">2007-04-02</date>
+                <respStmt>
+                    <resp>proofed</resp>
+                    <name>Josh Botts</name>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A9631T">
+        <front id="d2">
+            <div1 id="d3" type="summary">
+                <p>Brand writes to Kate of picket duty, arriving troops from other states, and her
+                    friends and family in camp. He also shares some rumors of the Union occupation
+                    of Alexandria, and says that every member of the Augusta Grays who voted in the
+                    recent elections voted in favor of secession.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 id="d5" type="letter">
+                <opener>
+                    <dateline>
+                        <date value="1861-05-25">May 25th 1861</date>
+                        <name type="place">Harpers Ferry Camp Bolive</name>
+                    </dateline>
+                    <salute>Dear Kate</salute>
+                </opener>
+
+                <p>It is with pleasure to <hi rend="underline">me</hi>, that I am permitted to write
+                    you a <orig reg="few">fiew</orig> lines I <orig reg="received">recieved</orig>
+                    your much welcomed letter a <orig reg="few">fiew</orig> days since and have
+                    taken this highly favored opportunity of writing. My health is very good as well
+                    as your Brothers and I hope when <orig reg="these">theese</orig>
+                    <orig reg="few">fiew</orig> lines comes to hand that you may be enjoying the
+                    same blessing with all other earthly enjoyments. <orig reg="There">Thare</orig>
+                    are from fifteen to twenty thousand Soldiers <orig reg="here">hear</orig> at
+                    present <orig reg="there">thare</orig> was <pb n="2"/> some <orig reg="rumors"
+                        >rumers</orig>
+                    <orig reg="here">hear</orig> last night that the federal troops had taken <orig
+                        reg="possession">posession</orig> of Alexandria <orig reg="there"
+                    >thare</orig> was a secession flag <orig reg="there">thare</orig> &amp; one
+                    secessionist stood by it &amp; said the first man that attempted to take it
+                    down he would kill &amp; one of the officers of the federal troops walked up
+                    to it and took hold of it and was shot down in his tracks <orig reg="but"
+                    >put</orig> the secessionist suffered the same fate he was shot down &amp;
+                    cut to <orig reg="pieces">pieases</orig> he well knew what would be his fate,
+                        <orig reg="but">put</orig> his love to the <hi rend="underline">new
+                        confederacy</hi> was <hi rend="underline">sweeter</hi> than death.</p>
+
+                <p><orig reg="There">Thare</orig> is <orig reg="eleven">eleaven</orig> Hundred
+                    Alabamians &amp; with them two of my <orig reg="Uncles">Oncles</orig>, John
+                    &amp; William <pb n="3"/> Mosley. I see them almost every day they are <orig
+                        reg="both">poth</orig> very lively. <orig reg="Uncle">Oncle</orig> William
+                    &amp; my self was on duty night before last we <orig reg="were">ware</orig>
+                    speaking of our post I told him I had the <orig reg="best">pest</orig> post on
+                    the round &amp; he said he had the <orig reg="best">pest</orig> for a lady
+                    sent his supper out to him &amp; that he would be back <orig reg="there"
+                        >thare</orig> for his <orig reg="breakfast">breckfast</orig>. I told him
+                    that I would relieve him <orig reg="but">put</orig>
+                    <orig reg="neither">nether</orig> one got our meals <orig reg="there"
+                    >thare</orig>.</p>
+
+                <p><orig reg="There">Thare</orig> is two thousand <orig reg="Mississippians"
+                        >Missippians</orig>
+                    <orig reg="here">hear</orig>
+                    <orig reg="they">thay</orig> are keen for a fight <orig reg="they">thay</orig>
+                    are in favor of going to Washington &amp; give the republicans a round or
+                    so. The north must keep <orig reg="their">thare</orig> feet <orig reg="off">of</orig>
+                    <orig reg="of">ove</orig> Virginia soil or <orig reg="there">thare</orig> will
+                    be blood shed. All of the Augusta Grays voted <pb n="4"/> for secession <orig
+                        reg="but">put</orig> two &amp; they did not vote fifteen or twenty of us
+                    was not old enough, <orig reg="but">put</orig> our <abbr expan="Captain"
+                    >Capt</abbr> told us to vote if we could &amp; every one of us voted one of
+                    our low life men talked like he <orig reg="would">wold</orig> oppose our votes
+                    and the gentle man was about to get him self into business he got so bad scared
+                    that he went and voted for secession. John is not so lively as he was when at
+                    home. My friend James is well you will hear from him before long. Mr Apple told
+                    me to send his love to who ever I was writing to I intend to come up to see you
+                    before long. I ask an <orig reg="interest">interrest</orig> in your prayers that
+                    I may hold out <orig reg="faithful">faith full</orig> to the end.</p>
+
+                <closer>
+                    <salute>I remain yours affectionately</salute>
+                    <signed><abbr expan="William">Wm.</abbr> F. Brand</signed>
+                    <seg type="postscript">Write soon as I am always <orig reg="anxious"
+                        >ancious</orig> to hear from you all</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

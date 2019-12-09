@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+
+<?dlps id="A5048"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A5048">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: James W. Gabbert to Mary C. Baylor,
+                    July 24, 1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county james w gabbert to mary c baylor, july 24 1862</title>
+        <author>Gabbert, James W.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amy Voorhees</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A5048</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502332</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: James W. Gabbert to Mary C. Baylor, July 24, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta county james w gabbert to mary c baylor, july 24 1862</title>
+            <author>James W. Gabbert</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: McGuffin Family Papers, Accession
+                            #6732, Special Collections Department, Unviersity of Virginia Library,
+                            Charlottesville, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1862-07-24">1862-07-24</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Battle Description, Death/Casualties, Camp Life, Troop Movement</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2002-11">November 2002</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against the original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A5048T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Gabbert writes to Mary Baylor about the terrible things he saw during and after
+                    the battle in Malvern Hill in early July.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Mary C. Baylor, Summerdean, Augusta Co, Va</name>
+                    <name type="place">Camp near Gordonsville Va</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1862-07-24">July 24 '62</date>
+                    </dateline>
+                    <salute>Friend Mary:</salute>
+                </opener>
+
+                <p>you are doubtless thinking that I have forgot you but I <orig reg="assure"
+                        >asshure</orig> you that I have not, and have had so much fighting and hard
+                    marching to do since we come over here that I haven't had time to do anything. I
+                    suppose you have heard all about the fighting in the papers, better than I can
+                    tell you, it beat all the fights that I ever was in. I could stand in place and
+                    count fifty dead yankees without moving out of my tracks some of them wasn't
+                        <orig reg="buried">burried</orig> for five <del rend="none" hand="h1"/> days and some
+                    wasn't <orig reg="buried">burried</orig> at all I don't believe. The Battle
+                    field was a horrible sight. To hear the wounded and <orig reg="dying"
+                    >dieing</orig> moaning and calling <pb n="2"/> for water and for some one to
+                    take them away. We <orig reg="laid">layed</orig>
+                    <orig reg="right">rite</orig> in amongst the dead &amp; wounded in the field
+                    that night it was the dreadfulest night I ever spent. <abbr expan="Captain"
+                        >Capt.</abbr> W H Randolph was killed dead and John Bowers &amp; James
+                        <del rend="none" hand="h1"/> also was killed dead. <abbr expan="Lieutenant">Lieut</abbr>
+                    W H McKinney was wounded after the fight was over by accident. We was left
+                    without a <orig reg="officer">oficer</orig> Charlie had to take command. I
+                    couldn't give you a full account of it for it would take one too long. <abbr
+                        expan="Lieutenant">Lieut</abbr> Carson has got back we left him at
+                        <unclear>Brower's</unclear> Gap he is in command and our company is getting
+                    small now all that is over thirty five years is getting off that didn't <orig
+                        reg="volunteer">Volinteer</orig> or <orig reg="reenlist">reinlist</orig>. I
+                    reckon Berry <unclear>Bonty</unclear> will get off today or tomorrow if every
+                    thing goes right. All the Boys is well as <unclear>common</unclear> we had <pb
+                        n="3"/> many away sick. <del rend="none" hand="h1"/> got back the other day and John
+                        <unclear>Buret</unclear> got back yesterday. I got a letter from home
+                    yesterday evening I havent heard from my <unclear>Duck</unclear> for some time I
+                    expect she has forgotten me but I hope not give her my <del rend="none" hand="h1"/> when you
+                    see her. <abbr expan="Charles W. McGuffin">C W. Mc.</abbr> is here - he got back
+                    some time ago. You ought to see us making black berry pies and eating them I
+                    would like to be up there eat some that you bake for I expect you can beat us.
+                    There is plenty of Blackberries over here the fields is full of them that is all
+                    there is over here we are camped about five miles from Gordonsville. we have a
+                    firstrate camp I expect we will stay here awhile if the yankees dont run us out
+                    - we come up on the <del rend="none" hand="h1"/> C.H. <pb n="4"/> and marched from there
+                    here. we had a fine shower of rain yesterday morning I must close as it is
+                    getting most <unclear>dinner</unclear> time write as soon as you can and give me
+                    all the news for I am always glad to hear from you. Give my <del rend="none" hand="h1"/> all
+                    inquiring friends and take a portion yourself. Direct your letter to
+                    Gordonsville, Jackson's Division 1st Brigade 5th Regiment Va <del rend="none" hand="h1"/>
+                    nothing more at present but still remain</p>
+
+                <closer>
+                    <salute>but still remain your old friend as ever</salute>
+                    <signed>James W. Gabbert</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

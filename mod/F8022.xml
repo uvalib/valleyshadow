@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+
+<?dlps id="F8022"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F8022">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: John Berryhill to Simon Cameron,
+                    January 11, 1861</title>
+        <title type="sort">franklin county john berryhill to simon cameron, january 11 1861</title>
+        <author>Berryhill, John</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Andrew J. Torget</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F8022</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501660</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: John Berryhill to Simon Cameron, January 11, 1861</title>
+            <title level="m"/>
+            <title type="sort">franklin county john berryhill to simon cameron, january 11 1861</title>
+            <author>John Berryhill</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: John Berryhill to Simon Cameron,
+                            11 January 1861, Simon Cameron Papers, Dauphin County Historical
+                            Society, Reel 7</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Historical Society of Dauphin County, Harrisburg, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1861-01-11">1861-01-11</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Secession, Unionism, State Government, National Government, Patriotism</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F8022T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Berryhill comments on the secession crisis.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+              
+
+                <opener>
+                    <dateline>
+                        <date value="1861-01-11"><abbr expan="January">Jany</abbr> 11. 1861</date>
+                        <name type="place">Chambersburg</name>
+                    </dateline>
+                    <salute><abbr expan="Honorable">Hon.</abbr> Simon Cameron<lb/>Dear Sir,</salute>
+                </opener>
+
+                <p>I have been here for several Weeks and have been watching the general course of
+                    events, by reading the <abbr expan="Philadelphia">Philada</abbr> Enquirer,
+                    Press, &amp; New York Tribune &amp; occasionally the Herald, &amp; I
+                    can assure you <orig reg="Crittenden's">Crittendon's</orig> course is the most
+                    proper and popular at this time, and if you <orig reg="can't">cant</orig>
+                    compromise, so as to retain Virginia, Maryland Tennessee Kentucky and Missouri-
+                    in the Union, Then let the Southern Fire eaters and rabid abolitionists and
+                    uncompromising <hi rend="underline">shall I say</hi>, Black Republicans go their
+                    own way to <orig reg="destruction">distruction</orig> for that will be their
+                        <orig reg="destruction">distruction</orig> &amp; I fear of the whole
+                    country, but before this let the Middle Portion of the Republic go for a
+                    separate, Independant, &amp; free country or Join Canida &amp; come
+                    under Queen Victoria and secure us life liberty equality &amp; protection,
+                    Our Country must have a larger <orig reg="Military">Millitary</orig> force and
+                    Scott &amp; Anderson, to wield the helm of State, no more temporizing with
+                    Trators &amp; disunionist. King of your house, used the right language, to
+                    Davis &amp; these <unclear>lackeys</unclear> should be <orig reg="expelled"
+                        >expeled</orig>. Traitors, <orig reg="sitting">setting</orig> there
+                    accepting pay and compensation to dismember the union it is disgraceful and I
+                    might say horrible when the consequences are taken into account, I hope still
+                    for peace &amp; my voices for<pb n="2"/>this still, but the over ruling
+                    power of the conservatives--I have as you know always been a Whig &amp; a
+                    Jackson Man, but now I feel, looking at Hickman Stephens &amp; other
+                    Republicans, like joining the Democrats, the <unclear>Bigler</unclear>
+                    Stripe--Douglas is rather too versatile to be trusted - I have now to turn to
+                    another matter relating to yourself, I seen the letter from Mr Gehr to you, it
+                    was full and frank, and in unison, entirely with my feelings, and he has <orig
+                        reg="today">to day</orig> written, a letter, more conservative than the
+                    other, to <abbr expan="Abraham">A.</abbr> Lincoln, it will not be libellous but
+                    equally as strong, showing up McClure and the opinion of him here, and that no
+                    other man than yourself was ever spoken or thought of for Mr Lincoln's Cabinet
+                    and <orig reg="McClure's">McClures</orig> antipathy arises against your,
+                    appointment from personal, <orig reg="considerations">considirations</orig>
+                    alone, others here may also quietly advise Mr Lincoln, excuse my freedom and
+                    liberty as all I have said and done towards this matter has arisen from old and
+                    long established friendship, which I shall carry with me to the grave. I am now
+                    in my 76 year.--I will keep for you a copy of <orig reg="Gehr's">Gehrs</orig>
+                    letter to Lincoln,--with sentiment of high regard I am your friend &amp;c</p>
+
+                <closer>
+                    <salute/>
+                    <signed>
+                        <hi rend="underline">John Berryhill</hi>
+                    </signed>
+                    <seg type="postscript">P.S. I just hear one or two will write more in detail
+                        expecting McClure<lb/><abbr expan="John Berryhill">JB</abbr></seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

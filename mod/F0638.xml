@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0638"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F0638">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Josiah Bloss to His Sister, August 23, 1864</title>
+        <title type="sort">franklin county josiah bloss to his sister, august 23 1864</title>
+        <author>Josiah Bloss</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Voorhees</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Voorhees</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">6</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">F0638</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:501302</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Franklin County: Josiah Bloss to His Sister, August 23, 1864</title>
+            <title level="m"/>
+            <title type="sort">franklin county josiah bloss to his sister, august 23 1864</title>
+            <author>Josiah Bloss</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>2 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Pennsylvania Archives, Bloss Family Collection,
+       1862-1910, Folder 1</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Pennsylvania Archives</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1864-08-23">1864-08-23</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Troop Movement,Death/Casualties, Home Front </term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001">Fall 2001 </date>
+        <respStmt>
+          <resp/>
+          <name>Desi Hopkins</name>
+        </respStmt>
+        <item>Proofread against original; corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="F0638T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Bloss writes that his brigade is fighting every day, and reports that he has had a letter
+     from the hospital steward where their brother died, regarding their brother's wishes about his
+     personal belongings.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">His Sister</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1864-08-23">Aug. 23rd. 1864</date>
+      <name type="place">Harpers Ferry</name>
+     </dateline>
+     <salute>Dear Sister,</salute>
+    </opener>
+
+    <p>I received yours of the 17<hi rend="super">th</hi>. <orig reg="today">to day</orig> I was
+     very Happy to Hear that <orig reg="you">yous</orig>
+     <orig reg="were">was</orig> all well at Home, we had to fall back to Harpers Ferry as you can
+     see through the papers, we are in General <orig reg="Sheridan's">Sheridans</orig> Department,
+     &amp; General <unclear>Merrid</unclear> commands <orig reg="our">ar</orig> Division, Devins
+     our Brigadier was wounded this week, and <abbr expan="Colonel">Col.</abbr> Cisanola <orig
+      reg="commands">comands</orig> the Brigade at the present. we are having fighting every day.</p>
+
+    <p>I am detailed at Brigade Head Quarters <unclear>shoeing</unclear> for Head Quarters, I <orig
+      reg="won't">wont</orig>
+     <orig reg="have">haft</orig> to go near a fight as long as I will be here, perhaps I will be
+     here all <orig reg="summer">sumer</orig> just <orig reg="according">acording</orig> to
+     circumstances. </p>
+
+    <p>I had a letter from the Hospital <orig reg="Steward">Stuard</orig> where William died at the
+     U.S.A. Hospital stating William wanted him to send his <orig reg="watch">wach</orig> to me,
+     but, as they <orig reg="were">was</orig> going to send his valice &amp; sabre &amp;
+     revolvers home he thought it best to send the <orig reg="watch">wach</orig> along with them,
+     you tell Mother to Keep the <orig reg="watch">wach</orig>
+     <orig reg="until">untill</orig> I get Home, I also gave William a Revolver, a large Remmington
+     Revolver, his own Revolver is silver mounted, you will also keep the one I gave him till I get
+     Home, and his sabre and Revolver you will hang up in his room in memory of our Dear beloved
+     Brother, as his sword has done his duty.</p>
+
+    <p><pb n="2"/>I send forty Dollars to you as I wrote to before, you will receive it from Fuller
+     in Scranton. I am well <orig reg="and">an</orig> in good spirits.</p>
+
+
+    <closer>
+     <salute>from your Brother</salute>
+     <signed>Josiah Bloss</signed>
+     <seg type="postscript">Address as before<lb/>P.S. I made a present of a Revolver to James Ferry
+      and one to Joshua Ferry, tell James &amp; Joshua Ferry that I am very much obliged to them
+      for <orig reg="their">there</orig> trouble in conveying <orig reg="William's">Williams</orig>
+      body Home <orig reg="until">untill</orig> I can Pay them a better <orig reg="tribute"
+      >tribbute</orig>. <lb/> J. Bloss</seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

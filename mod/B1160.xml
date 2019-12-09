@@ -1,0 +1,261 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1160"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="B1160">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: W. Storer How to Orlando
+                    Brown, January 9, 1866</title>
+        <title type="sort">freedmens bureau records w storer how to orlando brown, january 9 1866</title>
+        <author>How, W. Storer</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">9</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1160</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501020</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: W. Storer How to Orlando Brown, January 9,
+                            1866</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records w storer how to orlando brown, january 9 1866</title>
+            <author>W. Storer How</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 14.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1866-01-09">1866-01-09</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Administration/Bureaucracy, Aid/Relief, Community Values/Local Behavior,
+                        Economy, Education, Employment/Labor, Legal System, Military Authority,
+                        Property, Slavery, Race Relations</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-07">July 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+                <item>Item checked against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1160T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>How summarizes conditions throughout the Sixth Sub-District. In reference to
+                    Augusta County, he mentions a riot on Christmas day, and the intransigence of
+                    the white community.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau of Refugees, Freedmen and Abandoned Lands<lb/>Head Quarters, Sixth
+                    District, Virginia
+                    <name type="recipient"><abbr expan="Colonel">Col.</abbr> O. Brown, <abbr
+                            expan="Assistant Commissioner">Assist Comr</abbr><lb/>Richmond, <abbr
+                            expan="Virginia">Va.</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1866-01-09"><abbr expan="January">Jany</abbr> 9, 1866</date>
+                        <name type="place">Winchester, <abbr expan="Virginia">Va.</abbr></name>
+                    </dateline>
+                    <salute>Colonel</salute>
+                </opener>
+
+                <p>I have again to respectfully report the condition of affairs in this District as
+                    reasonably satisfactory in view of all the circumstances which are not favorable
+                    to the greatest efficiency, since, as a rule, the usefulness of the Bureau is in
+                    a direct ratio to the number of troops in the field.</p>
+
+                <p><abbr expan="Lieutenant">Lt.</abbr>
+                    <unclear>Tubbs</unclear>, <abbr expan="Assistant Superintendent">assist
+                    Supt</abbr> says that in Botetourt County our forces "have been withdrawn and
+                    the feelings are so bitter that it is impossible to do anything to assist the
+                    Freedmen without the presence of the military. It would be worse than useless to
+                    organize schools without protection, and there should be a school at Fincastle,
+                    the <del rend="none" hand="h1"/>
+                    <unclear>town</unclear>. This county is over seventy (70) miles from Rail
+                        <unclear>communication</unclear> by way of Lexington, while it is only
+                    fourteen (14) miles from Bradford Station on the Lynchburg <abbr
+                        expan="Railroad">RRoad</abbr>."</p>
+
+                <p>I therefore repeat the suggestion that it might be better controlled from the
+                    Seventh than the Sixth District.</p>
+
+                <pb n="2"/>
+
+                <p>In Alleghany County the freedmen "are busily engaged trying to earn and furnish
+                    living" and have no difficulties with the citizens although there are no troops
+                    there. And this fact is properly accounted for by the <unclear>fine</unclear>
+                    freedmen, the demand for their labor, and the absence of large plantation habits
+                    and interests among the Whites, who are generally small farmers.</p>
+
+                <p>Through the rest of this Sub District "a large percentage of the freedmen are
+                    contracting for the next years labor, but money is so scarce that the employers
+                    make their own contracts which are quite liberal to the freedmen." "I know of no
+                    paupers or vagrants in this Sub District." "During the past Christmas they have
+                    behaved so nobly that they have won praises from their bitterest enemies." Every
+                    effort to organize a Board of Agents has failed, and <abbr expan="Lieutenant"
+                        >Lt.</abbr> Tubbs thus has to adjudicate all cases, and he says "there are
+                    but few crimes committed by the freedmen."</p>
+
+                <p>In Augusta County there is no <unclear>noticed</unclear> change. There was very
+                    nearly a riot in Staunton on Christmas day through the free use of liquors, and
+                    the fact was unmistakenly evidenced that the freedmen need protection from bad
+                    men who were <pb n="3"/>but lately "masters" and "<unclear>Whites</unclear>,"
+                    and who would now override any civil laws not in accordance with their notions
+                    of a White mans privilege.</p>
+
+                <p>In Highland <abbr expan="County">Co.</abbr> I have but just been able to get a
+                    foothold, and temporarily stationed <abbr expan="Captain">Capt.</abbr> Wells,
+                    again at Harrisonburg who <unclear>operated</unclear> with good effort upon the
+                    peculiarly rebellious spirits there, who had succeeded in frightening away Mr
+                    McLean, a teacher of the freedchildren.</p>
+
+                <p>I have arranged for his successor who would be maintained there so long as there
+                    is any force at my disposal.</p>
+
+                <p>In Shenandoah <abbr expan="County">Co.</abbr> everything is working as well as
+                    could be expected.</p>
+
+                <p>In Warren County I have no agent for want of troops to sustain him. An attempt
+                    has been made to establish a school at Luray, but the teacher has already asked
+                    for military support which I shall be unable to find him.</p>
+
+                <p>In Frederick and Clarke Counties the condition of the freedmen is as each
+                    reported, good.</p>
+
+                <pb n="4"/>
+
+                <p>In Jefferson and Buckley counties they are generally well off and fairly treated.</p>
+
+                <p>Taken as a whole, the freedmen in this District are in comfortable circumstances,
+                    and conducting themselves in a highly creditable manner. Yet there are many
+                    cases of suffering among the very poor and helpless, and especially needed for
+                    their relief is <hi rend="underline">fuel</hi>. I have been able to supply
+                    clothing and food to quite a large number, but the want of wood -- with the
+                    thermometer below <unclear>0 zero</unclear> -- has been seriously felt, and
+                    great suffering has been and will be the result of our inability to afford the
+                    desired relief.</p>
+
+                <closer>
+                    <salute>I am Colonel<lb/>Very Respectfully<lb/>Your obedient Servant</salute>
+                    <signed>W. Storer How, <abbr expan="Captain">Capt</abbr>
+                        <abbr expan="Assistant Quartermaster">AQM</abbr><lb/><abbr
+                            expan="Superintendent">Supt</abbr> Sixth <abbr expan="District">Dist</abbr>
+                        <abbr expan="Virginia">Va</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

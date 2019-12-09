@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+
+<?dlps id="A1401"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A1401">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: Robert Yates Ramsey to Maggie, October 17,
+                    1864</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta robert yates ramsey to maggie, october 17 1864</title>
+        <author>Ramsey, Robert Yates</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Kid W.</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Kid W.</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A1401</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501940</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: Robert Yates Ramsey to Maggie, October 17, 1864</title>
+            <title level="m"/>
+            <title type="sort">augusta robert yates ramsey to maggie, october 17 1864</title>
+            <author>Robert Yates Ramsey</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Letters from Robert Yates Ramsey,
+                            Accession 27295, Personal Papers Collection, The Library of Virginia,
+                            Richmond, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1864-10-17">1864-10-17</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Church/Religious Activity, Death/Casualties, Family, Prisons/Prisoners</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2005">Summer 2005</date>
+                <respStmt>
+                    <resp/>
+                    <name>Doug O'Reagan</name>
+                </respStmt>
+                <item>Proofread.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A1401T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Ramsey writes from a prisoner of war camp in Maryland. He describes his health
+                    and notes how he is comforted by his faith. He notes his wish to be among
+                    friends and asks forgiveness for an unspecified action.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">"Maggie"</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1864-10-17">Monday <abbr expan="October">oct</abbr>: 17<hi rend="super">th</hi> 1864</date>
+                        <name type="place"><orig reg="Prisoners'">Prisoners</orig> Camp, Point Lookout <abbr expan="Maryland">Md.</abbr></name>
+                    </dateline>
+                    <salute>My Dear Friend Maggie:</salute>
+                </opener>
+
+                <p>Though suffering this incarceration within the prison - walls of <abbr
+                        expan="Point">Pt.</abbr> Lookout - <orig reg="though">thoug</orig> banished
+                    from <unclear>friends</unclear> and <add hand="h1" place="inline">the society
+                    of</add> much loved ones, I rejoice to feel the <orig reg="assurance"
+                    >assureance</orig> that God is with us, and, we hope, will <hi rend="underline"
+                        >turn</hi>
+                    <hi rend="underline">back</hi> our <hi rend="underline">captivity</hi> when we
+                    are sufficiently humbled - that we may meet once more the kind - the sweet
+                    embraces of our dear <hi rend="underline">relatives</hi>, and <hi
+                        rend="underline">friends</hi>. But we would not forget the sweet words. "Not
+                    very will but <hi rend="underline">thine</hi> be done. I wish I could be allowed
+                    to write as much as I <orig reg="wished">wished</orig>. I could have much to say
+                    to you - This privilege is denied me. But may be, you would ask Why is it that I
+                    appear as willing to continue the correspondence which has <add hand="h1"
+                        place="inline">been</add> so soon, and unexpectedly, cut short? I would
+                    answer now, the same that I <hi rend="underline">would</hi>
+                    <hi rend="underline">have</hi> answered on that <hi rend="underline">ever</hi>
+                    <hi rend="underline">memorable morning</hi>, that it is as motive <hi
+                        rend="underline">no</hi>
+                    <hi rend="underline">less</hi>, than a desire to cultivate the <hi
+                        rend="underline">friendly</hi>
+                    <hi rend="underline">relations</hi> do not say, "there is none
+                    <unclear>]</unclear> in existence between us. With <hi rend="underline">your</hi>
+                    <hi rend="underline">sanction</hi> our correspondence (though it will be rather
+                    slow) will continue. I am pained when I think of my <hi rend="underline"
+                    >uncivil</hi> conduct, when in your presence that morning, and also, those <hi
+                        rend="underline">complicated</hi> mysteries that I had boldness to write
+                        <unclear>since</unclear> at the expence of one so <hi rend="underline"
+                        >truely innocent</hi> - Let me ask you to forgive me, and not only to
+                    destroy these <hi rend="underline">letters</hi>, but even tho <hi
+                        rend="underline">recollection</hi> of them <orig reg="forever">for
+                    ever</orig>. I can write no more now. I will send you a stamp all I have. Brown
+                    landed here a few days ago &amp; we both have slight colds, with that
+                    exception we are <add hand="h1" place="inline">
+                        <hi rend="underline">well</hi>
+                    </add>
+                    <orig reg="Inform">In form</orig> my mother that I have heard from <hi
+                        rend="underline">Danville</hi> and <hi rend="underline">Mr. Kelso</hi> -
+                    they are <hi rend="underline">well</hi> Their school is still going <del
+                        hand="h1"/> Their children (<hi rend="underline">two</hi>
+                    <hi rend="underline">daughters</hi>) are well also.<pb n="2"/> Direct to <abbr
+                        expan="Company">Co</abbr> "B" 2<hi rend="super">nd</hi>
+                    <abbr expan="Division">Div</abbr> care of <hi rend="underline"><abbr
+                            expan="Major">Maj.</abbr> Brady Provost <abbr expan="Master"
+                    >Mas</abbr></hi></p>
+
+                <closer>
+                    <salute>Yours &amp;c as ever</salute>
+                    <signed>R. Y. Ramsey</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+
+<?dlps id="B0804"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B0804">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: Thomas P. Jackson to John A.
+     McDonnell, May 31, 1867</title>
+        <title type="sort">freedmens bureau records thomas p jackson to john a mcdonnell, may 31 1867</title>
+        <author>Jackson, Thomas P.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Desi Hopkins</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Desi Hopkins</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">B0804</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+     <p>Text and Images (c) copyright 1993-2005, by the Rector and Visitors of the University of
+      Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date>
+        <idno type="uva-pid">uva-lib:500861</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Freedmen's Bureau Records: Thomas P. Jackson to John A. McDonnell, May 31, 1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records thomas p jackson to john a mcdonnell, may 31 1867</title>
+            <author>Thomas P. Jackson</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>1 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: National Archives and Records Administration,
+       Records of the Bureau of Refugees, Freedmen and Abandoned Lands, RG 105, Box E4265.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1867-05-31">1867-05-31</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Family, Aid/Relief, Women</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2006-02">February 2006</date>
+        <respStmt>
+          <resp/>
+          <name>Heather Weidner</name>
+        </respStmt>
+        <item>Item proofread against original; corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="B0804T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Jackson's somewhat unclear letter talks about the situation of several orphans in
+    Staunton.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+
+   <div1 type="letter" id="d5">
+    <head>
+     Bureau <abbr expan="Refugees, Freedmen and Abandoned Lands">R F &amp; A L</abbr>
+     <lb/><abbr expan="Office of 4th Division, 9th Sub-District, Virginia">Off 4 Div 9 S Dist
+      Va</abbr>
+     <name type="recipient"><abbr expan="Captain">Capt</abbr> John A McDonnell<lb/>Sub <abbr
+       expan="Assistant Commissioner">Asst Comr</abbr>
+     </name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1867-05-31">May 31/67</date>
+      <name type="place">Winchester</name>
+     </dateline>
+
+     <salute>Captain</salute>
+    </opener>
+
+    <p>I have the honor to transmit my <unclear>injual<orig reg="initial?"/></unclear> application
+     for Transportation of Orphans from Staunton to Richmond with endorsements and also this
+     explanation. For some reason or other there seems an excess of <unclear>g---g</unclear> orphan
+     children at Staunton and if homes are found but food and clothing can be had &amp; no
+     education. Sally M. Lane and <unclear>James</unclear> Cozzen ran away from Peyton who formerly
+     owned the parents &amp; I had difficulty in inducing them to return. They did so, hoping I
+     shall send for them. James W. &amp; George Washington Stuart and children of a <del
+      hand="h1"/> widow who cannot support them she begs they may be allowed to go North and I
+     respectfully second her request as they must otherwise be bound out. The rest have homes but
+     poor prospects.</p>
+
+    <closer>
+     <salute>
+      <abbr expan="Your obedient servant">Yr obt servt</abbr>
+     </salute>
+     <signed><hi rend="underline">Tho<hi rend="super">s</hi> P Jackson</hi><lb/>Agent</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

@@ -1,0 +1,229 @@
+<?xml version="1.0"?>
+
+<?dlps id="B0523"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="B0523">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: W. Storer How to Orlando
+                    Brown, September 29, 1865</title>
+        <title type="sort">freedmens bureau records w storer how to orlando brown, september 29 1865</title>
+        <author>How, W. Storer</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B0523</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500778</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: W. Storer How to Orlando Brown, September
+                            29, 1865</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records w storer how to orlando brown, september 29 1865</title>
+            <author>W. Storer How</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Bureau of Refugees, Freedmen, and
+                            Abandoned Lands, Record Group 105, Box E4302.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1865-09-29">1865-09-29</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Employment/Labor, Legal System, Military Authority, Patriotism, Property,
+                        Slavery</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-07">July 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+                <item>Item checked against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B0523T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>How introduces the case of James Hamilton, a free black living in Maryland who
+                    was captured and taken to Harrisonburg, where he was sold to William Shumate of
+                    Staunton, Virginia. How presents what information he has, and asks for advice on
+                    a possible course of action to reimburse Hamilton.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau <abbr expan="Refugees, Freedmen and Abandoned Lands">R.F. &amp;
+                        A.L.</abbr><lb/>Sixth <abbr expan="District, Virginia">Dist, Va</abbr>
+                    <name type="recipient"><abbr expan="Colonel">Col.</abbr> O. Brown<lb/><abbr
+                            expan="Assistant Commissioner">Asst. Comr.</abbr><lb/>Richmond, <abbr
+                            expan="Virginia">Va</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1865-09-29"><abbr expan="September">Sept</abbr> 29t 1865</date>
+                        <name type="place">Staunton</name>
+                    </dateline>
+                    <salute>Colonel</salute>
+                </opener>
+
+                <p>I have the honor to submit for your revision the following case with my action
+                    upon it.</p>
+
+                <p>James Hamilton, colored, says he was a free man living in Hancock <abbr
+                        expan="Maryland">Md</abbr> before the war -- was free-born -- He was
+                    captured by the rebels while driving a team in the service of the Government
+                    somewhere between Winfield and Cumberland, and taken to Harrisonburg, Rockingham
+                        <abbr expan="County, Virginia">Co, Va</abbr>, where he was put in Jail and
+                    kept there four (4) months. In May 1864 he was sold to Mr. <abbr expan="William"
+                        >Wm.</abbr> J. Shumate and by him taken to Staunton <abbr expan="Virginia"
+                        >Va</abbr> where he was kept in Jail (1) one month. When <abbr
+                        expan="General">Genl.</abbr> Hunter came along and Shumate took him out of
+                    Jail Handcuffed and kept him so (4) four days and nights. He lived with and
+                    worked for Shumate during one year leaving his service about the last of May
+                    1865.</p>
+
+                <p>I sent for Mr. Shumate who appeared and substantiated the main points of
+                    Hamilton's statements.</p>
+
+                <p>Shumate said he bought Hamilton of Mr. Trick, Jailer, in <orig reg="Harrisonburg"
+                        >Harrisonburgh</orig> for 505, or 510 dollars. He was sold as he understood
+                    by order of <unclear>Court</unclear>. Did not see the order knew that he
+                    Hamilton claimed to be free, and that some one in Md had answered to Jailer's
+                    letter to that effect. Knew also that he was a prisoner of war.</p>
+
+                <pb n="2"/>
+
+                <p>Afterwards brought to me the bill of sale, of which the following is a true
+                    copy.<lb/> "<abbr expan="Received">Rec'd</abbr> of William Shumate - five
+                    hundred Dollars it being in full for the purchase of a Negro man named James
+                    Hamilton aged about 30 years. The <orig reg="right">write</orig> and title of
+                    which man I sell for the term of twenty years, at which he is free unless some
+                    one claiming proves a <orig reg="right">write</orig> to him as property. Witness
+                    my hand and seal this the 4th May 1864."<lb/><abbr expan="Signed">Sigd</abbr>
+                    Peter Trick (seal)</p>
+
+                <p>Upon the facts as they thus appear and in the view of the fact that this Shumate
+                    was a trader in doubtful "property" of that kind, and considering that Hamilton
+                    would probably have been released as were the other prisoners in Harrisonburg
+                    Jail by the troops under <abbr expan="General">Genl</abbr> Hunter had not
+                    Shumate gone there and speculated in him, I decided that Shumate should pay
+                    Hamilton thirty (30) dollars per month (Hamiltons wages for one (1) year. He
+                    demured and thought Irick, if anybody, should pay and wished me to see Irick,
+                    which I did, but he is a poor, infirm old man who can recollect nothing except
+                    that he sold Hamilton to Shumate for Jail Fees by order of
+                    <unclear>Court</unclear> - the records of which have been destroyed.</p>
+
+                <p>He claims to have been a "Union Man" but was old and could only do as he was bid.
+                    I also submit without comment a letter from Shumate's attorney Mr. John B.
+                    Baldwin, and repsectfully ask Instructions,</p>
+
+                <closer>
+                    <salute><abbr expan="Respectfully">Respy</abbr> &amp;c</salute>
+                    <signed>W Storer How</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

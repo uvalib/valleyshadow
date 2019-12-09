@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+
+<?dlps id="B0206"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B0206">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: John W. Jordan to John A.
+                    McDonnell, May 16, 1868</title>
+        <title type="sort">freedmens bureau records john w jordan to john a mcdonnell, may 16 1868</title>
+        <author>Jordan, John W.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B0206</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500568</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: John W. Jordan to John A. McDonnell, May
+                            16, 1868</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records john w jordan to john a mcdonnell, may 16 1868</title>
+            <author>John W. Jordan</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Bureau of Refugees, Freedmen, and
+                            Abandoned Lands, Record Group 105, Box E4269.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1868-05-16">1868-05-16</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Education, Aid/Relief</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-06">June, 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B0206T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Jordan asks McDonnell for an appropriation of twenty dollars for the Waynesboro
+                    Freedmen's Schoolhouse, which McDonnell declines in the attached
+                endorsement.</p>
+            </div1>
+
+            <div1 type="addenda" id="d4">
+                <p>Bureau <abbr expan="Refugees, Freedmen and Abandoned Lands">R.F. &amp;
+                    A.L.</abbr><lb/>Head <abbr expan="Quarters">Qrs</abbr> 9th Sub <abbr
+                        expan="District">Dist.</abbr>
+                    <abbr expan="Virginia">Va</abbr><lb/>Winchester, May 18. 1868</p>
+                <p>Respectfully returned to <hi rend="underline">John W. Jordan,</hi>
+                    <abbr expan="Assistant Sub Assistant Commissioner">A.S.A.C.</abbr></p>
+                <p>Disapproved - The application for aid in building the Schoolhouse at Waynesboro
+                    was granted with the understanding that with the aid furnished the building
+                    would be immediately completed by the freedmen. The attention of Mr. <hi
+                        rend="underline">Jordan</hi> is invited to endorsement of <hi
+                        rend="underline">R. M. Manly</hi>, <abbr expan="Superintendent">Supt</abbr>
+                    of Education dated <abbr expan="March">Mch</abbr> 19.<abbr expan="1868"
+                    >68</abbr> to an <abbr expan="application">app<hi rend="super">n</hi></abbr> of
+                        <abbr expan="Thomas">Tho<hi rend="super">s</hi></abbr> P. Jackson dated July
+                        17.<abbr expan="1868">68</abbr> stating that "the funds for
+                    <unclear>rental</unclear> and repair of schoolhouse are exhausted."<lb/>John A.
+                    McDonnell<lb/>Sub <abbr expan="Assistant">Asst</abbr>
+                    <abbr expan="Commissioner">Comr</abbr></p>
+            </div1>
+        </front>
+
+        <body id="d5">
+            <div1 type="letter" id="d6">
+                <head>
+                    Bureau of Refugees, Freedmen and Abandoned Lands,<lb/>Office 4th Division, 9th
+                    Sub-District, Virginia.
+                    <name type="recipient"><abbr expan="Captain">Capt</abbr>
+                        <abbr expan="John">Jno</abbr> A. M<hi rend="super">c</hi>Donnell<lb/>Sub
+                            <abbr expan="Assistant">Asst</abbr>
+                        <abbr expan="Commissioner">Comr</abbr><lb/><abbr expan="Bureau">B</abbr> of
+                            <abbr expan="Refugees, Freedmen and Abandoned Lands">R. F. &amp; A.
+                            L.</abbr><lb/>Winchester, <abbr expan="Virginia">Va</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1868-05-16">May 16<hi rend="super">th</hi> 1868</date>
+                        <name type="place">Staunton, <abbr expan="Virginia">Va.</abbr>, </name>
+                    </dateline>
+                    <salute>
+                        <abbr expan="Captain">Capt</abbr>
+                    </salute>
+                </opener>
+
+                <p>I have the honor to apply for an additional appropriation of <hi rend="underline"
+                        >Twenty</hi> $20 Dollars for the benefit of the Waynesboro Freedmens School
+                    House <orig reg="etc.">&amp;c</orig> for the following named reasons.</p>
+
+                <p>The building is very nearly completed &amp; all that is wanting now to
+                        <unclear>reuse</unclear> same is a matter of <hi rend="underline">4000</hi>
+                    Shingles for the purchase of which the appropriation is called for.</p>
+
+                <p>I earnestly hope the appropriation will be made as there is no possibility of our
+                    being able to raise the <abbr expan="amount">amt</abbr> required from any other
+                    source.</p>
+
+                <closer>
+                    <salute>I am <abbr expan="Captain">Capt.</abbr> Your <abbr expan="obedient">obt</abbr>
+                        <abbr expan="Servant">Svt</abbr></salute>
+                    <signed><abbr expan="John">Jno</abbr> W. Jordan<lb/><abbr
+                            expan="Assistant Sub Assistant Commissioner">A.S.A. Cmr</abbr>
+                    &amp;</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

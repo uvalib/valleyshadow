@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+
+<?dlps id="A6026"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="A6026">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Michael G. Harman to General H. R. Jackson,
+     October 20, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county michael g harman to general h r jackson, october 20 1861</title>
+        <author>Harman, Michael G.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Diane B. Jacob, Virginia Military Institute</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Alice McShane</name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A6026</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:502389</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Michael G. Harman to General H. R. Jackson, October 20, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta county michael g harman to general h r jackson, october 20 1861</title>
+            <author>Michael G. Harman</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>1 page</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Michael Harman Papers, Manuscript #0397, Virginia
+       Military Institute Archives, Lexington, Virginia.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Virginia Military Institute Archives, Lexington, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1861-10-20">1861-10-20</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Medicine/Hospitals, Military Authority</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001-07">July 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Murrell</name>
+        </respStmt>
+        <item>Tagging checked; final corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A6026T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Harman discusses a horse unfit for service, the transportation of corn, and the overcrowded
+     hospitals in Staunton.</p>
+   </div1>
+
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head> Letterhead: Confederate States of America. Head Quarters forces at Staunton, Va. 
+     <name type="recipient"> Genl. H.R. Jackson Commanding on Monterey Line Greenbrier River</name>
+     <name type="place">Confederate States of America Head Quarters Forces at Staunton, Va.</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1861-10-20">October 20th, 1861</date>
+     </dateline>
+     <salute>General-</salute>
+    </opener>
+
+    <p>Your letter in regard to horses unfit for service is at hand. When I wrote to you in regard
+     to them I understood many horses were turned out as unfit for use. If the number that ought to
+     be changed can be reported to me I will send out horses to take the places of those unfit for
+     service.</p>
+    <p>On Thursday last I sent 7 loads of corn (4 horse) to Monterey. This morning 4 four horse
+     loads of corn &amp; Saturday 7 two horse wagons of Capt. Miller's
+     <unclear>Battery</unclear> with corn &amp; tomorrow morning I start twenty four horse wagon
+     loads of corn &amp; 10 loads of clothing marked to Maj. J. L. Corley. I write to Capt. P.
+     B. Hoge the Quarter master at Monterey if you desire it &amp; direct him to do so although
+     the corn is invoiced to Monterey to send it through without unloading to Greenbrier River. Col.
+     Scott who is now in my office says he does not think 20 loads of corn can be stored at
+     Greenbrier River. Please advise Capt. Hoge what you wish done by express.</p>
+    <p>Yesterday a train of wagons loaded with corn was started from the county of Rockingham to
+     Monterey. It is most important the bags should be returned to us &amp; for that reason if
+     there is not room to store the corn at the River I wish it stopped at Monterey. I hope you will
+     not think me troublesome in writing to you about these details, but there has been so much
+     mismanagement I think it is best to communicate with you direct until I get all in good order.</p>
+    <p>There are now 1000 men in the Hospital here and it is too much crowded. Surgeon Boatwright
+     informs me he has 250 men on the road to this place. I have recommended to the Surgeon General
+     to authorize me to contract for the use of the Rockbridge Baths 9 miles from the Central Rail
+     Road &amp; will accommodate 300,and also to contract for Stribling Springs provided we need
+     them &amp; I feel confident we will need both in less than 10 days.</p>
+
+    <closer>
+     <salute>Very Respectfully Your Obedient Servant M.G. Harman Lt. Colonel, Comdg. &amp;c..</salute>
+     <signed/>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

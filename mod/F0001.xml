@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0001"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="F0001">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Abraham Lincoln to Major General
+                    Hooker, April 15, 1863</title>
+        <title type="sort">franklin county abraham lincoln to major general hooker, april 15 1863</title>
+        <author>Lincoln, Abraham </author>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amy Murrell </name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">5</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Institute for Advanced Technology in the Humanities </publisher>
+                <publisher>University of Virginia </publisher>
+                <pubPlace>Charlottesville, Va. </pubPlace>
+                <idno type="VCDH">F0001 </idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1997 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved. </p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2/personal.html </p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1997 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1997">1997 </date>
+            <idno type="uva-pid">uva-lib:501181</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow Project </p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note> </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Abraham Lincoln to Major General Hooker, April 15,
+                            1863 </title>
+            <title type="sort">franklin county abraham lincoln to major general hooker, april 15 1863</title>
+            <author>Abraham Lincoln</author>
+            <respStmt>
+                            <resp/>
+                            <name> </name>
+                        </respStmt>
+          </titleStmt>
+                    <publicationStmt>
+                        <publisher> </publisher>
+                        <pubPlace> </pubPlace>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Pennsylvania Historical and Museum Commission, Civil War Material, Misc.
+                            Diaries &amp; Letter, Microfilm, MG-132</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                     <p/>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Pennsylvania Historical and Museum Commission, Harrisburg, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1863-04-15">1863-04-15 </date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Military Authority, Troop Movement </term>
+                    <term>Regiment: </term>
+                    <term>Company: </term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""> </date>
+                <respStmt>
+                    <resp/>
+                    <name> </name>
+                </respStmt>
+                <item> </item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="F0001T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Lincoln writes to Major General Hooker on April 15, 1863, to report on the
+                    progress of General Sheridan's army.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Major General Hooker </name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1863-04-15">April 15th 1863 </date>
+                        <name type="place">Executive Mansion, Washington </name>
+                    </dateline>
+                    <salute>Major General Hooker </salute>
+                </opener>
+                <p>It is now 10_15 P.M. An hour ago I received your letter of this morning, and a
+                    few minutes later your <orig reg="dispatch">despatch</orig> of this evening. The
+                    latter gives me considerable uneasiness. The rain and mud of course were to be
+                    calculated upon. Genl S. is not moving rapidly enough to make the expedition
+                    come to anything. He has now been out three days, two of which were <orig
+                        reg="unusually">un-<lb/>usually</orig> fine weather, and all three without
+                    hindrance from the enemy, and yet he is not twentyfive miles from where he
+                    started. To reach his point, he still has sixty to go: another river the Rapidan
+                    to cross, and will be hindered by the enemy. By arithematic, how many days will
+                    it take him to do it? I do not know that any better can be done, but I greatly
+                    fear it is another failure already. Write me often. I am very anxious. </p>
+                <closer>
+                    <salute>Yours truly </salute>
+                    <signed>A. Lincoln </signed>
+                    <seg type="postscript">I certify the foregoing to be a true copy of the original
+                        now in my possession. Tho<hi rend="super">s</hi> Lawlor, Secretary <name
+                            type="recipient">{ } </name>
+                    </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

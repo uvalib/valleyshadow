@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+
+<?dlps id="F1121"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F1121">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Franklin Rosenbery to John Abraham
+                    Rosenbery (father), January 10, 1864</title>
+        <title type="sort">franklin county franklin rosenbery to john abraham rosenbery father , january 10 1864</title>
+        <author>Rosenbery, Franklin</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Matt Speiser</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Matt Speiser</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F1121</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501417</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Franklin Rosenbery to John Abraham Rosenbery
+                            (father), January 10, 1864</title>
+            <title level="m"/>
+            <title type="sort">franklin county franklin rosenbery to john abraham rosenbery father , january 10 1864</title>
+            <author>Franklin Rosenbery</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent> pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Kittochtinney Historical Society,
+                            Chambersburg, PA</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Kittochtinney Historical Society, Chambersburg, PA</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1864-01-10">1864-01-10</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Family, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2005-07">July, 2005</date>
+                <respStmt>
+                    <resp/>
+                    <name>Kid W.</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F1121T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Rosenbery writes about receiving supplies from home and observes that it does,
+                    indeed, snow in the South.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+               
+
+                <opener>
+                    <dateline>
+                        <date value="1864-01-10">January 10, 1864</date>
+                        <name type="place">Camp Near Stephensville, <abbr expan="Virginia">Va.</abbr></name>
+                    </dateline>
+                    <salute>Dear Father:</salute>
+                </opener>
+
+                <p>Your letter of 4th and 5th came to hand yesterday evening. I was truly glad to
+                    hear from you. I am well at present-hoping that these few lines may <orig
+                        reg="find">finde</orig> you all enjoying the same blessings of health-</p>
+                <p>I received Rachel's letter but your others I did not. I was glad to get them awls
+                    and Bristles and thread and needle. I intended that you should send me shoemaker
+                    threads but one of my <orig reg="messmates">mess mates</orig> got a box sent
+                    from home and had shoe thread in it and he had a variety of provisions in it. He
+                    shares with us.</p>
+                <p>There is 4 of us together-William H. Wolff from Bridgeport, near Loudon, Solomon
+                    Dale from Centee County, Ben Bowlesboro and James Deckert. The rest of the mess
+                    have sent for stores so that they can share with Solomon Dale while he has
+                    shared with us.</p>
+                <p>I thought that I could have a small box made up for me as there is a great many
+                        <orig reg="boxes">boxs</orig> has come through to our <abbr expan="Regiment"
+                        >Regt.</abbr> by express. By being addressed the same as the letter-if you
+                    fix me up a small box tell Rachel to put some dry cherries-dry huckleberries, a
+                    crock of apple butter and a few pounds of butter. Some fat cakes as they will
+                    keep-that is if the fat is not <orig reg="too">to</orig> scarce-about 2 loaves
+                    of bread and get a bucket that is like that small one of mine-with the lid
+                    on-one that will hold a gallon. Fill it with <orig reg="sauerkraut"
+                    >sorkrout</orig> and put in some <orig reg="cucumber">cuccumber</orig> pickles.
+                    We would like the bucket to answer for making coffee in. Dale's box weighed
+                    about 2 hundred pounds.</p>
+                <p>I wish to mention that you must not think that I am starving. I have enough to
+                    eat. But the rest have shared with me and I would like to give something in
+                    return. If some of the neighbors feel like helping to fix up the box it will be
+                    gladly <abbr expan="received">rec'd</abbr>.</p>
+                <p>Put in some sausages-some pudding. Dale had roasted chicken sent to him. They
+                    were froze over night after they were roasted then packed up. Send some dry
+                    beef-some roasted chiken.</p>
+                <p>If they wish send some eggs as eggs are worth 60 cents a dozen here. Put them in
+                    something to pack them-with some corn meal.</p>
+                <p>Tell Rachel to put in some dry beans-that is those that were dried green-put in
+                    some apples-send a box weighing about 100 pounds more or less. You may do about
+                    this as you please.</p>
+                <p>Now at this present time, Aunt Sally Lincoln gives us <orig reg="biscuits"
+                        >buisquits</orig>. Only they are pretty <orig reg="hard">harde</orig> on the
+                    teeth. It is a good thing to have a change.</p>
+                <p>You may send the box when it suits you. I for my part would not ask you to go to
+                    any trouble for me. Dale got his box a few days ago. Deckert got his box today.
+                    Willim H. Wolrff's box is on the way. They share with me. I feel like sharing
+                    with them. If you cannot send such articles as I mentioned...Send anything that
+                    is eatable for we are not choicy here or sneaken.</p>
+                <p>Now, about the weather. It snowed nearly all day on the 4th of this month as we
+                    are South as they call it. It still snows here and the snow is cold here too.</p>
+                <p>Tuesday we were sent out on three day picket. On Wednesday night it snowed nearly
+                    all night. You may guess how it goes to be out in the snow. 2 hours at a time
+                    without fire and when you are off of post and want to lay down to sleep you can
+                    lay down and let it snow on you. I tried it but the snow tickled my face <orig
+                        reg="too">to</orig> much to sleep.</p>
+                <p>We picketed along the Rappahannock River. Every 15th day comes my turn to go out
+                    on 3 day picket. It has been very cold for 2 weeks back. I must close for the
+                    present.</p>
+                <p>I will write soon again.</p>
+
+                <closer>
+                    <salute><orig reg="Farewell">Farewll</orig> for this time.</salute>
+                    <signed><abbr expan="Franklin">F.</abbr> Rosenbery</signed>
+                    <seg type="postscript">
+                        <name type="recipient">To John Rosenbery</name>
+                    </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

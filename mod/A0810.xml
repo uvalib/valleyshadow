@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+
+<?dlps id="A0810"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+
+<!ENTITY garb10a SYSTEM "uva-lib:503038" NDATA uvaHighRes>
+<!ENTITY garb10b SYSTEM "uva-lib:503039" NDATA uvaHighRes>
+
+]>
+  
+<TEI.2 id="A0810">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Thomas Garber to Albert Garber, October 20, 1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county thomas garber to albert garber, october 20 1862</title>
+        <author>Garber, Thomas</author>
+        <editor> </editor>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Alice Carter</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Murrell</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A0810</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>copyright 1998, by the Rector and Visitors of the University of Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1998 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1998">1998</date>
+        <idno type="uva-pid">uva-lib:503037</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Thomas Garber to Albert Garber, October 20, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta county thomas garber to albert garber, october 20 1862</title>
+            <author>Thomas Garber</author>
+            <editor> </editor>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p> </p>
+          </editionStmt>
+          <extent>2 pages</extent>
+          <publicationStmt>
+            <publisher> </publisher>
+            <pubPlace> </pubPlace>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Garber Family Letters, Augusta County Historical
+       Society, Staunton, Virginia </idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Augusta County Historical Society, Staunton, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1862-10-20">1862-10-20</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Camp Life, Family</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2000">Summer 2000</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Voorhees</name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A0810T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Thomas Garber asks his father for help in obtaining a new pair of pants. </p>
+   </div1>
+  </front>
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <opener>
+     <pb n="1" entity="garb10a" pid="uva-lib:503038"/>
+    
+
+     <name type="recipient">Albert Garber</name>
+
+     <dateline>
+      <date value="1862-10-20">October 20<hi rend="super">th</hi> 1862</date>
+      <name type="place">Camp Near Charlestown</name>
+     </dateline>
+     <salute>Dear Father</salute>
+    </opener>
+
+    <p>Cousin Ash just told me that Claborn Mason was going <orig reg="home">hom </orig> tomorrow
+     and I <orig reg="thought">though</orig> the best way I could occupy my time <del hand="h1">was
+      to</del> would be to write you a few lines the sun is going down and camp is in quite a stir
+     about <orig reg="roll">rool </orig> call and <orig reg="laughing">lauging</orig> about the men
+     who fell <orig reg="off">of</orig> their horses today on drill. When sent my horse home I
+     commenced <orig reg="riding">rideing</orig> a yankee horse I had captured in eastern virginia
+     which I traded Ash Garber &amp; then <del hand="h1">traded</del> traded with cousin Asher
+     &amp; I have traded again with a man in (Co. I) for a large bay horse which was captured in
+      <orig reg="Pennsylvania">Pensilvania</orig> so I am now well mounted. Tell ma that the pants I
+     have are all torn up and tell her to send me a pair by Mason if she can if you can't get any
+     cloth I can get some here for <del rend="none" hand="h1"/> five dollars ($5) <pb n="2" entity="garb10b" pid="uva-lib:503039"/>
+      Tell Sister Addie that I like the shirt very well she sent me by
+     Capt. Eskridge and tell her that if she wants to write to cousin Martha that if she sends it
+     down to me I think I can send it for her</p>
+
+    <p>You must excuse this short letter as I did not know it in time to write before dark give my
+     love to Ma &amp; the girls and ask sister Seal if she ever got my letter and if she did why
+      <orig reg="don't">dont</orig> she answer it write soon to your son</p>
+
+    <closer>
+     <salute/>
+     <signed>Thos M Garber</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

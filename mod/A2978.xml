@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2978"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]> 
+
+
+<TEI.2 id="A2978">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: William F. Brand to Amanda C. Armentrout,
+                    February 6, 1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta william f brand to amanda c armentrout, february 6 1863</title>
+        <author>Brand, William F.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Mary Elizabeth McCaskill</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A2978</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502148</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: William F. Brand to Amanda C. Armentrout, February 6, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta william f brand to amanda c armentrout, february 6 1863</title>
+            <author>William F. Brand</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William F. Brand Papers</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1863-02-06">1863-02-06</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Death/Casualties, Church/Religious Activities, Troop Movement</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A2978T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>William writes to Kate of the wounded in his camp, camp life including
+                    sleighriding and the beginning of Bible class, and general news about army
+                    commanders.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Miss Kate Armentrout<lb/>Lexington<lb/>Virginia
+                    <name type="recipient">Miss Kate Armentrout</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1863-02-06">February 6th 1863<lb/>Nine oclock PM</date>
+                        <name type="place">Camp Winder Carolina Co Va</name>
+                    </dateline>
+                    <salute>Dear Friend</salute>
+                </opener>
+
+                <p>As the most of the boys have retired to <orig reg="their">thare</orig> bed of
+                    poles I have concluded to drop you a <orig reg="few">fiew</orig> lines, My
+                    health is very good &amp; hope <orig reg="these">theese</orig>
+                    <orig reg="few">fiew</orig> lines may find you enjoying the same blessing. <orig
+                        reg="There">Thare</orig> is no news of importance to write, we <orig
+                        reg="have to">hafto</orig> go on picket tomorrow morning I suppose we will
+                    get a peep at our <orig reg="enemies">enimies</orig> I hope we may have a <orig
+                        reg="pleasant">plesent</orig> time while we are on picket, <orig reg="There"
+                        >Thare</orig> has been a <orig reg="great">grate</orig> deal of snow
+                    &amp; rain in the last two <orig reg="weeks">week</orig> I hope we may have
+                    some more clear weather now The <orig reg="roads">road</orig> are almost a bed
+                    of mud. <pb n="2"/>It is almost <orig reg="impossible">imposible</orig> to get
+                        <orig reg="provisions">provitions</orig> from the <orig reg="depot"
+                    >debot</orig> to our camp I suppose <orig reg="there">thare</orig> is plenty of
+                    snow in <orig reg="Augusta">augusta</orig> now for sleighing if so I hope you
+                    may have some <orig reg="pleasant">plesent</orig>
+                    <orig reg="sleigh rides">sleighrides</orig> we take our fun in snowballing. We
+                    have formed a Bible class &amp; meet on <orig reg="Sunday">sundy</orig>
+                    &amp; <orig reg="Wednesday">Wednsday</orig> nights to recite our <orig
+                        reg="lessons">lessings</orig> I hope it may be carried on and that some good
+                    may come <orig reg="of">ove</orig> it we have a grand theatre in the Regt,
+                    carried on by Capt Brown of the Marion Rifles he is a very good performer he is
+                    a noble singer. Capt Newton started home this morning on furlough he is very
+                    lucky in getting home though I do not envy him his good fortune I would have
+                    written by the Capt if I had have had notice <pb n="3"/>in time. As it is I will
+                        <orig reg="have to">hafto</orig> risk another by mail hoping it may soon
+                    reach your hand Well Kate did your cous, Lizzie make you acquainted with all her
+                        <orig reg="secrets">secreets</orig> if so do you know who she is engaged to
+                    I will tell you my reasons for asking you this question in my next letter if you
+                    answer it I am a thousand times obliged to you for the cheese you sent to me I
+                    assure you it was something I never look for I would like to be in a mess with
+                    your brother but the boys would think hard of me for leaving my old mess I may
+                    say we are almost one mess for whenever one mess gets a box the other is <orig
+                        reg="invited">envited</orig> to share its contents but if Lieut Dempster
+                    joines the officers mess I <orig reg="expect">exspect</orig> to change well Kate
+                    I <orig reg="wasn't">wasent</orig> aware that I had <pb n="4"/>shown so many
+                        <orig reg="signs">sines</orig> of my weakness on leaving Greenville it goes
+                    to show the feebleness of mans nature I was very sorry to hear of the <orig
+                        reg="bereavements">perevements</orig> of the Harris <orig reg="families"
+                        >famlies</orig> I hope the <orig reg="all-wise">alwise</orig> God may do
+                    unto them as he did unto <orig reg="Job">jobe</orig> of old bless <orig
+                        reg="their">thare</orig> future years you said you wished you could take our
+                    places down <orig reg="here">hear</orig> do you think you could stand out on
+                        <orig reg="guard">gard</orig> one of <orig reg="these">theese</orig> cold
+                    nights and if you could <orig reg="don't">dont</orig> you <orig reg="think"
+                    >thin</orig> we would be as unhappy if all the Ladies <orig reg="were">ware</orig>
+                    <orig reg="here">hear</orig> and we <orig reg="were">ware</orig> at home you
+                    wrote as if you had been trying to get me to change my love for you but <orig
+                        reg="alas">alass</orig> how could I you are constantly in my thoughts by day
+                    and my dreams by night &amp; God forbid that I should ever love another
+                    woman I have often thought dear Kate that you never loved me as I did you but
+                    found the keys of my heart and took pity on me. It seemes to me that man is one
+                    of Gods weakest instruments well Kate I have not entirely quit chewing tobacco
+                    yet I have used one plug since I came back to the company I used to chew two a
+                    week I hope I may entirely quit before long; uncle John was wounded at the <orig
+                        reg="Sharpsburg">sharpsburg</orig> fight in the arm, I <orig reg="expect"
+                        >exspect</orig> he is in <orig reg="Buckingham">buckingham</orig>. Bro John
+                    had a letter for me from Sister when I came down She was well and going to
+                    school I would like very much to see her Jake is well and looks <orig
+                        reg="hardy">harty</orig> cous, Jimmie is enjoying the same blessing I must
+                    bring my letter to a close as it is <orig reg="after">afto</orig> twelve oclock
+                    Abe stayed up and bothered me <orig reg="until">untill</orig> eleven trying to
+                    find out who I was going to write to my respects to all; the family write soon
+                    as I am always glad to hear from you let no one see this</p>
+
+                <closer>
+                    <salute>I remain your much attached friend</salute>
+                    <signed>W.F.</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

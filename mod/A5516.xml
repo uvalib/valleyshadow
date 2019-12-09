@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+
+<?dlps id="A5511"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A5516">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+                <title id="VShadow" type="main">Augusta County: William F. Dold to John H. McCue,
+                    July 4, 1860</title>
+                <title>[electronic resource] </title>
+                <title type="sort">augusta county william f dold john h mccue july 4, 1860</title>
+                <author>George W. Imboden</author>
+                <editor/>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amanda Mushal</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Amanda Mushal</name>
+                </respStmt>
+            </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A5516</idno>
+
+                <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+                <availability status="public">
+                    <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the
+                        University of Virginia</p>
+                    <p n="access">Publicly accessible</p>
+                </availability>
+                <date value="2002">2002</date>
+                <idno type="uva-pid"/>
+            </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+            <seriesStmt>
+                <title>University of Virginia Library, Valley of the Shadow collection</title>
+                <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Augusta County: William F. Dold to John H. McCue, July 4, 1860</title>
+                        <title level="m"/>
+                        <title type="sort">augusta county william f dold john h mccue july 4, 1860</title>
+                        <author>William F. Dold</author>
+                        <editor/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                    </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: McCue Family Papers, Accession
+                            Number 4406, Special Collections, Alderman Library, University of
+                            Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Used with permission from Albert and Shirley Small Special Collections Library,
+                    University of Virginia, Charlottesville, Virginia</p>
+            </projectDesc>
+        </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1860-07-04">1860-07-04</date>
+            </creation>
+            <langUsage>
+                <language id="eng" usage="main">English</language>
+            </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term/>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+            <change>
+                <date value="2008-07">January - July 2008</date>
+                <respStmt>
+                    <name id="scholarly_resources">Scholarly Resources migration staff, University
+                        of Virginia Library</name>
+                    <resp>Markup conversion</resp>
+                </respStmt>
+                <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD
+                    (uva-dl-tei). converted to xml 12/17/08</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text id="A5516T">
+        <front id="d2">
+            <div1 id="d3" type="summary">
+                <p>Dold writes to McCue to inquire about a possible teaching position available at
+                    Lovingston. This is a letter fragment.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 id="d5" type="letter">
+                <opener> Fishersville, Va <dateline>
+                        <date value="1860-07-04">July 4th 1860</date>
+                    </dateline>
+                    <salute>Mr. J. H. McCue: <lb/>Dear Sir,</salute>
+                </opener>
+
+                <p>Having just recd a letter from Mr. J. Hotchkiss stating that you want a teacher
+                    at Lovingston, I therefore drop you a few lines to ascertain what the prospects
+                    may be of obtaining the situation.</p>
+                <p>I have recently graduated at Emory &amp; Henry College, and can furnish ample
+                    references of good moral character &amp;C, not only from the faculty of E.
+                    &amp; H. Col. but also from my former teacher. [?] Rev. W. L. Richardson of
+                    Waynesboro, Rev. R. [?] Dabney D. D. of Union Seminary, Rev. J. N. Craig, Dr.
+                    Walker and others. You will //</p>
+
+
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1162"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1162">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: Thomas Wholey to W. S.
+                    James, January 10, 1866</title>
+        <title type="sort">freedmens bureau records thomas wholey to w s james, january 10 1866</title>
+        <author>Wholey, Thomas</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1162</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501022</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: Thomas Wholey to W. S. James, January 10,
+                            1866</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records thomas wholey to w s james, january 10 1866</title>
+            <author>Thomas Wholey</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 14.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1866-01-10">1866-01-10</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Military Authority, Patriotism, Property</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-07">July 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+                <item>Item checked against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1162T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Wholey writes to the War Department about property of his in Staunton that was
+                    seized first by the Confederate Army, and then by the Union Army. The lot was
+                    since turned over the to Freedmen's Bureau, and Wholey requests the return of
+                    the lot and compensation for lumber he stored on the property.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient"><abbr expan="Colonel">Col.</abbr> W. S. James<lb/>Chief
+                            <abbr expan="Quartermaster">QM</abbr>
+                        <abbr expan="Department of">Dept</abbr>
+                        <abbr expan="Virginia">Va</abbr> and <abbr expan="North Carolina"
+                        >N.C.</abbr><lb/>Richmond, <abbr expan="Virginia">Va</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1866-01-10"><abbr expan="January">Jany</abbr> 10th 1866</date>
+                        <name type="place">Staunton, Virginia</name>
+                    </dateline>
+                    <salute>Colonel</salute>
+                </opener>
+
+                <p>I have the honor to call your attention to the following statement of grievance
+                    which has and still continues to occasion me considerable loss and
+                    inconvenience. I have been a resident of Staunton <abbr expan="Virginia">V<hi
+                            rend="super">a</hi></abbr> for the last fourteen years by my industry I
+                    succeeded in purchasing a lot here in 1861 before I could build on it the Rebel
+                    officials took possession of it in 1862 for a camping ground and in 1864 erected
+                    thereon a Barracks for their soldiers, which they occupied until the collapse of
+                    the rebellion. During all that time I received no compensation for its use.
+                    After the surrender of Lee I took possession of it and ploughed the lot up and
+                    planted it. I also put there 2,200 twenty two hundred feet of lumber for
+                    building purposes in May when the U.S. forces occupied this place they took
+                    possession of the building for barracks because <pb n="2"/><sic>because</sic> it
+                    had belonged to the Confederate Government. The result was that every expense
+                    and labor in the fencing and lot were lost. <abbr expan="Captain">Capt</abbr> T.
+                    J. Farnsworth <abbr expan="Assistant Quartermaster">A.Q.M.</abbr> also took
+                    possession of the lumber I had put there promising to pay me for it, but never
+                    did. Since July the 58 <abbr expan="Pennsylvania Volunteers">Pen Vols</abbr>
+                    have used it. The <abbr expan="Quartermaster">Q.M.</abbr> of the <abbr
+                        expan="Regiment">Regt</abbr> informed me that he had no authority either to
+                    recompense me for its use or give me possession of the lot, since they left I
+                    learn that the building has been turned over to the Freedmen's Bureau and as the
+                    building remains on the lot, I am still deprived of its use. I enclose herewith
+                    a deposition taken before <abbr expan="Captain">Capt.</abbr> Tho<hi rend="super"
+                        >s</hi> Johnson Provost Marshall showing that I put the lumber referred to
+                    on the lot and also enclose a letter from <abbr expan="Colonel">Col</abbr> Clay
+                    to the <abbr expan="Quartermaster">Q.M.</abbr> of the 58 <abbr
+                        expan="Pennsylvania Volunteers">Pen Vols</abbr>
+                    <add hand="h1" place="inline">in relation</add> to said lot.</p>
+
+                <p>I am and always have been a Union Man and have been so considered
+                    <unclear>such</unclear> in my neighborhood. I have never been in the Rebel
+                    service nor any of my family.</p>
+
+                <p>Hoping this will meet your favorable consideration.</p>
+
+                <closer>
+                    <salute>I am <abbr expan="Colonel">Col</abbr><lb/>Very Respectfully<lb/>Your
+                            <abbr expan="obedient Servant">obedt Servt</abbr></salute>
+                    <signed>Thomas Wholey</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

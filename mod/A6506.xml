@@ -1,0 +1,306 @@
+<?xml version="1.0"?>
+
+<?dlps id="A6506"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A6506">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Ella [unknown] to Mary Anna Sibert, August 24,
+     1857</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county ella unknown to mary anna sibert, august 24 1857</title>
+        <author>Anonymous</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Susanna Michele Lee</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Susanna Michele Lee</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">14</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A6506</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:502518</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Ella [unknown] to Mary Anna Sibert, August 24, 1857</title>
+            <title level="m"/>
+            <title type="sort">augusta county ella unknown to mary anna sibert, august 24 1857</title>
+            <author>Ella</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>4 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Evans-Sibert Family Papers, 1849-1900, Accession
+       27770, Personal Papers Collection, Virginia State Library and Archives, Richmond,
+      Virginia</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Virginia State Library and Archives, Richmond, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1857-08-24">1857-08-24</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Home front, Women</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2005-01-24">January 24, 2005</date>
+        <respStmt>
+          <resp/>
+          <name>Andre Fleche</name>
+        </respStmt>
+        <item>Proofread against original; changes made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A6506T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Ella writes Mary about mutual friends, courtship rumors, and plans for visiting. She also
+     confides her feelings of melancholy and longings for heaven.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <opener>
+     <dateline>
+      <date value="1857-08-24">August, 24th, 1857</date>
+      <name type="place">Poplar Hill</name>
+     </dateline>
+     <salute>My Dear Friend Mary</salute>
+    </opener>
+
+    <p>I cannot see why I should set and stitch away all day and neglect my good friends all of
+     them, when I have no <hi rend="underline">little</hi>
+     <hi rend="underline">ones</hi> and indeed yet without the first <orig reg="encumbrance"
+      >incumberance</orig> a <hi rend="underline">husband</hi> glad to still to give you this bit of
+     information. I say I cannot see why I should be so energetic and economizing every moment of my
+     time to make a <hi rend="underline">fortune</hi> when I can take nothing with me, and have
+     enough to do <del rend="none" hand="h1"/> whilst here. With this consideration the sewing is laid aside and
+     I resume this pen once more</p>
+
+    <p>I have been doing but little writing of late and <orig reg="really">realy</orig> It is a
+      <orig reg="task">taske</orig> for me now. "Procrastination is my besetting sin" Before I
+     proceed to <del rend="none" hand="h1"/>, I must thank you for your good and highly prized communication
+     which reached me this day week, and offer <orig reg="an">and</orig> apology for my remissness.</p>
+
+    <p>I did not think you <hi rend="underline">insane</hi> when you said you expected a reply to
+     the note you sent me by Josie I undoubtedly would have looked, "Do unto others as you would
+     have them do unto you." --This maxim I endeavor to keep indelibly stamped upon my
+     memory.---------</p>
+
+    <p>The reason Mary Anna I did not answer that note was I heard that you intend sending me a
+     letter which kept me looking for weeks, "Long looked for come at last" <pb n="2"/> Josie is not
+     at home this afternoon, gone to that "Twisted Gap" Do you rember how you would repeat this
+     after me when here? Oh! those days I think of them often and live them over in imagination. The
+     Pic-nic the strange and quickly manufactured horse which is this moment in demand for I am <hi
+      rend="underline">
+      <orig reg="literally">litterly</orig>
+     </hi> out of snuff and know not where to go or what to do. "Mary Anna let us have a Dipp"
+     "Well" and here would come the <hi rend="underline">old thing</hi> slipping up to the tub, what
+     pleasure that was! how strange this is <unclear>corenlated</unclear> to strengthen the links of
+     affection and it is evidently the case.</p>
+
+    <p>Yes Mary I love you very much a great <orig reg="deal">deel</orig> more you have any Idea,
+     think of you often and wish so much to be with you, and do Mary intend spending a good long
+     time with you all when I go down again. I have much to write you, and Oh! that we could speak
+     face to face. I am in truth almost dead with the blues this evening and I <orig reg="can't"
+      >cant</orig> tell why it is--------I am looking this evening for a letter from you know who I
+     love best of all, <hi rend="underline">Hilder</hi> and this will cheer my drooping spirits-----</p>
+
+    <p>Here comes Joe creeping along just as If I <orig reg="wasn't">was'nt</orig> all anxiety for
+     this letter. I am revived enough from a terrible shock, and take this pen up again, "Where is
+     my Hilder letter Joe" "None come" My soul, almost <hi rend="underline">swearing</hi>, "but here
+     is one from Fannie it will fill the disappointment" Not so at all, It is a <hi rend="underline"
+      >poor</hi>
+     <hi rend="underline">substitute</hi>. Well well one trouble never comes alone. I am sad oh!
+     worse than <pb n="3"/> ever no letter from Hilder, can It be he has forgotten <hi
+      rend="underline">m</hi>e? Am I, <hi rend="underline">one who loves fondly</hi>, but forgotten
+     and forsaken by <hi rend="underline">h</hi>im? Oh! no this cannot be! How reluctantly hope
+     leaves the human heart. Dont think gone entirely deranged.</p>
+
+    <p>Mary this brings to mind a mistake that you are labouring under. I will endeavor to remove
+     any <hi rend="underline">person</hi> or <hi rend="underline">persons</hi> that informed <hi
+      rend="underline">you</hi> that I had captivated <hi rend="underline">Mr Clippinger</hi> are
+      <hi rend="underline">grandly</hi>
+     <hi rend="underline">mistaken</hi>. <hi rend="underline">Pledge</hi> you my word I have not
+     seen <hi rend="underline">Mr C</hi> for five weeks This looks much like captivation. If <hi
+      rend="underline">yo</hi>u are a <hi rend="underline">fri</hi>end of <hi rend="underline"
+     >min</hi>e you will set your foot <orig reg="right">righ</orig> on this now You believe me I
+     know. I think <hi rend="underline">I</hi>
+     <hi rend="underline">a</hi>m <hi rend="underline">scandalized</hi> most shamefully, Tho Mary
+     none of this I <orig reg="intend">entend</orig> for you</p>
+
+    <p>Mr R your friend and minister preached for us on last Sabbath week <hi rend="underline">and
+      did well</hi>. He did not <hi rend="underline">condescend</hi> to call and see us "<hi
+      rend="underline">Amen</hi>.</p>
+
+    <p>Our quarterly <orig reg="meeting">meetint</orig> commences the 5th of September Saturday
+     week. In few words let me say I will look for you and Kennie <hi rend="underline">both</hi> or
+     one anyway to attend it Come do I will look - Dont disappoint us - Let me hear by mail whether
+     you will come, nothing to prevent one If not both.</p>
+
+    <p>I was in Solon one day and Sunday as it was If I had not had company and the children to take
+     care of I would have gone over <orig reg="though">tho</orig> looked for you and that good
+     sister of yours every moment, and was obliged to return without one look at you. I was <orig
+      reg="sorry">sorey</orig> and disappointed<pb n="4"/></p>
+
+    <p>The evening has passed and night is here. Josie, Willie, and myself are seated around this
+     table. Josie writing to her friend Mr Ewan, Willie reading and I am going to <orig reg="try"
+     >ty</orig> and finish this imperfect letter --I had to take a good cry this eveing and now my
+     heart feels <orig reg="relieved">releaved</orig>. Is there any one like me? "Even in laughter
+     the heart is sorrowful; and the end of that mirth is heaviness"--I laugh many times when I feel
+     like crying, "every heart knoweth his own bitterness"--For every smile a tear with me.
+     sometimes I wish I could never laugh I have naturally a desponding disposition and I know I
+     cherish this feeling too much, and feel it's no use to try to change nature. I wish I was in
+     Heaven, I long to leave this world. I feel less attached to the world and worldly pleasures
+     every day - I must make <orig reg="an">and</orig> effort to be a better <orig reg="girl"
+     >girls</orig> You agree with me dont you? We have been attending a meeting for two days, only a
+     mile from here. I think much good will be done. I did not feel like going out <orig
+      reg="tonight">to night</orig> I wish you were here <orig reg="tonight">to night</orig> I feel
+     as If a little chat with you would do me good</p>
+
+    <p>How is Mattie and all? When you see her tell her the dress is done, and I come across some
+     more of dear little Idea's clothes since she left will send them all <unclear>home</unclear>
+     the first opportunity. my love to her and say to her that I still feel indignant towards her
+     for taking my little girl from me. I had to cry after Idea left when twilight come something
+     was missing and I had no little dear pet to undress rock and sing to sleep.</p>
+
+    <p>Last though not least, you say there is some talk of a company going to Weyers Cave. I <hi
+      rend="underline">will</hi>
+     <hi rend="underline">certainly</hi> accompany you, If you will let me know in time, and <hi
+      rend="underline">wish</hi>
+     <hi rend="underline">my</hi>
+     <hi rend="underline">company</hi>. Dont do as we all did about the Bridge trip fall through.
+     Persevere to the end <hi rend="underline">I am</hi> so anxious, and have said positively I will
+     never <orig reg="accede">axceed</orig> to any arrangements they see proper to make for another
+     trip any where. Just let me know in time and I'll go. In three weeks from now will suit me well
+     and a pleasant time for a trip -- That is If this time will suit you all - our meeting will be
+     the present and only obstacle with me.</p>
+
+    <p>Cousin Lavenia sends much love to you she frequently speaks of you affectionately. My love to
+     your Ma, Pa Kennie Ella and all the rest. Willie has this moment left the room walking
+     backwards telling me to say this that and the other for him, sends his love and <hi
+      rend="underline">respects</hi>
+     <hi rend="underline">to</hi>
+     <del rend="none" hand="h1"/>, and positively declares you shall never complain of his passing without
+     calling If he is in the <hi rend="underline">
+      <unclear>Steam cars</unclear>
+     </hi>.</p>
+
+    <p>I must stop for want of space. I am like the boy, "when I get to going I cant
+     stop"---------Write soon as you can tell me all, Particularly all about the trip when you think
+     you will go and If you and Kennie will come to the meeting. come do, Kiss dear Ken for me I
+     love her very much and your Ma too. Ma seems to think the Music Box will become rusted If you
+     dont soon return to <abbr expan="Poplar Hill">P. H.</abbr> I often look at it and laugh and
+     think of poor Mary Anna--</p>
+
+    <closer>
+     <salute>With affection fond and true<lb/></salute>
+     <signed>Ella</signed>
+     <seg type="postscript">Good morning Dear Mary Goodness Isnt it cold A fire I would have If it
+      did'nt look so bad Though a lovely day, melancholy season is coming -- I am feeling quite
+      badly This morning can hardly sit up, enjoying <hi rend="underline">splendid</hi>
+      <hi rend="underline">music</hi>, Truly yours Ella<lb/>Has your Ma gone to Page yet? I had
+      intend sending you the pattern by Mattie and forgot it. Do you Dip yet? I do and got out the
+      good stuff this evening and Joe and I both are looking <hi rend="underline">Mad</hi> Let no
+      one read my <hi rend="underline">letters</hi>
+      <hi rend="underline">mind</hi> - If you do I wont write to you any more Good bye <abbr
+       expan="Affectionately">Aff..ly</abbr>
+      <hi rend="underline">Ella</hi></seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

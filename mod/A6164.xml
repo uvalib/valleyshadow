@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+
+<?dlps id="A6164"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A6164">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: James Long to Cynthia Long, April 10, 1864</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county james long to cynthia long, april 10 1864</title>
+        <author>Long, James</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Julie Beagle</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Julie Beagle</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A6164</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:502434</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: James Long to Cynthia Long, April 10, 1864</title>
+            <title level="m"/>
+            <title type="sort">augusta county james long to cynthia long, april 10 1864</title>
+            <author>James Long</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>2 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Eli Long Papers, Special Collections Department,
+       William R. Perkins Library, Duke University, Durham, North Carolina</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Special Collections Department, William R. Perkins Library, Duke University, Durham, North Carolina</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1864-04-10">1864-04-10</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Family, Leave/Desertion</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001">Summer 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Jaime Henshaw</name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A6164T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>James Long complains that he has not heard from his family in a long while, and comments on
+     his recently passed furlough.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <opener>
+     <dateline>
+      <date value="1864-04-10">April the 10 1864</date>
+      <name type="place">Camp 1<hi rend="super">st</hi>
+       <abbr expan="Virginia">va</abbr> Cavalry <orig reg="near">nier</orig>
+       <orig reg="Orange">orrange</orig>
+       <orig reg="Courthouse">Cort House</orig>
+       <abbr expan="Virginia">Va</abbr>
+      </name>
+     </dateline>
+     <salute>Dear Sister</salute>
+    </opener>
+
+    <p>I take this <orig reg="present">presant</orig><orig reg="opportunity">oppertunity</orig> to
+      <orig reg="write">rite</orig> you a <orig reg="few">fiew</orig> lines to inform you that I am
+     well and i hope these <orig reg="few">fiew</orig> lines may find you and all of my friends
+     enjoying the same <orig reg="blessing">blesing</orig> I have not <orig reg="heard">hird</orig>
+     <orig reg="anything">eny thing</orig> from you all <orig reg="since">sence</orig> I was down
+      <orig reg="there">thir</orig> I should have liked <orig reg="very">verry</orig> much to have
+      <orig reg="gone">gown</orig> down to spent a <orig reg="few">fiew</orig> days with you all
+     while I was at home but I could not get the chance and home seemed to be the best place I got
+     so <orig reg="vexed">vext</orig> at some of <orig reg="the">thy</orig>
+     <orig reg="acquaintances">acquaintences</orig>
+     <hi rend="super">in the <orig reg="neighborhood">nabor hood</orig></hi> that I did not <orig
+      reg="care">cear</orig> about going to see <orig reg="any">eny</orig> of the <orig
+      reg="neighbors">nabers</orig>
+     <orig reg="our">ower</orig> Company was at home <orig reg="two">too</orig> months some of the
+     people begrudged <orig reg="our">ower</orig>
+     <orig reg="furlough">furlow</orig> they said they <orig reg="knew">nowed</orig> what we <orig
+      reg="were">war</orig> sent home <orig reg="for">far</orig>
+     <orig reg="because">becaus</orig> they <orig reg="could">coul</orig> not feed us in the army
+     and said we had to come and eat <orig reg="off of">ofuv</orig> us and that did not <orig
+      reg="please">pleas</orig> my <orig reg="appetite">appotite</orig> but thank god I did not
+     pester them you may bet on that I think you <orig reg="might">mite</orig> have <orig
+      reg="written">ritten </orig>to me some<pb n="2"/>
+     <orig reg="ago">a gow</orig> I suppose you think I <orig reg="might">mite</orig> have done the
+     same but you know that it is <orig reg="against">a gainst</orig> my <orig reg="profession"
+      >profescian</orig> to <orig reg="write">rite</orig> much I have <orig reg="been">bin</orig>
+     here ever <orig reg="since">sence</orig> the 6 of march and have not got but one letter and
+     that was from <orig reg="Andy">anday</orig> I have <orig reg="written">ritten</orig> home three
+     or <orig reg="four">fore</orig> times and to mary <orig reg="also">all so</orig> I <orig
+      reg="heard">hird</orig> from <orig reg="Andy">anday</orig> yesterday he is well I must bring
+     my letter to a <orig reg="close">cloas</orig>
+     <orig reg="write">rite</orig> soon give my <unclear>
+      <orig reg="prayers">pryar</orig>
+     </unclear> &amp; regards to <orig reg="uncles">oncels</orig> and <orig reg="cousins"
+     >cosins</orig> and be a good girl and do what you are told by <orig reg="cousin">cosin</orig>
+     beckey <orig reg="tell">tel</orig>
+     <orig reg="cousin">cosin</orig> John to <orig reg="write">rite</orig> to me and give me the
+      <orig reg="news">nuse</orig> nothing more</p>
+
+    <closer>
+     <salute>yours truly</salute>
+     <signed>James F Long</signed>
+     <seg type="postscript">it is raining hard now and has <orig reg="been">bin</orig>
+      <orig reg="raining">rainning</orig> and snowing for the last <orig reg="two">too</orig>
+      <orig reg="weeks">weaks</orig><lb/> Co. E. 1<hi rend="super">st</hi> va Cavalry<lb/> in the
+       <orig reg="care">cear</orig> of <abbr expan="captain">capt</abbr><lb/> McClung Wickhams<lb/>
+      <orig reg="brigade">brigaid</orig>
+      <orig reg="Orange">orrange</orig>
+      <orig reg="Courthouse">Cort h</orig>
+      <abbr expan="Virginia">va</abbr>
+     </seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

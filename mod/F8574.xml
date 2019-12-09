@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+
+<?dlps id="F8574"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F8574">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: J. K. Morehead to Edward McPherson,
+                    October 31, 1860</title>
+        <title type="sort">franklin county j k morehead to edward mcpherson, october 31 1860</title>
+        <author>Morehead, J. K.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Virginia Center for Digital History Staff</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F8574</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501756</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: J. K. Morehead to Edward McPherson, October 31, 1860</title>
+            <title level="m"/>
+            <title type="sort">franklin county j k morehead to edward mcpherson, october 31 1860</title>
+            <author>J. K. Morehead</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: J. K. Morehead to Edward
+                            McPherson, 31 October 1860, Library of Congress, Edward McPherson
+                            Papers, Box 47, Folder 1860</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Congress, Washington, D. C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1860-10-31">1860-10-31</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>National Government, State Government</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2003-07">July 2003</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Item proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F8574T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>In a confidential letter, General J. K. Morehead asks Edward McPherson's opinion
+                    on whether Morehead should run against McClure, and makes a possible reference
+                    to Thaddeus Stevens.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient"><abbr expan="Honorable">Hon</abbr>
+                        <abbr expan="Edward">Ed</abbr> McPherson</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1860-10-31"><abbr expan="October">Oct</abbr> 31. 1860</date>
+                        <name type="place">Pittsburg</name>
+                    </dateline>
+                    <salute>Dear Sir</salute>
+                </opener>
+
+
+                <p>I have not heretofore congratulated you upon your success. I do it now, but I
+                    never for one moment doubted it. Your people are <hi rend="underline"
+                        >appreciative</hi>, and of course you could not fail.</p>
+
+                <p>I did not expect <unclear>Jenkin</unclear> to make it, but are greatly
+                    disappointed at <unclear>Longeneck's</unclear> defeat, and fear it is mainly due
+                    to inertness and inactivity. I believe from all I have heard, that much energy
+                    and industry as were exhibited in your district and mine, would have moved him--
+                        <pb n="2"/>We must however make the most out of what we have, and rely on
+                    South Americans, and Douglassites, to help us out if we are in a minority, as I
+                    fear we will be in the next Congress.</p>
+
+                <p>I have just returned from <abbr expan="Philadelphia">Phila</abbr> have been
+                    looking over the <hi rend="underline">Senatorial</hi> ground, and have very
+                    decided convictions upon the subject. I know your love and admiration for Old
+                    Thaddy, he is worthy of it. He will however be <unclear>overlooked</unclear> by
+                        <orig reg="McClure">M'Clure</orig>, as will all other Eastern candidates,
+                    and the contest will rest between him and a certain man. But here again I am in
+                    your own district and <orig reg="McLure">M'Clure</orig> told me with <del
+                        hand="h1"/> evident votes <unclear>position</unclear>
+                    <pb n="3"/> what a splendid fight <hi rend="underline">they</hi> had made for
+                    you.</p>
+
+                <p>One thing I do know about you, that is your honor and integrity are legend <del
+                        hand="h1"/>. I can therefore <unclear>un</unclear> myself to you without
+                    prejudice, if you <orig reg="don't">dont</orig> agree with me.</p>
+
+                <p>Cameron can not afford to let <orig reg="McClure">M'Clure</orig> be elected. He
+                    will beat him if he can with somebody and I have reason to believe he prefers
+                    me. Our friend Alex Cummings told me he thought I could make it without doubt,
+                    if I worked for it. I have many influences East working for me, &amp; some
+                        <del rend="none" hand="h1"/> that I am not detail, enough however I can <del rend="none" hand="h1"/>
+                    <pb n="4"/>to make a less sanguine man than myself look upon the prospect as
+                    good.</p>
+
+                <p>What I want to know of you, is what you think of it? and whether in any
+                    contingency you can or will do <orig reg="anything">any thing</orig> for me? You
+                    may rely upon this (I think) that the struggle will be between <orig
+                        reg="McClure">M'Clure</orig> (<hi rend="underline">your constituent</hi>)
+                    and myself, unless I throw my aid to some person more likely to beat him --</p>
+
+                <p>Write now, fully &amp; frankly -- the letter shall be treated as I know this
+                    will be by you, sir as strictly confidential.</p>
+
+                <closer>
+                    <salute/>
+                    <signed>Truly yours</signed>
+                    <seg type="postscript">JKMorehead</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+
+<?dlps id="FD4500"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="FD4500"> 
+<teiHeader type="migrated"> 
+
+    <fileDesc> 
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Diary of J. Kelly Bennette (1864)</title>
+        <title type="sort">franklin county diary of j kelly bennette 1864</title>
+        <author>Bennette, J. Kelly</author>
+        <editor/>
+        <respStmt> 
+          <resp>Creation of machine-readable version: </resp> 
+          <name>Virginia Center for Digital History Staff</name> 
+          <resp>Conversion to TEI.2-conformant markup:</resp> 
+          <name>Heather Weidner, Virginia Center for Digital History</name> 
+        </respStmt>
+      </titleStmt> 
+
+      <extent>
+        <num type="kilobytes"> 9 kilobytes</num>
+      </extent> 
+      <publicationStmt> 
+        <publisher>Virginia Center for Digital History</publisher> 
+        <pubPlace>Charlottesville, Virginia </pubPlace> 
+
+        <idno type="VCDH">FD4500</idno> 
+
+        <!--
+<availability> 
+<p>Publicly accessible </p> 
+<p n="public">URL: http://valley.vcdh.virginia.edu/</p> 
+<p>copyright 1993-2005, by the Rector and Visitors of the University of Virginia</p> 
+</availability>
+--> 
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date> 
+        <idno type="uva-pid">uva-lib:500354</idno>
+      </publicationStmt> 
+      <seriesStmt> 
+        <p>Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt> 
+      <notesStmt>
+        <note/>
+      </notesStmt> 
+
+      <sourceDesc> 
+        <biblFull> 
+          <titleStmt>
+            <title> Diary of J. Kelly Bennette</title>
+            <title level="m"/>
+            <title type="sort">diary of j kelly bennette</title>
+            <author>Bennette, J. Kelly</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt> 
+          <editionStmt> 
+            <p> </p> 
+          </editionStmt> 
+          <extent>10 pages</extent> 
+          <publicationStmt> 
+            <publisher/> 
+            <pubPlace/> 
+            <date value=""/> 
+            <idno type="callNo">Source copy consulted: J. Kelly Bennette Papers 
+(#886), Southern Historical Collection, Manuscripts Department, Wilson Library, The University of North Carolina at Chapel Hill </idno> 
+          </publicationStmt> 
+          <seriesStmt>
+            <p/>
+          </seriesStmt> 
+          <notesStmt> 
+            <note/>
+          </notesStmt> 
+        </biblFull> 
+      </sourceDesc> 
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Southern Historical Collection, Wilson Library, University of North Carolina at Chapel Hill</p>
+      </projectDesc>
+    </encodingDesc> 
+
+    <profileDesc> 
+      <creation>
+        <date value="1864-07-05">1864-07-05</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage> 
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass> 
+        <keywords> 
+          <term>Medicine/Hospitals, Patriotism, Troop Movement, Home Front, Women</term>
+          <term>American Civil War</term>
+        </keywords> 
+      </textClass> 
+    </profileDesc> 
+
+    <revisionDesc> 
+      <change> 
+        <date value="2006-05">May 2006</date>
+        <respStmt>
+          <resp/>
+          <name>Heather Weidner</name>
+        </respStmt> 
+        <item>Item proofread against original; corrections made.</item> 
+      </change> 
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc> 
+  </teiHeader> 
+
+<text id="FD4500T">
+
+<front id="d2">
+<div1 type="summary" id="d3">
+<p>J. Kelly Bennette writes in his diary about crossing into Maryland.  He describes conversations with Union supporters in Sharpsburg, the attitudes of the women toward the soldiers, and how honorable Virginia gentlemen ought to treat ladies.  He also describes taking supplies from a doctor and from a store.</p>
+<p></p> 
+</div1> 
+</front>
+
+<body id="d4">
+<div1 type="part" id="d5">
+
+<p>5th. Cross the Potomac &amp; stand for the first time on the soil of "Maryland my Maryland."  I don't 
+
+<pb n="2"/> much like this <hi rend="underline">invading</hi>; I don't think it is our policy but at the present time it will doubtless do good by drawing those troops from before Petersburg which Grant can ill afford to spare.  One <del rend="none" hand="h1"></del> of our army under <abbr expan="General">Gen</abbr> <del rend="none" hand="h1"></del> has gone by way of <abbr expan="Harper's">H's</abbr> Ferry but I have not yet learned what result has attached to the move.  The rest will cross at <abbr expan="Shepherdstown">S.town</abbr> under <abbr expan="General">Gen.</abbr> <del rend="none" hand="h1"></del>.  <abbr expan="General">Gen.</abbr> Early captured Martinsburg on the 3d &amp; with it a considerable <abbr expan="number">no</abbr> of stores 
+
+<pb n="3"/> Move on to Sharpsburg where we half for some 4 hours during which time several men &amp; I am sorry to say some officers got "gentlemanly drunk."  <abbr expan="Robert">Robt.</abbr> Bailey was wounded by a saber cut on the arm in arresting a drunken man.  I went to town &amp; assisted in dressing the wound.  The ladies at whose house he was were very kind &amp; attentive &amp; after we had dressed the wound invited us in to take some breakfast which we did of course <abbr expan="although">altho'</abbr> I was not hungry for I had eaten a raw fish &amp; some cracker for breakfast.  Dr. B. &amp; I went to a drug store 
+
+<pb n="4"/> to get some medicine but could find nothing which we needed.  We then went to <abbr expan="Doctor">Dr.</abbr> <del rend="none" hand="h1"></del>'rs office.  He fully expected to be ruined but we assured him that we only wanted a few indispensible articles &amp; that at any rate nothing should be <hi rend="underline">wantonly</hi> destroyed as his friends frequently did in the South.  I told him some of the many ruthless barbarities  practiced by the yankees in Virginia &amp; then asked him if we could commit <hi rend="underline">any</hi> excess which would not be but a just retaliation.  He could not open his mouth.  
+
+<pb n="5"/> We took only two teeth forceps one gum lancet two scalpels one pocket medicine case one <abbr expan="ounce">oz</abbr> vial: <abbr expan="iodine">iod</abbr>: <abbr expan="Mercury">Mer</abbr>: &amp; four <abbr expan="ounce">oz</abbr> Chloroform.  He sent for two ladies who had friends in our army to intercede with us but when they heard how the Yankees not only take what they wish from our physicians but also <hi rend="underline">break up</hi> what they do not need &amp; even carry off or destroy their <hi rend="underline">libraries</hi> &amp; when they saw how little we had taken they could not say a word <abbr expan="although">altho'</abbr> they protested violently at first.  Honestly speaking, I do not believe it is <hi rend="underline">possible</hi> for a Southerner &amp; especially 
+
+<pb n="6"/>a Virginian do as badly as a Yankee even under the most provoking circumstances.  I then went to a store but what not been sent off before we came had been taken before I got there.  I picked up a small account book on the counter &amp; after looking around a little went out on the street.  As I crossed I saw two young ladies standing in a door so I went up and entered into conversation with them &amp; found out that it was their father who owned the store.  After talking a while I took out the memorandum book &amp; <del rend="none" hand="h1"></del>
+
+<pb n="7"/>their brother if it was of any value to him saying that if it was not I would retain it.  He looked at it &amp; said the book would be worth at least $<orig reg="2.00">200</orig> to him &amp; I told him he could take it.  Presently one of the ladies came to the door &amp; gave me a very nice memorandum book &amp; asked me to please accept it in lieu of the one I had delivered up, stating that it was one she had but that she had no use for it.  I told her I could not think of depriving <hi rend="underline">her</hi> of it but she said she was determined I should have it &amp; so I at last took it.  She was a <unclear>right</unclear> 
+
+<pb n="8"/>pretty girl &amp; seemed quite refined but she was union to the core <abbr expan="although">altho'</abbr> she seemed to be very much ashamed of the conduct of her countrymen &amp; expected nothing else but that her house &amp; store would both be burned.  I told her that as Virginians we had more manliness about us than to make war upon defenceless women notwithstanding her friends has not been so scrupulous.  I thought before I crossed the river how heartless I would be toward the yankee women &amp; all, 
+
+<pb n="9"/>but fiddlestix when I saw these two girls with tears trembling in their eyes my wrath &amp; spirit of revenge all passed away &amp; I felt like saying or doing anything in the world just to remove their tears.  I assured them that their house would be <hi rend="underline">perfectly</hi> secure &amp; I don't know what all I did say but I talked a long time to them &amp; finally they dried their tears - began to smile.  Say what you will a lady is a lady be she union or sesesh &amp; a <hi rend="underline">gentleman</hi> will not be long in recognizing the fact.  One of the ladies said to me in the course of the conversation: "Well 
+
+<pb n="10"/>I hope that you will not be killed" &amp; when I left the old lady made many wishes for my safety.  Proceed to Keedysville where they rob another store but do not get much from it.  I was not there at first but got there in time to save a good deal of table ware for the lady to whose father the store belonged.  One of our <abbr expan="Brigade">Brig.</abbr> here drew a revolver on a lady but I am glad to be able to say that it was not a Virginian.  He was a Marylander.  I'll venture to say he is a coward whoever he may be.  In camp 1/2 mile <abbr expan="East">E</abbr> of <abbr expan="Keedysville">K.ville</abbr>.  Ed &amp; I took supper in the town tonight.  721+21=742 </p>
+
+<pb n="11"/> <p>6th.  Remain in camp 'till late in the day when we move thro'</p> 
+
+<p>As we read of it in books as we get it in the vague traditions which come up to us from the past like the words of sleepy ghosts, as we hear it from the trembling lips of some palsy stricken veteran, war is synonymous with glory itself: but when its grim visage is present before you &amp; you see it as it is, the difference is quite apparent.  It is like the distant thunder cloud when the lightening gilds its edges but the attendant thunders are hushed to silence by its distance.  You look upon it &amp; you feel that it is grand; &amp; while you gaze a feeling of enthusiasm not unmixt with awe steals across your soul.  But when the same cloud, rolling up from the distant west, hangs over the zenith &amp; spreads over the landscape its dark pall, when the gloom is relieved only by the lightenings' blinding gleam &amp; the silence is unbroken save by the thunders' deafening peal, when the oak stands riven, the flowers droops &amp; the rich harvest lies prostrate &amp; crushed beneath the tempest's force, all beauty is gone every feeling of grandeur has departed while horror &amp; terror take the place so lately filled by enthusiasm &amp; awe.</p>  
+
+</div1>
+</body>
+</text>
+</TEI.2>

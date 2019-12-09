@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9623"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A9623">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta: Angus to Kate Armentrout, January 12, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta angus to kate armentrout, january 12 1861</title>
+        <author>Angus</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Jaime Martinez</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Jaime Martinez</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A9623</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2002, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date>
+        <idno type="uva-pid">uva-lib:502785</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta: Angus to Kate Armentrout, January 12, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta angus to kate armentrout, january 12 1861</title>
+            <author>a friend</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>4 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: William Brand Papers, Albert and Shirley Small
+       Special Collections Library, University of Virginia</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1861-01-12">1861-01-12</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Arts/Leisure, Patriotism, Women</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A9623T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Angus writes to Kate about the social life of Christian's Creek over the holidays. He also
+     expresses his disapproval of secession.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     Arbor Hill Va <lb/>Jany 12th <lb/>
+     <name type="recipient">Miss A.C. Armentrout, <lb/>Greenville, Virginia</name>
+     <name type="place">Arbor Hill, Va.</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1861-01-12">Jan. 12th 1861</date>
+     </dateline>
+     <salute>Miss Midie;</salute>
+    </opener>
+
+    <p>In congratulation of your epistle, &amp; the interrogatives therein, which was so very
+     striking indeed; &amp; from such, is a natural impulse on my part to respond, in my feeble
+     way to your missive on the 21<hi rend="super">st</hi>
+     <abbr expan="ultimo">ult</abbr>. Happy to hear of general health, &amp; the improving of
+     Nic's mind, &amp; very sorry to hear of the casualty of Miss Sue, (on her way to visit)
+      <add hand="h1" place="inline">you</add> which no doubt marred her enjoyment to some extent.</p>
+
+    <p>And so you made a break on the Creek at last: Mr. <abbr expan="James">Jas.</abbr> Hall.
+     Wonder who will <pb n="2"/>follow suit, as you intimated there were several talked of.</p>
+
+    <p>Perhaps <hi rend="underline">you</hi> for one, as pictures have been passing, &amp;
+     pressure the pen has been running too, with phrases of deepest emotion of mutual affection ha
+     ha. "Now what do you think?" Just get the Cologne bottle, &amp; perfume for the Old Target.
+     As for my part, <hi rend="underline">my</hi> watch is dumb, &amp; horse have I not.</p>
+
+    <p>Should liked to have taught at the Creek this winter, but could not forfeit my word,
+     &amp; leave here. I am however very well satisfied, with neighborhood &amp; boarding
+     residence.</p>
+
+    <p>You will have to take <pb n="3"/>wills for deeds; it was out of my power to go either to
+     singing, or to your house.</p>
+
+    <p>I did not get home till Sunday prior to Christmas, &amp; on Monday night had my Cousins
+     from Illinois with me, &amp; for that reason could not go to your house on that day; in
+     fact had company nearly every day &amp; night during the <orig reg="holiday"
+     >Holyday</orig>. Was at a Taffy pulling; had a fine time eating hard Molasses with <hi
+      rend="underline"><orig reg="unwashed">unwashen</orig> hands</hi>.</p>
+
+    <p>Did you ever pull any, when you had to <hi rend="underline">spit</hi> on your hands to keep
+     it from adhering to them? "Oh where did &amp;c &amp;c What foolishings, what foolery.</p>
+
+    <p><pb n="4"/>Miss Eliza sends her love to you, &amp; says she is making her wedding dress,
+     out of red calico trimmed with white strings.</p>
+
+    <p>Hard times on this side, no doubt with you. disunion and war was the cry, &amp; now a
+     reality. Sad thoughts, that the ties of the Republic, are busted.</p>
+
+    <p>Oh Washington where are thy warnings? O Jacksons, where are you? Where is Lucian, these
+     times; &amp; how are you &amp; <add hand="h1" place="inline">he</add> thriving these
+     days, as you were once very intimate.</p>
+
+    <p>Excuse all foolishness &amp; accept my kindest regards, &amp; well wishings, for your
+     prosperity &amp; future happiness.</p>
+
+    <closer>
+     <salute>Truly Yours,</salute>
+     <signed>From a Friend</signed>
+     <seg type="postscript">
+      <name type="recipient">Kate</name>
+     </seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

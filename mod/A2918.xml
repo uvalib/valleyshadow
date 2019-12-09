@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2918"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A2918">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Margaret H Ott to Enos Ott, December
+                    12, 1864</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county margaret h ott to enos ott, december 12 1864</title>
+        <author>Ott, Margaret H</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Elizabeth Ladner</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A2918</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502103</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Margaret H Ott to Enos Ott, December 12, 1864</title>
+            <title level="m"/>
+            <title type="sort">augusta county margaret h ott to enos ott, december 12 1864</title>
+            <author>Margaret H Ott</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Enos Ott Papers, Private
+                            Collection of Gail Ott</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from private collection</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1864-12-12">1864-12-12</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Home Front</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A2918T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>In this letter to her brother, Margaret discusses her ongoing search for suitable
+                    cloth to make a winter cloak, but tells Enos not to buy any in Richmond unless
+                    he can get it for less than $100 per yard.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Moffatts Creek Va<lb/>Dec 12th<lb/>Mr Enos Ott<lb/>Care Rev Henry Brown<lb/>Camp
+                    Lee
+                    <name type="recipient">Mr Enos Ott</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1864-12-12">December 12<hi rend="super">th</hi> 1864</date>
+                        <name type="place">Willow Row</name>
+                    </dateline>
+                    <salute>Dear Brother</salute>
+                </opener>
+
+                <p>Hannah received your letter Saturday we were glad to <orig reg="hear"
+                    >heare</orig> from you we are all well Henry is <orig reg="cutting"
+                    >cuting</orig> up the <orig reg="meat">meet</orig> and <orig reg="salting"
+                        >sating</orig>. we have a good snow the ground is covered and it is quite
+                        <orig reg="cold">could</orig>. the mercury stood at 12 last night and this
+                    morning. M<hi rend="super">r</hi> Black and <orig reg="James">Jams</orig> Cooper
+                    went down to Staunton last <orig reg="Tuesday">tusday</orig>. J told me your
+                    papers come monday <orig reg="evening">evning</orig> so they got <orig
+                        reg="there">thare</orig> the right time they were laying on the table when
+                    they went down. what are they doing with our men from the valley I think they
+                        <orig reg="might">mite</orig> have left them here M<hi rend="super">r</hi>
+                    Row <orig reg="has">hase</orig>
+                    <orig reg="your">youre</orig> boots made but I think they are too small. he was
+                    to start to the <orig reg="army">armey</orig> or to Staunton Saturday. you spoke
+                        <orig reg="about">a bout</orig> going to <orig reg="Richmond">Ricmond</orig>
+                    the next day after you wrote to see about the cloak cloth I did not <orig
+                        reg="expect">exspect</orig> you to pay over a 100 a yard when I wrote to you
+                    last when I sent the sample you spoke about a piece that was less than one 100.
+                    I thought <orig reg="maybe">maby</orig> it was as good as Hannahs if so it would
+                        <orig reg="do">doo</orig> I thought I had told you that if I did not that
+                    was what I <orig reg="meant">ment</orig> if you <orig reg="haven't">havent</orig>
+                    <pb n="2"/>got it yet never mind when I sent the sample I <orig reg="expected"
+                        >exspected</orig> you to look at that <orig reg="cheapest">cheepest</orig>
+                    <orig reg="piece">peace</orig>. one course I <abbr expan="wouldn't"
+                    >wouldent</abbr> have the two 100 $ cloth. Virginia M<hi rend="super"
+                    >c</hi>Corkle and Sterret was married last week she got cloth in Lexington for
+                    her <orig reg="cloak">cloake</orig> for a 100 <orig reg="dollars">doller</orig>
+                    a yard. our cloth looks very well we have been talking <orig reg="about">a bout</orig>
+                    <orig reg="making">makeing</orig> them up but was <orig reg="afraid">a
+                    frade</orig> you <orig reg="might">mite</orig> get cloth. I want you to write as
+                    soon as you get this and let us know as we want to make them up. what is the
+                    latest <orig reg="style">stile</orig> for <orig reg="cloaks">cloakes</orig> try
+                    and find out if <orig reg="there">thare</orig> is <orig reg="any">aney</orig>
+                    later than Estalines I want you to get it for me and send by mail if no other
+                    way you can get papers from someone to cut a pattern as <orig reg="mantuamakers"
+                        >mantumakers</orig>
+                    <orig reg="haven't">havent</orig> plenty of papers do you know what kind of a
+                        <orig reg="cloak">cloake</orig> Esta <orig reg="has">hase</orig> it is a
+                        <orig reg="loose">loos</orig>
+                    <orig reg="cloak">cloake</orig> with sleeves in it <orig reg="hangs"
+                    >hengs</orig> in the back <orig reg="something">somthing</orig> like wormes but
+                    comes down <orig reg="nearly">nearley</orig> to the <orig reg="bottom"
+                    >bottem</orig> of her dress, if you can <orig reg="find">finde</orig> out a new
+                    pattern if it is not too much <orig reg="trouble">truble</orig> get if you can
+                    and you can fetch it with you I hope you will be able to get home before long
+                    let me know as soon as you get this if you have the cloth or not and if you get
+                    the pattern <orig reg="maybe">maby</orig> you can send by someone before you
+                    come home if you get a pattern be sure that it is a new one or they <orig
+                        reg="might">mite</orig> put some old thing on you. send by <orig reg="mail"
+                        >male</orig> if no other chance if you get it write <orig reg="soon"
+                    >son</orig></p>
+
+                <closer>
+                    <salute>Your Sister</salute>
+                    <signed>Mag H Ott</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

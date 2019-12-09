@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9635"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A9635"> 
+<teiHeader type="migrated"> 
+
+    <fileDesc> 
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta: James W. Vines to Kate Armentrout, September 12, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta james w vines to kate armentrout, september 12 1861</title>
+        <author>Vines, James W.</author>
+        <editor/>
+        <respStmt> 
+          <resp>Creation of machine-readable version: </resp> 
+          <name>Jaime Martinez </name> 
+          <resp>Conversion to TEI.2-conformant markup:</resp> 
+          <name>Jaime Martinez</name> 
+        </respStmt>
+      </titleStmt> 
+
+      <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+      <publicationStmt> 
+        <publisher>Virginia Center for Digital History</publisher> 
+        <pubPlace>Charlottesville, Virginia </pubPlace> 
+
+        <idno type="VCDH">A9635.xml</idno> 
+
+        <!--
+<availability> 
+<p>Publicly accessible </p> 
+<p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p> 
+<p>Text and images (c) copyright 2002, by the Rector and Visitors of the University of Virginia</p> 
+</availability>
+--> 
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date> 
+        <idno type="uva-pid">uva-lib:502797</idno>
+      </publicationStmt> 
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt> 
+      <notesStmt>
+        <note/>
+      </notesStmt> 
+
+      <sourceDesc> 
+        <biblFull> 
+          <titleStmt>
+            <title>Augusta: James W. Vines to Kate Armentrout, September 12, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta james w vines to kate armentrout, september 12 1861</title>
+            <author>James W. Vines</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt> 
+          <editionStmt>
+            <p/>
+          </editionStmt> 
+          <extent>3 pages</extent> 
+          <publicationStmt> 
+            <publisher/> 
+            <pubPlace/> 
+            <date value=""/> 
+            <idno type="callNo">Source copy consulted: William Brand Papers, Albert and Shirley Small Special Collections Library, University of Virginia</idno>
+          </publicationStmt> 
+          <seriesStmt>
+            <p/>
+          </seriesStmt> 
+          <notesStmt>
+            <note/>
+          </notesStmt> 
+        </biblFull> 
+      </sourceDesc> 
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc> 
+
+    <profileDesc> 
+      <creation>
+        <date value="1861-09-12">1861-09-12</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage> 
+      <textClass> 
+        <keywords> 
+          <term>Death/Casualties, Desertion/Leave, Family, Women</term> 
+          <term>American Civil War</term>
+        </keywords> 
+      </textClass> 
+    </profileDesc> 
+
+    <revisionDesc> 
+      <change> 
+        <date value="2007-04-02">2007-04-02</date>
+        <respStmt>
+          <resp>proofed</resp>
+          <name>Josh Botts</name>
+        </respStmt> 
+        <item/> 
+      </change> 
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc> 
+  </teiHeader> 
+
+<text id="A9635T">
+<front id="d2">
+<div1 type="summary" id="d3">
+<p>Vines writes to Kate with news of friends and family. He also complains that he was unlikely to receive a furlough before April.</p> 
+</div1> 
+</front> 
+
+<body id="d4">
+<div1 type="letter" id="d5">
+<head>
+    <name type="recipient">Miss Amanda C. Armentrout<lb/>Greenville<lb/>Augusta <abbr expan="County">Co</abbr> <abbr expan="Virginia">Va</abbr></name> 
+<name type="place">Camp Near <orig reg="Centreville">Centresville</orig></name> 
+</head>
+
+<opener>
+<dateline>
+<date value="1861-09-12">Sept 12<hi rend="super">th</hi> /61</date> 
+</dateline> 
+<salute>Dear Friend Kate</salute> 
+</opener> 
+
+<p>I received your kind &amp; welcome letter some three or four weeks since and I take this opportunity to answer it. I was very glad to hear from you and to hear that you were all well, you said all the girls looked well except Snake you named one in <orig reg="particular">perticular</orig> you called her my dear Maggie well if you say she is my dear, it must be so I guess you know, give her my love. Tell Snake I can very easily account for her looking badly she has parted with some one and she is grieving herself about him. I <orig reg="can't">cant</orig> <pb n="2"/> say who it is unless it is Mr <unclear>Quarles</unclear> tell her he is well and I hope it <orig reg="won't">wont</orig> be long before she may have the happy privilege of seeing him. I long to see that happy time when we all may be permitted to return to our homes, you <orig reg="can't">cant</orig> imagine how I would like to come home. I have tried to get a furlough but there was no earthly chance so I have come to the conclusion to wait patiently until next <orig reg="April">Aprile</orig> if I am spared to see it then I can come home, but I hope this fuss may be settled long before then. Kate I suppose you heard about Tom Supple <orig reg="losing">loosing</orig> all the letters that was sent by him &amp; never have been heard from since, we scolded him a <orig reg="great deal">greadeal</orig> about it but I suppose he did not <orig reg="lose">loose</orig> them intentionally <pb n="3"/> therefore we will have to forgive him. I <orig reg="received">recieved</orig> a letter from home yesterday the <orig reg="first">firse</orig> one for more than two weeks and was very sorry to hear of F Campbell's death poor fellow he suffered a <orig reg="great deal">greateal</orig> but I hope he is now at rest I would like to have come and see him before he died but that <orig reg="privilege">privilage</orig> was denied me. I think it very hard that no one are allowed to go home under any circumstance except on a sick furlough. I <orig reg="pitied">pittied</orig> James Trotter he tried several time to get a furlough to go home and see his Father before he died but there was no chance, well Kate as it is now about ten <orig reg="o'clock">oclock</orig>, and the candle is about out I will have to bring these few lines to a close give my love to all the Family &amp; all inquiring friend excuse all mistakes nothing more at this time.</p>
+
+<closer>
+<salute>from your true friend</salute> 
+<signed>James W Vines</signed> 
+<seg type="postscript"><pb n="1"/>Kate I had a talk with your dear friend John Lightner to night I see him nearly every day he looks very well <orig reg="don't">dont</orig> you wish you could see him. Write to me again as soon as <orig reg="convenient">convenent</orig>. JWV
+<name type="recipient"><pb n="4"/>Miss Kate Armentrout<lb/>Rose Dale</name>
+</seg>
+</closer> 
+</div1> 
+</body> 
+</text> 
+</TEI.2>

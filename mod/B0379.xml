@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+
+<?dlps id="B0379"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="B0379">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: Crammond Kennedy to
+                    Thomas P. Jackson, December 13, 1867</title>
+        <title type="sort">freedmens bureau records crammond kennedy to thomas p jackson, december 13 1867</title>
+        <author>Kennedy, Crammond</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B0379</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500709</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: Crammond Kennedy to Thomas P. Jackson,
+                            December 13, 1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records crammond kennedy to thomas p jackson, december 13 1867</title>
+            <author>Crammond Kennedy</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Bureau of Refugees, Freedmen, and
+                            Abandoned Lands, Record Group 105, Box E4269.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-12-13">1867-12-13</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Aid/Relief, Education, Economy</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-07">July 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+                <item>Item checked against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B0379T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Kennedy writes to Jackson about the bill for certain supplies used by teachers
+                    supported by the Freedmans Union Commission. Kennedy notes their financial
+                    difficulties, and urges hard work and economy on the part of teachers.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    New York Branch<lb/>Freedmans Union Commission,<lb/>No. 30 Vesey Street<lb/>(Late
+                    National Freedman's Relief Association)
+                    <name type="recipient">Mr. Thos. P. Jackson<lb/>Staunton, <abbr expan="Virginia">Va.</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-12-13"><abbr expan="December">Dec.</abbr> 13th 1867.</date>
+                        <name type="place">New York</name>
+                    </dateline>
+                    <salute>Dear Sir</salute>
+                </opener>
+
+                <p>Mr. Manly having forwarded your bill for household articles to this office,
+                    permit me to enquire whether you would take a dollar or two per month for their
+                    use till July 1st, and then bill them if you do not want them yourself and also
+                    whether this compensation could not be taken from the school-returns, which I
+                    notice in the last report, were $50 for the month. This may look <del hand="h1"
+                    /> on <unclear>our</unclear> part, but the truth is that it is so hard to get
+                    money, and we have so many unsupported teachers in the field, that nothing but
+                    the hardest work and the strictest economy will prevent the suspension of our
+                    work before the close of the school year.</p>
+
+                <closer>
+                    <salute>With kindest regards<lb/>Yours truly</salute>
+                    <signed>Crammond Kennedy<lb/><abbr expan="Correspondence Secretary"
+                        >Cor.Secy.</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

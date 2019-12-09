@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+
+<?dlps id="B0356"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B0356">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: J. L. D. Walford to
+                    Thomas P. Jackson, May 20, 1867</title>
+        <title type="sort">freedmens bureau records j l d walford to thomas p jackson, may 20 1867</title>
+        <author>Walford, J. L. D.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B0356</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500690</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: J. L. D. Walford to Thomas P. Jackson, May
+                            20, 1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records j l d walford to thomas p jackson, may 20 1867</title>
+            <author>J. L. D. Walford</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Bureau of Refugees, Freedmen, and
+                            Abandoned Lands, Record Group 105, Box E4269.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-05-20">1867-05-20</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Aid/Relief, Church/Religious Activity, Education</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-06">June 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+                <item>Item checked against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B0356T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Walford responds to Jackson's request about providing books for schools in
+                    Augusta County, and he refers Jackson to their representative in the county,
+                    Cyrus Fry.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Mr. Tho<hi rend="super">s</hi> P. Jackson<lb/>Sub <abbr
+                            expan="Assistant Commissioner">Asst. Comr.</abbr> &amp;c</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-05-20">May 20, 1867</date>
+                        <name type="place"><unclear>
+                            <abbr expan="American">Amr.</abbr>
+                        </unclear> Tract Society Richmond</name>
+                    </dateline>
+                    <salute>Dear Sir</salute>
+                </opener>
+
+                <p>Your application for aid for the Freedmen of Augusta <abbr expan="County"
+                    >Co.</abbr> in the way of Books has been handed us by <abbr expan="Reverend"
+                        >Rev.</abbr> Mr. Manly with request that we do what we can for you.</p>
+
+                <p>Our plan is to place the Books in the hands of some one who will use proper
+                    discrimination selling the Books to all that will or can buy them, (and
+                    experience tells us that those who purchase appreciate the books most) but at
+                    the same time we desire to help all those who are too poor to buy, let none go
+                    unlearned because they are too poor to buy a book.</p>
+
+                <p><abbr expan="Reverend">Rev.</abbr> C. F. Fry is our <del rend="none" hand="h1"/> in your
+                    county, lives in Staunton and would no doubt be glad to cooperate with you in
+                    doing anything he can to better the <pb n="2"/>condition of the freedmen, we
+                    will write him and request him to see you, in the meantime, we shall be glad to
+                    receive letters from you in regard to any special <unclear>cases</unclear> of
+                        <add hand="h1" place="inline">Sabbath</add> schools needing books, shall be
+                    glad to hear from you again.</p>
+
+                <closer>
+                    <salute>Very truly yours &amp;c</salute>
+                    <signed>J. L. D. Walford<lb/>For <abbr expan="Reverend">Rev.</abbr> G. L.
+                            <unclear>Shearer</unclear>
+                        <abbr expan="District Secretary">Dist Secy</abbr><lb/><abbr
+                            expan="American Tract Society">Amr Tract Society</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

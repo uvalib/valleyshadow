@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9632"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A9632">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: William F. Brand to Kate Armentrout, June
+                    23, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta william f brand to kate armentrout, june 23 1861</title>
+        <author>Brand, William F.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Jaime Martinez</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A9632</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502794</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: William F. Brand to Kate Armentrout, June 23, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta william f brand to kate armentrout, june 23 1861</title>
+            <author>William F. Brand</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William Brand Papers, Albert and
+                            Shirley Small Special Collections Library, University of Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1861-06-23">1861-06-23</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Church/Religious Activity, Patriotism</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2007-04-02">2007-04-02</date>
+                <respStmt>
+                    <resp>proofed</resp>
+                    <name>Josh Botts</name>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A9632T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Brand tells Kate about her friends in the army and a typical Sunday in camp. He
+                    also expresses a desire to "whip the deamons of the North."</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    fourth letter
+                    <name type="recipient">Mrs. Kate Brand<lb/>Greenville<lb/>Augusta Co<lb/>Virginia</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1861-06-23">June 23th 1861</date>
+                        <name type="place"><orig reg="Berkeley">Burkley</orig>
+                            <abbr expan="County">Co.</abbr>
+                            <abbr expan="Virginia">Va.</abbr>
+                            <orig reg="Camped">Campt</orig> in the Woods 3 Miles below
+                            Martinsburg</name>
+                    </dateline>
+                    <salute>Dear Kate</salute>
+                </opener>
+
+                <p>I <orig reg="received">recieved</orig> your kind and much welcomed letter a <orig
+                        reg="few">fiew</orig> days since and was glad to hear from you. I should
+                    have answered it sooner <orig reg="but">put</orig> we have been <orig
+                        reg="moving">mooving</orig> from <orig reg="place">plase</orig> to <orig
+                        reg="place">plase</orig> for the last two weeks &amp; hardly ever <orig
+                        reg="near">neer</orig> a Post office &amp; to day I am Twenty five miles
+                    from one <orig reg="but">put</orig> I have concluded to write at any rate hoping
+                    that I might <add hand="h1" place="inline">have</add> a chance of sending it
+                    before long. My health is very good and I hope <orig reg="these">theese</orig>
+                    uninteresting lines may find you enjoying the same blessing. <abbr
+                        expan="Cousin">Cous.</abbr> Jas. V. is well and <orig reg="hearty"
+                    >harty</orig>. Your friend J.P. Lightner was <orig reg="here">hear</orig>
+                    yesterday <orig reg="evening">eavning</orig> he belongs to the Rockbridge <orig
+                        reg="College">Collige</orig> boys it is a fine company he said when he got
+                    to <orig reg="Strasburg">Strawsburg</orig> it was reported that we <orig
+                        reg="were">ware</orig> fighting in Winchester &amp; when he got <orig
+                        reg="there">thare</orig>
+                    <pb n="2"/> he <orig reg="heard">hurd</orig> that we <orig reg="were"
+                    >ware</orig> fighting in Martinsburg &amp; he pushed on and when he got
+                        <orig reg="there">thare</orig> he was told we <orig reg="were">ware</orig>
+                    fighting at our encampment it <orig reg="seems">seemes</orig> that it does some
+                    persons good to lie just to keep up the excitement <orig reg="but">put</orig> it
+                    will not be long I hope <orig reg="until">untill</orig> we shall soundly whip
+                    the <orig reg="demons">deamons</orig> of the North for the bloodthirsty <orig
+                        reg="villains">villions</orig>
+                    <orig reg="have">has</orig> invaded our soil at different points &amp; taken
+                    property &amp; <orig reg="searched">surched</orig> the houses for money. I
+                    cannot write any thing to day that will <orig reg="interest">interrest</orig>
+                    you it being Sunday &amp; to see no change in the soldiers if one did not
+                    keep the account of the days he would not know when Sunday comes. Some of the
+                    men are <orig reg="playing">blaying</orig> cards, oh that men would fear the
+                    lord more &amp; <orig reg="serve">searve</orig> him better. Sam Fitch has to
+                    go on duty this morning for an <orig reg="hour">our</orig> or two &amp; he
+                    looks mad I reckon he thinks he is violating the Sabbath <orig reg="but"
+                    >put</orig> it is not his fault. I have had good luck I have not had to go on
+                    duty on Sunday yet.</p>
+
+                <pb n="3"/>
+
+                <p>I had to stop writing for a little while as one of my mess wanted in his box he
+                    took out his Bible and I opened it &amp; commenced reading at the sixty
+                    third <orig reg="psalm">psalmn</orig> and read three or four Chapters they
+                    seemed to revive my low spirits I shall ever put my trust in the lord who is
+                    able to do what so ever he will.</p>
+
+                <p>You asked me to send you my likeness to you I will the first opportunity though
+                    it will not be a good one for I am <orig reg="burned">purnt</orig> almost black
+                    with the sun.</p>
+
+                <p>I do not know when I may have the opportunity of having it taken. I must bring
+                    this <orig reg="uninteresting">uninterresting</orig> letter to a Close hoping
+                    that it may not be long <orig reg="until">untill</orig> I may get back to old
+                    Augusta give my love to all inquiring friends remember me <del hand="h1"
+                    >when</del> in the hours of your devotion if no <orig reg="where">whare</orig>
+                    else.</p>
+
+                <closer>
+                    <salute>I remain yours &amp;C as ever</salute>
+                    <signed>W.F. Brand</signed>
+                    <seg type="postscript">P.S. Please write soon for I am most happy to hear from
+                        at any time yours &amp;C. W.F.B.</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

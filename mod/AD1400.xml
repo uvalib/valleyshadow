@@ -1,0 +1,337 @@
+<?xml version="1.0"?>
+
+<?dlps id="AD1400"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="AD1400"> 
+<teiHeader type="migrated"> 
+
+    <fileDesc> 
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta: Diary of Robert Hanson Fleming, March 28, 1865-May 16, 1865</title>
+        <title type="sort">augusta diary of robert hanson fleming, march 28 1865 may 16 1865</title>
+        <author>Fleming, Robert Hanson</author>
+        <editor/>
+        <respStmt> 
+          <resp>Creation of machine-readable version: </resp> 
+          <name>Kid W.</name> 
+          <resp>Conversion to TEI.2-conformant markup:</resp> 
+          <name>Kid W., Virginia Center for Digital History</name> 
+        </respStmt>
+      </titleStmt> 
+
+      <extent>
+        <num type="kilobytes"> 13 kilobytes</num>
+      </extent> 
+      <publicationStmt> 
+        <publisher>Virginia Center for Digital History</publisher> 
+        <pubPlace>Charlottesville, Virginia </pubPlace> 
+
+        <idno type="VCDH">AD1400</idno> 
+
+        <!--
+<availability> 
+<p>Publicly accessible </p> 
+<p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p> 
+<p>copyright 2002, by the Rector and Visitors of the University of Virginia</p> 
+</availability>
+--> 
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date> 
+        <idno type="uva-pid">uva-lib:500333</idno>
+      </publicationStmt> 
+      <seriesStmt> 
+        <p>Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt> 
+      <notesStmt>
+        <note/>
+      </notesStmt> 
+
+      <sourceDesc> 
+        <biblFull> 
+          <titleStmt>
+            <title>Augusta: Diary of Robert Hanson Fleming, March 28, 1865-May 16, 1865</title>
+            <title level="m"/>
+            <title type="sort">augusta diary of robert hanson fleming, march 28 1865 may 16 1865</title>
+            <author>Robert Hanson Fleming</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt> 
+          <editionStmt> 
+            <p> </p> 
+          </editionStmt> 
+          <extent>3 pages</extent> 
+          <publicationStmt> 
+            <publisher/> 
+            <pubPlace/> 
+            <date value=""/> 
+            <idno type="callNo">Source copy consulted: R. H. Fleming Diary, Special Collections Department, James G. Leyburn Library, Washington &amp; Lee University, Lexington, Virginia.</idno> 
+          </publicationStmt> 
+          <seriesStmt>
+            <p/>
+          </seriesStmt> 
+          <notesStmt> 
+            <note/>
+          </notesStmt> 
+        </biblFull> 
+      </sourceDesc> 
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Special Collections, James G. Leyburn Library, Washington and Lee University</p>
+      </projectDesc>
+    </encodingDesc> 
+
+    <profileDesc> 
+      <creation>
+        <date value="1865-03-28">1865-03-28</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage> 
+      <textClass> 
+        <keywords> 
+          <term>Battle Description, Desertion/Leave, Home Front, Military Authority, National Government, Patriotism, Troop Movement, Women</term> 
+          <term>American Civil War</term>
+        </keywords> 
+      </textClass> 
+    </profileDesc> 
+
+    <revisionDesc> 
+      <change> 
+        <date value="2005">Summer 2005</date>
+        <respStmt>
+          <resp/>
+          <name>Doug O'Reagan</name>
+        </respStmt> 
+        <item>Proofread.</item> 
+      </change> 
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc> 
+  </teiHeader> 
+
+<text id="AD1400T">
+
+<front id="d2">
+<div1 id="AD1400bio" type="bio">
+<head>Biography
+<!-- <ref>AD1400bio</ref> -->
+</head>
+<p>A midshipman in the Confederate Navy, Robert Fleming recorded the scuttling of his vessal near the end of the war.  His brief diary describes the burning of Richmond and notes that he and his unit have been chosen to guard a train loaded with Confederate specie.  He observes that civilians in a couple of towns are hostile and wish to return to the Union.  After delivering the specie to Georgia, Fleming returns to Virginia and describes what he encounters on the journey home.</p> 
+</div1> 
+</front>
+
+<body id="d4">
+
+
+
+<div1 id="AD14001865" type="part" n="1865">
+<head>1865
+<!-- <ref>AD14001865</ref> -->
+</head>
+
+<div2 type="section" n="1865-03" id="d6">
+<head>March 1865 
+<!-- <ref>American Civil War, Battle Description</ref> -->  
+</head>
+
+<div3 type="entry" n="1865-03-28" id="d7">
+<head><hi rend="underline">March 28th, 1865</hi></head>
+<p>Fighting has been going on for several days.  With considerable success, our troops, though greatly outnumbered, fought bravely.  We are expected to be armed and sent to the front.  <orig reg="Today">To-day</orig> we received orders to leave the ship.  It is to be sunk in the river to obstruct it to keep off the Yankee monitors.  We marched up to the corner of 26th &amp; Franklin.  The school is broken up indefinitely.</p>
+</div3>
+
+<div3 type="entry" n="1865-03-29" id="d8">
+<head><hi rend="underline">March 29th</hi></head>
+<p>Nothing to do.  Saw Mr.     my county     home.</p>
+</div3>
+
+</div2>
+
+
+<div2 type="section" n="1865-04" id="d9">
+<head>April 1865 
+<!-- <ref>American Civil War, Battle Description, Desertion/Leave, Home Front, Military Authority, Patriotism, Troop Movement</ref> -->  
+</head>
+
+<div3 type="entry" n="1865-04-02" id="d10">
+<head><hi rend="underline">April 2nd, Sunday</hi></head>
+<p>Whilst everybody was in church the awful intelligence was received that Lee had been defeated and that Richmond was to be given up.  We were marched at quick time after arms and ammunition and to get ready to leave.  Left quarters about 4 armed.  Arrived at Danville Depot at 5.  It was announced <orig reg="today">to-day</orig> that we were picked out by the <abbr expan="Secretary">Sec.</abbr> to guard a very valuable train loaded with <hi rend="underline">specie</hi>.  The train left the Depot about 12 midnight.</p>
+</div3>
+
+
+
+<div3 type="entry" n="1865-04-03" id="d11">
+
+<p>Morning.  We find ourselves switched off from our train and left on the track just across the river.  The smoke of the burning city is rising up in dense columns.  I hear the glad sound.  Another train is coming.  We will yet get off, but not it will not stop, but here comes another.  Away we scramble on top.  Can scarcely get a place to sit down.  Away we go leaving the burning city behind.  Farewell old Richmond.  Much blood has been spilt in your defence.  Very few persons are leaving the city.  The evacuation is the most hurried of the war.  We travel very slowly.</p>
+
+<p>Evening.  Burkeville Junction.  Yankees reported 4 miles off.</p>
+</div3>
+
+
+
+<div3 type="entry" n="1864-04-04" id="d12">
+
+<p><hi rend="underline">Danville</hi>, <hi rend="underline">April 4th</hi>.  Arrived here at daylight.  Found the rest of our party waiting for us in camp in a pleasant place just outside the town.  Danville is a small place of about 2000 inhabitants.  The people are very inhospitable and     tired of the place.  splendidly laid off, filled with flowers.</p>
+</div3>
+
+
+
+<div3 type="entry" n="1864-04-20" id="d13">
+<head><hi rend="underline">April 20th</hi></head>
+<p>On our way to Augusta we heard <orig reg="today">to-day</orig> the awful news of the Surrender of <abbr expan="General">Gen.</abbr> Lee and all his arms.  I fear all is lost but our honor!  Arrived at Augusta <orig reg="today">to-day</orig>.  The specie is deposited in bank.  I am glad we haven't it to guard.  Augusta is a very pretty place.  The streets are filled with shade trees.  It is a perfect <orig reg="Union">union</orig> hold.  All the people want to go right back to the <orig reg="Union">union</orig>.</p>
+</div3>
+
+
+
+<div3 type="entry" n="1864-04-26" id="d14">
+<head><hi rend="underline">April 26th</hi></head>
+<p>Here we go back to Washington again taking the specie along with us.</p>
+</div3>
+
+
+
+<div3 type="entry" n="1864-04-27" id="d15">
+
+<p><hi rend="underline">Washington 27th</hi>  Today all the school got furloughs who wished them.  All but 6 of us took them.</p>
+</div3>
+
+
+
+<div3 type="entry" n="1864-04-29" id="d16">
+<head><hi rend="underline">29th</hi></head>
+<p>Off for Abbeville again.  It is hard to part with boys after the many pleasant hours we have spent together.  May we meet in a better world.</p>
+</div3>
+
+
+
+<div3 type="entry" n="1864-04-30" id="d17">
+<head><hi rend="underline">April 30th</hi></head>
+<p>at <hi rend="underline">Abbeville</hi>.</p>
+</div3>
+
+</div2>
+
+<div2 type="section" n="1864-05" id="d18">
+<head>May 1865 
+<!-- <ref>American Civil War, Desertion/Leave, Military Authority, National Government, Women</ref> -->  
+</head>
+
+<div3 type="entry" n="1865-05-02" id="d19">
+<head><hi rend="underline">May 2nd</hi></head>
+<p>The President arrived <orig reg="today">to-day</orig>.  Received my furlough.</p>
+</div3>
+
+
+
+<div3 type="entry" n="1865-05-03" id="d20">
+<head><hi rend="underline">May 3rd</hi></head>
+<p>Intended to leave <orig reg="today">to-day</orig> but no train.  In consequence of hearing that the Yankees were near I will remain here a few days.  I have met with a <abbr expan="Virginia">Va.</abbr> lady.  She is a true Virginian.  It makes me wish myself back in Old <abbr expan="Virginia">Va.</abbr> again.  She treats us with true <abbr expan="Virginian">Va.</abbr> hospitality.  We have just finished a nice cake sent us.</p>
+</div3>
+
+
+
+<div3 type="entry" n="1865-05-07" id="d21">
+<head><hi rend="underline">Sunday, May 7th</hi></head>
+<p>Left Abbeville for home expecting to go to Newberry but the train not going but 12 miles.  In camp in a beautiful grove.  Have seen several Virginians.  Heard <orig reg="today">to-day</orig> that Rosser had captured Richmond holding for a few hours &amp; that <abbr expan="Governor">Gov.</abbr> Smith of <abbr expan="Virginia">Va.</abbr> was still fighting.</p>
+</div3>
+
+
+
+<div3 type="entry" n="1865-05-08" id="d22">
+<head><hi rend="underline">May 8th</hi> <hi rend="underline">Monday</hi></head>
+<p>Come to Newberry.  Nothing from home.  Stay here <orig reg="tonight">to-night</orig>.</p>
+</div3>
+
+
+
+<div3 type="entry" n="1865-05-09" id="d23">
+<head><hi rend="underline">May 9th</hi></head>
+<p>Left Newberry on cars for Hopes Station on Columbia <orig reg="Road">road</orig>.  Walked from there across the country 30 miles to Charlotte road.  Passed through a portion of the burnt district.  Nearly every house has been burned by the enemy.</p>
+</div3>
+
+
+
+<div3 type="entry" n="1865-05-10" id="d24">
+<head><hi rend="underline">May 10th</hi></head>
+<p>Off for Chester on the train.  Arrived about 12 o'clock.  Drew rations of envelopes, pens, mixed vegetables &amp; lead pencils.</p>
+</div3>
+
+
+
+<div3 type="entry" n="1865-05-11" id="d25">
+<head><hi rend="underline">May 11th</hi></head>
+<p>A beautiful May morning, the birds are singing their sweet songs.  It reminds me of home.  Left Chester at 7, crossed the Catawba<orig reg="River">river</orig> on a pontoon, the bridge having been burnt by the Yankees.  Reached Charlotte at 1, found Yankees here.  Got paroled.</p>
+</div3>
+
+
+
+<div3 type="entry" n="1865-05-12" id="d26">
+<head><hi rend="underline">May 12th</hi></head>
+<p>Off for Greensboro at 7 o'clock.  See Yankees at every little town.  Here they are as thick as blackbirds on a grain stack.</p>
+</div3>
+
+
+
+<div3 type="entry" n="1865-05-13" id="d27">
+<head><hi rend="underline">May 13th</hi></head>
+<p>Left Greensboro at 3<hi rend="super">1/2</hi>, arrived at Danville 4<hi rend="super">1/2</hi> hours, <orig reg="traveling">travelling</orig> 48 miles.  Missed connection.  Will have to remain here all night.  Huzza!  I am once more on the sod of Old Virginia.  The 6th Corps Army of the Potomac, commanded by <hi rend="underline">Wright</hi>, is stationed here and along the line of the Danville <abbr expan="Railroad">R. R.</abbr>  Drew rations of hardtack &amp; salt pork.</p>
+</div3>
+
+
+
+<div3 type="entry" n="1865-05-14" id="d28">
+<head><hi rend="underline">May 14th</hi></head>
+<p>Left Danville at 4 A.M., found Yankee guards at every station.  Negroes are plenty that have left their homes thinking they are free.  Reached Burkeville Junction at 12 <orig reg="P.M.">M.</orig>  Left Junction at 2 P.M.  Arrived at Richmond at sunset.  Crossed James River on a pontoon.  Camped in Central Depot.  What a change in one short month.  Now Blue coats walk the streets in arms.  Formerly the Grey had control.</p>
+</div3>
+
+
+
+<div3 type="entry" n="1865-05-15" id="d29">
+<head><hi rend="underline">May 15th</hi></head>
+<p>Left Richmond.  Arrived at "Koshvichs" 7 miles from <abbr expan="Charlottesville">Chsville.</abbr>  at 3 P.M.  Walked to <abbr expan="Charlottesville">Chsville.</abbr>, there parted with the last of my <abbr expan="midshipman">mid<hi rend="super">s</hi>.
+</abbr> friends.  Am left to pursue my way along.  No rations, marched 10 miles after night, reached "Mechum's River" at 3 in the morning.  Lay by all day starved, reached Staunton after dark, slept on top of a box car, shoved off early in the morning.</p>
+</div3>
+
+
+
+<div3 type="entry" n="1865-05-16" id="d30">
+<head><hi rend="underline">May 16th</hi></head>
+<p>Marched 7 miles for breakfast, reached home at sunset, "<hi rend="underline">home</hi>, <hi rend="underline">sweet home</hi>."</p>
+</div3>
+
+</div2>
+
+</div1>
+
+
+
+
+</body>
+</text>
+</TEI.2>

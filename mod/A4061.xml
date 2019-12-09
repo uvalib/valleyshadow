@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+
+<?dlps id="A4061"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A4061">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Jedediah Hotchkiss to Sara A. Hotchkiss,
+     November 22, 1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county jedediah hotchkiss to sara a hotchkiss, november 22 1863</title>
+        <author>Hotchkiss, Jedediah</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Lara Diefenderfer</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Rider</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">9</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A4061</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:502260</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Jedediah Hotchkiss to Sara A. Hotchkiss, November 22, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta county jedediah hotchkiss to sara a hotchkiss, november 22 1863</title>
+            <author>Jedediah Hotchkiss</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>4 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Jedediah Hotchkiss Collection, Reel 4, Manuscripts
+       Division, Library of Congress, Washington, D. C.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Congress, Washington, D. C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1863-11-22">1863-11-22</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Women, Family, Death/Casualties, National Government, Military Authority, Camp Life,
+      Church/Religious Activity, Prisons/Prisoners, Arts/Leisure, Home Front</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A4061T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Hotchkiss relates news from camp, concerning officers, preaching, and camp life. He comments
+     on family news, and on various other topics.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Sara A. Hotchkiss</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1863-11-22">Nov. 22<hi rend="underline">
+        <hi rend="super">nd</hi>
+      </hi> 1863</date>
+      <name type="place">Hd. Qrs. 2<hi rend="super">nd</hi> Corps</name>
+     </dateline>
+     <salute>My Dear Wife:</salute>
+    </opener>
+
+    <p>It has been some days since I wrote to you a letter of any length, as the letter I sent by
+     Capt. Carroll enclosing $100--, had only a few lines in it as he was on the point of starting
+     when I heard he was going. Nelly's letter came a few days ago also, &amp; I was very glad
+     to hear from you all through her, very glad she wrote to me &amp; I will write to her
+     before many days, but I was sorry you are still unwell, tired out by your many cares -- I hope
+     Richard has been up to see you or will come soon &amp; look after those wearisome things
+     that take away your strength and do not invigorate you. I do hope the Lord will let us end this
+     war before many months, that we may return to our homes &amp; look after our households
+     &amp; cheer up our wives &amp; children -- We are quietly resting here, with no signs
+     of an advance, <orig reg="though">tho'</orig> the enemy may come any day, if they intend any
+     movement this year. I suppose the Yankees have got the cars running to Culpeper <abbr
+      expan="Court House">C.H.</abbr> as they have finished the bridge &amp;c. They are encamped
+     near Culpeper <abbr expan="Court House">C. H</abbr>, &amp; from there back to Brandy -- The
+     President came up yesterday &amp; is to review<pb n="2"/>our corps in a few days -- it is
+     said the President is in fine health &amp; looking better than he has for a long time. Col.
+     Pendleton went up to Orange <abbr expan="Court House">C.H.</abbr> to church today &amp;
+     says the Pres. &amp; Gen. Lee were both there--. Gen Ewell &amp; family went to
+     Charlottesville last week, as his leg is not very well -- though we hear he is better &amp;
+     will be back in a few days. Gen. Early commands the Corps in his absence &amp; is here at
+     our <abbr expan="Head Quarters">Hd. Qrs.</abbr> I am very glad we are so well situated, and I
+     am making good use of time to get my work advanced, hoping to get off early in Dec. &amp;
+     be home some 3 weeks at Christmas -- if I am not disappointed -- which I do hope may not be the
+     case. I suppose Gen. Ewell will bring his family back, though all are much opposed to having
+     women in camp, as officers neglect their duties to attend to their wives &amp; when any
+     movement takes place instead of seeing their commands off -- Mrs. E. seemed to think all were
+     glad to see her go, for she had to make that remark as she bade us good bye. Hon. Jere Morton's
+     family is here in part of the house, having left their house on the bank of the river, fearing
+     that if the Yankees attempt to cross, a fight may take place near the house and they do not
+     wish to be in the midst of it. Mrs. Morton is one of your<pb n="3"/> trim, smart, busy bodies
+     -- at the same time one of the most perfect ladies I have ever met with -- <orig reg="though"
+      >tho'</orig> we see very little of her since Mr. Morton went away a few days ago &amp;
+     she, good wife that she is, keeps her room, disconsolate I suppose, until her nice old man
+     returns. We had a good rain all day uesterday, but it cleared off this morning &amp; we
+     have had an elegant day - warm &amp; sunshiny -- I went down with Mr. Lacy to the guard
+     house this morning with Mr. Lacy &amp; he preached to the prisoners, -- a very good sermon
+     &amp; then I have read some &amp; talked some &amp; thus the day has passed --
+     There is quite a crowd in my ranks, Smith, complaining, lying in the corner, Mr. Lacy stretched
+     out on my pallet &amp; saying good things, Dr. McGuire in the corner &amp; Pendleton
+     near <orig reg="by">bye</orig> -- &amp; Capt. Milbourn of the Signal Corps has just come in
+     -- says there are 3 Corps of the Yankees on this side of the river, &amp; two Corps on the
+     other ridge -- My Company keeps up a running fire of wit &amp; humor, so my letter has but
+     little connection, <orig reg="though">tho</orig> it will be a message -- I am enjoying
+     excellent health &amp; get along nicely -- my butter is lasting well and they are now
+     issuing Sweet Potatoes as rations to all the army I wish you had some of them --<pb n="4"/> I
+     spend my nights copying letters from Gen. Jackson's Letter Book -- collecting materials Dr.
+     Dabney has also some of them copied - The life of Gen. Jackson by McCabe is a pretty good one
+     -- This is the first Sunday that it has been quiet for a month -- it seems almost strange to
+     have a day of rest. Last Sunday we had just finished breakfast when they opened artillery at
+     Raccoon ford &amp; we thought they were coming over --- so we hurried up &amp; packed
+     &amp; flew round &amp; started the wagons off, &amp; the troops went to the front
+     &amp; there was a general stir - but it all amounted to nothing -- only a cavalry
+     demonstration -- so we got back to our old quarters &amp; got dinner about 8 P.M. -- .
+     Nelly says Allie went off in good spirits -- do you think she is reconciled to what has
+     happened? &amp; how is Sterret getting on -- ? Do you want any more money just now, if so
+     please let me know -- . How are you getting along my lone Dove -- I fear you have many
+     troubles. Can I write to any one to do anything for you. Kiss Anne &amp; Nelly for me - -
+     Pa sends them his blessings &amp; hopes they are always good &amp; kind &amp;
+     trying to be good -- Do not overwork yourself my Dear, try to get along by doing as little work
+     as possible &amp; I hope I may be able to fix you better at Christmas -- Write often My
+     Dear -- I long to see you -- May God's blessing attend you -- </p>
+
+    <closer>
+     <salute>Your loving husband</salute>
+     <signed>Jed. Hotchkiss</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

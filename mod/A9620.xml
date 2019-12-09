@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9620"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A9620">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title id="VShadow" type="main">Augusta: John P. Lightner to Kate Armentrout, June
+                    29, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta john p lightner to kate armentrout, june 29 1861</title>
+        <author>Lightner, John P.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Jaime Martinez</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A9620</idno>
+
+                <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+                <availability status="public">
+                    <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the
+                        University of Virginia</p>
+                    <p n="access">Publicly accessible</p>
+                </availability>
+                <date value="2002">2002</date>
+                <idno type="uva-pid">uva-lib:502782</idno>
+            </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: John P. Lightner to Kate Armentrout, June 29, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta john p lightner to kate armentrout, june 29 1861</title>
+            <author>John P. Lightner</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William Brand Papers, Albert and
+                            Shirley Small Special Collections Library, University of Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Used with permission from Albert and Shirley Small Special Collections Library,
+                    University of Virginia, Charlottesville, Virginia</p>
+            </projectDesc>
+        </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1861-06-29">1861-06-29</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Church/Religious Activity, Death/Casualties, Home Front,
+                        National Government, Patriotism, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A9620T">
+        <front id="d2">
+            <div1 id="d3" type="summary">
+                <p>Lightner sends Kate a description of camp life and especially the religious
+                    activities available in camp. He also writes that, although he generally hates
+                    war, he believes that the Confederate cause is just, but still hopes that peace
+                    will ultimately prevail.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 id="d5" type="letter">
+                <head>
+                    <name type="recipient">Miss Amanda C. Armentrout, Greenville</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1861-06-29">June 29<hi rend="super">th</hi></date>
+                        <name type="place">Stevens Camp</name>
+                    </dateline>
+                    <salute>Dear Friend;</salute>
+                </opener>
+
+                <p>I doubt not that you would be glad to hear from your old friend by this time, who
+                    is now enjoying the pleasures or miseries of Camp life.</p>
+
+                <p>I am very well at present, was not for several days after, I overlook my company,
+                    which is now stationed 4 miles from Martinsburg, Beverly Co. some 6 miles from
+                    the Potomac; we are getting pretty close to the Yankees. But the closer we
+                    apprach them the faster they retreat. I like camp life very much if it was not
+                    for cooking. I wish you could come down &amp; cook for me. I have engaged
+                    one young lady to fight for me. She was so kind &amp; patriotic as to offer
+                    her services, &amp; of course I could not refuse. I think most of the ladies
+                    are more <pb n="2"/>patriotic than some of the Gentlemen. I met with a great
+                    many of my old acquaintances in the different regiments stationed here, which
+                    makes it more pleasant than it otherwise would be. They all seem very cheerful
+                    &amp; lively, and most anxious to come into deadly conflict with their
+                    enemy. I know I dont want to fight. I'm a great lover of peace, I would give a
+                    million, if I had it, to be in Lincoln's position one day, peace would come, if
+                    I could bring it. I abhor the idea of war, &amp; believed once that it was
+                    morally wrong on all occasions. But this war is certainly a holy &amp; just
+                    one, on our side; the other is none else than unconstitutional, brought on by
+                    wicked usurpation of power, but from present indications &amp; from reports
+                    now current, the <pb n="3"/>prospect for peace is flattering. I only hope the
+                    present Congress will settle the whole affair. It is the will of our maker to
+                    have peace at all times, if people would not become so rebellious, he would not
+                    chastise so severely as by bringing war upon them. These have been in times past
+                    &amp; must needs now be. Two ladies from Washington came to Martinsburg,
+                    stated that the Cabinet were writing out a proclamation of peace. I dont <add
+                        hand="h1" place="inline">know</add> how they know it, but suppose they had
+                    some good reason for believing so.</p>
+
+                <p>There are some hard customers here, care for nothing whatever, themselves nor any
+                    one else.</p>
+
+                <p>I would rather be at College about this time, at my studies. I hated worse to
+                    leave them, than I hated to leave my friends. I had hoped the whole time <pb
+                        n="4"/>&amp; still hope that this terrible calamity will be averted from
+                    our once glorious country, but <add hand="h1" place="inline">now</add> agitated
+                    &amp; dissevered. I was well taken care of from Staunton to Winchester by
+                    two young ladies, I <add hand="h1" place="inline">
+                        <orig reg="reckon">recon</orig>
+                    </add>
+                    <unclear>recon</unclear> you think they had a heap to do. I did not start as
+                    soon from home as I had expected to do, from some mismanagement. I have not seen
+                        <add hand="h1" place="inline">John</add> but once since I've been here; went
+                    over this morning to see him, but this was wash day with him. He is well, or at
+                    least I've heard nothing the contrary. 3 of our men were shot a few days ago,
+                    one by <unclear>a</unclear> Yankee &amp; the other two accidentally. All of
+                    them still living but badly wounded. We have religious services in our company
+                    every night, conducted by different members of the company, had two sermons last
+                    Sabbath. Have no regular chaplain, as I know of. You must excuse this short
+                    &amp; badly written epistle. I have now an opportunity <pb n="1"/>of sending
+                    it <del hand="h1" rend="none"/> to watch for opportunities to send mail as the
+                    mail is not regularly brought. You must remember me. My love to whom you please.
+                    Direct to Martinsburg, Care of Capt J.J. White. Write soon. It will be a great
+                    pleasure to me to hear from you any time. I have heard nothing from the
+                    neighborhood since I've been here.</p>
+
+                <closer>
+                    <salute>I remain your friend sincerely</salute>
+                    <signed>Jno. P. Lightner</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

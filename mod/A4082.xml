@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+
+<?dlps id="A4082"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A4082">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Jedediah Hotchkiss to Sara A. Hotchkiss, June
+     19, 1864</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county jedediah hotchkiss to sara a hotchkiss, june 19 1864</title>
+        <author>Hotchkiss, Jedediah</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Lara Diefenderfer</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Rider</name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A4082</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:502277</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Jedediah Hotchkiss to Sara A. Hotchkiss, June 19, 1864</title>
+            <title level="m"/>
+            <title type="sort">augusta county jedediah hotchkiss to sara a hotchkiss, june 19 1864</title>
+            <author>Jedediah Hotchkiss</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>4 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Jedediah Hotchkiss Collection, Reel 4, Manuscripts
+       Division, Library of Congress, Washington, D. C.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>There is a notation on the letter in another hand, stating that the date should be July,
+        not June 19th.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Congress, Washington, D. C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1864-06-19">1864-06-19</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Troop Movement, Battle Description, Military Authority, Death/Casualties</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A4082T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Hotchkiss writes to his wife, telling her of skirmishes with the enemy -- in particular
+     attacks on some wagons. He lists some items he sent his wife in a package.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Sara A. Hotchkiss</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1864-06-19">June 19<hi rend="underline">
+        <hi rend="super">th</hi>
+      </hi> 1864</date>
+      <name type="place"><abbr expan="Head Quarters Valley District">Hd. Qrs. V. D.</abbr> near
+       Berryville Va.</name>
+     </dateline>
+     <salute>My Dear Sara:</salute>
+    </opener>
+
+    <p>I wrote you a few days ago from near Leesburg -- after we had crossed back to Virginia --
+     Sunday we came on across the Blue Ridge -- there was not flour enough in Loudoun Co. to supply
+     our wants, but Clarke &amp; Jefferson have an abundance in them -- our commissary having
+     100000 bushels of wheat at his command -- The Yankee cavalry found a portion of our train
+     exposed to attack as we came across the Blue Ridge &amp; they fell on it &amp; captured
+     &amp; destroyed some 30 or 40 wagons -- but our infantry got up &amp; punished them,
+     capturing in turn a piece of artillery from the Yankees -- the wagons captured all belonged to
+     the cavalry -- <orig reg="Imboden's">Imbodens</orig> were nearly all captured -- Maj. McCue <pb
+      n="2"/>lost his goods in one of Imbodens wagons -- I am sorry -- for he had a great deal of
+     trouble to get them I sent my bundle up to Staunton by Maj. Braithwaite -- directed to myself
+     care of Maj. Bell &amp; I will write to Maj. Bell to send it to you -- I hope to be able to
+     get other things before the season is over -- a great many got nothing as the people of
+     Frederick purchased immunity by paying $200000, &amp; only sold if they pleased &amp;
+     they required "greenbacks" -- &amp; they were hard to get -- we were not in any other place
+     where there was any thing -- I will repeat the contents of my bundle so you may know if all of
+     it comes -- to hand -- I enclosed it in some linen &amp; sewed it up &amp; then put it
+     in a bag -- There is an overcoat along - a very nice one - which Robinson captured at Harpers
+     Ferry -- take care of it -- then 7 yds. of grey cloth, for a coat &amp; pants for myself --
+     1/2 doz. <abbr expan="Handkerchiefs">Hdkfs</abbr> -- (2 kinds)<pb n="3"/>2 <abbr expan="pairs"
+      >prs</abbr> shoes -- 40 yds. dark calico 20 yds <orig reg="bleached">bleched</orig> cotton --
+     a piece of some 8 or 10 yds -- 6 yds. of bonnet Ribbon, 1 small cravat -- 2 undershirts, 1
+      <abbr expan="pair">pr</abbr> drawers, 1 bottle of brandy -- (a present to me from Maj. Hawks,
+     which I send for your use) some <unclear>gents</unclear> socks -- that is all I believe --
+     sorry it is no more but will hope for another opportunity. </p>
+    <p> Yesterday, after we thought we were fixed for a rest in camp the Yankees came on across the
+     Mt. &amp; attempted to cross the Shenandoah River -- in fact they did cross, but Gen. Rodes
+     fell on them &amp; compelled them to go back with considerable loss -- we had quite a hard
+     fight &amp; lost quite a number of men -- The fight was at Rock's ford some 6 miles <abbr
+      expan="North East">N. E.</abbr> of Berryville -- Today the enemy has been demonstrating
+     towards Winchester<pb n="4"/>trying to induce us to go away from here -- I do not know how well
+     they may succeed -- they have quite a large force -- the 19<hi rend="super">th</hi> Corps that
+     has been in La. has been brought up -- the 6<hi rend="super">th</hi> Corps from Grant's Army --
+     then all Hunter's &amp; Siegel's forces -- some 25000 men perhaps -- but I think if we can
+     induce them to fight, by God's blessing we can whip them -- It is very dry here -- the grass
+     completely <orig reg="scorched">scrorched</orig> -- I sent my watch up by Maj. McCue -- get it
+     if you have a chance -- I have sent my horses home by <abbr expan="George">Geo.</abbr> Horger
+     to go to Mr. Geedings -- say to him I hope he will do the best he can for them in the way of
+     pastures -- I am riding over this county mapping it -- am very busy &amp; tired at night --
+     so do excuse this -- Love &amp; kisses &amp; blessings for you all -- Write often -- I
+     just got yours of June 12<hi rend="underline">
+      <hi rend="super">th</hi>
+     </hi> -- Hunter filled it up -- Good bye my sweet one </p>
+
+    <closer>
+     <salute>Your <abbr expan="Affectionate">Aff.</abbr> husband --</salute>
+     <signed>Jed. Hotchkiss</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>
