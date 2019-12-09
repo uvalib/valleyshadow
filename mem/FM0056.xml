@@ -1,0 +1,481 @@
+<?xml version="1.0"?>
+
+<?dlps id="FM0056"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 id="FM0056">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: "Border War," by Unknown, 1869</title>
+        <title type="sort">franklin county border war, by unknown 1869</title>
+        <author>Unknown</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name>Virginia Center for Digital History Staff</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Doug O'Reagan</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca.<num type="kilobytes"> 28.5 </num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">FM0056</idno>
+        <!--
+                <availability>
+                    <p>Publicly accessible</p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2005">2005</date>
+            <idno type="uva-pid">uva-lib:498568</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: "Border War," by Unknown, 1869</title>
+            <title level="m"/>
+            <title type="sort">franklin county border war, by unknown 1869</title>
+            <author>Unknown</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>5 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: The Rebellion Record: A Diary of
+                            American Events, Edited by Frank Moore, New York: D. Van Nostrand,
+                            Publisher, 1869, Pages 38-43</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Alderman Library, University of Virginia, Charlottesville Va.</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1869">1869</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Battle Description, Death/Casualties, Home Front, Veterans</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value="2006-03-20">2006-03-20</date>
+                <respStmt>
+                    <resp>proofed</resp>
+                    <name>Josh Botts</name>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="FM0056T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>This poem recollecting/imagining the war in Chambersburg is more bitter and
+                    unhappy than many recollections in later years. It begins by describing the
+                    original burning of Chambersburg in the French and Indian War.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="article" id="d5">
+                <p>
+                    <hi rend="bold">AS SEEN AND EXPERIENCED BY THE INHABITANTS OF <orig
+                            reg="CHAMBERSBURG">CHAMBERSBURGH</orig>, PA.</hi>
+                </p>
+                <p>I.<lb/> A wandering hunter spied the spot,<lb/> Where Falling Spring, a limpid
+                    stream,<lb/> Which glides on its course like a fairy dream,<lb/> A moment's joy
+                    and then forgot,<lb/> Rolls laughing over its rocky bed;<lb/> A moment pure and
+                    a moment free,<lb/> A lagging moment forever sped,<lb/> Then hurried onward
+                    toward the sea.<lb/> Swept off, the victim of wild intrigue,<lb/> 'Twixt the
+                    ripples and waves of the Conococheague.</p>
+                <p>On that spot now rests a quiet town,<lb/> Called after a man attracted there<lb/>
+                    By the hunter's tale, bewitching fair,<lb/> Of the water-fall which tumbles
+                        down<lb/><pb n="39"/> In foaming spray o'er its rough-hewn stair;<lb/> The
+                    spot I have learned to love so well,<lb/> Where fancy can revel without
+                    restraint,<lb/> And her creations are wont to dwell,<lb/> And fill the mind with
+                    pictures quaint;<lb/> And there I muse on a thousand things,<lb/> Which come on
+                    Imagination's wings,<lb/> And the well-known legends fondly trace,<lb/> That are
+                    told of the Indian-haunted place.</p>
+                <p>'Twas on this spot stood free and wild,<lb/> The Shawanese and the Delaware
+                    savage,<lb/> Ere Indian warrior taught his child<lb/> To scalp and murder, burn
+                    and ravage.<lb/> And as I stood by the stream one day,<lb/> A thousands visions
+                    flitting o'er me,<lb/> I thought of times long passed away,<lb/> And buried
+                        <orig reg="chieftains">chieftans</orig> rose before me;<lb/> But vain are
+                    the dreams we would fain recall,<lb/> For oblivion's mantle is over them all.</p>
+                <p>And then I thought of the old-time fort,<lb/> With its blunderbuss and its swivel
+                    gun,<lb/> Its cracking fire-arms' loud report,<lb/> And the name is bold
+                    defender won;<lb/> How the savage ventured not too near<lb/> Its stockade sides,
+                    from a wholesome fear<lb/> Of the bull-dogs laid at rest within,<lb/> But oping
+                    their mouths with a ghastly grin:<lb/> And how when the governor's mandate
+                    came,<lb/> "Forthwith to deliver up the same,"<lb/> Old Colonel Chambers
+                    bristled with pride,<lb/> And declared that "the guns should stay by his
+                    side,<lb/> For his guns had stood by him, and he<lb/> Would stand by his guns,
+                    as they should see."<lb/> Then followed visions of trouble and strife,<lb/> Of
+                    the tomahawk and the scalping-knife,<lb/> The war-whoop wild and the scene of
+                    slaughter,<lb/> And of human blood in the limpid water.</p>
+                <p>And then from the buried past we fly<lb/> To the living present which vividly
+                    seems<lb/> The realization of mystic dreams<lb/> That are wont to fleck our
+                    dream-land's sky.<lb/> From the time on freedom's natal day,<lb/> When Craighead
+                    urged the youth away,<lb/> And our patriot sires, a martial band,<lb/> Shoulder
+                    to shoulder and hand to hand,<lb/> Marched forth to consecrate the land<lb/> At
+                    liberty's shrine and on freedom's altar;<lb/> Up to the day when marched the
+                    son<lb/> To end the work the sire begun,<lb/> And not a man was known to
+                    falter.<lb/> From the fields where Steele and Chambers fought,<lb/> At the
+                    nation's first baptismal,<lb/> To the gory spot where Easton wrought<lb/> And
+                    died 'midst the deep swamps dismal;<lb/> And from where our patriot fathers
+                    bled,<lb/> And their comrades moaning, "dead, dead, dead,"<lb/> Consigned them
+                    to God's own keeping,<lb/> To the far-off hillside's thorn-bush shade<lb/> Where
+                    the gallant Kerns to rest is laid,<lb/> As one who is gently sleeping.</p>
+                <p>The past, the present, the future, all<lb/> We have known in life or loved in
+                    story;<lb/> The dead the living, the great, the small,<lb/> Obscurity's son and
+                    the child of glory<lb/> In vision arise before our eyes,<lb/> And troop through
+                    brain in wild disorder,<lb/> And we look in the stream with strange
+                    surprise,<lb/> When we recollect we're on the "border."</p>
+                <p>II.<lb/> And thus again as I lay by the stream<lb/> Which murmuring rolls its
+                    waters along,<lb/> And drips o'er the Falls in rippling song,<lb/> My fancies
+                    were shaped and this my dream,<lb/> Minerva-like, sprang out of my brain.<lb/>
+                    And bore away the triumphal car<lb/> Of terrible, glorious "border war;"<lb/>
+                    While rose to my ears a swelling strain,<lb/> Which seemed like the voices of
+                    heroes slain,<lb/> And this was the burden of what they were singing,<lb/> Its
+                    cadence wild with the waters ringing.</p>
+                <p>Away to the border, away,<lb/> Where your brethren are calling.<lb/> Away and
+                    take part in the fray,<lb/> Where your children are falling.<lb/> Fall in, men,
+                    fall in, and forward in order,<lb/> Do you not hear the cry coming up from the
+                    border?</p>
+                <p>Away to the border, away,<lb/> Where stout hearts are contending.<lb/> Away, and
+                    take part in the fray,<lb/> Your own hearth-stones defending.<lb/> Fall in, men,
+                    fall in, and forward in order,<lb/> The foe's at your doors almost, his foot on
+                    the border.</p>
+                <p>Away, to the border away,<lb/> Where brave men are dying.<lb/> Away, and take
+                    part in the fray,<lb/> Where your kinsmen are lying.<lb/> Fall in, men, fall in,
+                    and forward in order,<lb/> The blood of the slain is calling, "Come to the
+                    border."</p>
+                <p>III.<lb/> Then quickly before my astonished eyes-<lb/> For dreams are like clouds
+                    in summer skies-<lb/> Passed visions of men in warrior's guise,<lb/> Of men who
+                    were going to battle:<lb/> And mixed and mingled with my dream,<lb/> Was
+                    saber-thrust and bayonet-dream,<lb/> And the fierce artillery's rattle;<lb/>
+                    There was the Home Guard's steady line,<lb/> The "State Militia's" martial
+                    front,<lb/> The "Anderson Troop," in clothes so fine,<lb/> And men who had borne
+                    the battle's brunt.</p>
+                <p>The Home Guards marched like men who knew<lb/> Their dinners were safely cooking
+                    behind them,<lb/> And like men who felt quite conscious, too,<lb/> Of where the
+                    dinner hour would find them;<lb/> And I marched along with my gun by my
+                    side,<lb/> And I praised my captain so kind and clever,<lb/> Who looked at "the
+                    boys" with a soldier's pride,<lb/> And called time, RIGHT, RIGHT, whenever<lb/>
+                    He meant the left foot<lb/> On the earth should be put;<lb/> But hurrah for our
+                    captain forever.</p>
+                <p>I can never forget, nor could I desire<lb/> That a scene like that which is
+                    certainly worth<lb/> A life-long pilgrimage here on this earth<lb/> From my
+                    memory should ever expire.<lb/> When our sergeant led out our squad in the
+                    night,<lb/> Our homes to defend, for our hearth-stones to fight,<lb/> And
+                    instructed us thus: "If the foe comes don't fire,<lb/> For you see if you
+                    should, and a rebel 'bites dirt,'<lb/> It would end our organizations;<lb/> For
+                    you know that in case there were 'somebody hurt,'<lb/> 'Twould conflict with the
+                    regulations."<lb/> Then behind a stone fence we were placed where we slept<lb/>
+                    Till we heard the approaching relief,<lb/><pb n="40"/> When we marched back to
+                    camp, and like soldiers we stept,<lb/> Only stopping to drink to our chief,<lb/>
+                    The provost, who'd shut up the bars, though by stealth<lb/> We still had enough
+                    to drink to his death.</p>
+                <p>The provost (I dreamed) I could never forget,<lb/> And his aids I would always
+                    remember,<lb/> How from morning till night they were sorely beset<lb/> In that
+                    terrible month of September;<lb/> When the foe in Middletown Valley was
+                    seen,<lb/> As the sun went down in the west,<lb/> And at dark had advanced
+                    already between<lb/> Greencastle and Marion at least.</p>
+                <p>But the provost (I dreamed) was a man who would have<lb/> His will and his way in
+                    his station,<lb/> And to show that the town he would certainly save,<lb/> He
+                    issued a strict proclamation:<lb/> "No citizen armed for the common <orig
+                        reg="defense">defence</orig>,"<lb/> His bitters could get of a morning;<lb/>
+                    But the citizen-soldiers scorned abstinence,<lb/> As their mode of attack was by
+                    horning.<lb/> "In case the foe approaches the town,"<lb/> The command was,
+                    "Destroy all the brandy,"<lb/> But it did not say how, so my friend Mr.
+                    Brown,<lb/> Thought to drink it were far the most handy;<lb/> "And guards will
+                    be placed," it was thus ran the text,<lb/> "At every approach to the
+                    Borough."<lb/> So away trooped a crowd, exceeding perplexed<lb/> Lest they
+                    should bear arms on the morrow.</p>
+                <p>I can never forget what the Guards have achieved,<lb/> And how closely they
+                    looked at the "passes"<lb/> Of honest old farmers who "spies" were
+                    believed,<lb/> While they kissed and passed out all the lasses.<lb/> Then the
+                    "Anderson Troop" came riding along,<lb/> On horses impressed from the
+                    farmers;<lb/> There clothes were new and their <orig reg="sabers">sabres</orig>
+                    were strong,<lb/> So they thought themselves "perfect charmers."<lb/> And I
+                    looked at their steeds when I saw the mark,<lb/> Uncle Sam puts on all of his
+                    forces;<lb/> And I "laughed in my sleeve," as cried out some gay lark,<lb/>
+                    "They've been branding borrowed horses."</p>
+                <p>These "Anderson fellows" had drilled for a while,<lb/> And moreover were splendid
+                    blowers;<lb/> So with <orig reg="sabers">sabres</orig> like scythes they came in
+                    style,<lb/> To show rebels some excellent mowers.<lb/> And I saw in my dream, I
+                    can't vouch for the truth,<lb/> That with dauntless and terrible blows<lb/> They
+                    mowed forty thousand rebs down, forsooth,<lb/> When at least thirty miles from
+                    their foes.</p>
+                <p>Thus ended this part of my dream, when behold,<lb/> As the danger was past and as
+                    bloodshed was over,<lb/> The "State Militia," in numbers untold,<lb/> The "War
+                    on the Border" began to discover.<lb/> So away they marched with but little
+                    persuasion,<lb/> To protect "the line" from threatened invasion.</p>
+                <p>Unluckily for the "Militia," their fate,<lb/> 'Twas to be right in time to be too
+                    late;<lb/> Unless they meant not to fight where my rhyme<lb/> Will bring them
+                    just in the nick of time.</p>
+                <p>Thus peace again reigned, not so much, I suppose,<lb/> That the rebels were
+                    fearful we'd beat 'em,<lb/> As from a deep-seated conviction that rose<lb/> In
+                    their minds on the banks of Antietam.</p>
+                <p>IV.<lb/> The quiet town in its still repose,<lb/> Not a whisper heard from the
+                    whispering trees,<lb/> Not a rumor borne on the passing breeze,<lb/> But little
+                    recked of the coming foes.</p>
+                <p>The clouds were lowering, and pattering rain<lb/> Began to plash on the
+                    window-pane,<lb/> And darkness to veil all scenes from the light,<lb/>
+                    O'ercasting the earth with the mantle of night.</p>
+                <p>An anxious horseman with panting steed,<lb/> Rode into the town at his utmost
+                    speed,<lb/> With the word that "the rebels were coming!"<lb/> Bells rang and
+                    drums beat in that hour of need,<lb/> But all smiled at the ringing and
+                    drumming.<lb/> 'Twere absurd, men argued, that here, so far<lb/> From the army
+                    that lay on the river away,<lb/> The rebels should come in a single day,<lb/>
+                    With all the paraphernalia of war.<lb/> Yet while they argued, the guns of the
+                    foe<lb/> Oped their mouths with a grin on the town below.</p>
+                <p>"They're here, they're here!" was borne on the air,<lb/> Through street and
+                    alley, "The rebels are here;<lb/> Don't you see them down in the Diamond
+                    there?<lb/> I heard their trumpet-tones calling clear."</p>
+                <p>And I walked the streets, and I felt the pain<lb/> Of "surrender" thrill me
+                    through every vein<lb/> When I heard a heroic woman declare,<lb/> "The dirty
+                    rebels, they won't fight fair,<lb/> But come when they know we can't beat
+                    them,<lb/> Instead of giving us time to prepare,<lb/> As we do with them ere we
+                    meet them."</p>
+                <p>Then into the town incessant poured<lb/> The hateful stream of the rebel
+                    horde;<lb/> "They had now just come," they deigned to say,<lb/> "A hasty visit
+                    this place to pay;"<lb/> And kindly promised for hurry this once,<lb/> To come
+                    again and stay for months.<lb/> We told them no doubt 'twas well designed,<lb/>
+                    But still we were sure they were quite too kind;<lb/> And assured them one thing
+                    was very clear,<lb/> We were not at all fond of "butternuts" here.</p>
+                <p>And General Stuart, the rebel chief,<lb/> Whom the farmers call "the rebel
+                    horse-thief,"<lb/> Who captured "the city without delay,"<lb/> (Or "quiet
+                    village," as Harpers say,)<lb/> Inquired next morning with pride: "If his
+                    men<lb/> Were bad as was represented."<lb/> "But the devil ne'er," he was
+                    answered then,<lb/> "Was black as he was painted."</p>
+                <p>But up and away with the early morn<lb/> Were these defiant rebels borne,<lb/> As
+                    fast as our horses could carry them.<lb/> As the flame and smoke to heaven
+                    arose,<lb/> We declared our purpose to follow our foes,<lb/> To strike them
+                    hard, and as to their blows,<lb/> We swore long and loud we would parry them.</p>
+                <p>So we shouldered our guns and went out to see<lb/> Where the infernal rebels
+                    might be,<lb/> But the devil himself couldn't find them.<lb/> For "over the
+                    river and far away,"<lb/> They had gone, as they hadn't "the time to stay,"<lb/>
+                    Leaving "flaming regrets" behind them.</p>
+                <pb n="41"/>
+                <p>V.<lb/> The autumn bleak and the winter cold<lb/> Passed slowly by, while afar
+                    off rolled<lb/> War's tide and train if desolation.<lb/> On the Rappahannock's
+                    blood-stained shore,<lb/> Where the Yazoo's darksome waters pour,<lb/> Or Stone
+                    River's waves are mingled with gore,<lb/> Stood the bulwarks of the nation.</p>
+                <p>Our fathers, brothers, sons were there,<lb/> While a sister's sigh or a mother's
+                    prayer,<lb/> Went up to heaven, "O Father, spare!"<lb/> The rifle-flash and
+                    bayonet-thrust,<lb/> The ranks of men, the columns of dust,<lb/> The musketry
+                    crash, the cannon's roar,<lb/> And all the ominous sounds of war,<lb/> Was the
+                    only answer the lightning brought,<lb/> From were contending thousands fought.</p>
+                <p>The only answer-Ah! No, the rod<lb/> Upraised to punish a nation for sin,<lb/> Is
+                    felt in the cry, "My son, O God!"<lb/> At the one little name in the
+                    bulletin;<lb/> And this is answer enough for her,<lb/> Whose hopes and all that
+                    she loved on earth,<lb/> Are borne to a soldier's sepulcher,<lb/> And buried
+                    afar from the place of his birth;<lb/> Or brought in sorrow and laid to
+                    sleep,<lb/> Where its vigils affection may silently keep.</p>
+                <p>The dreadful sounds of WAR, WAR, WAR,<lb/> Still smote on the ear, yet while we
+                    bore<lb/> Our loved ones home and mournfully laid<lb/> Their bodies at rest in
+                    the earth at our feet,<lb/> Mourned over their graves and solemnly played<lb/>
+                    Funereal dirges for heroes meet;<lb/> Men black as Erebus sprung forth,<lb/> And
+                    I saw them spring at their country's call,<lb/> Raised up the banner of the
+                    North,<lb/> And placed it high on Wagner's wall.</p>
+                <p>From the dens where burrow a subject race,<lb/> Methought I saw them face to
+                    face<lb/> With the monster Death on Wagner's towers,<lb/> Exclaiming: "THE FORT
+                    IT MUST BE OURS."<lb/> And I turned and pointed where heroes lay,<lb/> And
+                    pronounced a benediction of sorrow:<lb/> "Sleep sweetly, brave men, for ye this
+                    day<lb/> Have gained for your children a glorious to-morrow."</p>
+                <p>VI.<lb/> But again the rumor is borne on the breeze,<lb/> (We often before had
+                    rumors like these,)<lb/> That Lee is moving, intent on invasion.<lb/> But we
+                    heeded it not until it was clear<lb/> That Jenkins had come unpleasantly
+                    near,<lb/> And Lee himself would surely be here<lb/> Before his head had many
+                    more days on.<lb/> Then away the "prominent citizens" hurried,<lb/> Excited,
+                    frightened, flustered, flurried,<lb/> In wagons, carriages, sulkies, carts,<lb/>
+                    On horseback, "on foot," by all manner of arts<lb/> And devices;<lb/> And all
+                    kinds of people-Smith, Jones,<lb/> Roberts, Robinson, Brown, and Bones,<lb/> And
+                    the Rices.</p>
+                <p>While away in advance of the headlong race,<lb/> Was a carriage that looked like
+                    R-n's,<lb/> Which seemed "like he gwine to leab de place,"<lb/> Through fear of
+                    the mighty Jenkins.</p>
+                <p>'Mid shriek, and yell, and cry, and shout,<lb/> And peals of wicked
+                    laughter,<lb/> On, hurried on, the rabble rout,<lb/> With Milroy's wagons
+                    after.<lb/> Pell-mell,<lb/> Helter-skelter,<lb/> Hurry-skurry,<lb/> Toss and
+                    tumble,<lb/> Roll and rumble,<lb/> And dust to make us blind, most;<lb/> Thus
+                    Milroy's trains<lb/> Came over plains,<lb/> And rills and ridges,<lb/> Brooks
+                    and bridges,<lb/> Let worst be worst,<lb/> The best man first,<lb/> And devil
+                    take the hindmost.<lb/> And sure enough, when all had gone,<lb/> And night put
+                    her sable garments on,<lb/> Came Jenkins, the guerrilla chief,<lb/> And arrant
+                    traitor, and braggart, and thief,<lb/> To pay us that long-threatened
+                    visit.<lb/> His rebs were dirty as dirt could make 'em.<lb/> And Jenkins himself
+                    may have been a sachem,<lb/> A man or gorilla, a monkey or fairy,<lb/> Or
+                    p'rhaps the famous "What is it?"<lb/> Which usually goes with "<orig
+                        reg="traveling">travelling</orig> shows."<lb/> But whatever he was, no one I
+                    suppose,<lb/> Will deny he was wretchedly dirty and hairy.</p>
+                <p>Now Jenkins put up at the best hotel,<lb/> And as every thing looked uncommonly
+                    well,<lb/> He grew quite communicative;<lb/> No foe on his front, no foe on his
+                    rear,<lb/> Though he found on his flanks two glasses of beer,<lb/> He soon threw
+                    them off like a "native."</p>
+                <p>'Tis wondrous to tell how he soon sought his way,<lb/> From the house with the
+                    sign of the Eagle,<lb/> A bird which he found he could ne'er lead astray,<lb/>
+                    However he tried to inveigle,<lb/> To that spot on the Spring whose waters are
+                    clear,<lb/> Transparent and lucid as lager or beer,<lb/> Where our good friends
+                    the Dutch delight overmuch,<lb/> To hear their mugs jingle and "smile" at the
+                    touch,<lb/> While they fight o'er the battles "mit Sigel."</p>
+                <p>"Dear Harmon," says Jenkins, "I'm glad to be here,<lb/> And to know you's a great
+                    delight, sir,<lb/> I confess I'm remarkably fond of your beer,<lb/> And relish
+                    your 'kase' and your 'Sweitzer.'<lb/> Your people shall all be treated as
+                    well<lb/> As I this day have been 'treated;'<lb/> I'll see they are paid for all
+                    that they sell,<lb/> And will suffer no one to be cheated;<lb/> But then they
+                    must all be content to receive<lb/> Such money as we are able to give."</p>
+                <p>Impressed, no doubt, with this honest feeling,<lb/> (For Jenkins was morally
+                    hostile to stealing,)<lb/> He ordered all business men open their doors,<lb/>
+                    And he would send officers round to their stores,<lb/> And these, he assured
+                    them, "would carefully make<lb/> A correct catalogue of their stock;<lb/> Such
+                    things as they wanted were all they would take,<lb/> And the balance erase from
+                    the book;<lb/><pb n="42"/> Except whatever 'the men' might find<lb/> To tickle
+                    the fancy or please the mind."<lb/> Thus pleasantly chatting, when all was "took
+                    down,"<lb/> He looked at the bills and bought out the town.</p>
+                <p>Still Jenkins had terrible griefs to bear,<lb/> And as Jenkinses never were known
+                    to swear,<lb/> He affirmed: "He'd be d-d if he'd stand 'em."<lb/> And so he
+                    launched forth in a speech at the rate<lb/> Of Phoebus's horses when Phaeton
+                    sate<lb/> On the box and drove 'em tandem.</p>
+                <p>"In a peaceable way he had entered the town,<lb/> Yet we had a hostile spirit
+                    shown;"<lb/> If he had said "horse steal" to me it appears,<lb/> The kettle had
+                    had the pot by the ears-<lb/> "Had stolen his horses and tried to shoot
+                    down<lb/> His men in a charge inoffensively made,<lb/> Which greatly displeased
+                    his entire brigade;<lb/> Who swore that unless we paid all their losses,<lb/> Or
+                    begging their pardon returned them their 'hosses.'<lb/> The d-d little town
+                    should in ashes be laid.<lb/> He felt for his men, he was bound to confess
+                    it,<lb/> And whatever their wrong was compelled to redress it,<lb/> And to
+                    settle the matter desired to call<lb/> Our worthy Town Fathers together."<lb/>
+                    Such was the substance of what he "let fall"-<lb/> From the "change in the wind"
+                    we augured a "squall,"<lb/> And not wishing a "change in the weather,"<lb/>
+                    Concluded to send our Burgess right down,<lb/> With the onerous duty of "saving
+                    the town,"<lb/> Who managed the business he found to be down,<lb/> In a mode
+                    that "did credit" in more ways than one,<lb/> To our ancient and goodly
+                    Borough;<lb/> To the knowledge of these if you wish to explain-<lb/> Now,
+                    gentlemen, please don't become so profane,<lb/> You all shall be paid-to-morrow.</p>
+                <p>Now Jenkins determined to leave us awhile,<lb/> But first though it best to
+                    disarm us.<lb/> Believing perhaps our power might spoil,<lb/> Or that pistols
+                    and guns might harm us.<lb/> And hence he issued an order requiring<lb/> All
+                    persons within the precincts of the town,<lb/> All rights being forfeited by
+                    them by firing<lb/> (And oh! how we trembled at Jenkins's frown)<lb/> Upon the
+                    benignant confederate forces,<lb/> And wickedly stealing the best of their
+                    horses,<lb/> At once to deliver all arms and munitions<lb/> To officers named to
+                    make proper disposal,<lb/> On pain of reprisal for any omissions,<lb/> And
+                    punishment dire for every refusal.</p>
+                <p>But whether compliance was honestly made,<lb/> Or a feigned respect to the order
+                    was paid,<lb/> We all were swift his commands to obey,<lb/> And have our names
+                    on his books "put down,"<lb/> 'Twas really a laughable farce to play,<lb/>
+                    Though done, of course, "to preserve the town."</p>
+                <p>Such a motley collection of arms I swear,<lb/> Has never before been exhibited
+                    here.<lb/> There were swords without hilts and guns without locks,<lb/> Stocks
+                    without barrels and barrels without stocks;<lb/> Pistols a big as your finger,
+                    and e'en<lb/> A two-ounce vial of powder was seen.<lb/> And I stood and looked
+                    on as my friends passed by,<lb/> And to whate'er they carried I gave "half an
+                    eye."<lb/> "Hollo, dear N-, what is that you have there?"<lb/> "Oh! nothing-or
+                    only a trifle."<lb/> I caught a slight glimpse, and it was, I declare,<lb/> A
+                    telescopic rifle.<lb/> And then friend F- came along and got booked<lb/> For a
+                    load that would break down a mason;<lb/> Five muskets-two <orig reg="sabers"
+                        >sabres</orig>-astonished I looked<lb/> For howitzer, cannon, and caisson.</p>
+                <p>VII.<lb/> But Jenkins now returns again,<lb/> And Lee and his army following
+                    them,<lb/> Grief, terror, and desolation<lb/> Throughout our lovely valley
+                    fling,<lb/> And nearer, nearer, nearer bring<lb/> Destruction to the nation.</p>
+                <p>The first to come over the roads was Rhodes,<lb/> And then brigade, division, and
+                    corps<lb/> Into the town with clatter and roar,<lb/> In one unceasing current
+                    pour;<lb/> Divisions almost half a score:<lb/> Johnson's, Anderson's, Picket's,
+                    and Hood's,<lb/> On, and on, and onward still,<lb/> McLaw's, and Pender's, and
+                    Heath's, until<lb/> The corps of Ewell and A.P. Hill,<lb/> And the "Bull-dog"
+                    Longstreet, all were found<lb/> Encamped throughout the neighborhood round,</p>
+                <p>These rebels were flushed with insolent pride,<lb/> Believing an irresistible
+                    tide<lb/> Like the waves of a deep-flowing river,<lb/> Was sweeping the nation
+                    far and wide,<lb/> Engulfing us 'neat it forever.<lb/> "We're back in the Union
+                    again," they cried<lb/> And endless their boasting and vaunting;<lb/> "You'll in
+                    it remain," was all we replied,<lb/> Though endless their gibes and their
+                    taunting.</p>
+                <p>While Hood's division was passing through,<lb/> A lady sporting the "Red, White,
+                    and Blue,"<lb/> From a bosom whence traitor ne'r won it,<lb/> Was hailed by an
+                    insolent reb, who cried,<lb/> As he our own beloved emblem spied,<lb/> "A
+                    breastwork, lady, please bear in mind,<lb/> Hood's boys delight to storm, when
+                    they find<lb/> The Yankee colors on it."</p>
+                <p>These rebs were an ignorant set, to be sure,<lb/> Nor was their language always
+                    pure;<lb/> For reading, and writing, and such little arts,<lb/> Are not esteemed
+                    "essential parts,"<lb/> Among our Southern cousins;<lb/> And one of them asked,
+                    in a drawling tone,<lb/> A dirty, lousy son of a gun,<lb/> "What fur do yo'ns
+                    fight us'ns?"</p>
+                <p>A lady, Blackwood says and knows,<lb/> Cried out as the rebs passed by,<lb/> "To
+                    the Red Sea Pharaoh's army goes,"<lb/> But things since veered awry.<lb/> For
+                    when old Pharaoh led before,<lb/> His army to the Red Sea's shore,<lb/> Moses
+                    was passing through;<lb/> But this time "Moses" might be seen<lb/> On Pharaoh's
+                    side, sufficiently "green,"<lb/> To enter the Red Sea too.</p>
+                <p>Now Moses (I dreamed) went round to see<lb/> That all our merchandise might
+                    be<lb/> (In Blackwood find the text)<lb/><pb n="43"/> Carefully packed and
+                    marked "supplies,"<lb/> While we looked on with sad surprise,<lb/> To see our
+                    goods "annexed."</p>
+                <p>But I suddenly from my dreams awoke,<lb/> As a distant sound of thunder
+                    broke<lb/> Upon my startled ear;<lb/> And I looked around, but the foe was
+                    gone,<lb/> My dream of "Border War" was done;<lb/> While the Falling Spring went
+                    singing on,<lb/> O'er the Falls in accents clear.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

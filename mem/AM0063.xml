@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+
+<?dlps id="AM0063"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 id="AM0063">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: "William E. Bell," by Unknown, 1913</title>
+        <title type="sort">augusta county william e bell, by unknown 1913</title>
+        <author/>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name>Catherine S. Neale</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca.<num type="kilobytes"> 4 </num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">AM0063</idno>
+        <!--
+                <availability>
+                    <p>Publicly accessible</p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2005">2005</date>
+            <idno type="uva-pid">uva-lib:498476</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: "William E. Bell," by Unknown, 1913</title>
+            <title level="m"/>
+            <title type="sort">augusta william e bell, by unknown 1913</title>
+            <author/>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: "William E. Bell," Obituary,
+                            Confederate Veteran, Volume 21, 1913, p. 86.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1913">1913</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Death/Casualties</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="AM0063T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>This obituary from the <hi rend="underline">Confederate Veteran</hi> honors
+                    William E. Bell, who served in the Stonewall Brigade.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="article" id="d5">
+                <p>William E. Bell, a member of Company C, 5th Virginia Infantry, Stonewall Brigade,
+                    died at his home near Mossy Creek, <abbr expan="Virginia">Va.</abbr>, March 12,
+                    1912. He enlisted at the beginning of the war and served until the end at
+                    Appomattox, most of the time with the sharpshooters of his regiment. He was one
+                    of eighteen young men of the name (brothers and cousins) who went to the front
+                    from the same neighborhood and served in the same company, six of whom were
+                    killed or died from wounds and five of whom died from disease during the war.
+                    Mr. Bell was wounded at Sailor's Creek; and except for the few weeks he was at
+                    home recovering from his wound, he was with his company at the front during the
+                    entire four years of the war.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

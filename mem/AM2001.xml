@@ -1,0 +1,543 @@
+<?xml version="1.0"?>
+
+<?dlps id="AM2001"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 id="AM2001">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: "Jackson at Harper's Ferry in 1861," by John
+                    D. Imboden, Brigadier-General, C.S.A., 1887</title>
+        <title type="sort">augusta jackson at harpers ferry in 1861, by john d imboden brigadier general c s a 1887</title>
+        <author>Imboden, John D.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name>Catherine S. Neale</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca.<num type="kilobytes"> 33 </num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">AM2001</idno>
+        <!--
+                <availability>
+                    <p>Publicly accessible</p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2005">2005</date>
+            <idno type="uva-pid">uva-lib:498514</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: "Jackson at Harper's Ferry in 1861," by John D. Imboden,
+                            Brigadier-General, C.S.A., 1887</title>
+            <title level="m"/>
+            <title type="sort">augusta jackson at harpers ferry in 1861, by john d imboden brigadier general c s a 1887</title>
+            <author>John D. Imboden, Brigadier-General, C.S.A.</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>15 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: John D. Imboden, "Jackson at
+                            Harper's Ferry in 1861," Battles and Leaders of the Civil War, Volume I,
+                            1887, pages 111-125.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Alderman Library, University of Virginia, Charlottesville Va.</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1887">1887</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Battle Description</term>
+                    <term>Military Authority</term>
+                    <term>Military Strategy</term>
+                    <term>Patriotism</term>
+                    <term>Troop Movement</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="AM2001T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>General John D. Imboden recollects Thomas, later nick-named Stonewall, Jackson's
+                    involvement in John Brown's Raid on Harper's Ferry. The article, published in
+                    Volume I of <hi rend="italic">Battles and Leaders of the Civil War</hi>,
+                    details Jackon's interactions with the Staunton Artillery, General Imboden, and
+                    other Augusta men, including John A. Harman.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="article" id="d5">
+                <p>THE movement to capture Harper's Ferry, Virginia, and the fire-arms manufactured
+                    and stored there was organized at the Exchange Hotel in Richmond on the night of
+                    April 16th, 1861. Ex-Governor Henry A. Wise was at the head of this purely
+                    impromptu affair. The Virginia Secession Convention, then sitting, was by a
+                    large majority "Union" in its sentiment till Sumter was fired on and captured,
+                    and Mr. Lincoln called for seventy-five thousand men to enforce the laws in
+                    certain Southern States. Virginia was then, as it were, forced to "take sides,"
+                    and she did not hesitate. I had been one of the candidates for a seat in that
+                    convention from Augusta county, but had been overwhelmingly defeated by the
+                    "Union" candidates, because I favored secession as the only "peace measure"
+                    Virginia could then adopt, our aim being to put the State in an independent
+                    position to negotiate between the United States and the seceded Gulf and Cotton
+                    States for a new Union, to be formed on a compromise of the slavery question by
+                    a convention to be held for that purpose.</p>
+                <p>Late on April 15th I received a telegram from "Nat" Tyler, the editor of the
+                    "Richmond Enquirer," summoning me to Richmond, where I arrived the next day.
+                    Before reaching the Exchange Hotel I met ex-Governor Wise on the street. He
+                    asked me to find as many officers of the armed and equipped volunteers of the
+                    inland towns and counties as I could, and request them to be at the hotel by 7
+                    in the evening to confer about a military movement which he deemed important.
+                    Not many such officers were in town, but I found Captains Turner Ashby and
+                    Richard Ashby of Fauquier county, Oliver R. Funsten of Clarke county, all
+                    commanders of volunteer companies of cavalry; also Captain John A. Harman of
+                    Staunton -- my home -- and Alfred M. Barbour, the latter ex-civil superintendent
+                    of the Government works at Harper's Ferry. These persons, with myself, promptly
+                    joined ex-Governor Wise, and a plan <pb n="112"/> for the capture of Harper's
+                    Ferry was at once discussed and settled upon. The movement, it was agreed,
+                    should commence the next day, the 17th, as soon as the convention voted to
+                    secede, -- provided we could get railway transportation and the concurrence of
+                    Governor Letcher. Colonel Edmund Fontaine, president of the Orange and
+                    Alexandria and Manassas Gap railroads, were sent for, and joined us at the hotel
+                    near midnight. They agreed to put the necessary trains in readiness next day to
+                    obey any request of Governor Letcher for the movement of troops.</p>
+                <p>A committee, of which I was chairman, waited on Governor Letcher after midnight,
+                    and, arousing him from his bed, laid the scheme before him. He stated that he
+                    would take no step till officially informed that the ordinance of secession was
+                    passed by the convention. He was then asked if contingent upon the event he
+                    would next day order the movement by telegraph. He consented. We then informed
+                    him what companies would be under arms ready to move at a moment's notice. All
+                    the persons I have named above are now dead, except John S. Barbour, "Nat"
+                    Tyler, and myself.</p>
+                <p>On returning to the hotel and reporting Governor Letcher's promise, it was
+                    decided to telegraph the captains of the companies along the railroads mentioned
+                    to be ready next day for orders from the governor. In that way I ordered the
+                    Staunton Artillery, which I commanded, to assemble at their armory by 4 P. M. on
+                    the 17th, to receive orders from the governor to aid in the capture of the
+                    Portsmouth Navy Yard. This destination had been indicated in all our dispatches,
+                    to deceive the Government at Washington in case there should be a "leak" in the
+                    telegraph offices. Early in the evening a message had been received by
+                    ex-Governor Wise from his son-in-law Doctor Gannett of Washington, to the effect
+                    that a Massachusetts regiment, one thousand strong, had, been ordered to
+                    Harper's Ferry. Without this reenforcement we knew the guard there consisted of
+                    only forty-five men, who could be captured or driven away, perhaps without
+                    firing a shot, if we could reach the place secretly.</p>
+                <p>The Ashbys, Funsten, Harman, and I remained up the entire night. The
+                    superintendent and commandant of the Virginia Armory at Richmond, Captain
+                    Charles Dimmock, a Northern man by birth and a West Point graduate, was in full
+                    sympathy with us, and that night filled our requisitions for ammunition and
+                    moved it to the railway station before sunrise. He also granted one hundred
+                    stand of aims for the Martinsburg Light Infantry, a <pb n="113"/> new company
+                    just formed. All these I receipted for and saw placed on the train. Just before
+                    we moved out of the depot, Alfred Barbour made an unguarded remark in the car,
+                    which was overheard by a Northern traveler, who immediately wrote a message to
+                    President Lincoln and paid a negro a dollar to take it to the telegraph office.
+                    This act was discovered by one of our party, who induced a friend to follow the
+                    negro and take the dispatch from him. This perhaps prevented troops being sent
+                    to head us off.</p>
+                <p>My telegram to the Staunton Artillery produced wild excitement, and spread
+                    rapidly through the county, and brought thousands of people to Staunton during
+                    the day. Augusta had been a strong Union county, and a doubt was raised by some
+                    whether I was acting under the orders of Governor Letcher. <pb n="114"/> To
+                    satisfy them, my brother, George W. Imboden, sent a message to me at
+                    Gordonsville, inquiring under whose authority I had acted. On the arrival of the
+                    train at Gordonsville, Captain Harman received the message and replied to it in
+                    my name, that I was acting by order of the governor. Harman had been of the
+                    committee, the night before, that waited on Governor Letcher, and he assumed
+                    that by that hour -- noon -- the convention must have voted the State out of the
+                    Union, and that the governor had kept his promise to send orders by wire. Before
+                    we reached Staunton, Harman handed me the dispatch and told me what he had done.
+                    I was annoyed by his action till the train drew up at Staunton, where thousands
+                    of people were assembled, and my artillery company and the West Augusta Guards
+                    (the finest infantry company in the valley) were in line. Major-General Kenton
+                    Harper, a native of Pennsylvania, " a born soldier," and Brigadier-General
+                    William H. Harman, both holding commissions in the Virginia militia, -- and both
+                    of whom had won their spurs in the regiment the State had sent to the Mexican
+                    war, -- met me as I alighted, with a telegram from Governor Letcher ordering
+                    them into service, and referring them to me for information as to our
+                    destination and troops. Until I imparted to them confidentially what had
+                    occurred the night before, they thought, as did all the people assembled, that
+                    we were bound for the Portsmouth Navy Yard. For prudential reasons, we said
+                    nothing to dispel this illusion. The governor in his dispatch informed General
+                    Harper that he was to take chief command, and that full written instructions
+                    would reach him en route. He waited till after dark, and then set out for
+                    Winchester behind a good team. Brigadier General Harman was ordered to take
+                    command of the trains and of all troops that might report en route.</p>
+                <p>About sunset we took train; our departure was an exciting and affecting scene. At
+                    Charlottesville, in the night, the Monticello Guards, Captain W. B. Mallory, and
+                    the Albemarle Rifles, under Captain R. T. W. Duke, came aboard. At Culpeper a
+                    rifle company joined us, and just as the sun rose on the 18th we reached
+                    Manassas.</p>
+                <p>The Ashbys and Funsten had gone on the day before to collect their <pb n="115"/>
+                    cavalry companies, and also the famous "Black Horse Cavalry," a superb body of
+                    men and horses, under Captains John Scott and Welby Carter of Fauquier. By
+                    marching across the Blue Ridge, they were to rendezvous near Harper's Ferry.
+                    Ashby had sent men on the night of the 17th to cut the wires between Manassas
+                    Junction and Alexandria, and to keep them cut for several days.</p>
+                <p>Our advent at the Junction astounded the quiet people of the village. General
+                    Harman at once "impressed" the Manassas Gap train to take the lead, and switched
+                    two or three other trains to that line in order to proceed to Strasburg. I was
+                    put in command of the foremost train. We had not gone five miles when I
+                    discovered that the engineer could not be trusted. He let his fire go down, and
+                    came to a dead standstill on a slight ascending grade. A cocked pistol induced
+                    him to fire up and go ahead. From there to Strasburg I rode in the engine-cab,
+                    and we made full forty miles an hour with the aid of good dry wood and a navy
+                    revolver.</p>
+                <p>At Strasburg we left the cars, and before 10 o'clock the infantry companies took
+                    up the line of march for Winchester. I now had to procure horses for my guns.
+                    The farmers were in their corn-fields, and some of them agreed to hire us horses
+                    as far as Winchester, eighteen miles, while others refused. The situation being
+                    urgent, we took the horses by force, under threats of being indicted by the next
+                    grand jury of the county. By noon we had a sufficient number of teams. We
+                    followed the infantry down the Valley Turnpike, reaching Winchester just at
+                    nightfall. The people generally received us very coldly. The war spirit that
+                    bore them up through four years of trial and privation had not yet been aroused.</p>
+                <p>General Harper was at Winchester, and had sent forward his infantry by rail to
+                    Charlestown, eight miles from Harper's Ferry. In a short time a train returned
+                    for my battery. The farmers got their horses and went home rejoicing, and we set
+                    out for our destination. The infantry moved out of Charlestown about midnight.
+                    We kept to our train as far as Halltown, only four miles from the ferry. There
+                    we set down our guns to be run forward by hand to Bolivar Heights, west of the
+                    town, from which we could shell the place if necessary.<pb n="116"/></p>
+                <p>[Image: John Brown]</p>
+                <p><pb n="117"/>A little before dawn of the next day, April 18th, a brilliant light
+                    arose from near the point of confluence of the Shenandoah and Potomac rivers.
+                    General Harper, who up to that moment had expected a conflict with the
+                    Massachusetts regiment supposed to be at Harper's Ferry, was making his
+                    dispositions for an attack at daybreak, when this light convinced him that the
+                    enemy had fired the arsenal and fled. He marched in and took possession, but too
+                    late to extinguish the flames. Nearly twenty thousand rifles and pistols were
+                    destroyed. The workshops had not been fired. The people of the town told us the
+                    catastrophe, for such it was to us, was owing to declarations made the day
+                    before by the ex-superintendent, Alfred Barbour. He reached Harper's Ferry, via
+                    Washington, on the 17th about noon, and, collecting the mechanics in groups,
+                    informed them that the place would be captured within twenty-four hours by
+                    Virginia troops. He urged them to protect the property, and join the Southern
+                    cause, promising, if war ensued, that the place would be held by the South, and
+                    that they would be continued at work on high wages. His influence with the men
+                    was great, and most of them decided to accept his advice. But Lieutenant Roger
+                    Jones, who commanded the guard of forty-five men, hearing what was going on, at
+                    once took measures to destroy the place if necessary. Trains gunpowder <pb
+                        n="118"/> were laid through the buildings to be fired. In the shops the men
+                    of Southern sympathies managed to wet the powder in many places during the
+                    night, rendering it harmless. Jones's troops, however, held the arsenal
+                    buildings and stores, and when their commander was advised of Harper's rapid
+                    approach the gunpowder was fired, and he crossed into Maryland with his handful
+                    of men. So we secured only the machinery and the gun and pistol barrels and
+                    locks, which, however, were sent to Richmond and Columbia, South Carolina, and
+                    were worked over into excellent arms.</p>
+                <p>Within a week about thirteen hundred Virginia volunteers had assembled there. As
+                    these companies were, in fact, a part of the State militia, they were legally
+                    under command of the three brigadiers and one major-general of militia, who had
+                    authority over this, that, or the other organization. These generals surrounded
+                    themselves with a numerous staff, material for which was abundant in the rank
+                    and file of the volunteers; for instance, in my battery there were at least a
+                    dozen college graduates of and below the grade of corporal. Every fair afternoon
+                    the official display in Harper's Ferry of "fuss and feathers" would have done no
+                    discredit to the Champs Elysees.</p>
+                <p>One afternoon, six or eight days after our occupation, General Harper sent for
+                    me, as the senior artillery officer (we then had three batteries, but all
+                    without horses), to say he had been told that a number of trains on the
+                    Baltimore and Ohio railroad would try to pass us in the night, transporting
+                    troops from the West to Washington, and that he had decided to prevent <pb
+                        n="119"/> them at the risk of bringing on a battle. He ordered the posting
+                    of guns so as to command the road for half a mile or more, all to be accurately
+                    trained on the track by the light of day, and ready to be discharged at any
+                    moment. Infantry companies were stationed to fire into the trains, if the
+                    artillery failed to stop them. Pickets were posted out two or three miles, with
+                    orders to fire signal-guns as soon as the first troop-laden train should pass.
+                    About 1 o'clock at night we heard the rumbling of an approaching train. The long
+                    roll was beat; the men assembled at their assigned positions and in silence
+                    awaited the sound of the signal-guns. A nervous cavalryman was the vedette. As
+                    the train passed him (it was the regular mail) he thought he saw soldiers in it,
+                    and fired. Pop! pop! pop! came down the road from successive sentries. Primers
+                    were inserted and lanyards held taut, to be pulled when the engine should turn a
+                    certain point four hundred yards distant from the battery. By great good luck
+                    Colonel William S. H. Baylor, commanding the 5th Virginia regiment, was with
+                    some of his men stationed a little beyond the point, and, seeing no troops
+                    aboard the train, signaled it to stop. It did so, not one hundred yards beyond
+                    where the artillery would have opened on it. When the first excitement was over,
+                    he demanded of the conductor what troops, if any, were on board, and was told
+                    there was "one old fellow in uniform asleep on the mail-bags in the first car."
+                    Entering that car with a file of soldiers, he secured the third prisoner of war
+                    taken in Virginia. It proved to be Brigadier-General W. S. Harvey, of the United
+                    States army, on his way from the West to Washington, to resign his commission
+                    and go to Europe rather than engage in a fratricidal war. He surrendered with a
+                    pleasant remark, and was taken to General Harper's headquarters, where he spent
+                    the night. On his assurance that he knew of no troops coming from the West,
+                    Harper ordered us all to quarters. Next morning General Harvey was paroled to
+                    report in Richmond, and was escorted to a train about to leave for Winchester.
+                    He was a fine-looking old soldier, and as he walked down the street to the depot
+                    he saw all our forces except the cavalry. He was accompanied socially by two or
+                    three of our generals and a swarm of staff-officers. He cast his glance over the
+                    few hundred men in sight, and turning to General Harper, I heard him inquire,
+                    with a merry twinkle in his eye, "Where is your army <pb n="120"/> encamped,
+                    general?" Harper's face crimsoned as he replied, "Excuse me from giving
+                    information." <orig reg="Harvey">Harney</orig> smiled, and said politely,
+                    "Pardon me for asking an improper question, but I had forgotten I was a
+                    prisoner." He went on to Richmond, was treated with marked courtesy, and in a
+                    day or two proceeded to Washington.</p>
+                <p>In a few days our forces began to increase by the arrival of fresh volunteer
+                    companies. Being only a captain, I was kept very busy in trying to get my
+                    battery into the best condition. We had no caissons and but insufficient
+                    harness. For the latter I sent to Baltimore, purchasing on my private credit. In
+                    the same way I ordered from Richmond red flannel shirts and other clothing for
+                    all my men, our uniforms being too fine for camp life. The governor subsequently
+                    ordered these bills to be paid by the State treasurer. We found at the armory a
+                    large number of very strong horse-carts. In my battery were thirty or more
+                    excellent young mechanics. By using the wheels and axles of the carts they soon
+                    constructed good caissons, which served us till after the first battle of Bull
+                    Run.</p>
+                <p>We had no telegraph line to Richmond except via Washington, and the time of
+                    communication by mail was two days. General Harper found it so difficult to
+                    obtain needed munitions and supplies, that about the last of April he decided to
+                    send me to the governor, who was my intimate friend, with a requisition for all
+                    we needed, and verbal instructions to make to him a full statement of our
+                    necessitous and defenseless condition, in case General Robert Patterson, who was
+                    reported with a Federal force at Chambersburg, should move against us. When I
+                    arrived in Richmond, General Robert E. Lee had been placed in command of all the
+                    Virginia forces by the governor, and by an ordinance every militia officer in
+                    the State above the rank of captain had been decapitated, and the governor and
+                    his small military council had been authorized to fill vacancies thus created.
+                    This was a disastrous blow to "the pomp and circumstance of glorious war" at
+                    Harper's Ferry. Militia generals and the brilliant "staff" were stricken down,
+                    and their functions devolved, according to Governor Letcher's order of April
+                    27th, upon Thomas J. Jackson, colonel commandant, and James W. <pb n="121"/>
+                    Massie, major and assistant adjutant-general, who arrived during the first week
+                    of May.</p>
+                <p>This was "Stonewall" Jackson's first appearance on the theater of the war. I
+                    spent one day and night in Richmond, and then returned to camp, arriving about 2
+                    P. M. What a revolution three or four days had wrought! I could scarcely realize
+                    the change. The militia generals were all gone, and the staff had vanished. The
+                    commanding colonel and his adjutant had arrived, and were occupying a small room
+                    in the little wayside hotel near the railroad bridge. Knowing them both, I
+                    immediately sought an interview, and delivered a letter and some papers I had
+                    brought from General Lee. Jackson and his adjutant were at a little pine table
+                    figuring upon the rolls of the troops present. They were dressed in well-worn,
+                    dingy uniforms of professors in the Virginia Military Institute, where both had
+                    recently occupied chairs. Colonel Jackson had issued and sent to the camps a
+                    short, simple order assuming the command, but had had no intercourse with the
+                    troops. The deposed officers had nearly all left for home or for Richmond in a
+                    high state of indignation. After an interview of perhaps a half hour I proceeded
+                    to my camp on the hill, and found the men of the 5th Virginia regiment, from my
+                    own county, in assembly, and greatly excited. They were deeply attached to their
+                    field-officers, and regarded the ordinance of the convention as an outrage on
+                    freemen and volunteers, and were discussing the propriety of passing
+                    denunciatory resolutions. On seeing me they called for a speech. As I did not
+                    belong to the regiment, I declined to say anything, but ordered the men of the
+                    Staunton Artillery to fall into line. Then I briefly told them that we were
+                    required to muster into service either for twelve months or during the war, at
+                    our option, and urged them to go in for the full period of the war, as such
+                    action would be most creditable to them, and a good example to others. They
+                    unanimously shouted, " For the war! For the war!" Before they were dismissed the
+                    ceremony of mustering in was completed, and I proudly took the roll down to
+                    Colonel Jackson with the remark, "There, colonel, is the roll of your first
+                    company mustered in for the war." He looked it over, and, rising, shook my hand,
+                    saying, "Thank you, captain -- thank you; and please thank your men for me." He
+                    had heard that there was dissatisfaction in the camps, and asked me to act as
+                    mustering officer for two other artillery companies present. Before sunset the
+                    rolls were returned. This prompt action of the batteries was emulated the next
+                    day by the other troops, and all were mustered in. Within a week Governor
+                    Letcher wisely appointed Major-General Harper colonel of the 5th Virginia,
+                    Brigadier-General Har-<pb n="122"/>man lieutenant-colonel, and Colonel Baylor
+                    major, and I venture to say no regiment in either army was better officered, as
+                    the fame it won in the "Stonewall" brigade will prove. The presence of a master
+                    mind was visible in the changed condition of the camp. Perfect order reigned
+                    everywhere. Instruction in the details of military duties occupied Jackson's
+                    whole time. He urged the officers to call upon him for information about even
+                    the minutest details of duty, often remarking that it was no discredit to a
+                    civilian to be ignorant of military matters. He was a rigid disciplinarian, and
+                    yet as gentle and kind as a woman. He was the easiest man in our army to get
+                    along with pleasantly so long as one did his duty, but as inexorable as fate in
+                    exacting the performance of it; yet he would overlook serious faults if he saw
+                    they were the result of ignorance, and would instruct the offender in a kindly
+                    way. He was as courteous to the humblest private who sought an interview for any
+                    purpose as to the highest officer in his command. He despised superciliousness
+                    and self-assertion, and nothing angered him so quickly as to see an officer
+                    wound the feelings of those under him by irony or sarcasm.</p>
+                <p>When Jackson found we were without artillery horses, he went into no red-tape
+                    correspondence with the circumlocution offices in Richmond, but ordered his
+                    quartermaster, Major John A. Harman, to proceed with men to the Quaker
+                    settlements in the rich county of Loudoun, famous for its good horses, and buy
+                    or impress as many as we needed. Harman executed his orders with such energy and
+                    dispatch that he won Jackson's confidence, and remained his chief quartermaster
+                    till the day of Jackson's death.</p>
+                <p>By Jackson's orders I took possession of the bridge across the Potomac at Point
+                    of Rocks, twelve miles below Harper's Ferry, and fortified the Virginia end of
+                    the bridge, as we expected a visit any night from General B. F. Butler, who was
+                    at the Relay House on the Baltimore and Ohio railroad. It was my habit to keep
+                    awake all night to be ready for emergencies, and to sleep in the day-time,
+                    making daily reports, night and morning, to Jackson. One Sunday afternoon, a
+                    little over a week after we occupied this post, I was aroused, from my nap by
+                    one of my men, who said there were two men in blue uniforms (we had not yet
+                    adopted the gray) riding about our camp, and looking so closely at everything
+                    that he believed they were spies. I went out to see who they were, and found
+                    Jackson and one of his staff. As I approached them, he put his finger on his
+                    lips and shook his head as a signal for silence. In a low tone he said he
+                    preferred it should not be known he had come there. He approved of all I had
+                    done, and soon galloped away. I afterward suspected that the visit was simply to
+                    familiarize himself with the line of the canal and railroad from Point of Rocks
+                    to Harper's Ferry preparatory to a sharp bit of strategy which he practiced a
+                    few days later.</p>
+                <p>From the very beginning of the war the Confederacy was greatly in need of
+                    rolling-stock for the railroads. We were particularly short of locomotives, and
+                    were without the shops to build them. Jackson, appreciating this, hit upon a
+                    plan to obtain a good supply from the Baltimore and Ohio road. Its line was
+                    double-tracked, at least from Point of Rocks Martinsburg, a distance of 25 or 30
+                    miles. We had not interfered with the running <pb n="123"/> of trains, except on
+                    the occasion of the arrest of General <orig reg="Harvey">Harney</orig>. The coal
+                    traffic from Cumberland was immense, as the Washington government was
+                    accumulating supplies of coal on the seaboard. These coal trains passed Harper's
+                    Ferry at all hours of the day and night, and thus furnished Jackson with a
+                    pretext for arranging a brilliant "scoop." When he sent me to Point of Rocks, he
+                    ordered Colonel Harper with the 5th Virginia Infantry to Martinsburg. He then
+                    complained to President Garrett, of the Baltimore and Ohio, that the night
+                    trains, eastward bound, disturbed the repose of his camp, and requested a change
+                    of schedule that would pass all east-bound trains by Harper's Ferry between 11
+                    and 1 o'clock in the day-time. Mr. Garrett complied, and thereafter for several
+                    days we heard the constant roar of passing trains for an hour before and an hour
+                    after noon. But since the "empties" were sent up the road at night, Jackson
+                    again complained that the nuisance was as great as ever, and, as the road had
+                    two tracks, said he must insist that the west-bound trains should pass during
+                    the same two hours as those going east. Mr. Garrett promptly complied, and we
+                    then had, for two hours every day, the liveliest railroad in America. One night,
+                    as soon as the schedule was working at its best, Jackson sent me an order to
+                    take a force of men across to the Maryland side of the river the next day at 11
+                    o'clock, and, letting all west-bound trains pass till 12 o'clock, to permit none
+                    to go east, and at 12 o'clock to obstruct the road so that it would require
+                    several days to repair it. He ordered the reverse to be done at Martinsburg.
+                    Thus he caught all the trains that were going east or west between those points,
+                    and these he ran up to Winchester, thirty-two miles on the branch road, where
+                    they were safe, and whence they were removed by horse-power to the railway at
+                    Strasburg. I do not remember the number of trains captured, but the loss
+                    crippled the Baltimore and Ohio road seriously for some time, and the gain to
+                    our scantily stocked Virginia roads of the same gauge was invaluable.</p>
+                <p>While we held the Point of Rocks bridge, J. E. B. Stuart (afterward so famous as
+                    a cavalry leader) was commissioned lieutenant-colonel, and reported to Colonel
+                    Jackson for assignment to duty. Jackson ordered the consolidation of all the
+                    cavalry companies into a battalion to be commanded by Stuart, who then appeared
+                    more like a well-grown, manly youth than the mature man he really was. This
+                    order was very offensive to Captain Turner Ashby, at that time the idol of all
+                    the troopers in the field, as well he might be, for a more brave and chivalrous
+                    officer never rode at the head of well-mounted <pb n="124"/> troopers. Ashby was
+                    older than Stuart, and he thought, and we all believed, that he was entitled to
+                    first promotion. When not absent scouting, Ashby spent his nights with me at the
+                    bridge. He told me of Jackson's order, and that he would reply to it with his
+                    resignation. I expostulated with him, although he had all my sympathies. I urged
+                    him to call upon Colonel Jackson that night. It was only twelve miles by the
+                    tow-path of the canal, and on his black Arabian he could make it in less than an
+                    hour. I believed Jackson would respect his feelings and leave his company out of
+                    Stuart's battalion. I ventured to write a private letter to Jackson, appealing
+                    in the strongest terms for the saving of Ashby to the service. The result of his
+                    night ride was that Jackson not only relieved him from the obnoxious order, but
+                    agreed to divide the companies between him and Stuart, and to ask for his
+                    immediate promotion, forming thus the nuclei of two regiments of cavalry, to be
+                    filled as rapidly as new companies came to the front. One of these regiments was
+                    commanded at first by Colonel Angus McDonald, with Ashby as lieutenant-colonel,
+                    and in a few months Ashby was promoted to its full command. Ashby got back to
+                    Point of Rocks about 2 in the morning, as happy a man as I ever saw, and
+                    completely enraptured with Jackson. From that night on, the affection and
+                    confidence of the two men were remarkable. A trip Ashby had made a few days
+                    before to Chambersburg and the encampment of General Robert Patterson was the
+                    real reason for Jackson's favor. Ashby had rigged himself in a farmer's suit of
+                    homespun that he had borrowed, and, hiring a plow-horse, had personated a rustic
+                    horse-doctor. With his saddle-bags full of some remedy for spavin or ringbone,
+                    he had gone to Chambersburg, and had returned in the night with an immense
+                    amount of information. The career of Ashby was a romance from that time on till
+                    he fell, shot through the heart, two days before the battle of Cross Keys.</p>
+                <p>May 23d, 1861, Colonel Jackson was superseded in command at Harper's Ferry by
+                    Brigadier-General Joseph E. Johnston. When General Johnston arrived several
+                    thousand men had been assembled there, representing nearly all the seceded
+                    States east of the Mississippi River. Johnston at once began the work of
+                    organization on a larger scale than Jackson had attempted. He brigaded the
+                    troops, and assigned Colonel Jackson to the command of the exclusively Virginia
+                    brigade. The latter was almost immediately commissioned <pb n="125"/>
+                    brigadier-general, and when on the 15th of June Johnston withdrew from Harper's
+                    Ferry to Winchester, he kept Jackson at the front along the Baltimore and Ohio
+                    road to observe General Patterson's preparations. Nothing of much importance
+                    occurred for several weeks, beyond a little affair near Martinsburg in which
+                    Jackson captured about forty men of a reconnoitering party sent out by
+                    Patterson. His vigilance was ceaseless, and General Johnston felt sure, at
+                    Winchester, of ample warning of any aggressive movement of the enemy.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

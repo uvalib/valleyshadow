@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+
+<?dlps id="FM0004"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 id="FM0004">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: "The 77th Re-Union," by Unknown,
+                    August 23, 1870</title>
+        <title type="sort">franklin county the 77th re union, by unknown august 23 1870</title>
+        <author>Unknown</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name>Virginia Center for Digital History Staff</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Doug O'Reagan</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca.<num type="kilobytes">5 </num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">FM0004</idno>
+        <!--
+                <availability>
+                    <p>Publicly accessible</p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2005">2005</date>
+            <idno type="uva-pid">uva-lib:498521</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: "The 77th Re-Union," by Unknown, August 23, 1870</title>
+            <title level="m"/>
+            <title type="sort">franklin county the 77th re union, by unknown august 23 1870</title>
+            <author>Unknown</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Public Opinion, Aug 23, 1870, p.
+                            3, c. 3</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Alderman Library, University of Virginia, Charlottesville Va. (microforms)</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1870-08-23">1870-08-23</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Veterans</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value="2006-03-21">2006-03-21</date>
+                <respStmt>
+                    <resp>proofed</resp>
+                    <name>Josh Botts</name>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="FM0004T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>An announcement of an upcoming reunion for the 77th PA Volunteers, including a
+                    short description of their accomplishments.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="article" id="d5">
+                <p>The time for holding the second annual re-union of the survivors of the 77th
+                    Regiment <orig reg="Pennsylvania">Pennsylvaeia</orig> Volunteers, is fast
+                    approaching. The re-union is to take place in Chambersburg, on the 13th of
+                    October, and we hope our citizens will extend the survivors of the old 77th such
+                    a reception as will be befitting the occasion.</p>
+                <p>The 77th was recruited by <abbr expan="Colonel">Col.</abbr> F. S. Stumbaugh,
+                    assisted by <abbr expan="Lieutenant Colonel">Lieut. Col.</abbr> P. B. Housum and
+                        <abbr expan="Major">Maj.</abbr> Bradford. In the original formation of the
+                    Regiment, there were but eight companies, officered as follows: <abbr
+                        expan="Company">Co.</abbr> A, S. R. M'Kesson; <abbr expan="Company"
+                    >Co.</abbr> F, W. S. Wishert; <abbr expan="Company">Co.</abbr> G, Alex. Philips;
+                        <abbr expan="Company">Co.</abbr> C, M. M'Nally; <abbr expan="Company"
+                    >Co.</abbr> D, J. R. Frey; <abbr expan="Company">Co.</abbr> B, T. E. Rose. To
+                    these eight companies a battery was attached, commanded by <abbr expan="Captain"
+                        >Capt.</abbr> Muchler. <orig reg="Company">Compang</orig> B was raised in
+                        <orig reg="Pittsburgh">Pittsburg</orig>, and subsequently three others from
+                    that vicinity were added to the regiment, officered by <abbr expan="Captain"
+                        >Capt.</abbr> W. A. Robinson, Sidney J. Brauff, and James Shock.</p>
+                <p>During the term of its service, nearly 2000 names were upon the roll of the
+                    Regiment.-But 60 per cent of this number are now living, and out of the original
+                    800, who left this place in 1861, (October 13), but 120 are now living.</p>
+                <p>The 77th Regiment was the only Pennsylvania regiment that participated in the
+                    battle of Shiloh. The commander of the Division, <abbr expan="Major General"
+                        >Maj. Gen.</abbr> Alex. McD. Mcook, in his official report, paid a glowing
+                    tribute to it gallantry in the final charge on that bloody field. In the action
+                    at Stone River, where <abbr expan="Lieutenant Colonel">Lieut. Col.</abbr> Housum
+                    fell while leading a charge, the conduct of the 77th won from <abbr
+                        expan="General">Gen.</abbr> Rosecrans the highest commendation as the "only
+                    regiment in its corps that did not break during the entire engagement."</p>
+                <p>We presume the programme of this second re-union of the Regiment will be made
+                    public at an early day, as the time is near at hand when the arrangements will
+                    be made. <abbr expan="Colonel">Col.</abbr> F. S. Stumbaugh and <abbr
+                        expan="Captain">Capt</abbr> G. W. Skinner, of this place, were present at
+                    the first re-union at <orig reg="Pittsburgh">Pittsburg</orig> last year, the
+                    first named gentleman in the absence of <abbr expan="Colonel">Col.</abbr> F. S.
+                    Pyfer, presiding.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

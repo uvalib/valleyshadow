@@ -1,0 +1,502 @@
+<?xml version="1.0"?>
+
+<?dlps id="AM2003"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 id="AM2003">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: "The Confederate Retreat from Gettysburg,"
+                    by John D. Imboden, Brigadier-General, C.S.A., 1887</title>
+        <title type="sort">augusta the confederate retreat from gettysburg, by john d imboden brigadier general c s a 1887</title>
+        <author>Imboden, John D.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name>Catherine S. Neale</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca.<num type="kilobytes">30 </num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">AM2003</idno>
+        <!--
+                <availability>
+                    <p>Publicly accessible</p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2005">2005</date>
+            <idno type="uva-pid">uva-lib:498516</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: "The Confederate Retreat from Gettysburg," by John D.
+                            Imboden, Brigadier-General, C.S.A., 1887</title>
+            <title level="m"/>
+            <title type="sort">augusta the confederate retreat from gettysburg, by john d imboden brigadier general c s a 1887</title>
+            <author>John D. Imboden, Brigadier-General, C.S.A.</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>10 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: John D. Imboden, "The Confederate
+                            Retreat from Gettysburg," Battles and Leaders of the Civil War, Volume
+                            III, 1887, pages 420-429.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Alderman Library, University of Virginia, Charlottesville Va.</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1887">1887</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Battle Description</term>
+                    <term>Death/Casualties</term>
+                    <term>Military Authority</term>
+                    <term>Military Strategy</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="AM2003T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>In this lengthy article, General John D. Imboden provides his account of the
+                    Confederate march from Gettysburg across the Potomac River. In the piece
+                    published by The Century Company in Volume III of Battles and Leaders of the
+                    Civil War, Imboden remembers the gruesome number of dying and wounded men,
+                    marching through Franklin County, a skirmish in Williamsport, and personal
+                    encounters with General Lee.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="article" id="d5">
+                <p>DURING the Gettysburg campaign, my command -- an independent brigade of cavalry
+                    -- was engaged, by General Lee's confidential orders, in raids on the left flank
+                    of his advancing army, destroying railroad bridges and cutting the canal below
+                    Cumberland wherever I could -- so that I did not reach the field till noon of
+                    the last day's battle. I reported direct to General Lee for orders, and was
+                    assigned a position to aid in repelling any cavalry demonstration on his rear.
+                    None of a serious character being made, my little force took no part in the
+                    battle, but were merely spectators of the scene, which transcended in grandeur
+                    any that I beheld in any other battle of the war.</p>
+                <p>When night closed the struggle, Lee's army was repulsed. We all knew that the day
+                    had gone against us, but the full extent of the disaster was only known in high
+                    quarters. The carnage of the day was generally understood to have been
+                    frightful, yet our army was not in retreat, and it was surmised in camp that
+                    with tomorrow's dawn would come a renewal of the struggle. All felt and
+                    appreciated the momentous consequences to the cause of Southern independence of
+                    final defeat or victory on that great field.</p>
+                <p>It was a warm summer's night; there were few camp-fires, and the weary soldiers
+                    were lying in groups on the luxuriant grass of the beautiful meadows, discussing
+                    the events of the day, speculating on the morrow, or watching that our horses
+                    did not straggle off while browsing. About 11 o'clock a horseman came to summon
+                    me to General Lee. I promptly mounted and, accompanied by Lieutenant George W.
+                    McPhail, an aide on my staff, and guided by the courier who brought the message,
+                    rode about two miles toward Gettysburg to where half a dozen small tents were
+                    pointed out, a little way from the roadside to our left, as General Lee's
+                    headquarters for the night. On inquiry I found that he was not there, but had
+                    gone to the headquarters of General A. P. Hill, about half a mile nearer to
+                    Gettysburg. When we reached the place indicated, a single flickering candle,
+                    visible from the road through the open front of a common wall-tent, exposed to
+                    view Generals Lee and Hill seated on camp stools with a map spread upon their
+                    knees. Dismounting, I approached on foot. After exchanging the ordinary
+                    salutations General Lee directed me to go back to his headquarters and wait for
+                    him. I did so, but he did not make his appearance until about 1 o'clock, when he
+                    came riding alone, at a slow walk, and evidently wrapped in profound thought.</p>
+                <p>When he arrived there was not even a sentinel on duty at his tent, and no one of
+                    his staff was awake. The moon was high in the clear sky and the silent scene was
+                    unusually vivid. As he approached and saw us lying on the <pb n="421"/> grass
+                    under a tree, he spoke, reined in his jaded horse, and essayed to dismount. The
+                    effort to do so betrayed so much physical exhaustion that I hurriedly rose and
+                    stepped forward to assist him, but before I reached his side he had succeeded in
+                    alighting, and threw his arm across the saddle to rest, and fixing his eyes upon
+                    the ground leaned in silence and almost motionless upon his equally weary horse,
+                    -- the two forming a striking and never-to-be-forgotten group. The moon shone
+                    full upon his massive features and revealed an expression of sadness that I had
+                    never before seen upon his face. Awed by his appearance I waited for him to
+                    speak until the silence became embarrassing, when, to break it and change the
+                    silent current of his thoughts, I ventured to remark, in a sympathetic tone, and
+                    in allusion to his great fatigue:</p>
+                <p>"General, this has been a hard day on you."</p>
+                <p>He looked up, and replied mournfully:</p>
+                <p>"Yes, it has been a sad, sad day to us," and immediately relapsed into his
+                    thoughtful mood and attitude. Being unwilling again to intrude upon his
+                    reflections, I said no more. After perhaps a minute or two, he suddenly
+                    straightened up to his full height, and turning to me with more animation and
+                    excitement of manner than I had ever seen in him before, for he was a man of
+                    wonderful equanimity, he said in a voice tremulous with emotion:</p>
+                <p>"I never saw troops behave more magnificently than Pickett's division of
+                    Virginians did <orig reg="today">to-day</orig> in that grand charge upon the
+                    enemy. And if they had been supported as they were to have been, -- but, for
+                    some reason not yet fully explained to me, were not, -- we would have held the
+                    position and the day would have been ours." After a moment's pause he added in
+                    aloud voice, in a tone almost of agony, "Too bad! Too bad! OH! Too BAD!"</p>
+                <p>I shall never forget his language, his manner, and his appearance of mental
+                    suffering. In a few moments all emotion was suppressed, and he spoke feelingly
+                    of several of his fallen and trusted officers; among others of
+                    Brigadier-Generals Armistead, Garnett, and Kemper of Pickett's division. He
+                    invited me into his tent, and as soon as we were seated he remarked: <pb n="422"
+                    /></p>
+                <p>"We must now return to Virginia. As many of our poor wounded as possible must be
+                    taken home. I have sent for you, because your men and horses are fresh and in
+                    good condition, to guard and conduct our train back to Virginia. The duty will
+                    be arduous, responsible, and dangerous, for I am afraid you will be harassed by
+                    the enemy's cavalry. How many men have you?"</p>
+                <p>"About 2100 effective present, and all well mounted, including McClanahan's
+                    six-gun battery of horse artillery."</p>
+                <p>"I can spare you as much artillery as you require," he said, "but no other
+                    troops, as I shall need all I have to return safely by a different and shorter
+                    route than yours. The batteries are generally short of ammunition, but you will
+                    probably meet a supply I have ordered from Winchester to Williamsport. Nearly
+                    all the transportation and the care of all the wounded will be intrusted to you.
+                    You will <orig reg="re-cross">recross</orig> the mountain by the Chambersburg
+                    road, and then proceed to Williamsport by any route you deem best, and without a
+                    halt till you reach the river. Rest there long enough to feed your animals; then
+                    ford the river, and do not halt again till you reach Winchester, where I will
+                    again communicate with you."</p>
+                <p>After a good deal of conversation about roads, and the best disposition of my
+                    forces to cover and protect the vast train, he directed that the chiefs of his
+                    staff departments should be waked up to receive, in my presence, his orders to
+                    collect as early next day as possible all the wagons and ambulances which I was
+                    to convoy, and have them in readiness for me to take command of them. His
+                    medical director [Dr. Lafayette Guild] was charged to see that all the wounded
+                    who could bear the rough journey should be placed in the empty wagons and
+                    ambulances. He then remarked to me that his general instructions would be sent
+                    to me in writing the following morning. As I was about leaving to return to my
+                    camp, as late, I think, as 2 A. M., he came out of his tent to where I was about
+                    to mount, and said in an undertone: "I will place in your hands by a
+                    staff-officer, <orig reg="tomorrow">to-morrow</orig> morning, a sealed package
+                    for President Davis, which you will retain in your possession till you are
+                    across the Potomac, when you will detail a reliable commissioned officer to take
+                    it to Richmond with all possible dispatch and deliver it into the President's
+                    own hands. And I impress it on you that, whatever happens, this package must not
+                    fall into the hands of the enemy. If unfortunately you should be captured,
+                    destroy it at the first opportunity."</p>
+                <p>On the morning of July 4th my written instructions, and a large official envelope
+                    addressed to President Davis, were handed to me by a staff-officer. It was
+                    apparent by 9 o'clock that the wagons, ambulances, and wounded could not be
+                    collected and made ready to move till late in the afternoon. General Lee sent to
+                    me eight Napoleon guns of the famous Washington Artillery of New Orleans, under
+                    the immediate command of Major Eshleman, one of the best artillery officers in
+                    the army, a four-gun battery under Captain Tanner, and a Whitworth under
+                    Lieutenant Pegram. Hampton's cavalry brigade, then under command of Colonel P.
+                    M. B. Young, with Captain James F. Hart's four-gun battery of horse artillery,
+                    was ordered to cover the rear of all trains <pb n="423"/> moving under my convoy
+                    on the Chambersburg road. These 17 guns and McClanahan's 6 guns gave us 23
+                    pieces in all for the defense of the trains.</p>
+                <p>Shortly after noon of the 4th the very windows of heaven seemed to have opened.
+                    The rain fell in blinding sheets; the meadows were soon overflowed and fences
+                    gave way before the raging streams. During the storm, wagons, ambulances, and
+                    artillery carriages by hundreds -- nay, by thousands -- were assembling in the
+                    fields along the road from Gettysburg to Cashtown, in one confused and
+                    apparently inextricable mass. As the afternoon wore on there was no abatement in
+                    the storm. Canvas was no protection against its fury, and the wounded men lying
+                    upon the naked boards of the wagon-bodies were drenched. Horses and mules were
+                    blinded and maddened by the wind and water, and became almost unmanageable. The
+                    deafening roar of the mingled sounds of heaven and earth all around us made it
+                    almost impossible to communicate orders, and equally difficult to execute them.</p>
+                <p>About 4 P. M. the head of the column was put in motion near Cashtown, and began
+                    the ascent of the mountain in the direction of Chambersburg. I remained at
+                    Cashtown giving directions and putting in detachments of guns and troops at what
+                    I estimated to be intervals of a quarter or a third of a mile. It was found from
+                    the position of the head of the column west of the mountain at dawn of the 5th
+                    -- the hour at which Young's cavalry and Hart's battery began the ascent of the
+                    mountain near Cashtown -- that the entire column was seventeen miles long when
+                    drawn out on the road and put in motion. As an advance-guard I had placed the
+                    18th Virginia Cavalry, Colonel George W. Imboden, in front with a section of
+                    McClanahan's battery. <pb n="424"/> Next to them, by request, was placed an
+                    ambulance carrying, stretched side by side, two of North Carolina's most
+                    distinguished soldiers, Generals Pender and Scales, both badly wounded, but
+                    resolved to bear the tortures of the journey rather than become prisoners. I
+                    shared a little bread and meat with them at noon, and they waited patiently for
+                    hours for the head of the column to move. The trip cost poor Pender his life.
+                    General Scales appeared to be worse hurt, but stopped at Winchester, recovered,
+                    and fought through the war.</p>
+                <p>After dark I set out from Cashtown to gain the head of the column during the
+                    night. My orders had been peremptory that there should be no halt for any cause
+                    whatever. If an accident should happen to any vehicle, it was immediately to be
+                    put out of the road and abandoned. The column moved rapidly, considering the
+                    rough roads and the darkness, and from almost every wagon for many miles issued
+                    heart-rending wails of agony. For four hours I hurried forward on my way to the
+                    front, and in all that time I was never out of hearing of the groans and cries
+                    of the wounded and dying. Scarcely one in a hundred had received adequate
+                    surgical aid, owing to the demands on the hard-working surgeons from still worse
+                    cases that had to be left behind. Many of the wounded in the wagons had been
+                    without food for thirty-six hours. Their torn and bloody clothing, matted and
+                    hardened, was rasping the tender, inflamed, and still oozing wounds. Very few of
+                    the wagons had even a layer of straw in them, and all were without springs. The
+                    road was rough and rocky from the heavy washings of the preceding day. The
+                    jolting was enough to have killed strong men, if long exposed to it. From nearly
+                    every wagon as the teams trotted on, urged by whip and shout, came such cries
+                    and shrieks as these:</p>
+                <p>"O God! why can't I die?"</p>
+                <p>"My God! will no one have mercy and kill me?"</p>
+                <p>"Stop! Oh! for God's sake, stop just for one minute; take me out and leave me to
+                    die on the roadside."</p>
+                <p>"I am dying! I am dying! My poor wife, my dear children, what will become of
+                    you?"</p>
+                <p>Some were simply moaning; some were praying, and others uttering the most fearful
+                    oaths and execrations that despair and agony could wring from them; while a
+                    majority, with a stoicism sustained by sublime devotion to the, cause they
+                    fought for, endured without complaint unspeakable tortures, and even spoke words
+                    of cheer and comfort to their unhappy comrades of less will or more acute
+                    nerves. Occasionally a wagon would be passed from which only, low, deep moans
+                    could be heard. No help could be rendered to any of the sufferers. No heed could
+                    be given to any of their appeals. Mercy and duty to the many forbade the loss of
+                    a moment in the vain effort then and there to comply with the prayers of the
+                    few. On! On! we must move on. The storm continued, and the darkness was
+                    appalling. There was no time even to fill a canteen with water for a dying man;
+                    for, except the drivers and the guards, all were wounded and utterly helpless in
+                    that vast procession of misery. During this one night I realized more of the
+                    horrors of war than I had in all the two preceding years. <pb n="425"/> And yet
+                    in the darkness was our safety, for no enemy would dare attack where he could
+                    not distinguish friend from foe. We knew that hen day broke upon us we should be
+                    harassed by bands of cavalry hanging on our flanks. Therefore our aim was to go
+                    as far as possible under cover of the night. Instead of going through
+                    Chambersburg, I decided to leave he main road near Fairfield after crossing the
+                    mountains, and take "a near cut" across the country to Greencastle, where
+                    daybreak on the morning of the 5th of July found the head of our column. We were
+                    now twelve or fifteen miles from the Potomac at Williamsport, our point of
+                    crossing into Virginia.</p>
+                <p>Here our apprehended troubles began. After the advance -- the 18th Virginia
+                    Cavalry -- had passed perhaps a mile beyond the town, the citizens to the number
+                    of thirty or forty attacked the train with axes, cutting the spokes out of ten
+                    or a dozen wheels and dropping the wagons in the streets. The moment I heard of
+                    it I sent back a detachment of cavalry to capture every citizen who had been
+                    engaged in this work, and treat them as prisoners of war. This stopped the
+                    trouble there, but the Union cavalry began to swarm down upon us from the fields
+                    and cross-roads, making their attacks in small bodies, and striking the column
+                    where there were few or no guards, and thus creating great confusion. I had a
+                    narrow escape from capture by one of these parties -- of perhaps fifty men that
+                    I tried to drive off with canister from two of McClanahan's guns that were close
+                    at hand. They would perhaps have been too much for me, had not Colonel Imboden,
+                    hearing the firing turned back with his regiment at a gallop, and by the
+                    suddenness of his movement surrounded and caught the entire party.</p>
+                <p>To add to our perplexities still further, a report reached me a little after
+                    sunrise, that the Federals in large force held Williamsport. I did not fully
+                    credit this, and decided to push on. Fortunately the report was untrue. After a
+                    great deal of desultory fighting and harassments along the road during the day,
+                    nearly the whole of the immense train reached Williamsport on the afternoon of
+                    the 5th. A part of it, with Hart's battery, came in next day, General Young
+                    having halted and turned his attention to guarding the road from the west with
+                    his cavalry. We took possession of the town to convert it into a great hospital
+                    for the thousands of wounded we had brought from Gettysburg. I required all the
+                    families in the place to go to cooking for the sick and wounded, on pain of
+                    having their kitchens occupied for that purpose by my men. They readily
+                    complied. A large number of surgeons had accompanied the train, and these at
+                    once pulled off their coats and went to work, and soon a vast amount of
+                    suffering was mitigated. The bodies of a few who had died on the march were
+                    buried. All this became necessary because the tremendous rains had raised the
+                    river more than ten feet above the fording stage of water, and we could not
+                    possibly cross then. There were two small ferry-boats or "flats" there, which I
+                    immediately put into requisition to carry across those of the wounded, who,
+                    after being fed and having their wounds dressed, thought they could walk to
+                    Winchester. Quite a large number were able to do this, so that the "flats" were
+                    kept running all the time. <pb n="426"/></p>
+                <p>Our situation was frightful. We had probably ten thousand animals and nearly all
+                    the wagons of General Lee's army under our charge, and all the wounded, to the
+                    number of several thousand, that could be brought from Gettysburg. Our supply of
+                    provisions consisted of a few wagon-loads of flour in my own brigade train, a
+                    small lot of fine fat cattle which I had collected in Pennsylvania on my way to
+                    Gettysburg, and some sugar and coffee procured in the same way at Mercersburg.</p>
+                <p>The town of Williamsport is located in the lower angle formed by the Potomac with
+                    Conococheague Creek. These streams inclose [sic] the town on two sides, and back
+                    of it about one mile there is a low range of hills that is crossed by four roads
+                    converging at the town. The first is the Greencastle road leading down the creek
+                    valley; next the Hagerstown road; then the Boonsboro' road; and lastly the River
+                    road.</p>
+                <p>Early on the morning of the 6th I received intelligence of the approach from
+                    Frederick of a large body of cavalry with three full batteries of six rifled
+                    guns. These were the divisions of Generals Buford and Kilpatrick, and Huey's
+                    brigade of Gregg's division, consisting, as I afterward learned, of 23 regiments
+                    of cavalry, and 18 guns, a total force of about 7000 men.</p>
+                <p>I immediately posted my guns on the hills that concealed the town, and dismounted
+                    my own command to support them -- and ordered as many of the wagoners to be
+                    formed as could be armed with the guns of the wounded that we had brought from
+                    Gettysburg. In this I was greatly aided by Colonel J. L. Black of South
+                    Carolina, Captain J. F. Hart commanding a battery from <pb n="427"/> the same
+                    State, Colonel William R. Aylett of Virginia, and other wounded officers. By
+                    noon about 700 wagoners were organized into companies of 100 each and officered
+                    by wounded line-officers and commissaries and quartermasters, -- about 250 of
+                    these were given to Colonel Aylett on the right next the river, -- about as many
+                    under Colonel Black on the left, and the residue were used as skirmishers. My
+                    own command proper was held well in hand in the center.</p>
+                <p>The enemy appeared in our front about half-past one o'clock on both the
+                    Hagerstown and Boonsboro' roads, and the fight began. Every man under my command
+                    understood that if we did not repulse the enemy we should all be captured and
+                    General Lee's army be ruined by the loss of its transportation, which at that
+                    period could not have been replaced in the Confederacy. The fight began with
+                    artillery on both sides. The firing from our side was very rapid, and seemed to
+                    make the enemy hesitate about advancing. In a half hour J. D. Moore's battery
+                    ran out of ammunition, but as an ordnance train had arrived from Winchester, two
+                    wagon-loads of ammunition were ferried across the river and run upon the field
+                    behind the guns, and the boxes tumbled out, to be broken open with axes. With
+                    this fresh supply our guns were all soon in full play again. As the enemy could
+                    not see the supports of our batteries from the hill-tops, I moved the whole line
+                    forward to his full view, in single ranks, to show a long front on the
+                    Hagerstown approach. My line passed our guns fifty or one hundred yards, where
+                    they were halted awhile, and then were withdrawn behind the hill-top again,
+                    slowly and steadily.</p>
+                <p>Leaving Black's wagoners and the Marylanders on the left to support Hart's and
+                    Moore's batteries, Captain Hart having been put in command by Colonel Black when
+                    he was obliged to be elsewhere, I moved the 18th Virginia Cavalry and 62d
+                    Virginia Mounted Infantry rapidly to the right, to meet and repel five advancing
+                    regiments (dismounted) of the enemy. My three regiments, with Captain John H.
+                    McNeill's Partisan Rangers and Aylett's wagoners, had to sustain a very severe
+                    contest. Hart, seeing how hard we were pressed on the right, charged the enemy's
+                    right with his little command, and at the same time Eshleman with his eight
+                    Napoleons advanced four hundred yards to the front, and got an enfilading
+                    position, from which, with the aid of McClanahan's battery, he poured a furious
+                    fire into the enemy's line. The 62d and Aylett, supported by the 18th Cavalry,
+                    and McNeill, charged the enemy who fell back sullenly to their horses.</p>
+                <p>Night was now rapidly approaching, when a messenger from Fitzhugh Lee arrived to
+                    urge me to "hold my own," as he would be up in a half hour with three thousand
+                    fresh men. The news was sent along our whole line, and was received with a wild
+                    and exultant yell. We knew then that the field was won, and slowly pressed
+                    forward. Almost at the same moment we heard distant guns on the enemy's rear and
+                    right on the Hagerstown road. They were Stuart's, who was approaching on that
+                    road, while Fitzhugh Lee was coming on the Greencastle road. That settled the
+                    contest. The enemy broke to the left and fled by the Boonsboro' road. It was too
+                    dark to follow. When General Fitzhugh Lee joined me with his staff on the field,
+                    one of <pb n="428"/> the enemy's shells came near striking him. General Lee
+                    thought it came from Eshleman's battery, till, a moment later, he saw a blaze
+                    from its gun streaming away from us.</p>
+                <p>We captured about 125 of the enemy who failed to reach their horses. I could
+                    never ascertain the loss on either side. I estimated ours at about 125. The
+                    wagoners fought so well that this came to be known as "the wagoners' fight."
+                    Quite a number of them were killed in storming a farm from which sharp-shooters
+                    were rapidly picking off Eshleman's men and horses.</p>
+                <p>My whole force engaged, wagoners included, did not exceed three thousand men. The
+                    ruse practiced by showing a formidable line on the left, the withdrawing it to
+                    fight on the right, together with our numerous artillery, 23 guns, led to the
+                    belief that our force was much greater.</p>
+                <p>By extraordinary good fortune we had thus saved all of General Lee's trains. A
+                    bold charge at any time before sunset would have broken our feeble lines, and
+                    then we should all have fallen an easy prey to the Federals. The next day our
+                    army arrived from Gettysburg, and the country is familiar with the way it
+                    escaped across the Potomac on the night of the 13th of July.</p>
+                <p>It may be interesting to repeat one or two facts to show the peril in which the
+                    army was till the river could be bridged. Over four thousand prisoners taken at
+                    Gettysburg were ferried across the river by the morning of the 9th, and I was
+                    ordered with a single regiment, the 62d Virginia, to guard them to Staunton and
+                    send them on to Richmond. When the general assigned me to this duty he expressed
+                    an apprehension that before I could reach Winchester the Federal cavalry would
+                    cross at Harper's Ferry, intercept and capture my guard and release the
+                    prisoners. Before we had left the river I had an interview with him at his
+                    headquarters near Hagerstown, in which he expressed great impatience at the
+                    tardiness in building rude pontoons at the river, and calling in Colonel James
+                    L. Corley, his chief quartermaster, told him to put Major John A. Harman in
+                    charge of the work; remarking that without Harman's extraordinary energy to
+                    conduct the work, the pontoons would not be done for several days. Harman took
+                    charge that day, and by tearing down warehouses on the canal got joists to build
+                    boats with, and in twenty-four hours had enough of them ready to float down to
+                    Falling Waters and construct a bridge. As we were talking General Longstreet
+                    came into the tent, wet and muddy, and was cordially greeted by General Lee in
+                    this wise: "Well, my old warhorse, what news do you bring us from the front?"
+                    That cordial greeting between chief and lieutenant is a sufficient answer, in my
+                    mind, to the statements of alleged ill feeling between the two men growing out
+                    of affairs at Gettysburg. It has been said that if "Stonewall" Jackson had been
+                    in command at Gettysburg, Longstreet would have been shot. This is a monstrous
+                    imputation upon General Lee, no less than upon Longstreet, and utterly without
+                    foundation, in my opinion. They were surely cordial on the 9th of July,1863.</p>
+                <p>Before I had gone two miles on my anxious march toward Winchester a courier
+                    overtook me with a note from General Lee directing me to return immediately to
+                    his headquarters. I halted my column, hurried back, was ferried over the river,
+                    and galloped out on the Hagerstown road to where I had <pb n="429"/> parted from
+                    the general that morning. He had left with his staff to ride toward Hagerstown,
+                    where a heavy artillery fire indicated an attack by the enemy in considerable
+                    force. When I overtook him he said that he understood I was familiar with the
+                    fords of the Potomac from Williamsport to Cumberland, and with the roads to
+                    them. I replied that I was. He then called up one of his staff, either General
+                    Long or General Alexander, I think, and directed him to write down my answers to
+                    his questions, and required me to name and describe ford after ford all the way
+                    up to Cumberland, and to describe minutely their character, and the roads and
+                    surrounding country on both sides of the river, and directed me, after I had
+                    given him all the information I could, to send to him my brother and his
+                    regiment, the 18th Virginia Cavalry, to act as an advance and guide if he should
+                    require it. He did not say so, but I felt that his situation was precarious in,
+                    the extreme. When about to dismiss me, referring to the freshet in the river he
+                    laughingly said: "You know this country well enough to tell me whether it ever
+                    quits raining about here? If so, I should like to see a clear day soon." I did
+                    not see him again till he left the Shenandoah Valley for the east side of the
+                    Blue Ridge.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

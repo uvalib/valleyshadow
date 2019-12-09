@@ -1,0 +1,517 @@
+<?xml version="1.0"?>
+
+<?dlps id="FM0050"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 id="FM0050">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: "77th Reunion Address," by Capt. G.
+                    W. Skinner, November 8, 1870</title>
+        <title type="sort">franklin county 77th reunion address, by capt g w skinner november 8 1870</title>
+        <author>Capt. G. W. Skinner</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name>Virginia Center for Digital History Staff</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Doug O'Reagan</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca.<num type="kilobytes"> 30.5 </num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">FM0050</idno>
+        <!--
+                <availability>
+                    <p>Publicly accessible</p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2005">2005</date>
+            <idno type="uva-pid">uva-lib:498562</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: "77th Reunion Address," by Capt. G. W. Skinner,
+                            November 8, 1870</title>
+            <title level="m"/>
+            <title type="sort">franklin county 77th reunion address, by capt g w skinner november 8 1870</title>
+            <author>Capt. G. W. Skinner</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Public Opinion, November, 8,
+                            1870, p. 1 col. 1-5</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Alderman Library, University of Virginia, Charlottesville Va. (microforms)</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1870-11-08">1870-11-08</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Battle Description, Camp Life, Death/Casualties, Home Front,
+                        Medicine/Hospitals, Military Strategy, Patriotism, Reunification, Veterans</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value="2005-12-15">2005-12-15</date>
+                <respStmt>
+                    <resp>proofed</resp>
+                    <name>Josh Botts</name>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="FM0050T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>This address was delivered before the 77th PA Volunteers at a reunion. It
+                    recounts their deeds, describes the burning of Chambersburg, and at the end
+                    calls for reunification in affection as well as theory.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="article" id="d5">
+                <p>
+                    <hi rend="bold">
+                        <hi rend="underline">ADDRESS OF <abbr expan="Captain">CAPT.</abbr> G. W.
+                            SKINNER</hi>
+                    </hi>
+                </p>
+                <p>
+                    <hi rend="bold">Delivered Before the Reunion of the Survivors of the 77th
+                            <abbr expan="Pennsylvania Veteran Volunteers">Pa. Vet. Vols.</abbr>, at
+                        Chambersburg, on the 6th of October, 1870.</hi>
+                </p>
+                <p>Ladies and Gentlemen, Comrades of the 77th: It is as much a matter of regret to
+                    me as it can possibly be to you, that the gentleman first selected to deliver
+                    this address could not perform that duty. With considerable experience as a
+                    public speaker and being possessed of more than ordinary ability, I doubt not
+                    any effort on his part would have met your expectations more fully that I hope
+                    to do.-Not knowing till within the last few days that <abbr expan="Colonel"
+                    >Col.</abbr> Pyfer would not be here, and that I was to take his place, my
+                    opportunities for preparation have not been as great as I could have desired. I
+                    shall give you what few points of interest and such thoughts as I have been able
+                    to call together, within this very limited space of time, asking you to pardon
+                    me anything that, to you, may seem amiss.</p>
+                <p>On the 12th day of April, 1861, that fearful civil war, which had for so many
+                    months been portending, unclasped its purple leaves at <orig reg="Sumter"
+                        >Sumpter</orig>. Dark as were the clouds which in these months had hung over
+                    our country's Southern horizon, our people were as yet unprepared for the shock
+                    of battle. Though fearful, they had not actually believed until then that the
+                    differences, which ambitious men and designing politicians had created between
+                    sections, were to be wiped out in blood. The immediate causes of the war, I
+                    shall not attempt to discuss at all <orig reg="today">to-day</orig>. Suffice it
+                    for the occasion to say that it came upon us in the shape of a war between the
+                    two great sections of the country-the North and the South. -Whatever may have
+                    been the opinions of parties here in the North prior to that time, it was almost
+                    unanimously agreed upon after the bombardment of <orig reg="Sumter"
+                    >Sumpter</orig>, that the rebellion should be quelled. The Flag of our Union had
+                    been assailed, and from every section of the North there went up the cry "To
+                    Arms." Companies and Regiments were speedily formed. States vied with one
+                    another in their haste to succor the cause of our imperilled country.
+                    Pennsylvania, true to her instincts and true to her own proud position as the
+                    "Keystone of the Federal arch," proved herself first among the foremost in this
+                    patriotic work. She sent forth regiment after regiment of brave, gallant
+                    fellows, and in October, 1861, nine years ago she sent the 77th. I know I will
+                    be pardoned when I say that of all the regiments she sent forth there was no
+                    braver and better one, than this, whose surviving representatives are met here
+                        <orig reg="today">to-day</orig>, to renew the associations of the years of
+                    arduous, dangerous service through which they have passed. Briefly as possible
+                    let its history speak for itself. On the 1st day of August, 1861, <abbr
+                        expan="Colonel">Col.</abbr> Stumbaugh, who presides here <orig reg="today"
+                        >to-day</orig>, received authority from the department of war to recruit the
+                    regiment. A camp of rendezvous was first established at this place, which was
+                    afterwards transferred to Pittsburgh, when the regiment was mustered for service
+                    on the 11th of October. On the 18th of October it was transported to Louisville,
+                    by way of the Ohio river; thence to Nolin's river, where it encamped for several
+                    weeks. Here it was assigned to General Buell's army, and participated with it in
+                    the advance on Nashville. From Nashville it advanced in the direction of
+                    Savannah, <abbr expan="Tennessee">Tenn.</abbr>, where the division to which it
+                    belonged-General M'Cooks', arrived on the night of the 6th of April, 1862. Its
+                    march that day was hurried on by the booming of cannon ahead, which told plainly
+                    enough that a battle was raging somewhere along the line of the Tennessee river.
+                    Arrived at Savannah, the news came to us that General Grant and his forces, were
+                    in sore peril on the field of Shiloh.-Part of Buell's forces reached the scene
+                    of action that evening and the remainder were hurried forward during the night
+                    through a most <orig reg="pitiless">pittiless</orig> and pelting storm. The 77th
+                    arrived on the field of conflict at 8 o'clock on the morning of the 7th.
+                    Although not warmly engaged, it was brought under fire several times during the
+                    day. The loss of the regiment in the fight was 3 killed and 7 wounded. It was
+                    the only Pennsylvania regiment engaged in that battle.</p>
+                <p>After Shiloh it participated in the siege of Corinth; then in that long,
+                    wearisome race between Bragg and Buell to Louisville. It was at Stone River when
+                    that battle began, and to a member of the 77th belongs the honor of firing the
+                    first shot in the fight. All day long on the 31st of December, it was engaged,
+                    and lost heavily. Many of its bravest men were killed and wounded and some of
+                    its best officers. It was there that <abbr expan="Colonel">Col.</abbr> Housum
+                    fell at the head of the regiment. Brave gallant fellow, he met the stern
+                    messenger of death with that same coolness and inflexible courage which had
+                    characterized every other act of his life. I speak no words of superfluous
+                    praise here <orig reg="today">to-day</orig> when I say that he was one of the
+                    most honorable of men, one of the best of commanders, and one of the bravest of
+                    soldiers. Over his grave, in yonder cemetery, stands a monument erected by his
+                    men whose simple inscription tells the whole story of his career as a soldier.
+                    "Davis, I am wounded; stay by the brave boys of the 77th," were the last words
+                    he uttered, after having been struck down by the fatal missile of death. The
+                    77th did its duty at Stone River well and no stronger proof of the fact is
+                    needed than the words of General Rosecrans, uttered while reviewing the regiment
+                    after the battle. He said, "<abbr expan="Colonel">Col.</abbr>, I see your
+                    regiment is all right. Give my compliments to the boys and tell them I say it
+                    was the banner regiment at Stone River. <hi rend="underline">They never broke
+                        their ranks.</hi>" After several months spent in camp at Murfreesboro
+                    during which it was engaged in building fortifications at that point, the
+                    regiment moved South again with the army; was at Liberty Cap on the 25th of
+                    June, 1863, and, although the battle there lasted but ten minutes, our loss in
+                    killed and wounded was fifty. Time will not permit me to follow up closely the
+                    history of the regiment, all its skirmishes marches and countermarches. I only
+                    touch upon points of greatest importance. After many long and tiresome marches,
+                    the regiment again came face to face with the enemy at <orig reg="Chickamauga"
+                        >Chicamauga</orig>, on the 19th of September 1863. That was its most
+                    terrible struggle. Entering the battle with 18 officers and 215 men, it came out
+                    with but 6 officers and scarcely fifty men.-Few of all those faces which were
+                    missing from the ranks after the battle closed were ever seen there again. Some
+                    killed, some wounded and others taken to vile and torturous prison pens where
+                    life ebbed slowly, but surely away. By myself nothing is more clearly remembered
+                    than the conflict there on the night of the 19th. It was the most fearful scene
+                    I have ever witnessed. The heavens were dark and cloudy, and the air through the
+                    woods in which our men fought was murky with the smoke of the battle. The
+                    conflict was hand to hand, and it was only by the light of flashing muskets that
+                    friend could be distinguished from foe. Our colors were taken, but only when the
+                    brave fellow who bore them was pinned to the earth by a rebel bayonet. We were
+                    two regiments to a whole division, and they bore us down with an overpowering
+                    force. I could speak of many acts of individual bravery there that night, but
+                    where all acted so well, it would be unfair to make any distinction. By <abbr
+                        expan="Colonel">Col.</abbr> Housum's side their sleeps one who fell in that
+                    fight.</p>
+                <p>From <orig reg="Chickamauga">Chicamauga</orig> we follow the regiment back to
+                    Chattanooga. But it is not a regiment now, save only in name. It is a mere
+                    handful of men, scarcely half a company. After participating for a month in the
+                    defence of Chattanooga the organization went into camp, at Whitesides, <abbr
+                        expan="Tennessee">Tenn.</abbr>, where it remained until the close of 1863.
+                    In January, 1864, most of its survivors re-enlisted and the regiment was sent
+                    home. After remaining in the State a little over a month, and having recruited
+                    many new members it again returned to the front in order to take part in the
+                    Atlanta campaign. In that campaign which might justly be termed the hundred
+                    miles and hundred days fight from Resaca to Atlanta, the regiment must have been
+                    engaged twenty times, the most prominent of which engagements were Resaca,
+                    Kingston, Cassville, Dallas, Kenesaw Mountains, Chattahoochie River, Peach Tree
+                    Creek, Lovejoy, Jonesboro and Atlanta itself. In the latter engagement <abbr
+                        expan="Captain">Capt.</abbr> Walker, who had been wounded twice before, was
+                    killed. Parting with Sherman when he began his march "From Atlanta to the Sea,"
+                    the 77th followed the fortunes of the 4th army corps, to which it was then
+                    attached, back through Georgia, through Northern Alabama and through middle
+                    Tennessee, until on the 30th of November, 1864, it found itself facing Hood at
+                    Franklin.</p>
+                <p>For the time it lasted, and the number of troops engaged on both sides, the
+                    battle of Franklin was one of the bloodiest of the war.-Seven times in quick
+                    succession did the united forces of Hood's army hurl themselves against the
+                    temporary breast-work we had erected, each time to be driven back with fearful
+                    slaughter. Never did men charge with more desperate courage than did the enemy
+                    there that night, and never were charges more sternly met. At times the conflict
+                    was hand to hand, bayonets, and even picks and spades, being used. Twenty days
+                    after the battle I rode over the field and counted in one spot the graves of 13
+                    officers, and over a 100 men of the 26th <abbr expan="Tennessee">Tenn</abbr>,
+                    confederate regiment. They had been <orig reg="buried">burried</orig> by kind
+                    hands where they fell and their graves marked. As I afterwards learned from a
+                    prisoner, the regiment was small when it entered the fight and came out with but
+                    15 men and not a single officer. I mention this fact to show the severity of the
+                    loss on the <orig reg="enemy's">enemie's</orig> side. It was not quite as great
+                    on our own, from the fact that we were protected by slight breast-works.
+                    Retiring from Franklin under cover of night we fell back to Nashville, where on
+                    the 15th and 16th of December our little army of scarcely two corps again met
+                    Hood's forces in battle. In those two days we almost destroyed his army. But a
+                    mere remnant, bleeding and torn, escaped back across the Tennessee River. That
+                    was the last battle in which the 77th was engaged, and with it closed the war in
+                    the West and <orig reg="Southwest">South West</orig>.</p>
+                <p>Following the remnant of Hood's army as far as the Tennessee, our corps halted at
+                    Huntsville, <abbr expan="Alabama">Ala.</abbr>, for a few weeks rest. On the 5th
+                    day of March, 1865, we were transported to East Tennessee for the purpose of
+                    joining in the last, grand, "On to Richmond." But ere we were ready for the
+                    forward march "the last ditch" of the enemy was found and emptied by our boys in
+                    the East. At <orig reg="Appomattox">Appomatox</orig> Court House, on the 8th day
+                    of April, 1865, the head of that army which had struggled against us for four
+                    long years, surrendered and the war was over. Southern valor had not proved
+                    enough for Northern prowess. What a glad day that was, when the surrender of Lee
+                    was echoed in one universal shout of "Peace." Peace was what the heart of the
+                    nation had longed for. That four years of war had devastated our fairest fields
+                    and brightest spots, it had taxed almost to the utmost the energies and
+                    resources of the country, and sent more than a million of its best and bravest
+                    in the spring and bloom of their lives to the dark shores of eternity. Oh! is it
+                    to be wondered at, the hearts of all people had grown sick. With Lee's surrender
+                    the war virtually closed, many regiments being soon after mustered out. Not so,
+                    however, with the 77th. A few weeks before the surrender the regiment had been
+                    reinforced by the addition of five new companies. These companies arrived too
+                    late to take part in any engagement, but soon enough to see some hard service.
+                    Having been reorganized and there being no further work for it in East
+                    Tennessee, it was sent back to Nashville, where it lay until the 17th of June,
+                    when it was ordered along with others to Texas. Starting from Johnsonville and
+                    going by way of the Tennessee and Mississippi rivers, it arrived at New Orleans
+                    on the 25th of June, when it encamped on the old Jackson battle ground, a place
+                    called Chalmette.</p>
+                <p>On the 13th of July it embarked for Matagorda Bay, Texas, where it landed on the
+                    20th. The trip across the Gulf was a stormy and dangerous one, so stormy in fact
+                    that six days were spent in sight of the coast, without any attempt being made
+                    at landing. The intervening time, from July the 20th till the 17th of the
+                    following December, was spent in that far distant State. We were now three
+                    thousand miles from home, and in an inhospitable clime. Many a gallant soldier,
+                    who had braved the storms of battle, fell there in that far off land, a victim
+                    of disease.</p>
+                <p>If my memory serves me aright, we lost 60 by death from fever alone. Leaving
+                    Galveston on the 17th of December, the regiment returned home and was mustered
+                    out of service on the 17th day of January, 1866. Among the first to enter, it
+                    was the last to leave the service. Its terms of service covered a period of over
+                    four years, during which it traveled over 20,000 miles, fought in more than 20
+                    pitched battles and buried over 400 men. Such, comrades, is in part the history
+                    our regiment has written for itself. Time has allowed me to give but a synopsis
+                    of its doings, and that imperfectly. Enough has been spoken however to give some
+                    idea of its record. Who will say the record is not one of which every member may
+                    justly feel proud. Other regiments may have served as faithfully and as well,
+                    but none better. I am glad it was my fortune to belong to it. I love to run back
+                    in memory over the stirring scenes in which it participated. I love to recall
+                    the faces of old comrades-some dead, others living. And it gives me pleasure to
+                    meet so many of you here <orig reg="today">to-day</orig>, some of whom I have
+                    not seen since at Philadelphia, we doffed the livery of soldiers, and donned the
+                    dress of citizens. How pleasant to all of us is the reunion here to day. It is
+                    like brothers long parted meeting together again, and are we not brothers?
+                    Members for years of the same great family, eating from the same table, drinking
+                    from the same fountains and streams, reposing together on the same fields,
+                    companions in camp and on the march, comrades in battle, the tie that binds us
+                    is almost as strong and dissoluble, as that which links together the hearts of
+                    those, who in childhood's hour, knelt at the same parental knee. To myself there
+                    are many very pleasant memories connected with my soldier life. As you know, all
+                    was not hardship and danger. There were many really pleasant evenings spent
+                    around the camp fires, when jokes were freely passed round and genial spirits
+                    entertained their comrades in roars of laughter. There were those, we had them
+                    in every company, whose love of fun and natural <orig reg="exuberance"
+                        >exhuberence</orig> of spirit, no amount of hardships could suppress. In the
+                    camp, on the march, and even where great danger lurked, they were always in a
+                    jolly mood. Such fellows were the life and soul of the army. Who of the older
+                    members of the regiment, does not remember Neal Foy, of <abbr expan="Company"
+                        >Co.</abbr> A, always lively, always ready for a joke - no matter where it
+                    was, whether in camp, or when the storm of battle was about to break over our
+                    ranks. He was brave too, and never shirked a single duty. Poor fellow; he died
+                    in Texas, just before our term of service closed. I wish I could stop <orig
+                        reg="today">to-day</orig> to pronounce a eulogy upon each one of our
+                    cherished dead. I can think now of so many whose names are deserving of special
+                    mention on this occasion-not officers alone, but private soldiers-men who
+                    fought, not for promotion or for pay, but who went with hearts fired with
+                    patriotic zeal went forth to find nameless graves. Poor fellows, this reunion
+                    here <orig reg="today">to-day</orig> is not for them. Our festivities will carry
+                    no enjoyment to the places where they are resting. It is meet therefore that we
+                    should speak of them, if not by name at least in general terms. Let us worship a
+                    moment at the shrine of their memories. They made the sacrifices so necessary to
+                    bring back peace and unity to the country, and their great services will be
+                    remembered long after our own have passed from the minds of men.<lb/> "A debt of
+                    gratitude we owe-<lb/> To them is justly due-<lb/> And till our nation's latest
+                    day,<lb/> Our children's children still shall say:<lb/> They died for me and
+                    you."</p>
+                <p>There is another class worthy of mention on this occasion. They are those who
+                    went forth full of the strength and vigor of manhood, and came back to us mere
+                    shattered wrecks of their former selves. Although they are, to a certain extent,
+                    objects of a nation's care, it seems to me as though some of them were unkindly
+                    dealt with; in fact, I have seen more than one of them ruthlessly thrust aside
+                    to make room for those who have no claim upon the patronage of the government,
+                    or the sympathy of the people. This should not be. The man who laid a limb upon
+                    the field of battle, or whose arm when raised in his country's behalf was torn
+                    from its place, has provided he is in every way capable, a superior claim to
+                    preferment in every walk of life-a claim which a grateful people and a grateful
+                    country cannot consistently ignore. They bear the marks of honorable service and
+                    should not be made to do menial labor. I confess to have blushed for my country
+                    when I have seen one of her faithful defenders, a crippled almost helpless man,
+                    grinding an organ on the streets for a living. Often when the plaintive notes of
+                    his instrument have fallen on my ear, I have been reminded of poor, blind
+                    Bellisarius, sitting before the gates of the capital he had saved, begging a
+                    penny from the bands of charity. Why such sights are permitted is more than I
+                    can understand. It is certainly a burning shame on us all. What if there be some
+                    defect in his discharge papers? Red-tape officials should be made to overlook
+                    mere irregularities on paper, when a man presents for a pension a certificate
+                    written out by the enemies bullets on the field of battle.</p>
+                <p>Nor should I forget <orig reg="today">to-day</orig>, when there are so many fair
+                    ones here, that there is still another class to whom the nation owes its <orig
+                        reg="mead">meed</orig> of praise. Not of those who endured the danger and
+                    fatigue of the camp and march, this class is still perhaps to be held in more
+                    grateful recollection than any other. Unfitted for the bivouac of actual army
+                    life, its silent watch was kept by the side of the dying. At home and in the
+                    crowded hospital it found its work of devotion and love. All honor to them that
+                    noble army of Christian women, which carried its ministration to the bedsides of
+                    the suffering ones. Thousands this hour have reason to bless the name of some
+                    one of these whose kindly hand had kept back the life which else had spent. Back
+                    along the past we find many instances of the heroic devotion of women, but it
+                    seems to have remained for our own great civil war, to develop the highest type
+                    of nobility in her sex. Not in hospitals alone did her devotion to the cause
+                    shine forth; she was active elsewhere; active in encouraging enlistments, active
+                    in her efforts to buoy up the heart when despondency threatened. She suffered
+                    too. Show me a wife who lost a husband, or a mother who lost a son in that war,
+                    and I'll show you one who has suffered anguish greater than you and I have ever
+                    known. Though uncomplaining, the pallor of her cheek and the lines upon her face
+                    speak of a grief yet unassuaged. Even yet when I meet one of these, her wan, sad
+                    face seems to me to be looking away off in the direction of those sunny hills,
+                    and fragrant groves, where that one who was dearer to her than all else besides,
+                    is taking his warrior's rest-looking anxiously as though the hope yet lingered
+                    that he might yet come back to her side. Oh, my comrades and friends, if true
+                    devotion is to be found anywhere, it is to be found in the hearts of such as
+                    these. If there is hope for our country in the uncertain future, it rests on the
+                    altars they have erected. Somebody has fitly remarked: "If woman be with us, who
+                    can be against us; woman who was last at the Cross, and first at the Sepulcher."
+                    To the crippled ones then, to the mother in her sorrow, to the widow in the
+                        <orig reg="loneliness">lonliness</orig> of her heart-to those in the tears
+                    of orphanage, is due all of the gratitude we owe. Let our thanks and
+                    benefactions be showered upon their heads. Give them all the praise. Those who
+                    went forth, and returned again in safety, need it not; they ask it not. His must
+                    be a craven heart indeed, who would expect it above any of these.</p>
+                <p>It may not be inappropriate to the occasion, my comrades, for me to allude to the
+                    fact that our reunion occurs <orig reg="today">to-day</orig> in a place which
+                    has suffered far more than the ordinary vicissitudes of war.</p>
+                <p>This temple of justice and these buildings for squares around are new. They stand
+                    over the ashes of the houses and homes, which lined these streets when you were
+                    marching down them to the seat of war, nine years ago. Many of you doubtless
+                    remember the day (I remember it well) when the news was brought to the front
+                    that Chambersburg had been burned. It was the 5th day of August 1864, just after
+                    we had succeeded in fighting our way up to the environs of Atlanta. I remember
+                    how deep the feeling of indignation which ran through our ranks, at the act; how
+                    our boys vowed to one another that the foul crime should be avenged; and how
+                    that very evening, when part of them had been called upon to charge the enemy,
+                    they fought with an unwonted degree of valor. "Oh, if the 77th had only been
+                    there," was the expression heard that day. Yes if the 77th had only been here, I
+                    feel free to say the unholy work of burning would only have been accomplished
+                    when the power to defend had been stricken from their arms. The history of the
+                    burning must be in a manner familiar to you all. You will recollect that the
+                    town was fired on the 30th day of July 1864, by about 3000 of the enemies
+                    cavalry, under command of General McCausland. Our Southern border here was at
+                    the time unprotected by any force of our own troops, and the natural defenders
+                    of this people were absent fighting in the trenches of Virginia and Georgia. On
+                    the 30th day of July there were those standing with us in front of the enemy
+                    before Atlanta, whose aged parents here, unprotected and unable to protect
+                    themselves, were fleeing before the flames which were wrapping up their homes
+                    and all they possessed in the world. No defense could have been made against
+                    this force of the enemy. There was spirit enough among those left behind to
+                    defend, but not strength enough. It would be difficult indeed to estimate the
+                    loss of our people here by that conflagration. It would certainly not fall short
+                    of $3,000,000. In a single hour 266 families were robbed of their homes and
+                    turned out upon the world to battle with penury. Not only homes were burned, but
+                    all the conveniences and comforts which years of patient toil had placed
+                    therein, clothing, furniture, books, cherished heir-looms-everything, was swept
+                    away. I mention these facts, my comrades, because I do not want you to forget
+                    them. I want you to remember that you have visited on this occasion a people who
+                    have suffered far more than their proportion the losses of the late war. I make
+                    bold to speak to you thus, because I know you have noble and generous hearts,
+                    and will when you hear this people vilified and abused as they have been in the
+                    past, rebuke the insulters whoever they may be.</p>
+                <p>Briefly, my comrades, I have traced the history of our regiment. In a feeble
+                    manner, I have essayed to pay a tribute to the memory of our comrade dead, and
+                    to the faithful services of others, who, though still living, are but wearing
+                    out lives of sadness. I have spoken too of the peculiar sufferings of this
+                    people you have come among <orig reg="today">to-day</orig>; so I am about to
+                    leave the subject with you. The incidents I have related and the facts to which
+                    I have referred are all history now.-We remember them and will remember them
+                    while we live, and when the last one of us has obeyed the bugle call to another
+                    world, the lids of the great volume in which they are written will stand open
+                    for those who are to come after us.</p>
+                <p>My comrades, it may be permitted many of us who are assembled here <orig
+                        reg="today">to-day</orig> to meet together on a future occasion of this
+                    kind, to talk over the familiar scenes of the past, but certainly not all of us.
+                    The great world with its varied pursuits is drawing us apart.-These reunions
+                    will be growing smaller from year to year and after a little while they will
+                    cease forever. While the opportunity remains then to any one, let that one come
+                    up to these reunions whenever they may be.-Let us not forget the old 77th, its
+                    association and friendships, nor let us forget the cause which first called us
+                    together, and made us the comrades we are. It was the cause of an imperilled
+                    country. It was to save this union of States from the impending fate of
+                    dissolution. True in the past, I know each one of you will be true in the
+                    future; tried in the furnace of battle your country knows now of what stern
+                    material you are made. She knows that in any just cause, she may rely on the
+                    same strong arms and brave hearts, which had saved her in the hour of her
+                    greatest peril. She may need you again. While I hope for her future, that it
+                    will be great and glorious, I am not unmindful of the dangers which lie in the
+                    path of her progress. Most of us have read the sad fate of other nationalities.
+                    We have seen how the whole pathway of the world's history is literally strewn
+                    with the wrecks of Empires and peoples; of generations and liberty; and it may
+                    been in the Providence of God this country of ours is destined to follow in the
+                    wake of those that have gone before. It if must be so, let the fault be none of
+                    ours. Let it be known that we at least stood by the union of our fathers. They
+                    made it; their best blood cemented it. It was good enough for them; it is good
+                    enough for us, and it will be good enough for all those who are to come after
+                    us. In order then that this Union may be perpetuated, let us strive to forget
+                    the hatred and animosities engendered by the war. The Union cannot long exist if
+                    bound together only by a paper tie called the Constitution. No, it needs a
+                    stronger and far more enduring tie than that. It needs the firmly cemented
+                    affections of the people of all the States. Though deep and wide the wounds may
+                    be, heal them all up.</p>
+                <p>Let us take a lesson in this from the gallant dead of both sides. On every battle
+                    field they sleep, "the grey and blue," almost in brotherly embrace, their
+                    warfare over and forgotten. So let it be with ours. Let us join hearts and heads
+                    again, and go forward to labor for the fulfillment of what I trust will be a
+                    great destiny for our country.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>
