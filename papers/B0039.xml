@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+
+<?dlps id="B0039"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B0039">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: P. F. Earman to W. J.
+                    Jackson, August 20, 1867</title>
+        <title type="sort">freedmens bureau records p f earman to w j jackson, august 20 1867</title>
+        <author>Earman, P. F.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>HIUS 403 Students</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Peter Brownfeld</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B0039</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 1999, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:500404</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: P. F. Earman to W. J. Jackson, August 20,
+                            1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records p f earman to w j jackson, august 20 1867</title>
+            <author>P. F. Earman</author>
+            <editor/>
+            <respStmt>
+                            <resp>e.g. Translator</resp>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Bureau of Refugees, Freedmen, and
+                            Abandoned Lands, Record Group 105, Box E4269</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-08-20">1867-08-20</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Legal System, Violence/Crime, Military Authority</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2003-08">August 2003</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B0039T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Earman writes about the prevalence of horse thieves in Augusta County, and ways
+                    in which they may be stopped, including the formation of local "vigilance
+                    committees." It is unclear whether the letter was meant for Thomas P. Jackson,
+                    or if it is indeed meant for another man by the name of Jackson.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">WJ Jackson</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-08-20">August 20<hi rend="super">th</hi> 1867</date>
+                        <name type="place">Burkes Mills <abbr expan="Virginia">V<hi rend="super">a</hi></abbr></name>
+                    </dateline>
+                    <salute>Sir,</salute>
+                </opener>
+
+                <p>I have just <abbr expan="received">Rec<hi rend="super">d</hi></abbr> your letter
+                    this evening and hasten to reply. At the time of writing to <abbr
+                        expan="General">Gen</abbr> Schofield I did not know that you were
+                    established at Staunton or I should have written to you instead. I have no
+                    complaint to make of an official, either Military or Judicial as I believe they
+                    are all prompt executing the law when called upon. That which I complain of as
+                    being <hi rend="underline">intolerable</hi> is horse stealing and the trouble is
+                    to get officials on the task in time and not in any want of of promptness on
+                    their part. In Some neighborhoods in Augusta County the citizens are forming
+                    themselves into vigilance committees for their <pb n="2"/> own protection
+                    against this nuisance, and we were about doing the same, and I had written to
+                    the <abbr expan="General">Gen<hi rend="super">l</hi></abbr> as one of the
+                    Committee for instructions not wishing to go into an arrangement of that kind
+                    unless with the sanction of the Commandment of this <abbr expan="District"
+                            >Dis<hi rend="super">t</hi></abbr> horse stealing has highly become
+                    intolerable here a short time since there were five horses Stolen from this
+                    immediate neighborhood in one night from different persons the <add hand="h1"
+                        place="inline">time</add> that would, necessarily have been consumed in
+                    getting officials would have enabled them <add hand="h1" place="inline">(the
+                        theives)</add> to make their escape but by pursuing them at once they were
+                    over taken in the north mountain and the horses recovered. But for want of arms
+                    the theives escaped which is to be regreted by every law abiding citizen. <pb
+                        n="3"/>Since then there have been other horses stolen in the <orig
+                        reg="neighborhood">neighbourhood</orig>, no doubt by the same individuals so
+                    that no one was safe at any time. It was with a view to break up this band of
+                    marauders that the letter was written and not designing to call in question the
+                        <unclear>promptness</unclear> of any offical whatever <del hand="h1"
+                        >(Scratched out writing)</del> Hoping this explanation may be satisfactory. </p>
+
+                <closer>
+                    <salute>I Remain<lb/>Yours</salute>
+                    <signed>P.F. <hi rend="underline">Earman</hi></signed>
+                    <seg type="postscript">P.S. Please excuse my writing with pencil as I was
+                        anxious to answer at once and was out of ink.</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

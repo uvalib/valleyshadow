@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+
+<?dlps id="A0018"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A0018">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: John Avis to Kenton Harper, June 18,
+                    1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county john avis to kenton harper, june 18 1861</title>
+        <author>Avis, John</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Sarah Parnes</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Susanna Michele Lee</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A0018</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501790</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: John Avis to Kenton Harper, June 18, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta county john avis to kenton harper, june 18 1861</title>
+            <author>John Avis</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Kenton Harper Papers, Accession #
+                            M-2863, Southern Historical Collection, University of North Carolina,
+                            Chapel Hill, North Carolina</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Southern Historical Collection, University of North Carolina, Chapel Hill, North Carolina</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1861-06-18">1861-06-18</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Troop Movement, Military Strategy, Military Authority</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A0018T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Captain John Avis writes to Colonel Kenton Harper requesting Harper's advice on
+                    troop placement and his aide in procuring Minnie Rifles.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1861-06-18">June 18th 1861</date>
+                        <name type="place">Head Quarters Company K<lb/>Winchester </name>
+                    </dateline>
+                    <salute><abbr expan="Colonel">Col</abbr> Harper<lb/>Sir</salute>
+                </opener>
+
+                <p>I have not succeeded in getting the Minnie Rifles yet. I have another plan on
+                    foot now It is to have the Enclosed Requisition Signed <hi rend="underline">by
+                        Yourself</hi> and <abbr expan="Colonel">Col</abbr> Jackson. Will you be kind
+                    Enough to do the best you can for me as I am very anxious to be prepared to do
+                    Service Learn from <abbr expan="Colonel">Col</abbr> Jackson if you please if it
+                    is necessary to keep those men of my company who are guarding the Winchester and
+                    Potomac Rail Road and <unclear>Opequon</unclear> Bridges any Longer on that
+                    Service.</p>
+
+                <closer>
+                    <salute>Very Respectfully</salute>
+                    <signed>John Avis<lb/><abbr expan="Captain">Capt</abbr> 5th Infantry</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

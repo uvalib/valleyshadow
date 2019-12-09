@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+
+<?dlps id="A7121"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A7121"> 
+<teiHeader type="migrated"> 
+
+    <fileDesc> 
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: John Scott to Samuel Hunt, May 3, 1866</title>
+        <title type="sort">augusta county john scott to samuel hunt, may 3 1866</title>
+        <author>Scott, John</author>
+        <editor/>
+        <respStmt> 
+          <resp>Creation of machine-readable version: </resp> 
+          <name>Bart Elmore</name> 
+          <resp>Conversion to TEI.2-conformant markup:</resp> 
+          <name>Bart Elmore</name> 
+        </respStmt>
+      </titleStmt> 
+
+      <extent>ca. 6.393 kilobytes </extent> 
+      <publicationStmt> 
+        <publisher>Virginia Center for Digital History</publisher> 
+        <pubPlace>Charlottesville, Virginia </pubPlace> 
+
+        <idno type="VCDH">A7121</idno> 
+
+        <!--
+<availability> 
+<p>Publicly accessible </p> 
+<p n="public">URL: http://valley.vcdh.virginia.edu/</p> 
+<p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the University of Virginia</p> 
+</availability>
+--> 
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date> 
+        <idno type="uva-pid">uva-lib:500237</idno>
+      </publicationStmt> 
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt> 
+      <notesStmt>
+        <note/>
+      </notesStmt> 
+
+      <sourceDesc> 
+        <biblFull> 
+          <titleStmt>
+            <title>Augusta County: John Scott to Samuel Hunt, May 3, 1866</title>
+            <title level="m"/>
+            <title type="sort">augusta county john scott to samuel hunt, may 3 1866</title>
+            <author>John Scott</author>
+          </titleStmt> 
+          <editionStmt>
+            <p/>
+          </editionStmt> 
+          <extent>4 pages</extent> 
+          <publicationStmt> 
+
+            <idno type="callNo">Source copy consulted: John Scott to Samuel Hunt, May 3, 1866, American Missionary Association Archives Collection, Microfilm 72, Alderman Library, University of Virginia, Charlottesville</idno>
+          </publicationStmt> 
+          <seriesStmt>
+            <p/>
+          </seriesStmt> 
+          <notesStmt>
+            <note/>
+          </notesStmt> 
+        </biblFull> 
+      </sourceDesc> 
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Alderman Library, University of Virginia</p>
+      </projectDesc>
+    </encodingDesc> 
+
+    <profileDesc> 
+      <creation>
+        <date value="1866-05-03">1866-05-03</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage> 
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass> 
+        <keywords> 
+          <term>African Americans, Education, Church/Religious Activity, Women, Race Relations</term> 
+          <term>American Civil War</term>
+        </keywords> 
+      </textClass> 
+    </profileDesc> 
+
+
+    <revisionDesc>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+  </teiHeader> 
+
+<text id="A7121T">
+<front id="d2">
+<div1 type="summary" id="d3">
+<p>Scott provides an informal report on the progress of AMA schools in Staunton.</p> 
+</div1> 
+
+</front> 
+
+<body id="d4">
+<div1 type="letter" id="d5">
+<head>
+<name type="recipient">Rev S Hunt</name> 
+<name type="place">Staunton Va</name> 
+</head>
+
+<opener>
+<dateline>
+    <date value="1866-05-03">May 3/66</date> 
+</dateline> 
+<salute>Dear Sir</salute> 
+</opener> 
+
+<p>I am glad to report progress.  Nearly 1/2 our day school are now beginning to write, and the Primer schools are growing beautifully less.  Many <del rend="none" hand="h1"></del> our scholars will be able to take written arithmetic, next month, with success and the first class will be through the primary Geog.  Our Sabbath School is doing well</p>
+	<p>The children began to call for--S S <del rend="none" hand="h1"></del> and Hymn Books--declaring that they can read them; which is true.  Our work is very laborious and wearing.  I do not get time to read the news or write many letters to my friends.  The church when we came into it had no seats, no writing desks, no pulpit no windows on one side of the house, and no fence around it,  My saw and hammer have supplied the deficiency so far, and I have more to do.  There is not one colored carpenter in town and he can not be had to work for nothing and there is no money to pay him, much less a white man  This work with that of giving counsel in thousands of instances in business matters--writing notes, Contracts, Orders, <del rend="none" hand="h1"></del> etc.--managing the S School and visiting the sick and infirm, and all in addition to teaching and looking after the general interest of the schools, is <del rend="none" hand="h1"></del> laborious.  We still labor under two difficulties, Want of <hi rend="underline">Room</hi> and <hi rend="underline">Time</hi>.</p>
+	<p>Four schools in one small building either obliges us to conduct our exercises in a <hi rend="underline">subdued</hi> manner or else confuse each other,  We choose the former; but can not excit that interest and energy in our pupils that we might were it not for fear of disturbing each other, and we often have to change seats for the sake of accommodating classes who have not room to sit for a particular exercise, this makes some confusion, and takes a little time.  One of our teachers had to crawl out onto a bench to get at her class to hear it recite as there is no room for either her or the class to stand with convenience <del rend="none" hand="h1"></del> there is there is no way of getting there not with out much trouble.  The evenings are growing short and our studies <del rend="none" hand="h1"></del> increasing in numbers thus cramping us for time.  I think next month we shall try two sessions per day, and one at night if we can stand it.</p>
+<p>We have little trouble in discipline using kindness and an appeal to conscience and affection, last of all the rod.  I send you a copy of what was printed concerning me in a Staunton paper.  It explains itself  <hi rend="underline">I am not much sorry</hi> for Miss Deweys resignation, She contains some elements of character not well adapted to this work.</p>
+	<p>I think we shall be able to continue her school successfully.  I shall send you an account of our disposition of clothing soon.</p>
+	<p>I dare not leave the lamps in care of the colored people during vacation.  The need them <del rend="none" hand="h1"></del>  Will you sell them?  And if so will you ascertain what they cost and let us know so that we may fix a price.</p>
+
+
+<closer>
+<salute></salute> 
+<signed>J. Scott</signed> 
+<seg type="postscript">P S I will send you the newspaper some other time</seg> 
+<name type="place">New York</name> 
+</closer> 
+</div1> 
+</body> 
+</text> 
+</TEI.2>

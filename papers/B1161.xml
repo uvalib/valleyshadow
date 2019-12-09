@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1161"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1161">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: W. Storer How to Orlando
+                    Brown, January 23, 1866</title>
+        <title type="sort">freedmens bureau records w storer how to orlando brown, january 23 1866</title>
+        <author>How, W. Storer</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1161</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501021</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: W. Storer How to Orlando Brown, January
+                            23, 1866</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records w storer how to orlando brown, january 23 1866</title>
+            <author>W. Storer How</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 14.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1866-01-23">1866-01-23</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Aid/Relief, Church/Religious Activity, Economy, Military Authority,
+                        Patriotism, Property</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-07">July 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+                <item>Item checked against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1161T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>How recommends that a Thomas Wholey be allowed to take lumber from an abandoned
+                    barracks in Staunton, and that the black community should use the remaining
+                    lumber for the construction of a church.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau of Refugees, Freedmen &amp; <abbr expan="Abandoned "
+                        >A.</abbr>Lands<lb/>Sixth District Va
+                    <name type="recipient"><abbr expan="Colonel">Col.</abbr> O. Brown, <abbr
+                            expan="Assistant">Assist</abbr> Commissioner<lb/>Richmond, <abbr
+                            expan="Virginia">Va</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1866-01-23"><abbr expan="January">Jany</abbr> 23d 1866</date>
+                        <name type="place">Staunton, <abbr expan="Virginia">Va</abbr></name>
+                    </dateline>
+                    <salute>Colonel</salute>
+                </opener>
+
+                <p>In relation to the accompanying papers of Mr Thomas Wholey I have the honor to
+                    report that the barracks referred to by him were turned over to the agent of the
+                    Bureau at this Post by an order of <abbr expan="Lieutenant Colonel">Lt.
+                    Col.</abbr> Cecil Clay, 58th <abbr expan="Pennsylvania Volunteers">Pa Vols</abbr>
+                    <unclear>
+                        <abbr expan="commanding">comding</abbr>
+                    </unclear> (copy endorsed) dated <abbr expan="January">Jany</abbr> 10th 1866,
+                    and that immediately upon the withdrawal of the troops from this Post, and the
+                    consequent removal of all guards from the premises, the barrack was stripped of
+                    anything moveable by persons unknown, and there now remains nothing but the bare
+                    walls and roof of a building without windows or doors.</p>
+
+                <p>Taking into consideration therefore the <unclear>correctness</unclear> of Mr.
+                    Wholey's claim for lumber taken, the presence of the lumber on his grounds, his
+                    loyalty and the fact that this building is not now needed for any use which
+                    would justify its repair and the payment of ground rent <pb n="2"/>and the fact
+                    also that balance of the lumber would not meet any considerable sum over the
+                    expense of its disposal, I respectfully recommend that Mr Thos Wholey be
+                    permitted to retain an amoung of the lumber comprising the barrack equal to
+                    twenty two hundred (2200) feet, and that the Freedmen be allowed to remove the
+                    remainder for use in the construction of the church now being built by them in
+                    this place.</p>
+
+                <closer>
+                    <salute>I am Colonel<lb/>Very Respectfully<lb/>Your Obedient Servant</salute>
+                    <signed>W. Storer How, <abbr expan="Captain">Capt</abbr>
+                        <abbr expan="Assistant Quartermaster">AQM</abbr><lb/><abbr
+                            expan="Superintendent">Supt</abbr> Sixth <abbr expan="District">Dist</abbr>
+                        <abbr expan="Virginia">Va</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

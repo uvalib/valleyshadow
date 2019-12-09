@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+
+<?dlps id="A5501"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A5501">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Lydia Hotchkiss to Jedediah
+                    Hotchkiss, December 18, 1859</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county lydia hotchkiss to jedediah hotchkiss, december 18 1859</title>
+        <author>Hotchkiss, Lydia</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amanda Mushal</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Amanda Mushal</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A5501</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502352</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Lydia Hotchkiss to Jedediah Hotchkiss, December 18,
+                            1859</title>
+            <title level="m"/>
+            <title type="sort">augusta county lydia hotchkiss to jedediah hotchkiss, december 18 1859</title>
+            <author>Lydia Hotchkiss</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Lydia Hotchkiss to Jedediah
+                            Hotchkiss, 18 December 1859, Jedediah Hotchkiss Papers, Accession Number
+                            2822, Special Collections, Alderman Library, University of
+                        Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1859-12-18">1859-12-18</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Deaths/Casualties, Church/Religious Activity, Slavery</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A5501T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Lydia Hotchkiss writes to her children about funerals in the neighborhood, the
+                    health of various family members, upcoming travel, and her views on slavery.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1859-12-18">
+                            <abbr expan="December">Dec.</abbr><orig reg="18th">8thenth</orig></date>
+                        <name type="place">Windsor</name>
+                    </dateline>
+                    <salute>Dear Children</salute>
+                </opener>
+
+                <p>I am seated trying to write a few lines to Let you <orig reg="know">no</orig> how
+                    we get along this stormy Sabbath <orig reg="evening.">evening</orig> I have Been
+                    to Church <orig reg="today.">to day</orig> not many <orig reg="out.">out</orig>
+                    there was a funeral Sermon to Be preached on the Death of a Mrs Simons a <orig
+                        reg="tailor">taylor</orig> in the <orig reg="village.">village</orig> she
+                    went to Delhi on a visit and died <orig reg="there.">there</orig> it is <orig
+                        reg="somewhat">some what</orig> sickly about Mr Copley has lost three
+                    Children with the Scarlet <orig reg="fever.">fever</orig> We went over to
+                    kirkwood to <orig reg="Pamelia's">pamelia</orig> funeral the same day Mrs Bird
+                    was <orig reg="buried.">Buried</orig> we Carried Davy and Jenna to <orig
+                        reg="Great">great</orig> Bend and then Came <orig reg="home.">home</orig> We
+                    had a hard day of <orig reg="it.">it</orig> was <orig reg="very">verry</orig>
+                    <orig reg="muddy.">muddy</orig> Elisaann has Been <orig reg="very">verry</orig>
+                    sick with the sore throat But is <orig reg="better.">better</orig>
+                    <orig reg="George">george</orig> says he thinks you <orig reg="ought"
+                    >ougt</orig> to write to <orig reg="him.">him</orig> he thinks he cannot <orig
+                        reg="write.">write</orig> I tell him he can <orig reg="scratch">scrach</orig>
+                    <orig reg="off">of</orig> something you can <orig reg="read.">read</orig> I do
+                    not <orig reg="know">no</orig> as you can read <orig reg="this.">this</orig> my
+                    eyes are <orig reg="very">verry</orig>
+                    <orig reg="bad.">bad</orig> I have worked <orig reg="very">verry</orig> hard
+                    this fall two or three <orig reg="weeks.">weeks</orig> I have done all my work
+                        <orig reg="alone.">alone</orig> I am going to Scranton to take care of
+                    Little <orig reg="Sara.">Sara</orig> Jenna is going with Mrs Brisbane to <orig
+                        reg="New York">new york</orig> to spend a few <orig reg="days.">days</orig>
+                    Maggie is Coming to keep house for <orig reg="me.">me</orig></p>
+                <pb n="2"/>
+
+                <p>you speak of excitement and Commotion But I think you need have no fears from the
+                        <orig reg="North.">north</orig> we do not wish to interfere with you on
+                        <orig reg="slavery.">slavery</orig> I had rather work myself than have <orig
+                        reg="slaves.">slaves</orig> We <orig reg="know">no</orig> there is some that
+                    would like to stir up party <orig reg="spirit.">spirit</orig> But if you at the
+                    South feel <orig reg="approved">aproveed</orig> of <orig reg="God">god</orig> to
+                    have slaves then all is <orig reg="well.">well</orig> I wish you to have the
+                    smiles and approbation of a holy <orig reg="God">god</orig> who does all <orig
+                        reg="things">thing</orig> right and to <orig reg="whom">whome</orig> we must
+                    all stand or fall for <orig reg="ourselves.">ourselves</orig> Look at the matter
+                    Candidly and <orig reg="impartially.">impartialy</orig> if we have peace within
+                    then the storm without will not disturb <orig reg="us.">us</orig> I am glad your
+                        <orig reg="prospects">prosspects</orig> are growing <orig reg="better."
+                        >Better</orig> I hope you may all do <orig reg="well.">well</orig> I should
+                    Be glad if you was all where we could see you often But it is not <orig
+                        reg="so.">so</orig> But we must soon part to meet no more on earth. you must
+                    all do the Best you <orig reg="can.">can</orig> all will Be well with you <orig
+                        reg="then.">then</orig> now my Dear Children and grandchildren I Love you
+                    all I <orig reg="hope">hop</orig> you all will do <orig reg="well.">well</orig>
+                    I think of you often and wish you Could run in and see us.</p>
+                <pb n="3"/>
+
+                <p>your <orig reg="father's">fathers</orig> health is poor this <orig reg="winter."
+                        >winter</orig> he does not get much rest nights and that seems to <orig
+                        reg="wear">weare</orig> upon <orig reg="him.">him</orig> I think my health
+                    is <orig reg="pretty">perty</orig> good but my eyes trouble me so much I am
+                    troubled to see to <orig reg="write.">write</orig> But I have no to write for me
+                    so you must make the Best of it and write as often as you Can to <orig reg="us."
+                        >us</orig> give our Love to nelson and his family and may the Blessing of
+                    god rest upon you all is the prayer of</p>
+
+                <closer>
+                    <salute>of your <orig reg="affectionate">effectionate</orig> mother</salute>
+                    <signed>Lydia Hotchkiss</signed>
+                    <seg type="postscript">Write Soon</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

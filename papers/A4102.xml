@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+
+<?dlps id="A4102"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="A4102">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Jedediah Hotchkiss to Sara A. Hotchkiss, October
+     31, 1864</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county jedediah hotchkiss to sara a hotchkiss, october 31 1864</title>
+        <author>Hotchkiss, Jedediah</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Lara Diefenderfer</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Rider</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A4102</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:502297</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Jedediah Hotchkiss to Sara A. Hotchkiss, October 31, 1864</title>
+            <title level="m"/>
+            <title type="sort">augusta county jedediah hotchkiss to sara a hotchkiss, october 31 1864</title>
+            <author>Jedediah Hotchkiss</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>2 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Jedediah Hotchkiss Collection, Reel 4, Manuscripts
+       Division, Library of Congress, Washington, D. C.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Congress, Washington, D. C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1864-10-31">1864-10-31</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>African Americans, Slavery, Home Front, Women, Military Authority, Military Strategy</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A4102T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Hotchkiss writes to his wife about affairs at home, concerning the farm, servants and chores.
+     He also gives brief news about the army.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Sara A. Hotchkiss</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1864-10-31">Oct 31<hi rend="super">
+        <hi rend="underline">st</hi>
+      </hi> 1864</date>
+      <name type="place">New Market, Va.</name>
+     </dateline>
+     <salute>My <abbr expan="Dear">Dr</abbr> Wife:</salute>
+    </opener>
+
+    <p>I send William, he will tomorrow get to Mr. Hamilton's &amp; the next morning come home,
+     then you have him do what you wish to have do . . . put away your vegetables &amp;c
+     &amp;c -- let him find out from Mr. Heizer where to cut wood &amp; go &amp; cut for
+     about 4 or 5 days -- I want him to get back by the 10<hi rend="underline">
+      <hi rend="underline">
+       <hi rend="super">th</hi>
+      </hi>
+     </hi> of Nov. unless I write to the contrary. I have him ride up a horse that he can put into
+     pasture -- Mr. Geeding will let it run in his I suppose, or Dr. Wilson as it will not be more
+     than a week -- have him get the axe that Mr. <unclear>Euritt</unclear> fixed &amp; grind it
+     up he will reach home Wednesday morning, let him go to Mr. Hamilton's over next Sunday
+     &amp; then start for here direct on the 9<hi rend="underline">
+      <hi rend="super">th</hi>
+     </hi>. Did you charge Allie Hanger not to let the desks be cut? - Get the flour from all that I
+     named on the list I gave you -- I am trying to pay all up at Christmas -- glad you got
+     buckwheat -- I am very much pleased to know, by your letter, that you are succeeding so well in
+     getting things together -- Make the most of William's time you can <hi rend="underline"
+     >now</hi>, &amp; I hope, by &amp; by to come home myself with him &amp; get up a
+     full supply of wood for winter but he can cut up a lot now &amp; perhaps when I come with
+     him we can get the <abbr expan="Colored">Cold</abbr> man you spoke of to help &amp; <pb
+      n="2"/>haul up wood, with my own horses if I can do no other way. Mr. R's shirt fits only a
+     little too narrow in the back -- I send you a copy of Gen. Early's address to the army -- we
+     are getting well organized &amp; are prepared to meet any force that may come up -- we have
+     been reinforced by some Cavalry from the S. W. &amp; all things wear a cheerful aspect -- I
+     do not think there is any idea of evacuating the Valley -- Of course an army could be subsisted
+     as well near Staunton as any where else, as there is <abbr expan="Railroad">R. R.</abbr>
+     communication -- . Send my towel, hair brush, &amp; white blanket by <abbr expan="William"
+      >Wm</abbr> -- I hope my Saddle bags have gotten home -- send them back by <abbr
+      expan="William">Wm</abbr>. Maj. Green's things, bed &amp; carpet bag were sent to Maj.
+     Bell -- &amp; he was to send them out. I do not know what became of them -- I hope they are
+     safe. I will provide a blanket for Mary &amp; think I can get shoes, what is her no: -- I
+     shall yet have a chance to get the gloves for Miss Kate, I think -- Have my coat turned. I
+     shall draw pay tomorrow &amp; will send you some money -- Write soon -- I will write again
+     in a day or so. All quiet. Love &amp; blessings for you all -- </p>
+
+    <closer>
+     <salute>Your <abbr expan="affectionate">aff</abbr> husband</salute>
+     <signed>Jed. Hotchkiss</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

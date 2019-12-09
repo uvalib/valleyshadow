@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+
+<?dlps id="A0100"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A0100">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Charles B. Carter to Eliza Carter, April 26,
+     1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county charles b carter to eliza carter, april 26 1862</title>
+        <author>Carter, Charles B.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Julie Beagle</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Julie Beagle</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A0100</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:501793</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Charles B. Carter to Eliza Carter, April 26, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta county charles b carter to eliza carter, april 26 1862</title>
+            <author>Charles B. Carter</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>2 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Camp Chase Papers, Virginia Historical Society,
+       Mss3 C1505a</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Virginia Historical Society, Richmond, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1862-04-26">1862-04-26</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Prisons/Prisoners, Home Front, Family</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2002-07">July 2002 </date>
+        <respStmt>
+          <resp/>
+          <name>Desi Hopkins</name>
+        </respStmt>
+        <item>Proofread against original; corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A0100T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Carter writes to his wife about life in the Camp Chase Prison. He spends his time making
+     crafts to sell, and is trying to send the money home.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     M<hi rend="super">rs</hi> Eliza Carter, Waynesboro Augusta County Virginia (via norfolk va
+     under flag of truce)<lb/> Charles B Carter Prisoner of War at Camp Chase prison Ohio
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1862-04-26">AP 26 1862</date>
+      <name type="place">Camp Chase Columbus Ohio</name>
+     </dateline>
+     <salute>Dear Wife et</salute>
+    </opener>
+
+    <p>It is with <orig reg="much">mutch </orig><orig reg="pleasure">plesure</orig> that I <orig
+      reg="seat">seate</orig> my self this morning to <orig reg="write">rite</orig> you a few lines
+     hoping that <orig reg="they">the </orig>may find you and the <orig reg="two">too</orig>
+     <orig reg="little">litel </orig> children and co well <unclear>thear</unclear>
+     <unclear>leanes</unclear> men in Doing good <orig reg="health">helth</orig> and a doing the
+     same I get a plenty of <orig reg="Everything">Evrything</orig> to <orig reg="eat">eate</orig>
+     and <unclear>weir</unclear> and I am treated well By All of the <unclear>Col lens</unclear> and
+      <orig reg="Captains">Captines</orig> and I can walk all <orig reg="around">a Ron</orig> the
+     prison it has all <unclear>Hanes</unclear> and <unclear>Lids</unclear> of it and it has A <del
+      hand="h1"/> of ground in Lids of it and We Can Play all kinds of games often <del rend="none" hand="h1"/>
+     of the Time <orig reg="But">Bute</orig> I <orig reg="don't">donte</orig> have <orig reg="any"
+      >eney</orig> time to <del rend="none" hand="h1"/> I have <orig reg="been">Bin</orig> at <orig reg="work"
+      >worke</orig> and making a finger rings and <unclear>Bes Bines</unclear> and Sleeve <orig
+      reg="Buttons">Butons</orig> I have <orig reg="too">to</orig>
+     <orig reg="much">mutch</orig> to <orig reg="do">Doe</orig> I had to <orig reg="work"
+     >worke</orig> this morning and you know that I dont like to <orig reg="work">worke</orig> on
+     Sunday I Can sell all I can make I sell the <unclear>Dress Pins</unclear> at 2 <abbr
+      expan="cents">cts</abbr> ans the Ring at <unclear>6</unclear>
+     <abbr expan="cents">cts</abbr> and the Sleeve <orig reg="Buttons">Butons</orig> at <unclear>1
+      cts</unclear> and I can sell them faster than I can make them I have so <orig reg="many"
+     >meney</orig> other Rings to <unclear>start</unclear> Lets in I dont have <orig reg="much"
+      >mutch</orig> time to make <orig reg="many">meney</orig> for my self I make from 8 to 9
+      <unclear>charmes</unclear> per <orig reg="week">weake</orig> and I wish I Could send you the
+     money for I know that you <orig reg="need">neade</orig> it <orig reg="but">bute </orig>I <orig
+      reg="don't">donte</orig> know how <orig reg="long">longe</orig> I can have to <orig reg="work"
+      >worke</orig> as <orig reg="we">wea</orig> have the Small <unclear>por</unclear> in the Prison
+     this was in men taken <orig reg="out">oute</orig> of the Prison <orig reg="yesterday"
+     >yestidday</orig> and there are somore <unclear>Maer</unclear> a taking it and I <orig
+      reg="don't">donte</orig> know how long it may Be before I may take it <orig reg="But">Bute</orig>
+     <unclear>This air</unclear> some busy good I hear and <orig reg="they">the</orig>
+     <orig reg="are">air</orig> many <orig reg="attending">attenting</orig> to all of the sick <orig
+      reg="they">tha</orig>
+     <orig reg="do">doe</orig> the <unclear>busy </unclear>
+     <orig reg="best">Bect</orig> for all the Con you <orig reg="need">neade</orig> not be
+      <unclear>hearing</unclear>
+     <orig reg="about">a Boute</orig> men for I am in Prison <del rend="none" hand="h1"/>
+     <orig reg="by">Bye</orig> my self <orig reg="either">eather </orig><orig reg="there">thir</orig>
+     <orig reg="are">aire</orig> a few of of them <orig reg="here">hear</orig> with <orig reg="me"
+      >mea</orig> too all I have to fear is you and the <orig reg="two">too</orig> children But you
+     must stay at Home and <orig reg="do">Doe</orig> the <orig reg="best">Bect</orig> you can for
+     your self + Children I want to <orig reg="see">sea</orig> you busy <unclear>Bast</unclear> on
+     the Children too</p>
+
+    <closer>
+     <salute>good Bye</salute>
+     <signed>C. B. Carter</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

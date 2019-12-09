@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+
+<?dlps id="A8010"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="A8010">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: William Kinney to Alexander H. H.
+                    Stuart, October 24, 1857</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county william kinney to alexander h h stuart, october 24 1857</title>
+        <author>Kinney, William</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Andrew J. Torget</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A8010</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502662</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: William Kinney to Alexander H. H. Stuart, October 24,
+                            1857</title>
+            <title level="m"/>
+            <title type="sort">augusta county william kinney to alexander h h stuart, october 24 1857</title>
+            <author>William Kinney</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Wm. Kinney to Alexander H. H.
+                            Stuart, 24 October 1857, Papers of Alexander H. H. Stuart and the
+                            Related Stuart and Baldwin Families, 1776-1878, Accession #228-a, Box 3,
+                            Special Collections Department, University of Virginia Library,
+                            Charlottesville, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1857-10-24">1857-10-24</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>State Government, National Government</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A8010T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Kinney reports Virginia state senate race results and asks Stuart to write a few
+                    essays for publication on "the subject of the Tariff."</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1857-10-24">24 Oct. 57</date>
+                        <name type="place">Staunton</name>
+                    </dateline>
+                    <salute>Dear Stuart</salute>
+                </opener>
+
+                <p>Our senate race came off yesterday and excited but little interest here or in the
+                    county, so little, that we have heard the result but from one <orig
+                        reg="percent">precenct</orig> (<orig reg="though">th'o</orig> it is now,
+                    12:06, am)<lb/>The vote at <abbr expan="Court">Ct</abbr> House was as
+                    follows<lb/> Sheffey for senate.. 199 Mt. Sidney....44<lb/> Baylor " ".. 141..."
+                    23<lb/> Peyton 162......35<lb/> Imboden 141.....14<lb/> Walker 130.....69<lb/>
+                    Harris 118......14<lb/> Abney 127......24<lb/> Report says Peyton was ahead at
+                    Waynesboro @ 4 O'Clock, the impression seems to be that Sheffey, Peyton
+                    &amp; Walker are elected, <orig reg="though">th'o</orig> I think it by no
+                    means certain, you see Baylor <del rend="none" hand="h1"/> Sheffey at <abbr expan="Court"
+                    >Ct</abbr> House close, the reason was, that Sheffey could not command the
+                    entire Whig vote. This is a severe blow upon Ichabod <unclear>alapod</unclear>
+                    Imboden if any two tolerably popular Whigs had run against him, he would have
+                    been distanced--he is very distasteful to the leading Whigs of the County, and
+                    the Charlottesville Convention did a very silly thing in making him the Whig
+                    elector for this Senatorial District, I fear he is not able to cope with
+                        Skinner<pb n="2"/> And Summers ought to be here before elections to heal the
+                    distractions or devisions in the Whig ranks and make up for Imbodens
+                    deficiencies--he is now stumping it little <del rend="none" hand="h1"/>. Banks was here
+                    yesterday and says his prospects there are very encouraging--He named several
+                    conspicuous Democrats in that region that would support him in preference to <hi
+                        rend="underline">little</hi> Iam--Summers has promised us he would try and
+                    be here &amp; address this People before the election. Hozd's friends in
+                    South West are a good deal chafed <unclear>I suspect</unclear> at Iam's beating
+                    him in the convention here.</p>
+                <p>My main object however in writing you now is, to suggest the propriety of some
+                    articles being prepared at Washington by yourself or some one who understands
+                    the subject appealing to the young Farmers &amp; Mechanics on the subject of
+                    the Tariff, which indeed is now the most important issue between the parties,
+                    putting the Whigs in contrast with the pauper laborer of Europe, I think a few
+                    well written plain essays on that subject would have a powerful effect. The
+                    Democrats here are making strong appeal; to the new voters, and nothing it seems
+                    to me is doing to counter act their efforts. I am so harrassed with family cases
+                    and anxieties, that really my mind is in such a condition that I am almost unfit
+                    for business<pb n="3"/> and that I shall be very much occupied all next month
+                        <del rend="none" hand="h1"/> Circuit Court. I <del rend="none" hand="h1"/> to find <del rend="none" hand="h1"/>
+                    Jno Davis <del rend="none" hand="h1"/> he made in Senate of U S States contrasting the
+                    pauper laborers of Europe with the free white laborer of U S States with a view
+                    of publishing some extracts from it, but could not find it.</p>
+                <p>We have delightful weather now. I saw your little daughters day before yesterday
+                    &amp; Mrs Baldwin passed my office about an hour since, so I presume all are
+                    well.</p>
+                <p>Excuse my hasty scrawl and let me hear from you as <orig reg="often">of't</orig>
+                    as you can &amp; believe me to be</p>
+
+                <closer>
+                    <salute>With all respect &amp; esteem<lb/>Truly <orig reg="your">yr</orig>
+                        friend</salute>
+                    <signed>Wm Kinney</signed>
+                    <seg type="postscript">P.S. <del rend="none" hand="h1"/>
+                        <del rend="none" hand="h1"/>
+                        <del rend="none" hand="h1"/> Chapman say to him <del rend="none" hand="h1"/> write to him as soon as
+                        Mr Craig, <del rend="none" hand="h1"/> from Nelson, which he is <del rend="none" hand="h1"/> to do
+                        by <del rend="none" hand="h1"/>. My respects Mrs S. by <del rend="none" hand="h1"/></seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

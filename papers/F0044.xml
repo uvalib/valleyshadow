@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0044"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="F0044">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Bob Taggart to Captain John
+                    Taggart, September [?], 1861</title>
+        <title type="sort">franklin county bob taggart to captain john taggart, september 1861</title>
+        <author>Taggart, Bob </author>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amy Murrell </name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Institute for Advanced Technology in the Humanities </publisher>
+                <publisher>University of Virginia </publisher>
+                <pubPlace>Charlottesville, Va. </pubPlace>
+                <idno type="VCDH">F0044</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1997 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved. </p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2/ </p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1997 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1997">1997 </date>
+            <idno type="uva-pid">uva-lib:501219</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War. </p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note>
+                    <p>Much of the original letter has faded.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Bob Taggart to Captain John Taggart, September [?],
+                            1861</title>
+            <title type="sort">franklin county bob taggart to captain john taggart, september 1861</title>
+            <author>Bob Taggart</author>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <publicationStmt>
+                        <publisher> </publisher>
+                        <pubPlace> </pubPlace>
+                        <date value=""> </date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p>Source copy consulted: Taggart Letters, Microfilm MG-132, Civil War
+                            Material, Misc. Diaries and Letters, Pennsylvania Historical and Museum
+                            Commission, Harrisburg, Pennsylvania. </p>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Pennsylvania Historical and Museum Commission, Harrisburg, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1861-09">1861-09-00 </date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Family, National Government, Troop Movement </term>
+                    <term>Regiment: 9th Pa. Res. </term>
+                    <term>Company: </term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value="2000">Summer 2000</date>
+                <respStmt>
+                    <resp/>
+                    <name>Amy Voorhees</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="F0044T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Taggart describes the effort to protect Washington from any Confederate attack
+                    and speculates on the possibility of the war ending through compromise.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Captain John Taggart, 9th Penn. Reserve Infantry</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1861-09"><abbr expan="September">Sept.</abbr> 1861 </date>
+                        <name type="place">Camp <unclear>Senally </unclear></name>
+                    </dateline>
+                    <salute>
+                        <hi rend="underline">Dear</hi>
+                        <hi rend="underline">John</hi>
+                    </salute>
+                </opener>
+                <p>Your kind favor of the 26<hi rend="super">th</hi> came to hand yesterday and that
+                    of the 21<hi rend="super">st</hi> today. With the duties of the day being over,
+                    I will proceed to answer them. We camped out on "picket" Saturday evening and
+                    the weather being beautiful we had quite a pleasant time. Nothing of interest
+                    transpired during the stay. Such excursions after a week's stay in Camp <del
+                        hand="h1"/> the men very much, consequently they are always ready to travel
+                    the distance from Camp to the place where we are guarding stationed is about
+                    three miles and coming home we started and continued the entire road at a
+                    "double quick" which gave us all a good <del rend="none" hand="h1"/>.</p>
+
+                <p>News of the recent glorious victory at <del rend="none" hand="h1"/> reached us last evening.
+                        <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> every <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/>. It <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> all off to the defeat of "Bull's Run" <del rend="none" hand="h1"/> shows
+                    well for the military skill of General Butler and Commander <del rend="none" hand="h1"/>.
+                        What<pb n="2"/>
+                    <orig reg="time">time</orig> matters will now take I cannot say but would <hi
+                        rend="underline">not</hi> like to agree with you on the opinion that
+                    Washington is secure from attack. When I say that I would <hi rend="underline"
+                        >not like to agree</hi>, I don't mean it. I simply meant that we differ in
+                    opinion. It is evident that the administration does not intend to act solely on
+                    the defensive, and will wait an attack on the Capitol. Everything being nearly
+                    prepared it seems the purpose to <hi rend="underline"> attack the rebels</hi> at
+                    their <del rend="none" hand="h1"/> and thus withdraw their forces from their strongholds in
+                    Virginia. Davis &amp; Co. seeing this and knowing their force is not
+                    sufficient to be divided in such a manner as to protect the Atlantic and Gulf
+                    Coasts and between borders of their Confederacy, may become desperate and make
+                    one fear for life or death of the national Capitol. But we are ready for them
+                    now there is sufficient force here to meet any that may come to attack. Besides,
+                    we <del rend="none" hand="h1"/> all aroused <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> up, and once finished it is the general <del rend="none" hand="h1"/> that
+                    the majority of the troops concentrated here will be <del rend="none" hand="h1"/> to
+                    different points South and West leaving only sufficient to protect the Capitol.
+                    Time will <del rend="none" hand="h1"/> all things<pb n="2"/>.</p>
+
+                <p>Allow me to congratulate you on the recent addition to the family, and express a
+                    fervent wish to the youngster may long live to be <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> to its parent as they will prove to him. I suppose <del
+                        hand="h1"/>
+                    <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> "Uncle Bob" that he will be pronounced a good looking chap and
+                        <del rend="none" hand="h1"/> to <del rend="none" hand="h1"/> the name. I am glad to know that
+                    Charles is gotten better, and hope that he may be free from any more such
+                    attacks. </p>
+
+                <p>So Robert <del rend="none" hand="h1"/> thinks the present difficulty might be settled by some
+                    "Honorable Compromise." Well sure I think there must <del rend="none" hand="h1"/> in a
+                    settlement of the present <del rend="none" hand="h1"/> and yet, if the vote was put to them
+                    compromise or no compromise, there would <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> every Camp over which the Federal <del rend="none" hand="h1"/> now runs a
+                        <del rend="none" hand="h1"/> No! I would like to have been there to see Robert --
+                    &amp; family as <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> friends John <del rend="none" hand="h1"/> but cannot possible satisfy that
+                    desire.</p>
+
+                <p>I didn't think Sam would start so soon for Washington, but hope he may have a
+                    pleasant and profitable <pb n="3"/>time. Did he go out to Woodville before he
+                    started to school?</p>
+
+                <p>I am sorry George and Ben G. did not get into the High School. I know Ben was
+                    qualified for admission last winter.</p>
+
+                <p>My love to all the family. Respects to <orig reg="inquiring">enquiring</orig>
+                    friends </p>
+                <closer>
+                    <salute>Yours Fraternally </salute>
+                    <signed>Bob </signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

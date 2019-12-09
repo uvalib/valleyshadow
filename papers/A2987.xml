@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2987"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A2987">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: William F. Brand to Amanda C. Armentrout,
+                    August 19, 1864</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta william f brand to amanda c armentrout, august 19 1864</title>
+        <author>Brand, William F.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Mary Elizabeth McCaskill</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A2987</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502157</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: William F. Brand to Amanda C. Armentrout, August 19, 1864</title>
+            <title level="m"/>
+            <title type="sort">augusta william f brand to amanda c armentrout, august 19 1864</title>
+            <author>William F. Brand</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William F. Brand Papers</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1864-08-19">1864-08-19</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Troop Movement, Military Authority, Economy, Death/Casualties</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A2987T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>William writes to Kate of troop movements, including his current camp near Bunker
+                    Hill, the health of friends in the army, and his march through the Valley where
+                    the Yankees had burned so many crops.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Miss Kate Armentrout<lb/>Greeneville<lb/>Augusta County<lb/>Virginia
+                    <name type="recipient">Miss Kate Armentrout</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1864-08-19">August 19th 1864</date>
+                        <name type="place">Camp Stonewall</name>
+                    </dateline>
+                    <salute/>
+                </opener>
+
+                <p>As I have a few moments after helping cook our rations I hasten to drop you a few
+                    lines knowing you will be <orig reg="anxious">ancious</orig> to hear from me. I
+                    arrived <orig reg="safely">safly</orig> in camp the 15th. found all the boys
+                    well; They <orig reg="were">ware</orig> all camped in line of battle at
+                    Fishershill above Strausburg. We had a fine commanding position &amp; well
+                    fortified: The <orig reg="enemy">enimy</orig> thought it prudent to make a <orig
+                        reg="retrograde">retrogade</orig>
+                    <orig reg="movement">moovment</orig> &amp; commenced retreating <pb n="2"
+                    />&amp; had a slight engagement in the <orig reg="evening">eavning</orig>
+                    near Winchester. Our Brigade never got close enough to fire at the Yanks; Some
+                    of <orig reg="their">thare</orig> leaden messengers came <orig
+                        reg="unpleasantly">unplesantly</orig> near us. The <orig reg="enemy"
+                    >enimy</orig> was reported to have a large army from 40 to 50 thousand. We have
+                    been reinforced by one Division of Longstreets corps &amp; two Brigade of
+                    F.H. Lee <orig reg="cavalry">cavilry</orig>. The <orig reg="enemy">enimy</orig>
+                    <orig reg="destroyed">distroyed</orig> nearly the entire wheat crop from
+                    Winchester to Strausburg, burned <orig reg="many">may</orig> barns. We are now
+                    lying in the woods near Bunkers hill, ten miles below Winchester have orders to
+                    be ready to <orig reg="move">moove</orig> at any moment none of us <orig
+                        reg="know">no</orig>
+                    <orig reg="which">wich</orig> way we will <orig reg="move">moove</orig> next
+                    some think in to Maryland I had a fine time coming down the valley; <orig
+                        reg="I've">Ive</orig> come down the back way; <orig reg="were">ware</orig>
+                    treated kindly at many <orig reg="places">plases</orig> by the <orig reg="Dutch"
+                        >duch</orig> of <orig reg="Rockingham">Rockinham</orig> &amp; <orig
+                        reg="Shenandoah">Shanandoor</orig>; all the objections I had to the girls
+                    they <orig reg="were">ware</orig> all barefooted &amp; as I thought awkward
+                        <pb n="3"/>in <orig reg="their">thare</orig> manners; They would commence
+                    talking <orig reg="Dutch">duch</orig> in our <orig reg="presence"
+                    >presance</orig>, often I thought they might be talking about me. None that I
+                    saw could I think half as much of as my -- I am sure. Do not censure me for not
+                    writing sooner I <orig reg="fully">fooly</orig> intended writing the day after I
+                    got to camp but was sent to the ordinance wagon &amp; coming back to camp I
+                        <orig reg="stopped">stoped</orig> at a <orig reg="Battery">Batery</orig>
+                    &amp; found my cousin R. Brand &amp; stayed nearly all day with him; he
+                    is a nice young man; I think you would know him he is still <orig
+                        reg="redheaded">readheaded</orig> &amp; freckles in his face. For a few
+                    day after leaving I think I was a little low spirited probably you can account
+                    for it I <orig reg="don't">donnt</orig> think it was leaving Lottie; though her
+                    company was very agreeable. Since I have got with the boys I have been in fine
+                    spirits &amp; have been enjoying the best <pb n="4"/>of health, I hope <orig
+                        reg="these">theese</orig> lines may find you enjoying the same blessing Jake
+                    is enjoying fine health. Abe &amp; Hunter the same Abe is now by my side
+                    writing to his better half Be <orig reg="cheerful">cheerfull</orig> &amp;
+                        <orig reg="happy">hapy</orig> &amp; pray that I may be spared to return
+                    to thee once more Often I think I would not have nothing to live for if it was
+                    not for thee; It is an <orig reg="evil">eavill</orig> thought but still it will
+                    arise in my wandering thoughts I must soon close as it is getting so dark I can
+                    hardly see how to write; My love to all Write soon, oh how glad I would be to
+                    get a letter from you tomorrow excuse bad writing &amp; all mistakes I will
+                    write again before long from one that has wished <orig reg="thee">the</orig>
+                    <orig reg="happiness">hapiness</orig> for years</p>
+
+                <closer>
+                    <salute/>
+                    <signed>Good bye</signed>
+                    <seg type="postscript">W</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

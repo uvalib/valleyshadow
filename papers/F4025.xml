@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+
+<?dlps id="F4025"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F4025">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Alexander K. McClure to Eli Slifer,
+                    February 27, 1851</title>
+        <title type="sort">franklin county alexander k mcclure to eli slifer, february 27 1851</title>
+        <author>McClure, Alexander K.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F4025</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501577</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Alexander K. McClure to Eli Slifer, February 27,
+                            1851</title>
+            <title level="m"/>
+            <title type="sort">franklin county alexander k mcclure to eli slifer, february 27 1851</title>
+            <author>Alexander K. McClure</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Eli Slifer Papers, 1850-1891, Mss
+                            Slifer-Dill, Special Collections, Waidner-Spahr Library, Dickenson
+                            College, Carlisle, Pa.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Waidner-Spahr Library, Dickinson College, Carlisle, Pa.</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1851-02-27">1851-02-27</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>State Government</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F4025T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>McClure's lengthy letter speaks in detail about passing a licensing regulation
+                    bill, but also metions a developing split in the Whig party.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Sentinel Office
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1851-02-27"><orig reg="February">Feb</orig> 27th, 1851</date>
+                        <name type="place">Mifflintown</name>
+                    </dateline>
+                    <salute>Dear <orig reg="Colonel">Col</orig></salute>
+                </opener>
+
+                <p>Mr. Cooper informed me that <del rend="none" hand="h1"/> have some apprehensions relative to
+                    the propriety of legislating on the License question, without a formal
+                    expression of the popular will by petition or otherwise.</p>
+
+                <p>The reasons that induced the repeal of the general law <unclear/> as it related
+                    to this county. I have before stated, and that statement is substantially true.
+                    It was not done because there was any popular manifestation against it.</p>
+
+                <p>If petitions are necessary, they can be furnished by the <unclear>cads</unclear>,
+                    but the short time allowed if we wish to get the law in operation this spring,
+                    would prevent anything like a general expression of the people. Rest assured it
+                    was not because we feared to put petitions among the people.</p>
+
+                <p>To make the law operative when Licenses are granted at the <unclear>may</unclear>
+                    court, the bill should be passed by the first week, or the middle of March <pb
+                        n="2"/>at the farthest; and the matter was not taken in hand until our
+                    February court. A number of petitions were then presented for licenses and
+                    several were illegal, but owing to the fact that but few of the citizens in the
+                    respective <unclear/> knew that applications would then be made, and knew
+                    nothing respecting who were the <unclear/> remonstrance was impossible. You are
+                    not aware perhaps that both our February and May courts grant licenses and
+                    applications may be made at one or the other of the towns, as petitioners may
+                    choose. This can only be remedied by requiring <hi rend="underline">one</hi>
+                    court to grant all licenses for the year, or by requiring the publication of the
+                    petitions. Of the two you cannot be long in deciding which would best <unclear/>
+                    the iterests of the <unclear>public</unclear> and afford the best check to
+                    illegal licenses.</p>
+
+                <p>I know also that both in Union and Mifflin counties the law we ask is in
+                    operation, and infered that its practicality even necessity would be obvious to
+                    both you and <unclear>friend</unclear> Cunningham.</p>
+
+                <p>I trust that under the circumstances you will hasten the passage of the bill. By
+                    so doing you will be almost universally sustained by the people, and will also
+                    be heartily defended by both the Papers here.</p>
+
+                <p>As I said before, out Court <pb n="3"/>meets in May, and the middle of the March
+                    should find the bill passed to be carried into effect this Spring. Cooper and I
+                    will have the landlords fully apprised of the matter, so that no complaints can
+                    be made, and as to any division of sentiment in reference to it among the
+                    people, I will agree to take the responsibility and <unclear>atter</unclear> all
+                    damages.</p>
+
+                <p>We have nothing special here, I see that Union has done the
+                    <unclear>thing</unclear> all right, though I fear the resolution of conciliation
+                    prepared by <unclear>Middlesworth</unclear> is hardly a fair representation of
+                    the sentiments of the leaders of the two factions. I had a letter from Woods
+                    containing a statement of the whole thing, from which I infer that there is a
+                    serious split in the party. I hope it may be healed before the next campaign
+                    opens.</p>
+
+                <p>I have not heard from friend Cunningham lately. I hope he is enjoying himself. I
+                    shall be sorry to leave so good a Whig out of our district next spring. I
+                    believe he moves to Huntington. Remember me to him, and secure his efforts to
+                    effect a speedy passage of the license bill.</p>
+
+                <p>I will be down one of these days.</p>
+
+                <closer>
+                    <salute>thine,</salute>
+                    <signed>
+                        <hi rend="underline">AK McClure</hi>
+                    </signed>
+                    <seg type="postscript">
+                        <name type="recipient"><orig reg="Colonel">Col</orig> Eli Slifer</name>
+                    </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

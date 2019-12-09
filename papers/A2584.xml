@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2584"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A2584">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Jedediah Hotchkiss to Nelson H. Hotchkiss,
+     November 12, 1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county jedediah hotchkiss to nelson h hotchkiss, november 12 1862</title>
+        <author>Hotchkiss, Jedediah</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Rider</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Rider</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A2584</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:502073</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Jedediah Hotchkiss to Nelson H. Hotchkiss, November 12, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta county jedediah hotchkiss to nelson h hotchkiss, november 12 1862</title>
+            <author>Jedediah Hotchkiss</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>1 page</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Jedediah Hotchkiss Collection, Reel 4, Manuscripts
+       Division, Library of Congress, Washington, D.C.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>The only original available is a typed copy of the letter.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Congress, Washington, D. C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1862-11-12">1862-11-12</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Military Authority, Prisons/Prisoners, Agriculture</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A2584T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Hotchkiss describes his trip to the Cedar Run battlefield, current skirmishes and prisoners
+     taken, and the state of the surrounding countryside.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Nelson H. Hotchkiss</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1862-11-12">Wednesday <abbr expan="Morning">Morn.</abbr> Nov., 12., 1862</date>
+      <name type="place">Strasburg, Va.</name>
+     </dateline>
+     <salute>Dear Brother;-</salute>
+    </opener>
+
+    <p>I have only a few moments to write this morning before starting on to Winchester, where our
+     Head Quarters are, but I know you will expect something from me, so you shall have it. I have
+     been over the ridge to Culpeper <abbr expan="Court House">C.H.</abbr> to see Gen. Lee, and had
+     to come back by the way of New Market, a long circuit, but necessary for safety, as the enemy
+     was along the base of the Ridge and rapidly advancing, though I hear that they have fallen back
+     now. I was on the battlefield of Cedar Run, a portion of our army was encamped there. The
+     evidences of the hotly contested field are plain to be seen. I enquired for Grinnan at
+     Culpeper, and it was said he was in prison; for what or where I did not learn. I suppose he has
+     been taken by a conscript officer, as he has not been on duty since he got well. Our army, that
+     is Gen. Jackson's corps, is still in the lower end of the Valley, and I hope we may stay here,
+     as the best check we can have on any advance of the enemy. We are skirmishing occasionally near
+     the Blue Ridge, and we have taken a good many prisoners. 120 went up to Staunton a few days
+     ago, and there are some 150 here today. It is said the enemy has been destroying everything
+     before it, turning up the cornfodder in the fields, where they advanced in Loudon and Fauquier
+     Co's. I do not know how true it is. I hope to come up soon. I must rest my horse. I wrote to
+     you to keep my coat and boots until I sent or came. I hope you have got them, especially the
+     boots. The crop of corn is fearfully short where I have been, and not much wheat sown, but I
+     hope there will be enough. Buy some potatoes if you can. This is charming weather. I hope you
+     have been able to seed a good deal. Put in all you can. My love to all the family. Write to me. </p>
+
+    <closer>
+     <salute>Your <abbr expan="affectionate">aff.</abbr> brother,</salute>
+     <signed>Jed. Hotchkiss</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

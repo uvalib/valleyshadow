@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0656"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="F0656">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Samuel W. North to [unknown
+                    recipient], September 8, [?]</title>
+        <title type="sort">franklin county samuel w north to unknown recipient, september 8</title>
+        <author>North, Samuel W. </author>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Sally Henninger </name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">6</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Institute for Advanced Technology in the Humanities </publisher>
+                <publisher>University of Virginia </publisher>
+                <pubPlace>Charlottesville, Va. </pubPlace>
+                <idno type="VCDH">F0656</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1997 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved. </p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1997 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1997">1997 </date>
+            <idno type="uva-pid">uva-lib:501319</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War </p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note> </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Samuel W. North to [unknown recipient], September 8,
+                            [?]</title>
+            <title type="sort">franklin county samuel w north to unknown recipient, september 8</title>
+            <author>Samuel W. North</author>
+            <respStmt>
+                            <resp> </resp>
+                            <name> </name>
+                        </respStmt>
+          </titleStmt>
+                    <publicationStmt>
+                        <publisher> </publisher>
+                        <pubPlace> </pubPlace>
+                        <date value=""> </date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p>Source copy consulted: Samuel W. North Letters, Company C, 126th
+                            Pennsylvania Infantry, Civil War Miscellaneous Collection, Archives of
+                            the U.S. Military History Institute, Carlisle Barracks, Pennsylvania.
+                        </p>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from U. S. Army Military History Institute, Carlisle Barracks, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="-09-08">xxxx-09-08 </date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Church/Religious Activity, Military Strategy, Troop Movement</term>
+                    <term>Regiment: 126th Pa. </term>
+                    <term>Company: C </term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value="2000">Summer 2000</date>
+                <respStmt>
+                    <resp/>
+                    <name>Amy Voorhees</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="F0656T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>North writes about hard marching and drinking contaminated water. He also
+                    comments on the strong line protecting Washington.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">unknown</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="-09-08">Sept 8th </date>
+                        <name type="place">Arlington Heights </name>
+                    </dateline>
+                    <salute> </salute>
+                </opener>
+
+                <p>we have had a very hard march yesterday (sunday). we were marched at a <orig
+                        reg="forced">forsed</orig> march all forenoon towards the <del hand="h1"
+                        >long</del> chain bridge and the general impression was that we were going
+                    into Maryland but a dinnertime we stopped got our dinner rested a little and
+                    marched back this far again. we marched as fast back as we did forward. about
+                    half the <abbr expan="regiment">regt</abbr> were lying along the road. our
+                    company numbered 42 men but I think they are all here now. some of the men threw
+                    their blankets away and last night <orig reg="someone">some one</orig>
+                    <orig reg="borrowed">borowed</orig> my blanket while I was at preaching. he
+                    brought it back this morning. I lay down on part of Bruces
+                    <unclear>gum</unclear> blanket and put my<pb n="2"/> over coat on it was wet
+                    with dew this morning. the wagons have not come up yet and the impression is
+                    that we will go on. John Orth <orig reg="said">sayd</orig> tell pap to send his
+                    money on to Washington and if he gets any more soon send it too. we have a
+                    battery of 8 pieces in our brigade and some cavalry I have not seen the cavalry
+                    yet but it is a splendid battery. you need not fear that the
+                    <unclear>rebels</unclear> will ever get in to washington this way it is one
+                    continuous chain of forts and entrenchments. I did not <unclear>leave</unclear>
+                    the ranks yesterday some of the men filled their canteens with water in the
+                    stream where <orig reg="there">their</orig> were dead horses. I saw horses with
+                        <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/>.</p>
+
+                <closer>
+                    <salute> </salute>
+                    <signed>S. </signed>
+                    <seg type="postscript">write as soon and tell me about the rebels in Maryland
+                        and the way the people feel about it the troops are moving over as fast as
+                        they can. </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

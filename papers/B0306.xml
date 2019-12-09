@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+
+<?dlps id="B0306"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B0306">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: John A. McDonnell to John
+                    W. Jordan, May 4, 1868</title>
+        <title type="sort">freedmens bureau records john a mcdonnell to john w jordan, may 4 1868</title>
+        <author>McDonnell, John A.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B0306</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500648</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: John A. McDonnell to John W. Jordan, May
+                            4, 1868</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records john a mcdonnell to john w jordan, may 4 1868</title>
+            <author>John A. McDonnell</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Bureau of Refugees, Freedmen, and
+                            Abandoned Lands, Record Group 105, Box ****.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1868-05-04">1868-05-04</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Administration/Bureaucracy</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-06">June 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+                <item>Item checked against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B0306T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>McDonnell itemizes the office supplies being sent to Jordan, noting that Thomas
+                    Jackson, the previous agent, generally required more than was normally allotted.
+                    McDonnell also instructs Jordan on how to report its usage.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau <abbr expan="Refugees, Freedmen and Abandoned Lands">R.F. &amp;
+                        A.L.</abbr><lb/>Head <abbr expan="Quarters">Qrs.</abbr> Sub <abbr
+                            expan="District">Dist.</abbr>
+                    <abbr expan="Virginia">Va.</abbr>
+                    <name type="recipient"><abbr expan="Colonel">Col.</abbr> John W.
+                            Jordan<lb/><abbr expan="Assistant Sub Assistant Commissioner"
+                        >A.S.A.C.</abbr><lb/>Staunton, <abbr expan="Virginia">Va</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1868-05-04">May 4.68</date>
+                        <name type="place">Winchester,</name>
+                    </dateline>
+                    <salute>Colonel</salute>
+                </opener>
+
+                <p>I send you this day the following articles of Stationery, viz:<lb/> 10
+                        <unclear>Qrs</unclear> Letter Paper 300 envelopes <abbr expan="official"
+                        >offl</abbr><lb/> 1 Gross Sheet <unclear>Rems</unclear> 100 <abbr
+                        expan="envelopes">do</abbr> Letter<lb/> 3 <abbr expan="ounces">oz</abbr>
+                    Sealing wax 3 <unclear>Pcs</unclear>
+                    <abbr expan="official">off.</abbr> Tape<lb/> 3 Sheets Blotting Paper 2 Lead
+                    Pencils<lb/> 2 <unclear>Bts</unclear> Mucilage 2 <unclear>Bts</unclear> Red
+                    Ink<lb/> 2 Blank Books 4 <unclear>Bts</unclear> Black Ink </p>
+
+                <p>Mr Jackson found the allowance prescribed by the Bureau Officers Manual entirely
+                    insufficient for the transaction of his official duties. As you will probably
+                    require the same quantity, I have transmitted about what Mr. Jackson <pb n="2"
+                    />usually required for a three months supply. But as in my <abbr
+                        expan="Memoranda">Memr</abbr>: Property Return at the end of each month I am
+                    required to state the quantity consumed by each officer, you will please report
+                    at the end of each month the amount which will probably be <add hand="h1"
+                        place="inline">expended by you during</add> the ensuing month.</p>
+
+                <closer>
+                    <salute>Very Respectfully<lb/>Your <abbr expan="Obedient">Obedt</abbr>
+                        <abbr expan="Servant">St</abbr></salute>
+                    <signed>John A. McDonnell<lb/>Sub <abbr expan="Assistant Commissioner">Asst
+                        Comr</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

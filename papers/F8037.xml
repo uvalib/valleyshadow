@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+
+<?dlps id="F8037"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]> 
+
+
+<TEI.2 id="F8037">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: A. N. Rankin to Simon Cameron,
+                    September 16, 1856</title>
+        <title type="sort">franklin county a n rankin to simon cameron, september 16 1856</title>
+        <author>Rankin, A. N.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Andrew J. Torget</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F8037</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501675</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: A. N. Rankin to Simon Cameron, September 16, 1856</title>
+            <title level="m"/>
+            <title type="sort">franklin county a n rankin to simon cameron, september 16 1856</title>
+            <author>A. N. Rankin</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: A. N. Rankin to Simon Cameron, 16
+                            September 1856, Simon Cameron Papers, Dauphin County Historical Society,
+                            Reel 2</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Historical Society of Dauphin County, Harrisburg, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1856-09-16">1856-09-16</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>State Government, National Government</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F8037T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Rankin writes Cameron about local party politics.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>Franklin Repository and Transcript<lb/>Terms $2. Per Annum In Advance<lb/>Five
+                    Copies $9. Ten Copies $15.<lb/>Circulation 3,500. 
+                    <name type="recipient">A. N. Rankin<lb/><abbr expan="September">Sep.</abbr> 16,/<abbr expan="1856">56</abbr></name>     
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1856-09-16"><abbr expan="September">Sep.</abbr> 16 1856</date>
+                        <name type="place">Chambersburg <abbr expan="Pennsylvania">Pa.</abbr></name>
+                    </dateline>
+                    <salute><abbr expan="Honorable">Hon</abbr>
+                        <abbr expan="Simon">S.</abbr> Cameron<lb/>Dear Sir</salute>
+                </opener>
+
+                <p>I have been so much engaged since receiving your's that I could not till now find
+                    time to answer. I very well remember meeting with you in Harrisburg, but
+                    supposed you had entirely forgotten me.</p>
+                <p>I have been twice around<pb n="2"/>the County, once to secure the nomination of
+                    one of my partners, for this office of State Senator. And once to secure the
+                    right person to fill a vacancy that occurred in our Assembly Ticket.</p>
+                <p>In both instances I was successful.</p>
+                <p>Our county the Birthplace of Buchanan is truly the battle-ground<pb n="3"/>we
+                    will have to fight for every inch of ground we get.</p>
+                <p>I Love the American Party and especially the Democratic portion of it. I joined
+                    the order from the Democracy. We have gained between 2 and 5 hundred of that
+                    kind of votes and lost about 200 Catholic &amp; Foreign votes.</p>
+                <p>I will be in Harrisburg the last of this or the first of next week.</p>
+
+                <closer>
+                    <salute>Truly Your Friend</salute>
+                    <signed>A. N. Rankin</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

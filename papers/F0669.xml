@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0669"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="F0669">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Joseph B. Sweigart to His Cousin,
+                    July 24, 1862</title>
+        <title type="sort">franklin county joseph b sweigart to his cousin, july 24 1862</title>
+        <author>Sweigart, Joseph B. </author>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Sally Henninger </name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Institute for Advanced Technology in the Humanities </publisher>
+                <publisher>University of Virginia </publisher>
+                <pubPlace>Charlottesville, Va. </pubPlace>
+                <idno type="VCDH">F0669</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1997 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved. </p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2/personal.html </p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1997 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1997">1997 </date>
+            <idno type="uva-pid">uva-lib:501330</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow Project </p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note> </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Joseph B. Sweigart to His Cousin, July 24, 1862</title>
+            <title type="sort">franklin county joseph b sweigart to his cousin, july 24 1862</title>
+            <author> </author>
+            <respStmt>
+                            <resp> </resp>
+                            <name> </name>
+                        </respStmt>
+          </titleStmt>
+                    <publicationStmt>
+                        <publisher> </publisher>
+                        <pubPlace> </pubPlace>
+                        <date value=""> </date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p>Archives of the U.S. Military History Institute Carlisle Barracks PA;
+                            Harrisburg Civil War Round Table 1862; Charles W. Spire; Letter from
+                            Joseph B. Sweigart 107th Pennsylvania Infantry Regiment, July 24, 1862
+                        </p>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from U. S. Army Military History Institute, Carlisle Barracks, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1862-07-24">1862-07-24 </date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Family, Troop Movement </term>
+                    <term>Regiment: 107th Pa. </term>
+                    <term>Company: none </term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""> </date>
+                <respStmt>
+                    <resp> </resp>
+                    <name> </name>
+                </respStmt>
+                <item> </item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="F0669T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Sweigart tells his cousin that his regiment is close to Richmond and will attack
+                    it very soon. He also describes the atrocities that the rebels have committed
+                    and discusses a family matter.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Cousin</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1862-07-24">July the 24 1862 </date>
+                        <name type="place">
+                            <sic corr="Virginia">Verginia</sic>
+                        </name>
+                    </dateline>
+                    <salute>Dear <orig reg="Cousin">Cosin</orig>
+                    </salute>
+                </opener>
+                <p>I <orig reg="received">reseavd</orig> your <orig reg="civil">civill</orig>
+                    <orig reg="and">an</orig>
+                    <orig reg="welcome">welkom</orig>
+                    <orig reg="letter">lettar</orig> and was very glad <orig reg="indeed"
+                    >indead</orig> to hear from <orig reg="you all">yous aul</orig>. <orig reg="We"
+                        >Whe</orig> are within 30 miles of <orig reg="Richmond">Ritchma</orig> and
+                    expect to <orig reg="attack">atact</orig> the Rebels at <orig reg="Richmond"
+                        >Ritchmond</orig> in 4 or 5 <orig reg="days">dayes</orig>. i think <orig
+                        reg="there">their</orig> will be <orig reg="some">som</orig>
+                    <orig reg="fighting">fiting</orig>
+                    <orig reg="done">don</orig>
+                    <orig reg="there">their</orig> but our <orig reg="cause">cos</orig> is just. i
+                    must be done and <orig reg="am">an</orig> bound to <orig reg="see">se</orig> it
+                    through. the Rebels are <orig reg="worse">wors</orig>
+                    <orig reg="than">then</orig>
+                    <pb/> a set of <orig reg="heathens">heathren</orig>. they take our men and pin
+                    them up <orig reg="against">aganst</orig>
+                    <orig reg="trees">treas</orig> with their <orig reg="bayonettes">buynetts</orig>
+                    and fire upon our hospitals <orig reg="where">wheir</orig> the sick are. <orig
+                        reg="And">An</orig> they have fired on <orig reg="several">severails</orig>
+                    of our <orig reg="flags">flag</orig> of truth and <orig reg="when">whe</orig> it
+                    comes to that <unclear>
+                        <orig reg="roust">roust</orig>
+                    </unclear> i <orig reg="think">thik</orig> it is time to <orig reg="do">du</orig>
+                    <orig reg="something">somthig</orig> it <orig reg="raises">rais</orig> my <orig
+                        reg="blood">blud</orig>
+                    <orig reg="every">evry</orig> time i see <orig reg="such">sutch</orig> things. i
+                    have <orig reg="seen">seem</orig> more <orig reg="than">then</orig> i ever
+                    expect to see and more <orig reg="than">then</orig> ever i want to see again.
+                    general pope has <orig reg="given">gaven</orig> orders to take <orig reg="every"
+                        >evry</orig>
+                    <pb/> thing <orig reg="we">Whe</orig> want of the farmers and <orig reg="we"
+                    >whe</orig> will <orig reg="do">du</orig> so. i think the rebels will not get
+                        <orig reg="much">mutch</orig> on the ground. <orig reg="We">Whe</orig> have
+                        <orig reg="gone">went</orig> over that <unclear>
+                        <orig reg="ought to have been">ought of bean</orig>
+                    </unclear>
+                    <orig reg="done">dun</orig>
+                    <orig reg="sooner">suner</orig> and the rebels supply would not be so great when
+                    ever <orig reg="we">whe</orig> had to <unclear>
+                        <orig reg="return">retied</orig>
+                    </unclear> Why the rebels got their supplies by that is over and <orig
+                        reg="though">tho</orig> the war is not over yet and i <orig reg="think"
+                    >thik</orig> 1 year will not end it but i am bound to see it As far as i can.
+                    uncle david said that <orig reg="all">aul</orig> was <orig reg="right"
+                    >rite</orig>. he <orig reg="doesn't">doant</orig>
+                    <orig reg="think">thik</orig> hard <orig reg="at all">ataul</orig> of <unclear>
+                        <orig reg="you">youns</orig>
+                    </unclear>
+                    <orig reg="at all">ataul</orig>. he will lend you the money if he <orig
+                        reg="doesn't">doant</orig> come home till august. he <orig
+                        reg="has promised">is promist</orig> again that time his <orig
+                        reg="discharge">discharg</orig>. i am in a <orig reg="hurry">hury</orig>.
+                    you must excuse bad <orig reg="writing">riting</orig>. i can not <orig
+                        reg="write">rite</orig>
+                    <orig reg="much">mutch</orig> this time. i will <orig reg="write">rite</orig>
+                    more next time. <orig reg="write">rite</orig> soon. </p>
+                <closer>
+                    <salute> </salute>
+                    <signed>J. B. Sweigart </signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

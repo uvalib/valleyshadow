@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+
+<?dlps id="A4111"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+ <TEI.2 id="A4111">  
+ <teiHeader type="migrated">  
+  
+    <fileDesc>  
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Jedediah Hotchkiss to Sara A. Hotchkiss, June 6, 1870</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county jedediah hotchkiss to sara a hotchkiss, june 6 1870</title>
+        <author>Hotchkiss, Jedediah</author>
+        <editor/>
+        <respStmt>  
+          <resp>Creation of machine-readable version: </resp>  
+          <name>Lara Diefenderfer</name>  
+          <resp>Conversion to TEI.2-conformant markup:</resp>  
+          <name>Amy Rider</name>  
+        </respStmt>
+      </titleStmt>  
+  
+      <extent>ca. <num type="kilobytes">6</num>kilobytes</extent> 
+      <publicationStmt>  
+        <publisher>Virginia Center for Digital History</publisher>  
+        <pubPlace>Charlottesville, Virginia </pubPlace>  
+  
+        <idno type="VCDH">A4111</idno>  
+  
+        <!--
+ <availability>  
+ <p>Publicly accessible </p>  
+ <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>  
+ <p>Text and images (c) copyright 2001, by the Rector and Visitors of the 
+ University of Virginia</p>  
+ </availability>
+-->  
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>  
+        <idno type="uva-pid">uva-lib:502302</idno>
+      </publicationStmt>  
+      <seriesStmt> 
+        <p>The Valley of the Shadow: Two Communities in the American 
+ Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>  
+      <notesStmt>
+        <note/>
+      </notesStmt>  
+  
+      <sourceDesc>  
+        <biblFull>  
+          <titleStmt>
+            <title>Augusta County: Jedediah Hotchkiss to Sara A. Hotchkiss, June 6, 
+ 1870</title>
+            <title level="m"/>
+            <title type="sort">augusta county jedediah hotchkiss to sara a hotchkiss, june 6 1870</title>
+            <author>Jedediah Hotchkiss</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>  
+          <editionStmt>
+            <p/>
+          </editionStmt>  
+          <extent>2 pages</extent>  
+          <publicationStmt>  
+            <publisher/>  
+            <pubPlace/>  
+            <date value=""/> 
+            <idno type="callNo">Source copy consulted: Jedediah Hotchkiss Collection, 
+ Reel 4, Manuscripts Division, Library of Congress, Washington, D. C. 
+ </idno> 
+          </publicationStmt>  
+          <seriesStmt>
+            <p/>
+          </seriesStmt>  
+          <notesStmt>
+            <note/>
+          </notesStmt>  
+        </biblFull>  
+      </sourceDesc>  
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Congress, Washington, D. C.</p>
+      </projectDesc>
+    </encodingDesc>  
+  
+    <profileDesc>  
+      <creation>
+        <date value="1870-06-06">1870-06-06</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>  
+      <textClass>  
+        <keywords>  
+          <term>Military Authority, Arts/Leisure</term>  
+          <term>American Civil War</term> 
+        </keywords>  
+      </textClass>  
+    </profileDesc>  
+  
+    <revisionDesc>  
+      <change>  
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>  
+        <item/>  
+      </change>  
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>  
+ </teiHeader>  
+  
+ <text id="A4111T"> 
+ <front id="d2"> 
+ <div1 type="summary" id="d3"> 
+ <p>Hotchkiss describes to his family his office in Lexington, 
+ Virginia.</p>  
+ </div1>  
+ </front>  
+  
+ <body id="d4"> 
+ <div1 type="letter" id="d5"> 
+ <head> 
+ <name type="recipient">Sara A. Hotchkiss</name>  
+ </head> 
+  
+ <opener> 
+ <dateline> 
+ <date value="1870-06-06">Jun. 6<hi rend="super">th</hi> 
+ 1870</date> 
+  <name type="place">Lexington Va.</name>  
+ </dateline>  
+  
+ <salute>My Dear Ones at Home</salute>  
+ </opener>  
+  
+ <p>I know you are all looking for a letter from me and I avail myself of 
+ the first "spell" of letter writing to chat with you a few minutes -- 	I 
+ got here at 7 P.M. Monday -- had a very comfortable <orig 
+ reg="night">nite</orig>, considering the fact that it was coming to 
+ Lexington -- Fred Effinger was my fellow traveller <hi 
+ rend="underline">all</hi> the way &amp; he made himself very agreeable - 
+ - we joined "snacks" at Middlebrook &amp; I thereby kept the most of mine 
+ &amp; am "lunching" off it yet -- You can't imagine how good it tastes -- 
+ it has such a "home" flavor -- so different from the "hotel" flavor I am 
+ now <hi rend="underline">"enjoying"</hi> -- (as Ma would say) -- <abbr 
+ expan="though">tho'</abbr> the hotel here is very well kept &amp; things 
+ are in very good order -- I got to work today -- Gen. Lee was very kind 
+ &amp; had my office fixed up just as I said -- got a "Morning Glory" stove 
+ &amp; anthracite cover split bottomed chairs, a good large table <pb n="2"/> pro. tem. and he sent to Richmond for stuff for a new drawing board 
+ -- had a new window put in for more light, -- wash stand &amp; fixings 
+ &amp;c. and I have all "my traps" there and am very comfortable -- I go to 
+ work after breakfast -- normally 8 A.M. -- really 8 1/2 &amp; work until 3 
+ P.M. when I come to dinner -- then stroll about until dark &amp; then come 
+ to my room at the hotel to read &amp; write until bed time -- 11 or 12 
+ P.M. or sooner -- as the spirit moves -- I am availing myself of the 
+ college library to read some rare and valuable books that I have long 
+ desired to read -- I see the Richmond and N.Y. papers at Allen's but wish 
+ you would send me the Valley Virginian &amp; Spectator after you have read 
+ them, both in one wrapper for 2 cts. If the Co. Fair Spectator comes to 
+ the house please put them in my drawer so they will be together.  I have a 
+ fine large room at the hotel, fire place, carpet, bed on castors, lounge, 
+ bureau, wardrobe, table, <hi rend="underline">rocking chair</hi>, 
+ <hi rend="underline">arm chair</hi>, split bottom chair &amp; Windsor 
+ chair, wash stand &amp;c -- (room for me sometimes) I am almost over my 
+ cold -- hope you are too -- I sent a boy up the day I left -- not knowing 
+ but you might want him - did you?  I gave some of my oranges to Mrs. Lee 
+ &amp; some to Mrs. Campbell -- kept 3 &amp; gave Allen one. -- I have not 
+ been to see anyone -- Altmanns called to see me -- Write often &amp; tell 
+ me how you get along -- I shall write again soon.  -- 10 P.M. Good night 
+ &amp; God bless &amp; keep you -- 
+ </p> 
+  
+ <closer> 
+ <salute>Affectionately</salute>  
+ <signed>Jed. Hotchkiss</signed>  
+ <seg type="postscript">All write soon -- Allen gets the "Register" -- 
+ </seg>   
+ </closer>  
+ </div1>  
+ </body>  
+ </text>  
+ </TEI.2> 

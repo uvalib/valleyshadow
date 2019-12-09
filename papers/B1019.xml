@@ -1,0 +1,249 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1019"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="B1019">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: Thomas P. Jackson to
+                    Orlando Brown, December 31, 1867</title>
+        <title type="sort">freedmens bureau records thomas p jackson to orlando brown, december 31 1867</title>
+        <author>Jackson, Thomas P.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">9</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1019</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500887</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: Thomas P. Jackson to Orlando Brown,
+                            December 31, 1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records thomas p jackson to orlando brown, december 31 1867</title>
+            <author>Thomas P. Jackson</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 48.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-12-31">1867-12-31</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Aid/Relief, Community Values/Local Behavior, Employment/Labor, Legal
+                        System, Race Relations, Violence/Crime</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-05">May, 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1019T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Jackson's report mentions an inflamatory comment allegedly made by a local
+                    magistrate, contrasts the sobriety of blacks around the Christmas holiday to
+                    "the brawling and drunkeness of the common white men," and describes efforts to
+                    procure aid for the poor.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau of Refugees, Freedmen and Abandoned Lands,<lb/>Office 4th Division, 9th
+                    Sub-District, Virginia.
+                    <name type="recipient"><abbr expan="Brigadier">Brig</abbr>
+                        <abbr expan="General">Genl</abbr> O. Brown<lb/><abbr expan="Assistant">Asst</abbr>
+                        <abbr expan="Commissioner">Com<hi rend="super">r</hi></abbr>
+                        <abbr expan="District">Dist.</abbr> of <abbr expan="Virginia"
+                        >Va.</abbr>Richmond (Through <abbr expan="Headquarters">H<hi rend="super"
+                            >d</hi>Qrs</abbr> 9 <abbr expan="Sub-District">Sub. Dist.</abbr>
+                        <abbr expan="Virginia">Va</abbr>)</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-12-31"><abbr expan="December">Dec</abbr> 31<hi
+                                rend="super">st</hi> 1867</date>
+                        <name type="place">Staunton, <abbr expan="Virginia">Va.</abbr></name>
+                    </dateline>
+                    <salute>General</salute>
+                </opener>
+
+                <p>In compliance with the requirements of <abbr expan="Circular">C.</abbr>
+                    <abbr expan="Order">O.</abbr>
+                    <abbr expan="Number">No.</abbr> 6 <abbr
+                        expan="Bureau of Refugees, Freedmen and Abandoned Lands">B.R.F.&amp;A.L.</abbr>
+                    <abbr expan="Series">S.</abbr> 1866 I have the honor to submit the following
+                    report of Bureau affairs in the 4th <abbr expan="Division">Div</abbr> 9 <abbr
+                        expan="Sub-District">Sub Dist.</abbr>
+                    <abbr expan="Virginia">Va.</abbr>
+                    <orig reg="comprising">comprizing</orig> the counties of Augusta and Highland.
+                    This office is sought daily by freedmen to have me review settlements with their
+                    employers for labor performed during 1867 or to ask me to press payment of
+                    amounts acknowledged to be due. Wherever I find a freedman has kept an open
+                    account and taken goods <unclear>on order</unclear> on the store in lieu of
+                    money, his earnings are absorbed and I can do little for him. A practice has
+                    been attempted in several cases which I refuse to allow <unclear>any</unclear>
+                    charging the freedmen <hi rend="super">n</hi>/5 &#162;
+                    <unclear>$1.00</unclear> per day for every day he is absent even when he is
+                    working at <unclear>$10</unclear>
+                    <abbr expan="per">p</abbr> month which makes his daily wages only 33&#162;
+                    per day. Employers <unclear>urge</unclear> this as proper but except <pb n="2"
+                    />I find the laborer has absented himself during harvest or lost too much time
+                    showing clear neglect of his duty I refuse to allow it.</p>
+
+                <p>Assaults upon freedmen have been much less frequent during this than the past
+                    month owing to pressing charges against some of the offenders though in cases
+                    mentioned in my last report action has been taken by magistrates in the case of
+                    Levi Middlebrook only. Five of his assailants did not appear. two were held to
+                    bail in the sum of $75 each security for $75 to answer indictment at March
+                    court. Abraham &amp; Evelyn Wallace have not taken out a warrant against
+                        <unclear>Ford</unclear> and from what I see and learn of the <orig
+                        reg="neighborhood">neighbourhood</orig> where they reside I do not expect
+                    they will. Indirectly I hear today Justice <unclear>Huff</unclear> refused to
+                    grant a warrant against Coleman to Mary Minor (<abbr expan="colored">c</abbr>)
+                    saying "the d____d niggers ought all to be driven out of the county" I have sent
+                    for Mary &amp; if the above language was used will see him in person and
+                    report.</p>
+
+                <p>Christmas festivities and church revivals have overshadowed political excitement
+                    and but little is said by freedmen about politics except frequent <pb n="3"
+                        /><orig reg="inquiries">enquiries</orig> about what the convention is doing.
+                    They are however fully alive to the vital importance to them of the issues now
+                    at stake and will I believe mostly cast their ballots at the coming election
+                    unless the conservative organization "by tens" is allowed to control the voters
+                    at the polls.</p>
+
+                <p>In connection with a revival in the <abbr expan="Methodist Episcopal">M.E.</abbr>
+                    Church (<abbr expan="colored">col<hi rend="super">d</hi></abbr>) an effort is
+                    being made to establish a Temperance organization with fair prospect of success.
+                    The demeanor of the Freedmen and their abstinence from intoxicating drink on
+                    Christmas day stood in flattering contrast to the brawling and drunkeness of the
+                    common white men.</p>
+
+                <p>Early in the month I had some difficulty in procurring prompt relief for some
+                    indigent, sick freedmen on the ground of doubtful settlement. I protested
+                    against sick persons being neglected while the question of settlement was being
+                    argued and had an interview with two of the magistrates when it was decided to
+                    relieve the pauper where he was and collect the expense from the district to
+                    which he or she belonged. Since there is no ground for complaint.</p>
+
+                <p>Respectfully submitted</p>
+
+                <pb n="4"/>
+
+                <closer>
+                    <salute>I have the honor to be, General<lb/><abbr expan="Your obedient servant"
+                            >Yr obt servt</abbr></salute>
+                    <signed><hi rend="underline"><abbr expan="Thomas">Tho<hi rend="super"
+                            >s</hi></abbr> P. Jackson</hi><lb/>Agent</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

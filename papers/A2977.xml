@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2977"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A2977">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: William F. Brand to Amanda C. Armentrout,
+                    January 19, 1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta william f brand to amanda c armentrout, january 19 1863</title>
+        <author>Brand, William F.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Mary Elizabeth McCaskill</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A2977</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502147</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: William F. Brand to Amanda C. Armentrout, January 19, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta william f brand to amanda c armentrout, january 19 1863</title>
+            <author>William F. Brand</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William F. Brand Papers</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1863-01-19">1863-01-19</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Economy, Troop Movement, Patriotism</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A2977T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>William writes to Kate of the army serving oysters but having no butter to eat
+                    them with, and of other news from his camp, including news on the Yankees and
+                    troop movements.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Miss A. C. Armentrout<lb/>Greenville<lb/>Augusta County<lb/>Virginia
+                    <name type="recipient">Miss A. C. Armentrout</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1863-01-19">January 19th 1863</date>
+                        <name type="place">Camp Winder, Caroline Co. Va</name>
+                    </dateline>
+                    <salute>Dear Friend</salute>
+                </opener>
+
+                <p>I have seated my self for the purpose of writing you a few lines to inform you of
+                    our <orig reg="whereabouts">wharabouts</orig> my health is very good &amp;
+                    hope <orig reg="these">theese</orig>
+                    <orig reg="few">fiew</orig> lines may find you enjoying the blessings of health
+                    and <orig reg="happiness">happines</orig> I have been waiting in <orig
+                        reg="suspense">suspence</orig> for some time for a letter from you I have
+                    come to the conclusion that my letter never came to hand I wrote soon after I
+                    came down, you can well <orig reg="imagine">inmagin</orig> how <orig
+                        reg="lonesome">lonsome</orig> I have been in looking for a <orig reg="few"
+                        >fiew</orig> lines from you I will now send out the second arrow hoping it
+                    may <pb n="2"/>find <orig reg="it's">its</orig> destination Jake told me
+                    yesterday <orig reg="evening">eavning</orig> that you had never <orig
+                        reg="heard">hurd</orig> from me since my return to camp I had in writing
+                    yesterday <orig reg="but">put</orig> I thought I would wait and send this by Mr
+                    Carson as the other failed by mail I have no news of importance to write We
+                        <orig reg="were">ware</orig> on pickett last week had a very easy tour of
+                    it, I could not see any yankees across the river I think the <orig reg="greater"
+                        >grater</orig> portion of <orig reg="their">thare</orig> army has <orig
+                        reg="gone">gon</orig> South &amp; some twenty or thirty thousand of our
+                    army has <orig reg="gone">gon</orig> to meet them we have orders to keep one
+                    days rations in our haversacks <orig reg="until">untill</orig> further orders
+                    Some thinks we are going to South <orig reg="Carolina">Carlina</orig> I <orig
+                        reg="haven't">havent</orig> but one objection to going It <orig reg="would"
+                        >wuld</orig> be so seldom <pb n="3"/>that we could hear from home I would
+                    like to See the country &amp; then we would be on the <orig reg="coast">cost</orig>
+                    <orig reg="where">whare</orig> we could get plenty of oysters we <orig
+                        reg="have to">hafto</orig> pay six dollars a gallon for them here &amp;
+                    no butter then to eat with them, well I got a letter the other day from the
+                    mill; I tell you that it had Sams name in more than one line I had to <orig
+                        reg="laugh">laughf</orig> at several of her conclusions of the hearafter we
+                    have a large Co. now for duty some sixty odd, the largest in the brigade we have
+                    got our tents at last the boys are busy building <orig reg="chimneys"
+                    >chimmies</orig> to them, I hope we may camp <orig reg="here">hear</orig> all
+                    winter We have plenty of wood and tolerable good water, and are enjoying all the
+                    sweets of camp life, and you know they are <orig reg="few">fiew</orig> at best
+                        <pb n="4"/>I hardly know what to write to <orig reg="interest"
+                    >interrest</orig> you I hope you have <orig reg="received">recieved</orig> my
+                    other letter before this time I wish I was <orig reg="where">whare</orig> I
+                        <orig reg="wouldn't">wouldnt</orig> have to write for it is a <orig
+                        reg="great">grate</orig> deal more pleasure to me to talk to you than to
+                    write I have often been near you in my dreams since I last seen you, but alas
+                    what are dreams they vanish in a moment from our sight &amp; are <orig
+                        reg="gone">gon</orig> forever I hope the time may soon come when I may
+                    fondly encircle thee in my arms &amp; call thee mine oh Kate forget <orig
+                        reg="thee">the</orig> I never can &amp; would not be forgot for the gold
+                    of opher, I hope your path may be <orig reg="strewn">strune</orig> with flowers
+                    and if I can not make you happy some other may I ask an interest in your prayers
+                    excuse this <orig reg="uninteresting">uninterresting</orig> letter I will try
+                    and do better next time let no one see this my respects to all &amp; my love
+                    to you</p>
+
+                <closer>
+                    <salute>from your true friend</salute>
+                    <signed>W.F.B.</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

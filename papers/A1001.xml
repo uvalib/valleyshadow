@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+
+<?dlps id="A1001"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+
+<!ENTITY wilson3 SYSTEM "uva-lib:503063" NDATA uvaHighRes>
+<!ENTITY wilson4 SYSTEM "uva-lib:503064" NDATA uvaHighRes>
+
+]>
+  
+<TEI.2 id="A1001">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Joseph Alfred Wilson to H. H. Hamilton, February
+     17, 1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county joseph alfred wilson to h h hamilton, february 17 1863</title>
+        <author>Wilson, Joseph Alfred</author>
+        <editor> </editor>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Merryn Pinch</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Merryn Pinch</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A1001</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>copyright 1999, by the Rector and Visitors of the University of Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:503062</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Joseph Alfred Wilson to H. H. Hamilton, February 17, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta county joseph alfred wilson to h h hamilton, february 17 1863</title>
+            <author>Joseph Alfred Wilson</author>
+            <editor> </editor>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p> </p>
+          </editionStmt>
+          <extent>3 pages</extent>
+          <publicationStmt>
+            <publisher> </publisher>
+            <pubPlace> </pubPlace>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Letters of Peter E. and Joseph A. Wilson, Private
+       Collection of Mr. Pete Brown, Lexington, Virginia.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from private collection</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1863-02-17">1863-02-17</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Desertion/Leave, Military Authority, Camp Life, Family</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2000">Summer 2000</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Voorhees</name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A1001T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Joseph writes to his friend Henry with instructions for sending stamps and with news of
+     promotions in the regiment.</p>
+   </div1>
+  </front>
+  <body id="d4">
+   <div1 type="letter" id="d5">
+
+
+    <head>
+     <pb n="1" entity="wilson3" pid="uva-lib:503063"/> 
+     
+     <name type="recipient">Mr.H.H. Hamilton</name>
+    </head>
+    <opener>
+     <dateline>
+      <date value="1863-02-17">February the 17th/63</date>
+      <name type="place">Camp New Salem, VA</name>
+     </dateline>
+     <salute>Dear Brother,</salute>
+    </opener>
+
+    <p>I have been looking for this stamp I wrote to you for this week so I will have to remind you
+     again Hen I'm out entirely all the letters I write I have to endorse &amp; if you don't
+     send them stamp you will have to pay all the postage Well Hen my Registration came back the
+     other day disapproved so I can't get off at present &amp; will have to get the uniform
+     shave bought the cloth at <unclear>30</unclear> dollars per yard <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/> for the cloth<pb n="2" entity="wilson4" pid="uva-lib:503064"/>it will last when completed
+      <unclear>16225</unclear> Capt. Cochran was elected Col Gibson <hi rend="underline">Lt Col</hi>
+     Eakels Maj. last Thursday of the <unclear>14th Reg VaCal</unclear> Hen I want you to send me at
+     least fifty stamps five dollars worth &amp; call on Maggie for the money if I never get
+     back. <hi rend="underline">Hen</hi> I will also send an advertisement in this I wish you would
+     have published in Spectator if you please &amp; charge me with the bill. Well I must go
+     close for the present Give my love to all my caring friends &amp; look over a hurried
+     written letter.</p>
+
+    <closer>
+     <salute>Yours very truly</salute>
+     <signed>Jos.A. Wilson, 14th Reg Va Cavalry</signed>
+     <pb n="3"/>
+     <seg type="postscript">A Large Fight<lb/> Wanting Five Hundred (500) <orig reg="young">houng
+      </orig>puppies in the 14th Reg Va Cal for the purpose of devouring the Rotten Beef rancid to
+      the men as rations &amp; the said pups to be delivered at Salem Va &amp; <abbr
+       expan="Collected?">Coll.</abbr> on Maj Neuman for the sum of the <orig reg="price"
+      >prise</orig> of the puppies<lb/>February the 17th 1863<lb/>14<hi rend="super">th</hi> Reg Va
+      Cavalry</seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

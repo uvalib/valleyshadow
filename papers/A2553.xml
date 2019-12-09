@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2553"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A2553">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Jedediah Hotchkiss to Sara A. Hotchkiss,
+     September 1, 1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county jedediah hotchkiss to sara a hotchkiss, september 1 1862</title>
+        <author>Hotchkiss, Jedediah</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Rider</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Rider</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A2553</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:502042</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Jedediah Hotchkiss to Sara A. Hotchkiss, September 1, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta county jedediah hotchkiss to sara a hotchkiss, september 1 1862</title>
+            <author>Jedediah Hotchkiss</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>1 page</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Jedediah Hotchkiss Collection, Reel 4, Manuscripts
+       Division, Library of Congress, Washington, D.C.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Congress, Washington, D. C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1862-09-01">1862-09-01</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Battle Description, Troop Movement, Prisons/Prisoners, Slavery, African Americans,
+      Death/Casualties, Military Authority, Patriotism</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A2553T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Hotchkiss describes a Confederate victory near Gainsville, Virginia.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     Mrs. Sara A. Hotchkiss <lb/> Churchville <lb/> Augusta Co <lb/> Va. <lb/> Care of Maj. Bell
+     <lb/> Staunton
+     <name type="recipient">Sara A. Hotchkiss</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1862-09-01">Sunday Sept. 1<hi rend="super">st</hi> 1862</date>
+      <name type="place">Near Gainsville </name>
+     </dateline>
+     <salute>My <abbr expan="Dear">Dr.</abbr> Wife.</salute>
+    </opener>
+
+    <p>We yesterday drove the enemy beyond Groveton after a hard fight -- We routed them from
+     Thorofare Gap on Tuesday -- then fought them near Gainsville on Thursday -- on Friday drove
+     them some two miles -- then came back to our old position between Gainsville &amp; Groveton
+     &amp; yesterday fought the enemy there and drove them away with great loss -- and our
+     reinforcements are coming up, and we may fight them today on the old field of Manassa -- the
+     line of hills near Groveton was our line yesterday -- Jackson went to Centerville &amp;
+     Manassa on Tuesday &amp; captured immense stores -- destroyed some 200 cars, loaded with
+     everything, captured many men, servants, arms &amp;c, and put the enemy into a perfect
+     panic -- after destroying the bridges, <abbr expan="Railroad">R.R.</abbr> &amp;c and
+     breaking their communications -- he then moved back towards Gainsville -- the Yanks in the
+     meantime left the Rappahannock &amp; Warrenton and advanced towards Thorofare Gap where
+     Longstreet met them &amp; drove them back with slaughter, then he &amp; Jackson united
+     &amp; have fought them two days -- our loss is considerable -- Gen. Ewell is badly wounded,
+     loses his leg &amp; may die -- The people here are perfectly wild with joy all true -- the
+     ladies come out to shake hands &amp; feed all -- I am well -- &amp; will write soon
+     more at length. All things go well by God's good providence -- Let the friends see this --</p>
+
+    <closer>
+     <salute>Your <abbr expan="Affectionate">Aff</abbr> husband in <del rend="none" hand="h1"/></salute>
+     <signed>Jed. Hotchkiss</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

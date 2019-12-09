@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+
+<?dlps id="A3012"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="A3012">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Samuel Franklin Carson to Annie Harris, February
+     6, 1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county samuel franklin carson to annie harris, february 6 1863</title>
+        <author>Carson, Samuel Franklin</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Doug O'Reagan</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Doug O'Reagan</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A3012</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2002, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date>
+        <idno type="uva-pid">uva-lib:502172</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Samuel Franklin Carson to Annie Harris, February 6, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta county samuel franklin carson to annie harris, february 6 1863</title>
+            <author>Samuel Franklin Carson</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>4 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Samuel Franklin Carson to Annie Harris, February 6,
+       1863, Nellie Harris private collection</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from private collection</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1863-02-06">1863-02-06</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Camp Life, Desertion/Leave, Family, Home Front, Military Authority</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A3012T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Carson complains about the weather but says that he is happy that the roads are closed,
+     meaning that the army won't be moving. This means that more of the men get furloughs, though he
+     does not expect to return home until the war's end. He includes some gossip.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     Miss Annie R. Harris<lb/>Steeles Tavers<lb/> Augusta County<lb/> Virginia
+     <name type="recipient">Miss Annie R. Harris</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1863-02-06">Feby 6th 1863</date>
+      <name type="place">Camp Windes</name>
+     </dateline>
+     <salute>Dearest Annie,</salute>
+    </opener>
+
+    <p> Your very kind and interesting letter was received several days ago, the perusal of which
+     gave me much pleasure I assure you. I had began to think you had forgotten me, or perhaps
+     something else had turned up to cause the delay. Well I have no news of importance to write you
+     this morning. Every thing is going on quietly, &amp; in the same old way. The weather has
+     been very cold for several weeks. Snowing, freezing &amp; raining, about every other day;
+     the weather &amp; roads together has been the cause of our remaining so quietly for the
+     past month the roads are in such a <pb n="2"/>condition at present that it would be impossible
+     for an army to move. Hope they may continue so for some time to come, so that some of our boys
+     may get home on furlough. They are granting to two in each company at present. <abbr
+      expan="Colonel">Col</abbr> Williams &amp; Major Newton starts for home this morning on a
+     twenty days furlough. Hope they may have a <hi rend="underline">good</hi>
+     <hi rend="underline">time</hi>. I dont expect to be able to get home any more 'till the war
+     closes if then. There is no officer with the <abbr expan="Company">Comp.</abbr> except myself
+     &amp; of course they wont let me leave. I am getting mighty tired of my position, I assure
+     you. <orig reg="There">Their</orig> have been no promotions as yet, since the resignation of
+      <abbr expan="Captain">Capt</abbr> M Kenny.</p>
+    <p><pb n="3"/>You wished to know how <abbr expan="Captain">Capt</abbr> Strickler was getting
+     along. Well, I presume; as I have not heard anything to the contrary. You can tell his <unclear>
+      <hi rend="underline">Buck</hi>
+     </unclear> that he was well the last time I saw him &amp; is getting as fat as a <hi
+      rend="underline">
+      <unclear>Squire</unclear>
+     </hi>.</p>
+    <p>I hear Miss Jennie is having lots of <unclear>beaux</unclear> since she went to Newport. Am
+      <orig reg="afraid">affraid</orig> Cousin Jimmi will be like the handwriting on <del hand="h1"
+      >the</del> wall. "weighed in the balance &amp; found wanting."</p>
+    <p>Suppose you had a nice time while you were in the <unclear>Berry</unclear> neighborhood, wish
+     I could have been with you, know I would have had lots of fun &amp; plenty good things to
+     eat. I heard <hi rend="underline">Sugar</hi> had been to see you. Said he intended to <pb n="4"
+     />make one more desperate effort to obtain the "heavenly prize", &amp; if he failed, he
+     intended to give up the chase. Please tell us the result in your next.</p>
+    <p>I <orig reg="read">red</orig> a letter from <hi rend="underline">Tom</hi> a day or two ago,
+     says he has fine times up there except he is most of the time at the <hi rend="underline">Old</hi>
+     <hi rend="underline">Store</hi>. Cant find out which one he is after. Well I hope he may be
+     more successful than in times past.</p>
+    <p>You said you intended to send me a New Years Gift - if it was nothing but a "black eyed pea".
+     I <orig reg="don't">dont</orig> want <orig reg="anything">any thing</orig> of that kind, got
+     plenty of them, must send one something better than that. I wont send you any more kisses as
+     you made so much fun of the <unclear>ones</unclear> I did send. Hope you will excuse my
+     uninteresting letter. You did not request me to answer in your last but I presumed you forgot
+     it.</p>
+
+    <closer>
+     <salute>As ever Yours - </salute>
+     <signed>Frank</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+
+<?dlps id="F8025"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F8025">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: George Chambers to Simon Cameron,
+                    December 6, 1856</title>
+        <title type="sort">franklin county george chambers to simon cameron, december 6 1856</title>
+        <author>Chambers, George</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Andrew J. Torget</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">4</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F8025</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501663</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: George Chambers to Simon Cameron, December 6, 1856</title>
+            <title level="m"/>
+            <title type="sort">franklin county george chambers to simon cameron, december 6 1856</title>
+            <author>George Chambers</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 page</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: George Chambers to Simon Cameron,
+                            6 December 1856, Simon Cameron Papers, Dauphin County Historical
+                            Society, Reel 2</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Historical Society of Dauphin County, Harrisburg, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1865-12-06">1856-12-06</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Economy, State Government, National Government</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F8025T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Chambers asks about the political future of the Franklin Railroad.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <abbr expan="George">Geo</abbr> Chambers<lb/><abbr expan="December">Dec</abbr> 6,
+                    1860
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1865-12-06"><abbr expan="December">Dec</abbr> 6 <abbr
+                                expan="1856">56</abbr></date>
+                        <name type="place">Chambersburg</name>
+                    </dateline>
+                    <salute>Dear Sir</salute>
+                </opener>
+
+                <p>Inquiries are made at me about the resumption of the Franklin Rail Road.</p>
+                <p>Will you allow me to inquire of you, whether you &amp; your friends have come
+                        <unclear>on</unclear> terms with <abbr expan="Misters">Messrs</abbr>
+                    <unclear>Beddle</unclear> &amp; <unclear>Hutchinson</unclear> &amp; what
+                    are the prospects of Congress?-- If you have I will be disposed to promote your
+                    success; and if I were a younger man, would like to embark with you in it</p>
+
+                <closer>
+                    <salute>Respectfully<lb/>Yours</salute>
+                    <signed>
+                        <hi rend="underline">George Chambers</hi>
+                    </signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

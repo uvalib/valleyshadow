@@ -1,0 +1,284 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0701"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+ <!NOTATION jpg SYSTEM "JPEG">  
+ <!ENTITY filename SYSTEM "uva-lib:502932" NDATA uvaHighRes> 
+ <!ENTITY BitCre2a SYSTEM "uva-lib:502933" NDATA uvaHighRes> 
+ <!ENTITY BitCre2b SYSTEM "uva-lib:502934" NDATA uvaHighRes> 
+ <!ENTITY BitCre2c SYSTEM "uva-lib:502935" NDATA uvaHighRes> 
+ <!ENTITY BitCre2d SYSTEM "uva-lib:502936" NDATA uvaHighRes> 
+   
+  
+ ]>  
+<TEI.2 id="F0701">
+ <teiHeader type="migrated">
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Alex Cressler to Henry A. Bitner, May 21, 1861</title>
+        <title type="sort">franklin county alex cressler to henry a bitner, may 21 1861</title>
+        <author>Cressler, Alex</author>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Anne Rubin, Valley of the Shadow project, Institute for Advanced Technology in the
+      Humanities, University of Virginia </name>
+          <resp>Creation of digital images: </resp>
+          <name>Anne Rubin, Valley of the Shadow project, Institute for Advanced Technology in the
+      Humanities, University of Virginia </name>
+          <resp>Conversion to TEI.2-conformant markup: </resp>
+          <name>University of Virginia Library Electronic Text Center. </name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. <num type="kilobytes">13</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>University of Virginia Library </publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+        <idno type="VCDH">F0701</idno>
+        <!--
+    <availability>
+     <p>Publicly-accessible </p>
+     <p>URL: http://etext.lib.virginia.edu/modeng/modengB.browse.html </p>
+     <p>Publicly-accessible </p>
+     <p>URL: URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1998 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1998">1998 </date>
+        <idno type="uva-pid">uva-lib:501345</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p> </p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note>
+          <p>Images of the manuscript have been included. This electronic text is a faithful
+      transcription of the original manuscript. We have included SGML tags which allow the reader to
+      view a modernized version of the text in which the punctuation and the spelling have been
+      regularized.</p>
+        </note>
+        <note> </note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Franklin County: Alex Cressler to Henry A. Bitner, May 21, 1861</title>
+            <title level="u"> </title>
+            <title type="sort">franklin county alex cressler to henry a bitner, may 21 1861</title>
+            <author>Alex Cressler </author>
+            <respStmt>
+              <resp> </resp>
+              <name> </name>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p> </p>
+          </editionStmt>
+          <extent> </extent>
+          <publicationStmt>
+            <publisher> </publisher>
+            <pubPlace> </pubPlace>
+            <date value=""> </date>
+            <idno type="callno">Manuscript copy consulted: University of Virginia, Alderman Library,
+       Special Collections MSS 11395 </idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p> </p>
+          </seriesStmt>
+          <notesStmt>
+            <note> </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Prepared for the University of Virginia Library Electronic Text Center. </p>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Original lineation has been maintained. </p>
+        <p>The images exist as archived TIFF images, one or more JPEG versions for general use, and
+     thumbnail GIFs. </p>
+        <p>Some keywords in the header are a local Electronic Text Center scheme to aid in establishing
+     analytical groupings. </p>
+      </editorialDecl>
+      <refsDecl>
+        <p> </p>
+      </refsDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl> </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date value="1861-05-21">1861-05-21 </date>
+      </creation>
+
+      <langUsage>
+        <language id="eng">English </language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>nonfiction </term>
+          <term>prose </term>
+          <term>masculine </term>
+          <term>American Civil War; Special Collections </term>
+          <term>Regiment: none </term>
+          <term>Franklin County </term>
+          <term>Home Front </term>
+          <term>Chambersburg </term>
+          <term>American Civil War</term>
+        </keywords>
+        <keywords>
+          <term>LCSH </term>
+        </keywords>
+        <keywords>
+          <term> </term>
+          <term> </term>
+          <term type="format">72 dpi; 24-bit color </term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date value="1998-05">May 1998 </date>
+        <respStmt>
+          <resp>corrector </resp>
+          <name>Carolyn Fay and Lisa Spiro </name>
+        </respStmt>
+        <item>Added TEI header and tags, corrected transcription errors, and standardized punctuation
+     and spelling for the modernized version. </item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+ <text id="F0701T">
+  <body id="d2">
+   <!-- <page n=1><ID>BitCre21</ID> -->
+   <div1 type="letter" n="1861-05-21" id="d3">
+    <opener>
+
+
+     <pb n="1" entity="BitCre2a" pid="uva-lib:502933"/>
+
+
+     <dateline>
+      <name type="place">Chambersburg</name>
+      <lb/>
+      <date value="1861-05-21">May 21<hi rend="super">st</hi> 1861</date>
+     </dateline>
+     <salute>Dear <name type="person">Henry</name>
+     </salute>
+    </opener>
+
+    <p>Yours of yesterday was received in due time and<lb/> being fully digested I embrace this
+     privilege of writing to you again.<lb/> I was sorry to hear of your disappointment on Saturday
+     last,<lb/> and can only measure your feelings by imagining what mine<lb/> would have been under
+     corresponding circumstances. Saturday<lb/> was a day of interest and satisfaction to me having
+     never<lb/> seen the like before, when I cast my eyes along the line, which<lb/> was formed
+     along the one side of the street, with arms presented<lb/> and beheld the field of bayonets
+     elevated above the heads of <orig reg="thousands">thous-<lb/> ands</orig>, and the Governor of
+     the Commonwealth of Pennsylvania,<lb/> which is the <orig reg="Keystone">Key-stone</orig> of
+     the Arch, moving steadily and silently<lb/> along that line, with his penetrating eye firmly
+     fixed upon them,<lb/> and his countenance remaining unmoved and apparently<lb/> speaking of the
+     condition of the Country and the object for<lb/> which so many sons of labor had been called
+     together, I was led<lb/> to exclaim, "who can tell what a day may bring forth." <!-- </page> -->
+     <!-- <page n=2><ID>BitCre22</ID> -->
+     <pb n="1" entity="BitCre2b" pid="uva-lib:502934"/> From a person who came from <name type="place">Williamsport <abbr
+       expan="Maryland">Md.</abbr></name> yesterday<lb/> we learned that two Regiments of
+     Secessionists had come there and<lb/> by yesterday's Tribune, that the plan is to come on
+     through<lb/> until they reach <name type="place">Philadelphia</name>, in order to get
+     provisions,<lb/> should they attempt to carry out that design, we will<lb/> have a bloody time
+     here, and you may be sure the men<lb/> here will give them a breakfast job at any rate, and
+     I<lb/> hope <name type="place">Shippensburg</name> and the <name type="place">Pines</name>
+     will, by the time they<lb/> reach you, have their 10 O'clock peace ready for<lb/> them and see
+     that every man gets his portion due.<lb/> This is to much to trifle about, as it may be
+     their<lb/> design, however I am not yet uneasy, but should they<lb/> come it may be that I
+     might never see you again<lb/> let come what will, I expect to be prepared for the<lb/> worst
+     that can happen <add hand="h1" n="editor" place="inline">to</add> me. The citizens of <name
+      type="place">
+      <abbr expan="Chambersburg">Chambrg.</abbr>
+     </name><lb/> are calm, and do not apprehend an attack from the<lb/> rebels from the South. I
+     have not in my imagination<lb/> marked out the plan by which the present troubles<lb/> may be
+     settled, but find that the opinion of some is<lb/> that war is the only remedy. <orig reg="If"
+      >if</orig> such be true then the<lb/> Northern boys must go to the work, and what could
+     be<lb/> more cheering to the hearts of freeman such as we are,<lb/> than to see that the <hi
+      rend="underline">whole</hi> north will move to the<lb/>
+     <!-- </page> -->
+     <!-- <page n=3><ID>BitCre23</ID> -->
+     <pb n="3" entity="BitCre2c" pid="uva-lib:502935"/> work, as one mighty machine none of the parts<lb/> being wanting,
+     but all complete, and all of which have<lb/> been tried in the days of '76, and found to be as true<lb/>
+     <orig reg="as">a</orig> steel, and since the fall of <name type="place">Sumpter</name> it has
+     been greatly<lb/> strengthened and now is the Greatest Structure, and most<lb/>
+     <orig reg="complete">complet</orig> machine under the Canopy of Heaven, and<lb/> when it begins
+     to move forward upon the foe, stretching<lb/> from the <name type="place">Atlantic</name> to
+     the <name type="place">Pacific</name>,- every part reveling<lb/> in grandeur and might, not
+     being driven by steam,<lb/> but the hearts blood of million, and the smiles<lb/> of Heaven,
+     although moving slowly, its tread will<lb/> be the surer, and long before it reaches <name
+      type="place">Cape Sable</name>,<lb/>
+     <hi rend="underline">secession</hi> will be crushed out of existence, and like a<lb/> mighty
+     cloud, it will rain Union sentiments on every<lb/> farm and plantation south of <name>Mason's
+      and Dixon's<lb/> Line</name>. Let us start the ball rolling, and send <orig reg="secession"
+      >seces<lb/> sion</orig> to the place from whence it came, you will now<lb/> allow me to tell
+     you a little anecdote, which I heard a<lb/> few days <orig reg="ago.">ago</orig> Mr.-- <add
+      hand="h1" place="supralinear">A</add> said "that it has often been his<lb/> wonder what the
+      <abbr expan="Devil">D---l</abbr> tempted people to sin for that<lb/> their sin could not make
+     him any better," when Mr.-- <add hand="h1" place="supralinear">B</add><lb/> said, "Don't you
+     know that he<lb/> is a secessionist<lb/> - that he was the first to <orig reg="secede"
+     >seceed</orig> from Heaven, and consequently <!-- </page> -->
+     <!-- <page n=4><ID>BitCre24</ID> -->
+     <pb n="4" entity="BitCre2d" pid="uva-lib:502936"/> the father of secession," - more truth than joke -<lb/> This is a
+     day of sweet <orig reg="recollection">recolection</orig> to me, being<lb/> the 21<hi
+      rend="underline">st</hi> day of May. "Rather let my right hand<lb/> forget her cunning and my
+     tongue cleave to<lb/> the roof of my mouth," than for me to forget<lb/> my hours of unalloyed
+     peace three years ago at<lb/> old <name type="place">
+      <orig reg="Stony-Point.">Stony-Point,</orig>
+     </name> Those were <hi rend="underline">the</hi> happy hours<lb/> of my life. And I hope the
+     Friend I there formed<lb/> may be my friend for life - would to God<lb/> that all who
+     participated in that season of<lb/> refreshment might be able to say - My labors<lb/> there
+     have not been in vain, I hope you will<lb/> let your mind run back to that era in your<lb/>
+     life and call to memory the hours that you with<lb/> me and many others spent there. Henry
+     dear<lb/> remember <hi rend="underline">then</hi>. I am looking for you this<lb/> week; <orig
+      reg="don't">dont</orig> forget to come. I have been <orig reg="interrupted"
+     >interupted</orig><lb/> a great deal while writing this, so that you<lb/> will find some
+     trouble in reading <orig reg="it. Write">it. write</orig> soon <del hand="h1">I</del><lb/> if
+     it is not <orig reg="too">to</orig> much trouble, I sometimes think<lb/> that I am imposing on
+     your time to ask you to write<lb/> but I <orig reg="can't">cant</orig> help it no person else
+     will write<lb/> and I am very glad to hear from the pines. </p>
+    <closer>
+     <salute> Yours Forever</salute>
+     <signed>Alex. Cressler</signed>
+    </closer>
+   </div1>
+  </body>
+  <!-- </page> -->
+ </text>
+</TEI.2>

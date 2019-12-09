@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+
+<?dlps id="B0051"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B0051">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Freedman's Bureau Records: C. Clay to , April 9th '67</title>
+        <title type="sort">freedmans bureau records c clay to , april 9th 67</title>
+        <author>C. Clay</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>HIUS 403 Students</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Peter Brownfeld</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">4</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">B0051</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:500416</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Freedman's Bureau Records: C. Clay to , April 9th '67</title>
+            <title level="m"/>
+            <title type="sort">freedmans bureau records c clay to , april 9th 67</title>
+            <author>C. Clay</author>
+            <editor/>
+            <respStmt>
+              <resp>e.g. Translator</resp>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent> pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: National Archives and Records Administration,
+       Records of the Bureau of Refugees, Freedmen, and Abandoned Lands, Record Group 105, Box
+      E4269</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1867-04-09">1867-04-09</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term/>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""> </date>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="B0051T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p/>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    
+
+    <opener>
+     <dateline>
+      <date value="1867-04-09">April 9th '67</date>
+      <name type="place">Jackson River Va</name>
+     </dateline>
+     <salute>Dr Sir</salute>
+    </opener>
+
+    <p>I wish you can do it that you would send me out a dozen or two hands. Or at least let it be
+     known that I want hands. I want ten or a dozen for choppin whom I will pay $15 per and 8 or 10
+     common hands whom I will pay 12 The chopper to go to Millboro &amp; the other hands here </p>
+    <p> If you can do anything that way I will be obliged-- </p>
+    <p> I send you with this the paper regardin Mr. Fulty </p>
+
+    <closer>
+     <salute>Truly Yours</salute>
+     <signed>C.Clay</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

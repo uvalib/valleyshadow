@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1006"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1006">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: George T. Cook to R. S.
+                    Lacey, November 30, 1866</title>
+        <title type="sort">freedmens bureau records george t cook to r s lacey, november 30 1866</title>
+        <author>Cook, George T.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1006</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500874</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: George T. Cook to R. S. Lacey, November
+                            30, 1866</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records george t cook to r s lacey, november 30 1866</title>
+            <author>George T. Cook</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 46.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1866-11-30">1866-11-30</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Employment/Labor, Legal System, Race Relations</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-05">May, 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1006T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Cook observes, in his monthly report on Bureau Affairs, that the freedmen in
+                    Augusta County have no faith in the Civil Courts to grant them justice when they
+                    seek redress against their employers. Cook suggests bringing back the Freedmen's
+                    Courts and enforcing them vigorously.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau Refugees Freedmen and <abbr expan="Abandoned Lands">A.L.</abbr><lb/>Office
+                    <abbr expan="Assistant">Asst.</abbr>
+                    <abbr expan="Superintendent">Supt.</abbr>
+                    <abbr expan="Sub-District">Sub-Dist.</abbr>
+                    <abbr expan="Number">No.</abbr> 10. 7<hi rend="super">th</hi>
+                    <abbr expan="District">Dist</abbr>
+                    <abbr expan="Department">Dept</abbr><lb/>of the Potomac, Consisting of Augusta
+                    and Highland
+                    <name type="recipient">Captain R. S. Lacey<lb/><abbr expan="Superintendent"
+                        >Supt</abbr> 7th <abbr expan="District">Dist</abbr>
+                        <abbr expan="Virginia">Va</abbr><lb/>Lynchburg <abbr expan="Virginia"
+                        >Va</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1866-11-30"><abbr expan="November">Nov</abbr> 30<hi rend="super">th</hi><abbr expan="1866">/66</abbr></date>
+                        <name type="place">Staunton <abbr expan="Virginia">Va.</abbr></name>
+                    </dateline>
+                    <salute>Captain</salute>
+                </opener>
+
+                <p>I have the honor to submit the following Report of Bureau Affairs in this
+                        Sub-<abbr expan="District">Dist</abbr> for the month of November 1866</p>
+
+                <p>The condition of the Freedpeople is very unpromising I have had a large number of
+                    complaints from them to the effect that their employers refuse to pay them, and
+                    when they find that their only redress is through the Civil Courts they prefer
+                    to let the debts go, as they have no confidence in being able to obtain redress
+                    through that channel, and even when they try that method the Circuit Court is
+                    much behind in its trials, and while waiting they might starve; besides they
+                    would find it a very difficult thing to obtain work were it known that they had
+                    instituted <pb n="2"/>suit</p>
+
+                <p>The only way I can see to stop this systematic imposition on the part of
+                    employers, is to re-establish "Freedmen's Court" and support it with suitable
+                    military power for a time; such a course vigorously <orig reg="pursued"
+                    >persued</orig> for even one month would be very beneficial to the Freedpeople.
+                    It would convince the whites generally, as well as the Courts that they
+                    Freedpeople have rights which white men are to respect.</p>
+
+                <p>Most cases of refusal to settle with Freedpeople are flagrant attempts to
+                    defraud.</p>
+
+                <closer>
+                    <salute>Very Respectfully<lb/>Your <abbr expan="Obedient">Ob<hi rend="super"
+                            >t</hi></abbr> Servant</salute>
+                    <signed><abbr expan="George">Geo.</abbr>T. Cook<lb/>1st <abbr expan="Lieutenant"
+                            >Lt</abbr>
+                        <abbr expan="Veterans Reserve Corps">V.R.C.</abbr> &amp; <abbr
+                            expan="Assistant">Asst.</abbr>
+                        <abbr expan="Superintendent">Supt.</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+
+<?dlps id="A1003"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+
+<!ENTITY wilson6 SYSTEM "uva-lib:503068" NDATA uvaHighRes>
+<!ENTITY wilson7 SYSTEM "uva-lib:503069" NDATA uvaHighRes>
+
+]>
+  
+<TEI.2 id="A1003">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Joseph Alfred Wilson to H. H. Hamilton, February
+     20, 1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county joseph alfred wilson to h h hamilton, february 20 1863</title>
+        <author>Wilson, Joseph Alfred</author>
+        <editor> </editor>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Merryn Pinch</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Merryn Pinch</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A1003</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>copyright 1999, by the Rector and Visitors of the University of Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:503067</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Joseph Alfred Wilson to H. H. Hamilton, February 20, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta county joseph alfred wilson to h h hamilton, february 20 1863</title>
+            <author/>
+            <editor> </editor>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p> </p>
+          </editionStmt>
+          <extent>2 pages</extent>
+          <publicationStmt>
+            <publisher> </publisher>
+            <pubPlace> </pubPlace>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Letters of Peter E. and Joseph A. Wilson, Private
+       Collection of Mr. Pete Brown, Lexington, Virginia.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from private collection</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1863-02-20">1863-02-20</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Military Authority, Family, Death/Casualties, Camp Life, Women</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2000">Summer 2000</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Voorhees</name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A1003T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Joseph writes to Henry Hamilton about his regiment's problems with spoiled meat and complains
+     that his sister's letters are too short.</p>
+   </div1>
+  </front>
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <opener>
+
+     <pb n="1" entity="wilson6" pid="uva-lib:503068"/>
+     
+     <name type="recipient">Mr.H.H. Hamilton</name>
+
+     <dateline>
+      <date value="1863-02-20"><orig reg="February">Febuary </orig>the 20th/63</date>
+      <name type="place">Camp Near Salem VA</name>
+     </dateline>
+     <salute>Dear Sir</salute>
+    </opener>
+
+    <p>I received yours of the 16th with the stamps <orig reg="which">witch</orig> I'm under many
+     obligations to for I will have to bother you again but I <orig reg="want">wannt</orig> you to
+     keep an account of all such things for I will not &amp; as for the box I did not expect on
+     account <unclear>themes</unclear> on the <del rend="none" hand="h1"/>. Hen we have had a large time here
+     lately about rotten beef the Old General has two men appointed to inspect every piece of beef
+     that is <unclear>spared</unclear> to us now The Cost we got was very good the health of the
+     Company is very Good not &amp; I believe the Small Pox has vanished away not to return
+     again at least I hope so<pb n="2" entity="wilson7" pid="uva-lib:503069"/>
+     Well Hen I have no <orig reg="news">
+      <unclear>newz</unclear>
+     </orig> to communicate &amp; know of nothing that would interest there My motto is to write
+     short scribbles &amp; receive long <orig reg="ones">wones</orig> from my <orig
+      reg="correspondants">correspondence</orig>
+     <del rend="none" hand="h1"/> I like to <orig reg="forgot">for got</orig> Bell you can tell her that she is
+     very <orig reg="afraid">feard</orig> of insulting me when she only writes every quarter one
+     about as long as her finger I think it is time for to begin to reconsider &amp; to reform
+     &amp; do a little better in that way why if I have a quiet <orig reg="place">plase</orig>
+     &amp; comfortable <orig reg="place">plase</orig> as she has I would always a scribble as
+      <orig reg="long">longe</orig> as my finger &amp; thumbs at least &amp; not to judge me
+     by herself but just keep on writing every quarter &amp; I will be happy to read all with
+     pleasure. Give Mr. White &amp; Mr. Grady my respects &amp; Bill my requests &amp;c
+      <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>
+    </p>
+
+
+    <closer>
+     <salute>Yours very truly</salute>
+     <signed>Jos.A. Wilson Lt, 14<hi rend="super">th</hi> Reg Va Cavalry</signed>
+     <seg type="postscript">Salem Roanoke Ca</seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

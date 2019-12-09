@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2002"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A2002">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: William B. Gallaher to E.C. Gallaher, May 23,
+     1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county william b gallaher to e c gallaher, may 23 1861</title>
+        <author>Gallaher, William B.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Susanna Michele Lee</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Susanna Michele Lee</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">9</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A2002</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:501975</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note>
+          <p>This letter was transcribed from another transcribed copy. William B. Gallaher's mother's
+      name was taken from the census. The text of the letter mentions that William B. Gallaher would
+      write to "Hugh" on the back of the page, but the transcriber did not include the letter (or
+      Gallaher did not write to Hugh).</p>
+        </note>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: William B. Gallaher to E. C. Gallaher, May 23, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta county william b gallaher to e c gallaher, may 23 1861</title>
+            <author>William B. Gallaher</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>1 page</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: William B. Gallaher Letters, Waynesboro Public
+       Library Collection, Waynesboro, Virginia.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Waynesboro Public Library Collection, Waynesboro, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1861-05-23">1861-05-23</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Camp Life, Family, Medicine/Hospitals, Death/Casualties</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2000">Summer 2000</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Voorhees</name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A2002T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>William B. Gallaher describes an accident in camp, mentions a visit to his grandfather's
+     home, and requests a box of provisions.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">E. C. Gallaher</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1861-05-23">May 23, 1861</date>
+      <name type="place">Harpers Ferry</name>
+     </dateline>
+     <salute>Dear Ma</salute>
+    </opener>
+
+    <p>I am writing this letter in the Hospital. The house belonging to the states occupied by Ball
+     Superintendent who has left. It is a beautiful place. I and John Lipscomb are staying here with
+     Elliott Fishburne. He was shot in Martinsburg the day before yesterday by the accidental
+     discharge of a pistol in one of the boys hands. It was one of the old revolvers or it would
+     have killed him. He was sitting at a table when one of the boys came up &amp; was snapping
+     the pistol in 2 feet of his face &amp; it went off. The ball entered his left cheek knocked
+     out tow of his teeth &amp; fractured his jawbone &amp; struck his tongue. They dont
+     know where the ball is. I think he swallowed it. At the time I was sitting on a bed in 10 feet
+     of him and was the 1st to get there. I washed his face &amp; by that time the Doctor came.
+     He was taken to the Ferry on the train. He can walk very well. I do not consider the wound
+     mortal. I &amp; John will take good care of him. Capt Patrick has written to this folks
+     &amp; I suppose he will hear of it before you get this. I am very sorry the accident
+     happened but perhaps it was all for the best. I am getting on very well &amp; am satisfied.
+     We have a good house to sleep in &amp; are getting along as well as could be expected. I
+     wrote to Pa about our trip through Shepherdstown to Martinsburg on last Sunday &amp;
+     stopped at Grandpa's got my dinner saw all the folks. They are well &amp; were very glad to
+     see me. They all look as well as ever to me. Grandpa got his horse &amp; rode to
+     Martinsburg with me &amp; got his supper at Mr. Rawlings. They say you must come down this
+     summer to see them &amp; bring Ginny. I went to see Mrs Rawlings family. They are all well.
+     Mr R brought us 4 large rolls nice baker to use in quarters. I saw him before I left. He sends
+     his respect to you &amp; Pa. Ma please send me a large box of provisions. You can send it
+     down the Valley. We get plenty to eat but I notice a good many of the boys getting boxes from
+     home with hams butter apples &amp; some of the nicest apple butter I ever ate. They all
+     share with me. I should like to return the favor. I think I shall fatten up some &amp; heal
+     this summer. Tell Sallie I got hers &amp; little brother Hughs letters and that I will
+     write to them today or sometime. I went down &amp; took dinner with Ed Waddell today. He is
+     looking very well but has a right sore foot. There is 15000 soldiers here. At night I can look
+     out of my window &amp; can see the camp fires all over the hills. There is about 250 tents
+     besides the houses are all very near full of soldiers. There is 3500 Mississippi troops here
+     about 2000 Alabamers 600 Kentuckians. They have 40 or 50 cannon here &amp; more are coming
+     today. They have a large 32 pounder station above the Powder Magazine which commands the
+     Railroad. It will shoot 5 miles. You know where it is. I saw John Hill &amp; Claire Evans.
+     They are both well. Tell Mr. Evans George is not here. Tell Pa John Lipscomb sent him a gun by
+     James Patrick &amp; some cartridges by William M Bush. I forgot to tell you that the 1st
+     night I got here we were ordered under arms at two oclock but by the time we were ready we got
+     orders to go to bed. I <orig reg="don't">dont</orig> think there will be any fighting here.
+     When we were in Martinsburg I took some dispatches down to Col Allen's Camp who is encamped in
+     the woods 13 1/2 miles of the Potomac River. The next morning I went down to the River to wash
+     my face &amp; I could see Williamsport very plain. There is a lot of Maryland soldiers come
+     on &amp; joined our Army. How are you all getting on. How is Clinton pleased with clerking.
+     I will write Hugh a letter on the other side. Write soon give my love to all. I was vaccinated
+     the other day &amp; it has begun to make my arm sore. I will go to Shepherdstown as soon as
+     I can &amp; stay a day. If you send me anything direct it care of Capt Patrick Valley
+     Rangers. How are you getting on with your garden. Ma send me some ham pickles biscuit pies
+     &amp; you know what to send. I will stop as I have written you a very long letter. Tell Pa
+     the cartridges must be torn off at the end &amp; the paper taken off the ball it will fit
+     loose but will spread when shot from the gun. Give my love to all. Write soon. Tell Charles I
+     will write to him in a few days. I am taking good care of myself. Kiss Hugh Ginny &amp;
+     Betty for me.</p>
+
+    <closer>
+     <salute/>
+     <signed>W B Gallaher</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

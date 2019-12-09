@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+
+<?dlps id="A8051"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A8051">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Harman Lushbaugh to John McCue,
+                    January 21, 1860</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county harman lushbaugh to john mccue, january 21 1860</title>
+        <author>Lushbaugh, Harman</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Andrew J. Torget</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A8051</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502702</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Harman Lushbaugh to John McCue, January 21, 1860</title>
+            <title level="m"/>
+            <title type="sort">augusta county harman lushbaugh to john mccue, january 21 1860</title>
+            <author>Harman Lushbaugh</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Harman Lushbaugh to John McCue,
+                            21 January 1860, Papers of the McCue Family, 1777-1920, Accession #4406,
+                            Box 4, Special Collections Department, University of Virginia Library,
+                            Charlottesville, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1860-01-21">1860-01-21</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Economy</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A8051T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Lushbaugh tries to clarify finances with McCue, and McCue's attempt to pay debt
+                    with "potatoes."</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Harman Lushbaugh<lb/><hi rend="underline">1860</hi>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1860-01-21">Jan. 21st 1860</date>
+                        <name type="place">Staunton</name>
+                    </dateline>
+                    <salute>J. H. McCue <abbr expan="Esquire">Esq</abbr><lb/>Dear Sir</salute>
+                </opener>
+
+                <p>The day I received your letter I saw Mr Speck who had received one also. And it
+                    was the first time that I ever had heard any thing in regard to the potatoes. he
+                    (Mr. Speck) says he never agreed to to take them as pay for what you owed him he
+                    said it would not suit him. I never bought them from him as your little Son
+                    supposes, But very late in the fall I concluded to have them dug thinking that
+                    you intended me to have them as no one came to get them I also measured them to
+                    see how many they were so when I seen you if you did not intend me to have them
+                    I would pay<pb n="2"/>you for them.</p>
+                <p>There was six bushels and a half, you can write to me and let me know who I shall
+                    pay for them</p>
+
+                <closer>
+                    <salute>yours with much<lb/>respect</salute>
+                    <signed>H J Lushbaugh</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

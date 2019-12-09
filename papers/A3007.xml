@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+
+<?dlps id="A3007"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A3007">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Samuel Franklin Carson to Annie Harris,
+     September 5th, 1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county samuel franklin carson to annie harris, september 5th 1863</title>
+        <author>Carson, Samuel Franklin</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Doug O'Reagan</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Doug O'Reagan</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A3007</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2002, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date>
+        <idno type="uva-pid">uva-lib:502167</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Samuel Franklin Carson to Annie Harris, September 5th, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta county samuel franklin carson to annie harris, september 5th 1863</title>
+            <author>Samuel Franklin Carson</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>3 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Samuel Franklin Carson to Annie Harris, September
+       5th, 1863, Nellie Harris private collection</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from private collection</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1863-09-05">1863-09-05</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Camp Life, Church/Religious Activity, Death/Casualties, Desertion/Leave, Military
+      Authority, Troop Movement</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A3007T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Carson discusses the execution of 10 deserters, then describes a recent ball.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <opener>
+     <dateline>
+      <date value="1863-09-05">Sept 5<hi rend="super">th</hi> 1863</date>
+      <name type="place">Camp Stonewall Brigade</name>
+     </dateline>
+     <salute>My Dear Annie,</salute>
+    </opener>
+
+    <p>I have just returned from witnessing the execution of ten North Carolinans belonging to the
+      2<hi rend="super">nd</hi> Bridgage of our Division. They were shot for desertion, or rather
+     for killing the officer who was arresting them. The <unclear>affray</unclear> took place near
+     Scottsville Albemarle County Virginia. I tell you it was a solemn scene to witness. Each one of
+     the men were tied to seperate stakes placed about 10 paces apart in a large field. Out entire
+     division was then formed in two ranks around the field; <unclear>there</unclear> were so many
+     men detailed out of the different Companies to shoot them &amp; they were divided into 10
+     squads, with a reserve to each. After everything was ready the command fire was given All
+     firing at the same time: the shots did not <add hand="h1" place="inline">all</add> take effect.
+     Consequently the reserve had to be called in, this <pb n="2"/>looked still harder, to see them
+     shot at the second time when they were in the agonies of death! but such was their lot. I trust
+     they were prepared, and are now uniting their songs of praise with the Angels of God around his
+     throne on high.</p>
+    <p>I must close for the present as it is now getting so dark I can scarcely see. Good night.
+     Good night.</p>
+    <p>How are you this morning? Well I hope! I will add a few lines, although I am sorry to say
+     that I have no news worth relating. The most news and the most we have now is, that we are
+     going to <orig reg="Tennessee">Tenessee</orig>. It is said one division of our Corps has
+     already gone. I trust however <hi rend="underline">we</hi> will not go: would rather not. <orig
+      reg="Everything">Every thing</orig> remains quiet on the Rappahannock up to this time. Some
+     little canonading has been heard in the direction of Fredricksburg during the past <pb n="3"
+     />week. Charleston still continues to hold out &amp; the greatest confidence prevails among
+     the men &amp; the people of that place. Last Saturday week there was a <hi rend="underline"
+      >picnic</hi> given by the Commissary <unclear>&amp;</unclear> Quartermasters &amp; of
+     our division as a testimonial of their regard to <abbr expan="General">Genl</abbr> Johnson. All
+     our <abbr expan="Generals">Genls</abbr> with the exception of Lee was present together with
+     more than 100 ladies from the surrounding <unclear>Country</unclear>. They danced from early in
+     the morning till sundown. <orig reg="everyone">every one</orig> seemed to enjoy themselves very
+     much some one way &amp; some another, strange to say I did not speak to a lady on the
+     occasion but was merely an idle spectator. had the crowd been graced with <hi rend="underline"
+      >your</hi> presence, I then could have enjoyed myself. But I must close.</p>
+
+    <closer>
+     <salute> My love to all &amp; believe me to be as ever <hi rend="underline">yours</hi>.</salute>
+     <signed>Frank</signed>
+     <seg type="postscript">P.S. Don't forget what I wrote you before</seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

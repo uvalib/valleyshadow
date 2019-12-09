@@ -1,0 +1,567 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1247"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1247">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: Invoices of donations to
+                    Augusta County Freedmen's Bureau, February 16, 1866</title>
+        <title type="sort">freedmens bureau records invoices of donations to augusta county freedmens bureau, february 16 1866</title>
+        <author>[Woodhull, Max]</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">10</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1247</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501095</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: Invoices of donations to Augusta County
+                            Freedmen's Bureau, February 16, 1866</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records invoices of donations to augusta county freedmens bureau, february 16 1866</title>
+            <author/>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 18.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1866-02-16">1866-02-16</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Aid/Relief</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-06">June 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+                <item>Item proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1247T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Invoices of clothing and other supplies Superintendent Frederick S. Tukey
+                    received from the Freedmen's Relief Association in Philadelphia.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+               
+
+            
+
+                <p>#127<lb/> Invoice forwarded from the Women's Central Branch, Pennsylvania
+                    Freedmen's Relief Association, No. 418, Walnut <abbr expan="Street">St.</abbr>
+                    Philadelphia to <abbr expan="Frederick">F.</abbr> S. Tukey, Staunton <abbr
+                        expan="Virginia">Va.</abbr> Care <abbr expan="Major">Maj.</abbr>
+                    Cadwallader, Richmond, <abbr expan="Virginia">Va</abbr>.</p>
+
+                <p>Box 146<lb/>Date <abbr expan="February">Febr.</abbr> 16 1866</p>
+
+                <p>Cash value $225</p>
+
+                <p>
+                    <table>
+
+                        <row>
+                            <cell/>
+                            <cell>
+                                <hi rend="underline">old</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="underline">new</hi>
+                            </cell>
+                            <cell/>
+                            <cell>
+                                <hi rend="underline">old</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="underline">new</hi>
+                            </cell>
+                        </row>
+
+                        <row>
+                            <cell>Boys Suits</cell>
+                            <cell/>
+                            <cell>12</cell>
+                            <cell>Pants</cell>
+                            <cell>2</cell>
+                            <cell/>
+                        </row>
+
+                        <row>
+                            <cell>Chemises</cell>
+                            <cell/>
+                            <cell>68</cell>
+                            <cell>Shirts (cotton)</cell>
+                            <cell/>
+                            <cell>7</cell>
+                        </row>
+
+                        <row>
+                            <cell>Drawers (woolen)</cell>
+                            <cell/>
+                            <cell>6</cell>
+                            <cell>Skirts (woolen)</cell>
+                            <cell/>
+                            <cell>20</cell>
+                        </row>
+
+                        <row>
+                            <cell>
+                                <abbr expan="Drawers">"</abbr> (cotton)</cell>
+                            <cell/>
+                            <cell>10</cell>
+                            <cell>Stockings <abbr expan="(woolen)">"</abbr></cell>
+                            <cell/>
+                            <cell>2</cell>
+                        </row>
+
+                        <row>
+                            <cell>Dresses (woolen)</cell>
+                            <cell/>
+                            <cell>13</cell>
+                            <cell>Slips</cell>
+                            <cell/>
+                            <cell>14</cell>
+                        </row>
+
+                        <row>
+                            <cell>
+                                <abbr expan="Dresses">"</abbr> (cotton) womens</cell>
+                            <cell/>
+                            <cell>10</cell>
+                            <cell>Ticking (bed)</cell>
+                            <cell>1</cell>
+                            <cell/>
+                        </row>
+
+                        <row>
+                            <cell>
+                                <abbr expan="Dresses">"</abbr> Small</cell>
+                            <cell/>
+                            <cell>25</cell>
+                            <cell>Vests</cell>
+                            <cell>2</cell>
+                            <cell/>
+                        </row>
+
+                    </table>
+                </p>
+
+                <p>Total number of peices. . . . .194</p>
+
+                <pb n="2"/>
+
+                <p>Box 147<lb/>Date <abbr expan="February">Feb</abbr> 16th 1866</p>
+
+                <p>Cash Value $150</p>
+
+                <p>
+
+                    <table>
+                        <row>
+                            <cell/>
+                            <cell>
+                                <hi rend="underline">Old</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="underline">New</hi>
+                            </cell>
+                            <cell/>
+                            <cell>
+                                <hi rend="underline">Old</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="underline">New</hi>
+                            </cell>
+                        </row>
+
+                        <row>
+                            <cell>Armlets</cell>
+                            <cell>3</cell>
+                            <cell/>
+                            <cell>Peices</cell>
+                            <cell>3</cell>
+                            <cell/>
+                        </row>
+
+                        <row>
+                            <cell>Books Packages</cell>
+                            <cell/>
+                            <cell>2</cell>
+                            <cell>Quilts</cell>
+                            <cell>1</cell>
+                            <cell/>
+                        </row>
+
+                        <row>
+                            <cell>Bag thread &amp; Needles</cell>
+                            <cell/>
+                            <cell>1</cell>
+                            <cell>
+                                <unclear>Sagues</unclear>
+                            </cell>
+                            <cell>1</cell>
+                            <cell/>
+                        </row>
+
+                        <row>
+                            <cell>Chemises</cell>
+                            <cell/>
+                            <cell>18</cell>
+                            <cell>Shawls</cell>
+                            <cell>2</cell>
+                            <cell/>
+                        </row>
+
+                        <row>
+                            <cell>Drawers (cotton)</cell>
+                            <cell/>
+                            <cell>22</cell>
+                            <cell>Sheets</cell>
+                            <cell>3</cell>
+                            <cell/>
+                        </row>
+
+                        <row>
+                            <cell>Dresses (woolen)</cell>
+                            <cell>2</cell>
+                            <cell>1</cell>
+                            <cell>Shoes</cell>
+                            <cell>4</cell>
+                            <cell>2</cell>
+                        </row>
+
+                        <row>
+                            <cell>Hoods</cell>
+                            <cell>3</cell>
+                            <cell/>
+                            <cell>Skirts (woolen)</cell>
+                            <cell/>
+                            <cell>21</cell>
+                        </row>
+
+                        <row>
+                            <cell>Jackets (woolen)</cell>
+                            <cell>1</cell>
+                            <cell/>
+                            <cell>
+                                <abbr expan="Skirts">"</abbr> (cotton)</cell>
+                            <cell>1</cell>
+                            <cell>1</cell>
+                        </row>
+
+                        <row>
+                            <cell>Mitts</cell>
+                            <cell/>
+                            <cell>4</cell>
+                            <cell>Socks (woolen)</cell>
+                            <cell>4</cell>
+                            <cell>12</cell>
+                        </row>
+
+                        <row>
+                            <cell>Pillow cases</cell>
+                            <cell>2</cell>
+                            <cell/>
+                            <cell>Boys suits wool</cell>
+                            <cell/>
+                            <cell>10</cell>
+                        </row>
+
+                        <row>
+                            <cell>Pants</cell>
+                            <cell>1</cell>
+                            <cell/>
+                            <cell>Testaments Packages</cell>
+                            <cell/>
+                            <cell>2</cell>
+                        </row>
+
+                        <row>
+                            <cell>Petticoats (flannel)</cell>
+                            <cell/>
+                            <cell>11</cell>
+                            <cell>Wrappers</cell>
+                            <cell>2</cell>
+                            <cell/>
+                        </row>
+
+                    </table>
+                </p>
+
+                <p>Total number of peices 142</p>
+
+                <pb n="3"/>
+
+                <p>Box 149<lb/>Date <abbr expan="February">Feb</abbr> 16/66.</p>
+
+                <p>Cash value $194.80</p>
+
+                <p>
+
+                    <table>
+
+                        <row>
+                            <cell/>
+                            <cell>
+                                <hi rend="underline">Old</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="underline">New</hi>
+                            </cell>
+                            <cell/>
+                            <cell>
+                                <hi rend="underline">Old</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="underline">New</hi>
+                            </cell>
+                        </row>
+
+                        <row>
+                            <cell>Aprons</cell>
+                            <cell/>
+                            <cell>4</cell>
+                            <cell>Mitts</cell>
+                            <cell>2</cell>
+                            <cell>1</cell>
+                        </row>
+
+                        <row>
+                            <cell>Blankets</cell>
+                            <cell>3</cell>
+                            <cell/>
+                            <cell>Pants</cell>
+                            <cell>8</cell>
+                            <cell>2</cell>
+                        </row>
+
+                        <row>
+                            <cell>Bonnets</cell>
+                            <cell>2</cell>
+                            <cell/>
+                            <cell>Petticoats (muslin)</cell>
+                            <cell/>
+                            <cell>11</cell>
+                        </row>
+
+                        <row>
+                            <cell>Boys Suits</cell>
+                            <cell>2</cell>
+                            <cell>1</cell>
+                            <cell>
+                                <unclear>Sagues</unclear>
+                            </cell>
+                            <cell>9</cell>
+                            <cell/>
+                        </row>
+
+                        <row>
+                            <cell>Chemises</cell>
+                            <cell>7</cell>
+                            <cell>42</cell>
+                            <cell>Shirts (woolen)</cell>
+                            <cell/>
+                            <cell>8</cell>
+                        </row>
+
+                        <row>
+                            <cell>Coats (Woolen)</cell>
+                            <cell>8</cell>
+                            <cell/>
+                            <cell>
+                                <abbr expan="Shirts">"</abbr> (cotton)</cell>
+                            <cell/>
+                            <cell>6</cell>
+                        </row>
+
+                        <row>
+                            <cell>Cravats</cell>
+                            <cell>3</cell>
+                            <cell/>
+                            <cell>Stockings (Woolen)</cell>
+                            <cell>8</cell>
+                            <cell/>
+                        </row>
+
+                        <row>
+                            <cell>Drawers (woolen)</cell>
+                            <cell/>
+                            <cell>7</cell>
+                            <cell>Ticking (bed)</cell>
+                            <cell/>
+                            <cell>2</cell>
+                        </row>
+
+                        <row>
+                            <cell>
+                                <abbr expan="Drawers">"</abbr> (cotton)</cell>
+                            <cell/>
+                            <cell>8</cell>
+                            <cell>Turbans</cell>
+                            <cell/>
+                            <cell>13</cell>
+                        </row>
+
+                        <row>
+                            <cell>Dresses <abbr expan="(cotton)">"</abbr>
+                            </cell>
+                            <cell/>
+                            <cell>6</cell>
+                            <cell>Vests</cell>
+                            <cell>11</cell>
+                            <cell/>
+                        </row>
+
+                        <row>
+                            <cell>Floor cloth</cell>
+                            <cell>1</cell>
+                            <cell>3</cell>
+                            <cell>Wrappers</cell>
+                            <cell>1</cell>
+                            <cell/>
+                        </row>
+
+                        <row>
+                            <cell>Hoods</cell>
+                            <cell>3</cell>
+                            <cell>4</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+
+                        <row>
+                            <cell>Jackets (Woolen)</cell>
+                            <cell>3</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+
+                    </table>
+
+                </p>
+
+                <pb n="4"/>
+
+                <p>War Department<lb/>Bureau Refugees, Freedmen and Abandoned Lands<lb/>Washington,
+                        <abbr expan="February">Feb.</abbr> 16, 1866</p>
+
+                <closer>
+                    <salute/>
+                    <signed>Official copy, Max Woodhull<lb/><abbr expan="Colonel">Col.</abbr>
+                        &amp; <abbr expan="Assistant Adjutant General">A.A.
+                    Genl.</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

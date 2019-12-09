@@ -1,0 +1,4223 @@
+<?xml version="1.0"?>
+
+<?dlps id="FD1012"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+
+
+
+
+]> 
+
+<TEI.2 id="FD1012"> 
+<teiHeader type="migrated"> 
+
+    <fileDesc> 
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Diary of David W. Wagner (1864)</title>
+        <title type="sort">franklin county diary of david w wagner 1864</title>
+        <author>Wagner, David W.</author>
+        <editor/>
+        <respStmt> 
+          <resp>Creation of machine-readable version: </resp> 
+          <name>Elizabeth Crocker</name> 
+          <resp>Conversion to TEI.2-conformant markup:</resp> 
+          <name>Elizabeth Crocker</name> 
+        </respStmt>
+      </titleStmt> 
+
+      <extent>
+        <num type="kilobytes"> 80 kilobytes</num>
+      </extent> 
+      <publicationStmt> 
+        <publisher>Virginia Center for Digital History</publisher> 
+        <pubPlace>Charlottesville, Virginia </pubPlace> 
+
+        <idno type="VCDH">FD1012</idno> 
+
+        <!--
+<availability> 
+<p>Publicly accessible </p> 
+<p n="public">URL:
+http://jefferson.village.virginia.edu/vshadow2/</p> 
+<p>copyright 1998, by the Rector and Visitors of the University
+of 
+Virginia</p> 
+</availability>
+--> 
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1998 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1998">1998</date> 
+        <idno type="uva-pid">uva-lib:500350</idno>
+      </publicationStmt> 
+      <seriesStmt> 
+        <p>Valley of the Shadow:  Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt> 
+      <notesStmt>
+        <note/>
+      </notesStmt> 
+
+      <sourceDesc> 
+        <biblFull> 
+          <titleStmt>
+            <title>Franklin County: Diary of David W. Wagner</title>
+            <title level="m"> </title>
+            <title type="sort">franklin county diary of david w wagner</title>
+            <author>David W. Wagner</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt> 
+          <editionStmt> 
+            <p> </p> 
+          </editionStmt> 
+          <extent/> 
+          <publicationStmt> 
+            <publisher/> 
+            <pubPlace/> 
+            <date value=""/> 
+            <idno type="callNo">Source copy consulted: David Wagner Papers, Civil War Miscellaneous Collection, U. S. Army Military History Institute, Carlisle Barracks, Pennsylvania</idno> 
+          </publicationStmt> 
+          <seriesStmt>
+            <p>Valley of the Shadow: Two Communities in the American Civil War</p>
+          </seriesStmt> 
+          <notesStmt> 
+            <note/>
+          </notesStmt> 
+        </biblFull> 
+      </sourceDesc> 
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from U. S. Army Military History Institute, Carlisle Barracks, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc> 
+
+    <profileDesc> 
+      <creation>
+        <dateRange from="1864-01-01" to="1864-11-13">1864-01-01; 1864-11-13</dateRange>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage> 
+      <textClass> 
+        <keywords> 
+          <term>
+Battle Description, Camp Life, Church/Religious Activity, 
+Death/Casualties, Enlistment, Family, Prisons/Prisoners, Women
+</term> 
+          <term>American Civil War</term>
+        </keywords> 
+      </textClass> 
+    </profileDesc> 
+
+    <revisionDesc> 
+      <change> 
+        <date value="2001">Fall 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Desi Hopkins</name>
+        </respStmt> 
+        <item>Proofread against original; corrections made.</item> 
+      </change> 
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc> 
+  </teiHeader> 
+
+<text id="FD1012T">
+<front id="d2">
+<div1 id="FD1012bio" type="bio">
+<head>Biography
+<!-- <ref n="" >FD1012bio</ref> -->
+</head>
+<p>David Wagner was a 23-year-old farmer when he enlisted in the
+107th 
+Pa. in 1862.  In his diary he describes the movement of the
+107th in
+1864, and includes details about a Salisbury, North Carolina,
+military 
+prison in which he was confined.</p> </div1> </front>
+
+<body id="d4">
+
+
+<div1 id="FD10121864" type="part" n="1864">
+<head>1864
+<!-- <ref n="" >FD10121864</ref> -->
+</head>
+
+
+<div2 type="section" n="1864-01" id="d6">
+<head>January 1864
+ <!-- <ref n="" >
+Camp Life
+</ref> --> 
+</head>
+
+
+
+<div3 type="entry" n="1864-01-01" id="d7">
+<head>January 1 - Friday</head>
+
+<p>The morning clear and windy and nothing to do in the fore-
+noon and 
+nothing in the after as it was wet.</p></div3>
+
+
+<div3 type="entry" n="1864-01-02" id="d8">
+<head>January 2 - Saturday</head>
+
+<p>Changed our camp and began to construct our tents and mark
+off the 
+
+ground.</p></div3>
+
+
+
+<div3 type="entry" n="1864-01-03" id="d9">
+<head>January 3 - Sunday</head>
+
+<p>Building commenced right this mornings rain.</p></div3>
+
+
+
+<div3 type="entry" n="1864-01-04" id="d10">
+<head>January 4 - Monday</head>
+
+<p>Building at our quarters. Snow and rain. Nothing
+new.</p></div3>
+
+
+
+<div3 type="entry" n="1864-01-05" id="d11">
+<head>January 5 - Tuesday</head>
+
+<p>A letter answered. Building at our houses. Wet and messy.
+Nothing new 
+
+on this day.</p></div3>
+
+
+
+<div3 type="entry" n="1864-01-06" id="d12">
+<head>January 6 - Wednesday Am</head>
+
+<p>The <orig reg="whole">hole</orig> Regiment on inner picket.
+Arms Stacked in front ready for an 
+
+<orig  reg="attack">atact</orig> by the enemy.</p></div3>
+
+
+
+<div3 type="entry" n="1864-01-07" id="d13">
+<head>January 7 - Thursday</head>
+
+<p>Nothing of importance going on to day as it is cold and
+cloudy. It 
+
+commenced to snow about 8 O'Clock in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-01-08" id="d14">
+<head>January 8 - Friday Am</head>
+
+<p>It snowed about three inches last night. I caught 3 Rabbits
+near 
+
+Mitchells Station in the morning. Done nothing the balance of
+the 
+
+day.</p></div3>
+
+
+
+<div3 type="entry" n="1864-01-09" id="d15">
+<head>January 9 - Saturday</head>
+
+<p>Nothing of importance going on to day as it is verry cold and
+
+
+windy.</p></div3>
+
+
+
+<div3 type="entry" n="1864-01-10" id="d16">
+<head>January 10 - Sunday</head>
+
+<p>Sunday morning all quiet in camp nothing going on of
+importance. The 
+
+air cool with wind.</p></div3>
+
+
+
+<div3 type="entry" n="1864-01-11" id="d17">
+<head>January 11 - Monday</head>
+
+<p>Monday morning cool nothing going on in this part of the
+army. Five 
+
+of Co. B went out on picket.</p></div3>
+
+
+
+<div3 type="entry" n="1864-01-12" id="d18">
+<head>January 12 - Tuesday</head>
+
+<p>A Splendid day in Camp. Nothing to do.</p></div3>
+
+
+
+<div3 type="entry" n="1864-01-13" id="d19">
+<head>January 13 - Wednesday</head>
+
+<p>Still nothing to do cold and windy. No drill since we came to
+this 
+
+Camp.</p></div3>
+
+
+
+<div3 type="entry" n="1864-01-14" id="d20">
+<head>January 14 - Thursday</head>
+
+<p>No duty to do yet except Picket and Camp duty. Inspection
+tomorrow 
+
+at 9 <orig reg="o'clock PM">0. C. P. M.</orig></p></div3>
+
+
+
+<div3 type="entry" n="1864-01-15" id="d21">
+<head>January 15 - Friday</head>
+
+<p>Nothing new, Captain Zeigler commanding the Regiment as Major
+H. J. 
+
+Shafer is home on Furlough.</p></div3>
+
+
+
+<div3 type="entry" n="1864-01-16" id="d22">
+<head>January 16 - Saturday</head>
+
+<p>Done nothing a fine day warm and <orig
+reg="muddy">mudy</orig>.</p></div3>
+
+
+
+<div3 type="entry" n="1864-01-17" id="d23">
+<head>January 17 - Sunday</head>
+
+<p>Sunday morning. Inspection. Cold.</p></div3>
+
+
+
+<div3 type="entry" n="1864-01-18" id="d24">
+<head>January 18 - Monday</head>
+
+<p>Rained and <orig reg="muddy">mudy</orig> no Drill.</p></div3>
+
+
+
+<div3 type="entry" n="1864-01-19" id="d25">
+<head>January 19 - Tuesday</head>
+
+<p>Cleared off very <orig reg="muddy">mudy</orig> and windy.
+Pickets went out at 12 1/2 o'clock. 5 
+
+men of Co. B 107 P.V. </p></div3>
+
+
+
+<div3 type="entry" n="1864-01-20" id="d26">
+<head>January 20 - Wednesday</head>
+
+<p>Nothing to do to day. Clear and cold. A flag of Truce past
+threw our 
+
+camp belonging to the enemy for what not knowing</p></div3>
+
+
+
+
+
+<div3 type="entry" n="1864-01-21" id="d27">
+<head>January 21 - Thursday</head>
+
+<p>The 107th on inline Picket to to be ready at anytime to
+strengthen 
+
+the Picket line.</p></div3>
+
+
+
+<div3 type="entry" n="1864-01-22" id="d28">
+<head>January 22 - Friday</head>
+
+<p>Done nothing. Dress <orig reg="Parade">Paraid</orig> at 4
+O.C. at night.</p></div3>
+
+
+
+<div3 type="entry" n="1864-01-23" id="d29">
+<head>January 23 - Saturday</head>
+
+<p>The pickets came in and 4 of B went out. Nothing else of 
+
+importance.</p></div3>
+
+
+
+<div3 type="entry" n="1864-01-24" id="d30">
+<head>January 24 - Sunday</head>
+
+<p>Sunday morning. Inspection.  The weather fine and
+warm.</p></div3>
+
+
+
+<div3 type="entry" n="1864-01-25" id="d31">
+
+<head>January 25 - Monday</head>
+
+<p>A Splendid morning and nothing to do of account. Pickets went
+out in 
+
+the afternoon 4 men out of Co. B.</p></div3>
+
+
+
+<div3 type="entry" n="1864-01-26" id="d32">
+
+<head>January 26 - Tuesday</head>
+
+<p>Done nothing. The day a fine one.</p></div3>
+
+
+
+<div3 type="entry" n="1864-01-27" id="d33">
+
+<head>January 27 - Wednesday</head>
+
+<p>All quiet and nothing going on. Pickets went out 4 men out of
+Co. B, 
+
+and the rest came in.</p></div3>
+
+
+
+<div3 type="entry" n="1864-01-28" id="d34">
+
+<head>January 28 - Thursday</head>
+
+<p>The 107 Regt on inn line Picket armes stacked and ready to
+meet the 
+
+enemy at any point they See proper to take us.</p></div3>
+
+
+
+<div3 type="entry" n="1864-01-29" id="d35">
+
+<head>January 29 - Friday</head>
+
+<p>Nothing this day a fine one. Dress <orig
+reg="Parade">Paraid</orig> at 4 in the 
+
+evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-01-30" id="d36">
+
+<head>January 30 - Saturday</head>
+
+<p>A wet dull day a detail 4 men was <orig
+reg="made">maid</orig> and reported at 7 OC. this 
+
+mornin not Knowing what for out of Co. B 107 Regt PV.</p></div3>
+
+
+
+<div3 type="entry" n="1864-01-31" id="d37">
+<head>January 31 - Sunday</head>
+
+<p>Nothing going on of importance to day. A Detail for Picket
+went out 
+at 10 1/2 A. M. and the rest came in.</p>
+</div3>
+</div2>
+
+
+<div2 type="section" n="1864-02" id="d38">
+<head>February 1864
+ <!-- <ref n="" >
+Camp Life, Church/Religious Activity, Enlistment
+</ref> --> 
+</head>
+
+
+<div3 type="entry" n="1864-02-01" id="d39">
+
+<head>February 1 - Monday</head>
+
+<p>Nothing of much interest going on to day.</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-02" id="d40">
+
+<head>February 2</head>
+
+<p>Reenlisting going on today in the Regt to see wheather 3/4 of
+the Regt 
+
+will reenlist or not</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-03" id="d41">
+<head>February 3 - Wednesday</head>
+
+<p>Done nothing of importance. Dress <orig
+reg="Parade">Paraid</orig> at 4 in the evening. The 
+<orig reg="Chaplain">Chaplin</orig> Delivered a prayer before
+the Regt.</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-04" id="d42">
+<head>February 4 - Thursday</head>
+
+<p>The 107 Regt on inn line Picket by order of G. H. Lenard
+commanding 
+
+the First Brig &amp; Div First Corps Army of Po.</p>
+<p> Dress <orig reg="Parade">Paraid</orig> the Same.</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-05" id="d43">
+
+<head>February 5 - Friday</head>
+
+<p>Came of inn line Picket at 11 OC. Nothing more of importance
+this 
+
+day. Dress <orig reg="Parade">Paraid</orig> at 4 at
+night.</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-06" id="d44">
+
+<head>February 6 - Saturday</head>
+
+<p>Marching orders last night to Start at day light. Orders
+countermanded in the morning. Rain and <orig
+reg="muddy">mudy</orig>.</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-07" id="d45">
+
+<head>February 7 - Sunday</head>
+
+<p>Orders to be ready to march at any moment. Dress <orig
+reg="Parade">Paraid</orig> at 4 in the 
+evening. The <orig reg="Chaplain">Chaplin</orig> gave us a short
+<orig reg="Sermon">Surmen</orig> and delivered a
+prayer.</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-08" id="d46">
+
+<head>February 8 - Monday</head>
+
+<p>Nothing of importance going on to day in this part of the 
+
+army.</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-09" id="d47">
+
+<head>February 9 - Tuesday</head>
+
+<p>All quiet about marching. The same duty as we have <orig
+reg="been">bin</orig> doing for some 
+
+time past.</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-10" id="d48">
+
+<head>February 10 - Wednesday</head>
+
+<p>The 107th was on inline Picket by orders of G. H. Lenard
+commanding 
+
+lst Brig.</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-11" id="d49">
+
+<head>February 11 - Thursday</head>
+
+<p>Came of inn line Picket at 10 OC. A. M. Received to month pay
+in the 
+morning.</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-12" id="d50">
+
+<head>February 12 - Friday</head>
+
+<p>A fine day. Our Camp to be inspected by General Robinson
+commanding 2 
+
+Div.</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-13" id="d51">
+
+<head>February 13 - Saturday</head>
+
+<p>The 107 Regt went out on Picket for a two days tour by
+command of G. 
+
+H. Lenard commanding first Brig. 2nd Div Ist Corps.</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-14" id="d52">
+
+<head>February 14 - Sunday</head>
+
+<p>The Regt still on Picket Duty. Nothing going on in
+Camp.</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-15" id="d53">
+
+<head>February 15 - Monday</head>
+
+<p>The Regt still on Picket. Commenced to Snow in the evening at
+6 
+
+o'clock turned into rain threw the night.</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-16" id="d54">
+
+<head>February 16 - Tuesday</head>
+
+<p>The Regt came in off Picket at 10 o'clock in the forenoon. 
+
+Rain.</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-17" id="d55">
+
+<head>February 17 - Wednesday</head>
+
+<p>A cold day me and my tent mates cut a load of wood today.
+Dress 
+
+<orig reg="Parade">Paraid</orig> at 4 in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-18" id="d56">
+
+<head>February 18 - Thursday</head>
+
+<p>Nothing of importance goin on to day. The regular monthly
+inspection 
+
+took place to day at 3 O.C. P.M. Cold.</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-19" id="d57">
+
+<head>February 19 - Friday</head>
+
+<p>We wer <orig reg="sworn">Sworen</orig> in for three years or
+during the war this morning by 
+
+Capt D. S. Mathews Acting Adjutant.</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-20" id="d58">
+
+<head>February 20 - Saturday</head>
+
+<p>The 107 Regt went out on Picket this morning by order of G.
+H. Lenard 
+
+commanding lst Brigade 2nd Division lst Corps.</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-21" id="d59">
+
+<head>February 21 - Sunday</head>
+
+<p>The Regt Still on Picket. Nothing new in Camp. Weather fine
+and 
+
+warm.</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-22" id="d60">
+
+<head>February 22 - Monday</head>
+
+<p>The Regt cam off Picket at 10 O.C. in the
+forenoon.</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-23" id="d61">
+
+<head>February 23 - Tuesday</head>
+
+<p>Company &amp; <orig reg="Battalion">Batalion</orig> Drill. Dress
+<orig reg="Parade">Paraid</orig> at 4 in the evening. A fine
+day.</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-24" id="d62">
+
+<head>February 24 - Wednesday</head>
+
+<p>The 107th Regt was on inline Picket to day. Dress <orig
+reg="Parade">Paraid</orig> in the 
+
+evening at 4 o'clock.</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-25" id="d63">
+
+<head>February 25 - Thursday</head>
+
+<p>Came off inline Picket at 10 o'clock in the mornin. <orig
+reg="Battalion">Batalion</orig> Drill in 
+
+the afternoon. Brigade Dress <orig reg="Parade">Paraid</orig> at
+4 in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-26" id="d64">
+
+<head>February 26 - Friday</head>
+
+<p>The 107th Regt went on Picket this morning. So that there is
+no one 
+
+of Co. B in except the Sick, Smith &amp; myself.</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-27" id="d65">
+
+<head>February 27 - Saturday</head>
+
+<p>The Regt Still on Picket duty. Weather fine nothing going on
+in camp 
+
+of any importance.</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-28" id="d66">
+
+<head>February 28 - Sunday</head>
+
+<p>The Regt came off Picket at 10 0 C A.M. Brigade Dress <orig
+reg="Parade">Paraid</orig> at 4 in 
+
+the evening. Weather fine &amp; warm.</p></div3>
+
+
+
+<div3 type="entry" n="1864-02-29" id="d67">
+
+<head>February 29 - Monday</head>
+
+<p>Mustered for Pay and mustered out and in for three years
+longer by 
+
+<abbr expan="Lieutenant"></abbr>Lieut Meed of the 90th Pa <orig
+reg="Volunteers">Vollenteers</orig>.</p></div3>
+
+</div2>
+
+
+<div2 type="section" n="1864-03" id="d68">
+<head>March 1864
+ <!-- <ref n="" >
+Camp Life
+</ref> --> 
+</head>
+
+
+
+<div3 type="entry" n="1864-03-01" id="d69">
+
+<head>March 1 - Tuesday</head>
+
+<p>Done nothing as it rained all day.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-02" id="d70">
+
+<head>March 2 - Wednesday</head>
+
+<p>The 107 Regt on inline Picket by order G. H. Lenard
+commanding lst 
+
+Brig 2nd Div 1st Corps.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-03" id="d71">
+
+<head>March 3 - Thursday</head>
+
+<p><orig reg="Battalion">Batallion</orig> Drill in the afternoon
+by Colonel McCoy commanding 
+
+Rgt.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-04" id="d72">
+
+<head>March 4 - Friday</head>
+
+<p>Company Drill in the morning and <orig
+reg="Battalion">Batallion</orig> in the after. Dress <orig
+reg="Parade">Paraid</orig> 
+
+in the evening at 5 O.C.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-05" id="d73">
+
+<head>March 5 - Saturday</head>
+
+<p>Nothing to day but prepared for Sunday morning inspection.
+Brigade 
+
+Dress <orig reg="Parade">Paraid</orig> in the evening at 5
+O'clock.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-06" id="d74">
+
+<head>March 6 - Sunday</head>
+
+<p>Sunday morning inspection by Col. McCoy commanding the Regt.
+March 
+
+the 6th 1864 the Regt went on Picket at 12 O.C.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-07" id="d75">
+
+<head>March 7 - Monday</head>
+
+<p>The Regt Still on Picket. Rain in the morning. Clear at 
+
+night.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-08" id="d76">
+
+<head>March 8 - Tuesday</head>
+
+<p>The Regt Still on Picket. Weather fine and warm. Nothing of 
+
+importance going on at Present in camp.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-09" id="d77">
+
+<head>March 9 - Wednesday</head>
+
+<p>The Regt came into day at 11 O'clock.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-10" id="d78">
+
+<head>March 10 - Thursday</head>
+
+<p>Wakened up at day light and Stacked arms as the rebs wer
+coming but 
+
+all in vane as they did not come.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-11" id="d79">
+
+<head>March 11 - Friday</head>
+
+<p>All quiet to day and nothing new in camp So far.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-12" id="d80">
+
+<head>March 12 - Saturday</head>
+
+<p>The 107th Regt on inline Picket by order of Colonel McCoy
+commanding 
+
+lst Brig 2 Div 1 Corps.</p>
+<p>Dress <orig reg="Parade">Paraid</orig> at 4 at
+night.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-13" id="d81">
+
+<head>March 13 - Sunday</head>
+
+<p>Sunday morning. Inspection by Major H. J. Shaefer Comn the
+Regt. 
+
+</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-14" id="d82">
+
+<head>March 14 - Monday</head>
+
+<p>Company &amp; <orig reg="Battalion">Batallion</orig> Drill.
+The weather cool. Nothing new to day. 
+
+Dress <orig reg="Parade">Paraid</orig> at 4 in the
+evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-15" id="d83">
+
+<head>March 15 - Tuesday</head>
+
+<p>The 107th Regt on inline Picket. Dress <orig
+reg="Parade">Paraid</orig> at 4 in the 
+
+evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-16" id="d84">
+
+<head>March 16 - Wednesday</head>
+
+<p>Monthly inspection to day at 10 o'clock by <abbr
+expan="Lieutenant">Lieut</abbr> Brady of the 13 <abbr
+expan="Massachusetts Volunteers">Mas Voll.</abbr> and acting
+inspection General.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-17" id="d85">
+
+<head>March 17 - Thursday</head>
+
+<p>Company &amp; <orig reg="Battalion">Batallion</orig> Dress
+<orig reg="Parade">Paraid</orig> at 4 in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-18" id="d86">
+
+<head>March 18 - Friday</head>
+
+<p>The 107 o(n)Picket Duty for the turm of three days called
+into line 
+
+at 2 in the after noon. The talk was that the rebs wer coming
+but the 
+
+did not.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-19" id="d87">
+
+<head>March 19 - Saturday</head>
+
+<p>The Regt Still on Picket. Nothing new in camp to
+day.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-20" id="d88">
+
+<head>March 20 - Sunday</head>
+
+<p>The Regt Still on Picket duty done nothing today.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-21" id="d89">
+
+<head>March 21 - Monday</head>
+
+<p>The Regt came off Picket to day at 4 O.C. in the evening.
+nothing new 
+
+in camp of importance.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-22" id="d90">
+
+<head>March 22 - Tuesday</head>
+
+<p>Company drill in the morning. Signed the Pay Rolls in the
+afternoon.  
+
+Comenced to Snow at 2 O.C in the P.M.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-23" id="d91">
+
+<head>March 23 - Wednesday</head>
+
+<p>Got <orig reg="paid">payed</orig> in the morning. Snowed all
+last night and had a big time 
+
+moving it of the streets <orig reg="through">threw</orig> the
+Regt. Dress <orig reg="Parade">Paraid</orig> at 4 at
+night.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-24" id="d92">
+
+<head>March 24 - Thursday</head>
+
+<p>Relieved from inline Picket this morning as I forgot to
+mention in 
+
+the 23rd no drills. Dress <orig reg="Parade">Paraid</orig> at 4
+P.M.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-25" id="d93">
+
+<head>March 25 - Friday</head>
+
+<p>Company drill in the morning and <orig
+reg="Battalion">Batallion</orig> Drill in the afternoon. 
+
+Snow and rain.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-26" id="d94">
+
+<head>March 26 - Saturday</head>
+
+<p>The 107th Regt on inline Picket by order of G. H. Lenard
+commanding 
+
+First Brigade. I was in <orig reg="Culpepper">Culpeper</orig> to
+day very mudy.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-27" id="d95">
+
+<head>March 27 - Sunday</head>
+
+<p>Company Inspection in the morning. Dress <orig
+reg="Parade">Paraid</orig> in the evening at 4 
+
+O'Clock.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-28" id="d96">
+
+<head>March 28 - Monday</head>
+
+<p>Company drill in the morning and <orig
+reg="Battalion">Batallion</orig> in the afternoon. Dress 
+
+<orig reg="Parade">Paraid</orig> in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-29" id="d97">
+
+<head>March 29 - Tuesday</head>
+
+<p>Done nothing to day as it has bin raining since this morning
+and is 
+
+getting wors &amp; raining faster.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-30" id="d98">
+
+<head>March 30 - Wednesday</head>
+
+<p>No Drill. Company inspection at 1 O.C. P.M. Dress <orig
+reg="Parade">Paraid</orig> at 4 
+
+P.M.</p></div3>
+
+
+
+<div3 type="entry" n="1864-03-31" id="d99">
+
+<head>March 31 - Thursday</head>
+
+<p>Done nothing. Got ready to go home. Dress <orig
+reg="Parade">Paraid</orig> at 4 P.M.</p></div3>
+
+</div2>
+
+
+
+<div2 type="section" n="1864-04" id="d100">
+<head>April 1864
+ <!-- <ref n="" >
+Camp Life, Church/Religious Activity, Family, Women
+</ref> --> 
+</head>
+
+
+<div3 type="entry" n="1864-04-01" id="d101">
+
+<head>April 1 - Friday</head>
+
+<p>Started for home at 8 O.C. in the morning. Arrived at
+Washington at 6 
+
+in the afternoon put up at the Soldiers rest for the
+night.</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-02" id="d102">
+
+<head>April 2 - Saturday</head>
+
+<p>Left there at 8 at night for Baltimore arrived there at 4 in
+the 
+
+morning. Rain.</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-03" id="d103">
+
+<head>April 3 - Sunday</head>
+
+<p>Left Baltimore at 10 O.C. A.M. for Harrisburg. Arrived at
+Harrisburg 
+
+5 in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-04" id="d104">
+
+<head>April 4 - Monday</head>
+
+<p>Lay at Camp Curtain all day.</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-05" id="d105">
+
+<head>April 5 - Tuesday</head>
+
+<p>Left Camp Curtain at 10 O.C. A.M. for home. At the <orig
+reg="theater">theatre</orig> at 
+
+night.</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-06" id="d106">
+
+<head>April 6 - Wednesday</head>
+
+<p>Left Harrisburg for home at 1 O.C., P.M. arrived at home at 8
+
+
+O'Clock at night.</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-07" id="d107">
+
+<head>April 7 - Thursday</head>
+
+<p>Roved arround home all day. Clear.</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-08" id="d108">
+
+<head>April 8 - Friday</head>
+
+<p>Visited the town of Newburg to day. Clear.</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-09" id="d109">
+
+<head>April 9 - Saturday</head>
+
+<p>Went to Sailhamers &amp; Shoaps to Spend the day.  Started
+home at sun 
+
+set.  Rain.</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-10" id="d110">
+
+<head>April 10 - Sunday</head>
+
+<p>Went to Newburg to attend Divine Service in the Winebernerian
+
+
+Church.</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-11" id="d111">
+
+<head>April 11 - Monday</head>
+
+<p>Around home all day. Visited Burkholders in the after-
+noon.</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-12" id="d112">
+
+<head>April 12 - Tuesday</head>
+
+<p>Visited Simon Mowers in the forenoon and went to Newburg in
+the 
+
+afternoon. Wrote by A. R. Miller &amp; Remember me
+David.</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-13" id="d113">
+
+<head>April 13 - Wednesday</head>
+
+<p>Ralied around home in the forenoon. Visited Geesamans in the
+after 
+
+noon. Rainy.</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-14" id="d114">
+
+<head>April 14 - Thursday</head>
+
+<p>Visited Bakers &amp; Shoaps on this day by the risk of
+bullets. Clear. 
+
+Cloudy.</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-15" id="d115">
+
+<head>April 15 - Friday<ref n="1" target="Wagner1">1</ref> </head>
+
+<p>Mr. David W. Wagner and Samuel Mitchel came to Soddom and
+they 
+
+pitched horseshoes and at night we <orig
+reg="played">plaid</orig> Crossy Crown. Mr. William 
+
+McNeal.</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-16" id="d116">
+
+<head>April 16 - Saturday<ref n="2" target="Wagner2">2</ref> </head>
+
+<p>Pitched two games of horse shoes in the morning It then
+commenced to 
+
+rain went to Fousts then came back to Mitchels. Raining all 
+
+day.</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-17" id="d117">
+
+<head>April 17 - Sunday<ref n="3" target="Wagner3">3</ref> (In David
+Wagner's handwriting again) Mr. S. H. 
+
+Mitchells</head>
+
+<p>Sunday morning wet and rain. Went to Clover Hill in the
+afternoon 
+
+clear &amp; and to the Brick Church at night.</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-18" id="d118">
+
+<head>April 18 - Monday</head>
+
+<p>Visited Roxbury and Uncle Hugh to day a fine day. Stayed all
+night at 
+
+Uncles.</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-19" id="d119">
+
+<head>April 19 - Tuesday</head>
+
+<p>Startef for home at 8 O.C. in the morning. Arrived at home at
+4 P.M. 
+
+Took dinner at Jacob Millers.</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-20" id="d120">
+
+<head>April 20 - Wednesday</head>
+
+<p>Visited Laughlins and Snoaks and went to Newburg &amp; Barrs
+at night. 
+
+Clear.</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-21" id="d121">
+
+<head>April 21 - Thursday</head>
+
+<p>Visited Shipensburg to day and got home at 9 in the evening.
+Clear. 
+
+</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-22" id="d122">
+
+<head>April 22 - Friday</head>
+
+<p>At home in the forenoon. Started to Mrs. Millers in the
+afternoon. 
+
+Went to Sirus Hazelets in the evening with Cousin Wm. Stevens.
+Examined 
+
+Stevens at 8 O.C.</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-23" id="d123">
+
+<head>April 23 - Saturday</head>
+
+<p>Started to Newburg. Went by the way of Bakers then to McLays
+Mill. 
+
+Got back to town. Started to Zion at Sun Set. Got back at 10
+O.C. Had a 
+
+good tilme.</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-24" id="d124">
+
+<head>April 24 - Sunday</head>
+
+<p>Started for Cousin Rosannas at 9 A.M. Arrived there at 12 M.
+&amp; was 
+
+sick. On the way left David Smiths About 5 Oclock P.M. &amp; went
+to 
+
+grandmothers for the night. Cousin Will went home. Clear. Wm.
+Stevens<ref n="4" target="Wagner4">4</ref>.</p>
+</div3>
+
+
+
+<div3 type="entry" n="1864-04-25" id="d125">
+
+<head>April 25 - Monday</head>
+
+<p>Left Grandmothers at 8 O.C. &amp; went to Mr. Hemphills. Left
+there at 2 P.M. for Newburg. Stayed with Uncle James Reeder over
+night. 
+
+Clear.</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-26" id="d126">
+
+<head>April 26 - Tuesday</head>
+
+<p>I left Newburg this morning and came to Mr. Hollars Raising
+and what 
+
+a fine lot of ladies was there. This was wrote at 12 O.C. by
+Ligan 
+
+Mitchell.</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-27" id="d127">
+<head>April 27 - Wednesday</head>
+
+<p>Left home for Mifflin at 8 O.C. in the morning. Took dinner
+with Geo. Geebys. Went to <orig reg="Uncles">Unkles</orig> at 2 O.C. &amp; 
+<orig reg="stayed">Staid</orig> for the night to Mrs. McElwains
+in the afternoon.</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-28" id="d128">
+
+<head>April 28 - Thursday</head>
+
+<p>Left <orig reg="Uncles">Unkles</orig> at 8 in the morning
+took Dinner with Jacob Heberlings. 
+
+Started for home at 2. Arrived at home at 4. Up along the
+mountain that night and had a good time.</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-29" id="d129">
+
+<head>April 29 - Friday</head>
+
+<p>At home in the forenoon went to D. Bakers in the after. Took
+<orig reg="supper">Super</orig> there and then went home &amp; from that to M. Hoovers to spend
+the night.</p></div3>
+
+
+
+<div3 type="entry" n="1864-04-30" id="d130">
+<head>April 30 - Saturday</head>
+
+<p>Started for Sodom in the morning got there at 10 O.C. Took
+dinner at Rineharts took supper at Mitchells. Started for home at 4 O.C.
+got home at 2 OC. at night.</p></div3>
+
+</div2>
+
+
+<div2 type="section" n="1864-05" id="d131">
+<head>May 1864
+ <!-- <ref n="" >
+Battle Description, Camp Life, Church/Religious Activity, 
+Death/Casualties, Family
+</ref> --> 
+</head>
+
+
+
+<div3 type="entry" n="1864-05-01" id="d132">
+
+<head>May 1 - Sunday</head>
+
+<p>Sunday Morning went to Clover Hill to Church at 10 went home
+for 
+
+Diner and back for <orig reg="Sabbath">Sabeth</orig> School.
+Went to Newburg at night and had some 
+
+fun.</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-02" id="d133">
+
+<head>May 2 - Monday</head>
+
+<p>This day at home all the time James Laughlin came down in the
+
+
+evening. Rain.</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-03" id="d134">
+
+<head>May 3 - Tuesday</head>
+
+<p>At home in the forenoon went to Hensels took Dinner. Came
+back home 
+
+at 1 O.C. went to John Millers in the afternoon. Stayed for
+Super and a 
+
+while after then went home.</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-04" id="d135">
+
+<head>May 4 - Wednesday</head>
+
+<p>Started for Harrisburg at 8 from Home. Stoped at Carlisle for
+the 
+
+night with <orig reg="Uncle">Unkle</orig> Johns. Went to Town
+that night &amp; had a time.</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-05" id="d136">
+
+<head>May 5 - Thursday</head>
+
+<p>Left Carlisle at 2 P.M. for Harrisburg <orig
+reg="arrived">arived</orig> 4 in the evening. 
+
+Stayed there all night.</p></div3>
+
+<div3 type="entry" n="1864-05-06" id="d137">
+<head>May 6 - Friday</head>
+
+<p>Went out to Camp at 8 A.M. Got our arms at 12 O.C. Dress
+<orig reg="Parade">Paraid</orig> at 5 
+O.C. Went to town and stayed there for the night.</p></div3>
+
+<div3 type="entry" n="1864-05-07" id="d138">
+<head>May 7 - Saturday</head>
+
+<p>A fine morning came to Camp at 8 A.M. Went to town at 2 P.M.
+&amp; stayed 
+
+to 11 at night then came out to Camp.</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-08" id="d139">
+
+<head>May 8 - Sunday</head>
+
+<p>Sunday morning a fine morning went to Town at night. Came out
+to Camp 
+
+at 12 O.C.</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-09" id="d140">
+
+<head>May 9 - Monday</head>
+
+<p>Started for Baltimore at 10 A.M. Arrived there at 6 in the
+evening. 
+
+Put up at the Soldiers Rest. A Shower as we came into
+town.</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-10" id="d141">
+
+<head>May 10 - Tuesday</head>
+
+<p>In the Soldiers rest at 8 in the morning. No orders when to
+start. A 
+
+fine morning. Started for Washington at 10 OC., A.M. <orig
+reg="arrived">arived</orig> there at Sun 
+
+Set. Stayed in the <orig
+reg="retreat">Retreet</orig>.</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-11" id="d142">
+
+<head>May 11 - Wednesday</head>
+
+<p>Still in the Rest at 8 A.M. Left there at 12 O.C. for Aquia
+Creak in 
+
+a <orig reg="steam">Steem</orig> boat <orig
+reg="didn't">dident</orig> get far that night. On the boat all
+night. Rain.</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-12" id="d143">
+
+<head>May 12 - Thursday</head>
+
+<p>On the boat all day or Still on at 4 O.C., P.M. laying at
+anchor. 
+
+Staid on that night. Heavy rain and thunder.</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-13" id="d144">
+
+<head>May 13 - Friday</head>
+
+<p>Still on the River near the landing at anchor. There is 3
+Boats in 
+
+view up at the Landing at 10 A.M.. Got off at 5 in the evening &amp; 
+camped 
+
+for the night. Rain.</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-14" id="d145">
+
+<head>May 14 - Saturday</head>
+
+<p>Left there for <orig reg="Fredericksburg">Fredricsburg</orig>
+at 8 in the morning. Wounded passed us all day going back.
+Encamped.in a house all night near <orig
+reg="Fredericksburg">Fredricsburg</orig>. 
+
+Thunder showers in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-15" id="d146">
+
+<head>May 15 - Sunday</head>
+
+<p>Left here and moved to the other side of <orig
+reg="Fredericksburg">Fredricsburg</orig> &amp; Encamped for 
+
+the night. <orig reg="Thundershower">Thundershour</orig> in the
+evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-16" id="d147">
+
+<head>May 16 - Monday</head>
+
+<p>Left here for the front at 6 O.C. in the morning got out I
+P.M. 
+
+<orig reg="Cannonading">Canonading</orig> on the right at 3 P.M.
+Encamped in a field over night. 
+
+<orig reg="Cannonading">Canonading</orig> <orig
+reg="ceased">seased</orig> at 1. Rain.</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-17" id="d148">
+
+<head>May 17 - Tuesday</head>
+
+<p>Moved to the right and threw up breast works at 4 O.C. in the
+
+
+evening. All quiet along the lines to day &amp; at dark the
+same.</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-18" id="d149">
+
+<head>May 18 - Wednesday</head>
+
+<p><orig reg="Cannonading">Canonading</orig> and Skirmishing
+commenced at day break. Moved to the left 
+
+at 8 under a heavy <orig reg="cannonade">canonade</orig> at 10 a
+chance Shot. At 11 all quiet and 
+
+moved to the right in a woods. Went to the right at 11 at night.
+
+
+Rain.</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-19" id="d150">
+
+<head>May 19 - Thursday</head>
+
+<p>Lay in the brestworks all day. A fight on the right in the
+evening at 
+
+4 O.C. the Rebs drove back. All quiet at dark. In the
+Entrenchments all 
+
+night. Rain in the afternoon.</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-20" id="d151">
+
+<head>May 20 - Friday</head>
+
+<p>A shot or two at daylight of <orig reg="cannon">Canon</orig>
+&amp; a chance Shot along the line. 
+
+The same all day. A Chance Musket Shot. Very little Cannon in
+use 
+
+today.</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-21" id="d152">
+
+<head>May 21 - Saturday</head>
+
+<p>At ten moved to the left &amp; lay in a field. The Rebs opened
+on us 
+
+and we moved to the Right where we left &amp; at 1 P.M. we moved
+to the 
+
+enemys Left flank. About 12 N Passed Guinneys Station. At 4
+crossed the 
+
+Po River &amp; Camped on a Hill.</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-22" id="d153">
+
+<head>May 22 - Sunday</head>
+
+<p>Went on at 10 and moved to bulls Church &amp; camped for the
+night. Some 
+
+Cannon firing at 2 P.M. in front but soon <orig
+reg="ceased">Seased</orig>. The Rebs in full 
+
+retreat. All quiet at dusk. Distance 10 m</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-23" id="d154">
+
+<head>May 23 - Monday</head>
+
+<p>Moved to North Anny River <orig
+reg="Skirmishing">Skremishing</orig> commenced at 10 &amp; <orig
+reg="Cannonading">Canonading</orig> 
+
+The Fifth Corps went 4 M to the right &amp; crossed the River.
+<orig reg="Skirmishing">Skremishing</orig> 
+
+in front at ox Ford &amp; had a fight. Firin all night. 10
+mi.</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-24" id="d155">
+
+<head>May 24 - Tuesday.</head>
+
+<p>Drove the enemy off last night they are in full Retreat &amp; 
+all is 
+
+quiet except on the left there is Cannon firing. We threw up
+works in 
+
+the morning. All quiet at 3 O.C., P.M. it heavy fight on the
+Left at 3. 
+
+<orig reg="Ceased">Seased</orig> at dusk. Rain at
+night.</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-25" id="d156">
+
+<head>May 25 - Wednesday</head>
+
+<p>Moved to the Left at daylight a mile or two &amp; met the
+Enemy in a 
+
+woods when heavy <orig reg="skirmishing">skremishing</orig>
+Commenced &amp; kept up. Some wounded and 
+
+killed out of the Regt. <orig
+reg="Skirmishing">Skremishing</orig> <orig
+reg="ceased">Seased</orig> at dusk. A thunder shower at
+dark.</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-26" id="d157">
+
+<head>May 26 - Thursday</head>
+
+<p>Mail today. The Same <orig
+reg="skirmishing">Skremishing</orig> at daylight and is going on
+yet. A 
+
+Thundershower in the evening. Fell back across the North Anna
+River at 
+
+10 at night &amp; the Rebs never <orig reg="knew">new</orig> it
+till we were gone.</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-27" id="d158">
+
+<head>May 27 - Friday</head>
+
+<p>Moved on towards the white house. Passed St. Pauls Church at
+8 A.M. 
+
+Stoped &amp; Cooked coffee &amp; had breakfast. Went on to
+Mangohick or near 
+
+there &amp; camped for the night rained at 4 O.C. Distance 20
+mi.</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-28" id="d159">
+
+<head>May 28 - Saturday</head>
+
+<p>Left here and' moved across the Po-Monkey River in the
+morning at 11 
+
+A.M. Went on the <orig reg="Heights">Hights</orig> &amp; deployed
+in line of battle. <orig reg="Cannonading">Canonading</orig> in 
+
+front, the Corps throwing up Entrenchments. Our Regt in Reserve.
+The 107 
+
+on Picket at night. Distance 10 miles.</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-29" id="d160">
+
+<head>May 29 - Sunday</head>
+
+<p>Came off Picket in the morning orders to march at 8 A.M. Left
+there &amp; 
+
+moved three miles to the Left &amp; threw up Entrenchments. <orig
+reg="Skirmishing">Skremishing</orig> on our front in the evening
+there all night.</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-30" id="d161">
+
+<head>May 30 - Monday</head>
+
+<p>Moved to the front about two miles &amp; threw up
+Entrenchments under the 
+
+fire of the Enemies Cannon &amp; <orig
+reg="skirmishers">Skremishers</orig> two killed and 1 wounded in
+the Regt. Commenced at 3. <orig reg="Ceased">Seased</orig> at
+dark. Some heavy work today on the right 
+
+of us.</p></div3>
+
+
+
+<div3 type="entry" n="1864-05-31" id="d162">
+
+<head>May 31 - Tuesday</head>
+
+<p>The Same as usual. <orig reg="Skirmishing">Skremishing</orig>
+in front. All quiet at noon. A heavy 
+
+fight on the right at 1 O.C. to 3 <orig
+reg="Ceased">Seased</orig> to Skirmishing, A Sharp 
+
+<orig reg="Cannonade">Canonade</orig> to the left at 4 P.M.
+Quiet at dark except usual <orig
+reg="Skirmishing">Skremishing</orig> 
+
+kept up all night.</p></div3>
+
+</div2>
+
+
+<div2 type="section" n="1864-06" id="d163">
+<head>June 1864
+ <!-- <ref n="" >
+Battle Description, Death/Casualties
+</ref> --> 
+</head>
+
+
+<div3 type="entry" n="1864-06-01" id="d164">
+<head>June 1 - Wednesday</head>
+
+<p>The same as yesterday Skirmishing Quit using chewing Tobacco
+today 
+June 1, 1864. Moved to the front at 11. We did not go far till a
+fight 
+Commenced on the right. Threw up breast works.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-02" id="d165">
+<head>June 2 - Thursday</head>
+
+<p>The Some as yesterday. Canonading to our right at 9 O.C.
+A.M., Seased 
+at 12 N. Quiet from 12 to three when a sharp fight took place on
+our 
+right &amp; we wer ordered down to take part in it. Seased at dark. 
+Rain.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-03" id="d166">
+
+<head>June 3 - Friday</head>
+
+<p>A heavy Canonade Commenced at daylight. The Enemy quiet at
+first. 
+
+Heavy work all fore noon. We went to the right Sharp Fiting
+along the 
+
+line. Canonading Seased at Dusk. 1 man wounded to day out of B
+George 
+
+Fry.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-04" id="d167">
+
+<head>June 4 - Friday</head>
+
+<p>Quiet this morning except Skremishing but two Canon Shots
+this 
+
+morning. Some Canon firing in the afternoon to the left. We
+moved to the 
+
+left at 1 O.C. &amp; there for the fight</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-05" id="d168">
+
+<head>June 5 - Sunday</head>
+
+<p>Up twice last night as the Rebs maid an atact on the Pickets.
+The 
+
+forenoon Some Skirmishing &amp; Canon Firing to our left. All quiet
+at 5 
+
+O.C. in the evening. Still some firing on the Skremish line at 8
+Moved 
+
+to near Coal Harbor &amp; stoped for the night in a
+field.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-06" id="d169">
+
+<head>June 6 - Monday</head>
+
+<p>Lay still all day. Canon Firing in our front &amp; to the left of
+us. 
+
+Orders to move at 7 in the evening but was countermanded. Stayed
+there 
+
+over night.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-07" id="d170">
+
+<head>June 7 - Tuesday</head>
+
+<p>Lay still all day. We had orders to pack up &amp; then the the
+orders 
+
+came to pitch tents &amp; go into Camp which was dun at 4 P.M. Canon
+Firing 
+
+in the front at times all day.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-08" id="d171">
+
+<head>June 8 - Wednesday</head>
+
+<p>Lay still all day the same Canon Firing in Front at times all
+day. No 
+
+infantry to be hurd. The boys of the Regt are pitching Horshoes
+and all 
+
+kinds of work going on in Camp. Heavy firing in front at dark of
+
+
+Canon.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-09" id="d172">
+
+<head>June 9 - Thursday</head>
+
+<p>There was very Heavy firing last night two heavy blasts of
+some kinds 
+
+not known &amp; firing at times all day in the Front. We are Still
+in Camp 
+
+Cleaning up. All quiet at dark.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-10" id="d173">
+
+<head>June 10 - Friday</head>
+
+<p>This has bin the quietest day we had for some 36 1 burd but
+two Canon 
+
+Shots to day. We are still in Camp. There was inspection at 9
+O.C. this 
+
+morning by Corp. Cornnelius.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-11" id="d174">
+
+<head>June 11 - Saturday</head>
+
+<p>Orders to move at 4 O.C. in the morning. Left &amp; moved at 5 to
+near 
+
+Bottom Bridge. We Stoped for the night in a field A few Cannon
+Shots in 
+
+the morning to the left of our lines &amp; a few in the evening
+towards the 
+
+Bridge.</p></div3> 
+
+
+
+<div3 type="entry" n="1864-06-12" id="d175">
+
+<head>June 12 - Sunday</head> 
+
+<p>Sunday mornin inspection at 10 O.C. Orders to move at 5 in
+the 
+
+evening. Left at Sun set &amp; crossed the Chicahominy that night.
+Marched 
+
+all night at 5 miles. Cavalry Skremishing at dusk &amp; at midnight
+in 
+
+front.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-13" id="d176">
+
+<head>June 13 - Monday</head>
+
+<p>Moved up the River about two miles when we met the Enemy &amp; 
+had a 
+
+Fight. On Skremish lost one man out of Co. K wounded. Left there
+at 9 &amp; 
+
+moved towards James river. Dust a nuisance.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-14" id="d177">
+
+<head>June 14 - Tuesday</head>
+
+<p>Moved on towards the James river in the morning got into Camp
+at 10 
+
+O.C. near the River near Charles City Court House. Distance 7
+miles. 
+
+Encamped for the night in a field two miles from the James 
+
+River.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-15" id="d178">
+
+<head>June 15 - Wednesday</head>
+
+<p>The morning pleasant &amp; all quiet in Camp at 8 A.M. Some
+Firing in our 
+
+rear at 12 M. All quiet in Camp at Sun Set. This has bin a day
+of rest 
+
+to us which we enjoy verry well.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-16" id="d179">
+
+<head>June 16 - Thursday</head>
+
+<p>Orders to moove at 1 O.C. in the morning. Left at 4 &amp; crossed
+the 
+
+James River. Took the boat Called Governer Chace at Wilson's
+Landing &amp; 
+
+Crosset to the Sout Side marched on to near
+Petersburg</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-17" id="d180">
+
+<head>June 17 - Friday</head>
+
+<p>Marched all last night. Stoped at 3 O.C. in the morning in a
+woods to 
+
+rest. Left there at 9 O.C. A.M. &amp; and moved to the Front. Firing
+and 
+
+Fighting Comenced at Daylight. Kept up till night when the Enemy
+fell 
+
+back &amp; we mooved after &amp; fighting all night no sleep.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-18" id="d181">
+
+<head>June 18 - Saturday</head>
+
+<p>This morning all quiet at day light. We moved to the Front or
+after 
+
+the Enemy as they fell back 1 1/2 M. We met them at 1 O.C. when
+a 
+
+Fighting Commenced. At 4 we moved across the Railroad. Moved
+back at 9 
+
+to threw up works. Lost too killed 1 wounded of Co B 107 
+
+Regt.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-19" id="d182">
+
+<head>June 19 - Sunday</head>
+
+<p>This morning Skremishing in front at 12 M. The same in the
+afternoon 
+
+&amp; Study canonade ceased at dark but Skirmishing. Regt up all
+night. We 
+
+have lost 16 men out of the Regt since yesterday morning the 18
+of 
+
+June.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-20" id="d183">
+
+<head>June 20 - Monday</head>
+
+<p>Skremishing along the lines in our Front. Canonading tothe
+right, 
+
+Heavy at 8 A.M. Seased at 12 M. Another at 8 O.C., P.M. to our
+right 
+
+Skremishing continually along the lines. Canonading Seased at 4
+in the 
+
+evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-21" id="d184">
+
+<head>June 21 - Tuesday</head>
+
+<p>Firing all night along the lines. Canonading at 8 A.M. which
+lasted 
+
+till 10. Canonading Commenced at 1 O.C., P.M. kept up till 4
+when it 
+
+ceased. We lost one man out of Co. B 107 Pa. to day.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-22" id="d185">
+
+<head>June 22 - Wednesday</head>
+
+<p>Skreminsing all night in Front. Canonading at intervals all
+day. A 
+
+Sharp Canonade at 5 P.M. which ceased at 6. A sharp Fight to our
+left at 
+
+9 O.C. Seased about 10 or 12 at night.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-23" id="d186">
+
+<head>June 23 - Thursday</head>
+
+<p>A heavy Fight to the right at 2 or 3 O.C. this morning with
+what 
+
+success not known. Skremishing All day a barn burnt in our Front
+at 4 
+
+P.M. A fight to our right at 8 in the evening.</p></div3> 
+
+
+
+<div3 type="entry" n="1864-06-24" id="d187">
+
+<head>June 24 - Friday</head>
+
+<p>This morning at 4 O.C. we moved to the left &amp; at 10 we were
+Shelled 
+
+by the Enemy. Lost one man out of Co B 107. A heavy fight to our
+right 
+
+at 10 which ceased at 12 M. 8 took our place in line of Battle
+for the 
+
+night.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-25" id="d188">
+
+<head>June 25 - Saturday</head>
+
+<p>Verry little Skremishing in our front. Heavy Canonading to
+our right 
+
+all day Seased for the day at 8 in the evening. This is a verry
+hot 
+
+day.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-26" id="d189">
+
+<head>June 26 - Sunday</head>
+
+<p>This morning they are Fighting on our right at daylight.
+Canonading 
+
+to our right all day. Seased at dark. We are laying in line of
+Battle 
+
+along the Jeruselum plank road. A shour in the
+evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-27" id="d190">
+
+<head>June 27 - Monday</head>
+
+<p>This morning every thing is quiet in our front as our boys
+and the 
+
+Rebe have agreed not to shoot at one another. Canonading to our
+right at 
+
+intervals day &amp; night in front of the 1st Corps which is on our
+left. A 
+
+shour in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-28" id="d191">
+
+<head>June 28 - Tuesday</head>
+
+<p>The morning is very quiet in our Front. But the Canonading is
+still 
+
+kept up to our left. Quiet all day in our Front. The same on the
+left. 
+
+We moved to the right at 7 O.C. in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-29" id="d192">
+
+<head>June 29 - Wednesday</head>
+
+<p>This morning every thing is quiet along the lines at 8 O.C.
+in the 
+
+morning	There is very heavy Canonading to our right so far that 
+
+it can just be hurd. At 8 all quiet in our Front &amp; to the right.
+I had 
+
+my tent up to night for the first time since the 16 of
+June.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-30" id="d193">
+<head>June 30 - Thursday</head>
+
+<p>This morning there has bin some Firing along the lines but it
+soon 
+got quiet. We wer Mustered for pay at 10 O.C., A. M. The
+remainder of 
+the day all quiet except on the right of our lines there has bin
+some 
+Canonading.</p></div3>
+
+</div2>
+
+
+<div2 type="section" n="1864-07" id="d194">
+<head>July 1864
+ <!-- <ref n="" >
+Battle Description, Death/Casualties</ref> --> 
+</head>
+
+
+<div3 type="entry" n="1864-07-01" id="d195">
+<head>July 1 - Friday</head>
+
+<p>This morning things are quiet with us. They are still at work
+to our 
+
+right. All quiet at 8 O.C. in the evening except to the right
+the 
+
+same.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-02" id="d196">
+
+<head>July 2 - Saturday</head>
+
+<p>At 8 O.C. in the morning everything is quiet in our Front.
+The same 
+
+as usual to the right at 4 P.M. the same. We Recd a male two day
+for the 
+
+first we had since the 20th of June.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-03" id="d197">
+
+<head>July 3 - Sunday</head>
+
+<p>All quiet in our front the same to the right. Inspection at 9
+A.M. At 
+
+4 in the evening of importance nothing but Canonading to our
+right in 
+
+front of 9 Army Corps.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-04" id="d198">
+
+<head>July 4 - Monday</head>
+
+<p>This morning quiet except Skirmishing along the the lines. I
+solemly 
+
+Sware of using intoxicating Drinks from this day 1864. All quiet
+this 
+
+day. Some firing to our right at times.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-05" id="d199">
+
+<head>July 5 - Tuesday</head>
+
+<p>This day has bin quiet with us but the same to our right. To
+day we 
+
+have Strengthened our works &amp; started to dig a well in front of
+our 
+
+Comp(any). We have it ten feet deep this evening. Every thing is
+quiet 
+
+at 8 O.C. in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-06" id="d200">
+
+<head>July 6 - Wednesday</head>
+
+<p>This morning is quiet along the lines as far as I can hear
+from. 
+
+Canonading to the right in the afternoon. The boys of the
+Company &amp; Regt 
+
+are detailed to work on a Fort. They are at work this evening.
+Quiet in 
+
+front.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-07" id="d201">
+
+<head>July 7 - Thursday</head>
+
+<p>The same detail for work this morning at 4 O.C. Canonading to
+our 
+
+right at 6 O.C., A.M. Nothing new in the after part of the day.
+The same 
+
+details for work, Canonading to the right.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-08" id="d202">
+
+<head>July 8 - Friday</head>
+
+<p>There was some Sharp firing along the lines last night of
+musketry &amp; 
+
+Artilary &amp; this morning the Same &amp; Sharp Artilary Dewel at 4
+O.C. in the 
+
+evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-09" id="d203">
+
+<head>July 9 - Saturday</head>
+
+<p>This morning all quiet along the lines. Cannons opened at 10
+O.C. &amp; 
+
+kept up to 12 M. Canon firing to our right at 2 O.C. regular
+firing all 
+
+afternoon.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-10" id="d204">
+
+<head>July 10 Sunday</head>
+
+<p>This morning there is heavy firing to our right in the
+direction of 
+
+Petersburg. Kept up to towards mid day. All quiet at night along
+the 
+
+right.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-11" id="d205">
+
+<head>July 11 - Monday</head>
+
+<p>This morning things are quiet in our front. Some firing to
+our right 
+
+in the Direction of Town. We were shelled by the Rebs in the
+evening at 
+
+4 O.C. Col. Davis of the 39 Mass. was wounded Sessed at 9 
+
+O.C.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-12" id="d206">
+
+<head>July 12 - Tuesday</head>
+
+<p>This morning firing to our right. The same all day. Shelling
+in our 
+
+front at 4 O.C. Ceased at dark. Still working on the fort. We
+moved into 
+
+the fort last night at midnight.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-13" id="d207">
+
+<head>July 13 - Wednesday</head>
+
+<p>Still in the Fort at work. Canonading toour right all
+forenoon. At 2 
+
+P.M. all is quiet along the lines. Some shelling in the evening
+but it 
+
+was not such.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-14" id="d208">
+
+<head>July 14 - Thursday</head>
+
+<p>There was some sharp firing along the lines last night of
+musketry &amp; 
+
+Artilary &amp; this morning the same Artilary firing all day at
+intervals to 
+
+the right. Three rockets went up out of the fort at 8 in the
+evening. 
+
+All quiet in front os us.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-15" id="d209">
+
+<head>July 15 - Friday</head>
+
+<p>This morning all is quiet along the lines at 9 0C, A. M.
+Canonading 
+
+in the evening at 4 O.C. to the right. Our felows blew up one of
+there 
+
+Casons which ended the fun for the time.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-16" id="d210">
+
+<head>July 16 - Saturday</head>
+
+<p>This morning everything is quiet along the lines except to
+the right 
+
+there is Canonading at 10 A. M. Seased at 4 in the evening.
+Quiet at 10 
+
+at night.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-17" id="d211">
+
+<head>July 17 - Sunday</head>
+
+<p>This is a quiet morning along the lines. Orders for
+Inspection at 10 
+
+A. M.. Inspected by one of the Staff oficers. from Brig. H. Qr. 
+
+Canonading to the right in the afternoon. Quiet at 6 in the 
+
+evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-18" id="d212">
+
+<head>July 18 - Monday</head>
+
+<p>This morning everything is quiet along the lines except the
+usual 
+
+Canonading to the right. All quiet at 6 in the evening. Still in
+the 
+
+Fort.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-19" id="d213">
+
+<head>July 19- Tuesday</head>
+
+<p>This morning every thing is quiet as it is raining. At 7
+O.C., A. M. 
+
+2 O.C. Canonading to our right. Seased raining at I P.M.
+Everything 
+
+quiet at dark.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-20" id="d214">
+
+<head>July 20 - Wednesday</head>
+
+<p>Still in the Fort. All quiet on our front in the morning &amp; 
+till 2 
+
+P.M. when Canonading was heard to our right. Kept up till dark.
+Some 
+
+Skremishing in our front at 9 O.C. in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-21" id="d215">
+
+<head>July 21 - Thursday</head>
+
+<p>This morning all in quiet except to the right the usual
+canonading 
+
+which ceased at 1 O.C. for a Short time. Nothing till 4 when a
+heavy 
+
+Artilary dual comenced to the right.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-22" id="d216">
+
+<head>July 22 - Friday</head>
+
+<p>Last night there was heavy Firing to the right.  The same
+this 
+
+morning. Some heavy Guns in side. Kept up all day, ceased at
+dark. 
+
+Skremishing the same to the right.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-23" id="d217">
+
+<head>July 23 - Saturday</head>
+
+<p>This morning things are quiet. Skremishing is kept up to our
+right. 
+
+There has been but little Canon Firing to day along the lines.
+There was 
+
+a few guns fired this morning to the right.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-24" id="d218">
+
+<head>July 24 - Sunday</head>
+
+<p>It is quiet except to the right. Sunday morning Inspection.at
+9 O.C. 
+
+A. M. Artilary firing to the right at intervals all day. Quiet
+in our 
+
+front at 6 in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-25" id="d219">
+
+<head>July 25 - Monday</head>
+
+<p>This morning there is a big noise to the right of Artilary &amp; 
+
+Infantry. The Rebs shelled our fort at 2 &amp; 8 O.C., P. M. to day.
+One man 
+
+wounded out of Co. B. Quiet at 10 P.M.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-26" id="d220">
+
+<head>July 26 - Tuesday</head>
+
+<p>This morning all is quiet with us but there is heavy firing
+to our 
+
+right since daylight with Artllary &amp; Infantry. In the evening
+the Enemy 
+
+opened with artilary on the Fort &amp; threw some 8 to 10 shells &amp; 
+Seased. 
+
+Done no harm to my knowledge.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-27" id="d221">
+
+<head>July 27 - Wednesday</head>
+
+<p>This morning all is quiet in front. There is some firing to
+our right 
+
+in the forenoon. We had orders at 2 P.M. to ready for an atact
+by the 
+
+Enemy but it was all in vane. They Shelled the Pickets in our
+Front. It 
+
+amounted to but little. All quiet at 8 P.M.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-28" id="d222">
+
+<head>July 28 - Thursday</head>
+
+<p>This Morning all is quiet in our front. There is Still Some
+firing to 
+
+our right at 4 O.C. the Enemy Shelled our Picket line &amp; threw a
+few this 
+
+way. No harm done as far as hurd from.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-29" id="d223">
+
+<head>July 29 - Friday</head>
+
+<p>Still in the Fort work everything is quiet in our front. Some
+
+
+Artilary firing to the right in the morning. All quiet at 3 P.M.
+At 6 in 
+
+the evening all quiet along the lines right &amp; left as far as can
+be hurd 
+
+from.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-30" id="d224">
+
+<head>July 30 - Saturday</head>
+
+<p>Some firing last night to the right at day light the thing
+broke loos 
+
+along the lines right &amp; left with musketry &amp; Artilary. Ceased at
+10 O.C. 
+
+All quiet in the afternoon. Some few Canon Shots in the evening
+to the 
+
+right.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-31" id="d225">
+
+<head>July 31 - Sunday </head>
+
+<p>This Morning all quiet along the lines. Inspection at 10 O.C.
+by 
+
+Companys. Some firing to our right in the evening still quiet in
+our 
+
+front.</p></div3>
+
+</div2>
+
+
+<div2 type="section" n="1864-08" id="d226">
+<head>August 1864
+ <!-- <ref n="" >
+Battle Description, Death/Casualties, Prisons/Prisoners, Women
+</ref> --> 
+</head>
+
+
+
+<div3 type="entry" n="1864-08-01" id="d227">
+
+<head>August 1 - Monday</head>
+
+<p>This has been a quiet day with us as there is nothing going
+on. There 
+
+is some firing to the right at long intervills. All quiet in our
+front 
+
+at 6 O.C. P. M.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-02" id="d228">
+
+<head>August 2 - Tuesday</head>
+
+<p>Still in the Fort Called Fort Warren. At work. Everything is
+quiet 
+
+along the lines to day as far as can be hurd from. This is a
+warm day &amp; 
+
+everything is dull &amp; quiet at 6 O.C., P. M.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-03" id="d229">
+
+<head>August 3 - Wednesday</head>
+
+<p>There was some Sharp firing last night to our right. Kept up
+till 
+
+morning when it ceased. All quiet today along the lines. Some
+firing to 
+
+the right at 8 in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-04" id="d230">
+
+<head>August 4 - Thursday</head>
+
+<p>This morning all is quiet in our front. Some Artilary firing
+to the 
+
+right in the afternoon. The Same Artilary firing at
+dark.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-05" id="d231">
+
+<head>August 5 - Friday</head>
+
+<p>This morning everything is quiet along the line in front of
+us. There 
+
+is some firing to the right in the evening at 4 O.C. all quiet
+at 8 in 
+
+the evening in our front.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-06" id="d232">
+
+<head>August 6 - Saturday</head>
+
+<p>This morning the usual firing to the right. All quiet in our
+front. 
+
+The Sane in the evening nothing new at 8 P.M.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-07" id="d233">
+
+<head>August 7 - Sunday</head>
+
+<p>This is a pleasant morning &amp; all is quiet along the lines.
+Inspection 
+
+at 10 O.C. by Company. Some Artilary firing to the right in the 
+
+afternoon. Seased at dark all quiet at 8 in the
+evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-08" id="d234">
+
+<head>August 8 - Monday</head>
+
+<p>This morning there is some firing	our right between the 
+
+Artilary kept up all day or to Sun Set when it Seased	 all quiet
+at 
+
+6 in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-09" id="d235">
+
+<head>August 9 - Tuesday</head>
+
+<p>To day all is quiet except a few Cannon Shots to our right
+all quiet 
+
+at 6 OI.C. in the evening</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-10" id="d236">
+
+<head>August 10 - Wednesday</head>
+
+<p>This Morning all is quiet in our front. Some firing to our
+right at 6 
+
+in the evening. The Enemy threw 4 Shells at Fort Warren. All
+quiet at 8 
+
+P.M.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-11" id="d237">
+
+<head>August 11 - Thursday</head>
+
+<p>The Same as usual firing to our right. All quiet in front of
+the 
+
+Fifth Corps. All quiet at 8 in the evening along the lines in
+front of 
+
+Petersburg.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-12" id="d238">
+
+<head>August 12 Friday</head>
+
+<p>This morning Some firing to the right. All quiet-the
+Remainder of the 
+
+day the Same in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-13" id="d239">
+
+<head>August 13 - Saturday</head>
+
+<p>There was some heavy firing last ninght to our right. Some
+few Shots 
+
+in our front. The Cannon are Still roaring to the right. All
+quiet at 8 
+
+in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-14" id="d240">
+
+<head>August 14 - Sunday</head>
+
+<p>Sunday Morning Inspection by Company. all quiet along the
+lines in 
+
+the fore-noon. Some firing to the ringht in the after-noon quiet
+at 
+
+dark.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-15" id="d241">
+
+<head>August 15 - Monday</head>
+
+<p>Left the Fort at 6 O.C. in the morning to the right. Stoped
+in a 
+
+woods &amp; put up a Camp.  Rain in the evening.  Some firing in our
+front 
+
+at 8 at night.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-16" id="d242">
+
+<head>August 16 - Tuesday</head>
+
+<p>Still in the woods. Orders to be ready to move in Short
+notice. 
+
+Firing in our front in the afternoon all quiet in the evening.
+Orders to 
+
+moove at 2 O.C. at night.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-17" id="d243">
+
+<head>August 17 - Wednesday</head>
+
+<p>This morning we packed up at 2 O.C. for to march. Still in
+Camp at 8 
+
+A.M. Orders Countermanded at 10. Put up for the night. Firing in
+our 
+
+front at 6 in the evening the same at 8 Still firing.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-18" id="d244">
+
+<head>August 18 - Thursday</head>
+
+<p>Heavy firing in our front at mid night. All quiet in the
+morning. We 
+
+moved to the left to Reams Station where we met the enemy &amp; 
+drove them &amp; 
+
+took the Road.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-19" id="d245">
+
+<head>August 19 - Friday</head>
+
+<p>This morning we are in line of Battle. Some Skremishing in
+our front. 
+
+A fight in the evening in which I was taken prisner by the Enemy
+and 
+
+taken to Petersburg that night. Stoped out Side of Town over 
+
+night.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-20" id="d246">
+
+<head>August 20 - Saturday</head>
+
+<p>This morning we were moved to the other Side of the Appomatox
+&amp;  
+
+Stayed all night. Rain in the evening and at night.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-21" id="d247">
+
+<head>August 21 - Sunday</head>
+
+<p>Left there at 2 O.C. for Richmond. Walked 3 miles &amp; took the
+Cars 
+
+Passed Clover Hill St. &amp; Half Way St. arived at Richmond at 
+
+daylight.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-22" id="d248">
+
+<head>August 22 - Monday</head>
+
+<p>Arrived in the City of Richmond this morning as a Prisner of
+war. 
+
+Searched to day in Liby Prison naked except Shirt. There all
+night rain 
+
+in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-23" id="d249">
+
+<head>August 23 - Tuesday</head>
+
+<p>This day we drew the First to eat to day at 10 A.M. Then
+taken to 
+
+Bell Island in the afternoon. Now hear I am to have a squad of
+50 men to 
+
+attend to in rations.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-24" id="d250">
+
+<head>August 24 - Wednesday</head>
+
+<p>This morning we drew Rations for the first on Belle Island at
+10 O.C. 
+
+in the morning and at 6 in the evening. Clear.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-25" id="d251">
+
+<head>August 25 - Thursday</head>
+
+<p>(The diary had been written in ink up to this date. is in
+pencil. 
+
+S.D.)  The same on Belle Island the same as yesterday. There was
+a nock down in 
+
+the afternoon between a Johny &amp; a Yank.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-26" id="d252">
+
+<head>August 26 - Friday</head>
+
+<p>Last night two men (were) shot one for disobeying orders &amp; 
+the other 
+
+for trying to make his escape from the Island. No Rations today
+on the 
+
+account of one man. (This last remark is crossed out.
+S.D.)</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-27" id="d253">
+
+<head>August 27 - Saturday</head>
+
+<p>One man Shot last night for disobeying orders. Some rain last
+night. 
+
+To day some of the Squads are drawing tents.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-28" id="d254">
+
+<head>August 28 - Sunday</head>
+
+<p>Still on the Island &amp; nothing new as far as I can hear. We
+draw 
+
+Rations twice a day - half loaf of corn bread a day &amp; one pot of
+bean 
+
+Soup &amp; a peas of pork.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-29" id="d255">
+
+<head>August 29 - Monday</head>
+
+<p>Two days we wer reenforced by 2000 more prisners. The Same in
+camp. A 
+
+Fight between our men in the afternoon of the 107th Regt all
+over in a 
+
+Short time.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-30" id="d256">
+
+<head>August 30 - Tuesday</head>
+
+<p>All quiet on the Island to day. A train of Care came from
+Petersburg 
+
+in the evening with Women &amp; Children. Canonading down by the
+River 
+
+at</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-31" id="d257">
+
+<head>August 31 - Wednesday</head>
+
+<p>There was a fire in Richmond last night. Commenced early in
+the 
+
+evening &amp; burnt till morning. The day the same as usual no news
+of 
+
+importance that we can hear of. Still on the Island of
+Belle.</p></div3>
+
+</div2>
+
+
+<div2 type="section" n="1864-09" id="d258">
+<head>September 1864
+ <!-- <ref n="" >
+Battle Description, Prisons/Prisoners
+</ref> --> 
+</head>
+
+
+
+<div3 type="entry" n="1864-09-01" id="d259">
+<head>September 1 - Thursday</head>
+
+<p>The First of the month a beautiful morning on Belle Island.
+Nothing 
+new in forenoon. A fire in Richmond in the afternoon. In the
+evening all 
+quiet as far as can be Seen.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-02" id="d260">
+
+<head>September 2 - Friday</head>
+
+<p>Last night at 12 O.C. there was quite a fire in the direction
+of 
+
+Petersburg &amp; cannon firing &amp; another in Richmond. All quiet on
+the 
+
+Island &amp; nothing new.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-03" id="d261">
+
+<head>September 3 - Saturday</head>
+
+<p>Another fire last night in Richmond. This morning it is
+cloudy and 
+
+raining. Nothing new in the afternoon. Cloudy in the evening as
+if it 
+
+might rain before morning.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-04" id="d262">
+
+<head>September 4 - Sunday</head>
+
+<p>Sunday all quiet on Belle Island. The day a fine one warm &amp; 
+dry. 
+
+Rumers plenty of all kinds &amp; Sorts amungst the
+prisners.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-05" id="d263">
+
+<head>September 5 - Monday</head>
+
+<p>Last night two fiers in the City of Richmond. The News this
+morning 
+
+is that Sherman has Atlanta by the Richmond Enquire. (Atlanta
+was 
+
+evacuated by the Confederates on September 1. S.D.)</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-06" id="d264">
+
+<head>September 6 - Tuesday</head>
+
+<p>Another fire in Richmond last night. This morning rain. We
+wer 
+
+counted this morning. The Sergts of the Squads drew an extra
+ration 
+
+today. All quiet in the evening rain.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-07" id="d265">
+
+<head>September 7 - Wednesday</head>
+
+<p>This morning clear &amp; warm on the Island. A fire in Richmond
+in the 
+
+afternoon. There has bin a Fight every day amungst the men on
+the Island 
+
+Since the 23rd of August 64.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-08" id="d266">
+
+<head>September 8 - Thursday</head>
+
+<p>This morning a fine one. Everything quiet on the Island. No
+news to 
+
+be <orig reg="heard">hurd</orig>. We can hear Grants guns this
+evening but to what <orig reg="effect">efact</orig> not
+known.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-09" id="d267">
+
+<head>September 9 - Friday</head>
+
+<p>This day we wer taken off the Island &amp; the camp was
+arranged into 
+
+Streets &amp; tents into line. Came in at night and we got into
+other tents. All quiet to day.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-10" id="d268">
+
+<head>September 10 - Saturday</head>
+
+<p>This day we wer taken out again So that they could fix the
+ground &amp; 
+
+put the tents in order. All quiet in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-11" id="d269">
+
+<head>September 11 - Sunday</head>
+
+<p>This Morning we wer counted then drew Grub. Rain &amp; hail in
+the 
+
+evening about 4 0 C All quiet in the evening. At 8 0 C
+rain.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-12" id="d270">
+
+<head>September 12 - Monday</head>
+
+<p>This morning the working hands are at work &amp; we are taken
+out of Camp. 
+
+We have bin Drawing wheat bread Since the 10th of August. All
+quiet in 
+
+the evening on the Island.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-13" id="d271">
+
+<head>September 13 - Tuesday</head>
+
+<p>This is a fine morning &amp; appears like fall. All Quiet to
+day. The Sun 
+
+warm &amp; the sky clear, in the evening. A <orig
+reg="great">grat</orig> Rumor of Paroling.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-14" id="d272">
+
+<head>September 14 - Wednesday</head>
+
+<p>This day a fine one. All quiet on the Island. Heavy firing in
+the 
+
+afternoon &amp; in the evening at Sun Set. The Same
+News.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-15" id="d273">
+
+<head>September 15 - Thursday</head>
+
+<p>On the Island the Same as before. Nothing new to be <orig
+reg="heard">hurd</orig> 
+
+frum.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-16" id="d274">
+
+<head>September 16 - Friday</head>
+
+<p>The Same as before nothing new &amp; nothing to do but to
+attend to 
+
+drawing our rations which we draw twice a day wheat bread &amp; 
+soup &amp; 
+
+meat.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-17" id="d275">
+
+<head>September 17 - Saturday</head>
+
+<p>This is a fine warm day. We wer taken out &amp; counted in the
+morning. 
+
+All quiet in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-18" id="d276">
+
+<head>September 18 - Sunday</head>
+
+<p>This morning Cloudy. Taken out of Camp in the morning to be
+counted. 
+
+In the evening at 4 0 C could hear Canonading towards
+Petersburg. 
+
+Rain.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-19" id="d277">
+
+<head>September 19 - Monday</head>
+
+<p>This morning we wer taken out &amp; counted. All quiet in the
+afternoon &amp; 
+
+in the evening on the Island. <orig reg="No">Now</orig> news to
+be <orig reg="heard">hurd</orig> of any kind.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-20" id="d278">
+
+<head>September 20 - Tuesday</head>
+
+<p>This morning we were taken off the Island &amp; counted in the
+morning we 
+
+could hear Grants Cannon &amp; in the evening it can be <orig
+reg="heard">hurd</orig>.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-21" id="d279">
+
+<head>September 21 - Wednesday</head>
+
+<p>This morning we wer taken out &amp; counted. Then drew
+rations. All quiet 
+
+in the evening. Cloudy and has the appearance of
+rain.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-22" id="d280">
+
+<head>September 22 - Thursday</head>
+
+<p>This morning taken out &amp; counted. Rain last night
+Canonading this 
+
+morning. All quiet in the evening. Cloudy &amp; looks very much
+like 
+
+rain.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-23" id="d281">
+
+<head>September 23 - Friday</head>
+
+<p>This morning counted comenced raining at 10 0C AM All quiet
+in the 
+
+forenoon &amp; in the evening. Rain.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-24" id="d282">
+
+<head>September 24 - Saturday</head>
+
+<p>This morning <orig reg="showers">Shours</orig> &amp; the Sound
+of heavy guns towards Petersburg. 
+
+Counted this morning. Rain. Cleared off in the fore noon &amp; 
+the Sun came 
+
+out. All quiet in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-25" id="d283">
+
+<head>September 25 - Sunday</head>
+
+<p>This morning cool. Counted in the morning then drew rations.
+All 
+
+quiet the remainder of the day. The evening cool and
+windy.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-26" id="d284">
+
+<head>September 26 - Monday</head>
+
+<p>This morning counted. The Sound of cannons reach our ears
+from 
+
+Petersburg. A report that Sheridan is near the city of Richmond.
+All 
+
+quiet in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-27" id="d285">
+
+<head>September 27 - Tuesday</head>
+
+<p>This morning fine. We wer counted in the morning. The roar of
+heavy 
+
+guns reaches our ears. The Rebs news is the <abbr
+expan="Jefferson Davis">Jeff</abbr> mooved his <orig
+reg="cabinet">cabanet</orig> to 
+
+Macon Ga., Sept 22, 64. All quiet in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-28" id="d286">
+
+<head>September 28 - Wednesday</head>
+
+<p>This morning Clear. Counted in the morning. Cloudy in the
+evening &amp; 
+
+comenced to rain at 4 0 C , P M Heavy canonading in the evening
+towards 
+
+Petersburg.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-29" id="d287">
+
+<head>September 29 - Thursday</head>
+
+<p>This morning clear. Counted in the morning. The hands are at
+work 
+
+putting up tents. Heavy canonading all day towards 
+
+Petersburg.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-30" id="d288">
+<head>September 30 - Friday</head>
+
+<p>This morning we wer counted. Heavy <orig
+reg="cannonading">conading</orig> 7 Hundred more <orig
+reg="Prisoners">Prisners</orig> 
+
+came on the Island in the afternoon. Rain in the evening at 4
+P.M. Still 
+
+Heavy cannonading down the James R.</p>
+</div3>
+</div2>
+
+
+<div2 type="section" n="1864-10" id="d289">
+<head>October 1864
+ <!-- <ref n="" > 
+Death/Casualties, Prisons/Prisoners
+</ref> --> 
+</head>
+
+
+<div3 type="entry" n="1864-10-01" id="d290">
+<head>October 1 - Saturday</head>
+
+<p>October the first rain. Counted in the morning. Heavy
+canonading down 
+the river in the forenoon. Very Heavy canonading down the <abbr
+expan="river">Rr.</abbr> Rain all 
+day.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-02" id="d291">
+<head>October 2 - Sunday</head>
+
+<p>This morning cloudy. Counted in the forenoon. All quiet to
+day So 
+far. All quiet in the evening. Corn bread to day beef twice &amp; 
+bean 
+soup.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-03" id="d292">
+<head>October 3 - Monday</head>
+
+<p>Last night one man Shot dead. Counted in the forenoon. The
+morning 
+Cloudy &amp; all quiet. Canonading in the afternoon &amp; in the
+evening. 
+Comenced to rain at 4 0 C in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-04" id="d293">
+
+<head>October 4 - Tuesday</head>
+
+<p>This morning counted. Cleared of in the forenoon. All quiet
+So far. 
+
+Hard times on the Island <orig reg="amongst">amungst</orig>
+<orig reg="prisoners">prisners</orig>. One Thousand left the
+Island 
+
+to day. All quiet in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-05" id="d294">
+
+<head>October 5 - Wednesday</head>
+
+<p>This morning at 3 O.C. there was 5 Hundred taken South from
+the 
+
+Island. Counted in the forenoon. All quiet. 450 more Left in the
+
+
+afternoon. All quiet at Dusk.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-06" id="d295">
+
+<head>October 6 - Thursday</head>
+
+<p>This morning 900 Left the Island at 3 O.C. Southward. Counted
+in the 
+
+forenoon. My Squad left at 2 P.M. 450 left at the time. Cloudy
+&amp; some 
+
+rain at the time we left. Took the Cars at 4 O.C.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-07" id="d296">
+
+<head>October 7 - Friday</head>
+
+<p>On the way to Danville all night. Arrived there at 5 O.C.
+this 
+
+morning. Changed cars &amp; on out to <orig
+reg="Greensboro">Greensborough</orig>. Distance from <abbr
+expan="Richmond">Rd</abbr> to Danville 139 M. Arrived at <orig
+reg="Greensboro">Greensborough</orig> at 4. Distance 48 M. There
+all 
+night.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-08" id="d297">
+
+<head>October 8 - Saturday</head>
+
+<p>Took the cars for <orig reg="Salisbury">Solsbury</orig> at 10
+A. <orig reg="arrived">arived</orig> there at 4 P.M. Put in 
+
+there for good. Dist 55 M Cold.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-09" id="d298">
+
+<head>October 9 - Sunday</head>
+
+<p>This morning all quiet. The air cold. Drew rations at 7 O.C.,
+A. M. 
+
+bread &amp; beef.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-10" id="d299">
+
+<head>October 10 - Monday</head>
+
+<p>A fine morning. The Sun warm. I was Shot at to day as I
+walked over a 
+
+guards beet before I <orig reg="knew">new</orig> it but as luck
+would have it it missed me.</p></div3> 
+
+
+
+<div3 type="entry" n="1864-10-11" id="d300">
+
+<head>October 11 - Tuesday</head>
+
+<p>This has <orig reg="been">bin</orig> a fine day &amp; the news
+is good that we will be Paroled 
+
+but <orig reg="whether">wheather</orig> true or not time will
+Show. Geo. Toyer died this 
+
+morning.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-12" id="d301">
+
+<head>October 12 - Wednesday</head>
+
+<p>This is fine warm day at <orig
+reg="Salisbury">Solsbury</orig> a <orig
+reg="prisoner">prisner</orig> of war.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-13" id="d302">
+
+<head>October 13 - Thursday</head>
+
+<p>This has another good appearance of a fine day. The Sun
+<unclear>Shoes</unclear> out 
+
+bright in the forenoon. The after the Same &amp; The news the
+Same as 
+
+yesterday or the 11.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-14" id="d303">
+
+<head>October 14 - Friday</head>
+
+<p>The Same as before. We drew meat twice since we wer <orig
+reg="here">hear</orig>. Every thing 
+
+is quiet to day.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-15" id="d304">
+
+<head>October 15 - Saturday</head>
+
+<p>This morning is fair &amp; warm. Everything is quiet <orig
+reg="amongst">amungst</orig> the 
+
+<orig reg="prisoners">prisners</orig>.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-16" id="d305">
+
+<head>October 16 - Sunday</head>
+
+<p>Sunday a fine warm day. Everything quiet at <orig
+reg="Salisbury">Solsbury</orig>, N.C.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-17" id="d306">
+
+<head>October 17 - Monday</head>
+
+<p>This is a fine day &amp; times are rough. A <orig
+reg="prisoner">prisner</orig> of war at <orig
+reg="Salisbury">Solesbury</orig> 
+
+N.C. today. Drew bread, Soup &amp; Molasses. More news of 
+
+paroling.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-18" id="d307">
+
+<head>October 18 - Tuesday</head>
+
+<p>To day cloudy. Everything quiet <orig
+reg="amongst">amungst</orig> the <orig
+reg="prisoners">prisners</orig> at <orig reg="Salisbury">Sols
+bury</orig>. 
+
+There is near 6 Thousand at this place. Average 5 ot 6 deaths
+every 24 
+
+hours.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-19" id="d308">
+
+<head>October 19 - Wednesday</head>
+
+<p>This is a fine day down South. The news are this morning that
+
+
+Petersburg is taken <orig reg="amongst">amungst</orig> the
+prisners. 5 Hundred more came &amp; the 
+
+<orig reg="officers">oficers</orig> left to day.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-20" id="d309">
+
+<head>October 20 - Thursday</head>
+
+<p>The air cool to day. Everything quiet as far as I can hear.
+There was 
+
+one man Shot last night by the guard. 47 <orig
+reg="made">maid</orig> <orig reg="their">there</orig> escape
+last 
+
+night.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-21" id="d310">
+
+<head>October 21 - Friday</head>
+
+<p>This day a fine one, everything quiet. We draw bread, Molases
+&amp; Soup 
+
+as our ration for the last few days.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-22" id="d311">
+
+<head>October 22 - Saturday</head>
+
+<p>This is a cool &amp; windy day. Every thing is quiet as far as
+we can 
+
+hear from.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-23" id="d312">
+
+<head>October 23 - Sunday</head>
+
+<p>Sunday - a fine day. The Sun is warm. No news. 32 deaths in
+the last 
+
+24 hours.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-24" id="d313">
+
+<head>October 24 - Monday</head>
+
+<p>This is a fine day after the morning being cool. Commenced to
+cloud 
+
+up about 4 O.C. in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-25" id="d314">
+
+<head>October 25 - Tuesday</head>
+
+<p>This has <orig reg="been">bin</orig> a fine day. The weather
+fine &amp; warm. For the last two 
+
+days we draw nothing but flour, molasses &amp; rice
+Soup.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-26" id="d315">
+
+<head>October 26 - Wednesday</head>
+
+<p>To day Cloudy with everything quiet as far as can be <orig
+reg="heard">hurd</orig> from. More 
+
+news of exchange.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-27" id="d316">
+
+<head>October 27 - Thursday</head>
+
+<p>This is a cloudy day. Commenced to rain at 9 A. M. Rained all
+
+
+day.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-28" id="d317">
+
+<head>October 28 Friday</head>
+
+<p>Cleared off last night. The Sun warm to day. I have not drew
+no 
+
+rations since last evening at 9 O.C. I feel <orig
+reg="discouraged">discuraged</orig> this 
+
+evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-29" id="d318">
+
+<head>October 29 - Saturday</head>
+
+<p>This is a fine day, the are cool. No bread to day. Nothing
+but meat &amp; 
+
+Soup rice.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-30" id="d319">
+
+<head>October 30 - Sunday</head>
+
+<p>The morning fine. Every thing quiet as far as can be <orig
+reg="heard">hurd</orig> from. Drew 
+
+bread at 1 O.C.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-31" id="d320">
+
+<head>October 31 - Monday</head>
+
+<p>This is a fine day. The Sky is very hazy. We drew bread &amp; 
+Soup to 
+
+day. Every thing quiet. I hope the last night of the next month
+will 
+
+find me out of this.</p></div3>
+
+</div2>
+
+
+<div2 type="section" n="1864-11" id="d321">
+<head>November 1864
+ <!-- <ref n="" > 
+Death/Casualties, Prisons/Prisoners
+</ref> --> 
+</head>
+
+
+<div3 type="entry" n="1864-11-01" id="d322">
+<head>November 1 - Tuesday</head>
+
+<p>Still at <orig reg="Salisbury">Solsbury</orig>, N.C. Drew 7
+crackers <orig reg="apiece">apeace</orig> &amp; 1/2 Pint rice
+Soup 
+for the days ration. A fine warm day.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-02" id="d323">
+<head>November 2 - Wednesday</head>
+
+<p>This has <orig reg="been">bin</orig> a wet day, Since 6 O.C.
+this morning &amp; we have had 
+nothing to eat but a Small <orig reg="piece">pees</orig> of beef
+&amp; a pint of rice Soup to day &amp; 
+it is now 4 0 C , P.M. Drew a pint of flour at 6 &amp; 
+raining.</p></div3>
+
+
+<div3 type="entry" n="1864-11-03" id="d324">
+<head>November 3 - Thursday</head>
+
+<p>This has <orig reg="been">bin</orig> a cold misty &amp; cloudy
+day. Everything is dull. Drew
+Soup	Rice at 10 0 A M &amp; 7 crackers to the man in the evening
+at at 6 
+O.C. Still wet.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-04" id="d325">
+<head>November 4 - Friday</head>
+
+<p>This morning clear &amp; windy &amp; very muddy. Drew 1/2 Pint
+Rice soup at 1 
+P.M. Nothing more this day. Rain in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-05" id="d326">
+<head>November 5 - Saturday</head>
+
+<p>This morning clear &amp; the are cool. Drew 1/2 Pint Rice Soup
+at 12 M. 
+
+No bread yet. <orig reg="Meat">Meet</orig> in the morning, flour
+in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-06" id="d327">
+<head>November 6 - Sunday</head>
+
+<p>This is a fine day. We drew tripe, Rice Soup &amp; a pint corn
+
+meal.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-07" id="d328">
+<head>November 7 - Monday</head>
+
+<p>This is a clear day. Our Rations to day is 1/2 Pint rice Soup
+half 
+loaf corn bread.</p></div3>
+
+<div3 type="entry" n="1864-11-08" id="d329">
+<head>November 8 - Tuesday</head>
+
+<p>This is a cloudy day with some rain. No ration to day but a
+Pint rice 
+Soup.</p></div3>
+
+<div3 type="entry" n="1864-11-09" id="d330">
+<head>November 9 - Wednesday</head>
+
+<p>This has <orig reg="been">bin</orig> a wet night. Cloudy this
+morning.<ref n="5" target="Wagner5">5</ref></p>
+
+<p>Drew 1/2 loaf Corn Bread &amp; pint of rice Soup.</p>  
+
+<p>David Wagner took sick.</p></div3>
+
+
+<div3 type="entry" n="1864-11-10" id="d331">
+<head>November 10 - Thursday</head>
+
+<p>This is a fine day. Drawed 1/2 loaf of Corn Bread, 1 pint of
+rice 
+Soup and 1/2 pound of beef.</p></div3>
+
+<div3 type="entry" n="1864-11-11" id="d332">
+<head>November 11 - Friday</head>
+
+<p>This is A fine day. Drawed 1/2 loaf of corn bread, 1 Pint of
+rice 
+soup.</p>
+
+<p>David W. Wagner is very sick and he gave me his diary to keep
+for 
+him.</p></div3>
+
+<div3 type="entry" n="1864-11-12" id="d333">
+<head>November 12 - Saturday</head>
+
+<p>This is a fine day. Drawed 1/2 loaf of Corn Bread, 1/2 pound
+of beef, 1 pint of rice Soup.</p>
+
+<p>He is no better to day. Very poorly not expected to live.</p>
+</div3>
+
+<div3 type="entry" n="1864-11-13" id="d334">
+<head>November 13 - Sunday</head>
+
+<p>A warm day.</p>
+<p>David W. Wagner died at half past nine o clock.</p>
+</div3>
+</div2>
+</div1>
+
+<div1 id="FD1012note" type="notes">
+<head>Notes
+<!-- <ref n="" >FD1012note</ref> -->
+</head>
+
+<note n="1" place="end" id="Wagner1"><seg type="note-symbol">{1}</seg><p> Transcriber of typescript copy of
+diary made the notation in the date heading that the entry for
+April 15 was written in another person's handwriting.</p></note>
+<note n="2" place="end" id="Wagner2"><seg type="note-symbol">{2}</seg><p> Also in same handwriting of April 15
+entry.</p></note>
+<note n="3" place="end" id="Wagner3"><seg type="note-symbol">{3}</seg><p> Transcriber noted that this entry was
+once again in David Wagner's handwriting.</p></note>
+<note n="4" place="end" id="Wagner4"><seg type="note-symbol">{4}</seg><p> Transcriber noted that Wm. Stevens
+probably wrote the entry for April 24.</p></note>
+<note n="5" place="end" id="Wagner5"><seg type="note-symbol">{5}</seg><p> Transcriber noted that this entry was
+the last to be written in David Wagner's handwriting and that the
+remaining diary entries were written by some other
+person.</p></note>
+
+</div1>
+</body>
+</text>
+</TEI.2>

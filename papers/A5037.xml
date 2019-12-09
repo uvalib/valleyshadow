@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+
+<?dlps id="A5037"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A5037">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Martha L. Roadcap to Charles
+                    McGuffin, January 26, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county martha l roadcap to charles mcguffin, january 26 1861</title>
+        <author>Roadcap, Martha L.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amy Voorhees</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A5037</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502321</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Martha L. Roadcap to Charles McGuffin, January 26,
+                            1861</title>
+            <title level="m"/>
+            <title type="sort">augusta county martha l roadcap to charles mcguffin, january 26 1861</title>
+            <author>Martha L. Roadcap</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: McGuffin Family Papers, Accession
+                            #6732, Special Collection Department, University of Virginia Library,
+                            Charlottesville, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1861-01-26">1861-01-26</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Home Front, Family</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2002-11">November 2002</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A5037T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Martha Roadcap's letter to her son Charles speaks of news at home and the
+                    condition of Charles' lame dog. Martha asks her son to come visit, and to write
+                    her a more detailed letter.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="place"><unclear>Whales</unclear> Valley</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1861-01-26">Jan 26th 1861</date>
+                    </dateline>
+                    <salute>My Dear Son</salute>
+                </opener>
+
+                <p>I <abbr expan="received">recvd</abbr> your letter the 22nd and was glad to hear
+                    that you were in Middlebrook and well you had said to me you had written me two
+                    I did not get but the one and that very strange you did not <del rend="none" hand="h1"/> our
+                        <unclear>note</unclear>. your Dog is getting better but he will never be of
+                    any Account only about the House <orig reg="though">tho</orig> he Barks Pretty
+                    fierce and catches the Hogs by the <orig reg="tail">taile</orig> when ever they
+                    come in the <unclear>Lot</unclear> one of his legs came off nearly at the knee
+                    and the other one is very weak. Charley I never was as sorry for A dog in my
+                    life and he never would have gotten well if I had not attended to him like I
+                    would have done with a Child. I gave your Pistol to Dr. Bashaw yesterday and he
+                    will give it to John <unclear>Berry</unclear> next Monday in Staunton. I wish
+                    you would come out and see me if you cannot stay longer than one night and do
+                    something with your dog if you want him. we do not care anything about keeping
+                    him as he is so lame. I am well and I hope this will find you enjoying the same
+                    Blessing. the Children and all send their love to you. Please write soon and a
+                    longer letter than you wrote before and something more satisfactory about your
+                    self. Remember me to my friends in <unclear>your</unclear> town.</p>
+
+                <closer>
+                    <salute><del rend="none" hand="h1"/> your Mother</salute>
+                    <signed>M L Roadcap</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

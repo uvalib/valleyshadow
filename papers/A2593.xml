@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2593"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A2593">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Jedediah Hotchkiss to Nelson H. Hotchkiss,
+     October 3, 1864</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county jedediah hotchkiss to nelson h hotchkiss, october 3 1864</title>
+        <author>Hotchkiss, Jedediah</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Rider</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Rider</name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. <num type="kilobytes">9</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A2593</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:502082</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Jedediah Hotchkiss to Nelson H. Hotchkiss, October 3, 1864</title>
+            <title level="m"/>
+            <title type="sort">augusta county jedediah hotchkiss to nelson h hotchkiss, october 3 1864</title>
+            <author>Jedediah Hotchkiss</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>1 page</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Jedediah Hotchkiss Collection, Reel 4, Manuscripts
+       Division, Library of Congress, Washington, D.C.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>The only original is a typed copy.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Congress, Washington, D. C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1864-10-03">1864-10-03</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Battle Description, Prisons/Prisoners, Troop Movement, Family, Enlistment, Home Front,
+      Agriculture, Women, Death/Casualties, Church/Religious Activity</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A2593T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Hotchkiss describes to his brother news about recent skirmishes and the damage done by
+     Federal troops in the Valley. He also relates news of people back home.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Nelson H. Hotchkiss</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1864-10-03">Oct. 3rd. 1864.</date>
+      <name type="place"><abbr expan="Head Quarters">Hd. Qrs.</abbr>
+       <abbr expan="Valley District"> V.D.</abbr> Mt. Sidney, Va.</name>
+     </dateline>
+     <salute>My dear Brother,</salute>
+    </opener>
+
+    <p>It has been a long, long time since I heard from you, and I lately learned that you had not
+     heard from me, though I have written often. I hope this may reach you <orig reg="though"
+     >tho'</orig>. We have had all sorts of fortune lately. Have been badly handled in two fights,
+     but not half as badly as the Yankees as our own papers assert. At Winchester we had whipped the
+     Yankee infantry when their cavalry charged ours on the left and broke them and got in the rear
+     of our infantry and compelled them to fall back, and they took a good many prisoners, but we
+     retired in good order and saved all our trains; the same thing happened at Fisher's Hill, only
+     the enemy got thirteen pieces of artillery. They only took some 500 prisoners from us. Since
+     then we have successfully resisted them, holding them back at New Market and driving off their
+     cavalry from New Hope and Waynesboro. The Yankees are now near Harrisonburg, but I hope they
+     will not <hi rend="underline">be there</hi> long. They did but little damage in Augusta county;
+     burned a few barns and mills in the lower end of the county, but in Rockingham they have done a
+     vast amount of damage, burning mills, barns, wheat and hay stacks, and robbing houses. The
+     cavalry, some of it, was from Broome county. I got hold of a copy of the Broome Co. Republican;
+     see that David and Albert Hotchkiss had joined the cavalry. Giles had gotten the quota
+     diminished by 100 for the county. Rev. Mr. Gilbert is in Binghamton, and I see that his
+     daughter has lately been married to Mr. Bruce. I will send you the paper, though torn, as soon
+     as I have sent it home. I only heard of them. Will look out for the prisoners now and get the
+     news. The Yankees did not go to Churchville this time at all, those that <pb n="2"/> retreated
+     from Waynesboro went by Spring Hill and Mossy Creek, but in so much haste that they did no
+     damage. They burned Mohler's barn at the cave, and J.C. Roler's at Mt. Sidney. The loss of
+     grain to us is very great, but I hope there is still enough left. The corn crop is a tolerable
+     one, and they only use enough of that to feed their horses. The only damage done the <abbr
+      expan="Railroad">R.R.</abbr> was to burn the bridges over South river at Waynesboro and over
+     Christian's creek. They robbed Mr. Garber's store in Staunton of $5,000 worth of goods. There
+     is a tale in circulation that Gen. Early was drunk at Winchester and also at Fisher's Hill.
+     There is not one word of truth in it. A baser slander was never circulated. It is true Gen.
+     Early is a drinker of spirits, is too fond of it, but I have never seen him under the influence
+     of liquor since we started on this campaign. He is sober enough to know his duty and attend to
+     it at all times, and it is much to be regretted that such stories should be circulated. My
+     usual luck attends me in regard to horses. A few days ago I had 4, now I have only 2, one
+     killed and one died, I got one for the killed one and now one has been stolen. I had a fine
+     colt that I wished to send you to keep, but it was killed in the fight at Weyer's Cave.</p>
+    <p> Miss Allie cannot stand it at home, and she desires to come back to Virginia. The fogs make
+     her sick, and the people torment her, call her traitor, etc., and she is very anxious to get
+     back. She had not heard from any of our people as she had spent most of the time at home and
+     had not been well. I succeeded in getting a supply of flour with much difficulty. So many had
+     sold all to the government before I got a chance to look out and a good many had sold on
+     speculation, but I got a barrel here and one there, and so made up what I wanted. Henry
+      <unclear>Sliey</unclear> stays <pb n="3"/> at the old place and manages it for the heirs, the
+     old lady being dead. <abbr expan="Samuel">Sam.</abbr> Cochran died a few days ago, from fever,
+     at home. Robert is a detailed farmer, also H. Seig and Frank Sterrett. Young Hite died from the
+     effects of a wound. We have been resting today, after a hard march yesterday through the rain,
+     and we have enjoyed the sunshine. I went and heard Mr. Bowman preach. Mr. Hildebrand has been
+     getting along badly at Churchville. They do not support him. He says no one of the Methodists
+     has done anything for him since he came there. Mr. Greeding has joined the Presbyterian Church
+     and been made an Elder. They are all well at home. Got a good deal frightened about the
+     Yankees. What are you doing and all the family? I should be delighted to see you all, but see
+     no chance now. I have only been three days at home since March. My love to all. Write me soon
+     to <abbr expan="Head  
+ Quarters">Hd. Qrs.</abbr> Valley District, care of Gen. Early. </p>
+
+    <closer>
+     <salute>Your <abbr expan="affectionate">aff.</abbr> Brother,</salute>
+     <signed>Jed.</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

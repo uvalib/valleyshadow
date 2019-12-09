@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9806"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A9806">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: Patrick Brady to Alexander H. H. Stuart,
+                    July 13, 1867</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta patrick brady to alexander h h stuart, july 13 1867</title>
+        <author>Brady, Patrick</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Andrew Meade McGee</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Andrew Meade McGee</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A9806</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502830</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: Patrick Brady to Alexander H. H. Stuart, July 13, 1867</title>
+            <title level="m"/>
+            <title type="sort">augusta patrick brady to alexander h h stuart, july 13 1867</title>
+            <author>Patrick Brady</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Patrick Brady to Alexander H. H.
+                            Stuart, July 13, 1867, Alexander H. H. Stuart Papers, Albert and Shirley
+                            Small Special Collections Library, University of Virginia </idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-07-13">1867-07-13</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Home Front</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A9806T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Patrick Brady of Philadelphia writes to A. H. H. Stuart regarding a pending
+                    lawsuit against Daniel Brady of Buffalo Forge in Rockbridge County, his
+                    financial woes, and a missing ledger.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Hon H. H. Stuart Esq Staunton Va</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-07-13">July 13. 1867</date>
+                        <name type="place">Philad<hi rend="super">a</hi></name>
+                    </dateline>
+                    <salute>Dear Sir</salute>
+                </opener>
+
+                <p>I now beg to give you my views with regard to a settlement with Brady. I want him
+                    to give me a deed for the Bath iron works, also the Bonds for Five thousand
+                        <abbr expan="Dollars">Doll</abbr>, to be transferred to me and to pay me one
+                    thousand <abbr expan="Dollars">dolls.</abbr> Semi Annually for ten years with
+                    interest, the first payment to be made on the first January next, and to pay
+                    your fee for effecting a settlement with him. <pb n="2"/>I must have something
+                    tangible as I have debts that must be paid or secured by something substantial,
+                    he must have the control of money or securities as his own family are to
+                    received Nearly all the legacies left by Weaver. My Claim for the amount <hi
+                        rend="underline">stolen</hi> with interest amounts to 32.160 <abbr
+                        expan="Dollars">Dolls</abbr> which amount I must have paid to me and to
+                    Cover up which my Ledger has been stolen from my Office. But fortunately I have
+                    copies of the transaction which I can prove by two witnesses who took the copies
+                    from the Ledger &amp; compared with the Cash Book.</p>
+                <p><pb n="3"/>Mr. Dickson is also aware of the alteration of Book, having comparred
+                    the entries on the Cash Book &amp; Ledger.</p>
+                <p>I consider this last theft as bad or worse than the first and I am determined to
+                    sift it to the bottom as no person but Brady could have had any interest in
+                    taking the ledger from <hi rend="super">my</hi> office, under these
+                    circumstances, I must insist on having some justice done Me for God knows he has
+                    caused me a large amount of trouble by his Course, when it should have been
+                    other wise after all I did for him -- <pb n="4"/>My dear Mr. Stuart I hope You
+                    will succeed making this settlement for me as soon as possible and in getting
+                    all the Security that is possible for I have lost all Confidence in him, in whom
+                    unfortunately I had paled too much I beg you will urge a speedy settlement as I
+                    have pressing claims on Me.</p>
+                <p>I trust your Son has recovered entirely from illness. Waiting your answer I
+                    remain</p>
+
+                <closer>
+                    <salute>Very truly Yours &amp;c</salute>
+                    <signed>P Brady</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

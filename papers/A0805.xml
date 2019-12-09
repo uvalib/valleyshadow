@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+
+<?dlps id="A0805"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+
+<!ENTITY garb5a SYSTEM "uva-lib:503020" NDATA uvaHighRes>
+<!ENTITY garb5b SYSTEM "uva-lib:503021" NDATA uvaHighRes>
+
+]>
+  
+<TEI.2 id="A0805">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Thomas Garber to Albert Garber, August 15, 1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county thomas garber to albert garber, august 15 1862</title>
+        <author>Garber, Thomas</author>
+        <editor> </editor>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Alice Carter</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Murrell</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A0805</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>copyright 1998, by the Rector and Visitors of the University of Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1998 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1998">1998</date>
+        <idno type="uva-pid">uva-lib:503019</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Thomas Garber to Albert Garber, August 15, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta county thomas garber to albert garber, august 15 1862</title>
+            <author>Thomas Garber</author>
+            <editor> </editor>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p> </p>
+          </editionStmt>
+          <extent>2 pages</extent>
+          <publicationStmt>
+            <publisher> </publisher>
+            <pubPlace> </pubPlace>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Garber Family Letters, Augusta County Historical
+       Society, Staunton, Virginia </idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Augusta County Historical Society, Staunton, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1862-08-15">1862-08-15</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Battle Description, Camp Life, Death/Casualties, Family</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2000">Summer 2000</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Voorhees</name>
+        </respStmt>
+        <item>Augusta County: Thomas Garber to Albert Garber, August 15, 1862</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A0805T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>In this letter to his father, Thomas Garber describes meals eaten in camp and mentions the
+     deaths of fellow soldiers in recent fighting. </p>
+   </div1>
+  </front>
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <opener>
+
+     <pb n="1"  entity="garb5a" pid="uva-lib:503020"/>
+
+     <name type="recipient">Albert Garber</name>
+
+     <dateline>
+      <date value="1862-08-15">Aug 15/62</date>
+      <name type="place">Camp Gordonsville</name>
+     </dateline>
+     <salute>Dear Father</salute>
+    </opener>
+
+    <p>I have just finished a letter for Addie and told her it was getting dark that I must <orig
+      reg="hurry">huray</orig> but Cousin is not ready for me to go so I <orig reg="thought"
+     >thohgh</orig> I would write you a few lines as I ought to have done long ago. I suppose you
+     have heard all about the fight how many of our men were lost I did no we were fighting <orig
+      reg="until">untill</orig> next morning while the fight was going I was <orig reg="having"
+      >haveing</orig> a very nice time. Lieut. Welch and <orig reg="myself">my self</orig> had gone
+     out to get something to eat and we stopped at Mr. Twimans <pb n="2" entity="garb5b" pid="uva-lib:503021"/>
+      it was about four o'clock when we <orig reg="stopped">stoped</orig>
+     they asked us to have <orig reg="dinner">diner</orig> we told them we would they had Corn and
+     tomatoes prepared for <orig reg="us">ous</orig> ice water fine milk with ice and the butter
+      <del rend="none" hand="h1"/> bread, ham, and lamb were <orig reg="delightful">dilightfull</orig> and to
+     top it all <orig reg="off">of</orig> we had two of the nicest young ladies to talk you ever
+     saw. Dear Father it is getting to dark to write you must excuse this short letter only on that
+     account I will write you a longer one next time give my love to ma and the girls and write soon
+     to your son</p>
+
+    <closer>
+     <salute/>
+     <signed>
+      <hi rend="underline">Thos. M. Garber</hi>
+     </signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

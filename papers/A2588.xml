@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2588"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="A2588">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Jedediah Hotchkiss to Nelson H. Hotchkiss, May
+     20, 1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county jedediah hotchkiss to nelson h hotchkiss, may 20 1863</title>
+        <author>Hotchkiss, Jedediah</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Rider</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Rider</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A2588</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:502077</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Jedediah Hotchkiss to Nelson H. Hotchkiss, May 20, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta county jedediah hotchkiss to nelson h hotchkiss, may 20 1863</title>
+            <author>Jedediah Hotchkiss</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>1 page</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Jedediah Hotchkiss Collection, Reel 4, Manuscripts
+       Division, Library of Congress, Washington, D.C.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>The only original is a typed copy.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Congress, Washington, D. C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1863-05-20">1863-05-20</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Military Authority, Battle Description, Death/Casualties, Troop Movement, Military
+      Strategy, Slavery, African Americans, Women</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A2588T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Hotchkiss gives his brother a description of recent military action: a series of battles that
+     saw both his tent-mate killed and General Jackson wounded.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Nelson H. Hotchkiss</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1863-05-20">May 20th 1863</date>
+      <name type="place"><abbr expan="Head Quarters">Hd. Qrs.</abbr> 2 <abbr
+       expan="Northern Virginia">N.V.</abbr> Corps <abbr expan="Army of Northern  
+        Virginia"
+        >A.N.V.A.</abbr>
+      </name>
+     </dateline>
+     <salute>My dear Brother:-</salute>
+    </opener>
+
+    <p>I have been too amiss in writing to you and replying to your last letter but I was very much
+     engaged, as you may well suppose, during the many days of fighting that we have had and if
+     possible I have been more busily employed since, having received orders the very day the fight
+     ended to make a map of the battlefield, involving a necessity for a survey of the Wilderness,
+     in which we fought, and my toes have been well blistered and my face well sunburned by the heat
+     and exercise of last week. I got back to our quarters yesterday and avail myself of this
+     evening to do a duty to you so long delayed. I supposed from your letter that you would very
+     soon go over to the Valley and so my letter would not reach you at Howardsville and you would
+     hear of my safety as soon as you got to Churchville. Though spared myself it seems lonely and
+     desolate here; my tent mate and well beloved friend, Capt. Boswell was instantly killed and our
+     revered and adored Commander is gone too. His aids have left also and only two or three of the
+     "Old Staff" are here and though we all know and like and admire General A.P. Hill, who commands
+     our Corps, still it is not as of old. The singular but good and great man that directed
+     everything and stamped a peculiar character upon it is no longer at his post and everything
+     wears an altered and lonely look, but such is earth and such are earthly things.</p>
+    <p> We had a terrible battle or series of battles. We first occupied the same place that we did
+     at the first battle; the enemy crossing over a large force there, but General Lee knew that was
+     only a blind and as soon as the body of them crossed the river above and was coming down to our
+     flank we left a protecting force in front and <pb n="2"/> went up to meet them, fought them
+     until they had concentrated; then General Jackson moved some 9 miles around to the rear of them
+     and fell on them unawares and routed and threw them into confusion and drove them some two
+     miles when night came on, and in the confusion General Jackson was wounded; our men thrown into
+     confusion by the breastwork of the enemy and the trees they had felled and there the fight was
+     stayed for the night. General A.P. Hill being disabled by a bruise from a shell General Stuart
+     came and took command and got the forces in order during the night and in the morning by ten
+     o'clock had taken the heights which the enemy had occupied with his heavy force and fortified,
+     defending it with 70 pieces of artillery. Our men behaved gallantly, never giving away in
+     confusion, but when forced to fall back on account of the thick woods which prevented the
+     advance of the line and gave advantages to the enemy they did it slowly and sullenly and at
+     once reformed and pressed forward, driving the enemy at last from their stronghold and
+     compelling them to go back with a heavy loss which would have been much greater if the country
+     had been opened but the dense masses of pines and the broken character of the country made it a
+     difficult matter to follow them with an organized force, and only such a one is safe when an
+     enemy has such numbers.</p>
+    <p> I am still at the same headquarters. General A.P. Hill is in Command of this Corps and I may
+     stay here; I suppose I shall.</p>
+    <p> There is one of the small stoves at Dr. Wilson's which you can get and then you will have
+     the one in your dining room and if you want another I will try and fix for one for you before
+     you need it. If you want the cup-<pb n="3"/>board don't deprive yourself of it. It was only in
+     expectation that you would sell it that I spoke of it. I will find you a boy if I can. Sara has
+     concluded that she cannot stand your woman after her performances in regard to Allie, so you
+     had better hire her out at an advance which you can to some one that can manage her. I will
+     find you a boy if I can but am kept very busy here by business. Write to me soon and I will not
+     postpone so long. My love to all, </p>
+
+    <closer>
+     <salute>Your <abbr expan="affectionate">aff.</abbr> brother,</salute>
+     <signed>Jed.</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

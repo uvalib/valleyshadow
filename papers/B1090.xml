@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1090"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1090">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: Statement of Edward
+                    Burke, February 9, 1867</title>
+        <title type="sort">freedmens bureau records statement of edward burke, february 9 1867</title>
+        <author>Burke, Edward</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1090</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500958</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: Statement of Edward Burke, February 9,
+                            1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records statement of edward burke, february 9 1867</title>
+            <author>Edward Burke</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 26.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-02-09">1867-02-09</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Administration/Bureaucracy, Patriotism, Politics/Political Attitudes, Race
+                        Relations</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-07">July 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+                <item>Item checked against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1090T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Edward Burke offers a statement on behalf of Frederick Tukey.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="statement" id="d5">
+                
+
+                <opener>
+                    <dateline>
+                        <date value="1867-02-09"><abbr expan="February">Feby</abbr> 9th 1867</date>
+                        <name type="place">Staunton <abbr expan="Virginia">Va</abbr></name>
+                    </dateline>
+                    <salute/>
+                </opener>
+
+                <p>Having heard with surprise that complaints have been made against Mr F S. Tukey
+                        <abbr expan="Assistant Superintendent">Ast Supt</abbr> of Freedmen's Bureau
+                    of this place therefore this is to certify that I am a Union man and was a
+                    refugee from here during the war and went to Washington D.C. and was in the
+                    service of the U.S. Government <abbr expan="Quarter Master Department">Q. M.
+                        Dept</abbr> during nearly the whole of the war. I came back here soon after
+                    the surrender and opened a Livery Stable which I kept for awhile and then
+                    changed my location and bought out a colored man who had been in the same
+                    business here for many years and then hired him to remain with me his extensive
+                    acquaintance among the colored people naturally brought many <pb n="2"/>of them
+                    around the Stable and gave me a free opportunity to mingle with them in
+                    conversation. I often heard many of them speak in the highest terms of Mr Tukey
+                    and so far as I recollect never heard one of them say anything against him and I
+                    know that his course here during his former period of service was entirely
+                    satisfactory to the Union men and Freedmen and also forced the Rebels to respect
+                    him. During a portion of the time <del rend="none" hand="h1"/>
+                    <abbr expan="Lieutenant">Lieut</abbr> Cook was here he boarded a Government
+                    horse in my Stable, which Horse he traded off with another man after he was
+                    relieved he came to me in a state of excitement and said some hard things
+                    against Mr Tukey among others he said that Mr Tukey had undermined him and lied
+                    about him and had reported him to <abbr expan="Head">Hd</abbr> Quarters and
+                    swore he would have satisfaction and said he meant to come back here <pb n="3"
+                    />again and from all that I have heard since I am satisfied that the comaplaints
+                    against Mr Tukey have been made in a spirit of malice and revenge.</p>
+
+                <closer>
+                    <salute/>
+                    <signed>Edward Burke</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

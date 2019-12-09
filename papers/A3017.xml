@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+
+<?dlps id="A3017"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A3017">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Cousin Jennie to Samuel Carson,
+                    January 18, 1864</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county cousin jennie to samuel carson, january 18 1864</title>
+        <author>Cousin Jennie</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Doug O'Reagan</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Doug O'Reagan</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A3017</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502177</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Cousin Jennie to Samuel Carson, January 18, 1864</title>
+            <title level="m"/>
+            <title type="sort">augusta county cousin jennie to samuel carson, january 18 1864</title>
+            <author>Cousin Jennie</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Cousin Jennie to Samuel Carson,
+                            January 18, 1864, Nellie Harris private collection</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from private collection</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1864-01-18">1864-01-18</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Home Front, Family</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A3017T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Samuel Carson's cousin Jennie writes him, asking him to visit and describing life
+                    at home.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1864-01-18">Jany 18 1864</date>
+                    </dateline>
+                    <salute>Dear Cousin Sam</salute>
+                </opener>
+
+                <p> Would you not like to have a few lines from your <abbr expan="Cousin">Cos</abbr>
+                    Jennie this morning well here I come with a few of what I will be beter prepared
+                    to say when I get through Have you gotten home yet I tell you <abbr
+                        expan="Cousin">Cos</abbr> Sam you ought not to have left us friday night we
+                    did miss you so much Alice had such a good dream <del rend="none" hand="h1"/> night after
+                    the <hi rend="underline">sweet</hi>
+                    <hi rend="underline">kiss</hi> she secured I would like to tell you her dream
+                    will when I see you You must not leave before I come I will be down thursday on
+                    the stage meet me at Midway you must not go away <unclear>This</unclear> week
+                        <unclear>Julias</unclear> don't I saw <abbr expan="Cousin">Cos</abbr> Bob
+                    yesterday at church he was looking rather <orig reg="badly">baddly</orig> I
+                    suppose it was from the loss of <unclear>a life</unclear> I heard he and <del
+                        hand="h1"/> Glassgow danced all night at Mr <del rend="none" hand="h1"/> in <del
+                        hand="h1"/> Friday night Bob told Uncle he had nice <unclear>a</unclear>
+                    time there I guess they had if <hi rend="underline">Miss</hi>
+                    <hi rend="underline">somebody</hi>
+                    <hi rend="underline">was</hi>
+                    <hi rend="underline">there</hi></p>
+                <p> I had a nice time coming home saturday with Andrew Camron when we got home we
+                    found them all right here and acting up high Cousin Sam you must come up to Aunt
+                        <unclear>Nan</unclear> Gibsons wednesday night she gaves John &amp;
+                    Ladie a <del rend="none" hand="h1"/> that night and you all must <del rend="none" hand="h1"/> up there
+                        <orig reg="please">pleas</orig> do you &amp; Bob might come I know and
+                        <del rend="none" hand="h1"/> Alice says you must be sure and come. If you come up in a
+                    bugger I will go back with you next day</p>
+                <p><pb n="2"/>now you must be sure and come we will have a nice time Alice says she
+                    wants to see you once more before you leave I trust she is very much pleased
+                    with my Cousin Sam Now is your time all things are <unclear>sight</unclear> The
+                    old man is walking and I am <del rend="none" hand="h1"/> forced so go <orig reg="ahead">a
+                        head</orig> I am more <orig reg="than">then</orig> pleased</p>
+                <p>well I must close as we are all invited to a party at Mrs Nancy <orig
+                        reg="Mackay's">Mackays</orig>, tonight wish you could be there you must not
+                    fail to come up to Aunt Nans wednesday night now we are going to have a big time
+                    of it and you must come <orig reg="without">with out</orig> fail give my love to
+                        <abbr expan="Cousin">Cos</abbr> Agnes and <abbr expan="Cousin">Cos</abbr>
+                    <unclear>Hawpe</unclear> Tell them I will be down Thursday your <abbr
+                        expan="Cousin">Cos</abbr> Bob &amp; <abbr expan="Cousin">Cos</abbr>
+                    Hawpe must come up to Aunt Nans and I will go back with you Thursday You must
+                    answer by return mail and tell me you will be up wednesday now if you dont
+                    answer this <orig reg="I'll">Ill</orig>
+                    <unclear>give</unclear> you <hi rend="underline">gass</hi> when I see you my
+                        <del rend="none" hand="h1"/> Bob &amp; <abbr expan="Cousin">Cos</abbr>
+                    <del rend="none" hand="h1"/> Nelson and all my friends down that way</p>
+                <p>be sure and come wednesday night <orig reg="please">pleas</orig> do</p>
+                <p> I must close by saying you are ever remembered by your <abbr expan="Cousin"
+                    >Cos</abbr> Jennie</p>
+
+                <closer>
+                    <salute/>
+                    <signed/>
+                    <seg type="postscript"> Sam I took the liberty of opening this when it came to
+                        the office on last week I would have sent it sooner but have been riding
+                        around on the lookout for Old Tom he has gone to the army I wish you would
+                            <orig reg="look">lok</orig> around for me &amp; the
+                        <unclear>Lep</unclear> Davis is near you the <orig reg="man's">mans</orig>
+                        name is James H Glidewill nothing more we are all well please write to me
+                        some your affectionate Brother <orig reg="until">untill</orig> Jack <del
+                            hand="h1"/></seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

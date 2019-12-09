@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0016"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="F0016">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Samuel M. Potter to Cynthia Potter,
+                    February 3, 1863</title>
+        <title type="sort">franklin county samuel m potter to cynthia potter, february 3 1863</title>
+        <author>Potter, Samuel M.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amy Voorhees</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F0016</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501191</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Samuel M. Potter to Cynthia Potter, February 3, 1863</title>
+            <title level="m"/>
+            <title type="sort">franklin county samuel m potter to cynthia potter, february 3 1863</title>
+            <author>Samuel M. Potter</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Pennsylvania Historical and
+                            Museum Commission, Civil War Material, Misc. Diaries and Letters,
+                            Microfilm, MG-132.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note>
+                            <p>This transcription was made from a typescript of the original
+                            letter.</p>
+                        </note>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Pennsylvania Historical and Museum Commission, Harrisburg, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1863-02-03">1863-02-03</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Battle Description, Camp Life, Church/Religious Activity,
+                        Death/Casualties, Family, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2003-01">January 2003</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against transcription; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F0016T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Potter writes to his wife about the new camp where his regiment has settled. He
+                    also mentions news from his sister Mary about the loss of several family members
+                    in one battle.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                
+
+                <opener>
+                    <dateline>
+                        <date value="1863-02-03">Feb. 3rd 1863</date>
+                        <name type="place">Camp 16th Pa. Cavalry</name>
+                    </dateline>
+                    <salute>Dear Cynthia</salute>
+                </opener>
+
+                <p>Mr Frazier who came with <abbr expan="Lieutenant">Lieut.</abbr> Gunn brought me a
+                    couple pair of socks with some butter &amp; a late Wash. Co. newspaper from
+                    home &amp; also in the socks a letter from you. I was glad that you are all
+                    well &amp; Joseys arm well enough to go to school again so that he could use
+                    his new second reader. I am pleased to hear of him being such a good boy
+                    &amp; learning so well. I would be very much pleased too if Lucy would go
+                    with Josey &amp; learn to read with him. &amp; then she could teach Bell
+                    her letters &amp; Jimmy Sloan too when he learns to talk. Ask Lucy if she
+                        <orig reg="won't">wont</orig> go to school for Pa &amp; he will send her
+                    something nice. Mr Frazier says <abbr expan="Lieutenant">Lieut.</abbr> Gunn took
+                    sick in Washington City &amp; could not come down to the army of the
+                    Potomac. Well we have no particular news here. We have moved into our new camp
+                    in the Pine Woods which was a cornfield 25 years ago &amp; you can see the
+                    ridge of each corn row yet. Some of the trees are as thick as a <orig
+                        reg="man's">mans</orig> body. The boys all have put up their cabins again
+                    &amp; have made them very comfortable with fireplaces to burn wood in. They
+                    are all well except Adam Hewitt who has inflamation of the lungs I think. We
+                    have quite a number in the hospital from other companies &amp; the Doctor is
+                    having a large log house built for the use of the sick. When that is finished we
+                    will have ample room for the sick. You tell me not to go near the rebs for fear
+                    of being shot. There is no danger of that now. They are 7 or 8 miles from us.
+                    The time I was so near them was when I was on a visit to some other regiments. I
+                    have not had time since for riding out &amp; expect will not for some time
+                    to come &amp; as we are in the woods with the army all <orig reg="around"
+                        >round</orig> us the rebels would have some trouble in getting here to get a
+                    pop at us. (I think so) I got a letter a few days ago from Mary. She tells me
+                    that they are all well at home but has sad news from Uncle <orig reg="John's"
+                        >Johns</orig> family. Cousin David was killed at the Murphysboro fight,
+                    Cousin Jimmie wounded, &amp; Robert missing. You recollect <abbr
+                        expan="Cousin">Cos.</abbr> David a noble generous hearted man. He has given
+                    his life that we may have liberty for ourselves &amp; children. From what
+                    Mary said he was ready to die. To give an account for the deeds done in the body
+                    by having accepted salvation by Jesus Christ as offered in the Gospel. We should
+                    all see to it that our calling &amp; election is sure for we do not know
+                    when the angel of death may summon any of us away from this earth. Uncle John
+                    &amp; Aunt Jane will be in trouble, whereas Robert will be their constant
+                    care &amp; will James recover to come back to them will be a great deal of
+                    anxiety to them. We expect from all indications to stay here for some time. For
+                    how long it is not known, but the mud will for some time hold the
+                    <unclear>army</unclear> level. Our paymaster has not come yet but like the good
+                    time coming will be here after a while. Cynthia I am delighted with your
+                    present. The butter is not so coarse on hard crackers &amp; as the air today
+                    is frosty the socks are bully. I have nothing else to write today but to leave
+                    us all in the care of our Heavenly Father that he may protect you from all
+                    dangers seen &amp; unseen</p>
+
+                <closer>
+                    <salute/>
+                    <signed>S.M. Potter</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

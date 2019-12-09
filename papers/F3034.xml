@@ -1,0 +1,270 @@
+<?xml version="1.0"?>
+
+<?dlps id="F3034"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="F3034">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: David Demus to Mary Jane Demus, May 8, 1865</title>
+        <title type="sort">franklin county david demus to mary jane demus, may 8 1865</title>
+        <author>Demus, David</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Murrell</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Murrell</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">11</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">F3034</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:501472</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Franklin County: David Demus to Mary Jane Demus, May 8, 1865</title>
+            <title level="m"/>
+            <title type="sort">franklin county david demus to mary jane demus, may 8 1865</title>
+            <author>David Demus</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>4 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Case File of Wesley Krunkleton, Approved Pension
+       Applications of Veterans Who Served in the Army and Navy Mainly in the Civil War and the War
+       with Spain, Record Group 15, National Archives and Records Administration, Washington,
+      D.C.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>We would like to thank Edwin S. Redkey, Lagrangeville, New York, for bringing these
+        letters to our attention.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1865-05-08">1865-05-08</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>African Americans, Family, Camp Life, Troop Movement</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001-07">July 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Murrell</name>
+        </respStmt>
+        <item>Proofread against original; corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="F3034T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Demus talks about plans to buy a house once he returns home from the war. He also complains
+     about a lack of food.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Mary Jane Demus</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1865-05-08">May the 8th 1865</date>
+      <name type="place">Camp 54th Mass <orig reg="volunteers">volinters</orig></name>
+     </dateline>
+     <salute><unclear>Comy Caz</unclear><lb/><lb/><orig reg="My">Mi</orig> Dear</salute>
+    </opener>
+
+    <p>I <orig reg="take">tak</orig> this present <orig reg="opportunity">optunity</orig> to inform
+     you that I am Well at present and hope <orig reg="When">Whean</orig>
+     <orig reg="these">thes</orig>
+     <orig reg="Few">Fu</orig> lines Reaches <orig reg="your">yor</orig> Dear hand that <orig
+      reg="they">tha</orig>
+     <orig reg="May">Ma</orig> find you Well and all the <del rend="none" hand="h1"/>
+     <orig reg="My">Mi</orig> Dear i <orig reg="just">jest</orig>
+     <orig reg="Receive">Receave</orig>
+     <orig reg="your">yor</orig> kind and <orig reg="Welcome">Welkom</orig> letter the other Day but
+     i had Not the <orig reg="time">tim</orig> to <orig reg="Write">Rit</orig>
+     <orig reg="For">Fer</orig>
+     <orig reg="When">Whean</orig> I I got the letter <orig reg="Why">Wiy</orig> We <orig reg="Was"
+      >Wos</orig>
+     <orig reg="just">jest</orig> tearing Down <orig reg="our">or</orig> tents to leave <orig
+      reg="georgetown">gorge town</orig> and <orig reg="We">Wel</orig> fell in and March Down to the
+     Camden and <orig reg="there">thear</orig> We had to <orig reg="lie">ly</orig> on the <orig
+      reg="ground">grown</orig> all <orig reg="Night">Nighte</orig> and as <orig reg="soon"
+     >son</orig> as <orig reg="Daylight">Daylite</orig> Came <orig reg="Why">Wiy</orig> We fell in
+     and Went on the Boat and We <orig reg="Came">Cam</orig> on to <orig reg="Charleston"
+     >Charston</orig> that <orig reg="same">sam</orig> Day and then We laid out on the <orig
+      reg="ground">grown</orig> all <orig reg="Night">Nighte</orig> and the Next <orig reg="Night"
+      >Nighte</orig>
+     <orig reg="Why">Wiy</orig> We Move in Close to the <orig reg="city">sity</orig> and Now We Camp
+     in a Nice place and <orig reg="there">thear</orig> is only 5 <orig reg="Company">Cumpeny</orig>
+     to <unclear>tothers</unclear> Now the <unclear>ethey</unclear> 5 <orig reg="Company">Cumpeny</orig>
+     <unclear>in gon</unclear> to <orig reg="somerville">sumervil</orig>
+     <orig reg="about">a Bout</orig> 6 miles <orig reg="from">frum</orig> us so i <orig reg="have"
+      >heave</orig> Not saw <orig reg="any">eny</orig> of the <orig reg="boys">bose</orig> for <orig
+      reg="three">thee</orig> or <orig reg="four">for</orig> Days but <orig reg="When">Whean</orig>
+     i saw them <orig reg="Why">Wiy</orig>
+     <orig reg="they">tha</orig>
+     <orig reg="Was">Wos</orig> all Well and <orig reg="Doing">Duing</orig> Well i <orig reg="have"
+      >heave</orig>
+     <orig reg="Receive">Receave</orig>
+     <orig reg="some">som</orig>
+     <orig reg="four">for</orig> or five letters in the last <orig reg="Week">Weak</orig> and this
+     last letter <orig reg="Was">Wos</orig>
+     <orig reg="Wrote">Rot</orig> March the 31st <orig reg="My">Mi</orig> Dear i <orig reg="have"
+      >heave</orig>
+     <orig reg="excuse">excus</orig> you <orig reg="for">fer</orig> all that you <orig reg="have"
+      >heave</orig>
+     <orig reg="Wrote">Rot</orig> to Me <orig reg="for">fer</orig>
+     <orig reg="When">Whean</orig> i study <orig reg="about">a bout</orig> it <orig reg="Why"
+     >Wiy</orig> i <orig reg="Just">Jest</orig>
+     <orig reg="thought">thot</orig> how often i <orig reg="said">sed</orig> things <orig reg="When"
+      >Whean</orig> i <orig reg="Was">Wos</orig> in a bad <orig reg="humor">umer</orig> a person
+     often say thing that <orig reg="they">tha</orig>
+     <orig reg="Wouldn't">Wodend</orig> if <orig reg="they">tha</orig> Was in a good <orig
+      reg="humors">umers</orig></p>
+
+    <p>But <orig reg="My">Mi</orig> Dear you <orig reg="spoke">spoak</orig> about James Carsen going
+     to sell the <orig reg="house">hose</orig>
+     <orig reg="My">Mi</orig> Dear i <orig reg="Don't">Dont</orig>
+     <orig reg="Care">Car</orig> if he <orig reg="selled">selde</orig> it to Mary Row <orig
+      reg="for">fer</orig> i shall Never live it it as long as i live <orig reg="for">fer</orig> i
+     Never had <orig reg="anything">eney thing</orig> of the <orig reg="place">plase</orig> yet and
+     i think a <unclear>gents</unclear> i get <orig reg="home">hom</orig>
+     <orig reg="Why">Wiy</orig> you and I Can <orig reg="buy">biy</orig> a <orig reg="little">littel</orig>
+     <orig reg="home">hom</orig> for <orig reg="our">or</orig>
+     <orig reg="Selves">Celfs</orig>
+     <orig reg="for">fer</orig> i <orig reg="ain't">ant</orig> going to spend a <orig reg="cent"
+      >sent</orig> of <orig reg="My">Mi</orig>
+     <orig reg="money">muny</orig> and i Will pay <orig reg="Jacob">Jacop</orig> as <orig reg="soon"
+      >son</orig> as We get <orig reg="paid up">padup</orig> and then i still think i Will have
+      <orig reg="enough">a Nuff</orig> to for you and <orig reg="myself">Mi Celf</orig> and a how
+     happy it will Be to <orig reg="Me">Mi</orig> to get <orig reg="home">hom</orig> to <orig
+      reg="stay">sty</orig> with you <orig reg="for">fer</orig> i am <orig reg="tired">tird</orig>
+     <unclear>solders</unclear> since <orig reg="peace">pease</orig> is <orig reg="Declared"
+     >Declard</orig> for We <orig reg="Can't">Cant</orig> get <orig reg="anything">eny thing</orig>
+     hardly to Eat or <orig reg="drink">trink</orig>
+     <unclear>onely</unclear>
+     <orig reg="our">or</orig>
+     <orig reg="Ration">Rishen</orig> What We Draw <orig reg="for">fer</orig> When the War Was going
+     on <orig reg="Why">Wiy</orig> We <orig reg="Could">Cod</orig>
+     <orig reg="go">goow</orig> out and <orig reg="Catch">Ceatch</orig>
+     <orig reg="Chicken">Chicson</orig> and eat them <orig reg="My">Mi</orig> Dear i Must Close for
+     this <orig reg="time">tim</orig> if you Can send Me a <orig reg="few">fu</orig>
+     <orig reg="postage stamps">postamps</orig>
+     <orig reg="Why">Wiy</orig> i <orig reg="Would">Wod</orig> be <orig reg="very">verry</orig>
+     <orig reg="Much">Muc</orig>
+     <orig reg="obliged">a blige</orig> to you Remember <orig reg="My">Mi</orig> love to all the
+      <orig reg="inquiring">enquirn</orig>
+     <orig reg="friends">frends</orig> and <orig reg="My">Mi</orig> Best for <orig reg="yourself"
+      >yor Celf</orig>
+    </p>
+
+    <closer>
+     <salute/>
+     <signed/>
+     <seg type="postscript"> Direct <orig reg="your">yor</orig> letter to <orig reg="Charleston"
+       >Charston</orig>
+      <orig reg="city">sitty</orig><lb/> Camp 54th Mass <orig reg="volunteers"
+      >volintears</orig><lb/> Co. K<lb/> South <orig reg="Carolina">Carlina</orig><lb/><lb/>
+      <orig reg="My">Mi</orig> Dear i am sorry to say that i <orig reg="have">heave</orig> Never got
+      the <orig reg="postage  
+ stamps">poaststamps</orig> then that you <orig reg="said"
+      >sead</orig> you sent </seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

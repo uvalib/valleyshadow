@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0021"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="F0021">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Samuel M. Potter to Cynthia Potter,
+                    July 28, 1863</title>
+        <title type="sort">franklin county samuel m potter to cynthia potter, july 28 1863</title>
+        <author>Potter, Samuel M. </author>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amy Murrell </name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Institute for Advanced Technology in the Humanities </publisher>
+                <publisher>University of Virginia </publisher>
+                <pubPlace>Charlottesville, Va. </pubPlace>
+                <idno type="VCDH">F0021</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1997 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved. </p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1997 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1997">1997 </date>
+            <idno type="uva-pid">uva-lib:501196</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War. </p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note>
+                    <p>This is transcribed from a typescript.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Samuel M. Potter to Cynthia Potter, July 28, 1863</title>
+            <title type="sort">franklin county samuel m potter to cynthia potter, july 28 1863</title>
+            <author>Samuel M. Potter</author>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <publicationStmt>
+                        <publisher> </publisher>
+                        <pubPlace> </pubPlace>
+                        <date value=""> </date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p>Source copy consulted: Potter Letters, Microfilm MG-132, Civil War
+                            Material, Misc. Diaries and Letters, Pennsylvania Historical and Museum
+                            Commission, Harrisburg, Pennsylvania. </p>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Pennsylvania Historical and Museum Commission, Harrisburg, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1863-07-28">1863-07-28 </date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Desertion/Leave, Medicine/Hospitals </term>
+                    <term>Regiment: 16th Pa. Cav. </term>
+                    <term>Company: </term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value="2000">Summer 2000</date>
+                <respStmt>
+                    <resp/>
+                    <name>Amy Voorhees</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="F0021T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Potter describes his recuperation in a military hospital in Baltimore and tells
+                    about his unsuccessful attempt to receive a sick furlough.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Cynthia Potter</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1863-07-28">July 28<hi rend="super">th</hi> 1863 </date>
+                        <name type="place">Hospital <abbr expan="Baltimore">Balt</abbr></name>
+                    </dateline>
+                    <salute>Dear Cynthia </salute>
+                </opener>
+                <p>Since I wrote you from Harpers Ferry Hospital I have been transferred to
+                    Baltimore at my own request thinking while I was a little sick that I could get
+                    a sick furlough, but after coming here I got so much better that they refused to
+                    give me a furlough and dearly as I love to be with you at home I <orig
+                        reg="don't">dont</orig> see how to get there at present so I will ask you to
+                    be patient for a while longer &amp; I will, will submit to though I would
+                    like so much to be at home with you and the children. The Doctor found me so
+                    well yesterday he returned me to duty. I was in the Stuart Mansion Hospital
+                    &amp; finding there would be no chance there for a furlough, I tried to get
+                    transferred to a hospital in Harrisburg, hoping that I could get from there, but
+                    the Doctor was in a bad humour -- some of the nurses had been out the night
+                    before &amp; got drunk, so when I went to ask him for my transfer he
+                    answered me as mad as a hornet. When I will leave here to go to the regiment I
+                    cannot tell, as it is away down in Virginia &amp; the officers here <orig
+                        reg="don't">dont</orig> know where it is. There are some men here who have
+                    been well and hearty for a month &amp; not been sent off yet, so that I may
+                    probably remain here for some time &amp; may leave today nobody knows. There
+                    are a great many sick &amp; wounded soldiers here in Baltimore &amp; the
+                    hospitals are conducted in the best manner. Everything must be clean about them.
+                    The sick and wounded have the best kind of diet. Those who are not sick have to
+                    live on a very plain diet and they growl a good deal about it although they get
+                    plenty to eat. There are about 400 in this hospital none of them very sick, most
+                    of them like me, waiting to be sent to their regiments. We have no special war
+                    news here at this time &amp; I have nothing to relate of interest as taking
+                    place here. It is very monotonous here. We have a fine view of the city
+                    &amp; bay but that is all the good it does us now. We <orig reg="can't"
+                    >cant</orig> get out they are very strict keeping us in the hospital grounds
+                    very close &amp; it is right enough as a number of the men if they would get
+                    out would be disorderly drunk &amp;c. You need not direct your letters to me
+                    at this place as I do not know how long I may remain. Direct them as you have
+                    been doing to Washington to the regiment &amp; I will get them some day. I
+                    hope this may find you all well. I would like so much to get a letter from you
+                    as I <orig reg="can't">cant</orig> get home for some time yet. Your last letter
+                    took me home &amp; landed me on the porch beside you with the children
+                    around us &amp; I felt very happy for a while &amp; cheerful. But do not
+                    despair. The same Almightly power that has kept sickness from me so long
+                    &amp; raised me up when disease took hold of me will in his good time and
+                    way permit me to remain with my family if consistent with his will &amp; if
+                    His will be otherwise let us say thy will be done. He still orders everything
+                    for the best &amp; knows what is best for us if we do not know. So in any
+                    case my dear wife let us put all our trust in him. It is very hard to part with
+                    our best friends &amp; we may be disposed to murmur at it, but our Heavenly
+                    father knows what is best for us. Give my love to the children kiss them for me.
+                    Tell Josey &amp; Lucy &amp; Bell when I get home I will bake them
+                    something nice. I still intend to keep trying to get a furlough. Remember me in
+                    yoru prayers Cynthia &amp; I will pray for the choicest blessing upon you
+                    all. <orig reg="May">My</orig> God keep you in his loving care &amp; his
+                    spirit dwell with you. </p>
+                <closer>
+                    <salute>Your most affectionate husband and father </salute>
+                    <signed>S.M. Potter </signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+
+<?dlps id="B0798"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B0798">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: Thomas P. Jackson to N. C. Brackett,
+     May 29, 1867</title>
+        <title type="sort">freedmens bureau records thomas p jackson to n c brackett, may 29 1867</title>
+        <author>Jackson, Thomas P.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Desi Hopkins</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Desi Hopkins</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">B0798</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+     <p>Text and Images (c) copyright 1993-2005, by the Rector and Visitors of the University of
+      Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date>
+        <idno type="uva-pid">uva-lib:500855</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Freedmen's Bureau Records: Thomas P. Jackson to N. C. Brackett, May 29, 1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records thomas p jackson to n c brackett, may 29 1867</title>
+            <author>Thomas P. Jackson</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>2 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: National Archives and Records Administration,
+       Records of the Bureau of Refugees, Freedmen and Abandoned Lands, RG 105, Box E4265.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1867-05-29">1867-05-29</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Education, Race Relations, Aid/Relief</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2006-01">January 2006</date>
+        <respStmt>
+          <resp/>
+          <name>Heather Weidner</name>
+        </respStmt>
+        <item>Item proofread against original; corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="B0798T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Jackson writes to Brackett seeking reassurance that his society will help to support teachers
+     in the Shenandoah Valley during the coming summer.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     Bureau <abbr expan="Refugees, Freedmen and Abandoned Lands">R.F. &amp; A.L.</abbr>
+     <lb/><abbr expan="Office 4th Division, 9th Sub-District, Virginia">Off 4 Div. 9 S. Dist
+      Va</abbr>
+     <name type="recipient"><abbr expan="Reverend">Rev<hi rend="super">d</hi></abbr> N. C.
+       Brackett<lb/><abbr expan="Superintendent">Supt</abbr> Schools &amp;c</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1867-05-29">May 29/67</date>
+     </dateline>
+
+     <salute><abbr expan="Dear">Dr</abbr> Sir</salute>
+    </opener>
+
+    <p>Your communication of date May 8/67 asking if <abbr
+      expan="Bureau of Refugees, Freedmen and Abandoned Lands">BRF &amp; AL</abbr> would aid
+     support of teachers in Valley during the present summer &amp;c is returned with endorsement
+     "such aid cannot be furnished by the Bureau" I trust notwithstanding present discouragement
+     your society will retain several if not all the teachers during this summer, taking advantage
+     of the increasing interest manifested by the Freedpeople in Education and the disposition to
+     tolerate schools on the part of the Whites.</p>
+
+    <closer>
+     <salute>Faithfully</salute>
+     <signed><hi rend="underline">Tho<hi rend="super">s</hi> P Jackson</hi><lb/>Agent</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

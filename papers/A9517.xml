@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9517"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A9517">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: William White to Francis McFarland,
+                    July 6, 1864</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county william white to francis mcfarland, july 6 1864</title>
+        <author>White, William</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Jaime Martinez</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A9517</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502759</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: William White to Francis McFarland, July 6, 1864</title>
+            <title level="m"/>
+            <title type="sort">augusta county william white to francis mcfarland, july 6 1864</title>
+            <author>William White</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Francis McFarland Papers, Mss
+                            053, Leyburn Library, Washington and Lee University, Lexington,
+                            Virginia.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Special Collections, James G. Leyburn Library, Washington and Lee University</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1864-07-06">1864-07-06</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>African Americans, Agriculture, Death/Casualties, Home Front, Troop
+                        Movement, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2003-06">June 2003</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Item proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A9517T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>White sends McFarland church news and describes the recent raid of the Union Army
+                    in Lexington.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1864-07-06">July 6, 1864</date>
+                        <name type="place">Lexington, <abbr expan="Virginia">Va.</abbr></name>
+                    </dateline>
+                    <salute>My Dear Brother</salute>
+                </opener>
+
+                <p>I embrace the first opportunity of sending you the printed minutes of our Synod,
+                    approved by the <abbr expan="General">Gen.</abbr>
+                    <abbr expan="Assembly">Ass.</abbr>. The meeting was small but pleasant. You have
+                    doubtless seen the published proceedings.</p>
+
+                <p>You are aware that we have had a visit from our Yankee Brethren. Our community
+                    has suffered greatly. Many were robbed of almost every mouthful of food and
+                    every <orig reg="piece">peice</orig> of apparel. My house &amp; its contents
+                    escaped, but they robbed me of 36 bushels of corn, a ton of Hay and my favorite
+                    riding horse. Besides this they destroyed my grass, <unclear>consumed</unclear>
+                    a great deal of my ice, ruined my carriage harness, cut the curtains from my
+                    carriage &amp; endeavored to steal the carriage. One of their Generals made
+                    his head quarters in my yard. This was some protection to me. On the whole they
+                    appeared to me like a great mob of <unclear>licensed</unclear> robbers and house
+                    burners. They did immense damage to the college. They utterly destroyed or <orig
+                        reg="carried">carryed</orig> off the college library &amp; did the same
+                        <pb n="2"/> to about half of the two society Libraries &amp; destroyed
+                    or gave to the negroes all the furniture of the two society Halls. They broke
+                    every <orig reg="piece">peice</orig> of the philosophical apparatus &amp;
+                    would have burned the buildings if it had not been for <abbr expan="Captain"
+                        >Capt.</abbr> Moore. They burned the Institute, Mess Hall, two professors
+                    houses, sparing Smiths on account of the illness of his daughter <del hand="h1"
+                        >&amp; all</del></p>
+
+                <p>From the way in which I am told many of their officers spoke of our "<hi
+                        rend="underline">cruel treatment to Dr. Junkin</hi>," I have no doubt that
+                    his <unclear>representation</unclear> didn't lead to much of their cruelty here.
+                    It is curious, that his daughter, Mrs Col. Preston was the only lady here who
+                    was treated with personal rudeness <del hand="h1">here</del>. Of course the
+                    party who did it, did not know that she was his daughter. One of their officers
+                    stated that both he &amp; Dr. Junkin were with Averill on his raid last
+                    fall.</p>
+
+                <p>I am thankful to learn that they did not reach your house. May a kind providence
+                    shield us from their presence &amp; deliver us from their power. I trust
+                    your health is comfortable. My wife joins me in kindest remembrances to you, Mrs
+                        M<hi rend="super">c</hi>Farland &amp; Mary.</p>
+
+                <closer>
+                    <salute>Yours truly &amp; <abbr expan="affectionately">affy</abbr>,</salute>
+                    <signed><abbr expan="William">Wm</abbr>. J. White</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2945"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A2945">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: Robert B. Spillman to Amanda C. Armentrout,
+                    January 12, 1865</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta robert b spillman to amanda c armentrout, january 12 1865</title>
+        <author>Spillman, Robert B.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Elizabeth Ladner</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A2945</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502115</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: Robert B. Spillman to Amanda C. Armentrout, January 12, 1865</title>
+            <title level="m"/>
+            <title type="sort">augusta robert b spillman to amanda c armentrout, january 12 1865</title>
+            <author>Spillman, Robert B.</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William F. Brand Papers</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1865-01-12">1865-01-12</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Medicine/Hospitals, Home Front</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A2945T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Robert discusses his pleasure in his acquaintance with Kate, remarking on how
+                    close they have become since they first met. He then writes poetically of his
+                    surroundings at Chimborazo Hospital in Richmond.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Miss Kate Armentrout<lb/>Greenville<lb/>August Co. Va</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1865-01-12">Jan 12<hi rend="super">th</hi> 1865</date>
+                        <name type="place">Office <abbr expan="Chimborazo">Chimbo</abbr>
+                            <abbr expan="Hospital">Hosp</abbr> Richmond</name>
+                    </dateline>
+                    <salute>My dear Sister Kate</salute>
+                </opener>
+
+                <p>Again I have the pleasure of responding to your Ever dear &amp; affectionate
+                    letter that reached me to day the perusal of which was done with no little
+                    degree of pleasure. I can not find words to express my self on the present
+                    occasion could I but wield the pen of a novelist, I might passibly be able to
+                    give some faint idea of my high appreciation of your dear letters and the pure
+                    unselfish friendship you have to long &amp; so repeatedly expressed for me
+                    how often in my silent musings does my mind wander back to the days when I had
+                    no knowledge of you, before I was <orig reg="honored">honoured</orig> with your
+                    acquaintance &amp; your friendship. <orig reg="How">how</orig> different
+                    were the lonely hours spent then, no fond anticipation lay before me of a day
+                    that would bring with its natural charms a messenger from a <hi rend="underline"
+                        >dear dear</hi> friend in the distance, a letter from you dear Kate. How sad
+                    &amp; still how pleasing are the many changes since first we met, both
+                    combined are truly almost incomprehensible. think, for a moment, but a little
+                    more than a year ago we were as those who had never lived to each other but time
+                    with its <pb n="2"/>many changes find us now as it were bonded &amp; <orig
+                        reg="bosom">bossom</orig> friends. <orig reg="How">how</orig> pleasing it is
+                    to me to think that I have the esteem &amp; confidence of a friend so pure,
+                    so noble, as your self. Tis truly an honour not merited by me I can scarecely
+                    realize that one so insignificant as my self should enjoy such pleasures as are
+                    realized from such a pleasing correspondence. Well dear Kate, you had need <add
+                        hand="h1" place="inline">not</add> expect a long or interesting letter this
+                    time as my mind is restive it seems that it <orig reg="can't">cant</orig>
+                    possibly be concentrated or centered upon any one particular subject. Not
+                    withstanding the present moment is a time when I should feel or rather be able
+                    to produce some sentimental language for now it is about Eleven <orig
+                        reg="o'clock">oclock</orig> at night. No sound breaks the stillness of the
+                    night save the constant roar of the rapid waters of the James River as it rushes
+                    madly over the rocky falls wending its way along the winding current towards its
+                    mother ocean. Other than that, all is quiet. The blazing stars shine brilliantly
+                    high up in their orbit while the gentle moon sheds its silvery light over all
+                    nature. Still I <orig reg="can't">cant</orig> feel sentimental since I <orig
+                        reg="can't">cant</orig> find words to express my self <orig reg="tonight">to
+                        night</orig>. I hope you will excuse my brevity &amp; I'll promise to do
+                    better <orig reg="next">nex</orig> time, but that is a promise that <pb n="3"/>I
+                    aught not to make, as I'll be most sure to break it for <add hand="h1"
+                        place="inline">I</add> am not endowed with the mental faculties which
+                    enables one to write a communicative or interesting letter. <orig reg="Still"
+                        >still</orig> I am fond of writing, if I <orig reg="can't">cant</orig>
+                    interest or give information. I <orig reg="don't">dont</orig> exactly agree with
+                    my dear little friend Lou. She seems <add hand="h1" place="inline">to</add>
+                    think that letters should not be written unless it bears important news, or
+                    something cheering or animating but it is not so with me. I like to speak at a
+                    distance with my dear friend through the silent medium of the pen tis truly a
+                    pleasure that I would not be deprived for the world. I could not <orig
+                        reg="dispense">dispence</orig> with such a pleasure while I am blessed with
+                    the power of writing I must profit by it. Well dear Kate the old Bacon Clock has
+                    just told by its lonesome ring the approach of midnight hour, so I must close.
+                    My love to all with a full portion for your self.</p>
+
+                <closer>
+                    <salute>Write soon to your fond &amp; affectionately</salute>
+                    <signed>Robert</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

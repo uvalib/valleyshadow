@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+
+<?dlps id="A1700"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A1700">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Jubal Anderson Early to Edmund
+                    Jennings Lee II, September 26, 1872</title>
+        <title>[electronic resource] </title>
+        <title type="sort">franklin county jubal anderson early to edmund jennings lee ii, september 26 1872</title>
+        <author>Lee, Edmund Jennings, II</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Ryan Fleenor</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">9</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A1700</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501970</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Jubal Anderson Early to Edmund Jennings Lee II,
+                            September 26, 1872</title>
+            <title level="m"/>
+            <title type="sort">franklin county jubal anderson early to edmund jennings lee ii, september 26 1872</title>
+            <author>Jubal Anderson Early</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Jubal A. Early to Edmund Jennings
+                            Lee II, September 26, 1872, Edmund Jennings Lee II Papers, Duke
+                            University Library, Durham, North Carolina.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Special Collections Department, William R. Perkins Library, Duke University, Durham, North Carolina</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1872-09-26">1872-09-26</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Battle Description</term>
+                    <term>American Civil War</term>
+                    <term>Home Front</term>
+                    <term>State Government</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2006-02-19">February 19, 2006</date>
+                <respStmt>
+                    <resp/>
+                    <name>Andrew J. Torget</name>
+                </respStmt>
+                <item>Proofed against original; changes made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A1700T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Jubal A. Early writes to Edmund Jennings Lee II about the burning of Montgomery
+                    Blair's house during Confederate incursions into Maryland and Pennsylvania.
+                    Early acknowledges responsibility for burning places like Chambersburg, PA, but
+                    denies that he had anything to do with the burning of Blair's house.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1872-09-26">Sep 26th 1872</date>
+                        <name type="place">Lynchburg</name>
+                    </dateline>
+                    <salute>Dear Sir</salute>
+                </opener>
+
+                <p>Yours of the 24th with the enclosures has been received. I made no speech at
+                    Williamsport on the occasion referred to in the extract from the "Age" -- I had
+                    sent to Hagerstown and had several prominent Republicans
+                    <unclear>arrested</unclear> as <unclear>hostages</unclear> for some persons
+                    arrested by Hunter near <unclear>Hedgeville</unclear>. With them came several
+                    persons to intercede with me for the release of the arrested parties on
+                        <unclear>parol</unclear>, and among those who came to intercede with me were
+                        M<hi rend="super">r</hi> Hamilton, now senator from Maryland, M<hi
+                        rend="super">r</hi> Romaine, and Judge <unclear>Thompson Warren</unclear>.--
+                    I had a good deal of conversation with the parties, but had no idea of making a
+                    speech, and did not suppose any one would so regard my remarks.-- If
+                        <unclear>you</unclear> heard that any publication was made in regard to what
+                    I said it has escaped my memory.-- I certainly said nothing to authorize the
+                    idea that I had ordered or sanctioned the burning of Montgomery Blair's House.-
+                    It is very possible that I may have said that the burning of his house stood on
+                    a different <unclear>footing</unclear> from the plundering of his father's
+                    house. But if so, it was not intended to <pb n="2"/>convey the idea that I had
+                    ordered the burning, but was much intended as an excuse for the act by my men if
+                    any of them committed it.- If I had thought proper to burn the house myself, I
+                    would have had abundant justification for it in the fact that Mr. Davis' house
+                    in Mississippi had been burned by the Yankee troops, the Institute at Lexington
+                    had been burned, and many private houses of citizens of Virginia had been burned
+                    by Hunter, as I had seen in the line of his march.</p>
+
+                <p>The reasons why I did not burn Blair's house were 1st because, in my
+                        <unclear>then</unclear> position, I did not wish to do any act which might
+                    seem to give <unclear>authority</unclear> for any liscence on the part of my
+                    troops, and thus relax the reins of discipline; and 2nd, because it was then
+                    well known that the Blairs were opposed to some of the harsh measures
+                        <unclear>pursued</unclear> by their party, and for that reason were in very
+                    bad <unclear>odom</unclear> with the Radical portion-- In fact, it was not long
+                    before Montgomery Blair was compelled to retire from the Cabinet-- I did not
+                    think it would be true <unclear>piling</unclear> to retaliate on him, and in
+                    fact I supposed such retaliation would have <pb n="3"/>gratified the extreme
+                    Radicals.-- But as he was then a member of the cabinet, I had no doubt of my
+                    right to retaliate on him if I thought <unclear>proper</unclear>.-- A gentleman
+                    now living in the Valley, who followed my force, but was not in the service,
+                    came to me and asked permission to burn the house, but I refused it
+                        <unclear>puncuptarily</unclear>. The house was a new one just finished as I
+                        <unclear>understand</unclear>, and I believe was not furnished at all.--</p>
+
+                <p>I did put a guard on it, and the fire was <unclear>discovered</unclear> and
+                    pointed out to me, as we were moving back, by one of my staff-officers who now
+                    resides at Staunton, and knows that I did not intend to burn the house. I have
+                    abundant testimony to show what were my purposes, if I thought proper to produce
+                    it; but really I do not care whether M<hi rend="super">r</hi>. Montgomery Blair
+                    believes my statement or not-- My <unclear>card</unclear> in regard to the
+                    matter was not published to propitiate him, or to clear myself of a charge of
+                    vandalism, but simply to vindicate the truth of history--</p>
+
+                <p>Nor do I care care whether the present editor of the "Mail" thinks my
+                        <unclear>card</unclear> consistent with the statement published in the
+                    "Age"-- If his sympathy for the Southern cause had taken <pb n="4"/>the shape of
+                    service under my command, instead of much very unfruitful sympathy as we were
+                    accustomed to meet within Maryland, he would have learned that I never shirked
+                    any responsibility for any act of mine-- I have assumed the responsibility of
+                    the burning of Chambersburg, and also of <abbr expan="Thaddeus">Thad.</abbr>
+                    Stevens' iron-works-- Though I am informed Stevens always believed that
+                    Barksdale of Mississippi burned his works-- I also approved the burning of
+                    Governor Bradford's house by one of my subordinates, though I did not know of it
+                    until the act was consummated-- Subsequently, if I had had an opportunity I
+                    would have done much more burning in the enemy's country.--</p>
+
+                <p>If I had burned Blair's house, I would have been entirely justified in doing so,
+                    and would have assumed the responsibility at once. I did not do it for the
+                    reasons before stated, and I have never known to this day whether the burning
+                    was done by my men or some person in the neighborhood hostile to the Blairs-- It
+                    is very possible that some of my men did it-- If so they abundant provocation in
+                    the sight of their own houses or the houses of their friends that had been
+                    consigned to the flames of the enemy in the line of their march into Maryland.
+                    If you think proper, you can show this letter to the editor of the "Mail," and
+                    he can show it to Judge Blair if he thinks proper.</p>
+
+                <closer>
+                    <salute>Your servt <unclear>Truly</unclear></salute>
+                    <signed>Lt. Early</signed>
+                    <seg type="postscript">
+                        <name type="recipient">E.J. Lee Jr. Esquire</name>
+                    </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

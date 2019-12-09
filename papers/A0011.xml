@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+
+<?dlps id="A0011"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A0011">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Eliza H. Stanton to Margaret Dunlap,
+                    January 5, 1858</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county eliza h stanton to margaret dunlap, january 5 1858</title>
+        <author>Stanton, Eliza H.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Sarah Parnes</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Susanna Michele Lee</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca.<num type="kilobytes">7</num> kilobytes </extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A0011</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501786</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Eliza H. Stanton to Margaret Dunlap, January 5, 1858</title>
+            <title level="m"/>
+            <title type="sort">augusta county eliza h stanton to margaret dunlap, january 5 1858</title>
+            <author>Eliza H. Stanton</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Dunlop Family Correspondence, 2nd
+                            83:g, 6th 13:A, Perkins Library, Duke University, Durham, North
+                        Carolina</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Special Collections Department, William R. Perkins Library, Duke University, Durham, North Carolina</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1858-01-05">1858-01-05</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Women, Arts/Leisure</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A0011T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Eliza H. Stanton writes Mag Dunlap to discuss news of their friends and how she
+                    spent her Christmas.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1858-01-05">
+                            <hi rend="underline">January the 5th 1858</hi>
+                        </date>
+                    </dateline>
+                    <salute>Dear Mag</salute>
+                </opener>
+
+                <p>I have just read your letter and was very glad to <orig reg="hear">here</orig>
+                    from you again, yours found me well and quite happy;; I receive your <orig
+                        reg="favor">favour</orig> of october the 12th And <orig reg="wrote"
+                    >rote</orig> an answer to it a few evenings after;; But on <orig reg="reviewing"
+                        >revewing</orig> it I <orig reg="concluded">concluted</orig> not to send you
+                    that answer But <orig reg="write">rite</orig> another; <orig reg="deferring"
+                        >defering</orig> it from time to time the present evening has <orig
+                        reg="arrived">arived</orig> with out it being answered; Not because I did
+                    not wish to answer it + from the fact that I did not have time; As another
+                    reason was that I did not know what to <unclear>write</unclear> to you,, you
+                    still wish to come here to live, I have not heard any thing about Miss Lamb
+                    going to leave I rather think that a <orig reg="mistake">misstake</orig>,; As I
+                    have not heard any thing about any the <unclear>attendance</unclear> leaving, I
+                    for my part do not know how long I may stay; or how soon I may leave, I have no
+                    notion of leaving here now, if I should take the notion to leave why I will
+                        <orig reg="write">rite</orig> to you and let you know you wish to know what
+                    kind of a Christmas I had; May I first tell you it was as dry a Christmas as
+                    ever a seen in my life; I have seen no Christmas yet; nor <orig reg="New Year"
+                        >newyear</orig> either This night a week <orig reg="ago">a go</orig> I was
+                    at a party in town; the party was given by the Firemen of Staunton; They were
+                    not many there that I was acquainted with; I enjoyed myself tolerable well
+                    considering all things; The <orig reg="amusement">immusement</orig> of the
+                    evening was <orig reg="dancing">danceing</orig>; of which in <orig reg="course"
+                        >corse</orig> i did not take part in it; there fore did not do anything but
+                    look on and say nothing, you <orig reg="write">rite</orig> as though Mag Potmer
+                    was going it Strong with <pb n="2"/>
+                    <orig reg="someone">some one</orig>, success to her; I wish that I may soon hear
+                    the same good news from you; Bob Strawsburg is gone to the West <hi
+                        rend="underline">Why</hi> I am not <orig reg="surprised">supprise</orig> to
+                        <orig reg="hear">here</orig> that you wish to come here, But my Dear Friend
+                    there is no use to cry over spilt milk the best way is to take it easy Tell Mag
+                    that she must ask me to her wedding when ever she gets <orig reg="married"
+                        >maried</orig> you speak of the singing in West View being very <orig
+                        reg="interesting">interresting</orig>, I was glad to here that, We have no
+                    sing here now nor have they had any <orig reg="since">scince</orig> I have <orig
+                        reg="been">bin</orig> here</p>
+
+                <p>Dear Mag the thoughts crosses my mind of the time we had <orig reg="at"
+                    >att</orig> Bethelham They are past and gone; But the joyous moments spent there
+                    will never loose their <orig reg="influence">influance</orig> over me; They are
+                    days when my mind wanders back in the past; And gains <orig reg="strength"
+                        >streanth</orig> there from; oh shall we who name the name of Christ ever
+                    grow <orig reg="weary">wery</orig> in well doing I pray you that we may not Dear
+                    Mag I must close for the present <orig reg="hoping">hopeing</orig> that I may
+                    hear soon from you; So good night Mag pleasant <orig reg="dreams">dreames</orig>
+                    throng thy brain Till I shall <orig reg="hear">here</orig> from you again</p>
+
+                <closer>
+                    <salute>
+                        <hi rend="underline">Yours in the bonds of Amity</hi>
+                    </salute>
+                    <signed>Eliza H. Stanton<lb/>Va<lb/></signed>
+                    <seg type="postscript">PS <orig reg="Write">Wright</orig> Soon <name
+                            type="recipient">To Miss Mag Dunlap<lb/>West View<lb/><hi
+                                rend="underline">Va</hi></name>
+                    </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

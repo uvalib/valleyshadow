@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1035"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1035">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: George T. Cook to R. S.
+                    Lacey, July 31, 1866</title>
+        <title type="sort">freedmens bureau records george t cook to r s lacey, july 31 1866</title>
+        <author>Cook, George T.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1035</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500903</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: George T. Cook to R. S. Lacey, July 31,
+                            1866</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records george t cook to r s lacey, july 31 1866</title>
+            <author>George T. Cook</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 59.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1866-07-31">1866-07-31</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Legal System, Slavery, Family, Women, Race Relations, Violence/Crime</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-05">May, 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1035T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Cook's report details two legal cases that he states are representative of the
+                    injustices suffered by freedmen in the local courts.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau Refugees, Freedmen, and <abbr expan="Abandoned Lands"
+                        >A.L.</abbr><lb/>Office <abbr expan="Assistant">Asst.</abbr>
+                    <abbr expan="Superintendent">Supt.</abbr>
+                    <abbr expan="Sub-District">Sub-Dist</abbr>
+                    <abbr expan="Number">No.</abbr> 10
+                    <name type="recipient">Captain R. S. <orig reg="Lacey">Lacy</orig><lb/><abbr
+                            expan="Superintendent">Supt.</abbr> Seventh <abbr expan="District">Dist</abbr>
+                        <abbr expan="Virginia">Va</abbr><lb/>Lynchburg <abbr expan="Virginia"
+                        >Va</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1866-07-31">July 31<hi rend="super">st</hi> 1866</date>
+                        <name type="place">Staunton <abbr expan="Virginia">Va</abbr></name>
+                    </dateline>
+                    <salute>Sir,</salute>
+                </opener>
+
+                <p>I have the honor to report in compliance with <abbr expan="paragraph">Par.</abbr>
+                    6 Circular <abbr expan="Number">No.</abbr> 10 C S. from <abbr
+                        expan="Headquarters">H<hi rend="super">d</hi> qrs</abbr>
+                    <abbr expan="Assistant">Asst</abbr>
+                    <abbr expan="Commissioner">Com<hi rend="super">r</hi></abbr> State <abbr
+                        expan="Virginia">Va.</abbr> - that as far as notified I have attended
+                    criminal trials in which freedmen were concerned in this <abbr
+                        expan="Sub-District">sub-Dist</abbr> during the past month. The trials have
+                    chiefly been preliminary hearings before Magistrates and almost without
+                    exception where white persons have been parties the decisions have been in their
+                    favor - there have been several cases assualts upon freedmen - in not one
+                    instance has any satisfaction been given the freedmen it is only by the most
+                    strenuous exertions that I can get Magistrates to hear the cases and <pb n="2"
+                    />the results of trials are so unfavorable as to make it better in most
+                    instances not to try the case, for instance if the freedman makes complaint and
+                    it is clearly proven the Magistrate will probably bind both parties to keep the
+                    Peace, then the freedmen must get bail or go to jail for making the complaint.</p>
+
+                <p>I give the following synopsis of two trials to show the impartiality of the
+                    trials the cases are not exceptions, but fair specimens of the rule.</p>
+
+                <p><abbr expan="Charles">Cha<hi rend="super">s</hi></abbr> K. Saupe (white) vs.
+                        <abbr expan="William">W<hi rend="super">m</hi></abbr> Gearing (<abbr
+                        expan="Freedman">F</abbr>) -- Evidence went to prove that Gearing and his
+                    wife live in house adjoining and belong to Saupe. Gearings wife had been abused
+                    by the wife of Saupe, Gearing, a quiet mulatto, went in a respectful manner to
+                    Mrs. Saupe and asked what the difficulty was - She was angry at being questioned
+                    by him, "a nigger" - her husband came in and without remark struck Gearing
+                    heavily with a chain, three blows - disfiguring his face. Saupe then got <pb
+                        n="3"/>the boy Gearing arrested, and swore the peace, the Magistrate binding
+                        <hi rend="underline">Gearing</hi> to keep the peace, it not having been
+                    proven that he committed, or threatened to commit any over act.</p>
+
+                <p>2<hi rend="underline">
+                        <hi rend="super">d</hi>
+                    </hi> Alexander Props vs. Taylor Dunlap and Robert Dunlap - Trial proved that
+                    the parties with the addition of Props brother Charles were working in hay when
+                        <abbr expan="Charles">Cha<hi rend="super">s</hi></abbr> remarked to one of
+                    the white men in a laughing way that he would let the white man take a certain
+                    part of the work - at which the white man struck Charles - Robert then remarked
+                    come work, don't fight, when the remaining white man struck Robert with Pitch
+                    fork after some blows Robert resisted, and came out best in the fight, whereupon
+                    the whites together gave him a thrashing, after tea they told their father when
+                    the old man unable to find his slave whip, had a number of rods cut, and
+                    together the party whipped the boy for having resisted. The case after hearing
+                    before County Magistrate, in town was dismissed. It was difficult to get a
+                    warrant issued in the case - the white men admitted the <pb n="3"/>statement of
+                    the boy, Robert, and also admitted his general good character, still <orig
+                        reg="although">altho'</orig> they had threatened him with further
+                    punishement no action was taken.</p>
+
+                <closer>
+                    <salute>Very Respectfully<lb/>Your <abbr expan="Obedient">Ob<hi rend="super"
+                            >t</hi></abbr> Servant</salute>
+                    <signed>Geo. T. Cook<lb/>1<hi rend="super">st</hi>
+                        <abbr expan="Lieutenant">Lt</abbr>
+                        <abbr expan="Veterans Reserve Corps">V.R.C.</abbr> and <abbr
+                            expan="Assistant">Asst.</abbr>
+                        <abbr expan="Superintendent">Supt.</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

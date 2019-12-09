@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9608"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A9608">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: John D. Imboden to Annie Lockett, December
+                    18, 1870</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta john d imboden to annie lockett, december 18 1870</title>
+        <author>Imboden, John D.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Jaime Martinez</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">10</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A9608</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502770</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: John D. Imboden to Annie Lockett, December 18, 1870</title>
+            <title level="m"/>
+            <title type="sort">augusta john d imboden to annie lockett, december 18 1870</title>
+            <author>John D. Imboden</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>6 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: John D. Imboden Papers,
+                            1831-1895, Albert and Shirley Small Special Collections Library,
+                            University of Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1870-12-18">1870-12-18</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Family, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2007-03-29">2007-03-29</date>
+                <respStmt>
+                    <resp>proofed</resp>
+                    <name>Josh Botts</name>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A9608T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Imboden again shares his thoughts on the importance of marriage and reassures
+                    Annie that they will be happy together.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1870-12-18">Sunday Dec. 18, 1870</date>
+                        <name type="place"><abbr expan="New York">N.Y.</abbr></name>
+                    </dateline>
+                    <salute>My precious Annie,</salute>
+                </opener>
+
+                <p>On last Thursday I <abbr expan="received">recd.</abbr> your sweet letter of the
+                        10<hi rend="underline">
+                        <hi rend="super">th</hi>
+                    </hi> and was glad to learn that you are again at home where you will write to
+                    me by every mail.</p>
+
+                <p>I thought there was a tone of sadness apparent in your letter when I first read
+                    it that made me uneasy lest there might be moments when you doubted whether your
+                    happiness was assured in our prospective marriage. On a closer study of your
+                    letter I think perhaps I may trace its tone to the very natural regret you
+                    experienced in leaving Brunswick with the Conviction that it was the last time
+                    you would ever be one of the gay young parties that so grace the Society of that
+                    pleasant old County. And that whilst you regretted the probable loss forever of
+                    this source of <pb n="2"/> happiness I have no right to conclude that you felt
+                    misgivings about the future.</p>
+
+                <p>You refer to the limited opportunities we have had to become well acquainted.
+                    That is true, but so far as <hi rend="underline">I</hi> am concerned I trust so
+                    implicitly in my knowledge of human nature, and my ability to read a woman's
+                    character, that before I had been 24 hours in your Society I saw &amp; felt
+                    that you possessed every element of "head &amp; heart" to make any man happy
+                    as your husband, who had heart &amp; soul enough to appreciate you. I knew
+                    that if I could win your love I should find in you one of the dearest and best
+                    little wives man was ever blessed with, and I needed no further acquaintance to
+                    induce me to give you my whole heart, and ask for yours in return. You have not
+                    had the experience of the world that I have, and I do not wonder at your desire
+                    to see more of me, and to know me better before you sever all the tenderest ties
+                    of life, and <pb n="3"/> Come with me amongst strangers. It is my thorough
+                    knowledge of how great the sacrifice - and how perilous the step - a young girl
+                    makes in marrying, that will make me always the tenderest of husbands to you. I
+                    will aim to make you trust me, and lean upon me with that perfect confidence
+                    that will dispel every feeling of apprehension from your mind, so that when you
+                    pronounce the solemn vows that make you mine forever - adopt my name - sever
+                    your connection with home &amp; family - give to father &amp; mother -
+                    sisters &amp; brothers your farewell kiss, and leave all to "cleave unto"
+                    me, you will feel that in my love, my devotion, and strong protecting arm, a new
+                    world of happiness is opened up to you that is more than an equivalent for that
+                    you leave behind.</p>
+
+                <p>The more I can be with you before our marriage - the more you can see of me the
+                    more certainly do I hope to bring you to look forward to the day of our union
+                    with impatient delight, &amp; not of anxiety.</p>
+
+                <pb n="4"/>
+
+                <p>The still continued absence in Europe of <abbr expan="Colonel">Col</abbr> M<hi
+                        rend="super">c</hi>Kaye, and the delay of <abbr expan="Colonel">Col</abbr>
+                    Flournoy to join me here, renders the day of my return to Virginia still
+                    uncertain. I <add hand="h1" place="inline">do</add> not yet despair of getting
+                    home this month but I am not sure of it. Should I be delayed till after the
+                        <orig reg="holidays">holydays</orig>, the I will so arrange my business here
+                    as to make it unnecessary for me to come back from Virginia till Spring, when
+                    you will come along. I often picture to myself the pleasure it will give me to
+                    have you here to caress &amp; pet, when I come up town from a hard day's
+                    work, and in your sweet society to forget for a while the din and uproar of this
+                    great bray thing in which I daily move. Amongst all the hundreds of thousands of
+                    men and women around me, you alone in some bright cheerful room, will constitute
+                    my world of happiness. And together we will go out and be amused by the throng
+                    in which we shall have no interest, beyond that they afford us a mere spectacle
+                    to gaze upon.</p>
+
+                <pb n="5"/>
+
+                <p>You cannot realize how utterly indifferent I feel towards the great mass of
+                    mankind. Every day's experience but confirms me in the opinions of years, that
+                    there is but one mode of existence in this world that satisfies our natural
+                    craving for happiness - and that is in the married relation, founded upon
+                    perfect love &amp; confidence between husband &amp; wife. A man
+                    &amp; woman <hi rend="underline">can</hi> make for each other <add hand="h1"
+                        place="inline">of</add> this world, a foretaste of that more perfect
+                    existence hereafter, that we all look forward to so hopefully. On the other hand
+                    they may render life a burden almost too intolerable to be borne. I <orig
+                        reg="don't">dont</orig> believe much in any <hi rend="underline">middle</hi>
+                    ground between happiness and misery in married life. My experience in that
+                    relation was one of supreme happiness. I can well conceive how it could, under
+                    less favorable circumstances, have been one of wretchedness, if it had lacked
+                    the essential foundation of profound mutual respect &amp; perfect love.</p>
+
+                <pb n="6"/>
+
+                <p>I am glad to see from your last letter that you think so gravely of the important
+                    step you are so soon to take. It proves that you appreciate its importance, and
+                    that unless you felt perfectly satisfied in regard to your own heart you would
+                    not incur the tremendous consequences of an irrevocable ceremony. The more
+                    gravely and seriously you think of it now, the better assured am I, that your
+                    mind will never change its deliberate decisions.</p>
+
+                <p>I wish I could be with you Christmas. I shall think all day of you, and I belive
+                    you will not forget me. I look forward a year, &amp; see you a happy little
+                    wife when this festive seeason comes around again. And may it always be a merry
+                    and a happy time with you.</p>
+
+                <p>I shall write today to Sister Lou. Miss Ella will not write to me I suppose. I am
+                    pained to learn from you that her health is still so delicate. I appreciate on
+                    that account your anxiety to gratify her wish to be present at our marriage, and
+                    I will not urge you too much against your will to forego that pleasure, merely
+                    to gratify me. Therefore it is I leave open the question of "a day," till we
+                    meet.</p>
+
+                <closer>
+                    <salute>With love to all, I am with the most unalterable affection yours as
+                        ever,</salute>
+                    <signed>JD Imboden</signed>
+                    <seg type="postscript">You ask whether you may engage yourself a little while to
+                        a poor fellow who <orig reg="won't">wont</orig> believe you when you discard
+                        him. No Annie dear! No. It would not be right to create in his heart a false
+                        hope. The pain to him of discovering he had been trifled with is such as you
+                        ought not to inflict. Better bear with him a while longer. He will find out
+                        soon no doubt that there is no hope for him. Do not create a false hope, by
+                        encouraging his suit, unless you intend to sacrifice me &amp; take
+                    him.</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

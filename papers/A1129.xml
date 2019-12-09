@@ -1,0 +1,348 @@
+<?xml version="1.0"?>
+
+<?dlps id="A1129"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A1129">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Malcolm Fleming to Fleming's mother, August 10,
+     1864</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county malcolm fleming to flemings mother, august 10 1864</title>
+        <author>Fleming, Malcolm</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Matt Speiser</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Matt Speiser</name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. <num type="kilobytes">14</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A1129</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2002, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date>
+        <idno type="uva-pid">uva-lib:501932</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Malcolm Fleming to Fleming's mother, August 10, 1864</title>
+            <title level="m"/>
+            <title type="sort">augusta county malcolm fleming to flemings mother, august 10 1864</title>
+            <author>Malcolm Fleming</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>8 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Fleming Letter, Accession # 38-651, Special
+       Collections Department, University of Virginia Library, Charlottesville, Virginia</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1864-08-10">1864-08-10</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>African Americans, Battle Description, Camp Life, Death/Casualties, Home Front, Military
+      Authority, Military Strategy, Prisons/Prisoners, Troop Movement</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2005">Summer 2005</date>
+        <respStmt>
+          <resp/>
+          <name>Doug O'Reagan</name>
+        </respStmt>
+        <item>Proofread.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A1129T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>In this letter, Fleming discusses recent orders, recounts the burning of Chambersburg, tells
+     of recent battle experience, reviews strategy, mentions life in camp, and describes the
+     experience of being captured by "Yankees," after having been turned in by "the negroes."
+     Fleming also writes about encounters with local citizens. Unfortunately, the letter has a large
+     number of illegible words and sections. Nearly everything after the first few paragraphs should
+     be considered "unclear."</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <opener>
+     <dateline>
+      <date value="1864-08-10">Aug 10<hi rend="super"><hi rend="underline">th</hi></hi> 1864</date>
+      <name type="place">War <unclear>Moonfield</unclear></name>
+     </dateline>
+     <salute>My dear Mother-</salute>
+    </opener>
+
+    <p>It has been a long time since I have had an opportunity of writing to you; &amp; now that
+     our <unclear>prefent</unclear>
+     <unclear>myself</unclear> of sending a letter to <unclear>this</unclear> mail, I have time to
+     write only a line - Give to me before this doubtless heard all the particulars of our Maryland
+     &amp; Penn; last, the burning of Chambersburg <orig reg="etc.">&amp;c</orig> - To give
+     an abstract account of all our adventures meant consuming more time &amp; paper than I have
+     to spare. <unclear>Nothing</unclear> exaggerated can be fair about the burning of Chambersburg
+     - we we who did not <unclear>fire</unclear> it could form an approximate idea of the horrors
+      <del rend="none" hand="h1"/> this occasion. I <unclear>intend</unclear> this Town (&amp; a beautiful
+     place it is) <unclear>with</unclear> a<pb n="2"/> stiff nect &amp; stubborn
+     <unclear>breast</unclear>, me, as much as I hate the Yankees, I could not stand it long.</p>
+
+    <p><abbr expan="General">Gen<hi rend="super">l</hi></abbr>
+     <unclear>McCausland</unclear> commanded his two Brigades (his own &amp; <abbr
+      expan="General">Gen<hi rend="super">
+       <hi rend="underline">l</hi>
+      </hi></abbr> Johnson's)- His orders from <abbr expan="General">Gen<hi rend="super">
+       <hi rend="underline">l</hi>
+      </hi></abbr> Early were to buy a tribute of one hundred thousand dollars in gold or its
+     equivalent in Northern funds ($500,000) which money was to be paid to Gov. Letcher _Alex Butler
+     &amp; owing to <unclear>indig</unclear>nify <del rend="none" hand="h1"/> for the losses
+     <unclear>Nety</unclear> had sustained at the hands of the Yankees.</p>
+
+    <p>The citizens regarded this as an ample threat &amp; <unclear>favorably</unclear> refused
+     to pay the tribute <unclear>voluntarily</unclear>
+     <unclear>Mc'Causland</unclear> at once ordered the city to be laid in ashes. The scene which
+     followed baffles all description. Shrieking children &amp; panic stricken men &amp;
+     women running<pb n="3"/> In <unclear>every</unclear>
+     <unclear>direction</unclear> begging assistance. I saw from a <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>
+     <unclear>reform</unclear> his <unclear>sick</unclear>
+     <unclear>mother</unclear></p>
+
+    <p>I believe somewhat in the old Mosaic law - an eye for an eye &amp; a tooth for a tooth,
+     but when <unclear>somebody</unclear> is <unclear>shouting</unclear> for a <del rend="none" hand="h1"/> I
+     think we are going <unclear>wrong</unclear></p>
+
+    <p>The most <unclear>objectionable</unclear>
+     <del rend="none" hand="h1"/> along the <del rend="none" hand="h1"/> affairs was the <unclear>manner</unclear> in which
+      <unclear>Miss</unclear>
+     <unclear>Henry's</unclear> was <unclear>done.</unclear></p>
+
+    <p>I think the <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>
+     <unclear>angled</unclear> I have been <unclear>observed</unclear>. Instead of <del rend="none" hand="h1"/>
+     his <unclear>Army</unclear> was s<unclear>toked</unclear>. soldiers <unclear>moved</unclear>
+     <unclear>loose</unclear> upon private houses &amp; then the orders issued to burn. As soon
+     as the citizens saw that <unclear>Mc'Causland</unclear> was in <unclear>coming</unclear> many
+      <unclear>appeared</unclear> to hope that proper to <del rend="none" hand="h1"/> this be in <del hand="h1"
+     /> into <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/> each man paid a ransom for his house.<pb n="4"/></p>
+
+    <p><unclear>This</unclear>
+     <unclear>worked</unclear>
+     <unclear>to</unclear>
+     <del rend="none" hand="h1"/> all. This <del rend="none" hand="h1"/> in which was lost sight of, &amp; you <del
+      hand="h1"/>
+     <del rend="none" hand="h1"/> to be for my purpose Hate <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/> in many <unclear>victim</unclear> not <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/></p>
+
+    <p>After this work of destruction, we <unclear>returned</unclear> slowly &amp; marched by
+      <unclear>many</unclear> of <del rend="none" hand="h1"/> &amp; Gu<del rend="none" hand="h1"/> and Maryland. <del
+      hand="h1"/> V<hi rend="super">
+      <hi rend="underline">a</hi>
+     </hi> Company Mr <del rend="none" hand="h1"/> - Old <del rend="none" hand="h1"/> house from Chambersburg to V<hi
+      rend="super">
+      <hi rend="underline">a</hi>
+     </hi> was <del rend="none" hand="h1"/> We <unclear>wanted</unclear> Yankee is not capable of the
+     Vandalizing I witnessed upon <unclear>his</unclear> life of the ma<del rend="none" hand="h1"/> the <del
+      hand="h1"/>
+     <del rend="none" hand="h1"/> without much opposition. <del rend="none" hand="h1"/> loss in my <unclear>
+      <abbr expan="Brigade">Brig</abbr>
+     </unclear> was not <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>
+     <unclear>fifty</unclear> from the Potomac <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/> to a point among <del rend="none" hand="h1"/> It and <unclear>Co</unclear>
+     <unclear>reaching</unclear> this place into the evening. <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/> proposed to use &amp; <del rend="none" hand="h1"/>
+     <unclear>came</unclear> our <pb n="5"/><unclear>horses</unclear> for a few days. We found
+     nothing from the enemy being under the impression that their <unclear>horses</unclear> were
+      <del rend="none" hand="h1"/> march broken <unclear>down</unclear> to follow us. In this we <del rend="none" hand="h1"/>
+     <unclear>enemy</unclear> made mistakes. By making forced marches they came before us
+      <unclear>any</unclear> unexpectedly in the morning of the 7<hi rend="super">
+      <hi rend="underline">th</hi>
+     </hi> about light. Our pickets were captured &amp; <del rend="none" hand="h1"/> meeting with any
+     opposition. The Yankees charged <del rend="none" hand="h1"/>iple our Camp. So great was the surprise that
+     many men were aroused from their slumbers slumbers by the demand to surrender. <unclear>Gen<hi
+       rend="super">
+       <hi rend="underline">l</hi>
+      </hi></unclear>
+     <unclear>Johnston</unclear> &amp; myself were sleeping in the same room, luckily for him he
+     slept in his clothes. even with this <unclear>start</unclear> of <unclear>me</unclear> he would
+     not have escaped had not one of the men sacrificed himself by giving the Gen<hi rend="super">
+      <hi rend="underline">l</hi>
+     </hi> his <unclear>horse</unclear>.</p>
+
+    <p>You <orig reg="can't">cant</orig> imagine my feelings <pb n="6"/> about this time. The
+     Yankees <unclear>marching</unclear> in my direction &amp; shouting <unclear>us</unclear>
+     quarters <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>. Finding escape impossible myself &amp; the <unclear>other</unclear> staff
+     officers <del rend="none" hand="h1"/> to the <del rend="none" hand="h1"/> of the <unclear>house</unclear> &amp;
+     concealed ourselves behind some barrels. Before <del rend="none" hand="h1"/> going to my hiding place I
+     handed my watch to the lady of the house. It was very well that I did for I had not been long
+     in the game before I heard the <unclear>hiss</unclear>ing of sabers upon his steps. the negroes
+     informed on us. In a few moments more we were Surrounded by about fiften (15) fiends &amp;
+     their pistols pointed at our breasts. They first demanded my pocket book containing
+      <unclear>more</unclear> Six hundred dollars. Some little gold I had bought &amp; my gold
+      <del rend="none" hand="h1"/>. I gave it up thinking <unclear>which</unclear><del rend="none" hand="h1"/> use.
+      <unclear>up</unclear>. <pb n="7"/> I was then marched &amp; countermarched until I had no
+      <unclear>stand</unclear> upon my feet. I <del rend="none" hand="h1"/> appreciation. <abbr expan="General"
+       >Gen<hi rend="super">
+       <hi rend="underline">l</hi>
+      </hi></abbr>
+     <unclear>Carville</unclear> to be allowed to go &amp; attend our wounded who were suffering
+      <del rend="none" hand="h1"/>
+     <unclear>kind</unclear>. After so long a time I was paroled &amp; sent to the hospital -
+     upon this whole I went much better treated than I expected to be. I <del rend="none" hand="h1"/>
+     <unclear>with only</unclear>
+     <del rend="none" hand="h1"/> officer who offered me any <del rend="none" hand="h1"/> cover <del rend="none" hand="h1"/>. I have not
+      <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/> or my <del rend="none" hand="h1"/> I think probably he escaped &amp; maybe
+      <unclear>carried off one of my horses</unclear>
+     <unclear>The</unclear> of him was certainly <unclear>captains</unclear> I estimate my losses at
+     between <unclear>three</unclear>
+     <unclear>&amp;four</unclear>
+     <unclear>hundred</unclear> dollars. I am present <unclear>considered</unclear>
+     <del rend="none" hand="h1"/>
+     <unclear>have</unclear>
+     <unclear>harm an enemy</unclear>. They <del rend="none" hand="h1"/> about fifty <unclear>hundred</unclear>
+      Sc<del rend="none" hand="h1"/> over an <del rend="none" hand="h1"/> of six or eight miles. The citizens are
+     exceedingly kind <pb n="8"/> - lavish upon our men many kindness - I shall leave for <del
+      hand="h1"/>burg as soon as I am <del rend="none" hand="h1"/>
+     <unclear>from</unclear>
+     <del rend="none" hand="h1"/> here &amp; if possible I shall <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>
+     <unclear>Caroling</unclear> - My experiences with this <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>
+     <unclear>America</unclear> has been not at all formidable so I suppose <del rend="none" hand="h1"/>
+     <unclear>Mc'Causland</unclear> &amp; Johnston are to blame for not <del rend="none" hand="h1"/> proper
+     significance. <del rend="none" hand="h1"/>
+     <unclear>in</unclear> killed <unclear>hundred</unclear> &amp; <unclear>first</unclear>
+     <del rend="none" hand="h1"/> will possibly <del rend="none" hand="h1"/> four hundred (400) I have written <del
+      hand="h1"/>
+     <unclear>hurredly</unclear> &amp; <del hand="h1">much</del>
+     <del rend="none" hand="h1"/>
+     <unclear>We are</unclear> I expected <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/> to the Core of <unclear>
+      <abbr expan="Brigade">Brig</abbr>
+     </unclear> Gen<hi rend="underline">l</hi>
+     <unclear>Bradley</unclear>
+     <del rend="none" hand="h1"/> Johnston &amp; <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/> Valley District <del rend="none" hand="h1"/></p>
+
+    <closer>
+     <salute>love to all- In haste<lb/>
+      <abbr expan="Your affectionate">Yr aff.</abbr> Son </salute>
+     <signed>Malcolm</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

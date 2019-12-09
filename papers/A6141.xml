@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+
+<?dlps id="A6141"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A6141">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Jesse Rolston, Jr., to Mary Rolston, May 9, 1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county jesse rolston, jr to mary rolston may 9 1863</title>
+        <author>Rolston, Jr., Jesse</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Julie Beagle</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Julie Beagle</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">10</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A6141</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:502411</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Jesse Rolston, Jr., to Mary Rolston, May 9, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta county jesse rolston, jr to mary rolston may 9 1863</title>
+            <author/>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Joyce DeBolt Miller, ed., "Until Seperated by
+       Death": Lives and Civil War Letters of Jesse Rolston, Jr., and Mary Catharine Cromer
+       (Bridgewater, Va.: Good Printers, Inc., 1994), p. 32.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>We would like to thank Joyce DeBolt Miller for giving us permission to print these
+        letters, and Barbara Rolston for bringing this collection to our attention.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Published Source</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1863-05-09">1863-05-09</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Troop Movement, Battle Description, Death/Casualties, Military Authority</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001">Summer 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Jaime Henshaw</name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A6141T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Rolston describes the bloody battle of Fredericksburg.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <opener>
+     <dateline>
+      <date value="1863-05-09">May the 9th 1863</date>
+      <name type="place">Camp Hamilton Crossing</name>
+     </dateline>
+     <salute>Deare and affection companion</salute>
+    </opener>
+
+    <p>i seat my to inform you that I am on the land amongst the live whilst many of my fellow <orig
+      reg="soldier">soaldier</orig> has <orig reg="fallen">falen</orig> and <orig reg="gone"
+     >gon</orig> never to return. my health is good and I thank my god for it and <orig reg="hoping"
+      >hoaping</orig> that this may find you and all of our family, <orig reg="enjoying"
+     >injoying</orig> the same blessing and all of our friends and relations. I <orig reg="haven't"
+      >havent</orig> heard from any of our relations since the <orig reg="battle">battel</orig>.
+     from what i can learn this <orig reg="battle">battel</orig> has been one amongst of the hardest
+      <orig reg="battles">battels</orig> that has <orig reg="been">bin</orig> fought yet. we moved
+     back to our <orig reg="old">oald</orig> camp last night and we <orig reg="feel">feal</orig>
+     like we was at <orig reg="home">hoame</orig> since we <orig reg="don't">dont</orig>
+     <orig reg="hear">heare</orig> and see the <orig reg="bombshells">bomshells</orig> falling in
+     our ranks, <orig reg="although">altho</orig> if i could be in <orig reg="old">oald</orig>
+     Augusta o how much better <orig reg="satisfied">satisfyed</orig> I would <orig reg="be">bee</orig>
+     <orig reg="where">whare</orig> i could be with you and the children and <orig reg="hear">heare
+     </orig>them pratel and i <orig reg="feel">feal</orig> now like if i was at <orig reg="home"
+      >hoame</orig> a with you i could talk. well, i <orig reg="don't">dont</orig>
+     <orig reg="know">no</orig> how much more <orig reg="though">tho</orig> than i can <orig
+      reg="write">rite</orig> now. i do pray that we all may soon get <orig reg="home">hoame</orig>.
+     i do think that this ought to do for all men to quit <orig reg="fighting">fiting</orig>
+     <orig reg="both">boath </orig> north and south east or west and <orig reg="settle">setel</orig>
+     it up some other way. <orig reg="fighting">fiting</orig> never will <orig reg="settle"
+     >setel</orig> it. we have <orig reg="been">bin</orig> in line of <orig reg="battle"
+     >battel</orig> for the last nine days and <orig reg="nights">nites</orig> with orders to be
+     ready at a moments warning for we did not <orig reg="know">no</orig> how soon the enemy would
+     advance on our lines. we have or had <orig reg="been">bin</orig> exposed to the <orig
+      reg="enemies">enemys</orig> cannon all the time but <orig reg="there">their</orig> was <orig
+      reg="only">oanly</orig> four killed and seven wounded out of our regiment and i thank god for
+     his mercy and i pray that it may be his will not to cut any more down by balls and <orig
+      reg="hope">hoap</orig> that he may see fit to stop this <orig reg="terrible">terabel</orig>
+     war but o god thine will be <orig reg="done">don</orig>. our <orig reg="division"
+     >devision</orig> was left <orig reg="here">heare</orig> to <orig reg="hold">hoald</orig> the
+     yanks at Fredericksburg which we did. 20 thousand <orig reg="crossed">crost</orig> over along
+     the banks the river but they didn't venture to our fortifications. we was too well fixed for
+     them <orig reg="there">their</orig>. we had<pb n="2"/> some 4 or 5 thousand in all. the balance
+     of the army marched some 12 miles above <orig reg="here">heare</orig>
+     <orig reg="where">wheare</orig> the main body of the <orig reg="yankees">yankeys</orig> army
+     was acrossing the river and <orig reg="there's">theirs</orig>
+     <orig reg="where">whare</orig> the <orig reg="greatest">gratest</orig>
+     <orig reg="slaughter">slauter</orig> was. <abbr expan="General">Gen.</abbr> Jackson lost his
+     left arm in that <orig reg="fight">fite</orig>. we regret the loss of our general very much but
+     pray that god may be with him and protect in time of <orig reg="need">nead</orig> but if god
+     spares General Lee <orig reg="i think">ithink</orig> he will lead them yanks <orig reg="where"
+      >whare</orig> they <orig reg="won't">wont</orig> like to go. we have taken many prisoners from
+     them and killed wounded many. their great General Hooker was wounded with the rest. i <orig
+      reg="don't">dont</orig>
+     <orig reg="know">no</orig> what the loss is on either side but it is very heavy. that i <orig
+      reg="know">no</orig>. i will <orig reg="write">rite</orig> as soon as i can find out the <orig
+      reg="particulars">perticlers</orig>. it is thought that the <orig reg="yankees">yankeys</orig>
+     is a leaving from their <orig reg="old">oald</orig> position on the other side of the river but
+     they <orig reg="don't">dont</orig>
+     <orig reg="know">no</orig>
+     <orig reg="where">whare</orig> they are a going. i dont think they will try this place again
+     soon. it <orig reg="don't">dont</orig> pay. i talked with some of the wounded and they are 40
+     thousand of them that their time is out may and they <orig reg="won't">wont</orig>
+     <orig reg="volunteer">volentear</orig> for no <orig reg="price">prise</orig> nor they <orig
+      reg="won't">wont</orig>
+     <orig reg="fight">fite</orig> no more. <orig reg="home">hoame</orig> is their place. if all men
+     would do that what a joyful time it would be. i <orig reg="hope">hoap</orig> it may come to
+     pass soon as i <orig reg="won't">wont</orig> have a chance to send for a day or 2.</p>
+
+    <closer>
+     <salute>i will wait <orig reg="until">til</orig> then before i close.</salute>
+     <signed>Jesse Rolston</signed>
+     <seg type="postscript"><pb n="3"/>Amanda Jane you must be a good girl and mind what your mother
+      tell <orig reg="you">yu</orig> to do. Elizabeth Susan I want you to do what <orig reg="your"
+       >yur</orig> mother tells you. <orig reg="don't">dont</orig> get mad and you be a good girl.
+      Emanuel C I want to you to mind when mother tells to [do] thing go and do it. <orig reg="feed"
+       >fead</orig> the pigs water the chickens pick up the chips and wood. Joseph Asbury you must
+      mind nute [Newt] when Manda Betty Manuel <orig reg="goes">goas</orig> for the cows. the you
+      help Manuel with the pigs. Sarah <orig reg="write">rite</orig> a few to me about the news in
+      your part of the country all about it. lots of boys out <orig reg="here">hear</orig> I tell
+      you they is.<pb n="4"/>
+      <orig reg="write">rite</orig> to me as soon as you can. send some envelopes if you can. <name
+       type="recipient">Mary C Rolston</name>
+     </seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

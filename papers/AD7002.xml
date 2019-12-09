@@ -1,0 +1,349 @@
+<?xml version="1.0"?>
+
+<?dlps id="AD7002"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY Smiley53 SYSTEM "uva-lib:503322" NDATA uvaHighRes>
+<!ENTITY Smiley53b SYSTEM "uva-lib:503323" NDATA uvaHighRes>
+<!ENTITY Smiley53c SYSTEM "uva-lib:503324" NDATA uvaHighRes>
+<!ENTITY Smiley53d SYSTEM "uva-lib:503325" NDATA uvaHighRes>
+
+
+]> 
+
+<TEI.2 id="AD7002"> 
+<teiHeader type="migrated"> 
+
+    <fileDesc> 
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Diary of Thomas M. Smiley (1862)</title>
+        <title type="sort">augusta county diary of thomas m smiley 1862</title>
+        <author>Smiley, Thomas M.</author>
+        <editor/>
+        <respStmt> 
+          <resp>Creation of machine-readable version: </resp> 
+          <name>Alice McShane, Virginia Center for Digital History</name> 
+          <resp>Conversion to TEI.2-conformant markup:</resp> 
+          <name>Jaime Henshaw, Virginia Center for Digital History</name> 
+        </respStmt>
+      </titleStmt> 
+
+      <extent>
+        <num type="kilobytes"> 9 kilobytes</num>
+      </extent> 
+      <publicationStmt> 
+        <publisher>Virginia Center for Digital History</publisher> 
+        <pubPlace>Charlottesville, Virginia </pubPlace> 
+
+        <idno type="VCDH">AD7002</idno> 
+
+        <!--
+<availability> 
+<p>Publicly accessible </p> 
+<p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p> 
+<p>copyright 2001, by the Rector and Visitors of the University of
+Virginia</p> 
+</availability>
+--> 
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date> 
+        <idno type="uva-pid">uva-lib:500338</idno>
+      </publicationStmt> 
+      <seriesStmt> 
+        <p>Valley of the Shadow: Two Communities in the American
+Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt> 
+      <notesStmt>
+        <note/>
+      </notesStmt> 
+
+      <sourceDesc> 
+        <biblFull> 
+          <titleStmt>
+            <title>Augusta County: Diary of Thomas M. Smiley (1862)</title>
+            <title level="m"/>
+            <title type="sort">augusta county diary of thomas m smiley 1862</title>
+            <author>Thomas M. Smiley</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt> 
+          <editionStmt> 
+            <p> </p> 
+          </editionStmt> 
+          <extent>4 pages</extent> 
+          <publicationStmt> 
+            <publisher/> 
+            <pubPlace/> 
+            <date value=""/> 
+            <idno type="callNo">Source copy consulted: Smiley Family Papers, Accession
+#1807, Special Collection Department, University of Virginia Library,
+Charlottesville, Virginia</idno> 
+          </publicationStmt> 
+          <seriesStmt>
+            <p/>
+          </seriesStmt> 
+          <notesStmt> 
+            <note/>
+          </notesStmt> 
+        </biblFull> 
+      </sourceDesc> 
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc> 
+
+    <profileDesc> 
+      <creation>
+        <dateRange from="1862-07-17" to="1862-07-30">1862-07-17 - 1862-07-30</dateRange>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage> 
+      <textClass> 
+        <keywords> 
+          <term>Camp Life, Church/Religious Activity, Troop Movement</term> 
+          <term>American Civil War</term>
+        </keywords> 
+      </textClass> 
+    </profileDesc> 
+
+    <revisionDesc> 
+      <change> 
+        <date value="2001">Summer 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Jaime
+Henshaw</name>
+        </respStmt> 
+        <item>Proofread against the original; transcription corrected.</item> 
+      </change> 
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc> 
+  </teiHeader> 
+
+<text id="AD7002T">
+
+<front id="d2">
+<div1 id="AD7002bio" type="bio">
+<head>Biography
+<!-- <ref>AD7002bio</ref> -->
+</head>
+<p>In his diary for July 1862, Thomas M. Smiley describes the hardships of
+life in camp and on the march.  In particular, Smiley records information
+on religious sentiment, troop morale, and army food.</p> 
+</div1> 
+</front>
+
+<body id="d4">
+
+
+<div1 id="AD7002int" type="introduction">
+<head>Introduction
+<!-- <ref>AD7002int</ref> -->
+</head>
+<div2 type="section" id="d6">
+
+<!-- <ref>Camp Life</ref> -->  
+
+
+<p><pb n="1" entity="Smiley53" pid="uva-lib:503322" />Camp at darkesville</p>
+
+</div2>
+</div1>
+
+<div1 id="AD70021862" type="part" n="1862">
+<head>1862
+<!-- <ref>AD70021862</ref> -->
+</head>
+
+<div2 type="section" n="1862-07" id="d8">
+<head>July 1862 
+<!-- <ref>Camp Life, Church/Religious Activity, Troop Movement</ref> -->  
+</head>
+
+<div3 type="entry" n="1862-07-17" id="d9">
+<head>Friday July 17</head>
+
+<p>Nothing of interest has <orig reg="occurred">occured</orig> 
+<orig reg="today">to day</orig> except a heavy rain which is not very agreeable to us being without tent</p>
+
+</div3>
+
+<div3 type="entry" n="1862-07-18" id="d10">
+<head>Saturday 18<hi rend="super">th</hi></head>
+
+<p>In camp all day with nothing to eat a great deal of dissatisfaction is
+being shown by the men on account of not getting enough to eat</p>
+
+</div3>
+
+<div3 type="entry" n="1862-07-19" id="d11">
+<head>Sunday 19<hi rend="super">th</hi></head>
+
+<p>Remained in camp all day preaching in the regiment by a Chaplain of
+another regiment got orders this evening to cook several days rations and
+move by five Oclock</p>
+
+</div3>
+
+<div3 type="entry" n="1862-07-20" id="d12">
+<head>Monday 20<hi rend="super">th</hi></head>
+
+<p>Started at five and marched below Martinsburg on the railroad where we
+camped.  the third brigade having been sent out to tear up the
+railroad</p>
+
+</div3>
+
+<div3 type="entry" n="1862-07-21" id="d13">
+<head>Tuesday 21<hi rend="super">st</hi></head>
+
+<p>the whole division was taken out <orig reg="today">to day</orig> to
+work.  tore up
+
+<pb n="2" entity="Smiley53b" pid="uva-lib:503323"/>
+
+and burnt a good portion of the road got orders this evening to quit work
+and march back to darkesville</p>
+
+</div3>
+
+<div3 type="entry" n="1862-07-22" id="d14">
+<head>Wednesday 22<hi rend="super">nd</hi></head>
+
+<p>got to <orig reg="darkesville">darksville</orig> last night after dark
+ordered to cook two days rations and march at daylight marched through
+Bunker Hill and camped near Winchester.  after camping we found a large
+field of Blackberries where the whole division was <orig
+reg="bountifully">bountifuly</orig> supplied with fresh fruit Received
+orders to cook another days rations and march at daylight</p>
+
+</div3>
+
+<div3 type="entry" n="1862-07-23" id="d15">
+<head>Thursday 23<hi rend="super">rd</hi></head>
+
+<p>Went through Winchester this morning turned off on the Front Royal road
+which place we reached at dark we crossed the Shenandoah on pontoon
+bridges</p>
+
+</div3>
+
+<div3 type="entry" n="1862-07-24" id="d16">
+<head>Friday 24<hi rend="super">th</hi></head>
+
+<p>Left at daylight and marched twelve miles on the road leading to Luray
+through a mountainous country camped at sundown and cooked two days
+rations
+
+<pb n="3" entity="Smiley53c" pid="uva-lib:503324"/>
+
+Orders for <orig reg="reveille">revelie</orig> at three Oclock.  The first
+brigade is <orig reg="beginning">begining</orig> to look very small owing
+to hard marching and not much to eat</p>
+
+</div3>
+
+<div3 type="entry" n="1862-07-25" id="d17">
+<head>Saturday 25<hi rend="super">th</hi></head>
+
+<p>started at daylight and marched to within three miles of Luray where we
+turned off the main road towards the mountain and camped making in all
+about seventy five miles traveled this week.  The men are now all out
+washing <orig reg="their">thier</orig> clothes it being the first <orig
+reg="opportunity">oportunity</orig> for six weeks</p>
+
+</div3>
+
+<div3 type="entry" n="1862-07-26" id="d18">
+<head>Sunday 26<hi rend="super">th</hi></head>
+
+<p>remained in camp all day.  in the morning <abbr
+expan="Lieutenant">Lieut</abbr> Wright and S. F. McCutchan went and
+gathered blackberries out of which we baked a large family pie for dinner
+in the evening there was inspection.  The day was spent <orig
+reg="generally">generaly</orig> by the men in washing their clothes and
+
+<pb n="4" entity="Smiley53d" pid="uva-lib:503325"/>
+
+mending them.  as they expected to march tomorrow they consider it a work
+of necessity preaching in camp <orig reg="today">to day</orig> at three
+different times.  several united with the church and were baptized.  There
+seems to be a great interest felt in the army now, on the subject of
+religion</p>
+
+</div3>
+
+<div3 type="entry" n="1862-07-27" id="d19">
+<head>Monday 27<hi rend="super">th</hi></head>
+
+<p>Left camp at five Oclock marched very slow until noon as the wagons had
+some difficulty in going up the mountain after getting up to the top we
+marched fast and camped at <orig reg="Sperryville">Sperryvill</orig> in a
+large orchard had another Blackberry pie for supper a great many of the
+boys made apple dumplings.</p>
+
+</div3>
+
+<div3 type="entry" n="1862-07-28" id="d20">
+<head>Tuesday 28<hi rend="super">th</hi></head>
+
+<p>Left camp at <orig reg="Sperryville">Sperryvill</orig> and took the
+culpeper road but soon turned off on the Madison <orig
+reg="Courthouse">Court House</orig> road and marched some ten or twelve
+miles and camped.  a right heavy shower of rain this evening.</p>
+
+</div3>
+
+<div3 type="entry" n="1862-07-29" id="d21">
+<head>Wednesday 29<hi rend="super">th</hi></head>
+
+<p>Left camp this morning and marched about eight miles and camped the
+road traveled being the worst I ever saw in my life.</p>
+
+</div3>
+
+<div3 type="entry" n="1862-07-30" id="d22">
+<head>Thursday 30<hi rend="super">th</hi></head>
+
+<p>We have no move <orig reg="today">to day</orig> remained in camp.  a
+great deal of grumbling among the men as they drew bran in place of flour;
+for bread.  Had a smart shower of rain this evening.  roads very <orig
+reg="muddy">mudy</orig></p>
+
+</div3>
+</div2>
+</div1>
+
+</body>
+</text>
+</TEI.2>

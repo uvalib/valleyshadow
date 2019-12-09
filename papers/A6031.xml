@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+
+<?dlps id="A6031"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+<!ENTITY % MANUSCRIPT "INCLUDE">
+
+ 
+ <!ENTITY Smiley4 SYSTEM "uva-lib:503088" NDATA uvaHighRes> 
+ <!ENTITY Smiley4b SYSTEM "uva-lib:503089" NDATA uvaHighRes> 
+ <!ENTITY Smiley4c SYSTEM "uva-lib:503090" NDATA uvaHighRes> 
+ <!ENTITY Smiley4d SYSTEM "uva-lib:503091" NDATA uvaHighRes> 
+  
+ ]>  
+  
+  
+<TEI.2 id="A6031">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Thomas M. Smiley to His Aunt, April 9, [1862]</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county thomas m smiley to his aunt, april 9 1862</title>
+        <author>Smiley, Thomas M.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Jaime Henshaw</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Alice McShane</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A6031</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:503087</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Thomas M. Smiley to His Aunt, April 9, [1862]</title>
+            <title level="m"/>
+            <title type="sort">augusta county thomas m smiley to his aunt, april 9 1862</title>
+            <author>Thomas M. Smiley</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>1 page</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Smiley Family Papers Accession #1807 Special
+       Collections Department, University of Virginia, Charlottesville, Virginia</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>Numerical date [1862 Apr 9] and "After Yorktown &amp; Corinth Tenn" added by a later
+        archivist or family member.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1862-04-09">1862-04-09</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Battle Description, Camp Life, Death/Casualties, Military Authority, Prisons/Prisoners,
+      Troop Movement </term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001">Summer 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Jaime Henshaw</name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A6031T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Thomas M. Smiley describes troop movements and battles in Winchester, Yorktown, and Corinth,
+     TN. He discusses bad weather, illness in camp, and election of officers. </p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">aunt</name>
+    </head>
+
+    <opener>
+     <pb n="1" entity="Smiley4" pid="uva-lib:503088"/>
+     
+     <dateline>
+      <date value="1862-04-09">Apr 9<hi rend="super">th</hi></date>
+      <name type="place">Camp on Roods hill</name>
+     </dateline>
+     <salute>Dear Aunt</salute>
+    </opener>
+
+    <p>I received your very kind letter yesterday and also the one you sent by J Berry but I had no
+     time to answer it on account of the almost incessant marching and countermarching since we left
+     Winchester. We are getting a little rest now since the enemy have come to a stand at Edinburg
+     Our troops burnt the bridge across the river there &amp; the enemy cannot get across
+     without rebuilding the bridge they have built it up once or twice already but Asheby tears it
+     down with cannon as fast as they build it up<pb n="2" entity="Smiley4b" pid="uva-lib:503089"/>
+      We have had a hard time since the battle our tents were all sent
+     away and we only got them again yesterday it is now sleeting and has been for three days We
+     have had a great deal of wet weather lately which set hard with our new recruits and the
+     militia there is a great many of the militia sick and complaining while there is no sickness
+     among those that have been in service the last year. The election of officers takes place in
+     our company tomorrow if the day is such that we can be out I have no idea who will be elected
+     <orig reg="captain">captan</orig> but I think that<pb n="3" entity="Smiley4c" pid="uva-lib:503090"/>
+     Lieut M<hi rend="super">c</hi> Henry will stand a good chance for
+     the office he will be more suitable than Lieut Randolph as he is a man of steadier habits than
+     the latter Colonel Horman obtained a list of our wounded prisoners who are in Winchester James
+     Payne is said to be living and doing well the ladies about Winchester have taken them in their
+     houses and treating them with the best of care We heard that Sam Beard was in the hospital at
+     Harrisonburg but do not know whether to believe it or not as I think he would have certainly
+     written &amp; let it be known where he was. Colonel Raylor received a dispatch yesterday
+     saying that<pb n="4" entity="Smiley4d" pid="uva-lib:503091"/>
+    the Yankess made an<del hand="h1">d</del> attack on Yorktown sunday
+     morning &amp; were defeated with a dreadful slaughter &amp; also that the enemy were
+     defeated at Corinth in Tennesee with a great loss in men and lost eight <orig reg="batteries"
+      >baterries</orig>. I think the tide is turned again &amp; our arms will be successful in
+     the end. I must draw my letter to a close. Give my love to aunt Ann Uncle James family and
+     receive a due share yourself. </p>
+
+    <closer>
+     <salute>Nothing more but remain as ever your affectionate nephew</salute>
+     <signed>T. M. Smily</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

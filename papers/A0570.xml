@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+
+<?dlps id="A0570"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="A0570">
+ <teiHeader type="migrated">
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: John H. Cochran to His Mother, June 17, [186?]</title>
+        <title type="sort">augusta county john h cochran to his mother, june 17 186</title>
+        <author>Cochran, John H. </author>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Murrell </name>
+        </respStmt>
+      </titleStmt>
+   
+      <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Institute for Advanced Technology in the Humanities </publisher>
+        <publisher>University of Virginia </publisher>
+        <pubPlace>Charlottesville, Va. </pubPlace>
+        <!--
+    <availability>
+     <p>Text and images (c) Copyright 1997 by The Rector and Visitors of The University of Virginia.
+      All rights reserved. </p>
+     <p>URL: http://jefferson.village.virginia.edu/vshadow2/personal.html </p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1997 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <idno type="VCDH">A0570</idno>
+        <date value=""/>
+        <idno type="uva-pid">uva-lib:501867</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War </p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note>
+          <p>This letter is not dated, but archivists believe it was written in 1860 or 1861.</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: John H. Cochran to His Mother, June 17, [186?]</title>
+            <title type="sort">augusta county john h cochran to his mother, june 17 186</title>
+            <author>John H. Cochran </author>
+            <respStmt>
+              <resp> </resp>
+              <name> </name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher> </publisher>
+            <pubPlace> </pubPlace>
+            <date value=""/>
+          </publicationStmt>
+          <seriesStmt>
+            <p>Source Copy Consulted: Cochran Family Letters, 1860-1861, (MS 92-032), Civil War
+       Collections, Special Collections, Virginia Polytechnic Institute and State University,
+       Blacksburg, Virginia. </p>
+          </seriesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Special Collections, Virginia Polytechnic Institute and State University, Blacksburg, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date value="-06-17">06-17</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Enlistment </term>
+          <term>Regiment: Wise Legion </term>
+          <term>Company: A </term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date value="2000">Summer 2000</date>
+        <respStmt>
+          <resp> </resp>
+          <name>Amy Voorhees </name>
+        </respStmt>
+        <item> Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+ <text id="A0570T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Cochran discusses the formation of a regiment which will soon be mustered into service. </p>
+   </div1>
+  </front>
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Mother</name>
+    </head>
+    <opener>
+     <dateline>
+      <date value="-06-17">June 17 </date>
+      <name type="place">Lewisburg Greenbrier <abbr expan="County">Co</abbr>
+       <abbr expan="Virginia">V<hi rend="super">a</hi></abbr>
+      </name>
+     </dateline>
+     <salute>Dear Mother </salute>
+    </opener>
+
+    <p>You will doubtless be surprised at receiving a letter from me at this place. Our company has
+     been <orig reg="transferred">transfered</orig> to the Wise Legion.</p>
+
+    <p>I would have written to you that we would pass Staunton but I <orig reg="feared">feard</orig>
+     that you would not receive my letter in time and would be more disappointed at not seeing me if
+     you had started for the purpose <orig reg="than">tha</orig> if you had not known of it until
+     now.</p>
+
+    <p>We will be mustered into service this evening for the war. It has all along been my wish to
+     join for the war and I was glad that the company determined to serve during the entire war.</p>
+
+    <p>There is nothing of importance going on here. We are busily engaged in drilling raw recruits
+     and getting ready for a fight in the north West.</p>
+
+    <p>We will start tomorrow morning for Charlestown in Kanawha <abbr expan="County">Co.</abbr>
+     where we intend to <orig reg="establish">establisg</orig> our head quarters at least for the
+     war. </p>
+
+    <p>I cannot say when I will be able to come to Augusta but hope it will be soon. Direct your
+     letter to me at Charlestown Kanawha <abbr expan="County">Co.</abbr> Care of <abbr
+      expan="Captain">Capt</abbr> O.J. Wise. All are well with us and in fine spirits. Hoping that
+     this will find all well I remain as ever your affectionate son </p>
+
+    <closer>
+     <salute> </salute>
+     <signed><abbr expan="John">J.</abbr> H. Cochran </signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

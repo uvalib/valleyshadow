@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+
+<?dlps id="A1414"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A1414">
+     <teiHeader type="migrated">
+
+          <fileDesc>
+               <titleStmt>
+        <title type="main" id="VShadow">Augusta: Citizens of Augusta County to John
+                         Letcher, June, 1860</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta citizens of augusta county to john letcher, june 1860</title>
+        <author>Citizens of Augusta County</author>
+        <editor/>
+        <respStmt>
+                         <resp>Creation of machine-readable version: </resp>
+                         <name>Kid W.</name>
+                         <resp>Conversion to TEI.2-conformant markup:</resp>
+                         <name>Kid W.</name>
+                    </respStmt>
+      </titleStmt>
+
+               <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+               <publicationStmt>
+                    <publisher>Virginia Center for Digital History</publisher>
+                    <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                    <idno type="VCDH">A1414</idno>
+
+        <!--
+                    <availability>
+                         <p>Publicly accessible </p>
+                         <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                         <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                              University of Virginia</p>
+                    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                    <date value="2002">2002</date>
+               <idno type="uva-pid">uva-lib:501953</idno>
+      </publicationStmt>
+               <seriesStmt>
+                    <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+               </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+               <notesStmt>
+                    <note/>
+               </notesStmt>
+
+               <sourceDesc>
+                    <biblFull>
+                         <titleStmt>
+            <title>Augusta: Citizens of Augusta County to John Letcher, June, 1860</title>
+            <title level="m"/>
+            <title type="sort">augusta citizens of augusta county to john letcher, june 1860</title>
+            <author>Citizens of Augusta County</author>
+            <editor/>
+            <respStmt>
+                                   <resp/>
+                                   <name/>
+                              </respStmt>
+          </titleStmt>
+                         <editionStmt>
+                              <p/>
+                         </editionStmt>
+                         <extent>2 pages</extent>
+                         <publicationStmt>
+                              <publisher/>
+                              <pubPlace/>
+                              <date value=""/>
+                              <idno type="callNo">Source copy consulted: Governor's/Exec. Papers -
+                                   Pardons, June 19-27, 1860, Box 3, Folder 7, Library of
+                              Virginia</idno>
+                         </publicationStmt>
+                         <seriesStmt>
+                              <p/>
+                         </seriesStmt>
+                         <notesStmt>
+                              <note/>
+                         </notesStmt>
+                    </biblFull>
+               </sourceDesc>
+          </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Virginia Historical Society, Richmond Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+          <profileDesc>
+               <creation>
+                    <date value="1860-06">1860-06</date>
+               </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+               <handList>
+                    <hand id="h1"/>
+               </handList>
+               <textClass>
+                    <keywords>
+                         <term>Prisons/Prisoners, State Government</term>
+                         <term>American Civil War</term>
+                    </keywords>
+               </textClass>
+          </profileDesc>
+
+          <revisionDesc>
+               <change>
+                    <date value="2005">Summer 2005</date>
+                    <respStmt>
+                         <resp/>
+                         <name>Doug O'Reagan</name>
+                    </respStmt>
+                    <item>Proofread.</item>
+               </change>
+          <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+     </teiHeader>
+
+     <text id="A1414T">
+          <front id="d2">
+               <div1 type="summary" id="d3">
+                    <p>This is a petition from Augusta residents on behalf of James McMullen who was
+                         convicted of Grand Larceny. The petitioners appeal to the governor and ask
+                         him to free the convict.</p>
+               </div1>
+          </front>
+
+          <body id="d4">
+               <div1 type="letter" id="d5">
+                    <head>
+                         <name type="recipient"><abbr expan="Honorable">Hon<hi rend="super">l</hi></abbr><abbr expan="John">J</abbr> Letcher<lb/><abbr expan="Governor">Gov</abbr> of Virginia<lb/> Richmond</name>
+                    </head>
+
+                    <opener>
+                         <dateline>
+                         </dateline>
+                         <salute>To The Governor of the State of Virginia:</salute>
+                    </opener>
+
+                    <p>The undersigned Citizens of the County of Augusta respectfully represent with
+                         your Excellency that at the present June Term of the Circuit Court of our
+                         County James M<hi rend="super">c</hi>Mullen has been convicted for Grand
+                         Larceny for stealing bacon &amp; has been sentenced to Three years
+                         servitude in the Penitentiary for the offence. Your petitioners without
+                         undertaking to give their opinion as to the guilt or innocence of the
+                         prisoner (not having heard the evidence) represent that M<hi rend="super"
+                         >c</hi>Mullen so far as they can learn has always borne an excellent
+                         character &amp; proved a good Character before the Court he is
+                         extremely poor &amp; has a wife &amp; two small children who were
+                         entirely dependent upon his Daily labor for their support &amp; who
+                         must in the event of his continued confinement be reduced to rely upon the
+                         Parish for support. Your petitioners think that the punishment of the Wife
+                         &amp; Children will be as great as that of the unfortunate Father who
+                         in an evil moment has forfeited his character as an honest Man. Your
+                         petitioners therefore respectfully ask that, in view of the former good
+                         character of this prisoner &amp; of the extreme poverty &amp;
+                         suffering which must <orig reg="befall">befal</orig> his unfortunate young
+                         wife &amp; children Your Excellency will exercise in behalf of Many
+                         that Discretion which the law has vested in you &amp; grant to this
+                         unfortunate man a pardon.</p>
+
+                    <closer>
+                         <salute/>
+                         <signed> William Craig John A. Harman<lb/> John W. Jordan <orig
+                                   reg="Thomas">Thos</orig> J Michie<lb/> D. C. McGuffin A. W.
+                              Harman<lb/> N P Cattett S. M. Yost<lb/> Od<del rend="none" hand="h1"/>ele Taylor J
+                              Bumgardner Jr<lb/>
+                              <unclear>McC-----</unclear> J. H. Varepelt<lb/> J. M. Stanly<lb/>
+                              [name cut off]<lb/>
+                              <pb n="2"/>
+                              <abbr expan="William">Wm.</abbr> H. Watts R. H. Herenson<lb/> H. S.
+                              Aughlin Isaac A. Beerbong<lb/> W. A. Abney JP Bledsoe<lb/> J. F.
+                              Stafford Jefferson Kinney<lb/> R. J. Hope S. Waddell<lb/> Benjamin
+                              Fifer W. S. Sterrett<lb/> Sam B Brown <abbr expan="Robert">Ro</abbr> L Doyle<lb/>
+                              <abbr expan="James">Ja<hi rend="super">s</hi></abbr> Cochran <abbr
+                                   expan="William">W<hi rend="super">m</hi>.</abbr> H. Janopp<lb/>
+                              W. J Hunter <abbr expan="William">W<hi rend="super">m</hi></abbr>
+                              Jordan<lb/> Rob<hi rend="super">t</hi>. Cowan J F Byers<lb/> C. G.
+                              Cochran <abbr expan="William">W<hi rend="super">m</hi></abbr> J.
+                              Shumate.<lb/> H K Cochran P M Byers<lb/>
+                              <abbr expan="John">Jno.</abbr> B. Watts<lb/> J Oklear John B.
+                              Baldwin<lb/> S M Woodward Jr<lb/>
+                              <unclear>Ach</unclear> Kinney<lb/> James B Gelkeson Lucas P. Thompson.
+                              Judge of the Circuit Court of Augusta<lb/> Enoch W. Whisman.<lb/> E.
+                              T. Allentron<lb/> W. M. McPheney Alex F. Kinney, Clerk <abbr
+                                   expan="Curcuit Court">Crt Ct</abbr><lb/> Owen Keefe M. G.
+                              Harman<lb/> John W. Heilbert W. A. Burke<lb/> G. H. Campbell<lb/>
+                              Robert E. Curtis O C Morris<lb/> N. K. Funk A. D. Chandler<lb/> Tom JH
+                              Baylor Edward B Dull<lb/> M Woodward H. H. Feck<lb/> J. C. Marquis R. Turk<lb/>
+                              <abbr expan="John">Jn<hi rend="super">o</hi></abbr> B Evans <abbr
+                                   expan="George">Geo.</abbr> A. Armentrout<lb/> John
+                              Jacoberman<lb/> J. N Woodward <abbr expan="William">W<hi rend="super"
+                                        >m</hi></abbr> H Garber<lb/> Hugh W. Sheffey Abraham
+                                   <unclear>Synu</unclear><lb/> L. Bumgardner J A McClung<lb/> R
+                              Hawkins</signed>
+                    </closer>
+               </div1>
+          </body>
+     </text>
+</TEI.2>

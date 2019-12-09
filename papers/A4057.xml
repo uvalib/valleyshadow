@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+
+<?dlps id="A4057"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A4057">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Jedediah Hotchkiss to Sara A. Hotchkiss, October
+     22, 1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county jedediah hotchkiss to sara a hotchkiss, october 22 1863</title>
+        <author>Hotchkiss, Jedediah</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Lara Diefenderfer</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Rider</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A4057</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:502256</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Jedediah Hotchkiss to Sara A. Hotchkiss, October 22, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta county jedediah hotchkiss to sara a hotchkiss, october 22 1863</title>
+            <author>Jedediah Hotchkiss</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>4 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Jedediah Hotchkiss Collection, Reel 4, Manuscripts
+       Division, Library of Congress, Washington, D. C.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Congress, Washington, D. C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1863-10-22">1863-10-22</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Women, Home Front, Battle Description</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A4057T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Hotchkiss comments on affairs at home, food in camp, and miscellaneous information.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Sara A. Hotchkiss</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1863-10-22">Oct. 22<hi rend="underline">
+        <hi rend="super">nd</hi>
+      </hi> 1863</date>
+      <name type="place">Brandy Station</name>
+     </dateline>
+     <salute>My Dear:</salute>
+    </opener>
+
+    <p>I <abbr expan="received">recd.</abbr> yours of the 14<hi rend="underline">
+      <hi rend="super">th</hi>
+     </hi> today, so long, on my way up here to see if Mrs. Wise's daughters had heard from home --
+     &amp; as Uncle Jeff goes up tomorrow I avail myself of it to write you a few lines. I am
+     much gratified that Allie has recovered from her worst state &amp; reason has resumed its
+     sway -- I think she has done right &amp; am ready to sustain her -- I wrote fully in my
+     letter of a few days ago &amp; hope that has come to hand. As to Lora you must do as you
+     please &amp; charge as you please, I have not a word to say, only I fear you would have too
+     much to do -- I want you to use your<pb n="2"/>own <orig reg="judgment">judgement</orig>, for I
+     am not at home to aid you &amp; all the trial would be your own -- I know you have enough
+     to do &amp; unless you were helped at the same time I fear you would only add to your cares
+     &amp; I do not want that -- but as I said I cannot advise - I wrote to you to send the
+     butter I hear from you that Reed has butter &amp; Cheese for me at quite a reasonable rate
+     -- I am much obliged to him &amp; now the getting of them -- the ladies tell me that Mrs.
+     Wise is coming down next week -- perhaps she would take charge of them especially if she has
+     any one with her &amp; I will be under many obligations -- or Mr. Reed may find some one
+     coming to the army who will bring them to<pb n="3"/>Brandy Station -- where Maj. Hawks will
+     take care of them -- he is at Dr. Harris' house a short distance from the depot -- have Reed
+     box them securely -- &amp; I want them to come by some safe charge --</p>
+    <p> Mr. W. J. Points comes down day after tomorrow &amp; if Reed can get them to him he will
+     bring them down. We are on hard tack, bread &amp; meat but in very good quarters, in a
+     roomy old house -- "Berry Hill", 4 miles from here -- full of broken furniture which the
+     Yankess destroyed -- If my butter &amp; cheese get here I shall live very well for a long
+     time &amp; they will be as cheap as any thing we buy. Get him to get you some if you can --</p>
+    <p> I am very well &amp; very hard at work -- I heard today that Imboden captured 480<pb
+      n="4"/> Yankees at Charlestown but was retreating up the Valley Much love &amp; Kisses for
+     all may our merciful God bless you -- </p>
+    <p> Write to me soon - the young ladies here send you much love --</p>
+    <p> My regards to Mrs. Wise &amp; family -- Tell Allie to be of good cheer.</p>
+    <p> I will write to Mr. Bear in a day or two -- I am waiting to hear from some of the officers
+     of the <abbr expan="Engineering">Eng.</abbr>
+     <abbr expan="Regiment">Rgt</abbr> It was a roll of flat cap paper I wanted to send to Lt.
+     Koerner -- the thick white &amp; I had put 40 sheets in one roll -- not the thin but the
+     thick</p>
+    <p> Good bye my love </p>
+
+    <closer>
+     <salute>Your <abbr expan="Affectionate">Aff</abbr> husband</salute>
+     <signed>Jed. Hotchkiss</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

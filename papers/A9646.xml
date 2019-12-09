@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9646"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="A9646">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: William Brand to Kate Armentrout, August
+                    29, 1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta william brand to kate armentrout, august 29 1862</title>
+        <author>Brand, William F.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Jaime Martinez</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A9646</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502808</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: William Brand to Kate Armentrout, August 29, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta william brand to kate armentrout, august 29 1862</title>
+            <author>William Brand</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William Brand Papers, Albert and
+                            Shirley Small Special Collections Library, University of Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1862-08-29">1862-08-29</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Family, Medicine/Hospitals</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2007-04-03">2007-04-03</date>
+                <respStmt>
+                    <resp>proofed</resp>
+                    <name>Josh Botts</name>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A9646T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>William writes to tell Kate that he is in a hospital in Nelson County with
+                    diptheria. He complains about the care he is receiving in the hopsital.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Miss Amanda C Armentrout<lb/>Greenville<lb/>Augusta County<lb/>Virginia</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1862-08-29">August 29th 1862</date>
+                        <name type="place">Bellmont Hospital Nelson <abbr expan="County">Co.</abbr>
+                            <abbr expan="Virginia">Va.</abbr></name>
+                    </dateline>
+                    <salute>Dear Kate,</salute>
+                </opener>
+
+                <p>I seat my self this morning for the purpose of dropping you a <orig reg="few"
+                        >fiew</orig> lines to let you know <orig reg="where">whare</orig> I am. I
+                    have the <orig reg="Diptheria">Dipthera</orig>. My throat is very <orig
+                        reg="sore">soar</orig> but I am in hopes that I will be well in a week or
+                    two. I left camp on the 24th <orig reg="there">thare</orig> had been but very
+                    little Infantry fighting but some heavy <orig reg="cannonading"
+                    >cannonnading</orig> across the river the <orig reg="enemy">enimy</orig> seemed
+                    to have the advantage in position at <orig reg="every">evry</orig> ford. We have
+                    a very large Army in Culpepper for Pope to contend with. Your Brother John was
+                    well when I left the <orig reg="Company">Com.</orig>
+                    <orig reg="they">thay</orig>
+                    <orig reg="were">ware</orig> all in good spirits when I left. I met Jacob, Abe,
+                    &amp; Isack Vines on <pb n="2"/> Monday. Jacob gave me a half Cheese. Abe
+                    told me he had something to tell me how he had fooled you out of some secrets. I
+                    be glad to <orig reg="see">se</orig> him &amp; find out what <orig
+                        reg="they">thay</orig> are. I seen John Plunkett in Gordonsville he told me
+                    that Charles had a letter for me I am sorry I did not meet him as he is so
+                    careless he may <orig reg="lose">loose</orig> it before I get back this is a
+                    very mean hospital. Very little accommodations, nothing but bread &amp; meat
+                    to eat &amp; my throat being <orig reg="sore">soar</orig> it is very hard to
+                    swallow. I wish I could come home and let Churchman tend on me a while <orig
+                        reg="every">evry</orig> thing is very dear around <orig reg="here"
+                    >hear</orig> &amp; <orig reg="there">thare</orig> is but little change in
+                    the circulation. I have been trying to get a note Broke ever since <pb n="3"/> I
+                    left the <orig reg="Regiment">Regt</orig>. This is a very lonesome <orig
+                        reg="place">blase</orig>. <orig reg="There">Thare</orig> is nothing of
+                    importance to write I hope these <orig reg="few">fiew</orig> lines may find you
+                    enjoying both health &amp; happiness. I pray the God of mercies may soon
+                    visit me with health.</p>
+
+                <closer>
+                    <salute>nothing more but remain your sincere well wisher</salute>
+                    <signed>W.F.B.</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

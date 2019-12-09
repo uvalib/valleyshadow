@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+
+<?dlps id="A7558"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A7558">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: David H. Evans to Mary Anna Sibert,
+                    April 7, 1868</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county david h evans to mary anna sibert, april 7 1868</title>
+        <author>Evans, David H.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Andrew Witmer</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Andre Fleche</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A7558</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502600</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: David H. Evans to Mary Anna Sibert, April 7, 1868</title>
+            <title level="m"/>
+            <title type="sort">augusta county david h evans to mary anna sibert, april 7 1868</title>
+            <author>David H. Evans</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: David H. Evans to Mary Anna
+                            Sibert, April 7, 1868, Evans-Sibert Family Papers, Accession 27770,
+                            Virginia State Library and Archives, Richmond, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Virginia State Library and Archives, Richmond, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1868-04-07">1868-04-07</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Family, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2005-01-03">January 3, 2005.</date>
+                <respStmt>
+                    <resp/>
+                    <name>Andre Fleche</name>
+                </respStmt>
+                <item>Proofread against original; changes made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A7558T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Evans reports his safe return home, describes his fatigue after duck hunting, and
+                    reassures Sibert of his love for her.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1868-04-07">April 7th 1868</date>
+                        <name type="place">Staunton</name>
+                    </dateline>
+                    <salute>My Dear Mollie</salute>
+                </opener>
+
+                <p>I Rived home Safely I reached here <orig reg="about">a bout</orig> half past
+                    Seven I made very good time though I could have gotten home Much Sooner but I
+                    had a little <del rend="none" hand="h1"/> on the Horse. I feel very <orig reg="tired"
+                    >tird</orig> after my <unclear>duck</unclear> hunt I have come to the conclusion
+                    that Duck hunting dosent pay for the trouble. I dont think I will get over my
+                        <orig reg="jaunt">jant</orig> for a week or <orig reg="two">too</orig>
+                    though I <orig reg="enjoyed">Injoyed</orig> the sport Very much<pb n="2"/> You
+                        <orig reg="seem">seam</orig> to think that I have grown cold towards you I
+                    have not I love you the Same My greatest &amp; Sweetest <orig reg="pleasure"
+                        >plesure</orig> is to be with you I dont think you are too affectionate for
+                    I dont think any person could be <orig reg="too">two</orig> affectionate. I
+                    Still love you the Same with all my heart nature Yes I love you truly &amp;
+                    devotedly My greatest joy &amp; <orig reg="pleasure">plesure</orig> is to be
+                    with you who I love with all the <orig reg="strength">Strenth</orig> &amp;
+                    devotion of my heart Yes I do <orig reg="indeed">endeed</orig> love you
+                    &amp; you only &amp; will Still continue to<pb n="3"/>love you as long
+                    as I live with true love</p>
+
+                <p>Ella &amp; <orig reg="family">famley</orig>
+                    <del rend="none" hand="h1"/> will they look for your pa tomrrow Magnus will go down with him
+                    to his home. I will try &amp; come down next Sunday if I live you must not
+                    look for me for <orig reg="certain">Sertion</orig>. tell your Ma I send her
+                    paper of Snuff by Mr Jones give My love to your Ma Ham &amp; all the
+                    children.</p>
+
+                <p>I send a loving Kiss to you I love you with all my heart God Bless you good by</p>
+
+                <closer>
+                    <salute>Yours</salute>
+                    <signed>D H Evans</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

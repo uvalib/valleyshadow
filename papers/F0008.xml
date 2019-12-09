@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0008"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F0008">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Samuel M. Potter to Cynthia Potter,
+                    October 24, 1862</title>
+        <title type="sort">franklin county samuel m potter to cynthia potter, october 24 1862</title>
+        <author>Potter, Samuel M.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amy Voorhees</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F0008</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501183</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note>
+                    <p>This transcription is from a typescript of the original letter.</p>
+                </note>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Samuel M. Potter to Cynthia Potter, October 24, 1862</title>
+            <title level="m"/>
+            <title type="sort">franklin county samuel m potter to cynthia potter, october 24 1862</title>
+            <author>Samuel M. Potter</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Pennsylvania Historical and
+                            Museum Commission, Civil War Material, Misc. Diaries and Letter,
+                            Microfilm, MG-132</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Pennsylvania Historical and Museum Commission, Harrisburg, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1862-10-24">1862-10-24</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Family, Medicine/Hospitals</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2003-01">January 2003</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against transcription; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F0008T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Potter writes to his wife about his attempts to get a position in the camp
+                    hospital.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+               
+
+                <opener>
+                    <dateline>
+                        <date value="1862-10-24">Oct. 24 1862</date>
+                        <name type="place">Camp Curtin</name>
+                    </dateline>
+                    <salute>Dear Cynthia</salute>
+                </opener>
+
+                <p>I <orig reg="received">recieved</orig> your &amp; Mary's letter day before
+                    yesterday &amp; was glad to hear from you all. I hope Bells mouth will get
+                    well soon. The next letter you write tell if two little books come in the mail
+                    for Josey and Lucy. I put them in the post office down in Harrisburg. Our
+                    Regiment is about <orig reg="organized">organised</orig>. I saw the Colonel
+                    yesterday he had just arrived. Our Surgeon was here a few days ago &amp;
+                    went off before I could see him. Our Captain was trying to get me a position but
+                    as the doctor is away at this time I am not sure of it. I have tried all I could
+                    &amp; hope to get it yet. I have been in the hospital for a few days
+                    attending one of our men who has the fever. Our regiment is the 16th <abbr
+                        expan="Pennsylvania">Pa.</abbr> Cavalry &amp; I think I will get a
+                    position yet as I intend watching close for it. You need not be uneasy about me
+                    as I will try the best that I can. The night after I <orig reg="received"
+                        >recieved</orig> your letter I dreamed I was at home. I could get a furlough
+                    but want to wait awhile yet. The drafted men are coming in here very fast. Will
+                    soon fill this camp. I expect you misunderstood me about the battle. We went
+                    onto the cars but never got out of Harrisburg as they were getting dispatches
+                    all day and at last heard that the rebels left Chambersburg so we went back to
+                    our old camp &amp; are here yet. One of my messmates Thomas J. Marshall is
+                    going home today to stay 3 weeks if you could send me a pair sock to Caldwells
+                    Tavern on the Pike he will bring them to me. Mary &amp; you will consider
+                    this answer to both your letters. Tell Josey when I go home I will get him a
+                    drum. I <orig reg="can't">cant</orig> get it now. I have nothing more to write
+                    at present but hope that you will still remember me in your prayers &amp;
+                    may God bless you all in my prayers.</p>
+
+                <closer>
+                    <salute>Your affectionate husband &amp; brother</salute>
+                    <signed>S. M. Potter</signed>
+                    <seg type="postscript">Give my respects to all our friends about there, tell
+                        Dave &amp; Eliza to write to me.</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

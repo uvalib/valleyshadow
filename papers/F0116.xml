@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0116"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="F0116">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Peter Boyer to his father, Peter
+                    Boyer, March 30, 1865</title>
+        <title type="sort">franklin county peter boyer to his father, peter boyer march 30 1865</title>
+        <author>Boyer, Peter </author>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Matthew Kelly </name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">6</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Institute for Advanced Technology in the Humanities </publisher>
+                <publisher>University of Virginia </publisher>
+                <pubPlace>Charlottesville, Va. </pubPlace>
+                <idno type="VCDH">F0116 </idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1997 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved. </p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2 </p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1997 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1998">1998 </date>
+            <idno type="uva-pid">uva-lib:501257</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War </p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note>
+                    <p>Transription from a photocopy.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Peter Boyer to his father, Peter Boyer, March 30,
+                            1865</title>
+            <title type="sort">franklin county peter boyer to his father, peter boyer march 30 1865</title>
+            <author>Peter Boyer</author>
+            <respStmt>
+                            <resp> </resp>
+                            <name> </name>
+                        </respStmt>
+          </titleStmt>
+                    <publicationStmt>
+                        <publisher> </publisher>
+                        <pubPlace> </pubPlace>
+                        <date value=""> </date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p>Source copy consulted: Peter Boyer Letters, Archives of the U.S. Army
+                            Military History Institute, Carlisle Barracks, Pennsylvania. </p>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from U. S. Army Military History Institute, Carlisle Barracks, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1865-03-30">1865-03-30 </date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Battle Description, Death/Casualties, Troop Movement, Military Strategy </term>
+                    <term>Regiment: none </term>
+                    <term>Company: none </term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value="2000">Summer 2000</date>
+                <respStmt>
+                    <resp/>
+                    <name>Amy Voorhees</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="F0116T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Boyer provides an account of Grant's armies in Virginia </p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Peter Boyer</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1865-03-30">March 30th 1865</date>
+                        <name type="place">Camp Remound</name>
+                    </dateline>
+                    <salute>Dear Father</salute>
+                </opener>
+
+                <p>I take the pleasure to write a <orig reg="few">fiew</orig> lines to let you know
+                    that I am well at present <orig reg="hoping">hopeing </orig> that you are all
+                    the same I also let you know that we have news of a great victory down at <orig
+                        reg="Petersburg">Peters Burg</orig> but I don't think that John was in the
+                    fight as much as I can learn in the <orig reg="newspaper">news paper</orig> the
+                    fifth corps was not engaged in the battle further I let you know that our
+                    cavalry is down with General <orig reg="Grant's">Grants</orig> army that is all
+                    the mounted men but the dismounted men are still here I think we will stay here
+                    a while I also let you know that I sent<pb n="2"/> a letter home with twenty
+                    dollars I wish you would answer that letter as soon as possible and let me know
+                        <orig reg="whether">wether</orig> you got that money and direct your letter
+                    to this place I will give you the direction at the end of this letter and our
+                    mail goes down to petersburg and if you don't direct them to this place then I
+                        <orig reg="won't">wont</orig> get them if they go down there I also let you
+                    know that I sent my picture home a while ago inform me also about that and about
+                    sending home clothing I and Cyrus Engle and I will <orig reg="send">sent</orig>
+                    some home one of <orig reg="these">thes</orig> days further I let you know that
+                    we have bad weather at present it was raining all night<pb n="3"/> and is still
+                    raining to day I don't know any more news at present I hope to <orig reg="hear"
+                        >here</orig> from you soon Send stamps in your next letter I will close for
+                    this time </p>
+                <closer>
+                    <salute>from your son </salute>
+                    <signed>Peter Boyer </signed>
+                    <seg type="postscript">I will now give you the direction<lb/> Peter Boyer Co I
+                            17<hi rend="super">th</hi> Pa Cav<lb/> Remound Camp<lb/>
+                        <orig reg="Pleasant">Plesent</orig> Valley MD<lb/> In Care of Major Spira<lb/>
+                        <lb/> Cyrus Engle wants you to tell old Mrs Engle to send a dollar worth
+                        postage stamps and he will send her one dollar again That is all at present
+                            <name type="recipient">To my father<lb/>Peter Boyer</name>
+                    </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

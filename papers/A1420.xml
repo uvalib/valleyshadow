@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+
+<?dlps id="A1420"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A1420">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: Franklin Carroll to Virginia Miller, August
+                    23, 1864</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta franklin carroll to virginia miller, august 23 1864</title>
+        <author>Carroll, Franklin</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Kid W.</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Kid W.</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A1420</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501959</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: Franklin Carroll to Virginia Miller, August 23, 1864</title>
+            <title level="m"/>
+            <title type="sort">augusta franklin carroll to virginia miller, august 23 1864</title>
+            <author>Franklin Carroll</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Eleanor S. Brockenbrough Library,
+                            The Museum of the Confederacy, Richmond, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Museum of the Confederacy</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1864-08-23">1864-08-23</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Prisons/Prisoners</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2005">Summer 2005</date>
+                <respStmt>
+                    <resp/>
+                    <name>Doug O'Reagan</name>
+                </respStmt>
+                <item>Proofread.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A1420T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Carroll wishes to know if his correspondent received his previous letter and asks
+                    if anyone has interfered with his last mailing.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient"><hi rend="underline">Mrs</hi> Virginia L Miller.<lb/> Little york<lb/>
+                        <abbr expan="Pennsylvania">Penn</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1864-08-23"><orig reg="August">august</orig> 23 <add hand="h1"
+                                place="inline">1864</add></date>
+                        <name type="place">Camp Chase <orig reg="Ohio">ohio</orig></name>
+                    </dateline>
+                    <salute>Mrs Virginia Miller</salute>
+                </opener>
+
+                <p>having <orig reg="wrote">rote</orig> to you some time ago in regard as to some
+                    clothing and as yet Have not received them and have come to the conclusion you
+                    did not get <del hand="h1">it</del>
+                    <add hand="h1" place="inline">the letter</add> I also have learned that another
+                    man had <orig reg="wrote">rote</orig> to you also I Thought in all probability
+                    he had interfered when I <orig reg="wrote">rote</orig> to you <orig reg="there"
+                        >they</orig>
+                    <orig reg="were">wer</orig> no prisoners in this camp knew your address But
+                    myself and the <orig reg="very">Verry</orig> Evening I <orig reg="wrote"
+                    >rote</orig> To you I understand That <orig reg="there">They</orig> was <orig
+                        reg="another">annothers</orig> letters wrote I want you to write to me and
+                    let me know if you got my letters or not and if that man who you <orig
+                        reg="received">receved</orig> a letters from interfered or not you will
+                    please answer This letter soon and let me know what you can do in regard as to
+                    my wants with these few<pb n="2"/> lines I close Hoping to hear from you soon if
+                    you send me these clothing Send them in care of <orig reg="Colonel">Col</orig>
+                    Richardson commanding &amp; By Express</p>
+
+                <p>please answer this soon</p>
+
+                <closer>
+                    <salute>Yours Truly</salute>
+                    <signed>Franklin Carroll Prison B <orig reg="Camp Chase">camp chase</orig>
+                        <orig reg="Ohio">ohio</orig></signed>
+                    <seg type="postscript">P S <orig reg="please">pleas</orig> send me some
+                    stamp</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

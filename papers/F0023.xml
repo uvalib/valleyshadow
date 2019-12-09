@@ -1,0 +1,258 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0023"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]> 
+  
+  
+<TEI.2 id="F0023">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Samuel M. Potter to Cynthia Potter,
+                    September 28, 1863</title>
+        <title type="sort">franklin county samuel m potter to cynthia potter, september 28 1863</title>
+        <author>Potter, Samuel M. </author>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amy Murrell </name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">12</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Institute for Advanced Technology in the Humanities </publisher>
+                <publisher>University of Virginia </publisher>
+                <pubPlace>Charlottesville, Va. </pubPlace>
+                <idno type="VCDH">F0023</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1997 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved. </p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1997 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1997">1997 </date>
+            <idno type="uva-pid">uva-lib:501198</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War </p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note>
+                    <p>This is transcribed from a typescript.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Samuel M. Potter to Cynthia Potter, September 28,
+                            1863</title>
+            <title type="sort">franklin county samuel m potter to cynthia potter, september 28 1863</title>
+            <author>Samuel M. Potter</author>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <publicationStmt>
+                        <publisher> </publisher>
+                        <pubPlace> </pubPlace>
+                        <date value=""> </date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p>Source copy consulted: Potter Letters, Microfilm MG-132, Civil War
+                            Material, Misc. Diaries and Letters, Pennsylvania Historical and Museum
+                            Commission, Harrisburg, Pennsylvania. </p>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Pennsylvania Historical and Museum Commission, Harrisburg, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1863-09-28">1863-09-28 </date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Church/Religious Activity, Desertion/Leave, Troop Movement</term>
+                    <term>Regiment: 16th Pa. Cav. </term>
+                    <term>Company: </term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value="2000">Summer 2000</date>
+                <respStmt>
+                    <resp/>
+                    <name>Amy Voorhees</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="F0023T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Potter describes the bleak conditions at his brigade's new camp at Bealton
+                    Station, Virginia. He also talks of dedicating himself to God and of wanting to
+                    return home on a furlough.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Cynthia Potter</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1863-09-28">September 28<hi rend="super">th</hi> 1863 </date>
+                        <name type="place">Bealton Station <abbr expan="Virginia">Va.</abbr></name>
+                    </dateline>
+                    <salute>Dear Cynthia </salute>
+                </opener>
+                <p>Your welcome letter was received yesterday evening after I had gone to bed
+                    &amp; I suppose the <orig reg="pleasant">plesent</orig> dreams of last night
+                    are to be attributed to the fact. You will see by the above that we are not in
+                    the front at present. Just as I had finished writing my last letter we got
+                    orders to be ready to move in half an hour. I put your letter in my pocket
+                    &amp; packed up ready for the march. We formed into column &amp; turned
+                    our backs on the Rapidan passed through <sic corr="Culpeper">Culpepper</sic>
+                    &amp; on to the <sic corr="Rappahannock">Rappohannock</sic> where we <orig
+                        reg="stopped">stooped</orig> to get a few more hours sleep &amp; rest
+                    our horses. In the morning we resumed our march our rest coming to Bealton while
+                    Brigade Headquarters at <orig reg="Rappahannock">Rappohannock</orig> Station.
+                    Our division is now guarding this railroad from <orig reg="Manassas"
+                    >Manasses</orig> Junction to the Rappahannock Division Headquarters at Catletts
+                    Station. We have very little to do here. One squadron being out on picket while
+                    the rest are laying in camp. We <orig reg="don't">dont</orig> have many sick
+                    now. There are a great many soldiers passing back &amp; forwards &amp;
+                    at present the prospects of a battle here <orig reg="are">is</orig> quite
+                    distant but we may be <orig reg="disappointed">dissapointed</orig>. I have not
+                    heard of any stir in the front. The report here is that the rebs are falling
+                    back. I think their energies are turning to defeat <abbr expan="General"
+                    >Gen.</abbr> Rosecrans so the army of the Potomac will have some rest from
+                    marching &amp; fighting. We <orig reg="don't">dont</orig> live here quite so
+                    well here as we did in the front. The army has been here all summer &amp;
+                    the whole of this once beautiful country is a continuous scene of desolation.
+                    There are no cornfields nor potato patches, hogs or sheep munching over the
+                    fields. What few citizens remain here have nothing to sell or trade for our
+                    coffee or sugar but still we live well &amp; I have as good health as ever.
+                    I suppose Josiah got home on a sick furlough. Is he getting better. You ask me
+                    whether it would be a good plan to get Martin Danly to take Josiahs note for the
+                    rent. I think it would do very well. It will save us paying so much money
+                    &amp; you would be a long time getting it from Carrols. I suppose Mr. Burns
+                    death will be a lesson for all of us to be ready for we know not the day nor the
+                    day when the angel of death will take either of us from this earth. May we
+                    strive for a home in heaven. We know our time will come to die &amp; so let
+                    us be prepared to meet the author of our existence to give an account of the
+                    deeds done here on earth &amp; oh that we may hear that welcome sentence.
+                    Well done good &amp; faithful servant, enter thou in the joy of thy Lord.
+                    What will become of us when we die. Will we have time &amp; <orig
+                        reg="opportunity">oppurtunity</orig>. Dear Cynthia let us prepare, though
+                    others do as they will. &amp; Bell said she would be a good girl if mother
+                    would take her to meeting. Mothers heart plead for her little daughter &amp;
+                    they all went to Church. God bless mother &amp; her little children. I know
+                    they will all be good for mother. God is a prayer hearing &amp; prayer
+                    answering God &amp; will keep her children if she takes them to a throne of
+                    grace &amp; there gives herself &amp; them into his care. You wonder if
+                    you will have to go alone to see your mother. Well this time I expect you will
+                    as I <orig reg="don't">dont</orig> expect to get a furlough for some time yet.
+                    None are granted except to the sick &amp; wounded but if I am spared to get
+                    home &amp; am able to go with you I expect to enjoy the pleasure of riding
+                    with you. &amp; the children down to your mothers &amp; having a
+                    pleasant visit if they are all well. I <orig reg="don't">dont</orig> want them
+                    to think hard of my <orig reg="laziness">lasiness</orig> in not writing to them
+                    for <orig reg="laziness">lasiness</orig> is a poor excuse. The only letters I
+                    have written are to my wife &amp; fathers except on business. There are
+                    quite a number of my friends that I am not treating well but when I go to write
+                    I think of Cynthia, Josey. Lucy, Bell &amp; Jimmy &amp; they crowd
+                    others out of my mind. All of my affections center there. There is the
+                    attraction for me, if I were to get twenty letters a week &amp; none from my
+                    wife. I would be as uneasy &amp; unsatisfied as if I got none. To tell the
+                    truth you are that I am anxious to hear about &amp; yet at your mothers I
+                    have enjoyed myself well &amp; if I was there I would enjoy myself again in
+                    their company, but still when I sit down to write a letter Cynthia is the one I
+                    am thinking of. You <orig reg="don't">dont</orig> want me to join the army. Well
+                        <orig reg="don't">dont</orig> be afraid. I would rather join my family now
+                    than anything I can think of. You seem to think I could get a furlough yet as I
+                    got one in July. That one was got under peculiar circumstances which I will
+                    explain after I get home. The same excuse <orig reg="can't">cant</orig> be
+                    brought before the General now. Then it was not a furlough as none were granted
+                    but my claimed were urged in such a manner that instead of breaking his rule to
+                    give me one he issued a special order, ordering me to go &amp; report back
+                    to the <abbr expan="regiment">regt.</abbr> in July &amp; as you are aware I
+                    never got the order because John Milligan &amp; I were in a barn in Maryland
+                    when the order came to the regiment in <abbr expan="Virginia">Vir.</abbr> The
+                    Doctors thinking I would go to a Hospital in Baltimore sent the order to my
+                    address in Baltimore but I never got it &amp; did not hear from the regiment
+                    until I joined it in August when they told me about the matter but too late. The
+                    time had run out. The same claims <orig reg="can't">cant</orig> be urged now
+                    &amp; I will have to wait &amp; take my turn with the rest. If there is
+                    any chance at all I will be glad to accept it for the purpose of seeing those I
+                    am thinking about all the time. There is no person on this round ball that I
+                    would rather see than my own dear wife &amp; children. Tell Josey that his
+                    drum will not be forgotten nor Lucy Bell nor Jimmy. I think I can find something
+                    for each of you. There were some <abbr expan="Secessionist">Secesh</abbr> papers
+                    in camp a few days ago but none of the boys would sell theirs. They wanted to
+                    send them home. You will get the first one I secure. You say Sam Danly wants me
+                    to write to him well there is Joe Sutherland, Alex Harvey, &amp; a number of
+                    others that I ought to write to some day when I <orig reg="haven't"
+                    >havent</orig> much to do maybe I'll write. I have my monthly report of sick to
+                    make out tomorrow which will keep me busy for a day. Give my love to your
+                    mother, Dolly, Anne, &amp; Emme as that is all the family they have that I
+                    know of. I hope you will find your sister Jane in better health. Give her my
+                    love. The little girls too. Remember me to them. I hope your visit may be a
+                    pleasant one. I wish I were with you to help you enjoy it. <orig reg="Won't"
+                        >Wont</orig> you need wintry clothing for the children &amp; yourself.
+                    When you write next let me know how you are getting along. Have you a good
+                    garden &amp; will the folks keep the stock out of it while you are gone. You
+                    had better keep an eye on Jimmy or he will run out some place &amp; you will
+                    be uneasy until you find him. I reckon when I get home he can run down to the
+                    gate to meet me but he <orig reg="won't">wont</orig> know me. You will have to
+                    give me an introduction. <orig reg="Won't">Wont</orig> you. Mrs. Emerick has a
+                    young son, <orig reg="wasn't">wasnt</orig> Hannah or James Roney the Doctor. The
+                    2 pairs of socks will be very acceptable I tell you but I reckon you want me to
+                    go for them so there you are. See how they fit. If they fit well I will wear
+                    them. No more at present dear wife, </p>
+                <closer>
+                    <salute>From your affectionate husband </salute>
+                    <signed>S. M. Potter </signed>
+                    <seg type="postscript">Give my love to Josey, Bell, Lucy &amp; Jimmy </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

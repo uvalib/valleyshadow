@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1150"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1150">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: John A. McDonnell to
+                    Orlando Brown, August 4, 1868</title>
+        <title type="sort">freedmens bureau records john a mcdonnell to orlando brown, august 4 1868</title>
+        <author>McDonnell, John A.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1150</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501010</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: John A. McDonnell to Orlando Brown, August
+                            4, 1868</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records john a mcdonnell to orlando brown, august 4 1868</title>
+            <author>John A. McDonnell</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 32.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1868-08-04">1868-08-04</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Administration/Bureaucracy</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-07">July 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Kid Wongsrichanalai</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1150T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>McDonnell submits information about himself and several other Bureau Agents,
+                    including John W. Jordan, the agent in Augusta County.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau <abbr expan="Refugees, Freedmen and Abandoned Lands">R.F. &amp;
+                        A.L.</abbr><lb/>Headquarters 9<hi rend="super">th</hi> Sub <abbr
+                            expan="District">Dist</abbr>
+                    <abbr expan="Virginia">Va</abbr>
+                    <name type="recipient"><abbr expan="Brevet Brigadier General">Bt. Brig
+                        Gen.</abbr> O. Brown<lb/><abbr expan="Assistant Commissioner">Asst
+                        Comr</abbr><lb/>Richmond <abbr expan="Virginia">Va</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1868-08-04"><abbr expan="August">Augt</abbr> 4<hi rend="super">th</hi> 1868</date>
+                        <name type="place">Winchester</name>
+                    </dateline>
+                    <salute>General</salute>
+                </opener>
+
+                <p>In compliance with Circular Letter dated Office C.Q.M. &amp; D.O. <abbr
+                        expan="Bureau of Refugees, Freedmen and Abandoned Lands">Bu. R.F. &amp;
+                        A.L.</abbr>
+                    <abbr expan="District">Dist.</abbr> of <abbr expan="Virginia">Va.</abbr>
+                    Richmond, <abbr expan="Virginia">Va</abbr> July 29<hi rend="super">th</hi> 1868
+                    I have the honor to make the following report viz:</p>
+
+                <p><hi rend="underline">John A. McDonnell</hi>
+                    <hi rend="underline">Commissioned</hi> Captain 28<hi rend="super">th</hi>
+                    <abbr expan="Massachusetts Volunteers">Mass vols</abbr>
+                    <hi rend="underline"><abbr expan="October">Oct.</abbr> 8<hi rend="super">th</hi>
+                        1861</hi>. Transfered to <abbr expan="Veterans Reserve Corps">V.R.C.</abbr>
+                    and commission as Captain in that Corps dated July 27. 1863. <hi
+                        rend="underline">Mustered out</hi> of service <hi rend="underline"><abbr
+                            expan="January">Jany</abbr> 1. 1868</hi>. Service <hi rend="underline"
+                        >continuous</hi> from <abbr expan="October">Oct.</abbr> 8<hi rend="super"
+                    >th</hi> 1861 <hi rend="underline">Employed as <abbr
+                            expan="Sub Assistant Commissioner">S.A.Comr</abbr></hi>
+                    <abbr expan="Bureau of Refugees, Freedmen and Abandoned Lands">Bu. R.F.
+                        &amp; A.L.</abbr> at the time of muster out.</p>
+
+                <p><hi rend="underline">E.H. Ripley</hi>
+                    <hi rend="underline">Commissioned</hi> 1<hi rend="super">st</hi>
+                    <abbr expan="Lieutenant">Lieut</abbr> 8<hi rend="super">th</hi>
+                    <abbr expan="Connecticut Volunteers">Conn. vols.</abbr> March 2<hi rend="super"
+                        >d</hi> 1862. <abbr expan="Commissioned">"</abbr> Captain <abbr
+                        expan="8th Connecticut Volunteers">"</abbr>
+                    <abbr expan="August">Augt</abbr> 15 1862 <abbr expan="Commissioned Captain">" "</abbr>
+                    <abbr expan="Veterans Reserve Corps">VRC</abbr>
+                    <abbr expan="September">Sept</abbr> 30<hi rend="super">th</hi> 1863. <hi
+                        rend="underline">Mustered out</hi>
+                    <hi rend="underline">
+                        <abbr expan="January">Jany</abbr>
+                    </hi> 1 1868 service continuous from <pb n="2"/>March 2<hi rend="super">d</hi>
+                    1862, was <hi rend="underline">employed as <abbr
+                            expan="Assistant Sub Assistant Commissioner">A.S.A.C.</abbr></hi> in
+                    Bureau <abbr expan="Refugees, Freedmen and Abandoned Lands">R. F. &amp; A.
+                        L.</abbr> at date of muster out.</p>
+
+                <p><hi rend="underline">John W. Jordan</hi>
+                    <hi rend="underline">Commissioned</hi> Major 57<hi rend="super">th</hi>
+                    <abbr expan="Indiana">Ind.</abbr>
+                    <abbr expan="Infantry">Infy</abbr>
+                    <hi rend="underline"><abbr expan="October">Oct.</abbr> 10/61</hi>
+                    <hi rend="underline">Resigned</hi>
+                    <hi rend="underline"><abbr expan="November">Nov</abbr> 22<hi rend="super"
+                        >nd</hi> 62</hi> - Commissioned 1<hi rend="super">st</hi>
+                    <abbr expan="Lieutenant">Lt</abbr> &amp; <abbr expan="Adjutant">adjt</abbr>
+                        53<hi rend="super">d</hi>
+                    <abbr expan="Kentucky">Ky</abbr>
+                    <abbr expan="Volunteers">vols</abbr> June 1<hi rend="super">st</hi> 1863.
+                    Resigned <abbr expan="September">Sept</abbr> 1<hi rend="super">st</hi> 1863. <hi
+                        rend="underline">Commissioned</hi> Captain <abbr
+                        expan="Veterans Reserve Corps">V.R.C.</abbr>
+                    <hi rend="underline">June 18, 1864</hi>. <hi rend="underline">Mustered out</hi>
+                    <hi rend="underline"><abbr expan="January">Jany</abbr> 1. 1868</hi>. was <hi
+                        rend="underline">employed as <abbr expan="Sub Assistant Commissioner"
+                            >S.A.Comr</abbr></hi>
+                    <abbr expan="Bureau of Refugees, Freedmen and Abandoned Lands">Bu R. F.
+                        &amp; A. L.</abbr> at time of muster out. <hi rend="underline">Service
+                        not continuous</hi>.</p>
+
+                <closer>
+                    <salute>Very Respectfully<lb/>Your <abbr expan="Obedient">Obdt</abbr>
+                        <abbr expan="Servant">St</abbr></salute>
+                    <signed>John A. McDonnell<lb/>Sub <abbr expan="Assistant Commissioner">Asst
+                        Comr</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

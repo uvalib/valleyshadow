@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+
+<?dlps id="A8021"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A8021">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: M. D. Clayton to Aunt, May 8, 1840</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county m d clayton to aunt, may 8 1840</title>
+        <author>Clayton, M. D.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Andrew J. Torget</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A8021</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502672</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: M. D. Clayton to Aunt, May 8, 1840</title>
+            <title level="m"/>
+            <title type="sort">augusta county m d clayton to aunt, may 8 1840</title>
+            <author>M D Clayton</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Private Collection</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from private collection</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1840-05-08">1840-05-08</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Family, Women, National Government, Church/Religious Activity</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A8021T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Ten-year-old Nelly Clayton writes her Aunt and relates how she and her family are
+                    doing, discusses the upcoming 1840 presidential election (declaring herself to
+                    be a Whig), and alludes to a possible religious "Camp meeting in Sept."</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1840-05-08">May 8th 1840</date>
+                        <name type="place">Cherry Grove</name>
+                    </dateline>
+                    <salute>My Dear Aunt</salute>
+                </opener>
+
+                <p>Cousin Hetty Ann and myself received <unclear>uneller</unclear> letter a few days
+                    ago and we was very much pleased to hear from you all. Aunt I have nothing of
+                    importance to communicate only that we are tolerable well at this time I have a
+                    very bad cold and <orig reg="sore">soar</orig> throat <orig reg="there"
+                    >thay</orig> is a great many persons complaining of colds at this time. Uncle
+                    Tho's Claytons family are all well except Cousin Hetty Ann she has been very
+                    sick all this week with the <orig reg="sore">soar</orig> throat her throat is
+                    very much swelled indeed she is in bed most of her time. Uncle <abbr
+                        expan="William">Wm</abbr> Claytons family are all well except Aunt Polly and
+                    she is not much better but she bares all of her sickness with great patience.
+                    Tell cousin Samuel Black that his father Mother Brothers and sisters are all
+                    well, and Cousin Ralph Black is doing very well and Uncle <abbr expan="William"
+                        >Wm</abbr> Black also is doing well Cousin Ralph Black is living on fathers
+                    Plantation that he bought a few years ago he has one child you may tell cousin
+                    Samuel and <unclear>que</unclear> of the finest little wives he ever saw she is
+                    very industrious and <orig reg="they">thay</orig> have planty of <orig
+                        reg="everything">evry thing</orig> about them for to be keeping house no
+                    longer then <orig reg="they">thay</orig> have. Tell Aunt that for James and his
+                    wife I say nothing about <orig reg="their">there</orig> industry thay have 2
+                    Children and is living on uncle <abbr expan="William">Wm</abbr> Claytons land
+                    Uncle <abbr expan="William">Wm</abbr> Black has bought land of his own and his
+                    father and Mother lives on his land close to him give my love to cousin Samuel
+                    and family if you please.</p>
+                <p>Aunt I hope I shall have the felicity of seeing you yet I am in great hopes that
+                    you and Uncle and my Dear little Cousin will pay us all a visit this fall oh
+                    Aunt I would be delighted if I could only see you all I often talk of paying you
+                    a visit but I fear my talk is is all in vain I often tell father and Mother that
+                    if I ever get Maried I will go to Missouri <pb n="2"/> Aunt tell uncle that all
+                    the Gentlemen talk here now is about <orig reg="Harrison">Harrisson</orig> and
+                    Van <orig reg="Buren">Buran</orig> tell him that I am a Whig and I am very
+                    anxious to know what he is I hope he is a Whig for I do not like Van <orig
+                        reg="Buren">Buran</orig> the Gentleman laugh very much at the Ladies here
+                        <orig reg="they">thay</orig> all say if <orig reg="they">thay</orig> had to
+                    vote <orig reg="they">thay</orig> would all vote for <orig reg="Harrison"
+                        >Harrisson</orig> all the Claytons here is for <orig reg="Harrison"
+                        >Harrisson</orig> and I almost imagine that uncle Ralph is for <orig
+                        reg="Harrison">Harrisson</orig>. . . Tell Uncle that I say he must bring you
+                    to see us soon for nothing in the World could afford us more pleasure than to
+                    see you all.</p>
+                <p>We had a very hard winter or at least the <orig reg="biggest">bigest</orig> part
+                    of it we have a fine Spring the small grain looks very well indeed. I fear we
+                    will not have much fruit if <orig reg="they">thay</orig> is many more long
+                    frosts to come but them that provides all things knows best whats to come so his
+                    will be done on earth as is in Heaven for he knows better what we all need <orig
+                        reg="than">then</orig> we are all to ask or by any <orig reg="manner"
+                    >meaner</orig> worthy to <orig reg="receive">recieve</orig>. We have 2 fine
+                    Preachers here Mr. Blam is our Presbyterian Preacher and Mr Styne is our
+                    Methodist Preacher and it is to be hoped that thay will do a great deal of good
+                    in both churches this year <orig reg="They">Thay</orig> talk of having a Camp
+                        <orig reg="meeting">meting</orig> in Sept. if nothing happens.......</p>
+                <p>Dear Aunt the family all join with myself in love to you all write to me as soon
+                    as <orig reg="you">your</orig>
+                    <orig reg="receive">recive</orig> this letter my love to Mr <orig reg="William"
+                        >Wm</orig>
+                    <unclear>Mccutee</unclear> and family I have nothing more only my prayer is that
+                    the Lord may be with you all for ever more.</p>
+
+                <closer>
+                    <salute>farewell</salute>
+                    <signed>M D Clayton</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+
+<?dlps id="A6014"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A6014">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Henry H. Dedrick to Mary E. A. Dedrick, June 9,
+     1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county henry h dedrick to mary e a dedrick, june 9 1863</title>
+        <author>Dedrick, Henry H.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Diane B. Jacob, Virginia Military Institute</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Alice McShane</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A6014</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:502377</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Henry H. Dedrick to Mary E. A. Dedrick, June 9, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta county henry h dedrick to mary e a dedrick, june 9 1863</title>
+            <author>Henry H. Dedrick</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>1 page</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Henry H. Dedrick Papers, Manuscript #0332, Virginia
+       Military Institute Archives, Lexington, Virginia.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>Toward the end of letter Dedrick switched from pen to pencil and the text is illegible
+        except for a few sentences at the end.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Virginia Military Institute Archives, Lexington, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1863-06-09">1863-06-09</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Battle Description, Camp Life, Desertion/Leave, Family, Military Authority, Military
+      Strategy, Prison/Prisoners, Troop Movement</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001-07">July 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Murrell</name>
+        </respStmt>
+        <item>Tagging checked; final corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A6014T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Dedrick describes troop movements and skirmishes near Culpeper, Virginia. He also complains
+     of soreness from the march and talks about his courtmartial.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Mary E.A. Dedrick</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1863-06-09">June the 9 1863</date>
+      <name type="place">Camp near Culpeper Courthouse</name>
+     </dateline>
+     <salute>My Dear Wife-</salute>
+    </opener>
+
+    <p>I thank god that I have been permitted to see a few more lines from under your hand. I
+     received your most kind letter this morning. It was dated on the 2nd of this month. I was truly
+     glad to hear from you and to hear that you was well and to hear that all the rest of the folks
+     was well. I am well and doing as well as could be expected. I do hope when these few lines
+     comes to hand they may find you and little Willie in good health.</p>
+    <p>We have been permitted to stay here today. We got here yesterday about twelve oclock and
+     drawed three days rations and was to be ready to start this morning by day light, and then we
+     got orders to stay here today and cook another days rations. I don't know where we will go.</p>
+    <p>We left the old camp last Thursday night at twelve oclock. We have not been marching very
+     hard but it went very hard with some of us. My feet got very sore and my legs has been very
+     sore for some time, but they have got better. I have heard cannon all day long. It commenced
+     about sun rise and was very heavy. It is down the river between this and Fredericksburg
+     somewhere, but I don't know where.</p>
+    <p>The same night that we left our old camp the yankees crossed the river at the same place that
+     they crossed before, but General Hill was there with his Corps. The Yankees shelled his troops
+     friday, Saturday and Sunday, but General Hill laid still to draw them out, but they smelt the
+     Rat and would not come out. General Hill has been reinforced with five thousand new troops.
+     They have never been in a fight, but if they stay there I think they will get into it and that
+     before long. We expect to go into it at any time. I would not be surprised if we don't be in
+     Maryland before ten days. Some thinks that we will go over in the valley. We are on the road
+     that leads to New Market. It leads from Culpeper to Sperryville and then to New Market, but I
+     can't tell you where we will go.</p>
+    <p>I have more news but I have not time to write. I sent you a letter at the same time that I
+     sent Fathers. I mailed them both at the same time. I saw Jacob Ded. several days ago, he was
+     well and send his compliments to you all.</p>
+    <p>They have courtmartialed me at last, but they had right smart trouble before they got it
+     done. But I have not heard my sentence yet. They wanted to make me drill and to<del rend="none" hand="h1"/></p>
+    <p>Dear Lissa I want you to forget to tell me who told you that I had said that you didn't care
+     anything about me. Dear Lissa I have some good news to tell you when I write again. May god
+     bless you. H. H. Dedrick.</p>
+
+    <closer>
+     <salute>H.H. Dedrick</salute>
+     <signed/>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2583"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A2583">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Jedediah Hotchkiss to Nelson H. Hotchkiss,
+     September 28, 1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county jedediah hotchkiss to nelson h hotchkiss, september 28 1862</title>
+        <author>Hotchkiss, Jedediah</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Rider</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Rider</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">10</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A2583</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:502072</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note>
+          <p>Only original available is a typed copy.</p>
+        </note>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Jedediah Hotchkiss to Nelson H. Hotchkiss, September 28, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta county jedediah hotchkiss to nelson h hotchkiss, september 28 1862</title>
+            <author>Jedediah Hotchkiss</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>1 page</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Jedediah Hotchkiss Collection, Reel 4, Manuscripts
+       Division, Library of Congress, Washington, D.C.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Congress, Washington, D. C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1862-09-28">1862-09-28</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Troop Movement, Military Authority, Battle Description, Death/Casualties, Slavery,
+      African Americans, Women, Family, Patriotism, Enlistment, Agriculture, Home Front, National
+      Government, Prisons/Prisoners</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A2583T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Hotchkiss writes to his brother on various topics, including recent battles and troop
+     movements, his daughters' education, the lack of army provisions, northern opinions of the war,
+     and the growth of the Confederate Army.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Nelson H. Hotchkiss</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1862-09-28">Sunday. Sept. 28th., 1862</date>
+      <name type="place">Bunkers Hill, 12 miles below Winchester</name>
+     </dateline>
+     <salute>My dear Brother;</salute>
+    </opener>
+
+    <p> I got a letter from you while I was in Frederick City; the first one for a long time then
+     that I <abbr expan="received">recd.</abbr> from home; since then, as before, we have been
+     going, going, and I have not found time to write, though I have often thought of it. I wrote to
+     you, I think, soon after the Manassa fight, then we crossed into Maryland and took a turn and
+     came back to Martinsburg and then went to <orig reg="Harper's">Harpers</orig> Ferry and
+     captured it, with the large stores etc. there, an account of which you have seen, then we came
+     back up the river and fought the hotly contested battle of Sharpsburg in which no decided
+     advantage remained with either side, though we gained the day on each wing, but Gen. McClaws
+     failed to attack, as ordered, in the centre, and so no results came from our advantage, though
+     we held the field of battle all the next day and buried our dead and collected our wounded, and
+     then retired unmolested across the river during the night of the 18th. The next night a large
+     force of the enemy came across and routed our picket on the bank and took 4 pieces of
+     artillery, but Gen. Jackson went down in the morning and sent them howling back, killing some
+     500 of them; since then all has been quiet. We moved our camp to near Martinsburg, and have
+     been there until yesterday when we moved up here to find a better camp, foraging, etc. This
+     country is almost destitute of every kind of forage or subsistence, for it has been full of
+     armies for a long time. It is quite dry here too, though the people have been sending some. I
+     could not buy anything in Maryland for the want of Maryland money, as we did not oblige them to
+     take Confederate money, leaving every one to their own choice. I bought 20 yards of fulled
+     cloth in Charlestown, some of which I intend for the servants, but will have to have some
+     clothes for myself off it. When <pb n="2"/> we are near a town, on a march, our wagons are not
+     with us, and there is no way of carrying anything but on your horse, and when on duty that is
+     impossible, so I have not been able to get many things that I would have desired to purchase
+     for you and Harriet. You asked my advice about sending Elmore to Mr. Stover. I think you had
+     better send him; it will be much better than to have him lose so much time. I also think it
+     will be well for you to employ Allie and keep the girls going, have them pursue a regular
+     system of studies though, not merely music and painting, but common things, Reading, Writing,
+     Arithmetic, etc., and it would be better for them to have 4 or 5 other scholars with them: it
+     affords a stimulus that is wanting where there is only a family. They cannot too thoroughly
+     learn the common branches; they are the basis of an education, and unless completely mastered
+     all things besides will be comparatively worthless. See that Allie has all that she wants, of
+     everything that can be had. If I find needed articles I will buy them, but I do not expect to
+     find anything unless we go North again, and I do not see any chance for that at this time. It
+     was a great thing, a glorious achievement, to free our state from the enemy and drive him
+     beyond the Potomac. Defence is our true policy much as we might desire some other, and as long
+     as we can hold our foe in check, and strike him hard blows when the opportunity offers, so long
+     we are doing well and our cause is prospering, we gain by delay and the enemy loses. Our army
+     is filling up from conscripts and men returning from hospitals, etc., and it is thought we
+     number more now than we did before the recent battles. We must reorganize, though, for many of
+     our regiments have lost all their officers, and some regiments are reduced to mere companies.
+     The Yankee papers <pb n="3"/> say that one regiment of ours opposed two of theirs and three
+     batteries and they could not move it. The 1st <orig reg="Louisiana">Louisana</orig>
+     <abbr expan="Regiment">Reg.</abbr> had 10 color bearers shot, and had 144 bullet holes through
+     the flag and flag staff.</p>
+    <p> I have written to Staunton for a pair of boots,-to have them made. I cannot find a pair high
+     enough in the instep. I could have bought a pair very reasonably in <abbr expan="Maryland"
+     >Md.</abbr> if they had been high enough at the pinching point; as it is I am almost
+     barefooted. I hope you will have grain enough for us and vegetables. I want to eat any quantity
+     of vegetables if I should be fortunate enough to get home during the winter. I see no signs of
+     peace as yet, and still think as I did at first, that only a change of administration will
+     bring a change of policy in the North.</p>
+    <p> I saw any number of N.Y. men at Harper's Ferry, men of the better class. They had
+     volunteered because they did not wish to be drafted, and New York had furnished her part of the
+     600,000. The privates all wanted to go home and stay there and were willing to let us alone,
+     but the officers thought we ought to submit to the <hi rend="underline">old flag</hi>, and had
+     no right to set up for ourselves, and all such nonsense.</p>
+    <p> I hope I may get to come home before long. I am not very well just now; have a touch of
+      <orig reg="diarrhea">diarrhoea</orig> and headache, but hope I may get over it soon. I am
+     keeping quiet now.</p>
+    <p> My best love to all. I have some nice paper, envelopes, etc., for Allie and the girls if I
+     can ever get a chance to send them to them. Write often, and I will try and do better, if we do
+     not have so much racing to do. </p>
+
+    <closer>
+     <salute>Your <abbr expan="affectionate">aff.</abbr> Brother,</salute>
+     <signed>Jed. Hotchkiss</signed>
+     <seg type="postscript">I wrote a few words to Father by Col. Seguin of Auburn.</seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

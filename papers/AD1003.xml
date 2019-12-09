@@ -1,0 +1,3350 @@
+<?xml version="1.0"?>
+
+<?dlps id="AD1003"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="AD1003">
+<teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Diary of Harvey Bear (1862-1863)</title>
+        <title type="sort">augusta county diary of harvey bear 1862 1863</title>
+        <author>Bear, Harvey</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Students, HIUS 403: Digital History and the American
+Civil War, 1997-1998, Department of History, University of
+Viginia</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Murrell</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>
+        <num type="kilobytes"> 33 kilobytes</num>
+      </extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher> 
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">AD1003</idno>
+
+        <!--
+<availability>
+<p>Publicly accessible </p>
+<p n="public">URL:
+http://jefferson.village.virginia.edu/vshadow2/</p> 
+<p>copyright 1998, by the Rector and Visitors of the
+University of Virginia</p>
+</availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1998 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1998">1998</date>
+        <idno type="uva-pid">uva-lib:500329</idno>
+      </publicationStmt>
+      <seriesStmt> 
+        <p>The Valley of the Shadow:  Two Communities in
+the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Diary of Harvey Bear</title>
+            <title>Bear Family Papers</title>
+            <title type="sort">diary of harvey bear</title>
+            <author>Harvey Bear</author>
+            <editor> </editor>
+            <respStmt>
+              <resp>e.g. Translator</resp>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt> 
+            <p> </p> 
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher> </publisher>
+            <pubPlace> </pubPlace>
+            <date value=""> </date>
+            <idno type="callNo">Source copy consulted: Diary of Harvey
+Bear (MS 92-010), American Civil War Collection, Special
+Collections, Virginia Polytechnic Institute, Blacksburg,
+Virginia</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p>The Valley of the Shadow:  Two Communities in
+the American Civil War</p>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Special Collections, Virginia Polytechnic Institute and State University, Blacksburg, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <dateRange from="1862-01-01" to="1863-07-09">1862-01-01 - 1863-07-09</dateRange>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>
+Agriculture, Church/Religious Activity,
+Home Front, Troop Movement
+</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""> </date>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt> 
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+
+<text id="AD1003T">
+
+<front id="d2">
+<div1 id="AD1003bio" type="bio">
+<head>Biography
+<!-- <ref>AD1003bio</ref> -->
+</head>
+<p>Harvey Bear lived near Churchville in Augusta County during
+the war. Along with his slaves and family members, Bear
+cultivated his land, practicing mixed agriculture and raising
+livestock for sale and consumption. In his diary, Bear
+chronicled his transactions nearby in his community and
+surrounding towns and further away in Richmond, sometimes for
+cash and sometimes for exchange. Shorter entries reveal Bear's
+involvement in agricultural organizations, religious
+activities, and local politics. Though Bear primarily
+described the work of a wealthy farmer and his laborers during
+the war, he also provided glimpses into the lives of his own
+family members and those of his friends and neighbors. Brief
+references to the war include the movement of troops,
+interactions with military officers, supplying the Confederate
+army, and the actions of the local militia.</p>
+</div1> 
+</front>
+
+<body id="d4">
+
+<div1 id="AD10031862" type="part" n="1862">
+<head>1862
+<!-- <ref>AD10031862</ref> -->
+</head>
+
+<div2 type="section" n="1862-01" id="d6">
+<head>January 1862 
+<!-- <ref></ref> -->  
+</head>
+
+<div3 type="entry" n="1862-01-01" id="d7"> 
+<head>Jan 1<hi rend="super">st</hi></head> 
+<p>very windy Was in Staunton <orig reg="today">To Day</orig>
+hired Hardin to <abbr expan="Colonel">Col.</abbr> Harman, day
+passed off quiet, no sales, very <orig reg="few">fiew</orig>
+<del rend="none" hand="h1"></del> men,</p> 
+</div3> 
+
+<div3 type="entry" n="1862-01-02" id="d8"> 
+<head>(Jan 2)</head> 
+<p><orig reg="hired">hiered</orig> Lyons [footnote: Later,
+Bear referred to Lyons as a "Man of Colour."] to chop, sent
+letter to J S Effinger Richmond concerning Plaster +c</p> 
+</div3> 
+
+<div3 type="entry" n="1862-01-03" id="d9"> 
+<head>(3)</head> 
+<p>pulled off corn <orig reg="too">two</orig> dry quit, hauled
+rails +c commenced sleeting in evening. wrote to Mr Lochridge
+concerning yoke steers,</p> 
+</div3> 
+
+<div3 type="entry" n="1862-01-04" id="d10"> 
+<head>(4)</head> 
+<p>still cloudy very dry Hauled 5 Loads wood to Churchville
+Very <abbr expan="slippery">slippy</abbr> + dangerous
+Hauling</p> 
+</div3> 
+
+<div3 type="entry" n="1862-01-05" id="d11"> 
+<head>(5)</head> 
+<p>Sunday Very cold rained + Snowed some at night</p>
+</div3> 
+
+<div3 type="entry" n="1862-01-06" id="d12"> 
+<head>(6)</head> 
+<p>Chopping Wood Mr <orig reg="Seig">Sieg</orig> + Mr N H
+Hotchkiss rode over my farm to report to our Farmers Club next
+meeting</p> 
+</div3> 
+
+<div3 type="entry" n="1862-01-07" id="d13"> 
+<head>Jan (7<hi rend="super">th</hi>)</head> 
+<p>Cold + Cloudy</p> 
+</div3> 
+
+<div3 type="entry" n="1862-01-08" id="d14"> 
+<head>(8<hi rend="super">th</hi>)</head> 
+<p><abbr expan="Farmers">F.</abbr> Club met <orig
+reg="today">to day</orig> at Mr <orig
+reg="Trimble's">Trimbles</orig> day passed off fine</p> 
+</div3> 
+
+<div3 type="entry" n="1862-01-09" id="d15"> 
+<head>(9<hi rend="super">th</hi>)</head> 
+<p><unclear>carried</unclear> <abbr
+expan="Captain">Capt</abbr> <orig
+reg="Hoover's">Hoovers</orig> sheep home, traded sheep with
+<abbr expan="Samuel">Saml</abbr> Cochran</p> 
+</div3> 
+
+<div3 type="entry" n="1862-01-10" id="d16"> 
+<head>10<hi rend="super">th</hi></head> 
+<p>entered in bond with <abbr expan="Thomas">T.</abbr> N.
+Lindsey as <abbr expan="Postmaster">P M</abbr>.</p> 
+</div3> 
+
+<div3 type="entry" n="1862-01-10" id="d17"> 
+<head>11<hi rend="super">th</hi></head> 
+<p>Brought Jack from Mr <orig reg="Seig's">Sieg's</orig> to my
+house commenced Plowing sent Mrs Fisher 9 1/2 lbs Pork rained
+at night</p> 
+</div3> 
+
+<div3 type="entry" n="1862-01-12" id="d18"> 
+<head>Sunday (12)</head> 
+<p>Stayed at home all day (Fannie sick)</p> 
+</div3> 
+
+<div3 type="entry" n="1862-01-13" id="d19"> 
+<head>(13)</head> 
+<p>Plowing <unclear>Hill</unclear></p> 
+</div3> 
+
+<div3 type="entry" n="1862-01-14" id="d20"> 
+<head>14</head> 
+<p>stormy</p> 
+</div3>
+
+<div3 type="entry" n="1862-01-15" id="d21"> 
+<head>(15)</head> 
+<p>Sent team to Forge for Iron for Mr. <orig
+reg="Euritt">Eurett</orig> rained + sleeted best part of
+day.</p> 
+</div3>
+
+<div3 type="entry" n="1862-01-16" id="d22"> 
+<head>(16)</head> 
+<p>Went to see about a school for Rebecca eat dinner at F
+<orig reg="Hoover's">Hoovers</orig> found his babe sick</p> 
+</div3>
+
+<div3 type="entry" n="1862-01-18" id="d23"> 
+<head>(18)</head> 
+<p><unclear>prized</unclear> up negro House <orig
+reg="drizzling">drisling</orig> rain nearly all day repaired
+sill Mssrs. Dedrick + Hotchkiss helped,</p> 
+</div3>
+
+<div3 type="entry" n="1862-01-19" id="d24">
+<head>Sunday 19</head>
+<p>warm + cloudy went to church</p>
+</div3>
+
+<div3 type="entry" n="1862-01-20" id="d25">
+<head>(20)</head>
+<p>Cloudy + warm some rain considerable Thunder +
+lightning</p>
+</div3>
+
+<div3 type="entry" n="1862-01-21" id="d26">
+<head>21)</head>
+<p>Cloudy + wet paid Mr. Thomas shoe at 5 80 bought 8 lb While
+lead 15<hi rend="super">c</hi> lb sent 106 Dollars
+to C H Bear to <unclear>lift firm</unclear> note still <orig
+reg="owe">ow</orig> him $5.12</p>
+</div3>
+
+<div3 type="entry" n="1862-01-22" id="d27">
+<head>(22)</head>
+<p>still cloudy + damp some snow,</p>
+</div3>
+
+<div3 type="entry" n="1862-01-23" id="d28">
+<head>(23)</head>
+<p>sent a letter to Jacob Hanger concerning the purchase of a
+yoke of steers settled with Mr Hizer Rec<hi
+rend="super">d</hi> pay for Horse. Rec<hi
+rend="super">d</hi> side soleather, Rec<hi
+rend="super">d</hi>, Rec<hi
+rend="super">d</hi> order of <abbr
+expan="James">Ja<hi rend="super">s</hi></abbr>
+Wilson Esqr for <orig reg="necessaries">necessarys</orig>
+furnished Mrs Fisher + Mrs Grady, Claimants to County fund for
+<del rend="none" hand="h1"></del> sent a letter to Mr. Effinger (Richmond) for 2
+<orig reg="ton">Tun</orig> more plaster</p>
+</div3>
+
+<div3 type="entry" n="1862-01-24" id="d29">
+<head>(24)</head>
+<p><orig reg="chopped">choped</orig> on clearing 1/2 day Mr.
+Hotchkiss came over + <unclear>rived</unclear> out a lot of
+Plow handles. Commenced Snowing about 12 O clock snowed very
+fast + still snowing when night came on. heard <orig
+reg="today">to day</orig> my plaster is <orig
+reg="shipped">shiped</orig>.</p>
+</div3>
+
+<div3 type="entry" n="1862-01-25" id="d30">
+<head>(25)</head>
+<p>Hauled manure on wheat sowed plster on the manure after
+spread, sowed narrow strip plaster on Wheat from <orig
+reg="stack">stak</orig> at edge of manure to the fence corner
+above cherry + two cedar trees ground covered with snow
+now</p>
+</div3>
+
+<div3 type="entry" n="1862-01-26" id="d31">
+<head>Jan Sunday (26)</head>
+<p>Went to church,</p>
+</div3>
+
+<div3 type="entry" n="1862-01-27" id="d32">
+<head>(27)</head>
+<p>went to Staunton Sidney went along left her, Deposited
+ninety five Dollars in bank (Valley) had Hotchkiss bill of
+sale recorded rec<hi rend="super">d</hi> 21 Dollars
+3 cts of county, paid one Dollar for recording bill of sale,
+received bill of Plaster +c of R W. Pierce +c  <abbr
+expan="Amount">Amt</abbr> due him 56.18  Rec<hi
+rend="super">d</hi> note of <abbr
+expan="Harrison">H.</abbr> H. Teaford for Abram's board for
+this year to end with this year, 31st Decr 62</p>
+</div3>
+
+<div3 type="entry" n="1862-01-28" id="d33">
+<head>(28)</head>
+<p>Returned Mr. Hizer 15 Fifteen Dollars (5 + 10) note for
+<unclear>current</unclear>, Howard Huston here on his way to
+Rockingham,</p>
+</div3>
+
+<div3 type="entry" n="1862-01-29" id="d34">
+<head>29<hi rend="super">th</hi></head>
+<p>Chopped clearing  <abbr expan="James">Ja<hi
+rend="super">s</hi></abbr> Henry [footnote: James
+Henry was probably a younger relative of Harvey Bear. He
+appears as a member of the Bear household in the 1870 Census,
+but not the 1860 census.] Deposited 35 Dollars in bank,
+brought Sidney Home, very pretty day very war,</p>
+</div3>
+
+<div3 type="entry" n="1862-01-30" id="d35">
+<head>(30<hi rend="super">th</hi>)</head>
+<p>Killed Beef, rained all day</p>
+</div3>
+
+<div3 type="entry" n="1862-01-31" id="d36">
+<head>(31<hi rend="super">st</hi>)</head>
+<p>went to church Mr. Junken preached cut up beef in evening  
+sent Mrs Fisher 47 +s also 3 1/2 lb Lard</p>
+</div3>
+
+</div2>
+
+<div2 type="section" n="1862-02" id="d37">
+<head>February 1862 
+<!-- <ref></ref> -->  
+</head>
+
+<div3 type="entry" n="1862-02-01" id="d38">
+<head>Feb (1<hi rend="super">st</hi>)</head>
+<p>went to church ground covered with snow this morning very
+<orig reg="slippery">sleppy</orig> riding received letter from
+Effinger containing <abbr expan="receipt">recp<hi
+rend="super">t</hi></abbr> of check sent him 56.16
+called on Mr. Jed Hotchkiss saw his maps +c.</p>
+</div3>
+
+<div3 type="entry" n="1862-02-02" id="d39">
+<head>Sunday (2<hi rend="super">nd</hi>)</head>
+<p>Sacrament of <orig reg="Lord's">Lords</orig> Supper
+administered at our church to day Mr Junken assisted all the
+time 4 persons admitted in our church by Examination Mr. <abbr
+expan="Junken">J</abbr> Preached in Churchville in evening</p>
+</div3>
+
+<div3 type="entry" n="1862-02-03" id="d40">
+<head>Monday (3<hi rend="super">rd</hi>) Feb</head>
+<p>Snowing early in morning Hardin came home this morning.
+Rebecca went up to her school, called and settled with Jacob
+Hanger, pai<hi rend="super">d</hi> him <orig
+reg="chopped">choped</orig> wood for Mrs. Fisher</p>
+</div3>
+
+<div3 type="entry" n="1862-02-04" id="d41">
+<head>(4<hi rend="super">th</hi>)</head>
+<p>Thrashed off clover seed and covered apples in garden found
+them keeping pretty well, packed up 3 barrels to send to
+Richmond, <abbr expan="Received">Rec<hi
+rend="super">d</hi></abbr> letter from Jacob Hanger,
+<abbr expan="James">Ja<hi rend="super">s</hi></abbr>
+Henry Started to school Salted beef 4th [footnote: This last
+line appears as a notation in the margin of the page.]</p>
+</div3>
+
+<div3 type="entry" n="1862-02-05" id="d42">
+<head>(5<hi rend="super">th</hi>)</head>
+<p>was going to butcher <orig reg="today">to day</orig> but
+rain prevented rained nearly all day, cleaned clover seed 2
+3/4 <abbr expan="bushels">bu<hi
+rend="super">s</hi></abbr> filled 4 bags with B Flour
+5 to each left empty barrel at mill Mr H. Harris came + stayed
+all night</p>
+</div3>
+
+<div3 type="entry" n="1862-02-06" id="d43">
+<head>(6<hi rend="super">th</hi>)</head>
+<p>helped dig grave for Mr. Snelling's Daughter Buried in
+evening, Miss Kate + <unclear>Angie</unclear> + Miss Teaford
+paid us a visit</p>
+</div3>
+
+<div3 type="entry" n="1862-02-07" id="d44">
+<head>(7<hi rend="super">th</hi>)</head>
+<p>put up new style + hitching rack <abbr
+expan="Received">Rec<hi rend="super">d</hi></abbr>
+letter from Mr Burk concerning Plaster, Dr. Wilson paid me for
+4 <orig reg="ton">Tun</orig> Plaster $64.20, <abbr
+expan="James">Ja<hi rend="super">s</hi></abbr> Henry
+went to see Rebecca</p>
+</div3>
+
+<div3 type="entry" n="1862-02-09" id="d45">
+<head>(Sunday 9)</head>
+<p>was at church thin congregation</p>
+</div3>
+
+<div3 type="entry" n="1862-02-10" id="d46">
+<head>(10<hi rend="super">th</hi>)</head>
+<p>Sent Wagon to Staunton, for Plaster sent 3 barrels apples +
+6 Bags B Flour to <abbr expan="Richmond">R</abbr> to Taylor +
+Son, Deposited 101 Dollars in bank</p>
+</div3>
+
+<div3 type="entry" n="1862-02-11" id="d47">
+<head>11<hi rend="super">th</hi></head>
+<p>Killed 6 Hogs weighing 1007 lbs average weight 168 lbs</p>
+</div3>
+
+<div3 type="entry" n="1862-02-12" id="d48">
+<head>Feb 12<hi rend="super">th</hi></head>
+<p>Salted pork lightly, spread on floor put beef <orig
+reg="steak">stake</orig> in pickle sent Biby 2 loads wood.
+sent Mrs Fisher 18 lbs chine [footnote: a cut of meat] +c</p>
+</div3>
+
+<div3 type="entry" n="1862-02-13" id="d49">
+<head>(13<hi rend="super">th</hi>)</head>
+<p><abbr expan="Farmers">F</abbr> Club met at Mr. <orig
+reg="Seig's">Sieg's</orig>, was <orig
+reg="there">thier</orig>, sent Dennis to Staunton for plaster,
+also sent 1 load wood which he left on road, road very bad
+could not <orig reg="haul it">haulit</orig>,</p>
+</div3>
+
+<div3 type="entry" n="1862-02-14" id="d50">
+<head>14<hi rend="super">th</hi></head>
+<p><abbr expan="Received">Rec<hi
+rend="super">d</hi></abbr> order from <abbr
+expan="James">Ja<hi rend="super">s</hi></abbr>
+Wilson to Furnish Mrs Grady 1.25 <abbr
+expan="cents">cts</abbr> worth of provisions for Week it being
+her allowance from county fund. furnished her 5 1/2 lbs Bacon,
+plowing <orig reg="today">to day</orig> commenced
+<unclear>Pruning</unclear> orchard, Furnished Mrs Fisher 3 1/2
+lbs Lard,</p>
+</div3>
+
+<div3 type="entry" n="1862-02-15" id="d51">
+<head>(15<hi rend="super">th</hi>)</head>
+<p>Snowing early in morning Dennis plowing + turned down 3
+<abbr expan="inches">in.</abbr> snow, Salted pork</p>
+</div3>
+
+<div3 type="entry" n="1862-02-16" id="d52">
+<head>Sunday 16<hi rend="super">th</hi> Feb</head>
+<p>was at Church very bad riding <del rend="none" hand="h1"></del> met + appointed
+delegate to got to <orig reg="Presbytery">Presbyty</orig> at
+Staunton on 20<hi rend="super">th</hi></p>
+</div3>
+
+<div3 type="entry" n="1862-02-17" id="d53">
+<head>(17)</head>
+<p>Rained moderately all day <abbr expan="Received">Rec<hi
+rend="super">d</hi></abbr> letter from Jacob Hanger
+concerning yoke steers,</p>
+</div3>
+
+<div3 type="entry" n="1862-02-18" id="d54">
+<head>(18<hi rend="super">th</hi>)</head>
+<p>Hauled wood to Chruchville 2 Loads Mr. Euritt 1 Mrs Fisher
+1 Mr. Thomas Thomas paid 1 Dollar Settled with Mr. Lindsey
+<hi rend="super">he fell in my Debt 14.16</hi> sent
+$14.16 with him to Richmond to buy Cotton yarn, warm +
+Clear,</p>
+</div3>
+
+<div3 type="entry" n="1862-02-19" id="d55">
+<head>(19)</head>
+<p>rained all day Andrew Ervine stayed until evening hauled
+Mr. Lindsey some straw brought it up <unclear>from</unclear>
+shop <unclear>sleeted</unclear>,</p>
+</div3>
+
+<div3 type="entry" n="1862-02-20" id="d56">
+<head>(20<hi rend="super">th</hi>)</head>
+<p>went to Staunton <orig reg="Presbytery">Presbytary</orig>
+met + <abbr expan="Received">Rec<hi
+rend="super">d</hi></abbr> Mr. <abbr
+expan="Samuel">Sam<hi rend="super">l</hi></abbr>
+Brown's resignation + declared the Falling Spring church
+vacant. settled with Mosley + Taylor fell in their debt 5.63
+paid, Came by Mr. Hoover's + Found him quite sick, <del rend="none" hand="h1"></del>
+River quite high, Plowed Mr. Hotchkiss + Mr. Dedrick Called
+both Stayed until after Dinner, Settled with Mr. Dedrick fell
+in his debt 4.30 credited the same in my book, let him have 14
+1/2 lbs Bacon</p>
+</div3>
+
+<div3 type="entry" n="1862-02-22" id="d57">
+<head>(22)</head>
+<p><orig reg="Chopped">Choped</orig> + Hauled wood with 2
+<orig reg="horse team">horseteam</orig>, Plowed Hauled Mr.
+Euritt 1 Load <hi rend="super">Rained all
+night</hi>,</p>
+</div3>
+
+<div3 type="entry" n="1862-02-23" id="d58">
+<head>(23) Sunday</head>
+<p>Went to church at Churchville Mr. Arnold Preached at
+Funeral for Mr. Stephen <orig reg="Myers's">Myers</orig>
+Children which had been buried some time before,</p>
+</div3>
+
+<div3 type="entry" n="1862-02-24" id="d59">
+<head>(24)</head>
+<p>very pretty bright morning, commenced storming about nine
+<orig reg="o'clock">oclock</orig> rained
+<unclear>some</unclear> wind blew very hard the balance of the
+day, blew over one of my Hay stacks, also a considerable
+amount of fence settled with <abbr expan="Benjamin">B.</abbr>
+H. <orig reg="Licklider">Lickliter</orig> fell in his debt
+1.82 paid him, Sent to Staunton <orig reg="for">fer</orig> 5
+    lbs Nails paid 15 &#162; <abbr expan="per pound">pr
+lbs.</abbr> <hi rend="super">bought new Boots from
+Shoemaker for self + Hardin</hi></p>
+</div3>
+
+<div3 type="entry" n="1862-02-25" id="d60">
+<head>(25)</head>
+<p>went to saw mill brought home 222 <abbr
+expan="Feet">Ft</abbr> plank <abbr expan="bought">b<hi
+rend="super">t</hi>.-</abbr> of Mr. Koontz am to pay
+him 2.25, worked <orig reg="colt">cault</orig> did very well,
+<orig reg="fixed">fixt</orig> up hay stack, making boxes <orig
+reg="for">fer</orig> hens to lay in, had 1 shoe put on
+horse</p>
+</div3>
+
+<div3 type="entry" n="1862-02-26" id="d61">
+<head>(26)</head>
+<p>very pretty morning, put up fence, <hi
+rend="super">Brined my Pork,</hi> Plowing, rained
+after Dinner,</p>
+</div3>
+
+<div3 type="entry" n="1862-02-27" id="d62">
+<head>(27)</head>
+<p><orig reg="Chopped">Choped</orig> Wood + <orig
+reg="Hauled">Haled</orig> 4 Loads to Mr. Biby, 1 To Mr.
+Dedrick, 1 to Rev Arnold, Mr. Thomas took measures to make
+slippers, Dr. <hi rend="super">Wilson</hi> Borrowed
+Horse To go to Staunton,</p>
+</div3>
+
+<div3 type="entry" n="1862-02-28" id="d63">
+<head>(28)</head>
+<p>went to church, this day was set apart by the President for
+humiliation + Prayer, very windy + cold,</p>
+</div3>
+
+</div2>
+
+<div2 type="section" n="1862-03" id="d64">
+<head>March 1862 
+<!-- <ref></ref> -->  
+</head>
+
+<div3 type="entry" n="1862-03-01" id="d65">
+<head>(March 1<hi rend="super">st</hi>) </head>
+<p>cut corn stalks, finished pulling corn had 2, 2 horse Loads
+hauled it in barn, Hauled some fodder in stable mow, ground
+frozen clouded up a while after dark <hi
+rend="super">Took slipper patterns to Mr Thomas to
+make</hi> Fannie <abbr expan="Received">Rec<hi
+rend="super">d</hi></abbr> letter from Harrisonburg
+informing her that Bettie Effinger was Very sick, went to
+prayer meeting at night, furnished Mrs. Grady 27 1/2 lbs Flour
+furnished Lyons (Man of Colour) 14 lbs flour for one <orig
+reg="day's">days</orig> chopping,</p>
+</div3>
+
+<div3 type="entry" n="1862-03-02" id="d66">
+<head>(Sunday) morning</head>
+<p>slight <del rend="none" hand="h1"></del> of snow, commenced <orig
+reg="raining">rainging</orig> about 9 <orig
+reg="o'clock">Oclock</orig>, started to Harrisonburg with
+Fannie <hi rend="super">+ Frank</hi> about 10 <orig
+reg="o'clock">Oclock</orig>, found the road very bad commenced
+sleeting + snowing about 12 <orig reg="o'clock">Oclock</orig>
+considerable Thunder + lightning between 12 + 1 <orig
+reg="o'clock">Oclock</orig>, (something very unusual) we <orig
+reg="stopped">stoped</orig> at Mrs. Neffs + warmed + <orig
+reg="dried">dride</orig> our selves <orig
+reg="ceased">ceaced</orig> raining we got along <orig
+reg="with">withe</orig> the exception of the road being Very
+bad arrived at <abbr expan="Harrisonburg">H'Brg</abbr> about 6
+<orig reg="o'clock">Oclock</orig>, was informed Bettie <abbr
+expan="Effinger">E.</abbr> something better, stayed all night
+with Mr. Bell</p>
+</div3>
+
+<div3 type="entry" n="1862-03-03" id="d67">
+<head>(3)</head>
+<p>next morning (3) called to see Bettie, started home with
+Frank between 9 + 10, commenced raining about 12 rained very
+fast <orig reg="stopped">stoped</orig> at Mrs. Neff's horses
+fed + dinner, arrived at home some time after dark nearly 8
+<orig reg="o'clock">Oclock</orig>,</p>
+</div3>
+
+<div3 type="entry" n="1862-03-04" id="d68">
+<head>(4)</head>
+<p>Trees all covered with Ice, ground slightly frozen, Hauled
+corn to crib Hauled Mr. Thomas 1 Load wood Hauled in small
+stack Hay, <abbr expan="Captain">Capt.</abbr> Huff paid Mrs
+Grady's <abbr expan="account">at</abbr> (4 of 3.60)</p>
+</div3>
+
+<div3 type="entry" n="1862-03-05" id="d69">
+<head>5)</head>
+<p>T. N. Lindsey paid his <abbr expan="account">at</abbr> of
+14.16. had George's <orig reg="colt">Cault</orig> shod <hi
+rend="super">behind</hi> very hard to shoe, <orig
+reg="Trimmed">Trimed</orig> apple trees after Dinner, bought
+4/4 <unclear>Angus</unclear> of Mr. Lindsey,</p>
+</div3>
+
+<div3 type="entry" n="1862-03-07" id="d70">
+<head>(7)</head>
+<p><orig reg="Hauling">Huling</orig> Wood in fore part of the
+day Plowing after Dinner <hi rend="super">wrote letter
+to Col Baldwin</hi> Preserving Currents +
+<del rend="none" hand="h1"></del>berry's</p>
+</div3>
+
+<div3 type="entry" n="1862-03-08" id="d71">
+<head>(8)</head>
+<p>Hauled Fodder 1/2 day hauled rock after Dinner went to
+funeral of Koontz's + <unclear>Biby's</unclear> children
+Rec<hi rend="super">d</hi> letter from Fannie Bettie
+is better</p>
+</div3>
+
+<div3 type="entry" n="1862-03-09" id="d72">
+<head>Sunday (9)</head>
+<p>went to church in morning in evening went to funeral of
+Helem's child,</p>
+</div3>
+
+<div3 type="entry" n="1862-03-10" id="d73">
+<head>(10)</head>
+<p>raining in morning Dinner Plowing, pruning Trees, removed
+Turnips to seller,</p>
+</div3>
+
+<div3 type="entry" n="1862-03-11" id="d74">
+<head>(11)</head>
+<p>sent 36 Dz egges 18 1/2 lbs Butter 2 1/2 bu<hi
+rend="super">s</hi> Turnips 1/2 bu<hi
+rend="super">s</hi> Beets to Staunton, lent Mrs
+Lindsey horse to go to her brothers, sent letter to Fannie
+enclosed $10 to her rec<hi rend="super">d</hi> pay
+for Eggs +c 20<hi rend="super">s</hi> for Eggs
+35<hi rend="super">s</hi> for Butter 50<hi
+rend="super">s</hi> for turnips + <del rend="none" hand="h1"></del> came
+that the <orig reg="Militia">Malitia</orig> must report
+themselves in Staunton on Friaday next with two days rations
+to march immediately to Winchester</p>
+</div3>
+
+<div3 type="entry" n="1862-03-12" id="d75">
+<head>(12)</head>
+<p>Sowed clover seed on rye in newground, received answer to
+letter from Col Baldwin,</p>
+</div3>
+
+<div3 type="entry" n="1862-03-13" id="d76">
+<head>(13)</head>
+<p>this is the day our of our regular Club meeting, but
+postponed until next Wednesday, by request of Mr.
+<unclear>Greding</unclear> at whose house we meet, Election
+day for or against nullifying the constitution to kept open 3
+days very votes polled to day    I acting as one of the
+commissioners, sowed plaster on rye + grass in new field in
+the morning commenced raining about 10 Oclock came thunder,
+rained nearly all day bought first reader for Frank found sow
+with a litter of 10 pigs, (in woods,) hope they may do well,
+this evening at candle lighting was appointed for prayer
+meeting, none attended owing to the excitement, sorry for
+it,</p>
+</div3>
+
+<div3 type="entry" n="1862-03-14" id="d77">
+<head>(14)</head>
+<p>Plowing, the <orig reg="Militia">Malitia</orig> order to
+report in Staunton, they returned in evening to report next
+morning, I attended the election all the time to day,</p>
+</div3>
+
+<div3 type="entry" n="1862-03-15" id="d78">
+<head>(15)</head>
+<p>went to Staunton for Fannie we returned in evening, rained
+nearly all day, the <orig reg="Militia">Malitia</orig> ordered
+to report Monday, some men from our neighborhood disgraced
+them selves + familys by running to the mountain, to avoid
+being drafted,</p>
+</div3>
+
+<div3 type="entry" n="1862-03-16" id="d79">
+<head>Sunday 16<hi rend="super">th</hi></head>
+<p>went to church small congregation.</p>
+</div3>
+
+<div3 type="entry" n="1862-03-17" id="d80">
+<head>(17)</head>
+<p>The 160 regiment of <orig reg="Militia">Malitia</orig>
+started for Strasburg where they have to report to Gen<hi
+rend="super">l</hi> Jackson, Mr. Dinkles little Maggie
+Died poor child had to suffer immense sick some 20 days, she
+is to be buried <orig reg="tomorrow">to morrow</orig> 11
+Oclock,</p>
+</div3>
+
+<div3 type="entry" n="1862-03-18" id="d81">
+<head>(18)</head>
+<p>helped dig grave, very pretty day,</p>
+</div3>
+
+<div3 type="entry" n="1862-03-19" id="d82">
+<head>(19)</head>
+<p>Farmer Club met at Mr. <unclear>Gredings</unclear>, 7
+members present, next meeting to be at Dr. Wilsons planted
+Peas in evening, commenced raining,</p>
+</div3>
+
+<div3 type="entry" n="1862-03-20" id="d83">
+<head>(20)</head>
+<p>went to Mr. Shueys sale bought Old side saddle, roads very
+bad, rained lightly all day in evening rained harder at night
+quite hard</p>
+</div3>
+
+<div3 type="entry" n="1862-03-21" id="d84">
+<head>21<hi rend="super">st</hi></head>
+<p>Snowing in morning</p>
+</div3>
+
+<div3 type="entry" n="1862-03-22" id="d85">
+<head>22<hi rend="super">nd</hi></head>
+<p>brought carriage body from saw mill</p>
+<p>22</p>
+<p>ground paint +c</p>
+</div3>
+
+<div3 type="entry" n="1862-03-23" id="d86">
+<head>23</head>
+<p>Sunday was at church no preaching, Prayer Meeting</p>
+</div3>
+
+<div3 type="entry" n="1862-03-24" id="d87">
+<head>24</head>
+<p>went to Staunton saw Mr Seig getting better, very cold,
+heard Federal troops left Winchester Gen. Jackson following
+them up,</p>
+</div3>
+
+<div3 type="entry" n="1862-03-25" id="d88">
+<head>(25)</head>
+<p>ground paint for carriage heard this evening Jackson had a
+battle five miles this side of Winchester on last Sunday heard
+he was repulsed with considerable loss, not know how many the
+Federals lost,</p>
+</div3>
+
+<div3 type="entry" n="1862-03-26" id="d89">
+<head>(26)</head>
+<p>settled with Mr. Hensel, Mr. Ervine called to day on his
+way to Mr. Crawford, did some spading in garden,</p>
+</div3>
+
+<div3 type="entry" n="1862-03-27" id="d90">
+<head>(27)</head>
+<p>Painted carriage, worked in garden +c</p>
+</div3>
+
+<div3 type="entry" n="1862-03-28" id="d91">
+<head>(28)</head>
+<p>Sowed clover seed + chopped on field above barn,</p>
+</div3>
+
+<div3 type="entry" n="1862-03-29" id="d92">
+<head>29</head>
+<p>Sowed plaster on wheat above barn + on wheat + grass in
+second field above orchard rained in evening froze on trees
++c</p>
+</div3>
+
+<div3 type="entry" n="1862-03-30" id="d93">
+<head>(30)</head>
+<p>Sunday went to Church at Churchville</p>
+</div3>
+
+<div3 type="entry" n="1862-03-31" id="d94">
+<head>(31)</head>
+<p>Sowed 3 bu<hi rend="super">s</hi> Barley in Corn
+stalks field sowed the balance in Oats 14 bu<hi
+rend="super">s</hi> plowed it in with double shovels
+without <orig reg="plowing">plowin</orig> with <del rend="none" hand="h1"></del></p>
+</div3>
+
+</div2>
+
+<div2 type="section" n="1862-04" id="d95">
+<head>April 1862 
+<!-- <ref></ref> -->  
+</head>
+
+<div3 type="entry" n="1862-04-02" id="d96">
+<head>April 2</head>
+<p>planted a row potatoes in garden 1 row peas,</p>
+</div3>
+
+<div3 type="entry" n="1862-04-03" id="d97">
+<head>Apl 3</head>
+<p>Planted Garden <del rend="none" hand="h1"></del> planted potatoes in patch behind
+Dry house,</p>
+</div3>
+
+<div3 type="entry" n="1862-04-04" id="d98">
+<head>4<hi rend="super">th</hi></head>
+<p>painted carriage</p>
+</div3>
+
+<div3 type="entry" n="1862-04-05" id="d99">
+<head>5</head>
+<p>Rained Hauled 1 Load to Everitt,</p>
+</div3>
+
+<div3 type="entry" n="1862-04-06" id="d100">
+<head>6 Sunday</head>
+<p>went to church,</p>
+</div3>
+
+<div3 type="entry" n="1862-04-07" id="d101">
+<head>Monday 4<hi rend="super">th</hi>,</head>
+<p>painted Carriage, Sowed plaster in field next to newground
+went to Staunton, snowed + sleeted all the evening</p>
+</div3>
+
+<div3 type="entry" n="1862-04-08" id="d102">
+<head><dateRange from="1862-04-08" to="1862-04-09">8<hi
+rend="super">th</hi> 9<hi rend="super">th</hi></dateRange></head>
+<p>rained sleeted + snowed both days made brooms, as many as
+12</p>
+</div3>
+
+<div3 type="entry" n="1862-04-10" id="d103">
+<head>10<hi rend="super">th</hi></head>
+<p>Farmers Club met at Dr. Wilsons, had a very pleasant time,
+Hauled wood 1 Load to Rev. Arnold 1 to Everitt 1 to Thomas,
+call to see Mr. Sellers in evening</p>
+</div3>
+
+<div3 type="entry" n="1862-04-11" id="d104">
+<head>11<hi rend="super">th</hi></head>
+<p>Hauled Wood 1 Load to Mr. Helms paid 1 2 to Mr Biby 1 to
+Rev. Arnold pruned Trees in Orchard <orig
+reg="trimmed">trimed</orig> George's Hair, made several
+chicken coops +c Have a young Calf</p>
+</div3>
+
+<div3 type="entry" n="1862-04-12" id="d105">
+<head>12</head>
+<p>Hauled Leaves in barn yard Home company met at churchville
++ organized they are to meet next Saturday 3 <orig
+reg="o'clock">Ocloc</orig>,</p>
+</div3>
+
+<div3 type="entry" n="1862-04-13" id="d106">
+<head>Sunday 13<hi rend="super">th</hi></head>
+<p>went to church</p>
+</div3>
+
+<div3 type="entry" n="1862-04-14" id="d107">
+<head>Monday 14<hi rend="super">th</hi></head>
+<p>Sowed Oats it was too wet quite sowed clover seed where I
+sowed oats, harrowed corn after dinner, still cloudy + has
+been nearly every day since the 5<hi
+rend="super">th</hi>)</p>
+</div3>
+
+<div3 type="entry" n="1862-04-15" id="d108">
+<head>15<hi rend="super">th</hi></head>
+<p>Raining, brought 6 Barrels flour from Mill put it in smoke
+House Hauled C. 1 Load wood</p>
+</div3>
+
+<div3 type="entry" n="1862-04-16" id="d109">
+<head>16<hi rend="super">th</hi></head>
+<p>Presbytery met at Union church Rev. Mr. Junkin preached the
+opening <del rend="none" hand="h1"></del> <del rend="none" hand="h1"></del></p>
+</div3>
+
+<div3 type="entry" n="1862-04-17" id="d110">
+<head><dateRange from="1862-04-17" to="1862-04-18">17 18</dateRange></head>
+<p>was over every day adjourned to day very pleasant
+meeting</p>
+</div3>
+
+<div3 type="entry" n="1862-04-19" id="d111">
+<head>19<hi rend="super">th</hi></head>
+<p>Dr McFarland preached rained very hard army <del rend="none" hand="h1"></del></p>
+</div3>
+
+<div3 type="entry" n="1862-04-20" id="d112">
+<head>20</head>
+<p>Sunday Sacrament very rainy very few persons at church
+Great Excitement caused by a move ment in the Army excitement
+on yesterday still continues rained all day</p>
+</div3>
+
+<div3 type="entry" n="1862-04-21" id="d113">
+<head>21<hi rend="super">st</hi></head>
+<p>Rained all day + at night last night water high excitement
+not abated Gen<hi rend="super">l</hi> Johnson passed
+through Churchville to day on his way to his army at West View
+took Dinner with Mr. Lindsey Mr. Emmerson at my house Mr.
+Price left this morning</p>
+</div3>
+
+<div3 type="entry" n="1862-04-22" id="d114">
+<head>22<hi rend="super">nd</hi></head>
+<p>went part the way with Rebecca on her way to her school,
+<orig reg="stopped">stoped</orig> at the camp near west View
+found the soldiers in fine Spirits</p>
+</div3>
+
+<div3 type="entry" n="1862-04-23" id="d115">
+<head>23</head>
+<p>Great excitement concerning the move ment of the enemy some
+of their scouts in Jennings Gap took W<hi
+rend="underline"><hi rend="super">m</hi></hi> Hite
+prisoner with two others.  <orig reg="Number">Nomber</orig> of
+our cavalry in churchville scouting the roads we expect the
+enemy in here Howard Hudson here</p>
+</div3>
+
+<div3 type="entry" n="1862-04-24" id="d116">
+<head>24<hi rend="super">th</hi></head>
+<p>Sent 10 pieces Bacon to Mr. Lindseys 9 hams 1 <orig
+reg="shoulder">Sholder</orig>, sent Mr. Dedrick 113 lbs Bacon
+sent Barrels To J Hanger</p>
+</div3>
+
+<div3 type="entry" n="1862-04-25" id="d117">
+<head>April 25</head>
+<p>Sent <abbr expan="Captain">Capt</abbr>
+<unclear>Hottle</unclear> horse to aide to Mt Solon J. B.
+Sellers rode bay horse <unclear>Fan</unclear> To Rockbridge to
+have her out of the way of the Federals if they come in he is
+to sell her if not return her,</p>
+</div3>
+
+<div3 type="entry" n="1862-04-26" id="d118">
+<head>26<hi rend="super">th</hi></head>
+<p>brought <unclear>brand</unclear> + some Flour from J. H.
+<del rend="none" hand="h1"></del> excitement still prevailing not knowing what the
+move ment of our army will be, the evacuation of the Valley
+seem evident, sold 76 lbs Bacon to Camp at Churchville</p>
+</div3>
+
+<div3 type="entry" n="1862-04-27" id="d119">
+<head>Sunday 27<hi rend="super">t</hi></head>
+<p>went to church but few numbers, Bishop Glossbrenner
+preached at churchville in evening large assembly sent 100 lbs
+Bacon to camp at Churchville <orig reg="Clear">Clar</orig>
+weather</p>
+</div3>
+
+<div3 type="entry" n="1862-04-28" id="d120">
+<head>28</head>
+<p>Heard to day the Federals leaving the grass gone across
+<orig reg="Shenandoah">Shannandoah</orig> Mountain Harrowed in
+corn ground Capt Hottle returned with horse sent G M. with him
+to coamp still clear</p>
+</div3>
+
+<div3 type="entry" n="1862-04-29" id="d121">
+<head>29</head>
+<p>Sowed Oats cloudy rained some in morning, Shearing sheep,
+sent 10 bu<hi rend="super">s</hi> Oats to Camp
+Churchville Rockbridge Cavalry</p>
+</div3>
+
+<div3 type="entry" n="1862-04-30" id="d122">
+<head>30<hi rend="super">th</hi></head>
+<p>31 1/2 bu<hi rend="super">s</hi> Oats by Mr.
+Myers, sowing Oats, washed Wool, Planted peas + Beans 30
+bu<hi rend="super">s</hi> Oats to Rockbridge Cavalry
+Cloudy some rain,</p>
+</div3>
+
+</div2>
+
+<div2 type="section" n="1862-05" id="d123">
+<head>May 1862 
+<!-- <ref></ref> -->  
+</head>
+
+<div3 type="entry" n="1862-05-01" id="d124">
+<head>May 1<hi rend="super">st</hi></head>
+<p>Cloudy + Drizling rain rained all night, 30 bu<hi
+rend="super">s</hi> Oats Rockbridge Cavalry 70 1/2 lbs
+Bacon R. C, sowed clover seed</p>
+</div3>
+
+<div3 type="entry" n="1862-05-02" id="d125">
+<head>2<hi rend="super">nd</hi></head>
+<p>Clear this morning, shower rain at 2 Oclock, lent Andrew
+Ervine horse to go home to be back tomorrow Mare Souce Has a
+colt this morning boys repairing fence, pruned apple trees,
+sent Ja<hi rend="super">s</hi> Henry to Staunton
+with a check from Mssers Hotchkiss to pay note in Col Baylors
+hands Baylor did not receive it 20 1/2 bu<hi
+rend="super">s</hi> Oats to R Cavalry 6 to Churchville
+D<hi rend="super">o</hi> <unclear>Daved</unclear>
+Bear Hopkins + Whitner stayed all night, with us,</p>
+</div3>
+
+<div3 type="entry" n="1862-05-03" id="d126">
+<head>3<hi rend="super">rd</hi></head>
+<p>Harrowing corn ground very pretty day, 29 bu<hi
+rend="super">s</hi> Oats R. C. 60 lbs Bacon C. C. A
+Ervine <hi rend="underline">returned</hi> with horse,
+Lieutenant Hanger Q. M. paid me $35 75-</p>
+</div3>
+
+<div3 type="entry" n="1862-05-04" id="d127">
+<head>Sunday 4<hi rend="super">th</hi></head>
+<p>went to church at Churchville Rev Mr. Arnold preached.
+Rev. Mr. Walker preached in evening</p>
+</div3>
+
+<div3 type="entry" n="1862-05-05" id="d128">
+<head>5<hi rend="super">th</hi></head>
+<p>Commenced planting corn, sold 15 lbs Bacon ham to Capt
+Mc<del rend="none" hand="h1"></del> sold 71 lbs Bacon to R. C. 22 lbs to C. C. heard
+to day Gen Jackson bringing reinforcemtns to Staunton Federals
+at <orig reg="McDowall">McDowal</orig> some this side <orig
+reg="Shenandoah">Shannandoah</orig> Mountain expect an attack
+in a few days</p>
+</div3>
+
+<div3 type="entry" n="1862-05-06" id="d129">
+<head>6<hi rend="super">th</hi></head>
+<p>Sold 41 lbs Bacon to Charlotte Cavalry, 61 lbs D to
+Churchville <abbr expan="Cavalry">Ca</abbr> finished planting
+in far field</p>
+</div3>
+
+<div3 type="entry" n="1862-05-07" id="d130">
+<head>7<hi rend="super">th</hi></head>
+<p>Harrowing for corn helped J. H. B Sellers to plant corn
+Col. Johnson passing with his army through the Mountain,</p>
+</div3>
+
+<div3 type="entry" n="1862-05-08" id="d131">
+<head>8<hi rend="super">th</hi></head>
+<p>Planting corn very pretty weather, heard cannon from 12 to
+about 3 Oclock supposed to be the federals on Bull pasture
+Mountain,</p>
+</div3>
+
+<div3 type="entry" n="1862-05-09" id="d132">
+<head>9<hi rend="super">th</hi></head>
+<p>finished planting corn in chesnut tree field</p>
+</div3>
+
+<div3 type="entry" n="1862-05-10" id="d133">
+<head>10<hi rend="super">th</hi></head>
+<p>Dennis + the boys helped C. B to plant corn, finished
+plowing in orchard, <unclear>rode</unclear> <del rend="none" hand="h1"></del> to Dr
+Wilsons</p>
+</div3>
+
+<div3 type="entry" n="1862-05-11" id="d134">
+<head>Sunday 11<hi rend="super">t</hi></head>
+<p>went to church at Churchville Rev Mr. Davis preached,
+Bishop Glossbrenner preached in evening</p>
+</div3>
+
+<div3 type="entry" n="1862-05-12" id="d135">
+<head>12<hi rend="super">t</hi>\</head>
+<p>Sowed Oats in Orchard + Sowed orchard Grass + Clover after
+dinner commenced plowin in Mr. Hotchkiss's field,</p>
+</div3>
+
+<div3 type="entry" n="1862-05-13" id="d136">
+<head>13<hi rend="super">th</hi></head>
+<p>Raining set out plants +ce.</p>
+</div3>
+
+<div3 type="entry" n="1862-05-15" id="d137">
+<head>15<hi rend="super">th</hi></head>
+<p>Farmers Club met at Mr. Hotchkiss had a good time, Cavalry
+left Churchville, Genl Jacksons army came on this side of S.
+Mountain, raining nearly all day,</p>
+</div3>
+
+<div3 type="entry" n="1862-05-16" id="d138">
+<head>16<hi rend="super">th</hi></head>
+<p>Went to church very few persons <orig
+reg="there">their</orig> <del rend="none" hand="h1"></del> wagons across the river
+<unclear>to day</unclear> in evening visited Army in Jennings
+Gap, returned home at dark found a lot of soldiers at my house
+for the night,</p>
+</div3>
+
+<div3 type="entry" n="1862-05-17" id="d139">
+<head>17<hi rend="super">th</hi></head>
+<p>Rained all day Hauled 2 Loads Wood to Mr. Biby commenced
+plowing in orchard, helped Mr Hotchkiss to
+<unclear>scrape</unclear> manure, took Mare Huldy to Dr
+Wilsons, 3 soldiers here for the night with 2 Ambulances,
+Sidney + Ja<hi rend="super">s</hi> H went to Mr.
+Trimbles, cloudy + warm Gen. Jacksons + Johnson's army near S.
+Springs,</p>
+</div3>
+
+<div3 type="entry" n="1862-05-18" id="d140">
+<head>18<hi rend="super">th</hi> Sunday</head>
+<p>went to church Churchville, Sacrament administered,
+Methodist,</p>
+</div3>
+
+<div3 type="entry" n="1862-05-19" id="d141">
+<head>19<hi rend="super">th</hi></head>
+<p>Plowing at Mr. Hotchkiss, Plowing in Orchard at home, had
+Mare Fran to <unclear>Jack</unclear>,</p>
+</div3>
+
+<div3 type="entry" n="1862-05-20" id="d142">
+<head>20<hi rend="super">th</hi></head>
+<p>finished Plowing Orchard Marked calves, +c,</p>
+</div3>
+
+<div3 type="entry" n="1862-05-21" id="d143">
+<head>21<hi rend="super">st</hi></head>
+<p>Planted corn in orchard some sugar Cane,</p>
+</div3>
+
+<div3 type="entry" n="1862-05-22" id="d144">
+<head>22<hi rend="super">n</hi></head>
+<p>Election for Sheriff Commissioners of revenue +c, very few
+votes,</p>
+</div3>
+
+<div3 type="entry" n="1862-05-23" id="d145">
+<head>23<hi rend="super">rd</hi></head>
+<p><del rend="none" hand="h1"></del> corn ground at <abbr
+expan="Hotchkiss's">Hotch</abbr></p>
+</div3>
+
+<div3 type="entry" n="1862-05-24" id="d146">
+<head>24<hi rend="super">th</hi></head>
+<p>Planted corn rained slightly all day,</p>
+</div3>
+
+<div3 type="entry" n="1862-05-25" id="d147">
+<head>Sunday 25<hi rend="super">t</hi></head>
+<p>went to church at Churchville</p>
+</div3>
+
+<div3 type="entry" n="1862-05-26" id="d148">
+<head>26<hi rend="super">t</hi></head>
+<p>took my Cattle to Mountain (7 head) Harden Plowing Corn</p>
+</div3>
+
+<div3 type="entry" n="1862-05-27" id="d149">
+<head>27<hi rend="super">th</hi></head>
+<p>Planting potatoes in Orchard, received 147.75/100 Dollars
+of G. A. Hanger Q. M. have on hand 340$</p>
+</div3>
+
+<div3 type="entry" n="1862-05-28" id="d150">
+<head>28<hi rend="super">th</hi></head>
+<p>went to Staunton lent Dr Wilson 2 horses + driver to haul a
+load of lumber to Staunton, helped Mr. Hotchkiss to haul
+Manure with 2 hands + one two horse wagon</p>
+</div3>
+
+<div3 type="entry" n="1862-05-29" id="d151">
+<head>29<hi rend="super">th</hi></head>
+<p>Went round to hire teams to start to Winchester to morrow
+for stores taken by our army from enemy succeeded very well
+fixed up my team with Capt Sterretts.</p>
+</div3>
+
+<div3 type="entry" n="1862-05-30" id="d152">
+<head>30<hi rend="super">th</hi></head>
+<p>Going with teams have charge of them have 80$n have 7.50$
+for Mr. E. (Teams went by Staunton) Started to Harrisonburg by
+way of <del rend="none" hand="h1"></del> took Frank with me, <orig
+reg="stopped">stoped</orig> at mr. Ferry's out of a storm
+hailed considerable, arrived in Harrisonburg in evening but my
+horse at tavern stayed with mr. Bell,</p>
+</div3>
+
+<div3 type="entry" n="1862-05-31" id="d153">
+<head>31<hi rend="super">st</hi></head>
+<p>Teams arrived here about 12 Oclock, paid Mr. Effinger $7.50
+stayed all night with A. B. <del rend="none" hand="h1"></del> about 3 miles from
+town,</p>
+</div3>
+
+</div2>
+
+<div2 type="section" n="1862-06-01" id="d154">
+<head>June 1862 
+<!-- <ref></ref> -->  
+</head>
+
+<div3 type="entry" n="1862-06-01" id="d155">
+<head>Sunday June 1<hi rend="super">st</hi></head>
+<p>Started to over take teames, teames ordered back when they
+were a short distance below Mt Jackson, owing to the advance
+of the enemy,</p>
+</div3>
+
+<div3 type="entry" n="1862-06-02" id="d156">
+<head>(2<hi rend="super">nd</hi>)</head>
+<p>passed through HB. loaded my teams with hauling from
+Rockingham teams, traveled up + crossed the South river,
+stayed all night on on the back of River rained during night
+very hard,</p>
+</div3>
+
+<div3 type="entry" n="1862-06-03" id="d157">
+<head>3<hi rend="super">rd</hi></head>
+<p>River fast fording, delivered our Loads at Staunton all
+safe, arrived home in evening</p>
+</div3>
+
+<div3 type="entry" n="1862-06-04" id="d158">
+<head>Wednesday 4<hi rend="super">th</hi></head>
+<p>rained all last night waters very high rained all day</p>
+</div3>
+
+<div3 type="entry" n="1862-06-05" id="d159">
+<head>Thursday 5<hi rend="super">th</hi></head>
+<p>Wading Oats <del rend="none" hand="h1"></del> <del rend="none" hand="h1"></del> thining corn was sick
+all day,</p>
+</div3>
+
+<div3 type="entry" n="1862-06-06" id="d160">
+<head>Friday 6<hi rend="super">th</hi></head>
+<p>Wm A <del rend="none" hand="h1"></del> <unclear>shipped</unclear> with us on his
+way home from army sick looking very badly went home with him
+in evening, stayed all night Fannie + Frank was along, left
+the boys to plant potatoes +c</p>
+</div3>
+
+<div3 type="entry" n="1862-06-07" id="d161">
+<head>Saturday 7<hi rend="super">th</hi></head>
+<p>went to Mountain to Salt Cattle failed to find them,
+returned home in the evening very tired found Mr. Boyd + Mr.
+Whitmere at my house, traveling out of the way of enemy,</p>
+</div3>
+
+<div3 type="entry" n="1862-06-08" id="d162">
+<head>Sunday 8<hi rend="super">th</hi></head>
+<p>went to Churchville to church Bishop Glosbrenner
+preached</p>
+</div3>
+
+<div3 type="entry" n="1862-06-09" id="d163">
+<head>Monday 9<hi rend="super">th</hi></head>
+<p>heard cannonading from 7 Oclock until about 9 in the
+direction of Port republic, Mr. Byod + Whitmere started up the
+valley Plowing corn very cool in morning, commenced raining
+about 3 Oclock, rained until night,</p>
+</div3>
+
+<div3 type="entry" n="1862-06-10" id="d164">
+<head>Tuesday 10<hi rend="super">th</hi></head>
+<p>raining sold steer to government sent him in Mr. Siegs lot
+he to receive pay for him weigh 966 lbs helped to lot of
+cattle beyond Staunton very little news to day concerning army
+Genl Jackson repulsed the enemy on yesterday with considerable
+loss to enemy has now in Browns Gap awaiting reinforcements,
+considerable of his men wounded</p>
+</div3>
+
+<div3 type="entry" n="1862-06-11" id="d165">
+<head>Wednesday 11<hi rend="super">th</hi></head>
+<p>thining corn, set out potatoe slips,</p>
+</div3>
+
+<div3 type="entry" n="1862-06-12" id="d166">
+<head>Thursday 12<hi rend="super">th</hi></head>
+<p>F Clubs met at Chapt Sandersons, very pleasant time
+adjourned to meet 2<hi rend="super">nd</hi> Thursday
+in August at Ja<hi rend="super">s</hi> Wilsons Esq,
+quite clear + warm good day for wheat + corn, wheat threatened
+with rust, paid to F Club Ten Dollar for Mule <del rend="none" hand="h1"></del>,</p>
+</div3>
+
+<div3 type="entry" n="1862-06-13" id="d167">
+<head>Friday 13<hi rend="super">th</hi></head>
+<p>Sent by Ja<hi rend="super">s</hi> F. Bell $129.50
+to pay to J. B. Trimble, for Lindsey Wilson +
+<unclear>Bear</unclear> rec<hi rend="super">d</hi>
+of Bell $28 for sheep replanted corn in Orchard</p>
+</div3>
+
+<div3 type="entry" n="1862-06-14" id="d168">
+<head>Saturday 14<hi rend="super">th</hi></head>
+<p>Plowed corn Ja<hi rend="super">s</hi> Henry
+Plowing for C Bear</p>
+</div3>
+
+<div3 type="entry" n="1862-06-15" id="d169">
+<head>Sunday 15</head>
+<p>Went to church Churchville,</p>
+</div3>
+
+<div3 type="entry" n="1862-06-16" id="d170">
+<head>Monday 16<hi rend="super">th</hi></head>
+<p>finished Plowin <unclear>one</unclear> corn at home went to
+field at Mr. Hotchkiss after dinner, very cool weather feels
+like frost,</p>
+</div3>
+
+<div3 type="entry" n="1862-06-17" id="d171">
+<head>Tuesday 17</head>
+<p>still cool finished plowing at Mr. Hotchkiss, plowed Mr.
+Biby's lot</p>
+</div3>
+
+<div3 type="entry" n="1862-06-18" id="d172">
+<head>(Wednesday 18)</head>
+<p>planted potatoes in peach Orchard <del rend="none" hand="h1"></del> Hauled Wood
+Plowed Mr. Arnolds lot + Mr Lechtilers, Mr. Nicholas Rhyon
+paid me 25 Dollars for Bacon got one years age</p>
+</div3>
+
+<div3 type="entry" n="1862-06-19" id="d173">
+<head>(Thursday 19<hi rend="super">th</hi>)</head>
+<p>commenced plowing back of orchard for Buck Wheat, plowing +
+bowing corn, one hand mowing clover</p>
+</div3>
+
+<div3 type="entry" n="1862-06-20" id="d174">
+<head>(Friday 20<hi rend="super">th</hi>)</head>
+<p>plowing + hoeing corn all hands, Uncle Andrew <del rend="none" hand="h1"></del>
+us a visit</p>
+</div3>
+
+<div3 type="entry" n="1862-06-21" id="d175">
+<head>Saturday 21<hi rend="super">th</hi></head>
+<p>finished hoeing the upper field corn boy brought in lot of
+hay + went Fishing after dinner</p>
+</div3>
+
+<div3 type="entry" n="1862-06-22" id="d176">
+<head>Sunday 22<hi rend="super">st</hi></head>
+<p>went to church</p>
+</div3>
+
+<div3 type="entry" n="1862-06-23" id="d177">
+<head>Monday 23<hi rend="super">nd</hi></head>
+<p>howeing corn in chesnut tree field</p>
+</div3>
+
+<div3 type="entry" n="1862-06-24" id="d178">
+<head>(Tuesday) 24<hi rend="super">rd</hi></head>
+<p>went to mountain to salt cattle only found two,</p>
+</div3>
+
+<div3 type="entry" n="1862-06-25" id="d179">
+<head>Wednesday 25</head>
+<p>working in corn boys mowing</p>
+</div3>
+
+<div3 type="entry" n="1862-06-26" id="d180">
+<head>(Thursday) 26<hi rend="super">th</hi></head>
+<p>working in corn</p>
+</div3>
+
+<div3 type="entry" n="1862-06-27" id="d181">
+<head>(Friday) 27</head>
+<p>making + hauling hay</p>
+</div3>
+
+<div3 type="entry" n="1862-06-28" id="d182">
+<head>Saturday 28<hi rend="super">th</hi></head>
+<p>Sent Mr. Tates note by Ja<hi rend="super">s</hi>
+Henry for collection he left it with Ja<hi
+rend="super">s</hi> F Bell.</p>
+</div3>
+
+<div3 type="entry" n="1862-06-29" id="d183">
+<head>Sunday 29<hi rend="super">th</hi></head>
+<p>went to church at churchville</p>
+</div3>
+
+<div3 type="entry" n="1862-06-30" id="d184">
+<head>Monday 30</head>
+<p>Plowing at Mr Hotchkiss for Buck Wheat made hay +c.</p>
+</div3>
+
+<div3 type="entry" n="1862-07-01" id="d185">
+<head>Tuesday July 1</head>
+<p>Ja<hi rend="super">s</hi> H + Hardin helped Mr
+Hotchkiss to harvest finished plowing sowed B wheat plowed
+<del rend="none" hand="h1"></del> in</p>
+</div3>
+
+<div3 type="entry" n="1862-07-02" id="d186">
+<head>Wednesday 2<hi rend="super">nd</hi></head>
+<p>rained all day</p>
+</div3>
+
+<div3 type="entry" n="1862-07-03" id="d187">
+<head>Thursday 3<hi rend="super">rd</hi></head>
+<p>Ja<hi rend="super">s</hi> H + Dennis helped Mr H.
+to harvest finished sowing B Wheat in bottom sawed 5 bu<hi
+rend="super">s</hi> Harvested <unclear>some</unclear>
+at home</p>
+</div3>
+
+<div3 type="entry" n="1862-07-04" id="d188">
+<head>Friday 4</head>
+<p>Ja<hi rend="super">s</hi> H + Dennis cutting
+wheat Harden Plowing back of orchard woed B. Wheat 2 bu<hi
+rend="super">s</hi> + 1 bu<hi
+rend="super">s</hi> Rye harrowed it twice G. M. went
+for Rebecca this evening, Cherry ripe</p>
+</div3>
+
+<div3 type="entry" n="1862-07-05" id="d189">
+<head>Saturday 5<hi rend="super">th</hi></head>
+<p>Cutting Wheat three hands from Mr. Hotchkiss</p>
+</div3>
+
+<div3 type="entry" n="1862-07-06" id="d190">
+<head>Sunday 6<hi rend="super">th</hi></head>
+<p>pd 50 in collection</p>
+</div3>
+
+<div3 type="entry" n="1862-07-07" id="d191">
+<head>Monday 7<hi rend="super">th</hi></head>
+<p>cutting Wheat 3 hands from Mr. Hotchkiss</p>
+</div3>
+
+<div3 type="entry" n="1862-07-08" id="d192">
+<head>Tuesday 8<hi rend="super">th</hi></head>
+<p>sent Ja<hi rend="super">s</hi> Henry George +
+Hardin to Mr. Hotchkiss</p>
+</div3>
+
+<div3 type="entry" n="1862-07-09" id="d193">
+<head>Wednesday 9<hi rend="super">t</hi></head>
+<p>sent Ja<hi rend="super">s</hi> Henry to Mr.
+Hotchkiss still cutting at home Wheat dead ripe</p>
+</div3>
+
+<div3 type="entry" n="1862-07-10" id="d194">
+<head>Thursday 10<hi rend="super">th</hi></head>
+<p>Finished cutting grain by 5 Oclock, went to C B + cut after
+supper</p>
+</div3>
+
+<div3 type="entry" n="1862-07-11" id="d195">
+<head>Friday 11<hi rend="super">t</hi></head>
+<p><orig reg="raining">rainin</orig> in the morning finished
+cutting C. B. grain after Dinner</p>
+</div3>
+
+<div3 type="entry" n="1862-07-12" id="d196">
+<head>Saturday 12</head>
+<p>Dennis + Hardin harvesting for themselves Cleaned Garden +
+sugar cane Ja<hi rend="super">s</hi> Henry harvested
+at Mr. Sterretts after dinner</p>
+</div3>
+
+<div3 type="entry" n="1862-07-13" id="d197">
+<head>Sunday 13</head>
+<p>went to church</p>
+</div3>
+
+<div3 type="entry" n="1862-07-14" id="d198">
+<head>Monday 14<hi rend="super">t</hi></head>
+<p>hoed <orig reg="potatoes">pottatoes</orig> +c Ja<hi
+rend="super">s</hi> Henry + Dennis plowing corn</p>
+</div3>
+
+<div3 type="entry" n="1862-07-15" id="d199">
+<head>Tuesday 15<hi rend="super">t</hi></head>
+<p>Plowing Corn +c finished hoeing Potatoes + Beans rain in
+evening</p>
+</div3>
+
+<div3 type="entry" n="1862-07-16" id="d200">
+<head>Wednesday 16</head>
+<p>Hauling in Wheat hauled 102 Dz out of field at barn, Shower
+of rain in evening Ja<hi rend="super">s</hi> F. Bell
+here for hands to Harvest, W<hi rend="super">m</hi>
+Sellers + Mr Wood here on a Visit, rained nearly all night was
+7 Days cutting grain</p>
+</div3>
+
+<div3 type="entry" n="1862-07-17" id="d201">
+<head>Thursday 17<hi rend="super">th</hi></head>
+<p>Sent Ja<hi rend="super">s</hi> Henry George
+Dennis + Hardin to help Ja<hi rend="super">s</hi> F.
+Bell harvest very warm in morning rained about 1 Oclock
+continued all evening very gentle rain
+<unclear>rited</unclear> up my Wheat stacks in morning</p>
+</div3>
+
+<div3 type="entry" n="1862-07-18" id="d202">
+<head>Friday 18<hi rend="super">th</hi></head>
+<p>Rained all day Mended Bridles +c</p>
+</div3>
+
+<div3 type="entry" n="1862-07-19" id="d203">
+<head>Saturday 19<hi rend="super">t</hi></head>
+<p>put brush to cucumber Vines, set out some sweet potatoe
+slips sold Dr Cosin 14 lbs Bacon 1/6</p>
+</div3>
+
+<div3 type="entry" n="1862-07-20" id="d204">
+<head>Sunday 20<hi rend="super">t</hi></head>
+<p>went to church Rained about 2 Oclock</p>
+</div3>
+
+<div3 type="entry" n="1862-07-21" id="d205">
+<head>Monday 21<hi rend="super">st</hi></head>
+<p>Hauling in Wheat with two 2 horse teams Rebecca gave me 5$
+on deposit</p>
+</div3>
+
+<div3 type="entry" n="1862-07-22" id="d206">
+<head>Tuesday 22</head>
+<p>Hauling in Grain Finished Hauling Wheat</p>
+</div3>
+
+<div3 type="entry" n="1862-07-23" id="d207">
+<head>Wednesday 23<hi rend="super">rd</hi></head>
+<p>Plowin corn mowing +c brought Mr Bells mower down</p>
+</div3>
+
+<div3 type="entry" n="1862-07-24" id="d208">
+<head>Thursday 24<hi rend="super">th</hi></head>
+<p>Mowing with mower, cut C B. Oats</p>
+</div3>
+
+<div3 type="entry" n="1862-07-25" id="d209">
+<head>Friday 25</head>
+<p>finished mowing in with mower put up hay +c Hauled C B.
+Oats</p>
+</div3>
+
+<div3 type="entry" n="1862-07-26" id="d210">
+<head>Saturday 26</head>
+<p>rained last night put up hay in meadow sent Mr. Hotchkiss
+43 lbs Bacon, plowed Corn fine morning rained a shower about
+sundown</p>
+</div3>
+
+<div3 type="entry" n="1862-07-27" id="d211">
+<head>Sunday 27<hi rend="super">th</hi></head>
+<p>went to church</p>
+</div3>
+
+<div3 type="entry" n="1862-07-28" id="d212">
+<head>Monday 28<hi rend="super">th</hi></head>
+<p>Stacked Hay in meadow</p>
+</div3>
+
+<div3 type="entry" n="1862-07-29" id="d213">
+<head>Tuesday 29<hi rend="super">t</hi></head>
+<p>stacked Hay in field commenced cutting Oats</p>
+</div3>
+
+<div3 type="entry" n="1862-07-30" id="d214">
+<head>Wednesday 30<hi rend="super">th</hi></head>
+<p>rained slower in morning plowed + hoed potatoes Hauled Oats
+in evening</p>
+</div3>
+
+<div3 type="entry" n="1862-07-31" id="d215">
+<head>Thursday 31<hi rend="super">st</hi></head>
+<p>Cloudy all day hauled in some Oats + hay finished cutting
+Oats in back field, commenced mowing in meadow at barn
+exchanged horses with Mr. Sickliter he wanting a gentle one to
+work in buggy</p>
+</div3>
+
+</div2>
+
+<div2 type="section" n="1862-08" id="d216">
+<head>August 1862 
+<!-- <ref></ref> -->  
+</head>
+
+<div3 type="entry" n="1862-08-01" id="d217">
+<head>August 1st<lb/>Friday</head>
+<p>Hauling Oats</p>
+</div3>
+
+<div3 type="entry" n="1862-08-02" id="d218">
+<head>Saturday 2<hi rend="super">d</hi></head>
+<p>finished mowing meadow below barn put up the hay in evening
+finished hauling Oats open field cut oats in Orchard</p>
+</div3>
+
+<div3 type="entry" n="1862-08-03" id="d219">
+<head>Sunday 3<hi rend="super">rd</hi></head>
+<p>went to Church preaching in evening by Mr. Walker in
+Churchville</p>
+</div3>
+
+<div3 type="entry" n="1862-08-04" id="d220">
+<head>Monday 4<hi rend="super">t</hi></head>
+<p>Stacked Hay in meadow commenced mowing in back field</p>
+</div3>
+
+<div3 type="entry" n="1862-08-05" id="d221">
+<head>Tuesday 5<hi rend="super">th</hi></head>
+<p>Hauled in Oats out of Orchard finished cutting hay in back
+field + put it all up cutting Timothy seed, sowed Turnip seed,
+helped C B put up hay in evening Rec<hi
+rend="super">d</hi> Twelve Dollars of Mr. Harauf by
+the hands of C. B. J D Imbodens company of artillery camped at
+Mrs Siegs to night</p>
+</div3>
+
+<div3 type="entry" n="1862-08-06" id="d222">
+<head>Wednesday 6<hi rend="super">th</hi></head>
+<p>Stacked hay hauled in grass seed rained at 2 Oclock dug
+potatoes in garden sowed turnip seed, J Henry helped Ja<hi
+rend="super">s</hi> F Bell to mow +c</p>
+</div3>
+
+<div3 type="entry" n="1862-08-07" id="d223">
+<head>Thursday 7<hi rend="super">th</hi></head>
+<p>stacked hay for C. B. measured up 6 Bu<hi
+rend="super">s</hi> potatoes to take to Staunton to
+morrow borrowed Mr. Lindseys wagon</p>
+</div3>
+
+<div3 type="entry" n="1862-08-08" id="d224">
+<head>Friday 8<hi rend="super">th</hi></head>
+<p>went to Staunton Sidney along, sold potatoes at 3<hi
+rend="super">52</hi> per Bu<hi
+rend="super">s</hi> Bacon 35<hi
+rend="super">c</hi> Rec<hi
+rend="super">d</hi> for Bacon potatoes +c 39.50 paid
+12 Dollar to Dr Chapman for Dentist Work done for Sidney</p>
+</div3>
+
+<div3 type="entry" n="1862-08-09" id="d225">
+<head>Saturday 9<hi rend="super">t</hi></head>
+<p>Went to Mountain to salt Cattle brought steer home, Sowed
+turnip seed in newground,</p>
+</div3>
+
+<div3 type="entry" n="1862-08-10" id="d226">
+<head>Sunday 10<hi rend="super">t</hi></head>
+<p>Went to church at Churchville</p>
+</div3>
+
+<div3 type="entry" n="1862-08-11" id="d227">
+<head>Monday 11<hi rend="super">th</hi></head>
+<p>Hauling manure</p>
+</div3>
+
+<div3 type="entry" n="1862-08-12" id="d228">
+<head>Tuesday 12<hi rend="super">th</hi></head>
+<p>Went to Rockingham</p>
+</div3>
+
+<div3 type="entry" n="1862-08-13" id="d229">
+<head>Wednesday 13<hi rend="super">th</hi></head>
+<p>returned home Ja<hi rend="super">s</hi> H George
++ Dennis helped Mr Hotchkiss to thrash after noon</p>
+</div3>
+
+<div3 type="entry" n="1862-08-14" id="d230">
+<head>Thursday 14<hi rend="super">th</hi></head>
+<p>Club met at Esqr Wilsons we adjourned to meet at Mr.
+Dudleys on the 2nd Thursday Sept, Rec<hi
+rend="super">d</hi> of H. B. Sieg 57.86 for steer sold
+to Confederacy, p<hi rend="super">d</hi> Mr. Sieg
+1.75 for work done last summer, Ja<hi
+rend="super">s</hi> H. + George helping Mr Hotchkiss
+to thrash</p>
+</div3>
+
+<div3 type="entry" n="1862-08-15" id="d231">
+<head>Friday 15<hi rend="super">t</hi></head>
+<p>Still Hauling manure went to church at churchville Mr. H
+finished thrashing this morning about 9 Oclock</p>
+</div3>
+
+<div3 type="entry" n="1862-08-16" id="d232">
+<head>Saturday 16<hi rend="super">th</hi></head>
+<p>Went to church Churchville, Lutherans have a conference
+meeting</p>
+</div3>
+
+<div3 type="entry" n="1862-08-17" id="d233">
+<head>Sunday 17<hi rend="super">th</hi></head>
+<p>went to Church churchville - sacrament administer in
+Lutheran Church</p>
+</div3>
+
+<div3 type="entry" n="1862-08-18" id="d234">
+<head>Monday 18<hi rend="super">th</hi></head>
+<p>Thrashed Oats</p>
+</div3>
+
+<div3 type="entry" n="1862-08-19" id="d235">
+<head>Tuesday 19<hi rend="super">th</hi></head>
+<p>Thrashed Timothy seed +c paid Ja<hi
+rend="super">s</hi> F Bell for Ja<hi
+rend="super">s</hi> B Trimbles note against Lindsey
+Wilson + Bear 94.30 out of my own funds,</p>
+</div3>
+
+<div3 type="entry" n="1862-08-20" id="d236">
+<head>Wednesday 20<hi rend="super">th</hi></head>
+<p>boys went to Mountain for <unclear>Whortleburg</unclear>,
+pained Carriage +c</p>
+</div3>
+
+<div3 type="entry" n="1862-08-21" id="d237">
+<head>Thursday 21<hi rend="super">st</hi></head>
+<p>boys returned about noon got very <orig
+reg="few">fiew</orig> <orig reg="berries">berrys</orig> <orig
+reg="too">two</orig> late nearly all gone, finished painting
+carriage,</p>
+</div3>
+
+<div3 type="entry" n="1862-08-22" id="d238">
+<head>Friday 22<hi rend="super">nd</hi></head>
+<p>Started to Harrisonburg had Frank along arrived <orig
+reg="there">their</orig> at 11 Oclock started back in evening
+put up for the night at Mr Coffmans, Hauled Mrs 1 Load
+Wood</p>
+</div3>
+
+<div3 type="entry" n="1862-08-23" id="d239">
+<head>Saturday 23</head>
+<p>Started home arrived about 1 Oclock, sent Capt Polmer 8
+shoals at 10 lbs</p>
+</div3>
+
+<div3 type="entry" n="1862-08-24" id="d240">
+<head>Sunday 24<hi rend="super">t</hi></head>
+<p>went to Church</p>
+</div3>
+
+<div3 type="entry" n="1862-08-25" id="d241">
+<head>Monday 25</head>
+<p>Wheat Thrashing Mr. Hotchkiss sent 2 hands + mules sent
+Capt Polmer 7 more shoals all weighed 675 lbs at 10<hi
+rend="super">s</hi> $67.50 rec<hi
+rend="super">d</hi> pay for them, Mr.
+<unclear>Ewen</unclear> Siblings was <unclear>burned</unclear>
+to day</p>
+</div3>
+
+<div3 type="entry" n="1862-08-26" id="d242">
+<head>Tuesday 26</head>
+<p>put seed wheat in granery 90 bu<hi
+rend="super">s</hi>, commenced thrashing for C. B.</p>
+</div3>
+
+<div3 type="entry" n="1862-08-27" id="d243">
+<head>Wednesday 27<hi rend="super">th</hi></head>
+<p>finished thrashing C. B. Wheat 50 bu<hi
+rend="super">s</hi> by noon or little after</p>
+</div3>
+
+<div3 type="entry" n="1862-08-28" id="d244">
+<head>Thursday 28<hi rend="super">th</hi></head>
+<p>still thrashing Mr. Hotchkiss 2 hands helping</p>
+</div3>
+
+<div3 type="entry" n="1862-08-29" id="d245">
+<head>Friday 29<hi rend="super">th</hi></head>
+<p>finished thrashing at noon</p>
+</div3>
+
+<div3 type="entry" n="1862-08-30" id="d246">
+<head>Saturday 30<hi rend="super">th</hi></head>
+<p>Put Wheat to Mill 25 bu<hi rend="super">s</hi> to
+J. Hanger's, 143 to <del rend="none" hand="h1"></del> <del rend="none" hand="h1"></del><lb/>
+6 bu<hi rend="super">s</hi> small
+<unclear>wheat</unclear><lb/>
+20 " Tailings<lb/>
+Ja<hi rend="super">s</hi> Henry helped J B to
+thrash</p>
+</div3>
+
+<div3 type="entry" n="1862-08-31" id="d247">
+<head>Sunday 31<hi rend="super">st</hi></head>
+<p>went to church churchville no preaching</p>
+</div3>
+
+</div2>
+
+<div2 type="section" n="1862-09" id="d248">
+<head>September 1862 
+<!-- <ref></ref> -->  
+</head>
+
+<div3 type="entry" n="1862-09-01" id="d249">
+<head>September<lb/>Monday 1<hi
+rend="super">st</hi></head>
+<p>Varnished carriage Mr. Walker here.</p>
+</div3>
+
+<div3 type="entry" n="1862-09-02" id="d250">
+<head>Tuesday 2<hi rend="super">nd</hi></head>
+<p>Went to Staunton p<hi rend="super">d</hi> Chapman
+$7.50 for fixing Rebecca's teeth p<hi
+rend="super">d</hi> $1.25 for Stone pitcher commenced
+seeding in corn</p>
+</div3>
+
+<div3 type="entry" n="1862-09-03" id="d251">
+<head>Wednesday 3<hi rend="super">rd</hi></head>
+<p>started to Presbytery, which met at Providence church went
+as far as Capt Goliday's</p>
+</div3>
+
+<div3 type="entry" n="1862-09-04" id="d252">
+<head>Thursday 4<hi rend="super">th</hi></head>
+<p>Went to the church it was opened at 11 'Oclock stayed all
+night with Mr. Withers</p>
+</div3>
+
+<div3 type="entry" n="1862-09-05" id="d253">
+<head>Friday 5<hi rend="super">th</hi></head>
+<p>stayed all night with Mr. Hustens</p>
+</div3>
+
+<div3 type="entry" n="1862-09-06" id="d254">
+<head>Saturday 6<hi rend="super">th</hi></head>
+<p>I adjourned about 2 Oclock to meet at Tinkling Spring on
+second Wednesday in April next, had a verry pleasant meeting
+went back to Mr. Hustons</p>
+</div3>
+
+<div3 type="entry" n="1862-09-07" id="d255">
+<head>Sunday 7<hi rend="super">th</hi></head>
+<p>sacrament administered very large audience, held a
+collection raised 296$. went to Capt Martin's in evening for
+night</p>
+</div3>
+
+<div3 type="entry" n="1862-09-08" id="d256">
+<head>Monday 8<hi rend="super">th</hi></head>
+<p>started for home, had a very pleasant night, found the day
+very warm met with rm. J Trimble he paid me 10$ for Rebecca
+arrived at home about 1 Oclock</p>
+</div3>
+
+<div3 type="entry" n="1862-09-09" id="d257">
+<head>Tuesday 9<hi rend="super">th</hi> </head>
+<p></p>
+</div3>
+
+<div3 type="entry" n="1862-09-10" id="d258">
+<head>Wednesday 10<hi rend="super">th</hi> </head>
+<p></p>
+</div3>
+
+<div3 type="entry" n="1862-09-11" id="d259">
+<head>Thursday 11<hi rend="super">th</hi></head>
+<p><del rend="none" hand="h1"></del> in corn cutting clover seed +c</p>
+</div3>
+
+<div3 type="entry" n="1862-09-12" id="d260">
+<head>Friday 12<hi rend="super">th</hi></head>
+<p>Went to funeral of J Hangers little girl, she died
+yesterday morning Rev Mr. Arnold preached</p>
+</div3>
+
+<div3 type="entry" n="1862-09-13" id="d261">
+<head>Saturday 13<hi rend="super">th</hi></head>
+<p>Finished repairing carriage +c</p>
+</div3>
+
+<div3 type="entry" n="1862-09-14" id="d262">
+<head>Sunday 14<hi rend="super">th</hi></head>
+<p>Went to church in carriage Rev Mr. Harris preached.</p>
+</div3>
+
+<div3 type="entry" n="1862-09-15" id="d263">
+<head>Monday 15</head>
+<p>took Rebecca and Ja<hi rend="super">s</hi> Henry
+to Brownsburg to school paid Mr. Trimble 120$. boys cutting
+corn.</p>
+</div3>
+
+<div3 type="entry" n="1862-09-16" id="d264">
+<head>Tuesday 16<hi rend="super">th</hi></head>
+<p>Returned home</p>
+</div3>
+
+<div3 type="entry" n="1862-09-17" id="d265">
+<head>Wednesday 17<hi rend="super">th</hi>
+Sept</head>
+<p>Made fire in dry house to dry fruit somewhat cloudy, no
+rain</p>
+</div3>
+
+<div3 type="entry" n="1862-09-18" id="d266">
+<head>Thursday 18<hi rend="super">t</hi></head>
+<p>went to church thanksgiving day</p>
+</div3>
+
+<div3 type="entry" n="1862-09-19" id="d267">
+<head>Friday 19<hi rend="super">th</hi></head>
+<p>cutting corn Cleaned out ditch in meadow Killed shoat
+weighed 50 lbs</p>
+</div3>
+
+<div3 type="entry" n="1862-09-20" id="d268">
+<head>Saturday 20</head>
+<p>working at corn + plowing over corn ground</p>
+</div3>
+
+<div3 type="entry" n="1862-09-21" id="d269">
+<head>Sunday</head>
+<p>went to church</p>
+</div3>
+
+<div3 type="entry" n="1862-09-21" id="d270">
+<head>Monday 21<hi rend="super">st</hi></head>
+<p>Cutting corn plowin in cornground went to Staunton</p>
+</div3>
+
+<div3 type="entry" n="1862-09-22" id="d271">
+<head>Tuesday 22</head>
+<p>Working at corn +c</p>
+</div3>
+
+<div3 type="entry" n="1862-09-24" id="d272">
+<head>Wednesday 24<hi rend="super">rd</hi></head>
+<p>Rained a little this morning not enough to wet ground, cut
+timber for hog per pen. Mr. Dedrick helped after dinner</p>
+</div3>
+
+<div3 type="entry" n="1862-09-25" id="d273">
+<head>Thursday 25<hi rend="super">th</hi></head>
+<p>Mr. Dedrick hewing <unclear>timber or lumber</unclear> for
+hog pen plowing over corn ground in newfield that has been
+sowed 10 Days ago</p>
+</div3>
+
+<div3 type="entry" n="1862-09-26" id="d274">
+<head>Friday 26<hi rend="super">th</hi> Sept</head>
+<p>Working at hog pen</p>
+</div3>
+
+<div3 type="entry" n="1862-09-27" id="d275">
+<head>Saturday 27<hi rend="super">th</hi></head>
+<p>put up Frame for hog pen Mr. Dedrick quit this evening he
+helped 3 1/2 days at $1.50 per day opened Barrel flour</p>
+</div3>
+
+<div3 type="entry" n="1862-09-28" id="d276">
+<head>Sunday 28<hi rend="super">th</hi></head>
+<p>Went to church</p>
+</div3>
+
+<div3 type="entry" n="1862-09-29" id="d277">
+<head>Monday 29<hi rend="super">th</hi></head>
+<p>Cutting <abbr expan="Buck">B</abbr> Wheat +c</p>
+</div3>
+
+<div3 type="entry" n="1862-09-30" id="d278">
+<head>Tuesday 30<hi rend="super">th</hi></head>
+<p>Riving out clabboards Mr. Dedrick helping, Hauling logs to
+mill</p>
+</div3>
+
+</div2>
+
+<div2 type="section" n="1862-10" id="d279">
+<head>October 1862 
+<!-- <ref></ref> -->  
+</head>
+
+<div3 type="entry" n="1862-10-01" id="d280">
+<head>Oct 1<hi rend="super">st</hi> Wednesday</head>
+<p>paid C B ten dollars for Rev Walker Hauling saw timber to
+mill Mr. Hotchkiss sawing <del rend="none" hand="h1"></del> Henry home for Dinner he
+went with me to see steer Which I wish to buy of J H. B.
+Sellers, offered him thirty five Dollars for them</p>
+</div3>
+
+<div3 type="entry" n="1862-10-02" id="d281">
+<head>Thursday 2<hi rend="super">nd</hi></head>
+<p>went to Staunton to attend Synod, I found a verry good
+attendance for the times.  Sermon by Rev. Mackelwain very good
+Mr. W. Made a sheet in the evening concerning chaplancy</p>
+</div3>
+
+<div3 type="entry" n="1862-10-03" id="d282">
+<head>Friday 3<hi rend="super">rd</hi> Oct</head>
+<p>Fannie + Sidney accompanied me to synod to day, Rev. Mr.
+Boman preached Mr. Bancock had an address concerning chaplancy
+to army, <del rend="none" hand="h1"></del> feeling</p>
+</div3>
+
+<div3 type="entry" n="1862-10-04" id="d283">
+<head>Saturday 4<hi rend="super">th</hi></head>
+<p>worked at hog pen +c</p>
+</div3>
+
+<div3 type="entry" n="1862-10-05" id="d284">
+<head>Sunday 5<hi rend="super">t</hi></head>
+<p>went to preaching Rev Mr. Barr preached, he also preached
+in Churchville in evening</p>
+</div3>
+
+<div3 type="entry" n="1862-10-06" id="d285">
+<head>Monday 6<hi rend="super">th</hi></head>
+<p>Worked at hog pen my self</p>
+</div3>
+
+<div3 type="entry" n="1862-10-07" id="d286">
+<head>Tuesday 7<hi rend="super">th</hi></head>
+<p>Mr. Dedrick here at work</p>
+</div3>
+
+<div3 type="entry" n="1862-10-08" id="d287">
+<head>Wednesday 8<hi rend="super">th</hi></head>
+<p>Thrashed Buck Wheat +c</p>
+</div3>
+
+<div3 type="entry" n="1862-10-09" id="d288">
+<head>Thursday 9<hi rend="super">t</hi></head>
+<p>finished B. wheat had a very small turn out only 20 bu<hi
+rend="super">s</hi> in all went to club meeting at Mr.
+Dudleys, adjounred to meet at Mr. Rondabes the 2<hi
+rend="super">n</hi> Thursday in Oct.</p>
+</div3>
+
+<div3 type="entry" n="1862-10-10" id="d289">
+<head>Friday 10<hi rend="super">th</hi></head>
+<p>Went to see Mr Hite about going for salt</p>
+</div3>
+
+<div3 type="entry" n="1862-10-11" id="d290">
+<head>Saturday 11<hi rend="super">t</hi></head>
+<p>Went to Staunton for <orig reg="summons">sumons</orig> in
+Siegs case finished hog pen to day Mr Dedrick Worked at it in
+all 9 Days at <del rend="none" hand="h1"></del> per day put hogs in it in evening,
+Went up to Mr. Lasleys to see about sending Dennis with him
+for salt he agreed to take charge of him, he consented to do
+so, I p<hi rend="super">d</hi> him Sixty Dollars to
+perchase salt +c</p>
+</div3>
+
+<div3 type="entry" n="1862-10-12" id="d291">
+<head>Sunday 12<hi rend="super">th</hi></head>
+<p>Went to church</p>
+</div3>
+
+<div3 type="entry" n="1862-10-13" id="d292">
+<head>Monday 13</head>
+<p>Started 2 horse team for salt Capt Sterrett put in one
+horse, Dennis driving <unclear>borrow</unclear> 5 hogs of Mr
+Gardner for Sterrett Sterrett put in 5 hogs feed I put in six
++ five empty bags, Came by Ja<hi rend="super">s</hi>
+H Bear's p<hi rend="super">d</hi> him $403.45 noted
+executed to him by Lendry Wilson + Bear
+<unclear>firm</unclear> Money 32$ the bal my own Money $371.75
+Which I have charged in my day book, paid postage to Lindsey
+on Register, Whig 1 quarter, or childs <del rend="none" hand="h1"></del></p>
+</div3>
+
+<div3 type="entry" n="1862-10-14" id="d293">
+<head>Tuesday 14<hi rend="super">th</hi></head>
+<p>Gathering corn at Mr. Hotchkiss.  Rev Mr Morten from
+Loundon C<hi rend="super">o</hi> here</p>
+</div3>
+
+<div3 type="entry" n="1862-10-15" id="d294">
+<head>Wednesday 15<hi rend="super">th</hi></head>
+<p>finished gathering corn at H very bad turn out not more
+than three or four bu<hi rend="super">s</hi> pr acre
+Mr. Martin left here this morning about 5 Oclock for
+Richmond</p>
+</div3>
+
+<div3 type="entry" n="1862-10-16" id="d295">
+<head>Thursday 16<hi rend="super">th</hi></head>
+<p>Sowed rye for J. H. B. Sellers finished gathering fodder at
+Hotchkiss</p>
+</div3>
+
+<div3 type="entry" n="1862-10-17" id="d296">
+<head>Friday 17<hi rend="super">th</hi> Oct</head>
+<p>Went to Shoemakers (Wheeler's) had half soles cut out for
+shoes +s bought 16 1/4 lbs soleather at 6 1/2 lbs <del rend="none" hand="h1"></del>
+of Hizer at 6/ + 10/6 Went to church Rev Mr Preston preached
+he came home with us for Dinner, Opened barrel Flour. Hauled
+C. B. 2 Loads Wood</p>
+</div3>
+
+<div3 type="entry" n="1862-10-8" id="d297">
+<head>Saturday 18<hi rend="super">th</hi></head>
+<p>Went to church went to Staunton in evening</p>
+</div3>
+
+<div3 type="entry" n="1862-10-19" id="d298">
+<head>Sunday 19<hi rend="super">th</hi></head>
+<p>Went to Church Mr. Preston preached Mr Martin Preached in
+evening at Churchville</p>
+</div3>
+
+<div3 type="entry" n="1862-10-20" id="d299">
+<head>Monday 20<hi rend="super">th</hi></head>
+<p>Sowed Wheat for Sellers they Borrowed 4 bu<hi
+rend="super">s</hi> seed wheat shucked corn this
+evening</p>
+</div3>
+
+<div3 type="entry" n="1862-10-21" id="d300">
+<head>Tuesday 21<hi rend="super">st</hi></head>
+<p>Mr. Martin started home, Mrs. Shaver + Daughters came here
+made fence around hay stack</p>
+</div3>
+
+<div3 type="entry" n="1862-10-22" id="d301">
+<head>Wednesday 22<hi rend="super">nd</hi></head>
+<p>Picking Apples +c</p>
+</div3>
+
+<div3 type="entry" n="1862-10-23" id="d302">
+<head>Thursday 23<hi rend="super">rd</hi></head>
+<p>Sowed 2 bu<hi rend="super">s</hi> Wheat in
+orchard plowed it in both ways with double shovel.</p>
+</div3>
+
+<div3 type="entry" n="1862-10-24" id="d303">
+<head>Friday 24<hi rend="super">th</hi> Oct</head>
+<p>Sowed Wheat in sweet potatoe patch 1 bu<hi
+rend="super">s</hi></p>
+</div3>
+
+<div3 type="entry" n="1862-10-25" id="d304">
+<head>Saturday 25<hi rend="super">th</hi></head>
+<p>Sowed 1 bu<hi rend="super">s</hi> Wheat in
+newground made Cider for Vinegar brought 2 barrels of flour
+from mill</p>
+</div3>
+
+<div3 type="entry" n="1862-10-26" id="d305">
+<head>Sunday 26<hi rend="super">th</hi></head>
+<p>Rained last night rained all day Mr. Walker preached at
+Churchville</p>
+</div3>
+
+<div3 type="entry" n="1862-10-27" id="d306">
+<head>Monday 27<hi rend="super">-</hi></head>
+<p>Still raining this morning cleared off about 4 Oclock
+started a plow,</p>
+</div3>
+
+<div3 type="entry" n="1862-10-28" id="d307">
+<head>Tuesday 28<hi rend="super">th</hi></head>
+<p>Plowing +c</p>
+</div3>
+
+<div3 type="entry" n="1862-10-29" id="d308">
+<head>Wednesday 29<hi rend="super">th</hi></head>
+<p>Plowing shuckin corn +c</p>
+</div3>
+
+<div3 type="entry" n="1862-10-30" id="d309">
+<head>Thursday 30<hi rend="super">t</hi></head>
+<p>Three of Sniders boys helping to shuck corn</p>
+</div3>
+
+<div3 type="entry" n="1862-10-31" id="d310">
+<head>Friday 31<hi rend="super">st</hi></head>
+<p>Very pretty weather got plow <unclear>paint</unclear> of
+Mr. Hotchkiss. Dennis returned home with 1500 lbs salt sent
+half of it to Capt Sterrett</p>
+</div3>
+
+</div2>
+
+<div2 type="section" n="1862-11" id="d311">
+<head>November 1862 
+<!-- <ref></ref> -->  
+</head>
+
+<div3 type="entry" n="1862-11-01" id="d312">
+<head>Saturday November 1<hi
+rend="super">s</hi></head>
+<p>Took apples to Staunton sold for <del rend="none" hand="h1"></del> 151- bu<hi
+rend="super">s</hi> deposited 30 Dollars in Bank</p>
+</div3>
+
+<div3 type="entry" n="1862-11-02" id="d313">
+<head>Sunday 2<hi rend="super">n</hi> Nov</head>
+<p>Went to Church</p>
+</div3>
+
+<div3 type="entry" n="1862-11-03" id="d314">
+<head>Monday 3<hi rend="super">d</hi></head>
+<p>Notified to be in Staunton to serve in a jury, jury was
+made up before I got their, Deposited 20 Dollars in bank,
+Sniders 3 boys shuck corn</p>
+</div3>
+
+<div3 type="entry" n="1862-11-04" id="d315">
+<head>Tuesday 4<hi rend="super">th</hi></head>
+<p>Sniders boys shucking corn + brought back sheep</p>
+</div3>
+
+<div3 type="entry" n="1862-11-05" id="d316">
+<head>Wednesday 5<hi rend="super">th</hi></head>
+<p>Planted onions</p>
+</div3>
+
+<div3 type="entry" n="1862-11-06" id="d317">
+<head>Thursday 6<hi rend="super">th</hi></head>
+<p>Divided Salt with Capt Sterrett Sowed Wheat after
+Dinner</p>
+</div3>
+
+<div3 type="entry" n="1862-11-07" id="d318">
+<head>Friday 7<hi rend="super">th</hi></head>
+<p>Finished <unclear>Drilling</unclear> Wheat sowed 8 1/2
+bu<hi rend="super">s</hi> very cold wind from the
+north quite dry cant plow any more until it rains, Hauled C B
+4 Loads wood (cold)</p>
+</div3>
+
+<div3 type="entry" n="1862-11-08" id="d319">
+<head>Saturday 8</head>
+<p>put away Cabbage Hauled Ashes on Wheat in Orchard</p>
+</div3>
+
+<div3 type="entry" n="1862-11-09" id="d320">
+<head>Sunday 9<hi rend="super">th</hi></head>
+<p>Went to church Churchville Cold</p>
+</div3>
+
+<div3 type="entry" n="1862-11-10" id="d321">
+<head>Monday 10<hi rend="super">th</hi></head>
+<p>Choped Wood Sniders boys helping hauled Mrs. Knowles 1 Load
+4 to Mr <del rend="none" hand="h1"></del>, bought 1 pr steers of <del rend="none" hand="h1"></del>
+<del rend="none" hand="h1"></del></p>
+</div3>
+
+<div3 type="entry" n="1862-11-11" id="d322">
+<head>Tuesday 11<hi rend="super">th</hi> Nov</head>
+<p>Chopping Wood Mr Sniders boys helped haul <del rend="none" hand="h1"></del>
+<del rend="none" hand="h1"></del> 1 Load + Mr Ewell 4</p>
+</div3>
+
+<div3 type="entry" n="1862-11-12" id="d323">
+<head>Wednesday 12<hi rend="super">th</hi></head>
+<p>Killed 6 hogs very pretty day Mr. <unclear>Ewell</unclear>
++ family came to see us</p>
+</div3>
+
+<div3 type="entry" n="1862-11-13" id="d324">
+<head>Thursday 13</head>
+<p>Went to Sale of Mr. <del rend="none" hand="h1"></del> property</p>
+</div3>
+
+<div3 type="entry" n="1862-11-14" id="d325">
+<head>Friday 14</head>
+<p>Salted pork <del rend="none" hand="h1"></del>. Ervine returned home hauled Mr.
+Lindsey 1 Load Wood Shucking corn The Farmers Club met at Mr.
+Rondabushes adjourned to meet at Mr. S. C. Wilsons or my house
+on the second Wednesday of Decr 5 1/2 Oclock</p>
+</div3>
+
+<div3 type="entry" n="1862-11-15" id="d326">
+<head>Saturday 15</head>
+<p>Found my stray calf at Mr. G. Baylors brought it home</p>
+</div3>
+
+<div3 type="entry" n="1862-11-16" id="d327">
+<head>Sunday 16<hi rend="super">th</hi></head>
+<p>Went to church Churchville</p>
+</div3>
+
+<div3 type="entry" n="1862-11-17" id="d328">
+<head>Monday 17<hi rend="super">th</hi></head>
+<p>Hauled Mr. Biby one Load Wood paid <unclear>Jerry</unclear>
+John 100 Dollar for one yoke steers </p>
+</div3>
+
+<div3 type="entry" n="1862-11-18" id="d329">
+<head>Tuesday 18<hi rend="super">th</hi></head>
+<p>Sold Mr Trimble 4 Steers + one cow for 270 Dollars. bought
+a yoke of steers of Jerry Johns paid 150 Dollars</p>
+</div3>
+
+<div3 type="entry" n="1862-11-19" id="d330">
+<head>Wednesday 19<hi rend="super">th</hi>
+Nov</head>
+<p>Delivered cattle to Tremble Thrashed Oats (Fran Coult)</p>
+</div3>
+
+<div3 type="entry" n="1862-11-20" id="d331">
+<head>Thursday 20</head>
+<p>put away Oats had 60 bu<hi rend="super">s</hi>
+put away 43 bu<hi rend="super">s</hi> for seed</p>
+</div3>
+
+<div3 type="entry" n="1862-11-21" id="d332">
+<head>Friday 21<hi rend="super">st</hi></head>
+<p>put 25 Flour Barrels in Rennolds Mill Gathering Corn</p>
+</div3>
+
+<div3 type="entry" n="1862-11-22" id="d333">
+<head>Saturday 22<hi rend="super">n</hi></head>
+<p>Went to Mountain for pine got a very good Load</p>
+</div3>
+
+<div3 type="entry" n="1862-11-23" id="d334">
+<head>Sunday 23<hi rend="super">d</hi></head>
+<p>Went to church</p>
+</div3>
+
+<div3 type="entry" n="1862-11-24" id="d335">
+<head>Monday 24<hi rend="super">th</hi></head>
+<p>Gathering corn</p>
+</div3>
+
+<div3 type="entry" n="1862-11-25" id="d336">
+<head>Tuesday 25<hi rend="super">th</hi> Nov</head>
+<p>Sowed 3 bu<hi rend="super">s</hi> Rye on
+cornground harrowed it in it had been sowed in Sept, but the
+dry weather caused it not to come,</p>
+</div3>
+
+<div3 type="entry" n="1862-11-26" id="d337">
+<head>Wednesday 26<hi rend="super">th</hi></head>
+<p>Hauling Wood</p>
+</div3>
+
+<div3 type="entry" n="1862-11-27" id="d338">
+<head>Thursday 27<hi rend="super">th</hi></head>
+<p>Butchered 13 hogs</p>
+</div3>
+
+<div3 type="entry" n="1862-11-28" id="d339">
+<head>Friday 28<hi rend="super">th</hi></head>
+<p>salted pork</p>
+</div3>
+
+<div3 type="entry" n="1862-11-29" id="d340">
+<head>Saturday 29<hi rend="super">th</hi></head>
+<p>Plowed garding</p>
+</div3>
+
+<div3 type="entry" n="1862-11-30" id="d341">
+<head>Sunday 30<hi rend="super">th</hi></head>
+<p>Went to church</p>
+</div3>
+
+</div2>
+
+<div2 type="section" n="1862-12" id="d342">
+<head>December 1862 
+<!-- <ref></ref> -->  
+</head>
+
+<div3 type="entry" n="1862-12-01" id="d343">
+<head>December 1<hi rend="super">st</hi>
+Monday</head>
+<p>Hauling fodder Hardin helped Mr. Sellers to butcher</p>
+</div3>
+
+<div3 type="entry" n="1862-12-02" id="d344">
+<head>Tuesday 2<hi rend="super">nd</hi></head>
+<p>finished hauling Fodder out of one field Hauled C. B. 1
+four horse Load Wood hauled Mr Biby's two horse Load.</p>
+</div3>
+
+<div3 type="entry" n="1862-12-03" id="d345">
+<head>Wednesday 3<hi rend="super">rd</hi></head>
+<p>Went to Funeral G. A. Wilsons child Dennis Hauled Mr.
+Stover one load pine from Mr. Shaver's,</p>
+</div3>
+
+<div3 type="entry" n="1862-12-04" id="d346">
+<head>Thursday 4</head>
+<p>Chopping + Hauling Wood</p>
+</div3>
+
+<div3 type="entry" n="1862-12-05" id="d347">
+<head>Friday 5</head>
+<p>Hauled C. b. 2 Loads Wood Snowed.</p>
+</div3>
+
+<div3 type="entry" n="1862-12-06" id="d348">
+<head>Saturday 6<hi rend="super">th</hi></head>
+<p>Went to the funeral of Jacob Hangers child boys cut Wood on
+wood pile</p>
+</div3>
+
+<div3 type="entry" n="1862-12-07" id="d349">
+<head>Sunday 7<hi rend="super">th</hi></head>
+<p>Went to church at Churchville</p>
+</div3>
+
+<div3 type="entry" n="1862-12-08" id="d350">
+<head>Monday 8<hi rend="super">th</hi></head>
+<p>put out stove chopping Wood +c</p>
+</div3>
+
+<div3 type="entry" n="1862-12-09" id="d351">
+<head>Tuesday 9<hi rend="super">th</hi></head>
+<p>In company went down to Mr. Rondabush to look over his farm
+that we might  report at our next Club meeting Hauled coal for
+Mr Everett Hauled Mr Biby Loads Wood 2 horse</p>
+</div3>
+
+<div3 type="entry" n="1862-12-10" id="d352">
+<head>Wednesday Decr 10<hi
+rend="super">th</hi></head>
+<p>Hauling Coal for Mr Everett (2 Days)</p>
+</div3>
+
+<div3 type="entry" n="1862-12-11" id="d353">
+<head>Thursday 11<hi rend="super">th</hi></head>
+<p>Club met at my House, Mr. Jn<hi
+rend="super">o</hi> Sellers paid me 22 Dollars for
+Vicks pine, Mr. Jn<hi rend="super">o</hi> Trimble
+paid me 270 Dollars for Cattle, Sent my wagon above
+Middlebrook for corn for Mr. Lickleter, Election held to day
+for Delegate to Legislature,</p>
+</div3>
+
+<div3 type="entry" n="1862-12-12" id="d354">
+<head>Friday 12<hi rend="super">th</hi></head>
+<p>Had hands + shuck corn in barn</p>
+</div3>
+
+<div3 type="entry" n="1862-12-13" id="d355">
+<head>Saturday 13<hi rend="super">th</hi></head>
+<p>put corn in crib Wagon returned gone 2 1/2 Days Mrs Johns
+p<hi rend="super">d</hi> $32.24 for Lindsey Wilson +
+<del rend="none" hand="h1"></del></p>
+</div3>
+
+<div3 type="entry" n="1862-12-14" id="d356">
+<head>Sunday Decr 14<hi rend="super">th</hi></head>
+<p>Went to church</p>
+</div3>
+
+<div3 type="entry" n="1862-12-15" id="d357">
+<head>Monday 15<hi rend="super">th</hi></head>
+<p>Thrashed clover seed H Ervine stayed all night with us last
+night on his way home</p>
+</div3>
+
+<div3 type="entry" n="1862-12-16" id="d358">
+<head>Tuesday 16<hi rend="super">h</hi></head>
+<p>Finished thrashing clover seed had about 2 bu<hi
+rend="super">s</hi> rained last night started a plow
+after Dinner paid Jn<hi rend="super">o</hi> H. Bear
+$205.75 + took in my check for that amount which I have him
+some time since, Mr. Everett paid me $127.55 the Amt of his
+note.</p>
+</div3>
+
+<div3 type="entry" n="1862-12-17" id="d359">
+<head>Wednesday Decr 17<hi
+rend="super">th</hi></head>
+<p>Went to Staunton Mr. Lickleter paid me $15.75 - . Deposited
+$200. In <orig reg="Bank">Bant</orig> Cash in hand $67.35</p>
+</div3>
+
+<div3 type="entry" n="1862-12-18" id="d360">
+<head>Thursday 18<hi rend="super">th</hi></head>
+<p>Choping +c</p>
+</div3>
+
+<div3 type="entry" n="1862-12-19" id="d361">
+<head>Friday 19<hi rend="super">th</hi></head>
+<p>Sent for Ja<hi rend="super">s</hi> H + Robert
+Jacob Hanger went, finished plowing</p>
+</div3>
+
+<div3 type="entry" n="1862-12-20" id="d362">
+<head>Saturday 20<hi rend="super">t</hi></head>
+<p>Children return from school, Hauling wood,</p>
+</div3>
+
+<div3 type="entry" n="1862-12-21" id="d363">
+<head>Sunday 21<hi rend="super">st</hi></head>
+<p>Went to church Churchville</p>
+</div3>
+
+<div3 type="entry" n="1862-12-22" id="d364">
+<head>Monday 22<hi rend="super">nd</hi></head>
+<p>Butchered 9 hogs sold 843 lbs to Dr Donaghe at 25
+<del rend="none" hand="h1"></del></p>
+</div3>
+
+<div3 type="entry" n="1862-12-23" id="d365">
+<head>Tuesday 23</head>
+<p>Delivered pork Sold 6 Barrels flour @ 14$ 36 1/2 lbs Bacon
+31-amount received for pork +c $311.75 bought Rebecca's Bonnet
+home paid Mrs Stephens $11. For repairing bonnets</p>
+</div3>
+
+<div3 type="entry" n="1862-12-24" id="d366">
+<head>Wednesday 24<hi rend="super">th</hi></head>
+<p>Joshua chopping Wood Harden Hauling Sowed 1 1/2 bu<hi
+rend="super">s</hi> Rye Hauled Mr Thomas 1 Load Fodder
+$10.</p>
+</div3>
+
+<div3 type="entry" n="1862-12-25" id="d367">
+<head>Thursday 25<hi rend="super">th</hi></head>
+<p>Christmas Dennis + Hardin Hauling Wood for themselves</p>
+</div3>
+
+<div3 type="entry" n="1862-12-26" id="d368">
+<head>Friday 26</head>
+<p>Hauled CB 4 Load Wood I went to church</p>
+</div3>
+
+<div3 type="entry" n="1862-12-27" id="d369">
+<head>Saturday 27</head>
+<p>I went to church Dennis + Harden take Holiday</p>
+</div3>
+
+<div3 type="entry" n="1862-12-28" id="d370">
+<head>Sunday 28</head>
+<p>Went to church Sacrament administered</p>
+</div3>
+
+<div3 type="entry" n="1862-12-29" id="d371">
+<head>Monday 29<hi rend="super">th</hi></head>
+<p>Hauled 4 Loads Wood to Mrs Taylor 1 to Rev. Mr. Arnold I
+went to P Burkholders he was from home Mr. B. was from
+home</p>
+</div3>
+
+<div3 type="entry" n="1862-12-30" id="d372">
+<head>Tuesday 30<hi rend="super">th</hi></head>
+<p>Returned home</p>
+</div3>
+
+<div3 type="entry" n="1862-12-31" id="d373">
+<head>Wednesday 31<hi rend="super">st</hi></head>
+<p>Hauled Wood 2 Loads to Mr. Stover 2 to Mr. Biby 1 to Mr.
+Arnold</p>
+</div3>
+
+</div2>
+
+</div1>
+
+<div1 id="AD10031863" type="part" n="1863">
+<head>1863
+<!-- <ref>AD10031863</ref> -->
+</head>
+
+<div2 type="section" n="1863-01" id="d375">
+<head>January 1863 
+<!-- <ref></ref> -->  
+</head>
+
+<div3 type="entry" n="1863-01-01" id="d376">
+<head>January 1<hi rend="super">st</hi> 1863</head>
+<p>Went to Staunton Sold Hardin for 1950.00 I left the check
+with Capt Peck for amt found a blanket on my way home Mr.
+Teaford paid me 124$ Uncle Abrams board</p>
+</div3>
+
+<div3 type="entry" n="1863-01-02" id="d377">
+<head>Jan 2<hi rend="super">d</hi></head>
+<p>Splitting wood on clearning + Hauling Mrs Walker + Miss
+Martha all night with us went to Loch Willow to exhibition</p>
+</div3>
+
+<div3 type="entry" n="1863-01-03" id="d378">
+<head>Jan 3<hi rend="super">d</hi></head>
+<p>Saturday Boys have holiday</p>
+</div3>
+
+<div3 type="entry" n="1863-01-04" id="d379">
+<head>Sunday 4</head>
+<p>went to church</p>
+</div3>
+
+<div3 type="entry" n="1863-01-05" id="d380">
+<head>Monday 5<hi rend="super">t</hi></head>
+<p>Splitting + Hauling</p>
+</div3>
+
+<div3 type="entry" n="1863-01-06" id="d381">
+<head>Tuesday 6 <del rend="none" hand="h1"></del> 7</head>
+<p>working on clearning</p>
+</div3>
+
+<div3 type="entry" n="1863-01-08" id="d382">
+<head>Thursday 8</head>
+<p>Club met at Mr. J. Wilsons had a pleasant time next meeting
+at Mr. Geedings cutting stalks Mrs. Gooch at my house</p>
+</div3>
+
+<div3 type="entry" n="1863-01-09" id="d383">
+<head>Friday</head>
+<p>working on clearing, sent wheat to mill</p>
+</div3>
+
+<div3 type="entry" n="1863-01-10" id="d384">
+<head>Saturday 10<hi rend="super">th</hi></head>
+<p>Working in clearning +c</p>
+</div3>
+
+<div3 type="entry" n="1863-01-11" id="d385">
+<head>Sunday 11<hi rend="super">th</hi></head>
+<p>went to church</p>
+</div3>
+
+<div3 type="entry" n="1863-01-12" id="d386">
+<head>Monday 12<hi rend="super">th</hi></head>
+<p>Hauled cord Wood for Mr. Lindsey, Hauled fodder.</p>
+</div3>
+
+<div3 type="entry" n="1863-01-13" id="d387">
+<head>Tuesday 13</head>
+<p>Finished Hauling fodder commenced Hauling tan bark to Mr.
+Heizer's</p>
+</div3>
+
+<div3 type="entry" n="1863-01-14" id="d388">
+<head><dateRange from="1863-01-14" to="1863-01-16">Wednes 14<lb/>Thursday 15<lb/>Friday
+16</dateRange></head>
+<p>Finished Hauling Bark had 9 cord at $20 pr Cord to be
+p<hi rend="super">d</hi> in Leather at $1.50 pr sole
++ $2.00 for upper</p>
+</div3>
+
+<div3 type="entry" n="1863-01-17" id="d389">
+<head>Saturday 17<hi rend="super">th</hi></head>
+<p>Working in clearing. Laid up with Rheumatism paid Mr
+Ziegler $100 for <del rend="none" hand="h1"></del> W. + B. Owe Z 79 cts</p>
+</div3>
+
+<div3 type="entry" n="1863-01-18" id="d390">
+<head>Sunday 18</head>
+<p>still laid up</p>
+</div3>
+
+<div3 type="entry" n="1863-01-19" id="d391">
+<head>Monday 19<hi rend="super">th</hi></head>
+<p>Hauling Ice in Mr. Lindseys House</p>
+</div3>
+
+<div3 type="entry" n="1863-01-20" id="d392">
+<head>Tuesday 20<hi rend="super">th</hi></head>
+<p>boys working on clearing Miss Seigs + Mrs Hotchkiss here
+commenced snowing in eveing Mrs H Stayed all night</p>
+</div3>
+
+<div3 type="entry" n="1863-01-21" id="d393">
+<head>Wednesday 21<hi rend="super">st</hi></head>
+<p>Snowed all night 15 in deep wet + heavy, warm.</p>
+</div3>
+
+<div3 type="entry" n="1863-01-22" id="d394">
+<head>Jan 22<hi rend="super">nd</hi> Thursday</head>
+<p>Snow melting slowly Dennis + Ja<hi
+rend="super">s</hi> Henry Thrashing Rye with Flails
+Fannie took shirt to Mrs Cousin's to make.</p>
+</div3>
+
+<div3 type="entry" n="1863-01-23" id="d395">
+<head>Friday 23<hi rend="super">rd</hi></head>
+<p>Still warm Rec<hi rend="super">d</hi> Coffee of
+Mr Lindsey finnished thrashing had       bu<hi
+rend="super">s</hi> Rye still housed up with
+Rheumatism, (better)</p>
+</div3>
+
+<div3 type="entry" n="1863-01-24" id="d396">
+<head>Saturday 24<hi rend="super">t</hi></head>
+<p>Hauled wood 2 Loads to C. b. 1 to Mrs Fisher 1 to Gregory
+Hauled some straw to Mr. Lindsey sold Mr. Gregory 29 lbs Bacon
+he still owes me 60<hi
+rend="super"><del rend="none" hand="h1"></del></hi></p>
+</div3>
+
+<div3 type="entry" n="1863-01-25" id="d397">
+<head>Sunday 25<hi rend="super">th</hi></head>
+<p>laid up still with Reumatism</p>
+</div3>
+
+<div3 type="entry" n="1863-01-26" id="d398">
+<head>Jan 26<hi rend="super">th</hi> Monday</head>
+<p>boys working in clearning Willie Bear here</p>
+</div3>
+
+<div3 type="entry" n="1863-01-27" id="d399">
+<head>Tuesday 27</head>
+<p>Sent doller with Willie to Mr. Ervine raining in morning.
+Settled with mr. Judson, owes me 68 lbs flour boys in
+clearning</p>
+</div3>
+
+<div3 type="entry" n="1863-01-28" id="d400">
+<head>Wednesday 28<hi rend="super">th</hi></head>
+<p>Snowing all day</p>
+</div3>
+
+<div3 type="entry" n="1863-01-29" id="d401">
+<head>Thursday 29<hi rend="super">t</hi></head>
+<p>Killed Beef made a broom Dennis sprained his ankle</p>
+</div3>
+
+<div3 type="entry" n="1863-01-30" id="d402">
+<head>Friday 30<hi rend="super">t</hi></head>
+<p>Nothing doing</p>
+</div3>
+
+<div3 type="entry" n="1863-01-31" id="d403">
+<head>Saturday 31<hi rend="super">st</hi></head>
+<p>Cut up beef + sold Mr. Gregory 1 Barrel Flour 14 Dollars to
+<del rend="none" hand="h1"></del> <del rend="none" hand="h1"></del> 30 lbs Beef 15. <del rend="none" hand="h1"></del></p>
+</div3>
+
+</div2>
+
+<div2 type="section" n="1863-02" id="d404">
+<head>February 1863
+<!-- <ref></ref> -->  
+</head>
+
+<div3 type="entry" n="1863-02-01" id="d405">
+<head>Feb 1<hi rend="super">st</hi> Sunday</head>
+<p>Went to church Mr. Walker preached at churchville in
+evening</p>
+</div3>
+
+<div3 type="entry" n="1863-02-02" id="d406">
+<head>Monday 2<hi rend="super">nd</hi></head>
+<p>Dennis helped Dr. Wilson to thrash</p>
+</div3>
+
+<div3 type="entry" n="1863-02-03" id="d407">
+<head>Tuesday 3</head>
+<p>Dennis helped Dr to thrash Ja<hi
+rend="super">s</hi> Henry took plow point pattern to
+Harrisonburg</p>
+</div3>
+
+<div3 type="entry" n="1863-02-04" id="d408">
+<head>Wednesday 4<hi rend="super">th</hi></head>
+<p>Hauled Jn<hi rend="super">o</hi>. Powers 1 Load
+Wood Mr. Biby 1 Load Mr Taylor 1 Load Do Cousins 1 Load</p>
+</div3>
+
+<div3 type="entry" n="1863-02-05" id="d409">
+<head>Thursday 5<hi rend="super">th</hi></head>
+<p>Snowed all day</p>
+</div3>
+
+<div3 type="entry" n="1863-02-06" id="d410">
+<head>Friday 6<hi rend="super">t</hi> Feb</head>
+<p>Hauling Manure or Wheat</p>
+</div3>
+
+<div3 type="entry" n="1863-02-07" id="d411">
+<head>Saturday 7<hi rend="super">th</hi></head>
+<p>Hauling manure bought Plank from saw mill sent 6 Flour
+Barrels to <unclear>Trinity</unclear> to mills.  rec<hi
+rend="super">d</hi> of Mr. Gregory let him have 14 1/2
+lbs Bacon</p>
+</div3>
+
+<div3 type="entry" n="1863-02-08" id="d412">
+<head>Sunday 8<hi rend="super">t</hi></head>
+<p>Went to church</p>
+</div3>
+
+<div3 type="entry" n="1863-02-09" id="d413">
+<head>Monday 9<hi rend="super">t</hi></head>
+<p>Hauled cord Wood for Mr. Lindsey 1 Load to Mr. Stover.
+Settled with Mrs. Hotchkiss they fell in my debt 26 10</p>
+</div3>
+
+<div3 type="entry" n="1863-02-10" id="d414">
+<head>Tuesday 10<hi rend="super">th</hi></head>
+<p>Went to Hotchkiss sale talked with Capt Sterret about
+settling the <del rend="none" hand="h1"></del> <del rend="none" hand="h1"></del> I left it to J. G. Stover
++ H. B. Sieg to set the price on horse + wagon they set the
+price at 60 cts per day for both</p>
+</div3>
+
+<div3 type="entry" n="1863-02-11" id="d415">
+<head>Wednesday 11<hi rend="super">th</hi></head>
+<p>Boys choping rained after noon</p>
+</div3>
+
+<div3 type="entry" n="1863-02-12" id="d416">
+<head>Thursday 12<hi rend="super">th</hi></head>
+<p>Went to Club meeting met at Mr. Geedings Hauled 5 Loads
+Wood to Rev Arnold Capt Hottle called a while in eveing Andrew
+Ervince her for the night Mr. Hotchkiss called Mr. Snider + 2
+boys here choping</p>
+</div3>
+
+<div3 type="entry" n="1863-02-13" id="d417">
+<head>Friday 13<hi rend="super">th</hi></head>
+<p>Commenced plowing Snider + Boys here choping Started 2
+plows <del rend="none" hand="h1"></del> too wet</p>
+</div3>
+
+<div3 type="entry" n="1863-02-14" id="d418">
+<head>Saturday 14<hi rend="super">t</hi> Feb</head>
+<p>Plowing settled with Mr. Biby Sent calf Skill to Swope</p>
+</div3>
+
+<div3 type="entry" n="1863-02-15" id="d419">
+<head>Sunday 15</head>
+<p>Went to church</p>
+</div3>
+
+<div3 type="entry" n="1863-02-16" id="d420">
+<head>Monday 16<hi rend="super">th</hi></head>
+<p>Carried Carriage spring to Capt Polmer to mend settled with
+him, got a plow point of Mr. Hotchkiss (hill side) bt two
+collars of Mr. Biby for 6$</p>
+</div3>
+
+<div3 type="entry" n="1863-02-17" id="d421">
+<head>Tuesday 17<hi rend="super">t</hi></head>
+<p>Snowing all day sent 3 single trees to Mr. Everett
+<del rend="none" hand="h1"></del> + chains to mend</p>
+</div3>
+
+<div3 type="entry" n="1863-02-18" id="d422">
+<head>Wednesday 18<hi rend="super">th</hi></head>
+<p>Hauling manure part of day rained all day</p>
+</div3>
+
+<div3 type="entry" n="1863-02-19" id="d423">
+<head>Thursday 19<hi rend="super">t</hi></head>
+<p>Hauled manure on meadow brot 6 Barrels Flour from mill let
+plank from mill bought 47 ft lumber from Lickleder for
+Hanover</p>
+</div3>
+
+<div3 type="entry" n="1863-02-20" id="d424">
+<head>Friday 20 Feb</head>
+<p>Hauled 1/2 Day for Mrs Hotchkiss. Sled <del rend="none" hand="h1"></del> of
+Potatoe patch, was up at Mr. Swopes tan yard Rev Mr. Arnold
+paid his of $13.25 Mr. Biby repaired collar for carriage
+harness</p>
+</div3>
+
+<div3 type="entry" n="1863-02-21" id="d425">
+<head>Feb 21<hi rend="super">st</hi></head>
+<p>Huling Manure, went to Mr Evenes Fannie + Frank along.
+comemnced Snowing about dark snowed all night,</p>
+</div3>
+
+<div3 type="entry" n="1863-02-22" id="d426">
+<head>Sunday 22</head>
+<p>Snowed nearly all day,</p>
+</div3>
+
+<div3 type="entry" n="1863-02-23" id="d427">
+<head>Monday 23</head>
+<p>Started home left carriage very bad riding, </p>
+</div3>
+
+<div3 type="entry" n="1863-02-24" id="d428">
+<head>Tuesday 24</head>
+<p>Haled out Straw stack boys hauled hay stack in
+yesterday</p>
+</div3>
+
+<div3 type="entry" n="1863-02-25" id="d429">
+<head>Wednesday 25</head>
+<p>Hauling manure on cornground</p>
+</div3>
+
+<div3 type="entry" n="1863-02-26" id="d430">
+<head>Thursday 26<hi rend="super">th</hi></head>
+<p>Rained all day had stove doon mended Settle diwht C. B. pd
+him 20$</p>
+</div3>
+
+<div3 type="entry" n="1863-02-27" id="d431">
+<head>Friday 27</head>
+<p>hauled wood to churchville 2 Load to Mrs Taylor 2 to
+Biby,</p>
+</div3>
+
+<div3 type="entry" n="1863-02-28" id="d432">
+<head>Saturday 28<hi rend="super">th</hi></head>
+<p>Hauled 2 Loads to Mrs Taylor 1 to Biby 2 to Powers + 1 to
+Mr. Arnold I went to Mr H. Sale no sale, made Hot bed in
+evening</p>
+</div3>
+
+</div2>
+
+<div2 type="section" n="1863-03" id="d433">
+<head>March 1863 
+<!-- <ref></ref> -->  
+</head>
+
+<div3 type="entry" n="1863-03-01" id="d434">
+<head>Sunday March 1<hi rend="super">st</hi></head>
+<p>went to church churchville. Mrs Taylors smoke house burnt
+down Last night</p>
+</div3>
+
+<div3 type="entry" n="1863-03-02" id="d435">
+<head>March 2<hi rend="super">nd</hi> Monday</head>
+<p>Plowing. Sent Mrs Taylor a piece Bacon</p>
+</div3>
+
+<div3 type="entry" n="1863-03-03" id="d436">
+<head>Tuesday 3<hi rend="super">rd</hi></head>
+<p>Rec<hi rend="super">d</hi> of Mrs. Knowles 4$
+Plowing had a very heavy snow storm which lasted about 15
+minutes,</p>
+</div3>
+
+<div3 type="entry" n="1863-03-04" id="d437">
+<head>4<hi rend="super">th</hi></head>
+<p>Plowing very cold considerable cold + snow +c very little
+plowing dun</p>
+</div3>
+
+<div3 type="entry" n="1863-03-13" id="d438">
+<head>13<hi rend="super">th</hi> Friday</head>
+<p>F Club met at Dr Wilsons. I was elected Secretary next
+meeting at Rob. Chochrans</p>
+</div3>
+
+<div3 type="entry" n="1863-03-19" id="d439">
+<head>Thursday 19<hi rend="super">t</hi></head>
+<p>Sowed Barley + some Oats snowed before I got it harrowed in
+<del rend="none" hand="h1"></del> Conference of the M. Church met at Churchville M.
+South <del rend="none" hand="h1"></del> + May Ball staying with us <del rend="none" hand="h1"></del></p>
+</div3>
+
+<div3 type="entry" n="1863-03-20" id="d440">
+<head><dateRange from="1863-03-20" to="1863-03-24">20 to 24</dateRange></head>
+<p>sowed clover seed this morning + Orchard Grass in field
+back Orchard</p>
+</div3>
+
+<div3 type="entry" n="1863-03-25" id="d441">
+<head>Wednesday 25<hi rend="super">th</hi></head>
+<p>rained last night water high sent Preachers to Staunton by
+the Bredger</p>
+</div3>
+
+<div3 type="entry" n="1863-03-26" id="d442">
+<head>26<hi rend="super">t</hi></head>
+<p>Plowing</p>
+</div3>
+
+<div3 type="entry" n="1863-03-27" id="d443">
+<head>Friday 27<hi rend="super">t</hi></head>
+<p>went to church, went to <del rend="none" hand="h1"></del> Henry's. brought upper
+Leather from Mr. Hizers, Mr. Ervince here on his way to Mr.
+Hustons.</p>
+</div3>
+
+<div3 type="entry" n="1863-03-28" id="d444">
+<head>(28<hi rend="super">t</hi>)</head>
+<p>rained nearly all day. <del hand="h1">took Leather to Mr.
+Smith</del>,</p>
+</div3>
+
+<div3 type="entry" n="1863-03-29" id="d445">
+<head>Sunday 29<hi rend="super">t</hi></head>
+<p>went to church</p>
+</div3>
+
+<div3 type="entry" n="1863-03-30" id="d446">
+<head>(Monday 30<hi rend="super">t</hi>)</head>
+<p>went to Staunton Sent barrel Apples to Richmond to Tyler +
+Son to sell, bought 50 peach trees 6 Apple of Mr Davis</p>
+</div3>
+
+<div3 type="entry" n="1863-03-31" id="d447">
+<head>(Tuesday 31)</head>
+<p>Snowed nearly all day took Leather to Mr. Smith Settled
+with him paid him $17 00 have a young Lamb</p>
+</div3>
+
+</div2>
+
+<div2 type="section" n="1863-04" id="d448">
+<head>April 1863 
+<!-- <ref></ref> -->  
+</head>
+
+<div3 type="entry" n="1863-04-01" id="d449">
+<head>Wednes April 1<hi rend="super">st</hi>
+63</head>
+<p>Plowing</p>
+</div3>
+
+<div3 type="entry" n="1863-04-02" id="d450">
+<head>(Thursday 2)</head>
+<p>plowing plowed potatoe patch,</p>
+</div3>
+
+<div3 type="entry" n="1863-04-03" id="d451">
+<head><dateRange from="1863-04-03" to="1863-04-04">Friday 3 + Saturday 4</dateRange></head>
+<p>Setting out fruit Trees planted potates on Friday in garden
+Sowed cabbage seed. Finished setting out trees today</p>
+</div3>
+
+<div3 type="entry" n="1863-04-05" id="d452">
+<head>Sunday 5</head>
+<p>went to church</p>
+</div3>
+
+<div3 type="entry" n="1863-04-06" id="d453">
+<head>Monday 6</head>
+<p>Sowing Oats finished plowing for Oats + Sowing Oats on
+Friday</p>
+</div3>
+
+<div3 type="entry" n="1863-04-10" id="d454">
+<head>10<hi rend="super">t</hi></head>
+<p>Planted potatoes</p>
+</div3>
+
+<div3 type="entry" n="1863-04-11" id="d455">
+<head>Sat 11<hi rend="super">th</hi></head>
+<p></p>
+</div3>
+
+<div3 type="entry" n="1863-04-12" id="d456">
+<head>Sunday 12<hi rend="super">th</hi></head>
+<p>went to church</p>
+</div3>
+
+<div3 type="entry" n="1863-04-13" id="d457">
+<head>Monday 13<hi rend="super">th</hi></head>
+<p>finished sowing clover seed</p>
+</div3>
+
+<div3 type="entry" n="1863-04-14" id="d458">
+<head>Tuesday 14<hi rend="super">t</hi></head>
+<p>Huled Hay stack</p>
+</div3>
+
+<div3 type="entry" n="1863-04-15" id="d459">
+<head>Wednesday 15<hi rend="super">th</hi></head>
+<p>Went to Staunton Deposited 280 Dollars in bank got 9 plow
+shears of Mr Eubanks</p>
+</div3>
+
+<div3 type="entry" n="1863-04-18" id="d460">
+<head>Saturday 18<hi rend="super">th</hi></head>
+<p>Dovoded Sweet potatoes,</p>
+</div3>
+
+<div3 type="entry" n="1863-04-21" id="d461">
+<head>Tuesday 21<hi rend="super">st</hi></head>
+<p>went to Staunton Deposited 1100 $ with agent for Coupon
+bonds drew out of Bank 775 Dollars</p>
+</div3>
+
+<div3 type="entry" n="1863-04-22" id="d462">
+<head>Wednesday 22<hi rend="super">nd</hi></head>
+<p>Sorrel mare has made a mule coult cow has a calf covered
+Grainery</p>
+</div3>
+
+<div3 type="entry" n="1863-04-23" id="d463">
+<head>Thursday 23<hi rend="super">rd</hi></head>
+<p>Raining cliped 11 head sheep washed wool same day hailed
+considerable</p>
+</div3>
+
+<div3 type="entry" n="1863-04-29" id="d464">
+<head>Wednesday 29</head>
+<p>finished cliping sheep 11 head washed wool same day</p>
+</div3>
+
+<div3 type="entry" n="1863-04-30" id="d465">
+<head>Friday 30</head>
+<p>Rone mare has a coult Took 4 Sorrel mares to Jack commenced
+planting corn on 28 Apl, Sent Fan to <del rend="none" hand="h1"></del> </p>
+</div3>
+
+</div2>
+
+<div2 type="section" n="1863-05" id="d466">
+<head>May 1863 
+<!-- <ref></ref> -->  
+</head>
+
+<div3 type="entry" n="1863-05-11" id="d467">
+<head>11<hi rend="super">th</hi></head>
+<p>Finished planting the <unclear>two</unclear> Fields</p>
+</div3>
+
+<div3 type="entry" n="1863-05-13" id="d468">
+<head>13<hi rend="super">th</hi></head>
+<p></p>
+</div3>
+
+<div3 type="entry" n="1863-05-14" id="d469">
+<head>Thursday 14<hi rend="super">th</hi></head>
+<p>Club met at Capt Gundersins adjourned to meet at Ja<hi
+rend="super">s</hi> Wilson Esqr.</p>
+</div3>
+
+<div3 type="entry" n="1863-05-20" id="d470">
+<head>20<hi rend="super">th</hi></head>
+<p>planted potatoes</p>
+</div3>
+
+<div3 type="entry" n="1863-05-21" id="d471">
+<head>Thursday 21<hi rend="super">st</hi></head>
+<p>planting corn in newground</p>
+</div3>
+
+<div3 type="entry" n="1863-05-27" id="d472">
+<head>Wednes May 27</head>
+<p>Had coalts operated on by Mr. Holler paid three Dollar a
+piece</p>
+</div3>
+
+<div3 type="entry" n="1863-05-29" id="d473">
+<head>29<hi rend="super">t</hi></head>
+<p>borrowed 90 Dollars of Mr. Lindsey started with Mr. Trimble
+to Wood stock for a cane mill </p>
+</div3>
+
+<div3 type="entry" n="1863-05-30" id="d474">
+<head>30<hi rend="super">t</hi></head>
+<p>Sold Mr. Donalsen + bargained for a mill.  Returned home +
+arrived</p>
+</div3>
+
+</div2>
+
+<div2 type="section" n="1863-06" id="d475">
+<head>June 1863 
+<!-- <ref></ref> -->  
+</head>
+
+<div3 type="entry" n="1863-06-01" id="d476">
+<head>June 1<hi rend="super">st</hi></head>
+<p></p>
+</div3>
+
+<div3 type="entry" n="1863-06-02" id="d477">
+<head>June 2<hi rend="super">nd</hi></head>
+<p>Planted Pumkin seed + weighed wool 83 lb 8 1/4 lb for
+government</p>
+</div3>
+
+<div3 type="entry" n="1863-06-06" id="d478">
+<head>Saturday 6<hi rend="super">th</hi></head>
+<p>Went to Staunton.</p>
+</div3>
+
+<div3 type="entry" n="1863-06-08" id="d479">
+<head>Monday <orig reg="8">15</orig><hi
+rend="super">th</hi></head>
+<p>Met at Churchville to divide cotton finished Wednesday</p>
+</div3>
+
+<div3 type="entry" n="1863-06-09" id="d480">
+<head>Tuesday <orig reg="9">16</orig><hi
+rend="super">th</hi></head>
+<p>went to Staunton Deposited 700 $ for registered bond</p>
+</div3>
+
+<div3 type="entry" n="1863-06-11" id="d481">
+<head>Thursday 11<hi rend="super">t</hi></head>
+<p>Club met at James Wilsons. adjourned to meet at H. B. Seigs
+2<hi rend="super">d</hi> Thursday in June</p>
+</div3>
+
+<div3 type="entry" n="1863-06-13" id="d482">
+<head>Saturday 13<hi rend="super">t</hi></head>
+<p>Distributed cotton</p>
+</div3>
+
+<div3 type="entry" n="1863-06-15" id="d483">
+<head>Monday 15<hi rend="super">t</hi></head>
+<p>coloured wool +c</p>
+</div3>
+
+<div3 type="entry" n="1863-06-17" id="d484">
+<head>Wednesday <orig reg="17">16</orig><hi
+rend="super">t</hi></head>
+<p>took 5 head cattle to Mountin. left them on top at grasy
+place</p>
+</div3>
+
+<div3 type="entry" n="1863-06-19" id="d485">
+<head>Friday 19</head>
+<p>went to see Mr Bradon in <unclear>gap</unclear></p>
+</div3>
+
+<div3 type="entry" n="1863-06-22" id="d486">
+<head><dateRange from="1863-06-22" to="1863-06-23">Tuesday + Wednesday 23</dateRange></head>
+<p>Mowed Hauled in some very dry no rain Since 15<hi
+rend="super">th</hi> May</p>
+</div3>
+
+<div3 type="entry" n="1863-06-26" id="d487">
+<head>Friday 26</head>
+<p>commenced Raining</p>
+</div3>
+
+</div2>
+
+<div2 type="section" n="1863-07" id="d488">
+<head>July 1863 
+<!-- <ref></ref> -->  
+</head>
+
+<div3 type="entry" n="1863-07-01" id="d489">
+<head>Wednesday July 1<hi
+rend="super">st</hi></head>
+<p></p>
+</div3>
+
+<div3 type="entry" n="1863-07-04" id="d490">
+<head>Saturday 4<hi rend="super">t</hi></head>
+<p>Rained nearly all day</p>
+</div3>
+
+<div3 type="entry" n="1863-07-06" id="d491">
+<head>Monday 6<hi rend="super">th</hi></head>
+<p>Set out Potatoe plants sold Mr. <del rend="none" hand="h1"></del> <del rend="none" hand="h1"></del>
+<del rend="none" hand="h1"></del> <del rend="none" hand="h1"></del></p>
+</div3>
+
+<div3 type="entry" n="1863-07-09" id="d492">
+<head>Tuesday 7<hi rend="super">th</hi></head>
+<p>Commenced Harvesting rained nearly all day</p>
+</div3>
+
+</div2>
+
+</div1>
+
+</body>
+</text>
+</TEI.2>
+
+

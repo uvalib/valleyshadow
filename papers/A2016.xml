@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2016"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>  
+  
+  
+<TEI.2 id="A2016">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Casper Branner to Father, January 10, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county casper branner to father, january 10 1861</title>
+        <author>Branner, Casper</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Murrell</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Murrell</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A2016</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:501987</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Casper Branner to Father, January 10, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta county casper branner to father, january 10 1861</title>
+            <author>Casper Branner</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>4 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Casper Branner Letters, Accession #11162, Special
+       Collections Department, University of Virginia Library, Charlottesville, Virginia.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1861-01-10">1861-01-10</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>State Government, Enlistment</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2000">Summer 2000</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Voorhees</name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A2016T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Branner tells his father about the formation of military companies in nearby Harrisonburg and
+     comments on the growing secessionist sentiment in Virginia.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Father</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1861-01-10">Thursday Evening Jany. 10/61</date>
+      <name type="place">Mossy Creek Academy, Augusta County Va.</name>
+     </dateline>
+     <salute>Dear Father,</salute>
+    </opener>
+
+    <p>Having some leisure moments I thought I would write you a short letter. The boys have all
+      <orig reg="arrived">arived</orig> here at last except one. I came all the way on Saturday. I
+     stopped in Harrisonburg and tried to get my self a pair of boots but did not <orig
+      reg="succeed">succeede</orig>. I was at all the shops in town and could not find a pair of
+     boots to fit me. I came on to Bridgewater and met with no better success. I had my measure
+     taken <orig reg="there">their</orig> for a pair <pb n="2"/> stick down <unclear>Kip</unclear>
+     boots, and I expect to get them tomorrow morning by the mail. he charges me five dollars and a
+      <orig reg="half">halfe</orig>. I asked the price of the same boots in Harrisonburg and they
+     said they could not make them for less than 7 dollars. Beaver and the boys from down the valley
+     came Wednesday. I found but very few here when I got here and had a lonesome time. But <orig
+      reg="everything">every thing</orig> is started on right now. I payed Mr. White my book bill
+     this evening and took his receipt. It was quite a military day in Harrisonburg Saturday, there
+     were two <orig reg="companies">companeys</orig>
+     <orig reg="parading">parrading</orig> the Horse company and the Rifle Company they made quite a
+     show, and I thought went through the <orig reg="maneuvers">manouvers</orig> very well. The
+     horse company was receiving their <pb n="3"/> arms. Beaver tells me that the arms for the New
+     Market Cavalry is on the way. They are to be sabres and two of Colts Navy revolvers. I think it
+     is time that they should arm the volunteer companies of the State. As in all probability they
+     will be called out in the spring. Secession is on the increase here, I have heard men say in
+     the last few days that they were strong secessionist, who before Christmas were quiet
+     submissionist. I think the time has come when submission can no longer be withstood, and we
+     should claim our rights, if not in the Union we must - out of it. The North will hear to no
+     compromise, and the South will not submit to an unconstitutional party. Write soon. My love to
+     all.</p>
+
+    <closer>
+     <salute>Your Son,</salute>
+     <signed>C.C. Branner</signed>
+     <seg type="postscript"><pb n="4"/>P.S. Friday Morning. My Boots came this morning <orig
+       reg="they">the</orig> do very well. I tell you they are stomppers, soles about half an inch
+      thick. <hi rend="underline">C.C.B.</hi></seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

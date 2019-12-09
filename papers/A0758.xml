@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+
+<?dlps id="A0758"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="A0758">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Jacob Kent Langhorne to His Mother,
+                    May 4, 1863</title>
+        <title type="sort">augusta county jacob kent langhorne to his mother, may 4 1863</title>
+        <author>Langhorne, Jacob Kent</author>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Sally Henninger </name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca.<num type="kilobytes">8</num> kilobytes </extent>
+            
+            <publicationStmt>
+                <publisher>Institute for Advanced Technology in the Humanities </publisher>
+                <publisher>University of Virginia </publisher>
+                <pubPlace>Charlottesville, Va. </pubPlace>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1997 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved. </p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2/personal.html </p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1997 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1997">1997</date>
+                <idno type="VCDH">A0758</idno>
+            <idno type="uva-pid">uva-lib:501895</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War </p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note> </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Jacob Kent Langhorne to His Mother, May 4, 1863</title>
+            <title type="sort">augusta county jacob kent langhorne to his mother, may 4 1863</title>
+            <author>Jacob Kent Langhorne </author>
+            <respStmt>
+                            <resp> </resp>
+                            <name> </name>
+                        </respStmt>
+          </titleStmt>
+                    <publicationStmt>
+                        <publisher> </publisher>
+                        <pubPlace> </pubPlace>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted:Jacob Kent Langhorne Papers, Manuscript #361, Virginia Military Institute Archives, Lexington, Virginia </idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p>Source Copy Consulted: Jacob Kent Langhorne Papers, Manuscript #361,
+                            Virginia Military Institute Archives, Lexington, Virginia. Also
+                            available online at http://www.vmi.edu/~archtml/ms361.html </p>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Virginia Military Institute Archives, Lexington, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1863-05-04">1863-05-04</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Battle Description, Troop Movement </term>
+                    <term>Regiment: 2nd Va. Cav. </term>
+                    <term>Company: C </term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value="2000">Summer 2000</date>
+                <respStmt>
+                    <resp/>
+                    <name>Amy Voorhees </name>
+                </respStmt>
+                <item> Proofread against the original; transcription corrected.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="A0758T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Langhorne gives a description of his company's movements and tells about his
+                    narrow escape from capture while out scouting along the James River.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Mother</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1863-05-04">May 4th 1863 </date>
+                        <name type="place">South Side James <abbr expan="River">R</abbr>
+                            <orig reg="Opposite Columbia">Oposite Collumbia</orig>
+                        </name>
+                    </dateline>
+                    <salute>Dear Mama </salute>
+                </opener>
+                <p>I commence this letter not knowing when &amp; where I can mail it. We left
+                    Orange <abbr expan="Court House" cert="no">C.H.</abbr> on the 1 and started to
+                    Spotsylvania <abbr expan="Court House" cert="no">C.H.</abbr> where we heard our
+                    army was. We <orig reg="had not">hadent</orig> gone far from Orange <abbr
+                        expan="Court House" cert="no">CH</abbr> before we met with a squad of <orig
+                        reg="Yankee">Yankey</orig> Cavalry which made us leave the road and go to
+                    the woods. They then pursued us a mile or two where we lost sight of them. We
+                    then came to the road leading to Richmond to the right of the central railroad
+                    where we camped for the night.</p>
+
+                <p>We got up the next morning and went out of the woods to the railroad where we
+                    came to a company of about 50 or 60 men tearing up the railroad. They saw my
+                    white horse. Just we turned back and 2 of them pursued us about a mile when we
+                    came to a halt and when they came up in sight we rode towards them then they ran
+                    back about a mile up the main road. We then met some citizens who had just left
+                    Louisa <abbr expan="Court House" cert="no">CH</abbr> where the Yankees were
+                    tearing up the track and were coming towards James <abbr expan="River">R</abbr>.
+                    We then came on to Columbia and tried to cross the river but there were so many
+                    people to cross that we could not have gotten over in time to have made our
+                    escape.</p>
+
+                <p>I and Mr. Lee went out to watch them approach. We had been out about 3 hours
+                    &amp; 1/2. About 11 <orig reg="o'clock">oclock</orig> in the night when
+                    their advanced guard of about 100 men came up we went and gave information to
+                    the Citizens. We then started down the tow path towards Richmond. Had gone about
+                    2 miles <sic corr="and">and and</sic> were right upon them before we heard <orig
+                        reg="anything">any thing</orig> from them.</p>
+
+                <p>I thought then I would be a prisoner in 10 minutes but we crossed the small part
+                    of James <abbr expan="River">R</abbr> and got over on the Island and happened to
+                    come to a <orig reg="man's">mans</orig> private ferry who got us over and saved
+                    us from their mercy. They have burned all the bridges over the canal and all the
+                    barns and stables and every thing like food on the other side of the River from
+                    here. They tried to destroy the aqueduct over the Rivanna but did not succeed.
+                    They shot a young man over the river yesterday 3 times and then cut his head off
+                    and <orig reg="rolled">roled</orig> him in the canal right before his mother
+                    &amp; <orig reg="Father's">Fathers</orig> eyes. I am right well. Love to
+                    all. I will <orig reg="write">right</orig> as soon as I can again,</p>
+
+                <closer>
+                    <salute>I am your attached son, </salute>
+                    <signed>Kent. </signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

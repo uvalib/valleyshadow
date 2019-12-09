@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1082"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1082">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: Thomas P. Jackson to
+                    Orlando Brown, December 11, 1867</title>
+        <title type="sort">freedmens bureau records thomas p jackson to orlando brown, december 11 1867</title>
+        <author>Jackson, Thomas P.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1082</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500952</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: Thomas P. Jackson to Orlando Brown,
+                            December 11, 1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records thomas p jackson to orlando brown, december 11 1867</title>
+            <author>Thomas P. Jackson</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 26.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note>
+                            <p>McDonnell copied a letter sent to him from Jackson and appended it to
+                                a copy of a letter Jackson wrote to Orlando Brown.</p>
+                        </note>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-12-11">1867-12-11</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Legal System, Violence/Crime</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-07">July 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+                <item>Item checked against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1082T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Jackson reports on the progress of several cases of assault against blacks in
+                    Augusta County. Regarding one case, Jackson notes that the complainants fear
+                    they will have to leave their homes if they prosecute the case.</p>
+            </div1>
+
+            <div1 type="section" id="endorsement">
+                <p>Staunton <abbr expan="December">Dec</abbr> 12/67<lb/><abbr expan="Captain"
+                    >Capt.</abbr> John A. McDonnell<lb/><abbr expan="Sub Assistant Commissioner"
+                        >Sub. Asst. Comr.</abbr><lb/>Winchester</p>
+                <p>Captain,</p>
+                <p>I have the honor to transmit communication from <abbr
+                        expan="Assistant Commissioner">Asst. Comr.</abbr>
+                    <abbr expan="District">Dist.</abbr> of <abbr expan="Virginia">Va.</abbr> with my
+                    report thereon so far as I can make it from facts in my possession.</p>
+                <p>Levi Middlebrook was terribly beaten but he and the others except Baker live in
+                    neighborhood where I am sure if they prosecute <orig reg="their">there</orig>
+                    assailants they cannot remain. I will make special enquiry what is done in each
+                    case and report to your Head Quarters.</p>
+                <p>Very respectfully<lb/><abbr expan="Your">Yr.</abbr>
+                    <abbr expan="Obedient">Obt.</abbr> Servant<lb/>(signed) Thos. P.
+                    Jackson<lb/>Agent</p>
+            </div1>
+        </front>
+
+        <body id="d5">
+            <div1 type="letter" id="d6">
+                <head>
+                    Bureau Refugees Freedmen and <abbr expan="Abandoned">A.</abbr> Lands<lb/>Office
+                    4th <abbr expan="Division">Div.</abbr>, 9th <abbr expan="Sub-District">Sub.
+                        Dist.</abbr>
+                    <abbr expan="Virginia">Va.</abbr>
+                    <name type="recipient"><abbr expan="Brigadier">Brig</abbr>
+                        <abbr expan="General">Gen'l</abbr> O. Brown<lb/><abbr
+                            expan="Assistant Commissioner">Asst. Comr.</abbr>
+                        <abbr expan="District">Dist.</abbr> of <abbr expan="Virginia"
+                        >Va.</abbr><lb/>Richmond</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-12-11"><abbr expan="December">Dec.</abbr> 11th/1867</date>
+                        <name type="place">Staunton <abbr expan="Virginia">Va.</abbr></name>
+                    </dateline>
+                    <salute>General,</salute>
+                </opener>
+
+                <p>In compliance with your order <abbr expan="December">Dec.</abbr> 4th 1867 to
+                    report what action was taken in the "four cases of attack with pistols" alluded
+                    to in November report under <abbr expan="Circular">Cir.</abbr> 6, I have the
+                    honor to transmit copies of letter addressed by me to James Bumgardner <abbr
+                        expan="Commonwealth Attorney">Comm Atty.</abbr> in reference to cases of
+                    Baker Jackson and Wallace, to William Chapman <abbr expan="Justice of the Peace"
+                        >J.P.</abbr> in reference to case of Levi Middlebrook and to John M. Huff in
+                    reference to case of Mary Minor. On receipt of instructions from <abbr
+                        expan="Captain">Capt.</abbr> John A. McDonnell <abbr
+                        expan="Sub Assistant Commissioner">Sub. Asst. Comr.</abbr> to refer cases of
+                    Wallace &amp;c to county magistrates, I proceeded to Mt. Torrey Furnace some
+                    25 miles from this place, but found Wallace from home. I have however directed
+                    his wife to apply to Justice Chapman for a warrant against Ford and Sarah A.
+                    Epps, to Justice <unclear>Koiner</unclear> for a warrant against Robert
+                        <unclear>Loving</unclear> Hugh Jackson I could not find.</p>
+
+                <p>To this time I have received in instruction that warrants have been issued in any
+                    of these cases or seen the com- <pb n="2"/>plaints, who live at a distance from
+                    Staunton, except when they first called at this office to make complaint, and
+                    owing to the absence of county official, at Richmond I cannot learn if any
+                    action has been taken by the civil Authorities.</p>
+
+                <closer>
+                    <salute>I have the honor to be General<lb/><abbr expan="Your Obedient Servant"
+                            >Yr. Obt. Servt.</abbr></salute>
+                    <signed>(signed) Thos. P. Jackson<lb/>Agent Bureau <abbr
+                            expan="Refugees, Freedmen and Abandoned Lands">R.F. and A.L.</abbr> 4<hi
+                            rend="super">th</hi>
+                        <abbr expan="Division">Div</abbr> 9<hi rend="super">th</hi>
+                        <abbr expan="Sub-District">SD</abbr>
+                        <abbr expan="Virginia">Va.</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

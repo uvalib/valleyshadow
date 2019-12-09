@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1203"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1203">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: George T. Cook to J. A.
+                    Bates, May 23, 1866</title>
+        <title type="sort">freedmens bureau records george t cook to j a bates, may 23 1866</title>
+        <author>Cook, George T.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1203</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501061</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: George T. Cook to J. A. Bates, May 23,
+                            1866</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records george t cook to j a bates, may 23 1866</title>
+            <author>George T. Cook</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 58.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1866-05-23">1866-05-23</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Aid/Relief</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-06">June 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+                <item>Item proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1203T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Cook reports no current cases of need in his district, but writes that since he
+                    only just assumed command of Augusta and Highland Counties, he is not entirely
+                    sure that none exist.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau of <abbr expan="Refugees, Freedmen and Abandoned Lands">R. F. and A.
+                        L.</abbr><lb/>Officer of <abbr expan="Assistant Superintendent">Asst.
+                            Supt</abbr> Sub-<abbr expan="District">Dist</abbr> "D"
+                    <name type="recipient">Captain Ja's A Bates<lb/><abbr
+                            expan="Acting Assistant Adjutant General">A.A.A.G.</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1866-05-23">May 23d, 1866</date>
+                        <name type="place">Staunton Augusta <abbr expan="County">Co.</abbr></name>
+                    </dateline>
+                    <salute>Captain</salute>
+                </opener>
+
+                <p>In compliance with directions this day <abbr expan="received">rec<hi rend="super"
+                            >d</hi></abbr> from Brevet Major W. S. How <abbr expan="Superintendent"
+                        >Supt</abbr> Sixth <abbr expan="District">Dist</abbr>, <abbr
+                        expan="Virginia">Va</abbr> I have the honor to forward report required by
+                    Circular No. 18 Current Series, direct.</p>
+
+                <p>Although I have given publicity to the Order I have as yet received no notice
+                    that there are any cases of necessity in this District. I think probable that by
+                    the 1st of June some such cases will be reported to me from Rockingham <abbr
+                        expan="County">Co.</abbr> if no others, having only assumed Command of the
+                    Counties of Augusta and Highland on the 20th inst. and the order not having been
+                    previously acted upon in those Counties I cannot speak from certainty in regards
+                    to their reception.</p>
+
+                <closer>
+                    <salute>I have the honor to be Captain<lb/>Very Respectfully<lb/>Your <abbr
+                            expan="Obedient">Obt</abbr> Servant</salute>
+                    <signed>Geo. T. Cook<lb/>1st <abbr expan="Lieutenant">Lt</abbr> and <abbr
+                            expan="Assistant Superintendent">Asst Supt</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

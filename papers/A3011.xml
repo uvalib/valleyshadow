@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+
+<?dlps id="A3011"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A3011">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Samuel Franklin Carson to Cousin
+                    Annie, September 9, 1864</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county samuel franklin carson to cousin annie, september 9 1864</title>
+        <author>Carson, Samuel Franklin</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Doug O'Reagan</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Doug O'Reagan</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A3011</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502171</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Samuel Franklin Carson to Cousin Annie, September 9,
+                            1864</title>
+            <title level="m"/>
+            <title type="sort">augusta county samuel franklin carson to cousin annie, september 9 1864</title>
+            <author>Samuel Franklin Carson</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Samuel Franklin Carson to Cousin
+                            Annie, September 9, 1864, Nellie Harris private collection</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from private collection</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1864-09-09">1864-09-09</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Troop Movement</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A3011T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Carson describes his current position and vaguely sketches his recent travels to
+                    his cousin Annie.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1864-09-09"><abbr expan="September">Sept</abbr> the 9<hi
+                                rend="super">th</hi> 1864</date>
+                        <name type="place">Morris Island <abbr expan="South Carolina">S.C.</abbr></name>
+                    </dateline>
+                    <salute>Dear Cousin Annie</salute>
+                </opener>
+
+                <p> Your kind letter dated <abbr expan="August">Aug</abbr> 5<hi rend="super">th</hi>
+                    was received the 16<hi rend="super">th</hi> and believe one was read with great
+                    interest. Would have answered immediately, but was expecting to leave every day,
+                    consequently I thought to defer writing <orig reg="until">untill</orig> I
+                    arrived at my destination. We were landed here on the 7<hi rend="super">th</hi>
+                    <unclear>inst</unclear> having been on board the "Steamer
+                    C<unclear>rescent</unclear>" 19 days, had a pretty hard time I tell you. Our
+                    position at present is between Fort's Gregg &amp; <unclear>Wagner</unclear>
+                    which could be made very uncomfortable to us, but so far has not. Hope the time
+                    is not far distant when in the providence of God I may see you all again.<pb
+                        n="2"/>Please remember affectionately to all my friends and relatives, and
+                    believe me as ever your devoted Cousin</p>
+
+                <closer>
+                    <salute/>
+                    <signed>S.F. Carson</signed>
+                    <seg type="postscript">P.S.<lb/> I am well at present, but was quite sick on
+                        board the boat for a short time, the rest of the 600 are generally
+                    well</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

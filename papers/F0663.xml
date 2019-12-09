@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0663"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="F0663">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Samuel W. North to His Father,
+                    December 10, 1862</title>
+        <title type="sort">franklin county samuel w north to his father, december 10 1862</title>
+        <author>North, Samuel W. </author>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Sally Henninger </name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">5</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Institute for Advanced Technology in the Humanities </publisher>
+                <publisher>University of Virginia </publisher>
+                <pubPlace>Charlottesville, Va. </pubPlace>
+                <idno type="VCDH">F0663</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1997 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved. </p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1997 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1997">1997 </date>
+            <idno type="uva-pid">uva-lib:501325</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War </p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note> </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Samuel W. North to His Father, December 10, 1862</title>
+            <title type="sort">franklin county samuel w north to his father, december 10 1862</title>
+            <author> </author>
+            <respStmt>
+                            <resp> </resp>
+                            <name> </name>
+                        </respStmt>
+          </titleStmt>
+                    <publicationStmt>
+                        <publisher> </publisher>
+                        <pubPlace> </pubPlace>
+                        <date value=""> </date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p>Source copy consulted: Samuel W. North Letters, Company C, 126th
+                            Pennsylvania Infantry, Civil War Miscellaneous Collection, Archives of
+                            the U.S. Military History Institute, Carlisle Barracks, Pennsylvania.
+                        </p>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from U. S. Army Military History Institute, Carlisle Barracks, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="-12-10">xxxx-12-10 </date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Family, Troop Movement</term>
+                    <term>Regiment: 126th Pa. </term>
+                    <term>Company: C </term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value="2000">Summer 2000</date>
+                <respStmt>
+                    <resp/>
+                    <name>Amy Voorhees</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="F0663T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>North talks about the bounty and pay he has received and says part of it will be
+                    sent home.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Father</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="-12-10">Dec 10 </date>
+                        <name type="place">Camp near <unclear>
+                            <abbr expan="Fredericksburg">Fredbrg.</abbr>
+                        </unclear>
+                        </name>
+                    </dateline>
+                    <salute>Dear Father </salute>
+                </opener>
+                <p>I take this chance of writing to you as we expect to move this evening or
+                    tomorrow morning and I may not have another opportunity for a few days. I am
+                    well and Jacob is well with the exception of a Slight cold. We have been paid
+                    and received our bounty up to the Second of November. I sent thirty five $35.00
+                    to be expressed at Washington by our <unclear>adjutants</unclear> and two days
+                    after we drew our <unclear>bounty</unclear> 27$ which I put into <abbr
+                        expan="Captain">Capt</abbr>
+                    <orig reg="Brownson's">Brownsons</orig> hands to be sent by <abbr
+                        expan="Colonel">Col</abbr>
+                    <unclear>Craig</unclear> to Washington and expressed there. ours will be sent to
+                    Mr. Grove. You will get it there and write Immediately and let me know whether
+                    you got it. We drew three months pay <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> one day <del rend="none" hand="h1"/> we were mustered in one <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> it was $38.55 and our <unclear>bounty</unclear> which was
+                    $27.00 I sent <unclear>sixty</unclear>
+                    <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> and kept $5.55. had left of <unclear>amount</unclear> $3.50
+                    which leaves me $7.05<unclear> which I think will be as much as need carry with
+                        me and I can write for some of mine should I run out but I think this will
+                        see me out. If any thing unusual happens I will write of it in a few
+                    days.</unclear> I think you got a cheap pair of mules if they are anything <del
+                        hand="h1"/>
+                    <del rend="none" hand="h1"/>. write immediately and let me know if you got the money.</p>
+
+                <closer>
+                    <salute>from your affectionate son </salute>
+                    <signed>S.W. North </signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

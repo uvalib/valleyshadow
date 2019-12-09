@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9910"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A9910">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: John D. Imboden to Frank Imboden,
+                    September 22, 1864</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county john d imboden to frank imboden, september 22 1864</title>
+        <author>Imboden, J.D.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Josh Botts</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Josh Botts</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A9910</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502853</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: John D. Imboden to Frank Imboden, September 22, 1864</title>
+            <title level="m"/>
+            <title type="sort">augusta county john d imboden to frank imboden, september 22 1864</title>
+            <author>J.D. Imboden</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: J.D. Imboden to Frank Imboden,
+                            Sept. 22, 1864, John D. Imboden Papers, University of Virginia Library,
+                            Accession Numbers 38-23, 580, 599, 2983a</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1864-09-22">1864-09-22</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Death/Casualties, Family, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A9910T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Imboden updates his brother on the health and status of family and friends.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1864-09-22">Sep. 22/64</date>
+                        <name type="place">Rockbridge Alum Springs</name>
+                    </dateline>
+                    <salute>Dear Frank.</salute>
+                </opener>
+
+                <p>I was taken down with fever at New Market about the middle of August and sent to
+                    Staunton for treatment. Two weeks ago I was sufficiently recovered to come to
+                    this place. I am now well and will return to duty in a few days. Mary is with
+                    us. Her health is still very delicate. She read your letter of July 28<hi
+                        rend="super">th</hi> &amp; answered it at once. This week I <abbr
+                        expan="received">recd.</abbr> your letter of July 14<hi rend="super"
+                    >th</hi>. I am endevouring to carry out your request but doubt my ability to
+                    accomplish anything. I have written to <abbr expan="General">Gen.</abbr> Wise
+                    invoking his aid &amp; hope it will be more potent than my efforts. Some of
+                    your friends have been killed since your capture, though I believe none with
+                    whom you were very intimate. <abbr expan="Colonel">Col.</abbr> Lang &amp;
+                    Thornhill were killed below Winchester week before last. Poor Lang we shall miss
+                    him greatly. George &amp; Jimmy &amp; <abbr expan="George">Geo.</abbr>
+                    McPhail well at last accounts. The 18<hi rend="super">th</hi> won the
+                    distinction of a special report from the Division Commander a few days ago for
+                    gallantry. I would say more if it were not contraband. Ma was to see me in
+                    Staunton. All were well at home. I effect to see them next week. I have laid
+                    aside a Salem letter for you which I suppose will "keep" till you get back.</p>
+
+                <p><abbr expan="Colonel">Col.</abbr> Massie of the Institute is here &amp; sends
+                    his regards to you. His brother Rodes is a prisoner. If at Johnson Island make
+                    his acquaintance. I shall endeavour to get Mary to winter in <abbr
+                        expan="South Carolina">S.C.</abbr> or <abbr expan="Georgia">Ga.</abbr> for
+                    her health.</p>
+
+                <p>Give my kindest regards to Ginnevan, Ervin, Warden, Makely, Re<del rend="none" hand="h1"/>,
+                        <abbr expan="Captain">Capt</abbr> Imboden &amp; all other friends with
+                    you. I spend many an hour thinking of you all and hope ere long a general
+                    exchange may restore you to your friends. Mary writes in love to you. Russie,
+                    Frank, &amp; Jennie are all at school at Mr McPhail's.</p>
+
+                <closer>
+                    <salute>Your affectionate brother</salute>
+                    <signed>John.</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

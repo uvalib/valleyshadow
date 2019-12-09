@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+
+<?dlps id="B2005"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B2005">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: John A. McDonnell to R.
+                    M. Manly, May 6, 1867</title>
+        <title type="sort">freedmens bureau records john a mcdonnell to r m manly, may 6 1867</title>
+        <author>McDonnell, John A.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B2005</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501120</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: John A. McDonnell to R. M. Manly, May 6,
+                            1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records john a mcdonnell to r m manly, may 6 1867</title>
+            <author>John A. McDonnell</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Superintendent of Education for the State
+                            of Virginia, Bureau of Refugees, Freedmen and Abandoned Lands,
+                            1865-1869, Record Group 105, M1053, Roll 14.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-05-06">1867-05-06</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Education, Church/Religious Activity, Patriotism</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-06">June 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+                <item>Item checked against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B2005T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>McDonnell summarizes the spaces available for schools throughout the Ninth
+                    District, enclosing a more detailed report from Augusta County.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau of Refugees, Freedmen and Abandoned Lands,<lb/>Head Quarters 9th District
+                    Department of the Potomac,
+                    <name type="recipient">R. M. Manly<lb/><abbr expan="Superintendent of"
+                        >Supt.</abbr> Education<lb/>Richmond <abbr expan="Virginia">Va.</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-05-06">May 6th 1867</date>
+                        <name type="place">Winchester, <abbr expan="Virginia">Va.</abbr>,</name>
+                    </dateline>
+                    <salute>Sir</salute>
+                </opener>
+
+                <p>I have the honor to enclose report of agent for Augusta &amp; Highland <abbr
+                        expan="Counties">Cos.</abbr> and to report concerning the remainder of this
+                        <abbr expan="District">Dist.</abbr>, as follows, at Harrisonburg, Rockingham
+                        <abbr expan="County">Co.</abbr> church owned by Freedmen, Rent Free,
+                    Capacity 100, can be used as long as required -- Woodstock, Shenandoah <abbr
+                        expan="County">Co.</abbr>, Room in private dwelling, owned by a Freedman,
+                    Rent free, Capacity 75, can be had for one year from May 1, 67.</p>
+
+                <p>Front Royal, <abbr expan="Virginia">Va.</abbr> Warren <abbr expan="County"
+                    >Co.</abbr> Church owned by Freedpeople, Rent free, capacity 40, can be had as
+                    long as desired but is too small for Winter school.</p>
+
+                <p>Winchester, <abbr expan="Frederick County">Fredk. Co.</abbr> - 4 Rooms, rented by
+                    Bureau, owned by A.S. Griffith, $30 per <abbr expan="month">mo.</abbr> is paid
+                    for Building, 3 rooms of which are used for Bureau offices <add hand="h1"
+                        place="inline">(capacity 400)</add> can probably be had another year -- at
+                    White Hall, <abbr expan="Frederick County">Fred<hi rend="super">k</hi>
+                    Co.</abbr> Schoolhouse, lately repaired by the Freedpeople, owned by Society of
+                    Friends, can be had, rent free, as long as required. <pb n="2"/>It will
+                    accomodate about 50 scholars.</p>
+
+                <p>Schools are now being held in the places referred to except at Whitehall and
+                    Front Royal. The School at Front Royal was held, the past winter in a building
+                    hired by Bureau, which has been given up, and leased to other parties. At
+                    Whitehall, no teacher has been sent, <abbr expan="though">tho'</abbr> the
+                    Freedpeople are very anxious one should be, and as the people in the
+                    neighborhood are quite generally loyal, a teacher would find it easy to obtain
+                    board on reasonable terms.</p>
+
+                <closer>
+                    <salute>Very Respectfully<lb/>Your <abbr expan="Obedient Servant">Obed
+                        Servt</abbr></salute>
+                    <signed>John A. McDonnell<lb/><abbr expan="Captain Veterans' Reserve Corps">Capt
+                            V.R.C.</abbr><lb/><abbr expan="Sub Assistant Commissioner">Sub.Asst.
+                            Comr.</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

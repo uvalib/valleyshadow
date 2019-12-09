@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9814"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A9814">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: William Martin to Alexander H. H. Stuart,
+                    February 10, 1867</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta william martin to alexander h h stuart, february 10 1867</title>
+        <author>Martin, William</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Andrew Meade McGee</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Andrew Meade McGee</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A9814</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502838</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: William Martin to Alexander H. H. Stuart, February 10, 1867</title>
+            <title level="m"/>
+            <title type="sort">augusta william martin to alexander h h stuart, february 10 1867</title>
+            <author>William Martin</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Source copy consulted: William
+                            Martin to Alexander H. H. Stuart, February 10, 1867, Alexander H. H.
+                            Stuart Papers, Albert and Shirley Small Special Collections Library,
+                            University of Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-02-10">1867-02-10</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term/>
+                    <term>American Civil War, State Government</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A9814T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>William Martin urges Alexander H. H. Stuart to run for governor of Virginia.
+                    Martin also discusses plans for settling debts between Virginia and West
+                    Virginia.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient"><abbr expan="Honorable">Hon<hi rend="super">l</hi></abbr>
+                        A. H. H. Stuart<lb/>Staunton<lb/><hi rend="underline">Va</hi></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-02-10">Feb 10 <hi rend="super">th</hi> - 1867</date>
+                        <name type="place">Ballard House</name>
+                    </dateline>
+                    <salute>Dear Sir -</salute>
+                </opener>
+
+                <p>On my return from Franklin County on Wednesday last I found a letter from you
+                    appraising me that you &amp; Mr. Lowning, were in Richmond. I left home the
+                    next morning &amp; reached the city on the same evening &amp; was
+                    surprised and disapointed to learn that you had returned home. Being home for
+                    several days &amp; not engaged in <hi rend="underline">settling </hi><hi
+                        rend="underline">accounts</hi> between the two states, I have turned my
+                    attention to the <hi rend="underline">general</hi>
+                    <hi rend="underline">race</hi> for <abbr expan="Governor">Gov<hi rend="super"
+                        >r</hi></abbr> that is likely to take place in the spring. Many of our
+                    friends in the Legislature prefer you <pb n="2"/>for <abbr expan="Governor"
+                            >Gov<hi rend="super">r</hi></abbr> &amp; with our Conservative
+                    friends on the South Side of James River you are decidedly their choice. Fayette
+                    McMullin is in the field &amp; says he will be at your next court in
+                    Augusta. <abbr expan="General">Gen<hi rend="super">l</hi>.</abbr> Thompson or
+                        <abbr expan="General">Gen<hi rend="super">l</hi>.</abbr> Mahone will be the
+                    regular <unclear>
+                        <orig reg="Secession">Secesion</orig>
+                    </unclear> Candidate. Our friends here are inclined to put you, myself &amp;
+                    Nelson in the field &amp; if your Townsman &amp; kinsman <del hand="h1"
+                        >was</del>
+                    <add hand="h1" place="inline">were</add> out of the way, there would be no
+                    difficulty about the success of the ticket. Nelson is willing &amp; anxious
+                    to go on the ticket for Attorney <abbr expan="general">Gen<hi rend="super"
+                        >l</hi></abbr>. I learn that <abbr expan="Governor">Gov<hi rend="super"
+                        >r</hi>.</abbr> Boreman has appointed companions to meet us. Would it not be
+                    well for us to meet here on Wednesday the 13<hi rend="super">th</hi> of March.
+                    &amp; if we agree upon any satisfactory basis of settlement <pb n="3"/><abbr
+                        expan="Governor">Gov<hi rend="super">r</hi></abbr> Pierpoint can convene the
+                    Legislature &amp; fix the question of the payment of the States interest on
+                    the public debt, which I learn will be adjourned till <hi rend="underline"
+                    >we</hi> make our report. I had a long interview last evening with Alexander
+                    Mosby, who has taken charge of the <unclear>Ticking</unclear> &amp; who
+                    prefers you for <abbr expan="Governor">Gov<hi rend="super">r</hi></abbr>
+                    &amp; is very desirous that you should become a candidate for the office.
+                    Nelson &amp; I will pursue any course you may adopt. I shall remain here
+                    till Wednesday at 2 oclock. Write me fully either here or at Home -- Posts Slow.</p>
+
+                <closer>
+                    <salute>In haste yours Truly</salute>
+                    <signed><abbr expan="William">W<hi rend="super">m</hi></abbr> Martin</signed>
+                    <seg type="postscript">NB -- If we dont meet in March I would prefer July or
+                        August as I shall be in court during the spring months &amp; the month
+                        of June. W.M.</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

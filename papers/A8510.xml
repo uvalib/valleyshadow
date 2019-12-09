@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+
+<?dlps id="A8510"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A8510">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: John B. Coles to John H. McCue,
+                    April 22, 1857</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county john b coles to john h mccue, april 22 1857</title>
+        <author>Coles, John B.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Virginia Center for Digital History Staff</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A8510</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502723</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: John B. Coles to John H. McCue, April 22, 1857</title>
+            <title level="m"/>
+            <title type="sort">augusta county john b coles to john h mccue, april 22 1857</title>
+            <author>John B. Coles</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: John B. Coles to John. H. McCue,
+                            22 April 1857, McCue Family Papers, Accession # 4406, Special
+                            Collections, University of Virginia, Charlottesville, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1857-04-22">1857-04-22</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Economy</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2003-08">August 2003</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A8510T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>John B. Coles asks John H. McCue to bring him five pounds of maple sugar back
+                    from Staunton.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1857-04-22">April the 22<hi rend="super">nd</hi> 1857</date>
+                    </dateline>
+                    <salute>Dear Sir</salute>
+                </opener>
+
+                <p>I write you a few lines to ask a particular favor of you to get me about 5 <abbr
+                        expan="pounds">lbs</abbr> of Maple Sugar when in Staunton the best I saw was
+                    at Staples &amp; Martins the harder &amp; clearer it is the better <del
+                        hand="h1">it is</del> you will find the price about 20<hi rend="super"
+                    >c</hi> per <abbr expan="pound">lb</abbr> for so small a quantity you may meet
+                    with a safe opportunity <orig reg="someone">some one</orig>
+                    <orig reg="coming">comeing</orig> over to our Superior Court, if you will send
+                    it to Mr <unclear>Wittmore</unclear> or Mr <unclear>Arnole</unclear> at <orig
+                        reg="Waynesboro">Waynesborough</orig> either of them would take care of it
+                    &amp; send it over either to Mr Dickinson's or
+                    <unclear>Fergreson's</unclear> our Post office Mr Albertson's frequently sending
+                    over to his plantation. But if you will do me the favor to write me a few lines
+                    to Greenfield if I learn the sugar has been sent to <orig reg="Waynesboro"
+                        >Waynesborough</orig> will send over after it. I suppose almost every day
+                    you could meet with a safe opportunity to <orig reg="Waynesboro"
+                    >Waynesborough</orig>. You will confer a very great favor by attending to it as
+                    soon as you receive this &amp; write me without delay &amp; will send
+                    you or hand you the money at sight &amp; will probably be at Staunton in a
+                    week or two</p>
+
+                <closer>
+                    <salute>Yours very <abbr expan="Respectfully">Respty</abbr></salute>
+                    <signed><abbr expan="John">Jno.</abbr> B. Coles.</signed>
+                    <seg type="postscript">P. S. It It will be best to send it to <orig
+                            reg="Waynesboro">Waynesborough</orig> to either of the gentlemen
+                        mentioned above have it <orig reg="wrapped">wrapted</orig> up in a double
+                        paper &amp; my name put on it.<lb/>J.B.C <name type="recipient"><abbr
+                                expan="John">Jno.</abbr> H. McCue, <abbr expan="Esquire"
+                            >Esqr.</abbr></name>
+                    </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

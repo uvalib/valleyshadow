@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0152"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="F0152">
+ <teiHeader type="migrated">
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: John J. Miller to George Miller, April 15, 1862</title>
+        <title type="sort">franklin county john j miller to george miller, april 15 1862</title>
+        <author>Miller, John J. </author>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>David Samuel Freed </name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Institute for Advanced Technology in the Humanities </publisher>
+        <publisher>University of Virginia </publisher>
+        <pubPlace>Charlottesville, Va. </pubPlace>
+        <idno type="VCDH">F0152 </idno>
+        <!--
+    <availability>
+     <p>Text and images (c) Copyright 1997 by The Rector and Visitors of The University of Virginia.
+      All rights reserved. </p>
+     <p>URL: http://jefferson.village.virginia.edu/vshadow2 </p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1997 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1998">1998 </date>
+        <idno type="uva-pid">uva-lib:501275</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War </p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note>
+          <p>Transcription made from a photocopy.</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Franklin County: John J. Miller to George Miller April 15, 1862</title>
+            <title type="sort">franklin county john j miller to george miller april 15, 1862</title>
+            <author>John J. Miller</author>
+            <respStmt>
+              <resp> </resp>
+              <name> </name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher> </publisher>
+            <pubPlace> </pubPlace>
+            <date value=""> </date>
+          </publicationStmt>
+          <seriesStmt>
+            <p>Source copy consulted: Miller Family Papers, Library and Archives, York County Heritage
+       Trust, York, Pennsylvania. </p>
+          </seriesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from York County Heritage Trust, York, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date value="1862-04-15">1862-04-15 </date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Battle Description, Troop Movement, Death/Casualties, Medicine/Hospitals </term>
+          <term>Regiment: 76th Pa. </term>
+          <term>Company: none </term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date value="2000">Summer 2000</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Voorhees</name>
+        </respStmt>
+        <item>Proofread against original; corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+ <text id="F0152T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>John J. Miller describes the Union shelling of Fort Pulaski from Tybee Island. He also talks
+     about the incompetency of a regimental doctor.</p>
+   </div1>
+  </front>
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">George Miller</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1862-04-15">April 15<hi rend="super">th</hi> 1862</date>
+      <name type="place">Tybee Isl Georgia</name>
+     </dateline>
+     <salute>Dear Brother</salute>
+    </opener>
+    <p>I received yours of March 25<hi rend="super">th</hi> and was pleased to learn that friends
+     were all well as i am enjoying the same blessing we had a <orig reg="pleasent">pleasant</orig>
+     ride from Hilton Head we started on the 9<hi rend="super">th</hi> while there was the heaviest
+     thunder gust i ever witnessed and arrived the same day we worked that night at the batteries
+      <orig reg="until">untill</orig> about two <orig reg="o'lock">oclock</orig> in the morning and
+     then took rest as the batteries were to open on Fort Pulaski at 9 <orig reg="o'clock"
+     >oclock</orig> it was a grand sight to behold 7 or 8 batteries playing with the largest mortars
+     that ever a bomb was shot out of and almost every bomb exploded<pb n="2"/> right over the fort
+     there were 17 out of 25 - 240 pound bombs thrown into the fort from a battery that i was at the
+     bombs that were shot from the fort sometimes fell very near to us causing us to squat there was
+     only one man killed and one wounded at our batteries i dont know how many were killed in the
+     fort. but we took 360 prisoners the cannonade was kept up for 32 hours before we made an
+     opening in the walls of the fort there are only part of 8 <orig reg="companies">companys</orig>
+     of our Reg't here our battalion was to lead the forlorn hope with two <orig reg="companies"
+      >companys</orig> of the 46<hi rend="super">th</hi> New York Gen Hunter came to our Lieu't Col
+     as the Col is not here and asked him if we would lead<pb n="3"/> the storming party if they
+     would not surrender in 6 hours we gave him the Cheers Capt M<hi rend="super">c</hi> Intire was
+     praying that they would hold out 6 hours longer so that we could charge on them the scaling
+     ladders were all got ready but we were sadly disappointed at 3 <orig reg="o'clock"
+     >oclock</orig> there was a white rag run up the flag staff and all was over we told the capt
+     that Co. D. was the leading Co of our Reg't on a march he said he said he would not give a damn
+     for us if we could not crowd through them and get into the fort first the first night of the
+     bombardment we were marched through the greatest roads you ever seen through woods and
+      swamps<pb n="4"/> we were muddy up to our middle we calculated that the rebels would leave the
+     fort and try to escape and we were placed behind the fort to bring them to a halt if they tried
+     to it but they did not towards morning our pickets were drove in we were ordered into line and
+     our guns loaded but were not disturbed i think we will be in <orig reg="Savannah"
+     >savanna</orig> when you receive this as we have Pulaski and fort Jackson now they only gave
+     one broadside from the Wabash on Jackson the <orig reg="rebels">rebbels</orig> spiked <orig
+      reg="their">there</orig> cannon and run like buggars give my respect to all <orig
+      reg="inquiring">enquiring</orig> friends direct your letter Tybee Island Georgia 76<hi
+      rend="super">th</hi> Reg't Co. I. <abbr expan="Pennsylvania">Penna</abbr> Vols in care of Capt
+      M<hi rend="super">c</hi>Intire </p>
+    <p>Your affectionate brother</p>
+    <p>John J. Miller</p>
+    <p>write soon </p>
+    <pb n="5"/>
+    <p>PS/ Thomas Stevens sends his respects to you he has done no duty Since we left Harrisburg he
+     was on the sick list he has a running sore on his exterior parts which is hard to cure in this
+     climate as we have nothing but a butcher for a doctor he knows nothing at all for here was a
+     man went to him from <abbr expan="company">comp</abbr> F for medicine he told him he was fit
+     for duty to go and drill all he wanted was exercise the next day he died that is the way he
+     serves them most all i went to him one day just for fun i got lazy i wanted a day or two rest i
+     told him i had awful pains in my head and neck he felt my pulse and looked at my<pb n="6"/>
+     tongue he said i was not fit for duty and put my name on the sick list i told our orderly
+     sergeant there was nothing wrong with me he told me i need not do any duty as long as my name
+     is on the sick list all the <orig reg="doctor">docter</orig> gave me was three powders told me
+     to take one in the morning one at dinner and one in the evening i threw them away i went to him
+     the next morning and told him they done me no good. he said i was fit for duty. so i got two
+     days rest</p>
+    <closer>
+     <salute>Your most affectionate brother </salute>
+     <signed>John J Miller </signed>
+     <seg type="postscript"> answer this if you please </seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

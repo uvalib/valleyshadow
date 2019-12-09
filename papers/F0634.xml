@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0634"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F0634">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Josiah Bloss to His Sister, September 19, 1863</title>
+        <title type="sort">franklin county josiah bloss to his sister, september 19 1863</title>
+        <author>Josiah Bloss</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Voorhees</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Voorhees</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">F0634</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:501298</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Franklin County: Josiah Bloss to His Sister, September 19, 1863</title>
+            <title level="m"/>
+            <title type="sort">franklin county josiah bloss to his sister, september 19 1863</title>
+            <author>Josiah Bloss</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>4 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: </idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Pennsylvania Archives</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1863-09-19">1863-09-19</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Battle Description</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001">Fall 2001 </date>
+        <respStmt>
+          <resp/>
+          <name>Desi Hopkins</name>
+        </respStmt>
+        <item>Proofread against original; corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="F0634T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Bloss writes his sister describing how his company drove the rebels from the Rappahannock to
+     the Rapidan.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">His Sister</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1863-09-19">Sept 19<hi rend="super">th</hi> 1863</date>
+      <name type="place">Stevensburg Va</name>
+     </dateline>
+     <salute>Dear Sister,</salute>
+    </opener>
+
+    <p>I received your most kind &amp; loving letter yesterday evening containing two
+     Photographs which I think looks very natural. I sent one of them to W<hi rend="super">m</hi>
+     this morning. we have had a very <orig reg="rough">rugh</orig> time of it since the 15<hi
+      rend="super">th</hi> until the 17<hi rend="super">th</hi>. we drove the rebels from the
+     rappahannock river to the <orig reg="Rapidan">rappaden</orig> river.</p>
+
+    <p>On the first day we drove the rebels from brandy station to Culpeper and from there to the
+     rear of Slaughter mountain. on our next day we drove them across the <orig reg="Rapidan"
+      >Rappaden</orig> river. There the rebels<pb n="2"/> was entrenched <orig reg="all">al</orig>
+     along the river side but we kept up a very steady fire on them <orig reg="all">al</orig> day
+     and the same night our regiment tied our horses in the woods one mile from <orig reg="their"
+      >there</orig> breast works and we crept up to the rebels breast works on our hands and feet
+     when daylight <orig reg="appeared">apeared</orig> the rebels was walking along on <orig
+      reg="their">there</orig> works. then we got up and let <orig reg="terrible">terible</orig>
+     fire on them. the rebels <orig reg="dropped">dropt</orig> in <orig reg="their">there</orig>
+     holes. Then they <orig reg="opened">
+      <unclear>opent</unclear>
+     </orig> on us with <orig reg="there">there</orig> artillery and we was so close to them that we
+      <orig reg="used">youst</orig> to drive <orig reg="their">there</orig> canoniers from there
+      <orig reg="pieces">pieses</orig> every time they would show <orig reg="themselves">them
+     selves</orig>. we had to lay and <orig reg="watch">wach</orig> them <orig reg="all">al</orig>
+     day if we would undertake to get back that day they <orig reg="would">wood</orig> rake us <orig
+      reg="all">al</orig> to <orig reg="pieces">pieses</orig>: and we <orig reg="stayed"
+     >staid</orig> there <orig reg="until">ontil</orig> dark then we came back. the day <orig
+      reg="following">folowing</orig> they<pb n="3"/>charged on the 4<hi rend="super">th</hi> N.Y.
+     Cavalry and took one squadron prisoners, and our reg<hi rend="super">t</hi> charged on them on
+     foot down a hill. the rebels <orig reg="opened">opent</orig> on us with <orig reg="all">al</orig>
+     <orig reg="their">there</orig> artillery but we drove them back across the river again and kept
+     them there <orig reg="until">ontil</orig> yesterday till the infantry came and <orig
+      reg="relieved">releived</orig> us. So you can judge that we had some hard fighting. The
+     saddles <orig reg="were">was</orig> not off of our horses from the 13<hi rend="super">th</hi>
+     <orig reg="until">ontil</orig> the 17<hi rend="super">th</hi> in the evening. we are fell back
+     at the present to rest our horses and <orig reg="ourselves">our selves</orig>.</p>
+
+    <p>General Buford gave our <abbr expan="regiment">regt</abbr> great praises for gallant charge
+     we made on foot. had it not been for our <abbr expan="Regiment">Regt</abbr> they would have
+     captured <abbr expan="General">Gen.</abbr> Buford and all his staff eating supper in <orig
+      reg="their">there</orig> tents <abbr expan="General">Gen.</abbr> Buford is <orig
+      reg="commanding">comanding</orig> our<pb n="4"/> Division. <abbr expan="General">Gen.</abbr>
+     Kilpatrick is <orig reg="commanding">comanding</orig> the 2<hi rend="super">nd</hi> Division
+      <del rend="none" hand="h1"/>
+     <abbr expan="General">Gen.</abbr> Greg is comanding the 3<hi rend="super">rd</hi> Division and
+     General <unclear>Beasenton</unclear> has got command of those three divisions. Those are all
+     Cavalry.</p>
+
+    <p>You can see the details of the fight <orig reg="better">beter</orig>
+     <orig reg="than">then</orig> I can tell you. we have done our share in this fight now we leave
+     the infantry to finish it.</p>
+
+
+    <closer>
+     <salute>from your Affectionate Brother</salute>
+     <signed>Josiah Bloss<lb/>Co. K. 17<hi rend="super">th</hi> Pa Cav.<lb/>Washington<lb/>D.C.</signed>
+     <seg type="postscript">Send Edwin Hunsicker one of them photographs</seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

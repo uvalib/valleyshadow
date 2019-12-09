@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+
+<?dlps id="A6033"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+<!ENTITY % MANUSCRIPT "INCLUDE">
+
+ 
+ <!ENTITY Smiley6 SYSTEM "uva-lib:503098" NDATA uvaHighRes> 
+  
+ ]>  
+  
+  
+<TEI.2 id="A6033">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Thomas M. Smiley to Sister, June 9, [1862]</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county thomas m smiley to sister, june 9 1862</title>
+        <author>Smiley, Thomas M.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Jaime Henshaw</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Alice McShane</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A6033</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:503097</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Thomas M. Smiley to Sister, June 9, [1862]</title>
+            <title level="m"/>
+            <title type="sort">augusta county thomas m smiley to sister, june 9 1862</title>
+            <author>Thomas M. Smiley</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>1 page</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Smiley Family Papers Accession #1807 Special
+       Collections Department, University of Virginia Library, Charlottesville, Virginia</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>Numerical date added later by an archivist or family member</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1862-06-09">1862-06-09</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Camp Life, Troop Movement</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001">Summer 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Jaime Henshaw</name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A6033T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Thomas M. Smiley describes steady movement of his regiment over a period of days. He thinks
+     they are moving toward Mannassas again. </p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">sister</name>
+    </head>
+
+    <opener>
+     <pb n="1" entity="Smiley6" pid="uva-lib:503098"/>
+   
+     <dateline>
+      <date value="1862-06-09">June 9th</date>
+      <name type="place">Camp near Culpeper Court House</name>
+     </dateline>
+     <salute>Dear Sister</salute>
+    </opener>
+
+    <p>I now seat myself to write you a few lines to let you know that I am well but very tired as
+     we have been marching for several days. We left <orig reg="Fredericksburg">Fredericsburg</orig>
+     last friday and got to Culpeper <orig reg="today">to day</orig>. We are now camped on the road
+     that leads to Sperryville Some think that we are going to the Valley and from there to Maryland
+     &amp; Pennsylvania but I have no Idea myself where we are going all that I know is that I
+     think it very probable there will be another battle near the Old <orig reg="Manassas"
+     >Manassa</orig> fighting ground as the Yankees have all fallen back that way You should have
+     been along to hear the cheering done by the men as they came in sight of the blue ridge many of
+     them had not seen it since last fall when we crossed over from the valley. I must now close as
+     I have not time to write we are cooking three days rations and I suppose the march will be
+     resumed in the morning</p>
+
+    <closer>
+     <salute>nothing more but remain as ever your brother</salute>
+     <signed>Thomas M Smiley</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

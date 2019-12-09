@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+
+<?dlps id="A8511"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A8511">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: John G. Coleman to John H. McCue,
+                    May 29, 1857</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county john g coleman to john h mccue, may 29 1857</title>
+        <author>Coleman, John G.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Virginia Center for Digital History Staff</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A8511</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502724</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: John G. Coleman to John H. McCue, May 29, 1857</title>
+            <title level="m"/>
+            <title type="sort">augusta county john g coleman to john h mccue, may 29 1857</title>
+            <author>John G. Coleman</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: John G. Coleman to John H. McCue,
+                            29 May 1857, McCue Family Papers, Accession # 4406, Special Collections,
+                            University of Virginia, Charlottesville, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1857-05-29">1857-05-29</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>African Americans, Family, Slavery</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2003-08">August 2003</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A8511T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>John Coleman asks McCue for advice about Old York, a slave who ran away to
+                    Coleman asking for intercession. Coleman's letter indicates that the slave once
+                    belonged to their father, and he mentions animosity between McCue and
+                himself.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1857-05-29">May the 29<hi rend="super">th</hi> 1857</date>
+                    </dateline>
+                    <salute>
+                        <abbr expan="Dear Brother">D<hi rend="super">r</hi> Bro</abbr>
+                    </salute>
+                </opener>
+
+                <p>Old York has come to me this morning as a runaway and asks for my intercession in
+                    some way in his behalf. He complains of having <abbr expan="received"
+                    >recd</abbr> much <orig reg="ill-treatment">illtreatment</orig> at the hands of
+                    Mr. Sneed, and appears greatly distressed and <orig reg="dissatisfied"
+                        >dissatisfyed</orig>. Among other things he says, he is not regarded at your
+                    house as one of your negroes but as belonging to my Fathers estate. Whether
+                    there is any truth in what he says I am entirely unable to tell. Permit me to
+                    say however as a matter of feeling, that he is an old man, that he was a
+                    favorite negro of his old Master, on which account I think as much
+                        <unclear>--nity</unclear> ought to be extended to him as the nature of the
+                    case will admit barring the question entirely as to whom he may belong, if it is
+                    agreeable to you, I am willing that he may stay here upon any terms that may
+                    hereafter be considered right and equitable. If you do not approve of this, the
+                    negro is here and you can take such steps as you think fit in the matter. <pb
+                        n="2"/>I have advised York to return home, He <del rend="none" hand="h1"/> refuses to do
+                    so. I have written the above very reluctantly because it was a case in which I
+                    was really at a loss what to do. I hope you will not think it an offensive
+                    interference in your affairs as nothing is farther from my intention. Let me
+                    assure you that all I have said in this matter is in a spirit of friendship and
+                        <add hand="h1" place="inline">in</add> accordance with what I believe would
+                    be the wishes of our Father on this subject. And who, if he could be permitted
+                    to witness the present state of things between us, and the means by which it has
+                    been brought about, would deplore it with grief and anguish which would be
+                    inconsolable.</p>
+
+                <closer>
+                    <salute>Affectionately <abbr expan="yours">yrs</abbr></salute>
+                    <signed><abbr expan="John">Jno</abbr> G. Coleman</signed>
+                    <seg type="postscript">Please answer this without delay</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

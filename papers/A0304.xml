@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+
+<?dlps id="A0304"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A0304">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: James B. McCutchan to his Cousin, February 23,
+     1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county james b mccutchan to his cousin, february 23 1863</title>
+        <author>McCutchan, James B.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Desi Hopkins</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Desi Hopkins</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca.<num type="kilobytes">7</num> kilobytes </extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A0304</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:501812</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta: James B. McCutchan to his Cousin, February 23, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta james b mccutchan to his cousin, february 23 1863</title>
+            <author>James B. McCutchan</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>3 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Rockbridge Historical Society Collection, Special
+       Collections, Leyburn Library, Washington and Lee University, Lexington, Virginia.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Special Collections, James G. Leyburn Library, Washington and Lee University</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1863-02-23">1863-02-23</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Camp Life, Death/Casualites, Family, Women</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A0304T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>McCutchan relates the harsh winter conditions in camp and mentions that although there is
+     word his cousin, James R. McCutchan might be dead, he still holds hope that he is alive.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    
+    <opener>
+     <dateline>
+      <date value="1863-02-23">Feb 23rd 1863</date>
+      <name type="place">Camp Winder</name>
+     </dateline>
+     <salute>Dear Cousin</salute>
+    </opener>
+
+    <p>I received your long looked for and welcome letter a few days ago, I was somewhat surprised
+     when I received it. I had come to the conclusion that you did not intend to write any more to
+     me, well I will not treat you so bad as you did me, and will write sooner although I am afraid
+     it will fail <unclear>in</unclear> interest - we have no news of importance here now times are
+     very dull. It is reported that old Joe Hooker has left the Rappahanock, and I suppose it is
+     true. I would just as leave he had advanced here as any where <pb n="2"/>else and rather I
+     believe. I suppose he has concluded that it would not be healthy on this side of the river.
+     Some of the troops have been <orig reg="moving">moveing</orig> away form here, don't know where
+     they have gone. I hope we will not have to leave <orig reg="until">untill</orig> the weather
+     moderates some, we have had some prety rough weather, it <orig reg="snows">snowes</orig> or
+     rains nearly every day. it snowed all day yesterday it is about a foot deep. it is clear today
+     and the snow is melting some. we have our wood to carry a long ways now and I tell you it is a
+     pretty tough job, but I will be content to carry the wood if they will just leave us here until
+     warm weather. when we do leave this camp we will have to carry all that we take along. it will
+     be as much as our poor horses can do to take the empty wagons out. I never saw the like of mud
+     before. I thought it was bad at <unclear>Romney</unclear> last winter, there was some bottom in
+     the mountains but there don't appear to be any here, there is nothing but sand here. I don't
+     think I have seen a rock as big as a mans head since we came here except just on the bank of
+     the River. well I believe I will stop for the present and do some washing while the sun shines,
+     will finish this to night. Well I have done a big days washing, pretty hard job, will now
+     finish my letter - <pb n="3"/>I received a letter from home this evening stating that it is
+     thought that Ja's R. is dead. I am sorry indeed to hear it and still have some hopes that it is
+     not so. <unclear>Of</unclear> that this cruel war was over alas there are many that started out
+     that will not return when it is over. I wish I was by your fire with you tonight. I think I
+     could interest you more that I can on this poor sheet. I hope the time will soon come when that
+      <orig reg="privilege">priveledge</orig> will no longer <orig reg="denied">denyed</orig>. Well
+     Cousin I must draw this poor affair to a close. I miss <unclear>save</unclear> (the dear
+     creature) a few lines tonight I have not <orig reg="written">wrote</orig> to her for three
+     months. Give my love to Cousin Lizzie and all the rest of the folks. Excuse mistakes.</p>
+
+    <closer>
+     <salute>As ever your true Cousin</salute>
+     <signed>Ja's B. McCutchan</signed>
+     <seg type="postscript">Yates just now told me that Louis D has been up to see you. he must be
+      getting <unclear/> he has been to Lexington by this time</seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

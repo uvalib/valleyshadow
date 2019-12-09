@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+
+<?dlps id="F8041"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F8041">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: P. H. Shough to Simon Cameron,
+                    August 29, 1856</title>
+        <title type="sort">franklin county p h shough to simon cameron, august 29 1856</title>
+        <author>Shough, P. H.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Andrew J. Torget</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F8041</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501679</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: P. H. Shough to Simon Cameron, August 29, 1856</title>
+            <title level="m"/>
+            <title type="sort">franklin county p h shough to simon cameron, august 29 1856</title>
+            <author>P. H. Shough</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: P. H. Shough to Simon Cameron, 29
+                            August 1856, Simon Cameron Papers, Dauphin County Historical Society,
+                            Reel 2</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Historical Society of Dauphin County, Harrisburg, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1856-08-29">1856-08-29</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>State Government, National Government</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F8041T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Shough discusses local politics in Franklin County.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">P. H. Shough<lb/><abbr expan="August">Aug.</abbr> 29, <abbr expan="1856"
+                        >'56</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1856-08-29">August 29</date>
+                        <name type="place">Chambersburg</name>
+                    </dateline>
+                    <salute><abbr expan="General">Genl</abbr> Simon Cameron<lb/>Dear Sir</salute>
+                </opener>
+
+                <p>I had the good fortune to spend several weeks at Harisburg one year ago last
+                    winter, during that long, tedious but unsuccessful effort to elect a United
+                    States Senator. I had also the pleasure of making your acquaintance. And ever
+                    since I have been anxious to see you elected. I believe if things are managed
+                    right, and the foundation laid now, you could get the votes of all of our
+                    members. A young Democratic American of this country named A. N. Rankin <abbr
+                        expan="Esquire">Esq.</abbr> was introduced to you by <abbr expan="Major"
+                        >Maj.</abbr>
+                    <unclear>Boser</unclear> who was several years also a member of the lower
+                        <unclear>house</unclear>.<pb n="2"/>Mr Rankin is chairman of the Executive
+                    Committee of our County. I have talked him into being quite a friend of yours.
+                    He is also one of the owners and publishers of our County Anti Buchanan
+                    Newspaper. And one of his partners Washington Crooks was put in nomination for
+                    the State Senate from this District yesterday. He had also great influence with
+                    the 2 candidates for Assembly. Write him a letter about politics generally, it
+                    will please him. But you must keep this in <hi rend="underline">confidence</hi>
+                    for if he was to find out that you were solicited to write to him, it would
+                    spoil all.</p>
+
+                <closer>
+                    <salute>Yours truly</salute>
+                    <signed>P. H. Shough</signed>
+                    <seg type="postscript">N.B. I sent you by this day's mail a copy of his paper,
+                        several things are marked<lb/>P.H.<abbr expan="Shough">S</abbr></seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

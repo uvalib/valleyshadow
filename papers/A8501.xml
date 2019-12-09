@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+
+<?dlps id="A8501"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A8501">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Jedediah Hotchkiss to John H. McCue,
+                    January 14, 1858</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county jedediah hotchkiss to john h mccue, january 14 1858</title>
+        <author>Hotchkiss, Jedediah</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Virginia Center for Digital History Staff</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A8501</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502714</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Jedediah Hotchkiss to John H. McCue, January 14, 1858</title>
+            <title level="m"/>
+            <title type="sort">augusta county jedediah hotchkiss to john h mccue, january 14 1858</title>
+            <author>Jedediah Hotchkiss</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Jedediah Hotchkiss to John H.
+                            McCue, 14 January 1858, McCue Family Papers, Accession # 4406, Special
+                            Collections, University of Virginia, Charlottesville, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1858-01-14">1858-01-14</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Economy</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2003-08">August 2003</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Item proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A8501T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Jedediah Hotchkiss writes to John H. McCue concerning business transactions with
+                    A. S. Barnes &amp; Company and Butler &amp; Company.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1858-01-14"><abbr expan="January">Jan.</abbr> 14<hi
+                                rend="underline">
+                                <hi rend="super">th</hi>
+                        </hi> 1858</date>
+                        <name type="place">Mossy Creek <abbr expan="Virginia">Va.</abbr></name>
+                    </dateline>
+                    <salute><abbr expan="Dear">Dr.</abbr> M<hi rend="super">c</hi>Cue Esq!</salute>
+                </opener>
+
+                <p>I send you the case of A. S. Barnes &amp; <abbr expan="Company">Co.</abbr>
+                    <abbr expan="against">agst.</abbr> Hotchkiss &amp; Brodt. I enclose their
+                    bill and a note -- <unclear>garnishee</unclear> Odor for any claims yet in his
+                    hands and there is a bureau &amp; shower bath at the M.C.A. Boarding House
+                    that ought to be secured for the payment of this debt. Use the note if you wish
+                    -- but it must by no means get into Brodt's hands-- the same of the note which I
+                    gave for Butler &amp; <abbr expan="Company">Co</abbr>. If you give them up
+                    endorse on them that I owe no part of the debts. Attend to this at once as the
+                    Old Scamp is getting wind of our doing and will try to head us off.</p>
+
+                <pb n="2"/>
+
+                <p>The <abbr expan="amount">amt.</abbr> due Barnes &amp; <abbr expan="Company"
+                        >Co</abbr> is $38.64 &amp; I think that can be made from what is in
+                    Odor's hands &amp; the Bureau &amp; Bath.</p>
+
+                <p>I send you the letter of Barnes &amp; <abbr expan="Company">Co</abbr>
+                    &amp; shall inform them that the claim is in your hands.</p>
+
+                <p>Attend to the <abbr expan="New York">N. Y.</abbr> Judgement--</p>
+
+                <closer>
+                    <salute>Yours truly</salute>
+                    <signed>
+                        <hi rend="underline">Jed. Hotchkiss</hi>
+                    </signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

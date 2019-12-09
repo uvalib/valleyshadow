@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+
+<?dlps id="F8557"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F8557">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: James Wilson to Edward McPherson,
+                    January 16, 1860</title>
+        <title type="sort">franklin county james wilson to edward mcpherson, january 16 1860</title>
+        <author>Wilson, James</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Virginia Center for Digital History Staff</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F8557</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501739</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: James Wilson to Edward McPherson, January 16, 1860</title>
+            <title level="m"/>
+            <title type="sort">franklin county james wilson to edward mcpherson, january 16 1860</title>
+            <author>James Wilson</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: James Wilson to Edward McPherson,
+                            16 January 1860, Library of Congress, Edward McPherson Papers, Box 47,
+                            Folder 1860</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Congress, Washington, D. C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1860-01-16">1860-01-16</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Death/Casualties, Home Front, National Government, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2003-07">July 2003</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Item proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F8557T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Edward McPherson's eighty-one year old friend, James Wilson, writes about the
+                    problem of electing the Speaker of the House. He includes a mocking discussion
+                    of the Democrats and other politicians.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient"><abbr expan="Honorable">Hon</abbr> Edward McPherson</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1860-01-16">16<hi rend="super">th</hi> January 1860</date>
+                        <name type="place">Fairfield Adams County</name>
+                    </dateline>
+                    <salute>Dear Sir, </salute>
+                </opener>
+
+                <p>You have been exceeding <del hand="h1">in</del> kind in sending papers &amp;
+                    documents since the commencement of the present Session of Congress. I should be
+                    greatly wanting in common courteousness if I failed in making due
+                    acknowledgments -- You have a <unclear>bousterous</unclear> time of it. Your
+                    body can hardly be called a deliberative Assembly. I am greatly pleased with the
+                    forbearance of our Republican friends. the vituperation of the Southern fire
+                    eaters is uncalled for and beyond endurance and too much for human nature to
+                    bear patiently with. Yet I think great good will result to the Republican cause
+                    growing out of it. Iverson of Georgia <unclear>Vanlandinghouse</unclear> of
+                    Ohio, and John B. Clark of <orig reg="Missouri">Misouri</orig> and some Northern
+                    Democrats, will, if they continue in their violent course, do more to put down
+                    modern Democracy than the Republicans can do of themselves -- I wonder some fun
+                    Loving wag <orig reg="don't">dont</orig> take it into their head to get up a
+                    caricature of Bigler and other Northern Democrats representing Iverson and some
+                    other <orig reg="Southern">southern</orig> Democrats <orig reg="putting"
+                    >puting</orig> coals of fire on their Backs like the Tarapins, to make them
+                        <unclear>creep</unclear>. I say stick to Sherman, better by far to be beat,
+                    than change at the period of the fight. your patience be like to fail you read
+                    the Book of Job and persevere, your Constituents will see you out-- Without any
+                    view to flatter, you have respectable talents for debate, do not attempt <del
+                        hand="h1">and</del> to make share after small game, for no <del hand="h1"
+                        >sacrifice</del> laurels can be won in this Negro fight let our enemies have
+                    the glory, but let us have the Speaker; it is of immeasurable importance for us
+                    to have the Speaker at this <hi rend="underline">juncture</hi>. I wish you and
+                    all our Republican friends to be more than usually courteous to John Hickman, he
+                    is worth his weight in Gold for his manly bearing in this contest, but all our
+                    Delegation from <abbr expan="Pennsylvania">Pen<hi rend="super">a</hi></abbr>
+                    have a hand ready <pb n="2"/> when they meet John Hickman. I had the honor of a
+                    personal acquaintance &amp; would address him a letter to help to cheer him
+                    on in his manly course.</p>
+
+                <p>I should have written to you sooner, but for a severe spell of putrid sore
+                    throat, and <orig reg="epidemic">epidemich</orig> that has afflicted our
+                    neighbourhood much. this with a fast down hill life, being now 81 years old,
+                    almost disables me from writing <orig reg="intelligibly">inteligibly</orig> the
+                    mechanical part and you will perceive the mental part is alike deficient-- Your
+                    generous nature will know how to excuse the imperfections of this epistle- You
+                    are aware I lost the partner of my life in May last which nearly cost me my
+                    life, this with my late spell of sickness has greatly shattered my nerves. I
+                    feel now like a ship at sea without a rudder The Bark of my life is fast
+                    drifting down the tide of time and will reach that Haven which a merciful God
+                    has already indicated. I will naturally cast a lingering look upon the Country I
+                    am about to leave to freedom and to the world.</p>
+
+                <closer>
+                    <salute>Adieu Your old friend</salute>
+                    <signed>James Wilson</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

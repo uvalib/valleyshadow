@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+
+<?dlps id="A1426"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A1426">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: Jedediah Hotchkiss to J. Taylor Ellyson,
+                    December 24, 1898</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta jedediah hotchkiss to j taylor ellyson, december 24 1898</title>
+        <author>Hotchkiss, Jedediah</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Kid W.</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Kid W.</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca.<num type="kilobytes">8</num> kilobytes </extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A1426</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501965</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: Jedediah Hotchkiss to J. Taylor Ellyson, December 24, 1898</title>
+            <title level="m"/>
+            <title type="sort">augusta jedediah hotchkiss to j taylor ellyson, december 24 1898</title>
+            <author>Jedediah Hotchkiss</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Eleanor S. Brockenbrough Library,
+                            The Museum of the Confederacy, Richmond, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note>
+                            <p>Written on the letter by niece: "Last letter written to me by my
+                                loved uncle<lb/> Major Jed Hotchkiss<lb/> 12/24/1898"</p>
+                        </note>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Museum of the Confederacy, Richmond Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1898-12-24">1898-12-24</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Arts/Leisure, Death/Casualties, Family, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2005">Summer 2005</date>
+                <respStmt>
+                    <resp/>
+                    <name>Doug O'Reagan</name>
+                </respStmt>
+                <item>Proofread.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A1426T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Hotchkiss writes to thank his niece for gifts, mentions his health, tells her
+                    that he is beginning work on his memoirs, and supports her decision to join the
+                    United Daughters of the Confederacy.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient"><add hand="h1" place="inline">To</add> Mrs. J. Taylor
+                        Ellyson Richmond, <abbr expan="Virginia">Va.</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1898-12-24"><abbr expan="December">Dec.</abbr> 24, 1898</date>
+                        <name type="place">Staunton, <abbr expan="Virginia">Va.</abbr>,</name>
+                    </dateline>
+                    <salute>My dear Niece:</salute>
+                </opener>
+
+                <p>I owe you an apology for delaying to acknowledge the receipt of the
+                        <unclear>tracing</unclear> of the Map of the Battle of Greenbrier River,
+                    which came while I was especially busy. Please thank Nannie for her artistic
+                    work in copying this map. I am also obliged about information concerning <orig
+                        reg="Boswelt's">Boswelts</orig>
+                    <orig reg="notebook">note book</orig>.</p>
+
+                <p>I take great pleasure in endorsing your application to become a "Daughter of the
+                    Confederacy". Ann delighted that you have decided, at last, to do this.</p>
+
+                <p>Your xmas box came duly to hand, for which we all render many thanks, The only
+                    thing yet seen in it is the fine "colored gentleman," Ellen caught sight of him,
+                    as he was not concealed, and seized him <pb n="2"/> upon him with <orig
+                        reg="irrepressible">inerepressible</orig> delight. It has been a source of
+                    much comfort to her during the past few days while she has been suffering with a
+                    bad cold. Your aunt has been laid up with a bruised shin, but is now on the
+                    mend. I had a gauty foot some two weeks ago, but soon got rid of that and am
+                    getting along finely, gaining in flesh (now weight 170) and am improving
+                    generally. Am working quite steadily on my Memoirs, getting materials into shape
+                    &amp;c, so I may begin work on them with the new year.</p>
+
+                <p>I may run down, for a day or two, next week, for a change, and to pay you all a
+                    short visit, as I do not expect any of you to visit us.</p>
+
+                <closer>
+                    <salute>With a "Merry Christmas" and a "Happy New Year," and love to all the
+                        kindred, I am, your loving uncle,</salute>
+                    <signed>Jed. Hotchkiss</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

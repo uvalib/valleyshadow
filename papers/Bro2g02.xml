@@ -1,0 +1,481 @@
+<?xml version="1.0"?>
+
+<?dlps id="Bro2g02"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY Bro2g021 SYSTEM "uva-lib:502908" NDATA uvaHighRes>
+<!ENTITY Bro2g022 SYSTEM "uva-lib:502909" NDATA uvaHighRes>
+<!ENTITY Bro2g023 SYSTEM "uva-lib:502910" NDATA uvaHighRes>
+<!ENTITY Bro2g024 SYSTEM "uva-lib:502911" NDATA uvaHighRes>
+<!ENTITY Bro2g025 SYSTEM "uva-lib:502912" NDATA uvaHighRes>
+<!ENTITY Bro2g026 SYSTEM "uva-lib:502913" NDATA uvaHighRes>
+]>
+<TEI.2 id="Bro2g02">
+<teiHeader type="migrated">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Letter to James Brooks
+</title>
+        <title>[a machine-readable transcription]
+</title>
+        <title type="sort">letter to james brooks</title>
+        <author>Brooks Collection: Trible, Schyler
+</author>
+        <respStmt>
+          <resp>Creation of machine-readable version:
+</resp>
+          <name>Molly Campbell, Benjamin Knowles, Rawley Vaughan and Kate von Ter Stegge, HIUS 403, The University of Virginia
+</name>
+          <resp>Creation of digital images:
+</resp>
+          <name>Molly Campbell, Benjamin Knowles, Rawley Vaughan and Kate von Ter Stegge, HIUS 403, The University of Virginia
+</name>
+          <resp>Conversion to TEI.2-conformant markup:
+</resp>
+          <name>University of Virginia Library Electronic Text Center.
+</name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. 10 kilobytes
+</extent>
+      <publicationStmt>
+        <publisher>University of Virginia Library.
+</publisher>
+        <pubPlace>Charlottesville, Virginia
+</pubPlace>
+        <idno type="ETC">Modern English, Bro2g02
+</idno>
+        <!--
+<availability>
+<p>Publicly accessible
+</p>
+<p n="public">URL: http://etext.lib.virginia.edu/modeng/modengB.browse.html
+</p>
+<p>Publicly accessible
+</p>
+<p n="public">URL: http://cti.itc.Virginia.EDU/~ela/auhome/contents.html
+</p>
+<p n="public">URL: http://cti.itc.virginia.edu/~ela/auhome/bookcoll.html
+</p>
+<p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/
+</p>
+<p>copyright 2000, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2000 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1998">1998
+</date>
+        <idno type="uva-pid">uva-lib:500212</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>
+</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note>
+          <p>Images of the manuscript have been included. This electronic text is a faithful transcription of the original manuscript. We have included SGML tags which allow the reader to view a modernized version of the text in which the punctuation and the spelling have been regularized.
+</p>
+        </note>
+        <note>
+          <p>This text was created as part of Professors Edward L. Ayers and William G. Thomas III's HIUS 403: Digital History of the American Civil War, Fall 1997, University of Virginia.
+</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Letter to James Brooks
+</title>
+            <title level="u">
+</title>
+            <title type="sort">letter to james brooks</title>
+            <author>Schyler Trible
+</author>
+            <respStmt>
+              <resp>
+</resp>
+              <name>
+</name>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p>
+</p>
+          </editionStmt>
+          <extent>3 pp.
+</extent>
+          <publicationStmt>
+            <publisher>
+</publisher>
+            <pubPlace>
+</pubPlace>
+            <idno type="callNo">Manuscript copy consulted: Private collection of Andrew Brooks Booker, Waynesboro Va.
+</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p>
+</p>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>
+</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Prepared for the University of Virginia Library Electronic Text Center.
+</p>
+        <p>Used with permission from private collection</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Original lineation has been maintained.
+</p>
+        <p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs.
+</p>
+        <p>Some keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.
+</p>
+      </editorialDecl>
+      <refsDecl>
+        <p>
+</p>
+      </refsDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings
+</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date value="1862-07-02">1862 July 2
+</date>
+      </creation>
+      <langUsage>
+        <language id="eng">English
+</language>
+      </langUsage>
+	     <handList>
+		      <hand id="h1"/>
+	     </handList>
+      <textClass>
+        <keywords>
+          <term>nonfiction
+</term>
+          <term>prose
+</term>
+          <term>masculine
+</term>
+          <term>American Civil War
+</term>
+          <term>Fourth Virginia Infantry
+</term>
+          <term>Company I
+</term>
+          <term>American Civil War</term>
+        </keywords>
+        <keywords>
+          <term>LCSH
+</term>
+        </keywords>
+        <keywords>
+          <term>
+</term>
+          <term>
+</term>
+          <term type="format">8 bit color; 150 dpi
+</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date value="1998-04">April 1998
+</date>
+        <respStmt>
+          <resp>corrector
+</resp>
+          <name>Lisa Spiro and Carolyn Fay, Electronic Text Center
+</name>
+        </respStmt>
+        <item>Added TEI header and tags, corrected transcription errors, standardized punctuation and spelling for the modernized version, and added informational notes.
+</item>
+      </change>
+      <change>
+        <date value="2005-06">June 2005</date>
+        <respStmt>
+          <resp>corrector</resp>
+          <name>John Ivor Carlson</name>
+        </respStmt>
+        <item>Converted sgml to xml.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+<text id="d1">
+
+<front id="d2">
+<div1 type="summary" n="1" id="d3">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>.pp</extent>s
+<date value="1862-07-02">July 2, 1862</date>
+
+<title>Schyler Trible to his neighbor James Brooks, July 2, 1862</title>
+</bibl>
+</head>
+<p>Schyler Trible calls the battles of the Seven Days' Campaign
+"thrilling and complicated," and explains that the resulting confusion has
+prevented him from learning about the welfare of James Brooks' sons.</p>
+</div1>
+</front>
+
+
+<body id="d4">
+	<div1 type="figure" id="d5">
+<figure rend="block" entity="Bro2g021" pid="uva-lib:502908">
+<figDesc>Manuscript Civil War letter from Schyler Trible to James
+Brooks, dated July 2, 1862. Image of recto contains pages 1 and 4,
+originally folded in half.</figDesc>
+</figure>
+
+<figure rend="block" entity="Bro2g022" pid="uva-lib:502909">
+<figDesc>Manuscript Civil War letter from Schyler Trible to James
+Brooks, dated July 2, 1862. Image of verso contains pages 2 and 3,
+originally folded in half.</figDesc>
+</figure>
+	</div1>
+<div1 type="letter" n="1862-07-02" id="d6">
+<pb n="1" entity="Bro2g023" pid="uva-lib:502910"/>
+
+<opener>
+<dateline>
+<name type="place">Richmond</name>
+<date value="1862-07-02">July 2<hi rend="super">d</hi> 1862</date></dateline>
+<salute><abbr expan="Dear">Dr</abbr> Sir:</salute></opener>
+<p>I reached this place on <lb/>
+Monday by Central <abbr expan="Railroad">RR</abbr>,
+and though <lb/>
+I have learned nothing with
+<orig reg="certainty">certain<lb/>
+ty</orig> of <name type="person">Charles</name>
+ and <name type="person">John</name> am satisfied <lb/>
+they are unhurt in the
+great <orig reg="struggle">strugg<lb/>
+le</orig> so far <ref n="1" target="n1">[1]</ref>.  There is
+much difficulty in <lb/>
+getting a pass and means of conveyance <lb/>
+to the army and having procured the <lb/>
+former should have gone to
+<name><orig reg="Jackson's">Jackso <lb/>
+ns</orig></name> division <orig reg="today">to day</orig>,
+ but for the heavy <lb/>
+and constant rain that have been <lb/>
+falling.  I shall go tomorrow
+if <orig reg="possible">poss <lb/>
+ible</orig>.  It is not possible to get
+a <orig reg="substitute">sub <lb/>
+stitute</orig> in for <name type="person">Charles</name>
+<ref n="2" target="n2">[2]</ref>
+until something <lb/>
+decisive has taken place betweeen the <lb/>
+contending <orig reg="armies.">armies,</orig>
+<name type="person">Jackson</name> is
+<unclear><orig reg="moving">move <lb/>
+ing</orig></unclear> and fighting every day&mdash; this
+<orig reg="constancy">con <lb/>
+stancy</orig> of action
+precludes the <orig reg="possibility">possib <lb/>
+ility</orig> of getting in a substitute.  The <lb/>
+news from the army is of the most <lb/>
+thrilling and complicated character; <lb/>
+<pb n="2" entity="Bro2g024" pid="uva-lib:502911"/>
+
+the enemy is still unbroken and <lb/>
+formidable, and disputing every <lb/>
+inch of our advance with the <lb/>
+energy of despair.  Our loss in killed <lb/>
+and wounded is frightful.<ref n="3" target="n3">[3]</ref>
+  It is <orig reg="reported">re <lb/>
+ported</orig> that <name type="person">Jackson</name> was
+very <orig reg="severely">seve <lb/>
+rely</orig> cut up yesterday in an effort <lb/>
+to storm the enemies batteries.  He <lb/>
+finally succeeded but at great <lb/>
+loss.  Our army commands the <orig reg="flank">fla <lb/>
+nk</orig> and rear of the enemy but <lb/>
+the admirable order of the latter <lb/>
+leaves it much to be feared that <lb/>
+the crisis is yet to come.  There has <lb/>
+been no <name type="place">Bull Run</name> on this awful <lb/>
+field.  It is quite a mistake to <lb/>
+suppose <name type="person"><orig reg="McClellan">McClelland</orig></name>
+yet whipped, <lb/>
+the bloody catastrophe has yet to <lb/>
+come.<ref n="4" target="n4">[4]</ref>  You may expect to hear from <lb/>
+me again as soon as I see the boys, <lb/>
+and should it be necessary to <orig reg="telegraph">telegr <lb/>
+aph</orig> you I will do so.  <orig reg="Meanwhile">Mean <lb/>
+while</orig> write me by return <del hand="h1">m</del>
+
+<pb n="3" entity="Bro2g025" pid="uva-lib:502912"/>
+
+mail if you wish me to remain <lb/>
+until I can get a substitute <lb/>
+received in the place of <name type="person">Charles</name>.<lb/>
+If I find  any misfortune has <orig reg="befallen">bef <lb/>
+allen</orig> him I will bring him home. <lb/>
+I have not heard anything of <name type="person">Mr. <lb/>
+Read</name> with certainty <orig reg="nor">no</orig>
+of <name type="person">Samuel <lb/>
+Brooks</name>.
+I hope to be able tomorrow <lb/>
+to give you certain information <lb/>
+with regards to them. </p>
+<closer>
+<salute>Respectfully,</salute>
+<signed><abbr expan="Schyler">S.</abbr> Trible</signed>
+<ref n="5" target="n5">[5]</ref>
+</closer>
+
+<pb n="4" entity="Bro2g026" pid="uva-lib:502913"/>
+
+
+</div1>
+</body>
+
+<back id="d7">
+<div1 type="notes" id="d8"><head>Notes</head>
+
+<note n="1" id="n1" place="end"><seg type="note-symbol">[1]</seg><p> Apparently the family patriarch James Brooks
+asked his neighbor Schyler Trible to
+travel to Richmond, the capital of the Confederacy. Trible's
+mission was to
+find out about the welfare of Charles Brooks and "John," who appears
+to be Charles' cousin John D. Brooks (see William Brooks' letter
+of July 8, 1861). Trible arrived in Richmond on Monday, June 30,
+the fifth day of the Seven Days Battle, a series
+of battles around Richmond between Union General McClellan's
+army and Confederate troops under the command of Lee and
+Jackson
+Because the battles were going on around Richmond when
+Trible was writing,
+he was understandably concerned about the welfare of John and Charles
+Brooks, but unable to discover much about them in the confusion
+(McPherson,
+70-73).
+
+</p></note>
+
+<note n="2" id="n2" place="end"><seg type="note-symbol">[2]</seg><p> The First Conscription Act allowed a conscripted
+(drafted) man to hire a substitute to serve his term. This
+provision produced much division and tension between the poor and the wealthy.
+Often, a substitute would desert a day after appearing in camp, then
+agree to substitute for someone else (Current, vol. 1, 396-99).
+</p></note>
+
+<note n="3" id="n3" place="end"><seg type="note-symbol">[3]</seg><p> During the Seven Days Battle, the Confederates lost
+20,141 men, while the Federal army lost 15,489 (McPherson, 72).  The
+Fourth Virginia suffered losses of 8 killed and 28 wounded (Robertson,
+<hi rend="italic">4th Virginia Infantry</hi>, 16).
+
+</p></note>
+
+<note n="4" id="n4" place="end"><seg type="note-symbol">[4]</seg><p> As a result of the Seven Days campaign, the Confederates
+prevented McClellan from capturing Richmond, but McClellan succeeded in
+moving his base of operations from the York river to the James (Wallace, 35).
+</p></note>
+
+<note n="5" id="n5" place="end"><seg type="note-symbol">[5]</seg><p> According to the 1860 Census of Augusta County,
+Schyler Trible, who was thirty-one in 1860,
+lived with the farmer Samuel Steele on land close
+to the Brooks family farm.
+</p></note>
+
+</div1>
+<div1 type="bibliography" id="d9">
+<list>
+<head>Works Cited</head>
+
+<item>Bean, W. G. <hi rend="italic">The Liberty Hall Volunteers: Stonewall's College Boys.</hi>
+Charlottesville: The University of Virginia Press, 1964.
+</item><item>
+"The Civil War Artillery Page"
+http://www.lib.uchicago.edu/~cjt1/artillery.html.
+Chuck Ten Brink.
+Visited April, 1998
+</item><item>
+Crenshaw, Ollinger. <hi rend="italic">General Lee's College: The Rise and Growth of Washington
+and Lee University.</hi>  NY: Random House, 1969.
+</item><item>
+Denney, Robert E. <hi rend="italic">The Civil War Years: A Day-by-Day Chronicle
+of the Life of a Nation.</hi> NY: Sterling Publishing Co, Inc., 1992. </item><item>
+
+Driver, Robert. J.  <hi rend="italic">52nd Virginia Infantry.</hi> Lynchburg, Va: H. E. Howard,
+1986. </item><item>
+
+Lankford, Nelson D. "Alexander Robinson Boteler." <hi rend="italic">Encylopedia of the
+Confederacy.</hi> Ed. Richard N. Current.  NY: Simon &amp; Schuster,
+1993. I: 197-8. </item><item>
+
+McMurry, Richard. M. "Joseph E. Johnston." <hi rend="italic">Encylopedia of the
+Confederacy.</hi> Ed. Richard N. Current.  NY: Simon &amp; Schuster,
+1993. II: 859-61. </item><item>
+
+McPherson, James M. <hi rend="italic">The Atlas of the Civil War.</hi> New York: Macmillan,
+1994.</item><item>
+
+Robertson, James. <hi rend="italic">4th Virginia Infantry.</hi> Lynchburg, Va.: H.E. Howard, 1982.
+</item><item>
+&mdash;. <hi rend="italic">The Stonewall Brigade.</hi> Baton Rouge: Louisiana State University
+Press, 1963.</item><item>
+
+Sublett, Charles W. <hi rend="italic">57th Virginia Infantry.</hi> Lynchburg, Va.: H. E. Howard,
+1985.</item><item>
+
+Turner, Charles W. <hi rend="italic">Old Zeus: Life and Letters (1860-'62)
+of James J. White (Professor of Greek at Washington College 1852-1893,
+Captain of the Liberty Hall Volunteers 1861-'62)</hi>. Verona, VA:
+McClure Printing Company, Inc., 1983.
+</item><item>
+Wallace, Lee A. <hi rend="italic">5th Virginia Infantry.</hi> Lynchburg, Va.: H. E. Howard,
+1988.
+</item>
+</list>
+</div1>
+
+
+
+</back>
+</text>
+</TEI.2>
+

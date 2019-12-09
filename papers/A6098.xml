@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+
+<?dlps id="A6098"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+<!ENTITY % MANUSCRIPT "INCLUDE">
+
+ 
+ <!ENTITY Smiley68 SYSTEM "uva-lib:503267" NDATA uvaHighRes> 
+ <!ENTITY Smiley68b SYSTEM "uva-lib:503268" NDATA uvaHighRes> 
+ <!ENTITY Smiley68c SYSTEM "uva-lib:503269" NDATA uvaHighRes> 
+
+ ]>  
+  
+  
+<TEI.2 id="A6098">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Emily Hull to Thomas M. Smiley, January 14, 1865</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county emily hull to thomas m smiley, january 14 1865</title>
+        <author>Hull, Emily</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Alice McShane</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Jaime Henshaw</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A6098</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:503266</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Emily Hull to Thomas M. Smiley, January 14, 1865</title>
+            <title level="m"/>
+            <title type="sort">augusta county emily hull to thomas m smiley, january 14 1865</title>
+            <author>Emily Hull</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>2 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Smiley Family Papers Accession #1807 Special
+       Collections Department, University of Virginia Library, Charlottesville, Virginia</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1865-01-14">1865-01-14</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Home Front, Family, Church/Religious Activity</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001">Summer 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Jaime Henshaw</name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A6098T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>In this letter Emily Hull describes life on the home front and discusses a book which
+     suggests that the war is the beginning of the millenium and that the "Anti-Christ" will arise
+     to reign either during or after the conflict.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <figure rend="block" entity="Smiley68c" pid="uva-lib:503269"/>
+     <abbr expan="Sergeant">Sergt</abbr> Thomas M Smiley<lb/>Company "D" 5<hi rend="super">th</hi>
+     <abbr expan="Regiment">Regt</abbr>
+     <abbr expan="Virginia">V<hi rend="super">a</hi></abbr> Infantry<lb/> Stonewall
+     Brigade<lb/>Prisoner of War 1<hi rend="super">st</hi> Division<lb/> Fort Delaware<lb/>
+     Del.<lb/>Care of <abbr expan="Captain">Capt</abbr> G W Ahl A.A.A.G.
+    </head>
+
+    <opener>
+     
+      <pb n="1"  entity="Smiley68" pid="uva-lib:503267"/>
+     
+     <dateline>
+      <date value="1865-01-14">January the 14<hi rend="super">th</hi> 1865</date>
+      <name type="place">Boon <abbr expan="County">Co.</abbr><abbr expan="Missouri">Mo.</abbr></name>
+     </dateline>
+     <salute>Dear Friend</salute>
+    </opener>
+
+    <p>I was glad to hear from you again, I was afraid we would be deprived of hearing from our
+     friends but we still have the pleasure. Brother Sam has taken his family to the north <orig
+      reg="somewhere">some where</orig>, we have not heard from him since he left. Frank is living
+     in the neighborhood, though none of us live like we use to do, you would not know us, our <hi
+      rend="underline">room</hi> serves us for a parlor, kitchen &amp; hall. Though we are
+     contented, or at least try to be. There is some talk of this war being the beginning<pb n="2" entity="Smiley68b" pid="uva-lib:503268"/>
+      of the <orig reg="Millennium">Millinnium</orig>. There is a book
+     which Speaks very strongly of it. And has bible reference to prove <orig reg="everything">every
+      thing</orig> it says. If I had the book I would send it to you. They say there is "false
+     christ" to arise and they think that Louis Napoleon is the antichrist, that he will
+      <unclear>conquer</unclear> all nations and reign three years, then Christ will reign one
+     thousand years. We have company and cannot write so I must close </p>
+
+    <closer>
+     <salute>I remain as ever Your Friend</salute>
+     <signed>Emily.</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

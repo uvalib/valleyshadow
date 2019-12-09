@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+
+<?dlps id="F3508"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="F3508">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: John H. Reed to Adjutant General L.
+                    Thomas, January 31, 1863</title>
+        <title type="sort">franklin county john h reed to adjutant general l thomas, january 31 1863</title>
+        <author>Reed, John H.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Peter Brownfeld</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Peter Brownfeld</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F3508</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2001, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2001">2001</date>
+            <idno type="uva-pid">uva-lib:501517</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: John H. Reed to Adjutant General L. Thomas, January
+                            31, 1863</title>
+            <title level="m"/>
+            <title type="sort">franklin county john h reed to adjutant general l thomas, january 31 1863</title>
+            <author>John H. Reed</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Compiled Military Service Records
+                            of John H. Reed, 126th Pa., Box 36134, record 904, National
+                        Archives</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1863-01-31">1863-01-31</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Desertion/Leave</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2001">Fall 2001</date>
+                <respStmt>
+                    <resp/>
+                    <name>Susanna Michele Lee</name>
+                </respStmt>
+                <item>Corrected TEI tagging, proofread for typos, added keywords, and edited
+                    summaries.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F3508T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>John Reed requests the paperwork necessary to obtain a leave of absence.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">L. Thomas, Ajt. General</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1863-01-31">January 31, 1863</date>
+                        <name type="place">Johnstown</name>
+                    </dateline>
+                    <salute><abbr expan="Dear">Dr.</abbr> Sir</salute>
+                </opener>
+
+                <p>Enclosed I leave fi<del rend="none" hand="h1"/>ed certificate of disability from my attending
+                    Physician who is medical examiner of the county in care of those applying for
+                    pensions. My first leave was for twenty days commencing Decemebr 23/62, on
+                    account of wounds received at Fredericksburg. As by <del rend="none" hand="h1"/>ion of and
+                    issued by L. Thomas, Adjutant General.</p>
+
+                <p>I sent over my <del rend="none" hand="h1"/> at the expiration of the first twenty days one
+                    copy to L. Thomas, Ajt. General, and one copy to <del rend="none" hand="h1"/> Col. of 126
+                    Regt. In a letter received by three or four days after the Col. acknowledged the
+                    receipt of my papers. But I have not heard from the Ajt. general, and fear the
+                    papers may have been lost or overlooked. Please send over all the necessary
+                    papers for this and the former ones sent by <del rend="none" hand="h1"/> from this place
+                        <abbr expan="January">Jany.</abbr> 11th, 1862.</p>
+
+                <closer>
+                    <salute>I am very Respectfully<lb/> Your Obedient Servant</salute>
+                    <signed>John Reed</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

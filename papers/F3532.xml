@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+
+<?dlps id="F3532"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="F3532">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: William W. Walker to John Stewart,
+                    December 20, 1862</title>
+        <title type="sort">franklin county william w walker to john stewart, december 20 1862</title>
+        <author>Walker, William W.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Peter Brownfeld</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Peter Brownfeld</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F3532</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2001, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2001">2001</date>
+            <idno type="uva-pid">uva-lib:501541</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: William W. Walker to John Stewart, December 20, 1862</title>
+            <title level="m"/>
+            <title type="sort">franklin county william w walker to john stewart, december 20 1862</title>
+            <author>William W. Walker</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 page</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Compiled Military Service Records
+                            of William W. Walker, 126th Pa., Box 36136, Record 1143, National
+                            Archives</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1862-12-20">1862-12-20</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Death/Casualties, Desertion/Leave, Family, Home Front</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2001">Fall 2001</date>
+                <respStmt>
+                    <resp/>
+                    <name>Susanna Michele Lee</name>
+                </respStmt>
+                <item>Corrected TEI tagging, proofread for typos, added keywords, and edited
+                    summaries.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F3532T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>William W. Walker requests leave to attend to the health of his ailing
+                father.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+               
+
+                <opener>
+                    <dateline>
+                        <date value="1862-12-20">December 20, 1862</date>
+                        <name type="place">Camp near Falmouth <abbr expan="Virginia">Va.</abbr></name>
+                    </dateline>
+                    <salute>To John Stewart, Adjt. 126 <abbr expan="Regiment 
+ Pennsylvania">Regt
+                        Pa</abbr><lb/> Sir-</salute>
+                </opener>
+
+                <p>Having just received a dispatch from home informing me of the dangerous illness
+                    of my father, and of his request to see me. I have the honor to ask for a leave
+                    of absence of twenty days to proceed to my home: Waynesboro <abbr
+                        expan="Pennsylvania">Pa</abbr>. If it would entitle me to further
+                    consideration I would urge that for three days past I have been very sick, and
+                    am daily growing worse with but little hope of recovery while remaining in Camp.
+                    Including myself, my father has five sons, all at this time absent in the
+                    service of the United States.</p>
+
+                <closer>
+                    <salute>Very Respectfully Yours</salute>
+                    <signed>W. W. Walker, <abbr expan="Captain Commanding 
+ Company">Capt Comm
+                        Co.</abbr> E 126 <abbr expan="Regiment 
+ Pennsylvania">Regt
+                    Pa.</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

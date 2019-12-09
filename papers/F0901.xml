@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0901"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="F0901">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Sylvester McElheney to Harriet McElheney,
+     November 29, 1864</title>
+        <title type="sort">franklin county sylvester mcelheney to harriet mcelheney, november 29 1864</title>
+        <author>McElheney, Sylvester</author>
+        <editor> </editor>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Murrell</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Murrell</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">F0901</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>copyright 1998, by the Rector and Visitors of the University of Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1998 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1998">1998</date>
+        <idno type="uva-pid">uva-lib:501368</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>Valley of the Shadow</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note>
+          <p>This transcription was taken from a typescript and a photocopy of the original.</p>
+        </note>
+      </notesStmt>
+
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Franklin County: Sylvester McElheney to Harriet McElheney, November 29, 1864</title>
+            <title level="m"/>
+            <title type="sort">franklin county sylvester mcelheney to harriet mcelheney, november 29 1864</title>
+            <author>Sylvester McElheney</author>
+            <editor> </editor>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p> </p>
+          </editionStmt>
+          <extent>3 pages</extent>
+          <publicationStmt>
+            <publisher> </publisher>
+            <pubPlace> </pubPlace>
+            <date value=""> </date>
+            <idno type="callNo">Source copy consulted: Sylvester McElheney Papers, Archives of the U.S.
+       Army Military History Institute, Carlisle Barracks, Pennsylvania. </idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from U. S. Army Military History Institute, Carlisle Barracks, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1864-11-29">1864-11-29</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Death/Casualties, Family</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2000">Summer 2000</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Voorhees</name>
+        </respStmt>
+        <item>Proofread against original; corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+
+ </teiHeader>
+
+ <text id="F0901T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Mcilheney reports on the health of his soldier friends and discusses family finances.</p>
+   </div1>
+  </front>
+  <body id="d4">
+   <div1 type="letter" id="d5">
+
+    <opener>
+     <name type="recipient">Harriet McElheney</name>
+     <dateline>
+      <date value="1864-11-29">Tuesday November the 29<hi rend="super">th</hi>, 1864</date>
+      <name type="place">Headquarters of the Army of the Potomac</name>
+     </dateline>
+     <salute>Dear Wife</salute>
+    </opener>
+
+    <p>It is with <orig reg="pleasure">pleser</orig> I set myself to <orig reg="answer">an
+     ser</orig> your kind letter <orig reg="which">wich</orig> I <orig reg="received">reseved</orig>
+     on last Saturday and <del rend="none" hand="h1"/> was glad to hear from you and I am <orig reg="well"
+     >wel</orig> at present and hope <orig reg="these">theas</orig> lines will find you all <orig
+      reg="well">wel</orig>. I <orig reg="would have">wod</orig>
+     <orig reg="written">wrote</orig> sooner but we got marching orders. We <orig reg="are"
+     >ar</orig> just there <orig reg="where">whar</orig> Joseph is <orig reg="buried">bered</orig>
+     and <orig reg="Philip">philep</orig> and me is going down as soon as we <orig reg="can"
+     >kin</orig> get away to fix up his grave. Tell Pap that D. Nole said that another man come and
+     got his son that lay with Joseph and if he comes he <orig reg="can">kin</orig> get Joseph. I
+     seen John Mason and he <orig reg="said">sade</orig> that James <unclear>Fegan</unclear><pb
+      n="2"/> is just below <orig reg="where">whare</orig>
+     <orig reg="we  
+ are">wear</orig> and he is <orig reg="well">wel</orig>. I <orig
+      reg="have  
+ seen">sean</orig> Marshall Donley, <unclear>Wilem Henry</unclear> and a lot more
+     of the boys and there is a lot of them that we <orig reg="haven't">havnt</orig>
+     <orig reg="seen">sean</orig> yet. You <orig reg="said">sade</orig> you <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/> but if we <unclear>owe him</unclear>
+     <orig reg="anything">ennything</orig> I <orig reg="don't">dont</orig>
+     <orig reg="want">wont</orig> you to <orig reg="pay">pa</orig> him for I think he has got
+      <unclear>enough</unclear> you <orig reg="can">kin</orig> see little what he <orig reg="would"
+      >wod</orig> take in cash for his farm and let me <orig reg="know">nowe</orig>. You <orig
+      reg="said">sade</orig> that you sent a <orig reg="bottle">bootel</orig> of numbersies I <orig
+      reg="thought">thot</orig> you <orig reg="didn't">dident</orig> think <orig reg="worthwhile"
+      >worthwile</orig> to send me <orig reg="anything">enny thing</orig> for I <orig reg="wrote"
+      >rote</orig>
+     <orig reg="every">evry</orig>
+     <orig reg="week">weke</orig> and I <orig reg="don't">dont</orig> think you did but if you think
+     it is <orig reg="too">to</orig> much <orig reg="trouble">truble</orig> to <orig reg="write"
+      >rite</orig>
+     <orig reg="every">evry</orig>
+     <orig reg="week">weke</orig> I <orig reg="don't">dont</orig>
+     <orig reg="want">wont</orig> you to do it. You never as much as<pb n="3"/>
+     <orig reg="asked">ask</orig> me <orig reg="whether">wether</orig> I <orig reg="needed">neded</orig>
+     <orig reg="any">enny</orig> stamps. I have a few yet. I <orig reg="won't">wont</orig>
+     <orig reg="write">rite</orig> til I get <orig reg="one">won</orig> from you. Nothing more at
+     present but <orig reg="remain">remane</orig> your husband.</p>
+
+    <closer>
+     <salute/>
+     <signed>Sylvester McElheney</signed>
+     <seg type="postscript">
+      <name type="recipient">Harriet McElheney</name>
+     </seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

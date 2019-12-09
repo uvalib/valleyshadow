@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9500"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A9500">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: James M. Schreckhise to G. T. Tifer,
+                    April 20, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county james m schreckhise to g t tifer, april 20 1861</title>
+        <author>Schreckhise, James M.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Jaime Martinez</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A9500</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502743</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: James M. Schreckhise to G. T. Tifer, April 20, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta county james m schreckhise to g t tifer, april 20 1861</title>
+            <author>James M. Schreckhise</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: James M. Schreckhise Papers,
+                            Special Collections Library, Duke University, Durham, North
+                        Carolina.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Special Collections Department, William R. Perkins Library, Duke University, Durham, North Carolina</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1861-04-20">1861-04-20</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Enlistment, Family, Home Front, Patriotism, National Government, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2003-06">June 2003</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Item proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A9500T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Schreckhise letter describes the jubilation over the attack on Fort Sumter, and
+                    he confidently claims that all of Virginia is in faver of secession.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Prof. G. T. Tifer</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1861-04-20">April 20<hi rend="super">th</hi> 1861</date>
+                        <name type="place">Mt. Sidney, Augusta <abbr expan="County">Co.</abbr>
+                            <abbr expan="Virginia">Va.</abbr></name>
+                    </dateline>
+                    <salute>Dear Sir,</salute>
+                </opener>
+
+                <p>I hereby acknowledge the reception of your letter. I was glad to hear from you
+                    &amp; to get the news from <abbr expan="South">S.</abbr> Carolina. There was
+                    great excitement here when it was known Fort Sumter was attacked. You say you
+                    have excitement in your town but I suppose it is not to be compared with what we
+                    have here. There never has been such a time in Virginia. I thought that whilst
+                    in Richmond I saw men excited but since then it has reached the acme. The
+                    committee sent by the Convention to find out the policy of old Lincoln received
+                    no satisfactory answer. Virginia has seceded &amp; I understand it is not to
+                    go back to the people &amp; I am glad of it. I do not believe one thousand
+                    votes could be obtained in this state to remain in the Union. The military have
+                    been called out. My brother left yesterday with his company for Harpers Ferry.
+                    For 10 volunteer companies have already left our county &amp; a number are
+                    expecting to go in a day or two. The Old Dominion has at length arisen from her
+                    slumber to shake off the chains <pb n="2"/>of the abominable abolition tyrant.
+                    Old father Abraham has learned that Southern blood <orig reg="doesn't"
+                    >dont</orig> course through <orig reg="cowards'">cowards</orig> veins &amp;
+                    I hope he that the day is not far distant when he will <hi rend="underline"
+                        >sensibly</hi> feel <hi rend="underline">"that somebody is hurt."</hi> There
+                    seems to be but one determination here and that is to defend even unto death
+                    Southern rights &amp; principles. I found my mother still alive but have
+                    been looking for her death almost every hour since. She cannot live long so far
+                    as we can judge. When I will get back to Newberry I know not. I thought of
+                    re-turning immediately but affairs here are in such a condition that I do not
+                    like to leave. My brother has gone to the seat of war &amp; my brothers in
+                    law expect to leave in a day or two &amp; my father desires me to remain a
+                    few days longer if possible. Excuse this badly written letter as I am in a very
+                    sad condition to write. I will be glad to hear from you at any time. I will try
+                    to get back as soon as I can. Give my kindest regards to the Faculty. I will
+                    send you a few newspapers in a day or two. I would like to get a copy of the
+                    Columbia or Charleston papers.</p>
+
+                <closer>
+                    <salute>Yours Truly</salute>
+                    <signed>J.M. Schreckhise</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

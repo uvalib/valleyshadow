@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+
+<?dlps id="A6074"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+<!ENTITY % MANUSCRIPT "INCLUDE">
+
+ 
+ <!ENTITY Smiley48 SYSTEM "uva-lib:503228" NDATA uvaHighRes> 
+ <!ENTITY Smiley48a SYSTEM "uva-lib:503229" NDATA uvaHighRes> 
+ <!ENTITY Smiley48b SYSTEM "uva-lib:503230" NDATA uvaHighRes> 
+ <!ENTITY Smiley48c SYSTEM "uva-lib:503231" NDATA uvaHighRes> 
+
+ ]>  
+  
+  
+<TEI.2 id="A6074">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Thomas M. Smiley to Ellen Martin, July 18,
+     [1863]</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county thomas m smiley to ellen martin, july 18 1863</title>
+        <author>Smiley, Thomas M.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Alice McShane</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Alice McShane</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A6074</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:503227</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Thomas M. Smiley to Ellen Martin, July 18, [1863]</title>
+            <title level="m"/>
+            <title type="sort">augusta county thomas m smiley to ellen martin, july 18 1863</title>
+            <author>Thomas M. Smiley</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>4 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Smiley Family Papers Accession #1807 Special
+       Collections Department, University of Virginia Library, Charlottesville, Virginia</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>Thomas M. Smiley did not write "1863" on the letter. It is difficult to determine if the
+        date is on the envelope's postmark. A family member or archivist wrote the number 9 in the
+        upper right hand corner of the first page.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1863-07-18">1863-07-18</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Camp Life, Death/Casualties, Enlistment, Medicine/Hospitals, Military Strategy</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001">Summer 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Jaime Henshaw</name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A6074T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Discusses the care of wounded in hospitals and by the local civilian population. Comments on
+     fortifications in anticipation of battle and compare mililtia versus volunteers. </p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="envelope" id="d5"><pb n="1" entity="Smiley48" pid="uva-lib:503228" /><p>Chancellorsville<lb/>
+     Miss Ellen Martin<lb/> Moffetts Creek<lb/> Augusta <abbr expan="County">Co</abbr><lb/>
+      <abbr expan="Virginia">Va</abbr></p></div1>
+   <div1 type="letter" id="d6">
+    <head>
+      
+     <name type="recipient">Ellen Martin</name>
+    </head>
+
+    <opener>
+     
+      <pb n="2" entity="Smiley48a" pid="uva-lib:503229"/>
+     
+     <dateline>
+      <date value="1863-07-18">July 18<hi rend="super">th</hi></date>
+      <name type="place">Winchester</name>
+     </dateline>
+     <salute>Dear Aunt</salute>
+    </opener>
+
+    <p>I take my pencil in hand this morning to write you a few lines to let you know how I am I am
+     still in the hospital but expect to go to camp <orig reg="today">to day</orig> or tomorrow.
+     there is four others of our company in this place J.B. M<hi rend="super">c</hi>Cutchen John
+     Wade George Baylor and James Snyder but they will all get out soon. John M<hi rend="super"
+     >c</hi>Kemy C Baylor and Almarine Gay are also sick and in private houses. The people of
+     Winchester are very kind to the sick and wounded soldiers visiting them and giving them books
+     and tracts to read in order to pass the long and weary<pb n="3" entity="Smiley48b" pid="uva-lib:503230"/>
+      hours pleasantly away. We are very well waited on in this hospital
+     the rooms are kept nice and clean We have cots to lay on three placed in every room some of the
+     large rooms have more The Doctor says there is 175 sick at this hospital but they are <orig
+      reg="generally">generaly</orig> getting better. There has been one death here since I came A
+      M<hi rend="super">r</hi> Walker from Georgia he died of fever the only case that has been here
+     John Beard arrived here tuesday morning and give an account of how things were going on in
+     Augusta he said the militia had been ordered out every man of them some of them <orig
+      reg="were">wer</orig> disposed to make fun when we left saying that we missed it<pb n="4" entity="Smiley48c" pid="uva-lib:503231"/>
+      when we Joined a volunteer company but I guess it will come home
+     to them now as the volunteers have easy times to what the militia have The militia here are
+     employed in throwing up breastworks and planting cannon while the volunteers are laying in
+     their tents and drilling occasionally. We were looking for a battle to come off before this but
+     it has not come off yet but a battle is expected before long as the enemy are encamped only
+     about 12 mile from us should they see fit to attack us on that side we will be able to give
+     them a merry reception. But I must bring my scrawl to a close as I am too nervous to write</p>
+
+    <closer>
+     <salute>give my love to all the family and <orig reg="inquiring">enquiring</orig> friends and
+      receive a large Share for yourself </salute>
+     <signed>T. M. Smiley</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

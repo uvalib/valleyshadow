@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1159"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1159">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: W. Storer How to Orlando
+                    Brown, January 8, 1866</title>
+        <title type="sort">freedmens bureau records w storer how to orlando brown, january 8 1866</title>
+        <author>How, W. Storer</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1159</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501019</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: W. Storer How to Orlando Brown, January 8,
+                            1866</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records w storer how to orlando brown, january 8 1866</title>
+            <author>W. Storer How</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 14.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1866-01-08">1866-01-08</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Administration/Bureaucracy, Community Values/Local Behavior, Family, Race
+                        Relations, Violence/Crime, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-07">July 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Kid Wongsrichanalai</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1159T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>How reports on outrages committed against blacks in his district. Most of the
+                    incidents he describes happened in Augusta County.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau of Refugees, Freedmen &amp; <abbr expan="Abandoned">A.</abbr>
+                    Lands<lb/>Head Quarters, <abbr expan="Sixth">six</abbr> District, Virginia
+                    <name type="recipient"><abbr expan="Colonel">Col.</abbr> O. Brown<lb/>
+                        <abbr expan="Assistant Commissioner">Asst Com<hi rend="super"
+                        >r</hi></abbr><lb/>Richmond, <abbr expan="Virginia">Va</abbr></name>
+                    <name type="place">Winchester, <abbr expan="Virginia">Va.</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1866-01-08"><abbr expan="January">Jany</abbr>, 8<hi
+                                rend="super">th</hi> 1866</date>
+                        <name type="place">Winchester, Va.</name>
+                    </dateline>
+                    <salute>Colonel</salute>
+                </opener>
+
+                <p>I did not receive the communication relating to outrages until Thursday <abbr
+                        expan="January">Jany</abbr> 4<hi rend="super">th</hi> and as it was dated
+                    Dec 27<hi rend="super">th</hi> and the report desired by the end of that week I
+                    simply dismissed it as an impossible thing to do. Generally, the air is full of
+                    outrages on the Freedmen by the Whites, and will be until just laws are made and
+                    executed, but I understand you to mean <hi rend="underline">violence</hi>, <hi
+                        rend="underline">personal assaults</hi>, <hi rend="underline">cruelty</hi>,
+                    of which very few cases have come to my knowledge, and then the facts were not
+                    clearly established, because the freedmen dare not testify through fear of yet
+                    greater violence. Sam Crawford, black, 60 <abbr expan="years">yrs</abbr>, living
+                    with Andy Crawford near Mt. Solon, <abbr expan="Augusta County">Aug. Co.</abbr>,
+                    says that in May 1865 Pat McCarly, white, living with A. Crawford, struck him
+                    over the head with a corn-knife for <unclear>sacicing</unclear> him <pb n="2"
+                    />while at work in the barn, he shows a large scar. Jane Walker, black, 20 <abbr
+                        expan="years">yrs</abbr> was living with Thompson McClure near Greenville
+                        <abbr expan="Augusta County">Aug. Co.</abbr> who beat her with his fists,
+                    and kicked her, and that his mother threatened to beat her with a shovel because
+                    she said she wanted to visit a place instead of "Lucy" and that "Lucy might stay
+                    at home that day," which was on or about <abbr expan="September">Sept</abbr>
+                        1<hi rend="super">st</hi> 1865.</p>
+
+                <p>Mary Ann Jackson, black, 35 <abbr expan="years">yrs</abbr> lives with Joseph
+                    McCoomby near <orig reg="Stuarts">Stewarts</orig> Draft - <abbr
+                        expan="Augusta County">Aug. Co.</abbr> says he, McCoomby beats her children,
+                    and about the 1<hi rend="super">st</hi> of September he rode a horse over her
+                    boy of 12 <abbr expan="years">yrs.</abbr> who now bears the marks of the horses
+                        <orig reg="hooves">hoofs</orig> on his head, she is afraid to return, as
+                    McCoomby has threatened to shoot her if she went away and came back. Jacob
+                    McCord, one of the town police of Winchester on finding some freedchildren
+                    making a noise in front of his house threw a stone which struck Emily
+                        <unclear>Baumgartine</unclear>, freedchild, in the forehead causing it to
+                    bleed freely. This about <abbr expan="November">Nov.</abbr> 13<hi rend="super"
+                        >th</hi> 1865. Milton J. Crabill, white of New Market, Shenandoah <abbr
+                        expan="County">Co</abbr> on or about <abbr expan="December">Dec.</abbr> 1<hi
+                        rend="super">st</hi> 1865 while taking a <pb n="3"/>freedman, Howard Johnson
+                    to jail on a charge of theft, and while Johnson was tied hands, and feet upon a
+                    horse, shot him three (3) times, but not fatally. At Staunton and at Harpers
+                    Ferry on Christmas day <abbr expan="December">Dec.</abbr> 25<hi rend="super"
+                    >th</hi> 1865 there were several cases of supposed outrages but investigation
+                    disclosed the facts that all the parties were more or less intoxicated through
+                    the free use of Whiskey, and a sober witness could not be found to establish the
+                    guilt of any of the parties implicated.</p>
+
+                <p>No other cases of the kind indicated are within my knowledge.</p>
+
+                <closer>
+                    <salute>I am Colonel<lb/>Very Respectfully<lb/>Your <abbr expan="obedient"
+                        >obt</abbr> servant</salute>
+                    <signed>(signed) W. Storer How <abbr expan="Captain">Capt</abbr> &amp; <abbr
+                            expan="Assistant Quartermaster">A.Q.M.</abbr><lb/><abbr
+                            expan="Superintendent">Supt</abbr>
+                        <abbr expan="Sixth">six</abbr>
+                        <abbr expan="District">Dist.</abbr>
+                        <abbr expan="Virginia">Va</abbr></signed>
+                    <seg type="postscript">Offical copy [signed]O. Brown<lb/><abbr expan="Colonel"
+                            >Col</abbr> and <abbr expan="Assistant Commissioner">Asst
+                    Comr</abbr></seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

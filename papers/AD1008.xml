@@ -1,0 +1,1108 @@
+<?xml version="1.0"?>
+
+<?dlps id="AD1008"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="AD1008">
+<teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Diary of James E. Beard (1861-1862)</title>
+        <title type="sort">augusta county diary of james e beard 1861 1862</title>
+        <author>Beard, James E.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Elizabeth Crocker</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Elizabeth Crocker</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>
+        <num type="kilobytes"> 42 kilobytes</num>
+      </extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">AD1008</idno>
+
+        <!--
+<availability>
+<p>Publicly accessible </p>
+<p n="public">URL:
+http://jefferson.village.virginia.edu/vshadow2/</p>
+<p>copyright 1998, by the Rector and Visitors of the
+University of Virginia</p>
+</availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1998 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1998">1998</date>
+        <idno type="uva-pid">uva-lib:500330</idno>
+      </publicationStmt>
+      <seriesStmt> 
+        <p>The Valley of the Shadow:  Two Communities in
+the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Diary of James E. Beard</title>
+            <title level="m"> </title>
+            <title type="sort">diary of james e beard</title>
+            <author>James E. Beard</author>
+            <editor/>
+            <respStmt>
+              <resp>e.g. Translator</resp>
+              <name>Ben
+Ritter</name>
+            </respStmt>
+          </titleStmt>
+          <editionStmt> 
+            <p> </p> 
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Diary of James E.
+Beard.  Photocopy from the collection of the Fredericksburg-
+Spotsylvania County Battlefields National Memorial Military
+Park, Fredericksburg, Virginia.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p>The Valley of the Shadow:  Two Communities in
+the American Civil War</p>
+          </seriesStmt>
+          <notesStmt> 
+            <note>
+              <p>The Fredericksburg-Spotsylvania County
+Battlefields National Memorial Military Park in
+Fredericksburg, Virginia, holds a transcribed copy of the
+Diary of James E. Beard.  The diary has possibly undergone a
+minimal degree of revision by James Beard or subsequent
+editors.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Fredericksburg and Spotsylvania National Battlefield Park</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <dateRange to="1861-08-08" from="1862-08-28">1861-08-08; 1862-08-28</dateRange>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>
+Camp Life, Battle Description, Enlistment, Death/Casualties,
+Medicine/Hospitals, Troop Movement
+</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001-05">May 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Susanna Michele Lee</name>
+        </respStmt>
+        <item>Proofread against the transcription obtained from the
+collections of the Fredericksburg-Spotsylvania County
+Battlefields National Memorial Military Park in
+Fredericksburg, Virginia.  According to the original
+transcriber:  "The diary is in one note book, strung together
+with a lot of commas, very few periods so the paragraphs are
+my doing.  I read it into a tape recorder and wrote it out in
+long hand and then typed it, so the original spelling and
+maybe some of his meaning was lost."  Typographical errors by
+the original transcriber, like "founght" for "fought," have
+been corrected without comment.  The version from the National
+Memorial Military Park contains notations in parentheses by
+the original transcriber.  These notations have been tagged
+according to TEI guidelines.  Dates in parentheses in the
+version from the National Memorial Military Park have been
+retained in this version.  In addition, for the sake of
+clarity, this version of the Diary of James E. Beard includes
+dates in [brackets] which are not in the version from the
+National Memorial Military Park.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+
+<text id="AD1008T">
+
+<front id="d2">
+
+<div1 id="AD1008bio" type="bio">
+<head>Biography
+<!-- <ref>AD1008bio</ref> -->
+</head>
+
+<p>James E. Beard, a 38-year-old farmer from Augusta County,
+joined the 5th Virginia Infantry in August 1861.  His diary
+recounts his life as a soldier in this regiment, including
+details about engagements at Manassas and Winchester.  He also
+describes his work as a paymaster for his company.  His diary
+ends in 1862, when he was wounded at the Second Battle of
+Manassas.  After the war he returned to farming and died in
+Augusta County in 1906.</p>
+
+</div1>
+</front>
+
+<body id="d4">
+
+
+
+<div1 id="AD10081861" type="part" n="1861">
+<head>1861
+<!-- <ref>AD10081861</ref> -->
+</head>
+
+<div2 type="section" n="1861-08" id="d6">
+<head>August 1861
+<!-- <ref>Camp Life, Battle Description, Troop Movement</ref>
+-->
+</head>
+
+<div3 type="entry" n="1861-08-03" id="d7">
+<head>[<dateRange from="1861-08-03" to="1861-08-13">August 3 to August 13</dateRange>]</head>
+
+<p>James E. Beard's</p>
+
+<p>Diary of camp life commencing Aug. 3, 1861, left home in
+the County of Augusta, State of Virginia, Aug. 11 (1861).
+Started from Staunton on the morning of the 13th (Aug. 1861)
+for Manassas by railroad. Traveled through the counties of
+Albemarle, by Charlottesville, through Orange, Culpeper,
+Fauquier, <abbr expan="Prince">Pr.</abbr> William and Fairfax,
+nothing of interest occurring by the way. Arrived at Manassas
+the same evening about 3 o'clock, left Manassas to join
+Company D, of the 5th Virginia <abbr
+expan="Regiment">Regt.</abbr> of <abbr
+expan="Volunteers">Vols</abbr>, commanded by <abbr
+expan="Captain">Capt.</abbr> H. J. Williams, reached Bull's
+Run, the stream being too full to cross that evening, went up
+the stream a mile or more, lodged with the Washington
+Artillery that night.</p></div3>
+
+<div3 type="entry" n="1861-08-14" id="d8">
+<head>[August 14, 1861]</head>
+<p>Went on the next morning going over part of the ground
+<orig reg="that"></orig> the great battle of Manassas Plains
+was fought on the 21st of July 1861. Seeing many wrecks of
+different kinds, from the effects of a <orig
+reg="routed">rounted</orig> army. Crossed the stone bridge,
+over the run, passed through the Village of Centerville, and
+joined the <abbr expan="Regiment">Regt.</abbr> at Camp Harman
+near that place. We reached the camp about 9 o'clock a.
+m.</p></div3>
+
+<div3 type="entry" n="1861-08-23" id="d9">
+<head>[<dateRange from="1861-08-23" to="1861-08-25">August 23 to August 25</dateRange>]</head>
+<p>Nothing of interest transpired in camp until the evening of
+the 23rd (Aug. 1861) of the same month, when were ordered down
+below Fairfax <abbr expan="Court">C.</abbr> House and returned
+the same evening about 11 o'clock p. m. and on the 25th (Aug.
+1861) we marched two miles on the same road and
+returned.</p></div3>
+
+<div3 type="entry" n="1861-08-28" id="d10">
+<head>[<dateRange from="1861-08-28" to="1861-09-29">August 28 to September 29</dateRange>]</head>
+<p>Then on the 28th (Aug. 1861) we marched down to the <abbr
+expan="Courthouse">C. H.</abbr> and returned the same same
+day.</p>
+<p>We remained in this camp until the 10th of Sept. 1861, when
+we moved to a camp near Fairfax <abbr expan="Courthouse">C.
+H.</abbr> where we remained until the 15th of October 1861.
+While in this camp we went on picket twice, the first time we
+went to Mason's Hill, the 23rd (Sept. 1861) where we had a
+view of the dome of the once  Capitol of the <abbr
+expan="United States">U. S.</abbr>, from thence went down to
+the road leading to Alexandria at Padgets Tavern. On said road
+about 5 miles from the city, we stayed there <abbr
+expan="until">til</abbr> the night of the 27th (Sept. 1861),
+when were marched back by <orig
+reg="Accotink">Acquitink</orig> on the old Braddock Road.
+After crossing the creek we camped at daylight on the morning
+of the 28th (Sept. 1861) after marching all night, where we
+remained during the day and night, and started the next
+morning for our camp at Fairfax <abbr expan="Courthouse">C.
+H.</abbr>, where we arrived about 11 o'clock in good
+spirits.</p></div3></div2>
+
+<div2 type="section" n="1861-10" id="d11">
+<head>October 1861
+<!-- <ref>Camp Life, State Government</ref> -->
+</head>
+
+<div3 type="entry" n="1861-10-11" id="d12">
+<head>[<dateRange from="1861-10-11" to="1861-10-16">October 11 to October 16</dateRange>]</head>
+<p>Nothing of note transpired in camp <abbr
+expan="until">til</abbr> the 11th of October (1861), when we
+started on picket to <orig reg="Accotink">Acquitink</orig>
+where we remained 5 days, when we came back to camp on the
+evening of the 15th (Oct. 1861) we got orders that night at 9
+o'clock to strike our tents, and be ready to march next
+morning at 3 o'clock, which we did, and marched to
+Centerville, where we pitched our tents about 2
+o'clock.</p></div3>
+
+<div3 type="entry" n="1861-10-30" id="d13">
+<head>[October 30]</head>
+<p>On the 30th October (1861) <abbr
+expan="Governor">Gov.</abbr> Letcher was present and all the
+Virginia <abbr expan="Regiments">Regts.</abbr> in this
+encampment were paraded and a flag presented to each one, 17
+in number and on the following evening there was a grand
+review of all the troops in the encampment by the <abbr
+expan="Governor">Gov.</abbr> of Virginia.</p></div3></div2>
+
+<div2 type="section" n="1861-11" id="d14">
+<head>November 1861
+<!-- <ref>Camp Life, Troop Movement</ref> -->
+</head>
+
+<div3 type="entry" n="1861-11-01" id="d15">
+<head>[<dateRange from="1861-11-01" to="1861-11-08">November 1 to November 8</dateRange>]</head>
+<p>While here our regiment was on picket near Germantown, on
+the road that leads from Fairfax <abbr expan="Courthouse">C.
+H.</abbr> to Leesburg in Loudoun County, from the 1st to the
+5th of November (1861). We remained in this camp until the 8th
+of November (1861) when we broke up our encampment and marched
+to Manassas and took the cars for Strasburg at 7 o'clock that
+evening.</p></div3>
+
+<div3 type="entry" n="1861-11-09" id="d16">
+<head>[<dateRange from="1861-11-09" to="1861-11-18">November 9 to November 18</dateRange>]</head>
+<p>At which place (Strasburg) we arrived next morning at
+daylight. After getting breakfast we took up the line of march
+toward Winchester, and pitched our camp near Kernstown, we
+arrived at this camp the same evening through a drenching
+rain. I stayed in Newtown this same night.</p>
+<p>There was nothing of interest happened while here. We
+remained here until the 18 (Nov. 1861) <orig reg="of this
+month">inst.</orig> when we again broke up our encampment and
+marched through Winchester and on below that place 4 miles
+towards Martinsburg, where we encamped the same evening about
+10 o'clock, Camp Stephenson.</p></div3>
+
+<div3 type="entry" n="1861-11-19" id="d17">
+<head>[<dateRange from="1861-11-19" to="1861-12-15">November 19 to December 15</dateRange>]</head>
+<p>We remained in this camp until the evening of the 9th of
+Dec. (1861) at 11 o'clock when 4 companies wore ordered out of
+the regiment to go to dam No. 4, by way of <orig
+reg="Charleston">Charles Town</orig> and Shepherdstown. Our
+Company being one of the number. We took the cars at
+Stephenson's Depot which is about a half a mile from where we
+were then camped for <orig reg="Charleston">Charles
+Town</orig>, getting there by daylight (10 Dec. 1861) at which
+place we remained until midnight or some 18 hours and then set
+out for the dam going by Shepherdstown. We stopped in the
+sight of this place and ate some breakfast and then went on
+going through the town without stopping.  Just after we passed
+the town one of the companies was detailed to fire on some
+boats belonging to the enemy that were coming up the canal,
+the fire was returned but without effect on either side, so
+far as we know.</p>
+
+<p>Nothing worthy of note <orig
+reg="occurring">occurring</orig> <abbr
+expan="until">til</abbr> we came to Scrabble, from
+Shepherdstown to this place we traveled through a fine section
+of country. While here <abbr expan="Colonel">Col.</abbr> Ashby
+and <abbr expan="Company">Com.</abbr> captured 8 of the enemy,
+a Captain and seven privates belonging to the 12th Indiana
+<abbr expan="Regiment">Regt</abbr>. After remaining here about
+3 hours we set off for Martinsburg where we arrived about 8
+o'clock the same evening.</p></div3>
+</div2>
+
+<div2 type="section" n="1861-12" id="d18">
+<head>December 1861
+<!-- <ref>Troop Movement</ref> -->
+</head>
+
+<div3 type="entry" n="1861-12-17" id="d19">
+<head><dateRange from="1861-12-17" to="1861-12-21">December 17-21</dateRange></head>
+<p>We remained in this place (Martinsburg) until the evening
+of the 17th (Dec. 1861) when the Brigade came on here, we then
+marched to near Dam No. 5 arriving there about 9 o'clock P.
+M., where we stayed overnight and fell back in the morning
+acting in this way until the morning of the 21st (Dec. 1861).
+Having destroyed the dam we set out for our camp beyond
+Martinsburg, 15 miles distance, we stayed <unclear>2
+1/2</unclear> miles above Martinsburg that night, and set out
+early next morning for Camp Stephenson, and arrived there the
+same evening.</p></div3></div2></div1>
+
+<div1 id="AD10081862" type="part" n="1862">
+<head>1862
+<!-- <ref>AD10081862</ref> -->
+</head>
+
+<div2 type="section" n="1862-01" id="d21">
+<head>January 1862
+<!-- <ref>Camp Life, Medicine/Hospitals, Troop Movement</ref>
+-->
+</head>
+
+<div3 type="entry" n="1862-01-01" id="d22">
+<head>[<dateRange from="1862-01-01" to="1862-01-02">January 1 to January 2</dateRange>]</head>
+<p>Well nothing of interest in camp until the morning of the
+1st day of January 1862, when we left this camp and marched in
+the direction of Bath, Morgan <abbr expan="County">Co</abbr>.
+We marched 12 miles that day through a mountainous and poor
+country and stopped for the night. The next morning (Jan. 2,
+1862) we left our camp again and marched to the cross roads
+near Ungers Store on Sleepy Creek, the country still poor and
+mountainous.</p></div3>
+
+<div3 type="entry" n="1862-01-03" id="d23">
+<head>[January 3]</head>
+<p>The next day (Jan. 3, 1862) we marched to within 6 miles of
+Bath and camped for the night. It commenced snowing about
+dark, it fell some 2 inches deep, we started next morning
+(Jan. 4, 1862) about daylight for Bath, which place we reached
+about 2 o'clock, where we put up for the night. The wagons did
+not get up that night and we had to go without
+supper.</p></div3>
+
+<div3 type="entry" n="1862-01-05" id="d24">
+<head>[January 5]</head>
+<p>The morning of the 5th (Jan. 1862) we had to go back about
+a mile to meet our wagons. We then went on through Bath toward
+Hancock on the river, where we stayed all day and in the
+evening fell back a short distance and camped for the night,
+the snow was falling fast, we remained here overnight. Our
+wagons came up about 10 o'clock at night.</p></div3>
+
+<div3 type="entry" n="1862-01-06" id="d25">
+<head>[January 6]</head>
+<p>The next morning (Jan. 6, 1862) we struck our tents and
+moved back about a mile and pitched our tents and stayed all
+night.</p></div3>
+
+<div3 type="entry" n="1862-01-07" id="d26">
+<head>[January 7]</head>
+<p>The next morning (Jan. 7, 1862) we again struck tents and
+sent our baggage off by daylight. The Army had to remain <abbr
+expan="until">till</abbr> the whole train of wagons, about
+500, passed which took <abbr expan="until">til</abbr> 1
+o'clock in the day. We then took up the line of march and
+moved on slowly until after we passed through Bath some two
+miles. We then commenced passing the train and moved on at a
+brisk rate until we came to the cross roads, which place we
+reached about <unclear>1</unclear> o'clock.</p></div3>
+
+<div3 type="entry" n="1862-01-08" id="d27">
+<head>[<dateRange from="1862-01-08" to="1862-01-15">January 8 to January 15</dateRange>]</head>
+<p>We remained here with but little change in our camp until
+the morning of the 13th (Jan. 1862) when we again struck tents
+and took up the line of march for Romney at which place we
+arrived on the evening of the 15th (Jan. 1862) <orig reg="of
+this month">inst.</orig>, after a heavy and toilsome march of
+45 miles through a mountainous and ragged country.</p></div3>
+
+<div3 type="entry" n="1862-01-16" id="d28">
+<head>[<dateRange from="1861-01-16" to="1862-02-07">January 16 to February 7</dateRange>]</head>
+<p>Nothing of interest transpired while we were in this place
+(Romney), being <orig reg="quartered">quarted</orig> in houses
+we had no use for our tents. We stayed here until the morning
+of the 23rd (Jan. 1862) when we started back to Winchester by
+way of the Northwestern Grade and arrived near here on the
+25th (Jan. 1862) and encamped 3 miles on the Romney Road.</p>
+<p>I left Romney on the same morning for the Hospital in
+Winchester sick with a cold a sore throat, I remained at this
+place until the 3rd day of February 1862, when I again
+rejoined the Company at Camp Zollicoffer to which place the
+regiment moved on the 29th of Jan. (1862), and made
+preparations for winter quarters, which we got into on the 7th
+(Feb. 1862) <orig reg="of this month">inst</orig>.</p>
+</div3></div2>
+
+<div2 type="section" n="1862-02" id="d29">
+<head>February 1862
+<!-- <ref>Medicine/Hospitals, Troop Movement</ref> -->
+</head>
+
+<div3 type="entry" n="1862-02-22" id="d30">
+<head>[<dateRange from="1861-02-22" to="1862-02-27">February 22 to February 27</dateRange>]</head>
+<p>I took the mumps the 22nd (Feb. 1862) <orig reg="of this
+month">inst.</orig> and stayed in camp until the 27th (Feb.
+1862) when I went to Winchester to the Hospital where I
+remained until the 2nd March (1862), when I was sent to
+Strasburg where I remained over night, and on the evening of
+the 3rd (March 1862) started for the Hospital at Mt. Jackson
+which place we arrived at 10 o'clock the same evening.</p>
+<p>The <abbr expan="Regiment">Regt.</abbr> left their camp at
+Zollicoffer on the 27th (Feb. 1862) and moved to within three
+quarters of a mile of Winchester and went into their
+tents.</p></div3></div2>
+
+<div2 type="section" n="1862-03" id="d31">
+<head>March 1862
+<!-- <ref>Camp Life, Battle Description, Troop Movement</ref>
+-->
+</head>
+
+<div3 type="entry" n="1862-03-05" id="d32">
+<head>[<dateRange from="1861-03-05" to="1862-03-22"> March 5 to March 22</dateRange>]</head>
+<p>The 5th of March (1862) the <abbr
+expan="Regiment">Regt.</abbr> left this camp and moved about 5
+miles and camped and then moved on next morning as far as
+Cedar Creek where we camped until the morning of the 15th
+(March 1862), when we again struck our tents and moved back as
+far as Narrow Passage where we remained one night.</p>
+<p>Then we fell back to within 4 1/2 miles of Mt. Jackson. I
+left the Hospital at Mt. Jackson on the 6th (March 1862) and
+joined the <abbr expan="Regiment">Regt.</abbr> at Narrow
+Passage about the time they were ready to move. I went down on
+the cars as far as Edinburg and then walked out to the <abbr
+expan="Regiment">Regt.</abbr> and marched back with it to a
+camp some three miles from Mt. Jackson where we remained until
+the 20th (March 1862) when we march 4 miles above Mt. Jackson
+and remained about 24 hours, and then struck tents and marched
+41 miles below Mt. Jackson and stayed one night, and again
+struck tents and marched to near Cedar Creek 24 miles and
+camped for the night.</p></div3>
+
+<div3 type="entry" n="1862-03-23" id="d33">
+<head>[March 23]</head>
+<p>In the morning we again took up the line of march toward
+Winchester, arrived at Newtown about 12 o'clock and passed on
+through <unclear>22</unclear> miles, where we stayed some two
+hours, while the Artillery and Cavalry were engaging the
+enemy, we got into the fight about half hour by <del rend="none" hand="h1"></del>
+where we remained until dark being twice repulsed by the
+enemy, this happened on the 23rd (March 1862), when we left
+the field in good order and fell back 4 miles and stayed all
+night.</p></div3>
+
+<div3 type="entry" n="1862-03-24" id="d34">
+<head>[<dateRange from="1861-03-24" to="1862-03-26">March 24 to 26</dateRange>]</head>
+<p>The next morning (March 24, 1862) we fell back to Cedar
+Creek and cooked one days rations, before we had it <orig
+reg="cooked">cook</orig> the enemy were advancing, and
+commenced throwing bombs at us, we then fell back to the
+Passage and stayed all night and until the next morning (March
+25, 1862) when we marched up to a camp 4 1/2 miles from Mt.
+Jackson and stayed all night and until the next morning (March
+26, 1862) when we went back to the Passage and stayed two
+nights and one day without anything of <orig
+reg="occurrence">occurance</orig> happening while
+there.</p></div3>
+
+<div3 type="entry" n="1862-03-28" id="d35">
+<head>[March 28]</head>
+<p>On the morning of the 28th (March 1862) we marched back to
+a camp 4 1/2 miles from Mt. Jackson, this morning the enemy
+was not advancing.</p></div3></div2>
+
+<div2 type="section" n="1862-04" id="d36">
+<head>April 1862
+<!-- <ref>Enlistment, Troop Movement</ref> -->
+</head>
+
+<div3 type="entry" n="1862-04-01" id="d37">
+<head>[April 1]</head>
+<p>We left camp 4 1/2 miles from Mt. Jackson on the 1st day of
+April (1862) and marched one mile down the pike where we
+remained about one hour and then faced about and marched up
+the road 4 miles and camped for the night.</p></div3>
+
+<div3 type="entry" n="1862-04-02" id="d38">
+<head>[April 2]</head>
+<p>The next morning (April 2, 1862) we continued to go up the
+pike until we got four miles above Mt. Jackson where <orig
+reg="we"></orig> camped for the night.</p></div3>
+
+<div3 type="entry" n="1862-04-04" id="d39">
+<head>[April 4]</head>
+<p>The next morning at 4 o'clock we took up the line and
+marched down the road 9 miles and spent the day and in the
+evening back to our camp 4 miles above Mt. Jackson, where we
+are today at 12 o'clock 4th day of April 1862.</p></div3>
+
+<div3 type="entry" n="1862-04-06" id="d40">
+<head>[<dateRange from="1861-04-06" to="1862-04-10">April 6 to April 10</dateRange>]</head>
+<p>On the 6th (April 1862) still in camp on Rood's Hill, spent
+the day in the Militia Camp. On the 7th it rained and snowed
+all day, 8th <orig reg="and"></orig> 9th the same and on the
+morning of the 10th it cleared off.</p></div3>
+
+<div3 type="entry" n="1862-04-10" id="d41">
+<head>[April 10]</head>
+<p>We are still in the same camp on Rood's Hill, April 10th
+1862. Nothing of interest transpiring.</p></div3>
+
+<div3 type="entry" n="1862-04-13" id="d42">
+<head>[April 13]</head>
+<p>April 13th (1862) the <abbr expan="Regiment">Regt.</abbr>
+went on picket below Mt. Jackson. I with others of the camp
+were detailed as guard at Headquarters.</p></div3>
+
+<div3 type="entry" n="1862-04-17" id="d43">
+<head>[<dateRange from="1862-04-17" to="1862-04-22">April 17 to April 22</dateRange>]</head>
+<p>We left our camp on Rood's Hill on the morning of the 17th
+(April 1862) and moved toward Harrisonburg. I being detailed
+to go with the baggage. I stayed in Harrisonburg that night
+and the next morning, we started for Staunton which place we
+reached the same day.</p>
+<p>I stayed in Staunton that night and next morning was
+started toward <orig reg="Waynesboro">Waynesborough</orig>,
+got as far as Fishersville and stayed that night and on Sunday
+went as far as Lebanon Church beyond
+<unclear>Brookesville</unclear>, where we remained until the
+morning of the 22nd (April 1862) when we went as far as
+Mecham's River, unloaded our baggage in the Depot and turned
+toward Staunton.</p></div3>
+
+<div3 type="entry" n="1862-04-23" id="d44">
+<head>[<dateRange from="1861-04-23" to="1862-05-03">April 23 to May 3</dateRange>]</head>
+<p>I took the cars and came on to Staunton and out home that
+night, I reenlisted on the 12th (April 1862) and was mustered
+into service. I again left home on the 28th (April 1862) and
+joined the Army on the 3rd day of May
+(1862).</p></div3></div2>
+
+<div2 type="section" n="1862-05" id="d45">
+<head>May 1862
+<!-- <ref>Battle Description, Troop Movement</ref> -->
+</head>
+
+<div3 type="entry" n="1862-05-04" id="d46">
+<head>[<dateRange from="1861-05-04" to="1862-05-06">May 4 to 6</dateRange>]</head>
+<p>We crossed the mountains into Albemarle the next day at
+Brown's Gap. Went by Mecham's Depot and crossed the Blue Ridge
+through the tunnel and went on to near Staunton on the 6th of
+May (1862) where we stayed over night.</p></div3>
+
+<div3 type="entry" n="1862-05-07" id="d47">
+<head>[<dateRange from="1861-05-07" to="1862-05-12">May 7 to May 12</dateRange>]</head>
+<p>The next morning we took the Parkersburg Road went on
+through Buffalo Gap and out to Highland County to near the
+Bull Pasture Mountain the 8th day of May (1862). A fight
+between our men and the enemy came off on the morning of the
+8th near McDowell in which our men drove them back, each party
+sustained a considerable loss, and the enemy continued to
+retreat.</p>
+<p>We followed them as far as Franklin in Pendleton County
+where we skirmished around a little and then on the 12th (May
+1862) we commenced falling back. We fell back some 9 miles and
+stayed over night and in the morning continued our march on
+the way back to the Valley. We <orig reg="laid">layed</orig>
+over on the <unclear>10</unclear>th at the foot of Shenandoah
+Mountain.</p></div3>
+
+<div3 type="entry" n="1862-05-13" id="d48">
+<head>[<dateRange from="1862-05-13" to="1862-05-16">May 13 to 16</dateRange>]</head>
+<p>It commenced raining on evening of the 13th (May 1862).
+<orig reg="It's">Its</orig> still raining on the morning of
+the 16th (May 1862). Remained in camp today.</p>
+</div3>
+
+<div3 type="entry" n="1862-05-17" id="d49">
+<head>[<dateRange from="1861-05-17" to="1862-05-19">May 17 to May 19</dateRange>]</head>
+<p>The morning of the 17th (May 1862) we again took up the
+line of march and marched as far as Augusta Springs and
+camped. We remained in camp from Saturday evening until Monday
+morning the 19th (May 1862), when we again left our camp and
+went on through Mt. Solon and Bridgewater to a camp beyond the
+<orig reg="latter">later</orig> place and remained over
+night.</p></div3>
+
+<div3 type="entry" n="1862-05-20" id="d50">
+<head>[May 20]</head>
+<p>The next morning (May 20, 1862) we again set out and passed
+on through Harrisonburg <unclear>having</unclear> our
+knapsacks, etc., to near the Big Spring and camped.</p></div3>
+
+<div3 type="entry" n="1862-05-21" id="d51">
+<head>[May 21]</head>
+<p>The next day (May 21, 1862) we marched on down the Valley
+to New Market and there we left the Pike and turned to the
+right and crossed the mountain at Massanutten Gap, into Page
+<abbr expan="County">Co.</abbr> and on through Luray and
+camped.</p></div3>
+
+<div3 type="entry" n="1862-05-22" id="d52">
+<head>[<dateRange from="1861-05-22" to="1862-05-23">May 22 to 23</dateRange>]</head>
+<p>We stayed in this camp (Luray) until after 12 o'clock on
+the 23rd (May 1862), when we again drove on, the <abbr
+expan="Regiment">Regt.</abbr> started soon in the morning.
+Nothing of interest occurring today.</p></div3>
+
+<div3 type="entry" n="1862-05-24" id="d53">
+<head>[May 24]</head>
+<p>Saturday 24th (May 1862) we went as far as Front Royal,
+stayed all night, started early next morning. The <abbr
+expan="Regiment">Regt.</abbr> was marching and under arms all
+night.</p></div3>
+
+<div3 type="entry" n="1862-05-25" id="d54">
+<head>[<dateRange from="1861-05-25" to="1862-05-29">May 25 to May 29</dateRange>]</head>
+<p>Sunday morning (May 25, 1862) early the enemy commenced
+throwing shells which had little effect on our men, we <orig
+reg="succeeded">succeded</orig> in driving the enemy from all
+the Towns as far as Winchester and had but little trouble in
+clearing that place.</p>
+<p>Sunday night we camped near Stephenson Depot, where we
+remained until <orig reg="Wednesday">wednesday</orig> morning.
+When we again took up the line of march for <orig
+reg="Charleston">Charles Town</orig>, which place we reached
+about noon and found some 3,000 Yankees there which we routed
+and took some 200 prisoners. We pursued them about 8 miles
+toward the Ferry, we then came back near to <orig
+reg="Charleston">Charles Town</orig> and camped. The whole
+Brigade was ordered out the next day in the direction of the
+Ferry.</p></div3>
+
+
+<div3 type="entry" n="1862-05-30" id="d55">
+<head>[May 30]</head>
+<p>On the morning of the 30th (May 1862) we started again in
+the same direction and returned to camp <orig reg="in"></orig>
+the evening, while out today our company was thrown out as
+skirmishers and advanced to within a short distance of the
+enemy's lines. They never fired a shot at us.</p></div3>
+
+<div3 type="entry" n="1862-05-31" id="d56">
+<head>[May 31]</head>
+<p>31st (May 1862) we marched this morning in the direction of
+Winchester and passed on and camped 2 miles above
+Kernstown.</p></div3></div2>
+
+<div2 type="section" n="1862-06" id="d57">
+<head>June 1862
+<!-- <ref>Camp Life, Battle Description, Death/Casualties,
+Military Authority, Troop Movement</ref> -->
+</head>
+
+<div3 type="entry" n="1862-06-01" id="d58">
+<head>[June 1]</head>
+<p>Then on the 1st day of June (1862) we continued marching up
+the Valley getting to Strasburg about noon, where we made a
+stand but the enemy did not advance. <abbr
+expan="General">Gen.</abbr> Ewell encountered them in the
+morning and completely repulsed them at this place. We fell
+back some distance and camped for the night.</p></div3>
+
+<div3 type="entry" n="1862-06-02" id="d59">
+<head>[June 2]</head>
+<p>Early on the 2nd (June 1862) we took up the line of march,
+the enemy still pursuing until we came to Woodstock where we
+were drawn up in line of battle, but they did not advance. We
+came over to near Mt. Jackson and camped.</p></div3>
+
+<div3 type="entry" n="1862-06-03" id="d60">
+<head>[<dateRange from="1861-06-03" to="1862-06-04">June 3 to June 4</dateRange>]</head>
+<p>The next morning (June 3, 1862) we again started up the
+road and stopped near New Market. We remained there over night
+and the greatest part of the next day (June 4, 1862) we then
+marched to near Big Spring where we stayed all
+night.</p></div3>
+
+<div3 type="entry" n="1862-06-05" id="d61">
+<head>[<dateRange from="1861-06-05" to="1862-06-07">June 5 to June 7</dateRange>]</head>
+<p>5th (June 1862) we started early in the morning from camp
+and came on through Harrisonburg, after leaving this place we
+took the road leading to Port Republic and camped about a mile
+from the <orig reg="latter">later</orig> place, where we are
+still camped on the morning of the 7th (June 1862), having
+been here all day yesterday. Their wagons are gone and <abbr
+expan="General">Gen.</abbr> Ashby was killed yesterday evening
+in an engagement with the enemy near Harrisonburg.</p></div3>
+
+<div3 type="entry" n="1862-06-08" id="d62">
+<head>8th June 1862, Sunday morning,</head>
+<p>the enemy attacked us about 8 o'clock both in front and
+rear, those in front did not stand but fell back <orig
+reg="immediately">immediatly</orig> but those in the rear
+fought at the least 4 hours, <abbr expan="General">Gen.</abbr>
+Ewell and Johnson's Divisions were engaged. Fremont on the
+opposite side, there were many killed and wounded on both
+sides, each party held their own ground. The fight continued
+until dark.</p></div3>
+
+<div3 type="entry" n="1862-06-09" id="d63">
+<head>9th June 1862, Monday morning</head>
+<p>we left camp at dawn and marched down the river, crossed
+South River at Port Republic and went down the same about 2
+miles where we encountered the enemy and commenced an attack
+which was very severe. It lasted about 2 hours, our regiment
+fought on the river bank against great odds, we had to give
+back at one time but reinforcements coming up we recovered.
+<del rend="none" hand="h1"></del> then we lost John Brubeck, and James Berry were
+killed dead on the ground, some 12 wounded, more or less
+severely. We <orig reg="succeeded">succeded</orig> in getting
+our dead and wounded off of the field, we took some 300
+prisoners, our Regiment lost some 72 in killed and wounded and
+missing.</p></div3>
+
+<div3 type="entry" n="1862-06-10" id="d64">
+<head>[<dateRange from="1861-06-10" to="1862-06-12">June 10 to June 12</dateRange>]</head>
+<p>We fell back to the top of mountain at Brown's Gap, and are
+still there on the morning of 11th (June 1862). It rained all
+day yesterday, we stayed all day on the mountain and left soon
+on the morning of the 12th (June 1862) and came to about 4
+miles above Port Republic and camped for the night.</p>
+</div3>
+
+<div3 type="entry" n="1862-06-13" id="d65">
+<head>13th (June 1862)</head>
+<p>remained in camp today, I was engaged in making up the
+payroll for the company.</p></div3>
+
+<div3 type="entry" n="1862-06-15" id="d66">
+<head>15th (June 1862)</head>
+<p>attended <orig reg="divine">devine</orig> services
+today</p></div3>
+
+<div3 type="entry" n="1862-06-16" id="d67">
+<head>16th (June 1862)</head>
+<p>still in same camp, writing for the company.</p></div3>
+
+<div3 type="entry" n="1862-06-17" id="d68">
+<head>17th (June 1862)</head>
+<p>still engaged in writing.</p></div3>
+
+<div3 type="entry" n="1862-06-18" id="d69">
+<head>18th (June 1862)</head>
+<p>we left our camp 4 miles above Port Republic this morning
+at 5 o'clock for Rockfish Gap, which place we reached about 6
+o'clock and camped for the night.</p></div3>
+
+<div3 type="entry" n="1862-06-19" id="d70">
+<head>19 (June 1862)</head>
+<p>the drum beat at 3 this morning calling us from our
+slumber. We prepared our breakfast and ate, then we got ready
+to move, the enemy went over the mountain and I went home to
+finish the payrolls for the company getting there that
+evening, now at home writing.</p></div3>
+
+<div3 type="entry" n="1862-06-21" id="d71">
+<head>21st (June 1862)</head>
+<p>at home.</p></div3>
+
+<div3 type="entry" n="1862-06-22" id="d72">
+<head><dateRange from="1862-06-22" to="1862-06-23">22nd, 23rd</dateRange></head>
+<p>still at home.</p></div3>
+
+<div3 type="entry" n="1862-06-24" id="d73">
+<head>24th (June 1862)</head>
+<p>went to Staunton to go to the Army but no transportation.
+Went back home and stayed until the morning of the
+2<unclear>6</unclear> when I again went to Staunton, had to
+stay in that place all day.</p></div3>
+
+<div3 type="entry" n="1862-06-27" id="d74">
+<head>[<dateRange from="1862-06-27" to="1862-06-29">June 27 to June 29</dateRange>]</head>
+<p>Started on the morning of the 27th (June 1862), went as far
+as Ashland Station, stayed there that night. Went to the
+Brigade wagons, remained in that camp until the 29th (June
+1862) when we moved 4 or 5 miles farther and are
+camped.</p></div3>
+
+<div3 type="entry" n="1862-06-30" id="d75">
+<head>[<dateRange from="1862-06-30" to="1862-07-02">June 30 to July 2</dateRange>]</head>
+<p>We again started on the 30th (June 1862) to join the
+Regiment which I <orig reg="succeeded">succeded</orig> in
+doing on the 2nd of July (1862). The Regiment was in the fight
+on the 27th (June 1862), Captain Randolph, John J. Bowers,
+James Lucas was killed on the same day, our <abbr
+expan="company">comp</abbr> was in the fight on the 1st of
+July, some killed or wounded.</p></div3></div2>
+
+<div2 type="section" n="1862-07" id="d76">
+<head>July 1862
+<!-- <ref>Camp Life, Troop Movement</ref> -->
+</head>
+
+<div3 type="entry" n="1862-07-03" id="d77">
+<head>3rd (July 1862)</head>
+<p>we fell back toward the river.</p></div3>
+
+<div3 type="entry" n="1862-07-04" id="d78">
+<head>4th (July 1862)</head>
+<p>we were drawn up in line of battle from noon until after
+dark when we fell back in the woods a short
+distance.</p></div3>
+
+<div3 type="entry" n="1862-07-05" id="d79">
+<head>5th (July 1862)</head>
+<p>still in same place.</p></div3>
+
+<div3 type="entry" n="1862-07-06" id="d80">
+<head>6th (July 1862) Sunday,</head>
+<p>still in same place.</p></div3>
+
+<div3 type="entry" n="1862-07-07" id="d81">
+<head>7th (July 1862)</head>
+<p>on picket today, fell back in the evening about one mile
+and camped for the night.</p></div3>
+
+<div3 type="entry" n="1862-07-12" id="d82">
+<head>[July 12]</head>
+<p>Still here today on the <unclear>12th</unclear> (July 1862)
+at 3 we fell back some 12 miles and camped for the
+night.</p></div3>
+
+<div3 type="entry" n="1862-07-09" id="d83">
+<head>9th (July 1862)</head>
+<p>we remained here until 3 o'clock this evening when we again
+marched about 9 miles and stayed all night.</p></div3>
+
+<div3 type="entry" n="1862-07-10" id="d84">
+<head>[<dateRange from="1862-07-10" to="1862-07-15">July 10 to July 15</dateRange>]</head>
+<p>Then on the morning of the 10th (July 1862) we started
+again at day break and marched to a camp 3 miles from
+Richmond. We remained in the camp until the morning of the
+15th (July 1862) with nothing of interest transpiring during
+this time.</p></div3>
+
+<div3 type="entry" n="1862-07-15" id="d85">
+<head>[July 15]</head>
+<p>On the morning of the 15th (July 1862) we took up the line
+of march going to Richmond and taking the care and riding as
+far on the bridge that was burnt on the <orig
+reg="Pamunkey">Pamunky</orig> where we remained over
+night.</p></div3>
+
+<div3 type="entry" n="1862-07-16" id="d86">
+<head>[<dateRange from="1862-07-16" to="1862-07-27">July 16 to July 27</dateRange>]</head>
+<p>16th (July 1862) traveled on the cars as far as Louisa
+<abbr expan="Courthouse">C. H.</abbr>, where we remain until
+the morning of the 19th (July 1862) when we again took up the
+line of march and went as far as Gordonsville and just beyond,
+where we remained until the morning of the 21st (July 1862),
+when we again marched between 4 and 5 miles and camped until
+the morning of the 27th (July 1862), when we were ordered to
+move. We marched as far as Gordonsville and lay in the woods
+until the evening when we again returned to the same camp we
+left in the morning.</p></div3>
+
+<div3 type="entry" n="1862-07-27" id="d87">
+<head><unclear>27th</unclear> (July 1862)</head>
+<p>in Camp.</p></div3>
+
+<div3 type="entry" n="1862-07-29" id="d88">
+<head>[July 29]</head>
+<p>We left camp McGruder on the morning of the 29th (July
+1862) and marched 12 miles through Gordonsville to a camp near
+the Three Notch Road and 19 miles from Charlottesville, in
+camp here drilling.</p></div3>
+
+<div3 type="entry" n="1862-07-30" id="d89">
+<head>30th (July 1862)</head>
+<p>the same.</p></div3>
+
+<div3 type="entry" n="1862-07-31" id="d90">
+<head>31st (July 1862)</head>
+<p>the same.</p></div3></div2>
+
+<div2 type="section" n="1862-08" id="d91">
+<head>August 1862
+<!-- <ref>Camp Life, Battle Description, Death/Casualties,
+Troop Movement</ref> -->
+</head>
+
+<div3 type="entry" n="1862-08-01" id="d92">
+<head><dateRange from="1862-08-01" to="1862-08-04">August (1862) 1st, 2nd, 3rd,
+4th,</dateRange></head>
+<p>the same.</p></div3>
+
+<div3 type="entry" n="1862-08-05" id="d93">
+<head>[<dateRange from="1862-08-05" to="1862-08-07">August 5 to August 7</dateRange>]</head>
+<p>The 5th (August 1862) we left Camp Garnett and moved to
+camp near Liberty Mills. remained in camp drilling until
+evening of the 7th (Aug. 1862) when we set out on the march
+toward Orange <abbr expan="Courthouse.">C. H.</abbr> We <orig
+reg="laid">layed</orig> in the W. field 1 1/2 <orig
+reg="miles"></orig> from that place.</p></div3>
+
+<div3 type="entry" n="1862-08-08" id="d94">
+<head>[August 8]</head>
+<p>The next morning (August 8, 1862) we marched on through
+that place taking the road leading to Madison Mills. We then
+took down the river and went one mile and camped and stayed
+all night.</p></div3>
+
+<div3 type="entry" n="1862-08-09" id="d95">
+<head>[August 9]</head>
+<p>The next morning (August 9, 1862) we went on down the road
+toward Culpeper <abbr expan="Courthouse">C. H.</abbr>, marched
+some <unclear>2</unclear> miles this evening.</p>
+<p>The 9th (Aug. 1862) we got into the fight between 5 and 6
+in the evening which lasted <abbr expan="until">til</abbr>
+after dark, we drove them from the field. We lay in the field
+all night and fell back the next morning, other troops taking
+our place.</p></div3>
+
+<div3 type="entry" n="1862-08-10" id="d96">
+<head>[<dateRange from="1862-08-10" to="1862-08-12">August 10 to 12</dateRange>]</head>
+<p>10th (Aug. 1862) fell back about 4 miles and camped and
+stayed in this camp until the morning of the 12th (Aug. 1862)
+when we again fell back to our camp near Liberty Mills,
+reached that place about sunset, in camp.</p></div3>
+
+<div3 type="entry" n="1862-08-13" id="d97">
+<head>13th (Aug. 1862)</head>
+<p><orig reg="paid">payed</orig> March and April
+pay.</p></div3>
+
+<div3 type="entry" n="1862-08-14" id="d98">
+<head>14th (Aug. 1862)</head>
+<p>still in camp.</p></div3>
+
+<div3 type="entry" n="1862-08-15" id="d99">
+<head>15th (Aug. 1862)</head>
+<p>cooking two days rations.</p></div3>
+
+<div3 type="entry" n="1862-08-16" id="d100">
+<head>16th (Aug. 1862)</head>
+<p>left camp at sunrise and marched in the direction of 0range
+<abbr expan="Courthouse">C. H.</abbr>, marched 15 miles and
+camped.</p></div3>
+
+<div3 type="entry" n="1862-08-17" id="d101">
+<head>17th (Aug. 1862)</head>
+<p>in camp.</p></div3>
+
+<div3 type="entry" n="1862-08-18" id="d102">
+<head>18th (Aug. 1862)</head>
+<p>in camp.</p></div3>
+
+<div3 type="entry" n="1862-08-19" id="d103">
+<head>19th (Aug. 1862)</head>
+<p>witnessed the execution of one of the soldiers for
+deserting our Regiment.</p></div3>
+
+<div3 type="entry" n="1862-08-20" id="d104">
+<head>[August 20]</head>
+<p>The Regiment left this camp on the morning of the 20th
+(Aug. 1862) with 3 days rations in our haversacks and marched
+in the direction of <orig reg="Rapidan">Rapid Ann</orig>
+River, which place we reached about noon, we crossed the river
+by wading, marched on through Stephensburg camped for the
+night, 15 miles.</p></div3>
+
+<div3 type="entry" n="1862-08-21" id="d105">
+<head>21st (Aug. 1862)</head>
+<p>we marched on toward Rappahannock River but did not attempt
+to cross. We camped close to the river.</p></div3>
+
+<div3 type="entry" n="1862-08-22" id="d106">
+<head>22nd (Aug. 1862)</head>
+<p>marched about 7 miles, on picket tonight, nothing worth
+relating occurred.</p></div3>
+
+<div3 type="entry" n="1862-08-23" id="d107">
+<head>23rd (Aug. 1862)</head>
+<p>changed our direction to the left marched 6 miles and
+camped.</p></div3>
+
+<div3 type="entry" n="1862-08-24" id="d108">
+<head>24th (Aug. 1862)</head>
+<p>marched 4 miles, drew rations for 3 days and cooked
+same.</p></div3>
+
+<div3 type="entry" n="1862-08-25" id="d109">
+<head>25th (Aug. 1862)</head>
+<p>we again took up the line of march passing through little
+Jefferson, here we left our knapsacks, here we again changed
+our directions getting on the Alexandria turnpike, passing
+through <unclear>Amissville</unclear>. We then turned to the
+right and crossed the Rappahannock River, passed through
+<unclear>Orlean</unclear> and marched until 12 o'clock at
+night, 25 miles.</p></div3>
+
+<div3 type="entry" n="1862-08-26" id="d110">
+<head>26th (Aug. 1862)</head>
+<p>again on the march going through Salem, <orig reg="White
+Plains">White Plaines</orig> and Haymarket, some 24 miles,
+when we <orig reg="laid">layed</orig> down to rest for an hour
+or two.</p></div3>
+
+<div3 type="entry" n="1862-08-27" id="d111">
+<head>[August 27]</head>
+<p>We were called up in the morning of the 27th (Aug. 1862)
+before daylight and on the march for Manassas, which place we
+reached about 8 o'clock. We had some Yankees to contend with
+here, but they hurt none of us. We got plenty of provisions
+here which came in very good indeed for we were all very
+hungry. We remained here all day and until 11 o'clock at
+night, when we started for the old battleground of Bull Run or
+near, marching about 7 miles, we <orig
+reg="halted">haulted</orig> about daylight and <orig
+reg="laid">layed</orig> down to try <orig reg="to"></orig>
+sleep some, we marched round here all day <abbr
+expan="until">til</abbr> night.</p></div3>
+
+<div3 type="entry" n="1862-08-28" id="d112">
+<head>[August 28]</head>
+<p>This being the 28th (Aug. 1862), when we got into a regular
+engagement with the enemy about dark which lasted some 2
+hours. I was wounded in the left leg, the ball taking out some
+pieces of bone and the <abbr expan="Surgeon">Surg.</abbr>
+taking still more.</p></div3>
+
+<div3 type="entry" n="1862-08-28" id="d113">
+<head>[<dateRange from="1862-08-28" to="1862-09-24">August 28 to September 24</dateRange>]</head>
+<p>I was taken to the Crawford Cushing where I remained from
+the 28th of August <orig reg="until">till</orig> the 3rd of
+September (1862) when I was removed to Aldie in Loudoun
+County, where I remained until the 20th (Sept. 1862), when I
+started for home, which place I reached on the 24th (Sept.
+1862).</p></div3>
+
+</div2></div1>
+</body>
+</text>
+</TEI.2>

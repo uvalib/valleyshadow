@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+
+<?dlps id="F3037"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="F3037">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Samuel Christy to Mary Jane Demus, March 14,
+     1865</title>
+        <title type="sort">franklin county samuel christy to mary jane demus, march 14 1865</title>
+        <author>Christy, Samuel</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Murrell</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Murrell</name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. <num type="kilobytes">6</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">F3037</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:501475</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Franklin County: Samuel Christy to Mary Jane Demus, March 14, 1865</title>
+            <title level="m"/>
+            <title type="sort">franklin county samuel christy to mary jane demus, march 14 1865</title>
+            <author>Samuel Christy</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>2 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Case File of Wesley Krunkleton, Approved Pension
+       Applications of Veterans Who Served in the Army and Navy Mainly in the Civil War and the War
+       with Spain, Record Group 15, National Archives and Records Administration, Washington,
+      D.C.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>We would like to thank Edwin S. Redkey, Lagrangeville, New York, for bringing these
+        letters to our attention.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1865-03-14">1865-03-14</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>African Americans, Family, Camp Life</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001-07">July 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Murrell</name>
+        </respStmt>
+        <item>Proofread against original; corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="F3037T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Christy reports that his regiment is in good health and describes the peach trees around them
+     in Savannah.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Mary Jane Demus</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1865-03-14">March 14th 1865</date>
+      <name type="place">Savannah</name>
+     </dateline>
+     <salute>My Dear sister</salute>
+    </opener>
+
+    <p>i take my pen in Hand to inform you that We <orig reg="are">ar</orig> All Well at present and
+     i hope that When <orig reg="these">thes</orig>
+     <orig reg="few">fue</orig>
+     <orig reg="lines">lins</orig>
+     <orig reg="Come">Coms</orig> to hands that <orig reg="they">thay</orig> may find you in good
+     health We <orig reg="are">ar</orig> in Savannah now and i think that We Will be <orig
+      reg="there">thear</orig> all <orig reg="summer">sumer</orig> We Was in Charleston <orig
+      reg="awhile">a While</orig> and We left and Went to savannah i Would have Wrote sooner but i
+     had <orig reg="no">now</orig> paper and i thought that i <orig reg="Would">Wod</orig> not Write
+     till i <orig reg="Would">Wod</orig>
+     <orig reg="get">gut</orig> my things but i have <orig reg="got">gut</orig> them now Give my
+     love to father and to <orig reg="elizabeth">lizebeth</orig> And to all the rest of the friends
+     I think that We Will have pretty good <orig reg="times">tims</orig> now i think that We Will
+      <orig reg="Do">Due</orig> the provost Duty in the City the Regiment is in good health at the
+     present</p>
+
+    <p>Pleas to Write soon And let me <orig reg="know">now</orig> How <unclear>tims</unclear> is it
+     is very Warm <orig reg="here">hear</orig> now and the peach trees <orig reg="are">ar</orig> in
+     bloom down <orig reg="here">hear</orig> and every thing is green i seen David <orig reg="today"
+      >to day</orig> and he is Well and if i Can get home this <orig reg="summer">sumer</orig> i
+     Will <orig reg="Come">Com</orig>. We Will be <orig reg="paid">pade</orig> of soon i think you
+     must excuse my short letter this time for i must fall in for <orig reg="inspection"
+     >inspcin</orig> now and i <orig reg="haven't">havin</orig> time to Write <orig reg="much"
+     >mutch</orig> this time so i think i must <orig reg="Come">Com</orig> to a Close <orig
+      reg="this">thes</orig> time <orig reg="nothing">nothen</orig>
+     <orig reg="more">mor</orig> a present but still <orig reg="remain">reman</orig>
+    </p>
+
+    <closer>
+     <salute>your Brother</salute>
+     <signed>Samuel A. <orig reg="Christey">Christey</orig></signed>
+     <seg type="postscript">to his sister Mary L. <orig reg="Demus">Deames</orig><lb/>
+      <orig reg="Direct">Derect</orig> your letter to Savannah Georgia Co. J. 54th Mass vols </seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

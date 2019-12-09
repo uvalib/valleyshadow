@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2985"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A2985">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: William F. Brand to Amanda C. Armentrout,
+                    June 3, 1864</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta william f brand to amanda c armentrout, june 3 1864</title>
+        <author>Brand, William F.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Mary Elizabeth McCaskill</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A2985</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502155</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: William F. Brand to Amanda C. Armentrout, June 3, 1864</title>
+            <title level="m"/>
+            <title type="sort">augusta william f brand to amanda c armentrout, june 3 1864</title>
+            <author>William F. Brand</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William F. Brand Papers</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1864-06-03">1864-06-03</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Family, Home Front</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A2985T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>William writes to Kate of the general health of her brother and himself and
+                    assures her that he loves her.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1864-06-03">June 3rd /64</date>
+                        <name type="place">At Home</name>
+                    </dateline>
+                    <salute>My dear K.</salute>
+                </opener>
+
+                <p>I <orig reg="received">recieved</orig> your letter the first, Truly was I glad to
+                    hear from you. But it did not my <orig reg="conscience">consience</orig> reprove
+                    me for neglecting the <orig reg="idol">idle</orig> of my heart. My dear Kate
+                    forgive me for I shall never forget thee or ever <orig reg="cease">seace</orig>
+                    to love thee, It has been my constant wish to be with thee for the last two
+                    weeks I hardly know what has kept me from thy side so long. with out it is that
+                    you are at a strange <orig reg="place">plase</orig> to me &amp; your sister
+                    being unwell Dear Kate I know thy generous heart has been severly tried of late
+                    &amp; if I am <orig reg="spared">spaired</orig> I will soon be by thy side
+                    to make thee happy if I can; be <orig reg="cheerful">cheerfull</orig> be happy.
+                        <pb n="2"/>If I am spared you shall never lack a friend or lover I will come
+                    up to see you next Monday if you think it advisable for me to come up. I know
+                    you have no lady friend on the <orig reg="place">plase</orig> &amp; your
+                    Brother in law is no doubt very busy this time of the year I will come up Monday
+                    &amp; if you think it advisable I will stay a day or two, God <orig
+                        reg="knows">nows</orig> I would like to stay longer but it might not look
+                    well. I would write more but I have a chance to send this to the office so it
+                    may reach you tomorrow. Your Brother was well the last time I <orig reg="heard"
+                        >hurd</orig> from him. Bro. J is still safe My health is very good My wound
+                    is nearly well. all that makes me sad is to think my darling Kate is so <orig
+                        reg="despondent">dispondent</orig> fear not God knows I love thee &amp;
+                    I hope to be <orig reg="blessed">blest</orig> with thee</p>
+
+                <closer>
+                    <salute>Your true lover</salute>
+                    <signed>Willie</signed>
+                    <seg type="postscript">Good bye &amp; a kiss <orig reg="until">untill</orig>
+                        I meet <orig reg="thee">the</orig> have as many as you please</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

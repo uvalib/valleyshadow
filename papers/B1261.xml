@@ -1,0 +1,242 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1261"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="B1261">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: V. W. Curtis to Orlando
+                    Brown, July 17, 1865</title>
+        <title type="sort">freedmens bureau records v w curtis to orlando brown, july 17 1865</title>
+        <author>Curtis, V. W.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1261</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501108</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: V. W. Curtis to Orlando Brown, July 17,
+                            1865</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records v w curtis to orlando brown, july 17 1865</title>
+            <author>V. W. Curtis</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 36.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1865-07-17">1865-07-17</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Administration/Bureaucracy, Military Authority</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-06">June 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+                <item>Item checked against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1261T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Curtis details the organization and division of his Military District in
+                    Virginia. He designates Staunton to be the Sub-District headquarters for Augusta
+                    and four surrounding counties. Curtis instructs Brown to designate men to serve
+                    as Bureau superintendents for districts that correspond to the Military
+                    organization to avoid conflicts and lack of personnel.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Head Quarters <abbr expan="District">Dist.</abbr> of South Western Virginia
+                    <name type="recipient"><abbr expan="Colonel">Col.</abbr> O. Brown<lb/><abbr
+                            expan="Superintendent">Supt.</abbr> Bureau of Freedmens
+                        Affairs<lb/>Richmond, <abbr expan="Virginia">Va</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1865-07-17">July 17, 1865</date>
+                        <name type="place">
+                            <orig reg="Lynchburg">Lynchburgh</orig>
+                            <abbr expan="Virginia">Va.</abbr>
+                        </name>
+                    </dateline>
+                    <salute>Colonel,</salute>
+                </opener>
+
+                <p>I have divided my District into five Sub-Districts as follows--</p>
+
+                <p>Staunton<lb/>Augusta, Higland, Bath, Rockbridge &amp; Alleghany Counties.</p>
+
+                <p><orig reg="Lynchburg">Lynchburgh</orig><lb/>Nelson, Amherst, Appomattox, Bedford,
+                    and Campbell Counties.</p>
+
+                <p>Danville<lb/>Pittsylvania, Henry, Patrick &amp; Franklin Counties</p>
+
+                <p>New River<lb/>Botetourt, Craig, Roanoke, Montgomery, Floyd, Pulaski &amp;
+                    Giles Counties</p>
+
+                <pb n="2"/>
+
+                <p>Holston<lb/>Carroll, <orig reg="Wythe">Withe</orig>, <orig reg="Tazewell"
+                    >Taswell</orig>, <orig reg="Smyth">Smythe</orig>, <orig reg="Grayson"
+                    >Grason</orig>, Washington, Russell, <orig reg="Buchanan">Buchannan</orig>,
+                    Wise, Lee, and Scott Counties</p>
+
+                <p>and respectfully request that you send Officers of your Bureau to have charge of
+                    Freedmens affairs in each of the Sub Districts, the one in charge of the Sub
+                    District of <orig reg="Lynchburg">Lynchburgh</orig> to be appointed by you Chief
+                    Superintendent of the entire district, to whom you will send send all your
+                    orders and who alone will report direct to you all matters relating to your
+                    Bureau in my District.</p>
+
+                <p>Should you do this, I am confident the duties can be well performed and no
+                    clashing with the Military Authorities as I would know what orders you gave, and
+                    could send instructions to the Sub <abbr expan="District">Dist.</abbr>
+                    Commanders to cooperate with the Sub Superintendents in that <abbr
+                        expan="District">Dist.</abbr> in carrying out your isntructions.</p>
+
+                <p>I will detail a Sergeant and a sufficient number of men for each <pb n="3"
+                    />County to report direct to and be under the orders of the Sub <abbr
+                        expan="Superintendent">Supt.</abbr> of your Bureau in the various Sub <abbr
+                        expan="Districts">Dists</abbr>.</p>
+
+                <p>I cannot at present detail Officers for the duty of Sub <abbr
+                        expan="Superintendents">Supts</abbr> and if I did they would, I believe be
+                    quite incompetent to discharge the duties required in a proper manner.</p>
+
+                <p>You can obtain <abbr expan="Assistant Quartermasters">A.Q.Ms</abbr> and
+                        <unclear>C.S.s</unclear> who will remain permanently on duty while officers
+                    connected with troops are so frequently relieved and changed that they take and
+                    have less interest than is required in matters as important as are those of your
+                    Bureau.</p>
+
+                <p>Please telegraph me what action you take in this matter. I think you will have to
+                    alter the limits of your Sub Division of the Shenandoah Valley to correspond
+                    with those of the <abbr expan="Department">Dept.</abbr> else you will have great
+                    difficulty in arranging work for a man under <del rend="none" hand="h1"/>
+                    <unclear>
+                        <abbr expan="Department Commanding">Dept. Comdig.</abbr>
+                    </unclear></p>
+
+                <closer>
+                    <salute>I am Sir<pb n="4"/>Very Respectfully<lb/><abbr
+                            expan="Your Most Obedient">Yr Mo Obt</abbr> Servant</salute>
+                    <signed>V.W. Curtis<lb/>Brevet Major <abbr expan="General">Gen.</abbr>
+                        <abbr expan="United States Army">U.S.A.</abbr><lb/><abbr
+                            expan="Commanding District">Commdg Dist</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

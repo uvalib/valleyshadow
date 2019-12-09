@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+
+<?dlps id="F4009"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F4009">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Alexander K. McClure to Eli Slifer,
+                    June 9, 1863</title>
+        <title type="sort">franklin county alexander k mcclure to eli slifer, june 9 1863</title>
+        <author>McClure, Alexander K.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">6</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F4009</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501562</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Alexander K. McClure to Eli Slifer, June 9, 1863</title>
+            <title level="m"/>
+            <title type="sort">franklin county alexander k mcclure to eli slifer, june 9 1863</title>
+            <author>Alexander K. McClure</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Eli Slifer Papers, 1850-1891, Mss
+                            Slifer-Dill, Special Collections, Waidner-Spahr Library, Dickenson
+                            College, Carlisle, Pa.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Waidner-Spahr Library, Dickinson College, Carlisle, Pa.</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1863-06-09">1863-06-09</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Home Front, Military Strategy, State Government, Troop Movement</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F4009T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>McClure discusses defensive preparations being made in the county should
+                    Confederate troops cross into Union territory. He also writes about an upcoming
+                    election.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>Franklin Repository Office,<lb/>Chambersburg, <abbr expan="Pennsylvania">Pa.</abbr>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1863-06-09">June 9th, 1863</date>
+                        <name type="place">Chambersburg, <abbr expan="Pennsylvania">Pa.</abbr></name>
+                    </dateline>
+                    <salute>Dear <abbr expan="Colonel">Col</abbr>,</salute>
+                </opener>
+
+                <p>I called together half a dozen of our leading &amp; most prudent men, and
+                    submitted your letter. They have sent out for one of the <abbr expan="County"
+                        >Co.</abbr>
+                    <unclear>Commissioners</unclear> a very prudent man (brother of Jim Scotts) and
+                    will have him and several of the <unclear>Town</unclear> Council in a
+                    confidential consultation tonight.</p>
+
+                <p>I am perplexed as to what course to adopt. If the Rebels come they will come much
+                    stronger than <pb n="2"/>before, and I doubt not with a much more <hi
+                        rend="underline">destructive</hi>
+                    <del rend="none" hand="h1"/>. Our raiders south have been wantonly destructive with private
+                    property and the <hi rend="underline">lex talionis</hi> may come back upon us.</p>
+
+                <p>We will at first arrange for communication with a telegraphic instrument at
+                    Greencastle. <unclear>London</unclear>
+                    <del rend="none" hand="h1"/> and a few good scouts on the view, we may avoid surprise, and
+                    thus save much valuable property. In <orig reg="connection">connexion</orig>
+                    with the Hagerstown, Greencastle, Mercersburg, Williamsport and Hancock people,
+                    we can I think arrange a perfect police system, and <pb n="3"/>be able at this
+                    point to have timely notice of any movement.</p>
+
+                <p>The <unclear>Governor</unclear> will fail at Washington I fear,
+                    <unclear>Staunton</unclear> is so bitterly against him that he will interfere
+                    against any movement the <unclear>Governor</unclear> may desire. He seems to be
+                        <unclear>actuated</unclear> all the time by the impression that <abbr
+                        expan="Governor">Gv</abbr>
+                    <unclear>Curtin</unclear> is only seeking popularity in all these efforts: and
+                    he does not particularly deserve to be popular.</p>
+
+                <p>Write me daily how things look. You need not fear any sensations from any facts
+                    or opinions you may give for we shall be careful of all that.</p>
+
+                <p>I fear Curtin is assenting an <unclear>in-tarily</unclear> to the use of his name
+                    for renomination. If <unclear>Franklin</unclear> is nominated on the 17th every
+                    consideration of prudence will dictate his <unclear>peremtory</unclear>
+                    <unclear>withdrawal</unclear> and under any circumstances it is of much more
+                    than doubtful wisdom.</p>
+
+                <closer>
+                    <salute>Truly thine</salute>
+                    <signed>AKMcClure</signed>
+                    <seg type="postscript">
+                        <name type="recipient"><abbr expan="Honorable">Hon</abbr> Eli Slifer</name>
+                    </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

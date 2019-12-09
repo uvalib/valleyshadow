@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1155"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1155">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: W. Storer How to Orlando
+                    Brown, December 11, 1865</title>
+        <title type="sort">freedmens bureau records w storer how to orlando brown, december 11 1865</title>
+        <author>How, W. Storer</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1155</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501015</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: W. Storer How to Orlando Brown, December
+                            11, 1865</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records w storer how to orlando brown, december 11 1865</title>
+            <author>W. Storer How</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 14.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1865-12-11">1865-12-11</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Administration/Bureaucracy, Aid/Relief, Military Authority, Race Relations</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-07">July 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Kid Wongsrichanalai</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1155T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>How submits a summary of conditions in the Sixth Sub-District, of which Augusta
+                    County was a part at this time. Although he does not mention Augusta County,
+                    directly, How discusses the problem of poor relief, and the need to have troops
+                    stationed in each county, if the Bureau's work is to be effective.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau of Refugees, Freedmen and Abandoned Lands,<lb/>Head Quarters, Sixth
+                    District, Virginia,
+                    <name type="recipient"><abbr expan="Colonel">Col.</abbr> O. Brown, <abbr
+                            expan="Assistant Commissioner">Assist Comr</abbr><lb/>Richmond, <abbr
+                            expan="Virginia">Va</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1865-12-11"><abbr expan="December">Dec</abbr> 11<hi
+                                rend="super">th</hi> 1865</date>
+                        <name type="place">Winchester, <abbr expan="Virginia">Va.</abbr>,</name>
+                    </dateline>
+                    <salute>Colonel</salute>
+                </opener>
+
+                <p>I have the honor to state that the condition of the Freedmen in this District is
+                    substantially the same as at my last report.</p>
+
+                <p>Bureau affairs have undergone some change, I having at last secured the presence
+                    of a company of Infantry at Harrisonburg which gives me effective jurisdiction
+                    in the large county of Rockingham. <abbr expan="Lieutenant">Lt.</abbr> Tubbs at
+                    Lexington reports the withdrawal of troops from Botetourt <abbr expan="County"
+                        >Co</abbr> and says that without them he can do nothing in that county. I am
+                    also led to believe that the troops are taken from Bath and Highland Counties in
+                    which case it would be simply useless to attempt the maintenance of agencies
+                    there.</p>
+
+                <p>In the counties last named there are but few freedmen and their relations to the
+                    Whites generally <unclear>restrictive</unclear> and <unclear>obscure</unclear>.
+                    In Botetourt they are in larger numbers and need instruction and protection <pb
+                        n="2"/>and I again call attention to the fact that Botetourt County may be
+                    best superintended from Lynchburg.</p>
+
+                <p>Overseers of the Poor are generally unable or unwilling to provide for pauper
+                    freedmen and in common with other local authorities appear to be awaiting some
+                    supposed action of the State Legislature which may, if in accordance with their
+                    wishes and expectations, enable them to exhibit their <unclear>patent</unclear>
+                    (state) law-abiding proclivities.</p>
+
+                <p>Partial issues of subsistence are thus rendered imperative, and fuel is now
+                    necessary to relieve and prevent great suffering among the poor freedmen in this
+                    cold mountainous region.</p>
+
+                <p>I have received from the Freedmen's Aid Association in Philadelphia a
+                    considerable quantity of clothing which I have been and am distributing among
+                    the poorest of the freedmen to their sensible relief, returning their heartfelt
+                    gratitude to the donors.</p>
+
+                <closer>
+                    <salute>I am Colonel<lb/>Very Respectfully, Your Obedient Servant</salute>
+                    <signed>W. Storer How, <abbr expan="Captain">Capt</abbr> &amp; <abbr
+                            expan="Assistant Quartermaster">AQM</abbr><lb/><abbr
+                            expan="Superintendent">Supt</abbr> Sixth <abbr expan="District">Dist.</abbr>
+                        <abbr expan="Virginia">Va.</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

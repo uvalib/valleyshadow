@@ -1,0 +1,394 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0711"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+ <!NOTATION jpg SYSTEM "JPEG">  
+ <!ENTITY BitKin1a SYSTEM "uva-lib:502973" NDATA uvaHighRes> 
+ <!ENTITY BitKin1b SYSTEM "uva-lib:502974" NDATA uvaHighRes> 
+ <!ENTITY BitKin1c SYSTEM "uva-lib:502975" NDATA uvaHighRes> 
+ <!ENTITY BitKin1d SYSTEM "uva-lib:502976" NDATA uvaHighRes> 
+ 
+ ]>  
+ <TEI.2 id="F0711">  
+ <teiHeader type="migrated">  
+    <fileDesc>  
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: William Kindig to Henry A. Bitner, July 21, 1862</title>
+        <title type="sort">franklin county william kindig to henry a bitner, july 21 1862</title>
+        <author>Kindig, William</author>
+        <respStmt>  
+          <resp>Creation of machine-readable version:   
+ </resp>   
+          <name>Anne Rubin, Valley of the Shadow project, Institute for Advanced Technology in the Humanities, University of Virginia  
+ </name>   
+          <resp>Creation of digital images:   
+ </resp>   
+          <name>Anne Rubin, Valley of the Shadow project, Institute for Advanced Technology in the Humanities, University of Virginia  
+ </name>   
+          <resp>Conversion to TEI.2-conformant markup:   
+ </resp>   
+          <name>University of Virginia Library Electronic Text Center.  
+ </name>   
+        </respStmt>
+      </titleStmt>   
+      <extent>ca. <num type="kilobytes">13</num> kilobytes</extent>
+      <publicationStmt>  
+        <publisher>University of Virginia Library  
+ </publisher>   
+        <pubPlace>Charlottesville, Virginia  
+ </pubPlace>   
+        <idno type="VCDH">F0711</idno>   
+        <!--
+ <availability>  
+ <p>Publicly-accessible  
+ </p>   
+ <p>URL: http://etext.lib.virginia.edu/modeng/modengB.browse.html  
+ </p>   
+ <p>Publicly-accessible  
+ </p>   
+ <p>URL: http://jefferson.village.Virginia.EDU/vshadow2/  
+ </p>   
+ </availability>
+-->   
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1998 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1998">1998  
+ </date>   
+        <idno type="uva-pid">uva-lib:501355</idno>
+      </publicationStmt>   
+      <seriesStmt>  
+        <p>  
+ </p>   
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>   
+      <notesStmt>  
+        <note>
+          <p>Images of the manuscript have been included. This electronic text is a faithful transcription of the original manuscript. We have included SGML tags which allow the reader to view a modernized version of the text in which the punctuation and the spelling have been regularized.</p>
+        </note>   
+        <note>  
+ </note>   
+      </notesStmt>   
+      <sourceDesc>  
+        <biblFull>  
+          <titleStmt>
+            <title>Franklin County: William Kindig to Henry A. Bitner, July 21, 
+ 1862</title>
+            <title level="u">  
+ </title>
+            <title type="sort">franklin county william kindig to henry a bitner, july 21 1862</title>
+            <author>William Kindig</author>
+            <respStmt>  
+              <resp>  
+ </resp>   
+              <name>  
+ </name>   
+            </respStmt>
+          </titleStmt>   
+          <editionStmt>  
+            <p>  
+ </p>   
+          </editionStmt>   
+          <extent>  
+ </extent>   
+          <publicationStmt>  
+            <publisher>  
+ </publisher>   
+            <pubPlace>  
+ </pubPlace>   
+            <date value="">  
+ </date>   
+            <idno type="callno">Manuscript copy consulted: University of Virginia, Alderman Library, Special Collections MSS 11395  
+ </idno>   
+          </publicationStmt>   
+          <seriesStmt>  
+            <p>  
+ </p>   
+          </seriesStmt>   
+          <notesStmt>  
+            <note>  
+ </note>   
+          </notesStmt>   
+        </biblFull>   
+      </sourceDesc>   
+    </fileDesc>   
+    <encodingDesc>  
+      <projectDesc>  
+        <p>Prepared for the University of Virginia Library Electronic Text Center.  
+ </p>   
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>   
+      <editorialDecl>  
+        <p>Original lineation has been maintained.  
+ </p>   
+        <p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs.  
+ </p>   
+        <p>Some keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.  
+ </p>   
+      </editorialDecl>   
+      <refsDecl>  
+        <p>  
+ </p>   
+      </refsDecl>   
+      <classDecl>  
+        <taxonomy>  
+          <bibl>  
+            <title>Library of Congress Subject Headings  
+ </title>   
+          </bibl>   
+        </taxonomy>   
+      </classDecl>   
+    </encodingDesc>   
+    <profileDesc>  
+      <creation>  
+        <date value="1862-07-21">1862-07-21  
+ </date>   
+      </creation>   
+      <langUsage>  
+        <language id="eng">English  
+ </language>   
+      </langUsage>   
+      <textClass>  
+        <keywords>  
+          <term>nonfiction  
+ </term>   
+          <term>prose  
+ </term>   
+          <term>masculine  
+ </term>   
+          <term>American Civil War; Special Collections  
+ </term>   
+          <term>107th Pa. 
+ </term>  
+          <term>Company B  
+ </term>  
+          <term>Franklin County 
+ </term> 
+          <term>Troop Movement 
+ </term> 
+          <term>George B. McClellan 
+ </term> 
+  
+          <term>American Civil War</term> 
+        </keywords>   
+        <keywords>  
+          <term>LCSH  
+ </term>   
+        </keywords>   
+        <keywords>  
+          <term>  
+ </term>   
+          <term>  
+ </term>   
+          <term type="format">72 dpi; 24-bit color  
+ </term>   
+        </keywords>   
+      </textClass>   
+    </profileDesc>   
+    <revisionDesc>  
+      <change>  
+        <date value="1998-05">May 1998  
+ </date>   
+        <respStmt>  
+          <resp>corrector  
+ </resp>   
+          <name>Carolyn Fay and Lisa Spiro  
+ </name>   
+        </respStmt>   
+        <item>Added TEI header and tags, corrected transcription errors, and standardized punctuation and spelling for the modernized version.  
+ </item>   
+      </change>   
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>   
+ </teiHeader>   
+ <text id="F0711T">  
+ <body id="d2">  
+  <!-- <page n=1><ID>BitKin11</ID> -->   
+ <div1 type="letter" n="1862-07-21" id="d3">  
+   
+ <opener>  
+ 
+   
+  
+ <pb n="1" entity="BitKin1a" pid="uva-lib:502973"/>  
+
+   
+ <dateline>  
+ <name type="place">Waterloo on the   
+ Rappahannock</name><lb/>  
+ <name type="place">Fauquier <abbr expan="County, Virginia">Co. Va</abbr></name>,   
+ <date value="1862-07-21">July 21<hi rend="super">th</hi> 1862.</date>  
+ </dateline>  
+ <salute>My old friend <name type="person">Harry</name><lb/>  
+ Dear Sir</salute>  
+ </opener>  
+ <p>I have<lb/>   
+ been writing and writing and <orig reg="writing">writ<lb/>  
+ ing</orig> to you ever since I am in the<lb/>   
+ army, and at last I've wakened<lb/>   
+ up all of a Sunday morning to<lb/>   
+ find myself sealed behind a whole<lb/>   
+ sheet of foolscap, trying to make it<lb/>   
+ look like a letter to old <name type="place">Southampton</name>.<lb/>  
+ I would make an awful long yarn to<lb/>   
+ tell you everything that has happened<lb/>   
+ since I left home, in fact, <orig reg="it would">twould</orig><lb/>   
+ make a young history, so will try<lb/>   
+ our hand in the condensing line &amp;<lb/>   
+ squeeze out all the little things <orig reg="retaining">re<lb/>  
+  <!-- </page> -->  <!-- <page n=2><ID>BitKin12</ID> -->   
+   
+  
+ <pb n="2" entity="BitKin1b" pid="uva-lib:502974"/>  
+ 
+   
+ taining</orig> only the big facts.  After our<lb/>   
+ <abbr expan="regiment">regt.</abbr> had been encamped on the sacred<lb/>   
+ soil of <name type="place"><abbr expan="Virginia">Va.</abbr></name>   
+ for several weeks near   
+ <name type="place"><orig reg="Munson's"> Mun<lb/>  
+ son's</orig> Hill</name>, we were attached to  
+ <name type="person"><abbr expan="General">Gen.</abbr> Duryee's</name><lb/>  
+ brigade then lying near <name type="place">Alexandria</name>, and<lb/>   
+ our <abbr expan="regiment">regt</abbr>. was accordingly  
+ moved thither.<lb/>  
+ Next our <abbr expan="regiment">regt.</abbr> was detatched from the<lb/>   
+ brigade for awhile to guard the <abbr expan="Railroad">R.R.</abbr>   
+ from<lb/>   
+ <name type="place">Alexandria</name> to Manassas Junction.   
+ From this<lb/>   
+ we went 12 miles beyond Manassas Junction<lb/>   
+ to what is called <name type="place">Catlett's Station</name>,   
+ but when<lb/>   
+ <name type="person">Banks</name> retreated, we fell back on   
+ <name type="place">Manassas</name><lb/>  
+ to defend that place. Here Ord's and   
+ <orig reg="Shield's">Shields</orig><lb/>  
+ divisions soon came pouring in like bees<lb/>   
+ and advanced thence to <name type="place">Front Royal</name><lb/>   
+ in pursuit of <name type="person">Jackson</name>,   
+ at <name type="place">Manassas</name> our<lb/>   
+ <abbr expan="regiment">regt.</abbr> or rather our brigade was  
+ attatched<lb/>  
+ to <name type="name"><orig reg="Ord's">Ords</orig></name>, now  
+ <name type="person"><orig reg="Rickett's">Ricketts</orig></name>   
+ division.  I suppose<lb/>   
+ you've read the letter describing this march<lb/>   
+ in the news. I was not along with the<lb/>   
+ <abbr expan="regiment">regt.</abbr> on this march, but  
+ got sick at<lb/>   
+   
+  <!-- </page> -->  <!-- <page n=3><ID>BitKin13</ID> -->   
+   
+ 
+ <pb n="3" entity="BitKin1c" pid="uva-lib:502975"/>  
+ 
+   
+ <name type="place">Manassas</name>,   
+ and was sent to <name type="place"><orig reg="Washington">Washing<lb/>  
+ ton</orig></name>, After <name type="person">Jackson</name>  
+ disappeared our<lb/>   
+ divison fell back again on <name type="place"><orig reg="Catlett's">Catletts</orig><lb/>   
+ Station</name> where I rejoined my <abbr expan="regiment">regt.</abbr>   
+ after<lb/>   
+ an absence of about 3 or 4 weeks. Thence<lb/>   
+ we marched to <name type="place">Warrenton</name>, County seat<lb/>   
+ of <name type="place">Fauquier</name>, and from that again a  
+ <orig reg="distance">dis<lb/>  
+ tance</orig> of 8 miles out here on the   
+ <name type="place"><orig reg="Rappahannock">Rap<lb/>  
+ pahannock</orig></name>.    
+ We are now in <name type="person">Pope</name>'s great<lb/> army of   
+ <name type="place">Virginia</name>. The men have great   
+ <orig reg="belief">be-<lb/>  
+ lief</orig> in him and his energetic policy,<lb/>  
+ and all desire and expect that he will<lb/>   
+ soon give us a chance to distinguish<lb/>   
+ ourselves. We all regard his late stringent<lb/>   
+ orders as just the thing, and all are<lb/>   
+ down on slow coach <name type="person">  
+ <orig reg="McClellan">McLellan</orig></name>, who<lb/>   
+ marched his army into the swamps of<lb/>   
+ the <name type="place">Chickahominy</name>, and kept  
+ them <orig reg="intrenching">intren<lb/>  
+ ching</orig> and digging, while they were dying<lb/>   
+ by the thousand, and all this time<lb/>   
+ made no attempt on <name type="place"><orig reg="Richmond.">Richmond  
+ </orig></name>    
+   
+  <!-- </page> -->  <!-- <page n=4><ID>BitKin14</ID> -->   
+   
+   
+ <pb n="4"  entity="BitKin1d" pid="uva-lib:502976"/>  
+  
+   
+ He occupies a splendid position on<lb/>   
+ the banks of the <name type="place">James</name>, but why   
+ <orig reg="didn't">didnt</orig><lb/>  
+ he go there in the first place. We <orig reg="expect">ex<lb/>  
+ pect</orig> better things of <name type="person">Pope</name>   
+ who has already<lb/>   
+ proved himself no ordinary <abbr expan="General">Gen.</abbr>   
+ in the<lb/>   
+ Western Campaign. Our <abbr expan="Colonel">Col.</abbr>  
+ <name type="person">(Ziegle)</name> died<lb/>   
+ the other day. <name type="person">McAllen</name> is too sickly to<lb/>   
+ take the command, so the <abbr expan="Governor">Gov.</abbr>   
+ I suppose<lb/>   
+ will appoint us a <abbr expan="Colonel">Col.</abbr>   
+ <name type="person">Jake Gish</name> just<lb/>   
+ got back from <name type="place">Washington</name> last night<lb/>   
+ with his commission as 2<hi rend="super">nd</hi>   
+ <abbr expan="Lieutenant">Lieut.</abbr> We<lb/>   
+ have bully officers. <name type="person">MacThompson</name>   
+ is a<lb/>   
+ clever <abbr expan="Captain">Capt.</abbr>, <name type="person">  
+ McPherson</name> is clever, but<lb/>  
+ <name type="person">Gish</name> is the best man of the party. The<lb/>   
+ boys all like him because he makes <orig reg="himself">him-<lb/>  
+ self</orig> so common. Write and give me all<lb/>   
+ the news of <name type="place">Southampton</name>,   
+ <name type="place">Shippensburg</name>, the<lb/>   
+ schools, your studies, &amp;c.  
+ </p>  
+   
+ <closer>  
+ <salute>Truly your friend,</salute> <signed>  
+ <abbr expan="William">Wm.</abbr> H. Kindig</signed>  
+    
+ [In upper margin of page 2]  
+ Direct your<lb/>   
+ answer to<lb/>   
+ <abbr expan="Company">Co.</abbr> B. 107<hi rend="super">th</hi><lb/>   
+ <abbr expan="Regiment Pennsylvania Volunteers">Regt. P.V.</abbr><lb/>   
+ <name type="place">Washington<lb/>   
+ D.C.</name>  
+   
+ </closer>  
+   
+ </div1>  
+  <!-- </page> -->   
+ </body>  
+ </text>  
+ </TEI.2>  
+   
+ 

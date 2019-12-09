@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+
+<?dlps id="B0035"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B0035">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: John A. McDonnell to Thomas P.
+     Jackson, September 19, 1867</title>
+        <title type="sort">freedmens bureau records john a mcdonnell to thomas p jackson, september 19 1867</title>
+        <author>McDonnell, John A.</author>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>HIUS 403 Students</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Peter Brownfeld</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">B0035</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:500400</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Freedmen's Bureau Records: John A. McDonnell to Thomas P. Jackson, September 19, 1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records john a mcdonnell to thomas p jackson, september 19 1867</title>
+            <author>John A. McDonnell</author>
+            <editor/>
+            <respStmt>
+              <resp>e.g. Translator</resp>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>2 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: National Archives and Records Administration,
+       Records of the Bureau of Refugees, Freedmen, and Abandoned Lands, Record Group 105, Box
+      E4269</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1868-06-05">1868-06-05</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Administration/Bureaucracy</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2003-08">August 2003</date>
+        <respStmt>
+          <resp/>
+          <name>Desi Hopkins</name>
+        </respStmt>
+        <item>Proofread against original; corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="B0035T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>McDonnell asks Jackson to provide information regarding the condition of freedmen under the
+     Bureau's jurisdiction in Augusta and Highland counties so that McDonnell can prepare his
+     quarterly report.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     Bureau of Refugees, Freedmen, and Abandoned Lands,<lb/> Head Quarters 9th District Department
+     of the Potomac
+     <name type="recipient">Mr. <abbr expan="Thomas">Tho<hi rend="super">s</hi></abbr> P.
+      Jackson<lb/>Agent</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1867-09-19"><abbr expan="September">Sept.</abbr> 19<hi rend="super">th</hi>, 1867</date>
+      <name type="place">Winchester, Va</name>
+     </dateline>
+     <salute/>
+    </opener>
+
+    <p>My Quarterly report being called for earlier than I expected and fearful that I cannot go to
+     Staunton so soon again, I will thank you for a full reply to each of the following <orig
+      reg="inquiries">enquiries</orig> as soon as practicable. <abbr expan="That is">Viz</abbr></p>
+
+    <p>
+     <hi rend="underline">1<hi rend="super">st</hi> What is the General Condition of the
+     freedmen.</hi>
+    </p>
+
+    <p>
+     <hi rend="underline">2<hi rend="super">nd</hi> What likelihood is there of full justice being
+      given to freedpeople by the civil courts in cases in which they are interested against
+     whites.</hi>
+    </p>
+
+    <p>
+     <hi rend="underline">3<hi rend="super">rd</hi> What is the condition of the Register of
+      Marriages as authorized by Circular 11-1866, and how far are each of the four Paragraphs of
+      said Circular carried out.</hi>
+    </p>
+
+    <p>
+     <hi rend="underline">4<hi rend="super">th</hi> How is the supply of labor adapted to the
+      demand.</hi>
+    </p>
+
+    <p>
+     <hi rend="underline">5<hi rend="super">th</hi> What is the condition of the Schools for
+      freedmen and what the demand for them elsewhere.</hi>
+    </p>
+
+    <pb n="2"/>
+
+    <p>A full report is required covering the condition of you Sub division, and such other
+     information as may be important or interesting in <orig reg="reference">referance</orig> to the
+     general Condition of the freedpeople in Augusta and Highland Counties.</p>
+
+    <p>My Report is called for on the 25<hi rend="super">th</hi> so please forward yours as soon as
+     possible.</p>
+
+    <closer>
+     <salute>Very Respectfully,<lb/>Yours</salute>
+     <signed>John A. M<hi rend="super">c</hi>Donnell<lb/><abbr expan="Captain"
+      >Capt.</abbr>&amp;c</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

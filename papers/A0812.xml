@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+
+<?dlps id="A0812"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+
+<!ENTITY garb12 SYSTEM "uva-lib:503046" NDATA uvaHighRes>
+
+
+]>
+  
+<TEI.2 id="A0812">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Thomas Garber to Addie Garber, May
+                    29, 1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county thomas garber to addie garber, may 29 1863</title>
+        <author>Garber, Thomas</author>
+        <editor> </editor>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Alice Carter</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Amy Murrell</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A0812</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>copyright 1998, by the Rector and Visitors of the University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1998 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1998">1998</date>
+            <idno type="uva-pid">uva-lib:503045</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Thomas Garber to Addie Garber, May 29, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta county thomas garber to addie garber, may 29 1863</title>
+            <author/>
+            <editor> </editor>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p> </p>
+                    </editionStmt>
+                    <extent>1 page</extent>
+                    <publicationStmt>
+                        <publisher> </publisher>
+                        <pubPlace> </pubPlace>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Garber Family Letters, Augusta
+                            County Historical Society, Staunton, Virginia </idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note>
+                            <p>The bottom right portion of the original letter is torn off.</p>
+                        </note>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Augusta County Historical Society, Staunton, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1863-05-29">1863-05-29</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Church/Religious Activity, Family</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2000">Summer 2000</date>
+                <respStmt>
+                    <resp/>
+                    <name>Amy Voorhees</name>
+                </respStmt>
+                <item>Proofread against the original; transcription corrected.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A0812T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Thomas Garber writes to his sister about a recent church service in camp. </p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+
+                    <pb n="1" entity="garb12" pid="uva-lib:503046"/>
+                    
+                    <name type="recipient">Addie Garber</name>
+
+                    <dateline>
+                        <date value="1863-05-29">May 29, 1863</date>
+                        <name type="place">Camp Near Harrisonburg</name>
+                    </dateline>
+                    <salute>Dear Sister Addie</salute>
+                </opener>
+
+                <p>We start tomorrow for the Rappahanock &amp; as I <orig reg="don't"
+                    >dont</orig> when I shall have a chance to write to you again I thought I would
+                    write you a few lines this evening.</p>
+
+                <p>Mr Maury had church this morning in camp. he had a very slim congregation, but he
+                    gave <orig reg="us">ous</orig> a very nice sermon. Give my love to Ash &amp;
+                    Mike when you write to them tell them I hope to see them before long. Tell Pa
+                    that Cousin Ash said he would speak to him about my going to Lexington to
+                    school. Give my love to sister Seal &amp; tell her I was sory I did get to
+                    see her when I was in town the other day excuse this short <orig reg="note"
+                    >not</orig> as I have nothing else to say enclosed <del rend="none" hand="h1"/> will find a
+                    note for cousin will you <del rend="none" hand="h1"/></p>
+
+                <closer>
+                    <salute/>
+                    <signed>Thos M. Garber</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

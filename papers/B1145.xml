@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1145"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1145">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: John A. McDonnell to
+                    Orlando Brown, March 10, 1868</title>
+        <title type="sort">freedmens bureau records john a mcdonnell to orlando brown, march 10 1868</title>
+        <author>McDonnell, John A.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1145</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501005</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: John A. McDonnell to Orlando Brown, March
+                            10, 1868</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records john a mcdonnell to orlando brown, march 10 1868</title>
+            <author>John A. McDonnell</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 32.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1868-03-10">1868-03-10</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Administration/Bureaucracy</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-06">June 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Kid Wongsrichanalai</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1145T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>McDonnell describes the organization of the 9th Sub-District, including Augusta
+                    County (in the 4th Division).</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau <abbr expan="Refugees, Freedmen and Abandoned Lands">R. F. &amp; A.
+                        L.</abbr><lb/><abbr expan="Headquarters">Head Qrs</abbr> 9<hi rend="super"
+                            >th</hi> Sub-<abbr expan="District">Dist.</abbr>
+                    <abbr expan="Virginia">Va.</abbr>
+                    <name type="recipient"><abbr expan="Brevet Brigadier General">Bt. Brig.
+                        Genl'</abbr> O. Brown<lb/><abbr expan="Assistant Commissioner">Asst
+                        Comr</abbr><lb/>Richmond <abbr expan="Virginia">Va</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1868-03-10">March 10<hi rend="super">th</hi> 1868</date>
+                        <name type="place">Winchester,</name>
+                    </dateline>
+                    <salute>General</salute>
+                </opener>
+
+                <p>I have the honor to report the following arrangement, made in compliance with
+                    Circular No. 1 C.S. from your Head Quarters, viz-</p>
+
+                <p>Ninth Sub-District, <abbr expan="Virginia">Va.</abbr></p>
+
+                <p>1<hi rend="super">st</hi> Division Frederick <abbr expan="County">Co.</abbr> John
+                    A. McDonnell <abbr expan="Sub Assistant Commissioner">S.A.C.</abbr> to be at the
+                    office of the Bureau Winchester.</p>
+
+                <p>2<hi rend="super">d</hi> Division Clarke, Page &amp; Warren <abbr
+                        expan="Counties">Cos.</abbr> - E. H. Ripley <abbr
+                        expan="Assistant Sub Assistant Commissioner">A.S.A.C.</abbr> to be at
+                    Berryville, county seat of <hi rend="underline">Clarke</hi> County, at the
+                    Courthouse, on the fourth monday of each month, being court day, to remain 2
+                    days, or longer if business demands</p>
+
+                <pb n="2"/>
+
+                <p>To be at Luray County seat of Page County, at the Courthouse on the 15<hi
+                        rend="super">th</hi> of each month <add hand="h1" place="inline">for two
+                        days</add> or longer if necessary.</p>
+
+                <p>To be at Front Royal County seat of Warren County, on Court day, at the office of
+                    the Bureau and at all other times when not at Berryville or Luray as above
+                    stated.</p>
+
+                <p>3<hi rend="super">d</hi> Division Shenandoah &amp; Rockingham</p>
+
+                <p>J.T.H. Hall <abbr expan="Assistant Sub Assistant Commissioner">A.S.A.C.</abbr>
+                    will be at Harrisonburg, County seat of Rockingham County at the American Hotel,
+                    on the 3<hi rend="super">rd</hi> Monday of each month, being Court day. He will
+                    remain two days, or longer if necessary. He will be at his office, Woodstock,
+                    county seat of Shenandoah County, the remainder of the month.</p>
+
+                <p>4<hi rend="super">th</hi> Division Augusta &amp; Highland <abbr
+                        expan="Counties">Cos.</abbr></p>
+
+                <p>Thos. P. Jackson, <abbr expan="Assistant Sub Assistant Commissioner"
+                    >A.S.A.C.</abbr> Official at Staunton, county seat Augusta <abbr expan="County"
+                        >Co.</abbr> will be at Monterey, <abbr expan="County">Co.</abbr> seat of
+                    Highland County on the 2<hi rend="super">d</hi> Thursday in each month (Court
+                    day) and remain as long as necessary - During <pb n="3"/>the rest of the month,
+                    to be found at his office in Staunton.</p>
+
+                <closer>
+                    <salute>Very Respectfully<lb/>Your <abbr expan="Obedient">Obed.</abbr>
+                        <abbr expan="Servant">Servt.</abbr></salute>
+                    <signed>John A. McDonnell<lb/>Sub <abbr expan="Assistant Commissioner">Asst
+                            Comr.</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

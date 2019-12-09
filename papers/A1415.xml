@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+
+<?dlps id="A1415"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A1415">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: Robert L. Doyle to John Letcher, June 18,
+                    1860</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta robert l doyle to john letcher, june 18 1860</title>
+        <author>Doyle, Robert L.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Kid W.</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Kid W.</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A1415</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501954</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: Robert L. Doyle to John Letcher, June 18, 1860</title>
+            <title level="m"/>
+            <title type="sort">augusta robert l doyle to john letcher, june 18 1860</title>
+            <author>Robert L. Doyle</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Governor's/Exec. Papers-Pardons,
+                            June 19-27, 1860, Box 3, Folder 7, Library of Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Virginia Historical Society, Richmond Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1860-06-18">1860-06-18</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>African Americans, Prisons/Prisoners, State Government</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2005">Summer 2005</date>
+                <respStmt>
+                    <resp/>
+                    <name>Doug O'Reagan</name>
+                </respStmt>
+                <item>Proofread.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A1415T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Doyle writes to Gov. Latcher supporting the petition by a number of Augusta Co.
+                    citizens to free convicted criminal James McMullen. He suggests that the witness
+                    who testified against McMullen is not trustworthy and also mentions an
+                    African-American accomplice.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient"><abbr expan="Honorable">Hon<hi rend="super">l</hi></abbr><abbr expan="John">J</abbr> Letcher<lb/><abbr expan="Governor">Gov</abbr> of Virginia<lb/> Richmond</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1860-06-18">18<hi rend="super">t<unclear>h</unclear></hi> June 1860</date>
+                        <name type="place">Staunton</name>
+                    </dateline>
+                    <salute>Dear Sir</salute>
+                </opener>
+
+                <p>This will be handed to you by Mr<hi rend="super">s</hi> M<hi rend="super"
+                    >c</hi>Mullen the wife of James M<hi rend="super">c</hi>Mullen who was sentenced
+                    at the present term of our Circuit Court to Three years confinement in the
+                    Penitentiary - The petition which she will lay before you sets forth, so far as
+                    mere writing can; her strong claims upon the executive clemency The witness
+                    against McMullen was one <abbr expan="William">W<hi rend="super">m</hi></abbr>
+                    Painter, one of the gang who for many years have infested the South bottom in
+                    Rockbridge, he has not been long enough a resident of this section to have
+                    acquired a <abbr expan="general">Genl</abbr> character - His testimony was <orig
+                        reg="very">verry</orig> remarkable to say the least of it. He said he was
+                    sleeping in the same room with two other persons, one of them in the same bed
+                    with him all men <unclear>grown</unclear> &amp; <unclear>stout</unclear>
+                    there were other men sleeping in the same house all in the employment of the man
+                    of the house - That after 12 o'clock at night he went out in his night <pb n="2"
+                    /> clothes to see about the horses of which he had the care, upon going out of
+                    the house he saw a free negro man whom he knew very well coming out of the <orig
+                        reg="smokehouse">Smoke house</orig>, with a piece of bacon in his hand -
+                    that he stood still &amp; presently the negro returned &amp; went again
+                    into the <orig reg="smokehouse">Smoke house</orig> &amp; carried off another
+                    piece of bacon that he then saw the negro &amp; M<hi rend="super"
+                    >c</hi>Mullen come out from behind the <orig reg="smokehouse">Smoke house</orig>
+                    with each of them a bag of bacon upon their backs - during all of this time the
+                    witness said he stood perfectly still &amp; did not make any noise <del
+                        hand="h1">Th</del> he then returned to his bed and said nothing to any of
+                    his fellow lodgers - the next morning his employer missed his bacon - but now
+                    Painter remained as dumb as an oyster upon the subject of his midnight discovery
+                    - &amp; never said <orig reg="anything">any thing</orig> about it for eight
+                    days although his employer was making every effort to discover the thief.</p>
+
+                <p>McMullen I have known for several years - &amp; he has always borne the
+                    character of an honest man of steady habits &amp; very industrious <pb n="3"
+                    /> His family are poor but of proverbial honesty in Bath County - You no doubt
+                    remember M<hi rend="super">c</hi>Mullen as the driver of the stage from
+                    Lexington to Goschen for several years &amp; know <orig reg="something">some
+                        thing</orig> of his character - Knowing him as well as I do - I <orig
+                        reg="cannot">can not</orig> believe him Guilty of the charge preferred
+                    against him by Painter - I hope and <unclear>trust</unclear> you may grant the
+                    prayer of his poor wife, and believe that the act will not in any degree weaken
+                    other sanctions of our criminal code</p>
+
+                <closer>
+                    <salute>Truly Yours</salute>
+                    <signed><abbr expan="Robert">Ro</abbr> L Doyle</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

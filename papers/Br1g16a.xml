@@ -1,0 +1,463 @@
+<?xml version="1.0"?>
+
+<?dlps id="Br1g16a"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY Bro1g16u SYSTEM "uva-lib:502858" NDATA uvaHighRes>
+<!ENTITY Bro1g16t SYSTEM "uva-lib:502859" NDATA uvaHighRes>
+<!ENTITY Bro1g16s SYSTEM "uva-lib:502860" NDATA uvaHighRes>
+]>
+<TEI.2 id="Br1g16a">
+<teiHeader type="migrated">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Letter to James Brooks </title>
+        <title>[a machine-readable transcription]
+</title>
+        <title type="sort">letter to james brooks</title>
+        <author>White, James J. </author>
+        <respStmt>
+          <resp>Creation of machine-readable version:
+</resp>
+          <name>Molly Campbell, Benjamin Knowles, Rawley Vaughan and Kate von Ter Stegge, HIUS 403, The University of Virginia
+</name>
+          <resp>Creation of digital images:
+</resp>
+          <name>Molly Campbell, Benjamin Knowles, Rawley Vaughan and Kate von Ter Stegge, HIUS 403, The University of Virginia
+</name>
+          <resp>Conversion to TEI.2-conformant markup:
+</resp>
+          <name>University of Virginia Library Electronic Text Center.
+</name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. 15 kilobytes  </extent>
+      <publicationStmt>
+        <publisher>University of Virginia Library.
+</publisher>
+        <pubPlace>Charlottesville, Virginia
+</pubPlace>
+        <idno type="ETC">Modern English, Br1g16a
+</idno>
+        <!--
+<availability>
+<p>Publicly accessible
+</p>
+<p n="public">URL: http://etext.lib.virginia.edu/modeng/modengW.browse.html
+</p>
+<p>Publicly accessible
+</p>
+<p n="public">URL: http://cti.itc.Virginia.EDU/~ela/auhome/contents.html
+</p>
+<p n="public">URL: http://cti.itc.virginia.edu/~ela/auhome/bookcoll.html
+</p>
+<p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/
+</p>
+<p>copyright 2000, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2000 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1998">1998
+</date>
+        <idno type="uva-pid">uva-lib:500202</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>
+</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note>
+          <p>Images of the manuscript have been included. This electronic text is a faithful transcription of the original manuscript. We have included SGML tags which allow the reader to view a modernized version of the text in which the punctuation and the spelling have been regularized.
+</p>
+        </note>
+        <note>
+          <p>This text was created as part of Professors Edward L. Ayers and William G. Thomas III's HIUS 403: Digital History of the American Civil War, Fall 1997, University of Virginia. This electronic text contains digital images only of pages two and three. We have not verified the transcription against the original text, and therefore we have not preserved the original lineation or regularized spelling.
+</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Letter to James Brooks
+</title>
+            <title level="u">
+</title>
+            <title type="sort">letter to james brooks</title>
+            <author>James J. White
+</author>
+            <respStmt>
+              <resp>
+</resp>
+              <name>
+</name>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p>
+</p>
+          </editionStmt>
+          <extent>4 pp.
+</extent>
+          <publicationStmt>
+            <publisher>
+</publisher>
+            <pubPlace>
+</pubPlace>
+            <idno type="callNo">Manuscript copy consulted: Private collection of Andrew Brooks Booker, Waynesboro Va.
+</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p>
+</p>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>
+</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Prepared for the University of Virginia Library Electronic Text Center.
+</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Original lineation has been maintained.
+</p>
+        <p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs.
+</p>
+        <p>Some keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.
+</p>
+      </editorialDecl>
+      <refsDecl>
+        <p>
+</p>
+      </refsDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings
+</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date value="1861-07-16">1861 July 16
+</date>
+      </creation>
+      <langUsage>
+        <language id="eng">English
+</language>
+      </langUsage>
+	     <handList>
+		      <hand id="h1"/>
+	     </handList>
+      <textClass>
+        <keywords>
+          <term>nonfiction
+</term>
+          <term>prose
+</term>
+          <term>masculine
+</term>
+          <term>Fourth Virginia Infantry
+</term>
+          <term>Company I
+</term>
+          <term>American Civil War</term>
+        </keywords>
+        <keywords>
+          <term>LCSH
+</term>
+        </keywords>
+        <keywords>
+          <term>
+</term>
+          <term>
+</term>
+          <term type="format">8 bit color; 150 dpi
+</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date value="1998-04">April 1998
+</date>
+        <respStmt>
+          <resp>corrector
+</resp>
+          <name>Carolyn Fay and Lisa Spiro, Electronic Text Center
+</name>
+        </respStmt>
+        <item>Added TEI header and tags, corrected transcription errors, standardized punctuation and spelling for the modernized version, and added informational notes.
+</item>
+      </change>
+      <change>
+        <date value="2005-06">June 2005</date>
+        <respStmt>
+          <resp>corrector</resp>
+          <name>John Ivor Carlson</name>
+        </respStmt>
+        <item>Converted sgml to xml.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+<text id="d1">
+
+<front id="d2">
+<div1 type="summary" n="1" id="d3">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>.pp</extent>
+<date value="1861-07-16">July 16, 1861</date>
+
+
+<title>James White to James Brooks, July 16, 1861</title>
+</bibl>
+</head>
+<p>White writes to inform James Brooks that his son,
+William, died after an illness of several days.  He mentions that the
+cause of death was probably "conjestion of the brain."</p>
+</div1>
+</front>
+
+<body id="d4">
+
+<div1 type="letter" n="1861-July-16" id="d5">
+<pb n="1" entity="Bro1g16u" pid="uva-lib:502858"/>
+<opener>
+<dateline><name type="place">Winchester,
+<abbr expan="Virginia">Va.</abbr></name>
+<date value="1861-07-16">July 16, 1861</date>
+</dateline>
+<salute>My Dear Sir,</salute>
+</opener>
+
+<p>I am compelled from want of pen and ink to write a line in
+pencil&mdash;seizing a moment now I may not have it half hour hence.  It is
+my painful duty to inform you that your son <name type="person">William</name>
+died today after an illness of several days which appeared to me
+something like <orig reg="congestion">conjestion</orig>
+ of the brain.  Our brigade has been very much
+exposed by forced marches through heat and dust, and by being compelled
+to camp out at night without tents, not even the superior officers being
+allowed to carry tents from the difficulty of transportation.<ref n="1" 
+target="n1">[1]</ref>
+I suppose
+it would be most agreeable to the feelings of yourself and your boy's
+mother that his remains should be taken at once to his home, but we have
+been
+
+<pb n="2" entity="Bro1g16t" pid="uva-lib:502859"/>
+
+drawn up
+in line of battle this evening<ref n="2" target="n2">[2]</ref>
+and on application to our colonel<ref n="3" target="n3">[3]</ref> he
+assured me that it would be impossible to get permission from
+<name type="person"><abbr expan="General">Gen.</abbr>
+Johnston</name><ref n="4" target="n4">[4]</ref>
+for any one to leave at this time, and I ascertained that
+permission had been refused to remove the remains of <name
+type="person">Lieutenant Patton</name><ref n="5" target="n5">[5]</ref>
+of the <name type="Company">Rockbridge Grays</name> who died this morning.
+And although I had with
+considerable difficulty made arrangements for
+<name type="person">William's</name> transportation
+before speaking to <name type="person"><abbr expan="Colonel">Col.</abbr>
+Preston</name>, I felt forced to abandon it, and have
+provided for his decent interment in the Episcopal Cemetery here and
+have directed <add place="inline" hand="h1" n="editor">a</add> head board with his name to be provided
+ so that at
+some subsequent time his remains may be removed to the bosom of his
+friends.  When I discovered that <name type="person">William</name> was sick
+I had
+
+<pb n="3" entity="Bro1g16s" pid="uva-lib:502860"/>
+
+him taken to the
+Hospital in <name type="place">Winchester</name> which is in Charge of
+<name type="person">M. H. Houston</name>, formerly of
+<name type="place">Rockbridge</name>, late of <name
+type="place">Wheeling</name>, where every attention possible under the
+circumstances was provided.  I have done the best I could my dear Sir
+and in communicating with the stricken parents of the most admirable
+young man, it is but the simplest justice to say that whether as student
+or soldier, I had nothing to complain of him, but believe in my
+conscience that he did his duty modestly and conscientiously on every
+occasion.  Your son <name type="person">Andrew</name> has just mentioned
+that the physician thought
+the disease of his brother was spinal <unclear></unclear>to the
+brain.<ref n="6" target="n6">[6]</ref>
+Excuse
+the unavoidable haste of this letter, for I am hurried in every way
+imaginable.
+
+<pb n="4"/>
+
+We are expecting the enemy here at any moment and I believe
+that we are able to meet them.  With assurances of kind regards and
+sincere sympathy.
+</p>
+
+
+<closer>
+<salute>yours respectfully,</salute> <signed>James J. White</signed>
+
+
+<seg type="postscript">
+Post Script Monday Morning:  I have sent my brother
+<ref n="7" target="n7">[7]</ref>
+this
+morning to ask <name type="person"><abbr expan="Reverend">Rev.</abbr>
+Mr. Graham</name> to meet us at the Hospital at 10:00
+o'clock to conduct such religious service as may be practicable.
+</seg>
+</closer>
+</div1>
+</body>
+
+<back id="d6">
+<div1 type="notes" id="d7">
+
+<note n="1" id="n1" place="end"><seg type="note-symbol">[1]</seg><p> Colonel Thomas Jackson was the officer in charge of
+the Virginia troops who gathered in the Valley in late spring/early
+summer of 1861.  Not only did the soliders
+endure grueling drills, but they did not
+have adequate supplies&mdash;particlarly clothing and tents&mdash;which led to
+widespread sickness among the regiments (Robertson, <hi rend="italic">Fourth Virginia
+Infantry</hi>, 3-4).</p></note>
+
+<note n="2" id="n2" place="end"><seg type="note-symbol">[2]</seg><p> Here White refers to the impending First Battle of
+Manassas. On July 18, the troops were ordered to abandon Winchester and
+head east across the Blue Ridge Mountains. On Sunday, July 21, Jackson's
+troops engaged the Federals at Manassas (Robertson, <hi rend="italic">Fourth Virginia
+Infantry</hi>, 5-7).</p></note>
+
+<note n="3" id="n3" place="end"><seg type="note-symbol">[3]</seg><p> Colonel James F. Preston was in charge of the Fourth
+Virginia Infantry when it was organized. However, his poor health kept
+him in Richmond while his troops were drilling in the Valley. Wounded at
+First Manassas, he later died in January, 1862 at home (Robertson,
+<hi rend="italic">Fourth Virginia Infantry</hi>, 2, 68).</p></note>
+
+<note n="4" id="n4" place="end"><seg type="note-symbol">[4]</seg><p> General Joseph E. Johnston (1807-1891) received his
+diploma from the U. S. Miltary Academy in 1829 along with his friend
+Robert E. Lee.  He received praise for his service in both the Mexican
+War and in the wars against the Seminole Indians.  In April of 1861, he
+resigned from his position as a brigadier general in the U. S. Army, and
+in May of 1861 accepted a commission as a brigadier general in the
+Confederate Army.  He commanded the Army of the Shenandoah at Harper's
+Ferry and led Confederate forces at First Manassas, August 1861
+(McMurry, 859-61).  </p></note>
+
+<note n="5" id="n5" place="end"><seg type="note-symbol">[5]</seg><p> William Patton, a merchant, had joined the Rockbrige
+Grays (Company H) as Second Lieutenant in April of 1861. Like William
+Brooks, he died on July 16 of 1861 at Winchester. His remains are now
+buried at Timber Ridge Presbyterian Church in Rockbridge County
+(Robertson, <hi rend="italic">Fourth Virginia Infantry</hi>, 67).</p></note>
+
+<note n="6" id="n6" place="end"><seg type="note-symbol">[6]</seg><p> See Andrew's letter to his mother of July 16, 1861,
+reporting that William is very ill.</p></note>
+
+<note n="7" id="n7" place="end"><seg type="note-symbol">[7]</seg><p> Hugh Augustus White (1840-1862), whose brother James
+was Company I's first captain, enlisted in the 4th Virginia Infantry
+while a student at Washington College.
+On September 13, 1861, Hugh White was named sergeant, and on April
+21, 1862, he was elected captain.  Surprised that he
+was elected captain, Hugh White accepted the position with a great sense
+of responsibility.  As he wrote to his brother Henry, "Promotion in
+itself brings neither peace nor happiness, and unless it increases one's
+usefulness it is a curse.  An opportunity is now afforded for exercising
+a wider influence for good, and if enabled to improve this aright I
+shall then be happier than before" (quoted by Bean, 111).  White was
+killed on August 30, 1862 at Second Manassas (Robertson, <hi rend="italic">4th Virginia
+Infantry</hi>, 80).
+</p></note>
+
+
+</div1>
+<div1 type="bibliography" id="d8">
+<list>
+<head>Works Cited</head>
+
+<item>Bean, W. G. <hi rend="italic">The Liberty Hall Volunteers: Stonewall's College Boys.</hi>
+Charlottesville: The University of Virginia Press, 1964.
+</item><item>
+"The Civil War Artillery Page"
+http://www.lib.uchicago.edu/~cjt1/artillery.html.
+Chuck Ten Brink.
+Visited April, 1998
+</item><item>
+Crenshaw, Ollinger. <hi rend="italic">General Lee's College: The Rise and Growth of Washington
+and Lee University.</hi>  NY: Random House, 1969.
+</item><item>
+Denney, Robert E. <hi rend="italic">The Civil War Years: A Day-by-Day Chronicle
+of the Life of a Nation.</hi> NY: Sterling Publishing Co, Inc., 1992. </item><item>
+
+Driver, Robert. J.  <hi rend="italic">52nd Virginia Infantry.</hi> Lynchburg, Va: H. E. Howard,
+1986. </item><item>
+
+Lankford, Nelson D. "Alexander Robinson Boteler." <hi rend="italic">Encylopedia of the
+Confederacy.</hi> Ed. Richard N. Current.  NY: Simon &amp; Schuster,
+1993. I: 197-8. </item><item>
+
+McMurry, Richard. M. "Joseph E. Johnston." <hi rend="italic">Encylopedia of the
+Confederacy.</hi> Ed. Richard N. Current.  NY: Simon &amp; Schuster,
+1993. II: 859-61. </item><item>
+
+McPherson, James M. <hi rend="italic">The Atlas of the Civil War.</hi> New York: Macmillan,
+1994.</item><item>
+
+Robertson, James. <hi rend="italic">4th Virginia Infantry.</hi> Lynchburg, Va.: H.E. Howard, 1982.
+</item><item>
+&mdash;. <hi rend="italic">The Stonewall Brigade.</hi> Baton Rouge: Louisiana State University
+Press, 1963.</item><item>
+
+Sublett, Charles W. <hi rend="italic">57th Virginia Infantry.</hi> Lynchburg, Va.: H. E. Howard,
+1985.</item><item>
+
+Turner, Charles W. <hi rend="italic">Old Zeus: Life and Letters (1860-'62)
+of James J. White (Professor of Greek at Washington College 1852-1893,
+Captain of the Liberty Hall Volunteers 1861-'62)</hi>. Verona, VA:
+McClure Printing Company, Inc., 1983.
+</item><item>
+Wallace, Lee A. <hi rend="italic">5th Virginia Infantry.</hi> Lynchburg, Va.: H. E. Howard,
+1988.
+</item>
+</list>
+</div1>
+
+
+</back>
+</text>
+</TEI.2>
+

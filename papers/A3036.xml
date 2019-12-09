@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+
+<?dlps id="A3036"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A3036">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Tony Pastor to Annie Harris, October
+                    13, 1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county tony pastor to annie harris, october 13 1862</title>
+        <author>Pastor, Tony</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Doug O'Reagan</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Doug O'Reagan</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A3036</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502196</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Tony Pastor to Annie Harris, October 13, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta county tony pastor to annie harris, october 13 1862</title>
+            <author>Tony Pastor</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Tony Pastor to Annie Harris,
+                            October 13, 1862, from Nellie Harris private collection</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from private collection</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1862-10-13">1862-10-13</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Church/Religious Activity, Death/Casualties, Prisons/Prisoners</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A3036T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>An update about camp life from Pastor to his lady friend Annie. He mentions that
+                    several men he knows recently died. Note that he mentions evacuating their last
+                    camp because there were too many "Confederates," in quotes. This might mean
+                    people trying to sell goods, camp followers, spies, or several other groups.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1862-10-13">Monday morning<lb/>Oct 13<hi rend="super">th</hi>1862</date>
+                        <name type="place">Camp Bunker Hill</name>
+                    </dateline>
+                    <salute>Dear Annie:</salute>
+                </opener>
+
+                <p> I will hasten this morning to answer your kind letter, which was received
+                    through <abbr expan="Captain">Capt.</abbr> Stricke. Was glad to hear from you
+                    once more, &amp; to learn that you were still in the enjoyment of good
+                    health, a blessing which is of all others the most desirable. I have nothing to
+                    write this morning that will prove at all interesting to you We have changed our
+                    camp since I last wrote you which is about all that is worthy of note. We were
+                    compelled to do so on account of the "Confederates" which became so numerous
+                    that we had to evacuate our camp in order to get rid of them.</p>
+                <p>All is quiet in camp this morning, no news from the enemy for several days, hope
+                    they may let us rest this winter, and probably by spring something may be done
+                        to<pb n="2"/> bring about an adjustment of things in general</p>
+                <p>Jimmie Buck has gotten back to us again he looks like he hadn't fared much better
+                    than we have been doing. Since we left him <unclear>able</unclear> was left with
+                    our baggage at Jeffersonton in Culpepper County, where he remained <orig
+                        reg="until">untill</orig> we came to this place. Two more of our noble
+                    companion in arms have fallen <orig reg="victims">victoms</orig> to the fell
+                    destroyer, since I last wrote you. Namely John M. Gabbest who was wounded at
+                    "Cedar Creek"- and Franklin Black who was left in the rear when we crossed the
+                        <orig reg="Potomac">Potomack</orig> the first time not being able to keep
+                    up, his father <orig reg="read">reed</orig> a letter from a yankee <abbr
+                        expan="Doctor">D<hi rend="super">r.</hi></abbr> stating the fact. I pressume
+                    he was taken prisoner. I will bring this short note to a close as the mail is
+                    about to leave. My health is pretty good with the exception of a bad cold. The
+                    weather is quite cool has been raining a little &amp; looks like we may have
+                    more</p>
+
+                <closer>
+                    <salute>Yours as ever, in haste</salute>
+                    <signed>Tony Pastor</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

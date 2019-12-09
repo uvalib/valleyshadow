@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+
+<?dlps id="B0703"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B0703">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: Statement of Roswell Waldo, November
+     11, 1868</title>
+        <title type="sort">freedmens bureau records statement of roswell waldo, november 11 1868</title>
+        <author>Waldo, Roswell</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Kid W.</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Kid W.</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">B0703</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2002, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date>
+        <idno type="uva-pid">uva-lib:500837</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Freedmen's Bureau Records: Statement of Roswell Waldo, November 11, 1868</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records statement of roswell waldo, november 11 1868</title>
+            <author>Roswell Waldo</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>2 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: National Archives and Records Administration,
+       Records of the Bureau of Refugees, Freedmen, and Abandoned Lands, Record Group 105, Box
+       E4265.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1868-11-11">1868-11-11</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Employment/Labor, Women</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2005-10">October 2005</date>
+        <respStmt>
+          <resp/>
+          <name>Desi Hopkins</name>
+        </respStmt>
+        <item>Item proofread against original; corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="B0703T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Waldo explains his reasoning in a case involving a wage dispute between Booz, Burdett and
+     Cornelia Moore. Waldo finds that all parties are equally at fault and are responsible for equal
+     portions of the claim.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     Bureau <abbr expan="Refugees, Freedmen and Abandoned Lands">R.F. and A.L.</abbr> 4th <abbr
+      expan="Division">Div.</abbr> 9 <abbr expan="Sub-District">S.D.</abbr>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1868-11-11"><abbr expan="November">Nov.</abbr> 11. 1868</date>
+      <name type="place">Staunton <abbr expan="Virginia">Va.</abbr></name>
+     </dateline>
+     <salute/>
+    </opener>
+
+    <p>In the case of Cornelia Moore (colored) <abbr expan="versus">v.s.</abbr>
+     <unclear>W</unclear> Booz heard at this office on the 9th <abbr expan="instant">inst</abbr>, in
+     which said <orig reg="Cornelia">Caroline</orig> Claims of the said Booz the sum of $7<hi
+      rend="underline">
+      <hi rend="super">50</hi>
+     </hi> in payment for services rendered by her, as servant in boarding house of said Booz, for
+     five weeks at rate of $6.00 per month which amount became due on or about the 12<hi
+      rend="super">th</hi> of October <unclear>ultimo</unclear> - date of her
+     <unclear>discharge</unclear>, which said Booz refused to pay <unclear>Cornelia</unclear> for
+     reasons hereinafter stated - The <unclear>Evidince</unclear> &amp; testimony produced
+     elicits the following decision from this Office viz:</p>
+
+    <p>Cornelia, having remained &amp; boarded at the house of Mr Booz several days after her
+     discharge without his consent and thereby place herself under obligations to him to an amount
+     Equivalent to her board while there which he is justly Entitled to. But inasmuch as the said
+     Booz refused to settle <del hand="h1">to settle</del> with her when discharged, at which time
+     she demanded her money &amp; assured him that she would leave his premises so soon as she
+     received amount due her, and</p>
+
+    <pb n="2"/>
+
+    <p>he having no excuse for its retention than to secure himself for amount of her board in the
+     event she should remain at his house to abide his time for a settlement with her &amp;c -
+     he acted without authority or protection of the law and became, in a measure, responsible to
+     her for his unjustifiable delinquency.</p>
+
+    <p>The Evidence further shows, that Mr Burdette, boarder in house of Mr Booz, did by promises of
+     Employment in his family at some future time, influence Cornelia to remain and did thereby
+     secure the benefit of her services in his (Burdette's) family without compensation or without
+     becoming obligatory for her board. He, therefore, in the opinion of this office, also became
+     responsible in a measure to Cornelia for her remaining &amp;c.</p>
+
+    <p>Whereas it is above shown that Each party mentioned in this connection, was equally in the
+     wrong. - Mr Booz will pay to Cornelia the sum of $2.50 - Mr. Burdette will also pay her <add
+      hand="h1" place="inline">the</add> same amount, which leaves an equal amount ($2.50) yet due
+     on the original claim ($7.50) to be borne by Cornelia</p>
+
+    <closer>
+     <salute/>
+     <signed>Roswell Waldo<lb/><abbr expan="Assistant Sub Assistant Commissioner">A.S.A. Comr</abbr></signed>
+     <seg type="postscript">P.S. - <abbr expan="Amounts">Amts</abbr> due Cornelia from Mr Booz
+      &amp; Burdette will be forwarded to her <abbr expan="through">thru</abbr> this office
+       <name type="recipient">To - Mr. Booz<lb/>
+       <abbr expan="Mr.">"</abbr> Burdett<lb/>Cornelia Moore<lb/><unclear>Wm</unclear> Burdett <abbr
+        expan="paid">pd</abbr> $2.50 <unclear>Nov.</unclear>
+       <del rend="none" hand="h1"/><lb/>
+       <abbr expan="Mr.">"</abbr> Booz <abbr expan="paid">pd</abbr> $2.50 <del rend="none" hand="h1"/><lb/>Pd
+       the same to Cornelia $5 <unclear>Nov.</unclear>
+       <del rend="none" hand="h1"/></name>
+     </seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

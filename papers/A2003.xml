@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2003"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A2003">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: William B. Gallaher to Clinton and Charles
+     Gallaher, May 29, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county william b gallaher to clinton and charles gallaher, may 29 1861</title>
+        <author>Gallaher, William B.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Susanna Michele Lee</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Susanna Michele Lee</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A2003</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:501976</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note>
+          <p>This letter was transcribed from another transcribed copy.</p>
+        </note>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: William B. Gallaher to Clinton and Charles Gallaher, May 29, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta county william b gallaher to clinton and charles gallaher, may 29 1861</title>
+            <author>William B. Gallaher</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>1 page</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: William B. Gallaher Letters, Waynesboro Public
+       Library Collection, Waynesboro, Virginia.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Waynesboro Public Library Collection, Waynesboro, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1861-05-29">1861-05-29</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Camp Life, Enlistment, Family, Home Front</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2000">Summer 2000</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Voorhees</name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A2003T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>William B. Gallaher writes to his brothers about his adjustment to camp life, advises them on
+     cattle, and reminds them to mind their mother.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Clinton and Charles Gallaher</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1861-05-29">May 29<hi rend="super">th</hi> 1861</date>
+      <name type="place">Harpers Ferry</name>
+     </dateline>
+     <salute>Clinton &amp; Chas<lb/> Dear Brothers,</salute>
+    </opener>
+
+    <p>I rec'd both of your letters &amp; thought I would answer them in one as I have not a
+     great deal of time to write. I am well and very much pleased with military life. It is very
+     hard at first but a person can soon get used to it. We have the best drilled company of cavalry
+     here. There is 3 companies here. Capt Whites <abbr expan="Company">Co</abbr> from Lexington
+     they go to Berkely County opposite Williamsport tomorrow &amp; the Shepherdstown Co got
+     here yesterday evening. I have not seen any of the men yet. We get plenty of good bread coffee
+     &amp; beef to eat besides butter molasses &amp; apple butter. I wish you were both here
+     to see the soldiers. There is a great many here. Tell Sister Sallie I will write to her soon. I
+     suppose you are getting along very well tanning butchering &amp; if you attend to it well
+     you can make some money. I think you can make enough to bring you both down here this summer.
+     If nothing happens I will be up to see you all some time in August as my 3 months will be up
+     then. I was mustered in from May 2<hi rend="super">nd</hi> for 12 months and at the end of 3
+     months you are allowed 20 days furlough. I wrote to Pa about that affair of P Hanger Jr. If you
+     could buy some small cattle next month for 12 or 15 dollars and sell altogether for cash you
+     can make some money. Mr Slough can buy them. Give my respects to him. Tell him I like
+     soldiering very much. I got me a splendid sharpes rifle the other day for $30. It is better one
+     than either of those Antrim &amp; King. But did Mr Bush give you the cartridges I sent you
+     by him. Be very careful with the gun for if ever it goes off accidentally &amp; hits it is
+     bound to kill you. I heard from Elly yesterday he is improving very fast is walking about
+     &amp; will soon be well. Mr. Killian saw him in Winchester &amp; told me. The other
+     Sunday when I was in Shepherdstown I went over to the old well and got a drink of the best
+     water I have had since I have been here. I think it was better than the water in our spring. We
+     have an old banjo &amp; virginia gives us some good music every night. Clinton you
+     &amp; Charles keep a good look out about the stable &amp; everywhere, be good boys
+     &amp; mind Ma do everything she tells you without any fuss. Give my love to all &amp;
+     write soon.</p>
+
+
+    <closer>
+     <salute>From Your Brother</salute>
+     <signed>W B Gallaher</signed>
+     <seg type="postscript">P S I have my gun fixed so I can carry it on my back.</seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

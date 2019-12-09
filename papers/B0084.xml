@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+
+<?dlps id="B0084"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B0084">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: Thomas P. Jackson to John
+                    A. McDonnell, December 17, 1867</title>
+        <title type="sort">freedmens bureau records thomas p jackson to john a mcdonnell, december 17 1867</title>
+        <author>Jackson, Thomas P.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>HIUS 403 Students</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Peter Brownfeld</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B0084</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 1999, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:500449</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: Thomas P. Jackson to John A. McDonnell,
+                            December 17, 1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records thomas p jackson to john a mcdonnell, december 17 1867</title>
+            <author>Thomas P. Jackson</author>
+            <editor/>
+            <respStmt>
+                            <resp>e.g. Translator</resp>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Bureau of Refugees, Freedmen, and
+                            Abandoned Lands, Record Group 105, Box E4269</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-12-17">1867-12-17</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Family, Legal System, Property</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2003-08">August 2003</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B0084T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Jackson writes McDonnell about the Alexander-McCutchen case, noting the the
+                    administrator of the McCutchen estate requires legal proof before he will settle
+                    the claim.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient"><abbr expan="Captain">Capt.</abbr> John A.
+                            McDonnell<lb/><abbr expan="Sub Assistant Commissioner">Sub Asst Com<hi
+                                rend="super">r</hi></abbr><lb/>Winchester</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-12-17"><abbr expan="December">Dec</abbr> 17, 1867</date>
+                        <name type="place">Staunton, Va</name>
+                    </dateline>
+                    <salute>Captain</salute>
+                </opener>
+
+                <p>I respectfully refer to a communication from <abbr expan="Brevet">Brev</abbr>
+                    <abbr expan="Lieutenant Colonel">Lt. Col.</abbr> James Johnson <abbr
+                        expan="Sub Assistant Commissioner">S.A.C.</abbr> 6th <abbr expan="District"
+                        >Dist.</abbr>
+                    <abbr expan="Virginia">Va.</abbr> dated May 1/67 (returned to your Head Quarters
+                    May 12/67 with an endorsement thereon made by me. May 12/67) asking aid to
+                    collect a claim of $130 said to be due to the children of Henry Alexander (<abbr
+                        expan="colored">col'd</abbr>) by James McPhetus McCutchen, deceased, lately
+                    of Augusta <abbr expan="County">Co.</abbr> Claimant in behalf of the children of
+                    Benjamin Moten (<abbr expan="colored">col'd</abbr>)</p>
+
+                <p>The heirs dispute the claim and the Administrator notifies me that unless legal
+                    proof is presented he cannot pay the amount or any portion thereof. As the
+                    estate is solvent and must soon be settled, I ask Henry Alexander's children
+                        <unclear>furnish</unclear> me at once with proper legal proof of the
+                    solidity of their claim.</p>
+
+                <closer>
+                    <salute>Very Respectfully <lb/>Yr. Obt. Servt</salute>
+                    <signed>Thos. P. Jackson, Agent</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

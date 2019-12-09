@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+
+<?dlps id="A0012"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A0012">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Ester S. Cook to Margaret Dunlap,
+                    June 3, 1855</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county ester s cook to margaret dunlap, june 3 1855</title>
+        <author>Cook, Ester S.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Sarah Parnes</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Susanna Michele Lee</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca.<num type="kilobytes">5</num> kilobytes </extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A0012</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501787</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Ester S. Cook to Margaret Dunlap, June 3, 1855</title>
+            <title level="m"/>
+            <title type="sort">augusta county ester s cook to margaret dunlap, june 3 1855</title>
+            <author>Ester S. Cook</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Dunlop Family Correspondence, 2nd
+                            83:g, 6th 13:A, Perkins Library, Duke University, Durham, North
+                        Carolina</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Special Collections Department, William R. Perkins Library, Duke University, Durham, North Carolina</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1853-06-03">1853-06-03</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A0012T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Ester S. Cook requests that Margaret Dunlap visit her and work in her house.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1853-06-03">
+                            <hi rend="underline">June 3rd 1853</hi>
+                            <name type="place">Churchville Augusta <abbr expan="County">Co</abbr> Va</name>
+                        </date>
+                    </dateline>
+                    <salute>To Miss Margaret Dunlap</salute>
+                </opener>
+
+                <p>well Mag I suppose you have heard that I have moved here. I heard the other day
+                    that you were living at Mr Dulls, and I write this to know <orig reg="whether"
+                        >wheather</orig> you will come and live with me a while. I would like you
+                    would come if you <orig reg="possibly">posibly</orig> can. I want you to work as
+                    soon as you get this and let me know <orig reg="whether">wheather</orig> you can
+                    come or not and what you charge a week if you can come Mr. Cook will go for you.
+                    I think I would rather have you as I am acquainted with you or used to be, it is
+                    a long while since I saw you I have been looking for you to see me ever since we
+                    came here I will have to close the stage will be here directly and I want to
+                    send it if you get this I want an answer forthwith just as soon as you can write
+                    it. for if you <orig reg="can't">cant</orig> come we will have to try <orig
+                        reg="someone">some one</orig> else.</p>
+
+                <closer>
+                    <salute>your friend</salute>
+                    <signed>Esther. S. Cook</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

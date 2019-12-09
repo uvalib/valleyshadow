@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+
+<?dlps id="A5041"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A5041">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: George W. Baylor to Mary C. Baylor,
+                    October 1, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county george w baylor to mary c baylor, october 1 1861</title>
+        <author>Baylor, George C.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amy Voorhees</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A5041</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502325</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: George W. Baylor to Mary C. Baylor, October 1, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta county george w baylor to mary c baylor, october 1 1861</title>
+            <author>George W. Baylor</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: McGuffin Family Papers, Accession
+                            #6732, Special Collections Department, University of Virginia Library,
+                            Charlottesville, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1861-10-01">1861-10-01</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Troop Movement, Camp Life, National Government</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2002-11">November 2002</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A5041T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>George Baylor writes to his sister Mary about his company's movements and
+                    skirmishes near Alexandria.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1861-10-01">Sept <del hand="h1">the 31</del> 1861 Oct the 1
+                        1861</date>
+                        <name type="place">Fairfax Co Va</name>
+                    </dateline>
+                    <salute>Dear Sister</salute>
+                </opener>
+
+                <p>I take my pen in hand to let you <orig reg="know">no</orig> that I am well at
+                    this time. I received your note the other day and was very glad to get it. We
+                    just got back to camp <orig reg="yesterday">yester day</orig> evening we went
+                    down on picket today <orig reg="week">weak</orig> ago, we could see Arlington
+                        <orig reg="heights">hights</orig> from Masons hill; we could see the Capitol
+                    at Washington and the <orig reg="steeple">steple</orig> at <orig
+                        reg="Alexandria">Alexander</orig> and all their breast works, they <orig
+                        reg="surely">shorly</orig>
+                    <pb n="2"/>have it fortified. We could see the steam boats going on the river be
+                    low Washington. The river is a mile wide it was four miles from us to the river.
+                    We would go on picket in the morning and stand until the next morning and had
+                    about ten on one post, we <orig reg="were">ware</orig> in sight <orig reg="of"
+                        >off</orig> their picket often but we <orig reg="didn't">dident</orig> shoot
+                    not they <orig reg="didn't">dident</orig> - friday night about ten oclock we got
+                    orders to to bring in the pickets and fall back about a mile to a little town
+                    named <orig reg="Annandale">Anna dale</orig> and we stayed there till in <pb
+                        n="3"/>day light very near in the morning and then we came about three miles
+                    farther back to <unclear>Secutank</unclear> crick at the border and there was a
+                    brigade of <orig reg="Mississippians">Miscippians</orig> throwing our breast
+                    works and the next morning we came back to Camp. we could see their old <orig
+                        reg="Balloon">Baloon</orig> go out every morning and <orig reg="evening"
+                        >eaving</orig> it looked as large as a tent and as white.</p>
+
+                <p>I don't <orig reg="know">no</orig> what we fell back for without it is to get
+                    them away from their breast works out toward ours; President Davis came here to <unclear>
+                        <orig reg="Fairfax">Farfax</orig>
+                    </unclear> yesterday <orig reg="evening">eaving</orig> but I <pb n="4"/> have
+                    not saw him yet. I would like to have a pair of socks or <orig reg="two"
+                    >to</orig> be fore long if you could send them, and a pair of drawers. I <orig
+                        reg="don't know whether">dot no wather</orig> to have a new pair or not the
+                    boots that are at home have some holes in the leg and they would not do me much
+                    good, for I would like to have a good pair. I think that I will send my <orig
+                        reg="measure">masure</orig> the next time I write. I must stop writing for
+                    this time, for it is time to put on a <unclear>doger</unclear> for <orig
+                        reg="dinner">diner</orig>. Mat and Cal has not <orig reg="been">bin</orig>
+                    well for a few days. Tell Dave that I want some of his water millions. I want
+                    you to write soon as you can.</p>
+
+                <closer>
+                    <salute/>
+                    <signed/>
+                    <seg type="postscript">G. W. Baylor <name type="recipient">to Mary C.
+                        Baylor</name>
+                    </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

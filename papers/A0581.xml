@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+
+<?dlps id="A0581"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="A0581">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Benjamin Franklin Cochran to His
+                    Mother, May 30, 1861</title>
+        <title type="sort">augusta county benjamin franklin cochran to his mother, may 30 1861</title>
+        <author>Cochran, Benjamin Franklin </author>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amy Murrell </name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca.<num type="kilobytes"> 7</num> kilobytes </extent>
+            <publicationStmt>
+                <publisher>Institute for Advanced Technology in the Humanities </publisher>
+                <publisher>University of Virginia </publisher>
+                <pubPlace>Charlottesville, Va. </pubPlace>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1997 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved. </p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2/personal.html </p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1997 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <idno type="VCDH">A0581</idno>
+                <date value="1861-05-30">1861-05-30</date>
+            <idno type="uva-pid">uva-lib:501878</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War </p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note> </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Benjamin Franklin Cochran to His Mother, May 30, 1861</title>
+            <title type="sort">augusta county benjamin franklin cochran to his mother, may 30 1861</title>
+            <author>Benjamin Franklin Cochran </author>
+            <respStmt>
+                            <resp> </resp>
+                            <name> </name>
+                        </respStmt>
+          </titleStmt>
+                    <publicationStmt>
+                        <publisher> </publisher>
+                        <pubPlace> </pubPlace>
+                        <date value=""/>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p>Source Copy Consulted: Cochran Family Letters, 1860-1861, (MS 92-032),
+                            Civil War Collections, Special Collections, Virginia Polytechnic
+                            Institute and State University, Blacksburg, Virginia. </p>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Special Collections, Virginia Polytechnic Institute and State University, Blacksburg, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1861-05-30">1861-05-30 </date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Family</term>
+                    <term>Regiment: 1st Va. Cav. </term>
+                    <term>Company: E </term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value="2000">Summer 2000</date>
+                <respStmt>
+                    <resp> </resp>
+                    <name>Amy Voorhees </name>
+                </respStmt>
+                <item> Proofread against the original; transcription corrected.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="A0581T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Cochran provides a general update on camp life and apologizes to his mother for
+                    buying a pistol. </p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Mother</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1861-05-30">May the 30 1861 </date>
+                        <name type="place">Harpers Ferry </name>
+                    </dateline>
+                    <salute>Dear Mother </salute>
+                </opener>
+                <p>Your letter of the 23<hi rend="super">d</hi> came to hand. I am very sorry that I
+                    bought a <orig reg="pistol">pistole</orig> but I was <orig reg="forced"
+                    >forsed</orig> to buy one because I had to go on picket <orig reg="guard"
+                    >gard</orig> and the men on picket. When two were resting one was going and they
+                    have at night riding by bushes have been fired <orig reg="upon">uppon</orig> by
+                    an unseen foe last night the officer of the night whilst going the rounds was
+                    fired at but not hurt.</p>
+
+                <p>The things that are not in the <orig reg="pistol">pistole</orig> case I took <add
+                        hand="h1" place="inline">out</add> the <orig reg="provision">provison</orig>
+                    that you were going to send down. you can send it to the <abbr
+                        expan="Harper's Ferry">
+                        <orig reg="Ferry">fery</orig>
+                    </abbr> and I wish you would get me some coloured stuff and make me two shirts
+                    and pack them in the box with the <orig reg="provision">provison</orig>. <orig
+                        reg="also">all so</orig> send me one of little cans of powder that Johnie
+                    sent sent me from Richmond.</p>
+
+                <p>You ask me if I want more <orig reg="clothes">clotes</orig> I want none but what
+                    I have mentioned above. </p>
+
+                <p>I am now very well and on duty <orig reg="today">to day</orig> camp life is right
+                    hard but I do not mind it.</p>
+
+                <p>I have tended to my horse very well and he stands it as well if not better than
+                    any other horse in camp. </p>
+
+                <p>There is no <orig reg="news">knewse</orig> here at all you <orig reg="hear"
+                    >here</orig> more <orig reg="news">knewse</orig> than we do. I am very well and
+                    hope to <orig reg="find">finde</orig> you the same</p>
+
+                <closer>
+                    <salute>Your Affectionate Son </salute>
+                    <signed><abbr expan="Benjamin Franklin">B.F.</abbr> Cochran </signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

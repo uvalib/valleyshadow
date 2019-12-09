@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+
+<?dlps id="A5035"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A5035">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Gotlip Dalius to John B. McGuffin,
+                    June 3, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county gotlip dalius to john b mcguffin, june 3 1861</title>
+        <author>Dalius, Gotlip</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amy Voorhees</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A5035</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502319</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Gotlip Dalius to John B. McGuffin, June 3, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta county gotlip dalius to john b mcguffin, june 3 1861</title>
+            <author>Gotlip Dalius</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: McGuffin Family Papers, Accession
+                            #6732, Special Collections Department, University of Virginia,
+                            Charlottesville, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1861-06-03">1861-06-03</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Home Front, Enlistment, Prisons/Prisoners</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2002-11">November 2002</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A5035T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>A friend writes to John McGuffin with news from home, including the enlistment of
+                    other friends, a fire, and the arrest of several men who were thought to be
+                    spies.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    John B. McGuffin, The West Augusta Guards, Harpers Ferry
+                    <name type="recipient">John B. McGuffin</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1861-06-03">3rd June 1861</date>
+                        <name type="place">Staunton</name>
+                    </dateline>
+                    <salute>Dear John</salute>
+                </opener>
+
+                <p>I send you the shirts as per Your Order. Your letter was received in due time and
+                    it was read with much pleasure. I glad to see that you are well satisfied and
+                    enjoying the luxuries of the land or at least a part. Henry arrived safe home on
+                    last Thursday from Richmond he <unclear>start</unclear> back this morning for
+                    the same place he says he has an appointment in the provisional army of Virginia
+                    or he says he will in all probability take an office in the Wise Legion. The
+                    West Augusta <abbr expan="Guard">G.</abbr> I suppose treated Henry badly - how
+                    is the company getting along now. With the absence of Henry &amp; Baylor -
+                    Baylor will accept the <unclear>mayorship</unclear> - we have had quite an
+                    exciting time in town for a week past. We have two or three suspicious
+                    characters <unclear>lodged</unclear> in Jail. They are thought to be <orig
+                        reg="spies">spys</orig>. I don't know what will be done with them. We had a
+                    fire here onlast Monday Evening about 4 oclock Old <unclear>Ma
+                    Shumates</unclear> stable caught &amp; Burnt to the ground the wind was
+                    blowing a perfect torrent and several other houses caught from the Stable, but
+                        <pb n="2"/> they we all put out. but considerable damage done to the
+                    property &amp; furniture.</p>
+
+                <p>My Dear Boy. I am almost worn out - the old Militia have been ordered out in some
+                    of the Western Counties the next pass old <unclear>Letcher</unclear> makes it
+                    will take all, &amp; then we'll all go to Dixie land together. Several of
+                    the Boys is going down and they will tell you all the news. I have several other
+                    letters to write to night and it is now late, so I must close with the hope
+                    seeing you <orig reg="before">ere</orig> long Write soon</p>
+
+                <closer>
+                    <salute>Your friend,</salute>
+                    <signed>G. J. Dalius</signed>
+                    <seg type="postscript">My regards to all the Boys.<lb/><lb/>P.S. I wish you
+                        would see John Bucker and ask him what he did with the Bundle he carried
+                        down for Sandy Cochran tell him to hand it over to <abbr expan="George"
+                        >Geo.</abbr> M Cochran</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>
