@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+
+<?dlps id="R112135"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 n="au" id="R112135">
+	<teiHeader type="migrated">
+		  <fileDesc>
+			   <titleStmt>
+        <title type="main" id="VShadow">CHAP. XXIV. General Reports.</title>
+        <title type="sort">chap xxiv general reports</title>
+        <author>McClellan, George B.</author>
+        <respStmt>
+					     <resp>Creation of machine-readable version:</resp>
+					     <name/>
+					     <resp>Conversion to TEI.2-conformant markup:</resp>
+					     <name/>
+				    </respStmt>
+      </titleStmt>
+			   <extent>ca. <num type="kilobytes">8</num> kilobytes</extent> 
+			   <publicationStmt>
+				    <publisher>Virginia Center for Digital History</publisher>
+				    <publisher>University of Virginia</publisher>
+				    <pubPlace>Charlottesville, Virginia</pubPlace>
+				    <idno type="VCDH">R112135</idno>
+        <!--
+				<availability>
+					<p>Text and images (c) Copyright 1999 by The Rector and Visitors of The
+						University of Virginia. All rights reserved.</p>
+					<p>URL: http://jefferson.village.virginia.edu/vshadow2</p>
+				</availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+				    <date value="1999">1999</date>
+			     <idno type="uva-pid">uva-lib:498591</idno>
+      </publicationStmt>
+			   <seriesStmt>
+				    <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+			   </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+			   <notesStmt>
+				    <note/>
+			   </notesStmt>
+			   <sourceDesc>
+				    <biblFull>
+					     <titleStmt>
+            <title>CHAP. XXIV. General Reports.</title>
+            <title type="uniform">The War of The Rebellion: Official Records of the
+							Union and Confederate Armies</title>
+            <title type="sort">chap xxiv general reports</title>
+            <author>McClellan, George B.</author>
+            <respStmt>
+							       <resp>Translator:</resp>
+							       <name/>
+						      </respStmt>
+          </titleStmt>
+					     <editionStmt>
+						      <p>Series 1, Volume 12, Serial No. 15</p>
+					     </editionStmt>
+					     <extent>Pages 234-235</extent>
+					     <publicationStmt>
+						      <publisher>Broadfoot Publishing Company</publisher>
+						      <pubPlace>Wilmington, NC</pubPlace>
+						      <date value="1997">1997</date>
+					     </publicationStmt>
+					     <seriesStmt>
+						      <p/>
+					     </seriesStmt>
+					     <notesStmt>
+						      <note/>
+					     </notesStmt>
+				    </biblFull>
+			   </sourceDesc>
+		  </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Publisher</p>
+      </projectDesc>
+    </encodingDesc>
+		  <profileDesc>
+			   <creation>
+				    <date value="1862-04-01">1862-04-01</date>
+			   </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+			   <textClass>
+				    <keywords>
+					     <term/>
+					     <term/>
+				    </keywords>
+			   </textClass>
+		  </profileDesc>
+		  <revisionDesc>
+			   <change>
+				    <date value=""/>
+				    <respStmt>
+					     <resp/>
+					     <name/>
+				    </respStmt>
+				    <item/>
+			   </change>
+		    <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+	</teiHeader>
+	<text id="R112135T">
+		<front id="d2">
+			<div1 type="summary" id="d3">
+				<p>In April, 1862, General George B. McClellan's Army of the Potomac planned an
+					advance on Richmond by way of the James River Peninsula. At the same time,
+					Nathaniel Banks' Federals, stationed in the Valley, faced Jackson's troops. In
+					this letter McClellan writes Banks regarding the plans and situation in the
+					Valley. He suggests an advance on Staunton once railroad communications make it
+					possible.</p>
+			</div1>
+		</front>
+		<body id="d4">
+			<div1 type="letter" id="d5">
+				<head>
+					<name type="recipient">Maj. Gen. N.P. BANKS,<lb/> Commanding Fifth Corps:</name>
+				</head>
+				<opener>
+					<dateline>
+						<date value="1862-04-01">April 1, 1862.</date>
+						<name type="location">HEADQUARTERS ARMY OF THE POTOMAC,</name>
+						<name type="place">On board the Commodore</name>
+					</dateline>
+					<salute>GENERAL:</salute>
+				</opener>
+				<p>The change in affairs in the valley of the Shenandoah has rendered necessary a
+					corresponding departure--temporarily at least--from the plan we some days since
+					agreed upon. In my arrangements I assume that you have with you a force amply
+					sufficient to drive Jackson before you, provided he is not re-enforced largely.
+					I also assume that you may find it impossible to detach anything toward Manassas
+					for some days, probably not until the operations of the main army have drawn all
+					the rebel force toward Richmond.</p>
+				<p>You are aware that Gen. Sumner has for some days been at Warrenton Junction, with
+					two divisions of infantry, six batteries, and two regiments of cavalry, and that
+					a reconnaissance to the Rappahannock forced the enemy to destroy the railway
+					bridge at Rappahannock Station, on the Orange and Alexandria Railroad. Since
+					that time our cavalry have found nothing on this side of the Rappahannock in
+					that direction, and it seems clear that we have no reason to fear any return of
+					the rebels in that quarter. Their movements near Fredericksburg also indicate a
+					final abandonment of that neighborhood. I doubt whether Jonston will now
+					re-enforce Jackson with a view to offensive operations; the time has probably
+					passed when he could have gained anything by doing so. I have ordered in one of
+					Sumner's divisions (that of Richardson, late Sumner's) to Alexandria for
+					embarkation. Blenker's has been detached from the Army of the Potomac and
+					ordered to report to Gen. Fremont.</p>
+				<p>Abercrombie is probably at Warrenton Junction to-day; Geary at White Plains.Two
+					regiments of cavalry have been ordered out and are now on the way to relieve the
+					two regiments of Sumner.</p>
+				<p>Four thousand infantry and one battery leave Washington at once for Manassas;
+					some 3,000 more will move in one or two days, and soon after some 3,000
+					additional.</p>
+				<p>I will order Blenker to march on Strasburg and to report to you for temporary
+					duty, so that, should you find a large force in your front, you can avail
+					yourself of his aid. As soon as possible please direct him on Winchester, thence
+					to report to the Adjutant-Gen. of the Army for orders, but keep him until you
+					are sure what you have in front.</p>
+				<p>In regard to your own movements the most important thing at present is to throw
+					Jackson well back and then to assume such a position as to enable you to prevent
+					his return. As soon as the railway communications are re-established it will be
+					probably important and advisable to move on Staunton, but this would require
+					secure communications and a force of from 25,000 to 30,000 for active
+					operations. It should also be nearly coincident with my own move on Richmond; at
+					all events not so long before it as to enable the rebels to concentrate on you
+					and then return on me. I fear that you cannot be ready in time, although it may
+					come in very well, with a force less than that I have mentioned, after the main
+					battle near Richmond. When Gen. Sumner leaves Warrenton Junction Gen.
+					Abercrombie will be placed in immediate command of Manassas and Warrenton
+					Junction under your general orders. Please inform me frequently by telegraph and
+					otherwise as to the state of things in your front.</p>
+				<closer>
+					<salute>I am, very truly, yours,</salute>
+					<signed>GEO. B. McCLELLAN,<lb/> Maj.-Gen., Commanding.</signed>
+					<seg type="postscript">P.S.--From what I have just learned it would seem that
+						the two regiments of cavalry intended for Warrenton Junction have gone to
+						Harper's Ferry. Of the four additional regiments placed under your orders
+						two should, as promptly as possible, move by the shortest route on Warrenton
+						Junction.</seg>
+				</closer>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

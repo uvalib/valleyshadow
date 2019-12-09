@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+
+<?dlps id="R41127419"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 n="au" id="R41127419">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Confederate Correspondence</title>
+                <title type="sort">confederate correspondence</title>
+        <author>Letcher, John</author>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name/>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent> 
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <publisher>University of Virginia</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">R41127419</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1999 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved.</p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:500041</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Confederate Correspondence</title>
+                        <title type="uniform">The War of The Rebellion: Official Records of the
+                            Union and Confederate Armies</title>
+                        <title type="sort">confederate correspondence</title>
+            <author>Letcher, John</author>
+            <respStmt>
+                            <resp>Translator:</resp>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p>Series 4, Volume 1, Serial No. 127</p>
+                    </editionStmt>
+                    <extent>Pages 419-420</extent>
+                    <publicationStmt>
+                        <publisher>Broadfoot Publishing Company</publisher>
+                        <pubPlace>Wilmington, NC</pubPlace>
+                        <date value="1997">1997</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Publisher</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1861-07-03">1861-07-03</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term/>
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="R41127419T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Virginia Governor John Letcher writes Secretary of War Leroy P. Walker in July,
+                    1861, on the muster of troops into Confederate service. Letcher establishes a
+                    camp of instruction at Staunton at which troops can rendezvous and muster in,
+                    and discusses a controversy between the states and the Confederate government
+                    over the right to appoint new regimental officers.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    EXECUTIVE DEPARTMENT,
+                    <name type="recipient">Hon. L. P. WALKER,<lb/> Secretary of War:</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1861-07-03">July 3, 1861.</date>
+                    </dateline>
+                    <salute>SIR:</salute>
+                </opener>
+                <p>I received yesterday (through the mail) your letter dated June 30, making a
+                    requisition on me for 3,000 men, that being the quota of Virginia in the reserve
+                    army corps proposed to be raised to serve for and during the war. My
+                    proclamation calling for this force will be issued in the morning, and every
+                    proper effort will be made to have the number raised as speedily as practicable.
+                    Richmond and Staunton will be designated as the accessible points for the camps
+                    of instruction, where the companies will rendezvous and be mustered into
+                    service.</p>
+                <p>I regret that I cannot concur in the principle asserted in the latter part of
+                    your communication, that "the President shall organize these companies into
+                    battalions or regiments, as he may prefer, and appoint the field officers and
+                    the staff." On reference to the Constitution I find that the right of appointing
+                    the officers of the militia is reserved "to the States respectively." The
+                    question seems to me, therefore, to resolve itself into this: Are the troops
+                    called for militia? If so, it seems plain to my mind that the right to officer
+                    them is with the State. If not militia, what description of troops are they? Can
+                    they be considered regulars? If so, under what authority can the State be called
+                    upon to furnish regulars? If the militia are called into service by companies,
+                    the States may be deprived of the power to appoint field officers of all grades.
+                    If by battalions, then they may be deprived of the power of appointment of all
+                    field officers of higher grade than major. Surely it cannot be that the framers
+                    of the Constitution contemplated such results. I earnestly, therefore, but at
+                    the same time most respectfully, protest against the exercise of this power.</p>
+                <closer>
+                    <salute>Respectfully,</salute>
+                    <signed>JOHN LETCHER.</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

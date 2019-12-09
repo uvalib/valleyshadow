@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+
+<?dlps id="R1222473"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 n="au" id="R1222473">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">CHAP. IX. Reports from Major M. G. Harman.</title>
+        <title type="sort">chap ix reports from major m g harman</title>
+        <author>Harman, M. G.</author>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name/>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent> 
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <publisher>University of Virginia</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">R1222473</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1999 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved.</p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:498827</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>CHAP. IX. Reports from Major M. G. Harman.</title>
+            <title type="uniform">The War of The Rebellion: Official Records of the
+                            Union and Confederate Armies</title>
+            <title type="sort">chap ix reports from major m g harman</title>
+            <author>Harman, M. G.</author>
+            <respStmt>
+                            <resp>Translator:</resp>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p>Series 1, Volume 2, Serial No. 2</p>
+                    </editionStmt>
+                    <extent>Pages 247</extent>
+                    <publicationStmt>
+                        <publisher>Broadfoot Publishing Company</publisher>
+                        <pubPlace>Wilmington, NC</pubPlace>
+                        <date value="1997">1997</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Publisher</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1861-07-16">1861-07-16</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term/>
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="R1222473T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Major Michael G. Harman, commanding at Staunton, writes to Assistant Adjutant
+                    George Deas in the wake of July, 1861, Confederate defeats in West Virginia.
+                    Harman reports on the state of Staunton's telegraph, and on his plans to open a
+                    pony express from Staunton to Monterey and Winchester. He also asks that any
+                    ammunition for the front be sent to Staunton.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    HEADQUARTERS FORCES
+                    <name type="recipient">Col. GEORGE DEAS, Assistant Adjutant-Gen.:</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1861-07-16">July 16, 1861.</date>
+                        <name type="place">Staunton, Va.,</name>
+                    </dateline>
+                    <salute>DEAR SIR:</salute>
+                </opener>
+                <p>Inclosed is a communication sent you by telegraph, after waiting hours for the
+                    office to open. It is most important that the telegraph offices should be open
+                    night and day, and that we should have a through connection between Richmond and
+                    Staunton, instead of having a relay at Gordonsville, and thereby creating great
+                    delay. The instrument at this office is nearly worn-out, as I months ago
+                    informed the superintended of the telegraph line at Richmond in person. See that
+                    these matters are corrected.</p>
+                <closer>
+                    <salute>Yours, very respectfully,</salute>
+                    <signed>M. G. HARMAN,<lb/> Maj., Commanding.</signed>
+                    <seg type="postscript">P. S.--I have asked the President to allow me to
+                        establish a pony express from this place to Monterey and Winchester. By all
+                        means, ammunition of all sorts should be sent to this point immediately. I
+                        have been notified to report at Richmond, for settlement of my accounts as
+                        quartermaster, on the 15th of this month. My accounts are all ready, but the
+                        present unfortunate state of affairs will prevent my attendance. Is anything
+                        necessary for me to do in regard to it? Please advise me.</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

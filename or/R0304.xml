@@ -1,0 +1,545 @@
+<?xml version="1.0"?>
+
+<?dlps id="R0304"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 n="fr" id="R0304">
+	<teiHeader type="migrated">
+		  <fileDesc>
+			   <titleStmt>
+        <title type="main">Payne's Farm/Mine Run, 17th Pa. Cavalry, Report (#3) of Maj. Gen.
+					Alfred Pleasonton, November 29, 1863</title>
+        <title type="sort">paynes farm mine run, 17th pa cavalry report #3 of maj gen alfred pleasonton november 29 1863</title>
+        <author>Pleasonton, Alfred</author>
+        <respStmt>
+					     <resp>Creation of machine-readable version:</resp>
+					     <name/>
+					     <resp>Conversion to TEI.2-conformant markup:</resp>
+					     <name>Peter Brownfeld</name>
+				    </respStmt>
+      </titleStmt>
+			   <extent>ca.<num type="kilobytes"> 13</num> kilobytes </extent>
+			   <publicationStmt>
+				    <publisher>Virginia Center for Digital History</publisher>
+				    <publisher>University of Virginia</publisher>
+				    <pubPlace>Charlottesville, Virginia</pubPlace>
+				    <idno type="VCDH">R0304</idno>
+        <!--
+				<availability>
+					<p>Text and images (c) Copyright 1999 by The Rector and Visitors of The
+						University of Virginia. All rights reserved.</p>
+					<p>URL: http://jefferson.village.virginia.edu/vshadow2</p>
+				</availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+				    <date value="1999">1999</date>
+			     <idno type="uva-pid">uva-lib:500196</idno>
+      </publicationStmt>
+			   <seriesStmt>
+				    <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+			   </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+			   <notesStmt>
+				    <note/>
+			   </notesStmt>
+			   <sourceDesc>
+				    <biblFull>
+					     <titleStmt>
+            <title>CHAP. XLI MINE RUN, VIRGINIA, CAMPAIGN., No. 85 Reports of Maj. Gen.
+							Alfred Pleasonton, U. S. Army, commanding Cavalry Corps.</title>
+            <title type="uniform">The War of The Rebellion: Official Records of the
+							Union and Confederate Armies</title>
+            <title type="sort">chap xli mine run, virginia campaign no 85 reports of maj gen alfred pleasonton u s army commanding cavalry corps</title>
+            <author>Alfred Pleasonton</author>
+            <respStmt>
+							       <resp/>
+							       <name/>
+						      </respStmt>
+          </titleStmt>
+					     <editionStmt>
+						      <p>Series I., Volume 29. Part I, Reports., Serial No. 48</p>
+					     </editionStmt>
+					     <extent>Page 802</extent>
+					     <publicationStmt>
+						      <publisher>Broadfoot Publishing Company</publisher>
+						      <pubPlace>Wilmington, NC</pubPlace>
+						      <date value="1997">1997</date>
+					     </publicationStmt>
+					     <seriesStmt>
+						      <p/>
+					     </seriesStmt>
+					     <notesStmt>
+						      <note/>
+					     </notesStmt>
+				    </biblFull>
+			   </sourceDesc>
+		  </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Publisher</p>
+      </projectDesc>
+    </encodingDesc>
+		  <profileDesc>
+			   <creation>
+				    <date value="1863-11-29">1863-11-29</date>
+			   </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+			   <textClass>
+				    <keywords>
+					     <term>American Civil War</term>
+					     <term>Regiment: 17th Pa. Cavalry</term>
+					     <term>Cavalry: Payne's Farm/Mine Run</term>
+				    </keywords>
+			   </textClass>
+		  </profileDesc>
+		  <revisionDesc>
+			   <change>
+				    <date value=""/>
+				    <respStmt>
+					     <resp/>
+					     <name/>
+				    </respStmt>
+				    <item/>
+			   </change>
+		    <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+	</teiHeader>
+	<text id="R0304T">
+		<front id="d2">
+			<div1 type="summary" id="d3">
+				<p>Maj. Gen. Alfred Pleasonton commanded the Cavalry Corps of the Army of the
+					Potomac which included the 17th Pa. Cavalry. Pleasonton provides a list of
+					casualties.</p>
+			</div1>
+		</front>
+		<body id="d4">
+			<div1 type="letter" id="d5">
+				<head>
+					HEADQUARTERS CAVALRY CORPS
+					<name type="recipient">Brig. Gen. S. WILLIAMS, Adjt. Gen., Army of the
+						Potomac.</name>
+				</head>
+				<opener>
+					<dateline>
+						<date value="1863-12-08">December 8, 1863.</date>
+					</dateline>
+					<salute>GENERAL</salute>
+				</opener>
+				<p>I have the honor to forward the reports of division commanders, showing the
+					duties performed by the Cavalry Corps during the recent operations of the army.
+					These reports are sufficiently full without any additional report from these
+					headquarters.</p>
+				<closer>
+					<salute>I have the honor to be, your obedient servant,</salute>
+					<signed>A. PLEASONTON.</signed>
+					<seg type="postscript">ADDENDA.<lb/> Return of Casualties in the Cavalry Corps,
+						Army of the Potomac, Nov. 27-Dec. 8.<lb/> [As reported by General Pleasonton
+						December 12.]<lb/>
+					<table rows="8" cols="7">
+							<row>
+								<cell role="label">Command.</cell>
+								<cell role="label">KO</cell>
+								<cell role="label">KM</cell>
+								<cell role="label">WO</cell>
+								<cell role="label">WM</cell>
+								<cell role="label">CO</cell>
+								<cell role="label">CM</cell>
+								<cell role="label">A</cell>
+							</row>
+							<row>
+								<cell>FIRST DIVISION</cell>
+								<cell>First Brigade.....</cell>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+							</row>
+							<row>
+								<cell>8th Illinois.....................</cell>
+								<cell>..</cell>
+								<cell>..</cell>
+								<cell>..</cell>
+								<cell>..</cell>
+								<cell>..</cell>
+								<cell>2</cell>
+								<cell>2</cell>
+							</row>
+							<row>
+								<cell>3d Indiana.....................</cell>
+								<cell>..</cell>
+								<cell>..</cell>
+								<cell>..</cell>
+								<cell>..</cell>
+								<cell>..</cell>
+								<cell>2</cell>
+								<cell>2</cell>
+							</row>
+							<row>
+								<cell>8th New York.....................</cell>
+								<cell>..</cell>
+								<cell>..</cell>
+								<cell>..</cell>
+								<cell>1</cell>
+								<cell>..</cell>
+								<cell>2</cell>
+								<cell>3</cell>
+							</row>
+							<row>
+								<cell>Total First Brigade.....................</cell>
+								<cell>..</cell>
+								<cell>..</cell>
+								<cell>..</cell>
+								<cell>1</cell>
+								<cell>..</cell>
+								<cell>6</cell>
+								<cell>7</cell>
+							</row>
+							<row>
+								<cell>Second Brigade.</cell>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+							</row>
+							<row>
+								<cell>4th New York.................</cell>
+								<cell>..</cell>
+								<cell>1</cell>
+								<cell>..</cell>
+								<cell>1</cell>
+								<cell>..</cell>
+								<cell>3</cell>
+								<cell>5</cell>
+							</row>
+							<row>
+								<cell>Total Second Brigade......</cell>
+								<cell>..</cell>
+								<cell>1</cell>
+								<cell>..</cell>
+								<cell>1</cell>
+								<cell>..</cell>
+								<cell>3</cell>
+								<cell>5</cell>
+							</row>
+							<row>
+								<cell>Reserve Brigade. (No casualties.)</cell>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+							</row>
+							<row>
+								<cell>Total First Division......</cell>
+								<cell>..</cell>
+								<cell>1</cell>
+								<cell>..</cell>
+								<cell>2</cell>
+								<cell>..</cell>
+								<cell>9</cell>
+								<cell>10</cell>
+							</row>
+							<row>
+								<cell>SECOND DIVISION</cell>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+							</row>
+							<row>
+								<cell>First Brigade</cell>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+							</row>
+							<row>
+								<cell>1st Massachusetts..............</cell>
+								<cell>1</cell>
+								<cell>3</cell>
+								<cell>3</cell>
+								<cell>22</cell>
+								<cell>..</cell>
+								<cell>13</cell>
+								<cell>42</cell>
+							</row>
+							<row>
+								<cell>1st New Jersey..............</cell>
+								<cell>1</cell>
+								<cell>8</cell>
+								<cell>1</cell>
+								<cell>17</cell>
+								<cell>..</cell>
+								<cell>..</cell>
+								<cell>27</cell>
+							</row>
+							<row>
+								<cell>6th Ohio..............</cell>
+								<cell>..</cell>
+								<cell>1</cell>
+								<cell>..</cell>
+								<cell>1</cell>
+								<cell>..</cell>
+								<cell>..</cell>
+								<cell>2</cell>
+							</row>
+							<row>
+								<cell>1st Pennsylvania..............</cell>
+								<cell>..</cell>
+								<cell>1</cell>
+								<cell>1</cell>
+								<cell>14</cell>
+								<cell>..</cell>
+								<cell>1</cell>
+								<cell>17</cell>
+							</row>
+							<row>
+								<cell>3d Pennsylvania..............</cell>
+								<cell>..</cell>
+								<cell>5</cell>
+								<cell>1</cell>
+								<cell>21</cell>
+								<cell>1</cell>
+								<cell>25</cell>
+								<cell>53</cell>
+							</row>
+							<row>
+								<cell>Total First Brigade ..............</cell>
+								<cell>2</cell>
+								<cell>18</cell>
+								<cell>6</cell>
+								<cell>75</cell>
+								<cell>1</cell>
+								<cell>39</cell>
+								<cell>141</cell>
+							</row>
+							<row>
+								<cell>Second Brigade</cell>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+							</row>
+							<row>
+								<cell>2d Pennsylvania</cell>
+								<cell>..</cell>
+								<cell>5</cell>
+								<cell>1</cell>
+								<cell>14</cell>
+								<cell>..</cell>
+								<cell>13</cell>
+								<cell>33</cell>
+							</row>
+							<row>
+								<cell>16th Pennsylvania</cell>
+								<cell>..</cell>
+								<cell>1</cell>
+								<cell>2</cell>
+								<cell>10</cell>
+								<cell>..</cell>
+								<cell>3</cell>
+								<cell>16</cell>
+							</row>
+							<row>
+								<cell>Total Second Brigade......</cell>
+								<cell>..</cell>
+								<cell>6</cell>
+								<cell>3</cell>
+								<cell>24</cell>
+								<cell>..</cell>
+								<cell>16</cell>
+								<cell>49</cell>
+							</row>
+							<row>
+								<cell>Total First Brigade......</cell>
+								<cell>2</cell>
+								<cell>18</cell>
+								<cell>6</cell>
+								<cell>75</cell>
+								<cell>1</cell>
+								<cell>39</cell>
+								<cell>141</cell>
+							</row>
+							<row>
+								<cell>Total Second Brigade<ref n="1" target="note1">[1]</ref>....</cell>
+								<cell>2</cell>
+								<cell>24</cell>
+								<cell>9</cell>
+								<cell>99</cell>
+								<cell>1</cell>
+								<cell>55</cell>
+								<cell>190</cell>
+							</row>
+							<row>
+								<cell>THIRD DIVISION</cell>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+							</row>
+							<row>
+								<cell>First Brigade</cell>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+							</row>
+							<row>
+								<cell>2d New York .................</cell>
+								<cell>..</cell>
+								<cell>..</cell>
+								<cell>..</cell>
+								<cell>7</cell>
+								<cell>..</cell>
+								<cell>2</cell>
+								<cell>9</cell>
+							</row>
+							<row>
+								<cell>5th New York .................</cell>
+								<cell>..</cell>
+								<cell>..</cell>
+								<cell>..</cell>
+								<cell>1</cell>
+								<cell>..</cell>
+								<cell>..</cell>
+								<cell>1</cell>
+							</row>
+							<row>
+								<cell>1st West Virginia .............</cell>
+								<cell>..</cell>
+								<cell>..</cell>
+								<cell>..</cell>
+								<cell>..</cell>
+								<cell>..</cell>
+								<cell>4</cell>
+								<cell>4</cell>
+							</row>
+							<row>
+								<cell>Total First Brigade......</cell>
+								<cell>..</cell>
+								<cell>..</cell>
+								<cell>..</cell>
+								<cell>8</cell>
+								<cell>..</cell>
+								<cell>6</cell>
+								<cell>14</cell>
+							</row>
+							<row>
+								<cell>Second Brigade.</cell>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+								<cell/>
+							</row>
+							<row>
+								<cell>1st Michigan...................</cell>
+								<cell>..</cell>
+								<cell>..</cell>
+								<cell>..</cell>
+								<cell>2</cell>
+								<cell>..</cell>
+								<cell>2</cell>
+								<cell>4</cell>
+							</row>
+							<row>
+								<cell>5th Michigan...................</cell>
+								<cell>..</cell>
+								<cell>1</cell>
+								<cell>..</cell>
+								<cell>4</cell>
+								<cell>..</cell>
+								<cell>5</cell>
+								<cell>10</cell>
+							</row>
+							<row>
+								<cell>Total Second Brigade......</cell>
+								<cell>..</cell>
+								<cell>1</cell>
+								<cell>..</cell>
+								<cell>6</cell>
+								<cell>..</cell>
+								<cell>7</cell>
+								<cell>14</cell>
+							</row>
+							<row>
+								<cell>Total Third Division......</cell>
+								<cell>..</cell>
+								<cell>1</cell>
+								<cell>..</cell>
+								<cell>14</cell>
+								<cell>..</cell>
+								<cell>13</cell>
+								<cell>28</cell>
+							</row>
+							<row>
+								<cell>Grand total...............</cell>
+								<cell>2</cell>
+								<cell>26</cell>
+								<cell>9</cell>
+								<cell>115</cell>
+								<cell>1</cell>
+								<cell>77</cell>
+								<cell>230</cell>
+							</row>
+						</table> KO=Killed officers. KM=Killed enlisted men. WO=Wounded officers.
+						WM=Wounded enlisted men. CO=Captured or missing officers. CM=Captured or
+						missing enlisted men. A=Aggregate.</seg>
+				</closer>
+			</div1>
+			<div1 type="notes" id="d6">
+				<head>Notes</head>
+				<p>
+					<note n="1" id="note1" place="end"><seg type="note-symbol"><hi rend="super">[1]</hi></seg><p>See revised statement, p. 685.</p></note>
+				</p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

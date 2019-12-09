@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+
+<?dlps id="R0301"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 n="au" id="R0301">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main">Gettysburg, 52nd Virginia Infantry, Report of Lieut. Col. H.P.
+                    Jones, August 18, 1863</title>
+        <title type="sort">gettysburg, 52nd virginia infantry report of lieut col h p jones august 18 1863</title>
+        <author>Jones, H.P.</author>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Peter Brownfeld</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent> 
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <publisher>University of Virginia</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">R0301</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1999 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved.</p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:500193</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>CHAP. XXXIX N. C., VA., W. VA., MD., PA., ETC., No. 478 Report of
+                            Lieut. Col. H.P. Jones, C.S. Army, commanding Artillery Battalion.</title>
+            <title type="uniform">The War of The Rebellion: Official Records of the
+                            Union and Confederate Armies</title>
+            <title type="sort">chap xxxix n c , va w va md pa etc no 478 report of lieut col h p jones c s army commanding artillery battalion</title>
+            <author>H.P. Jones</author>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p>Series I. Vol. 27. Part II. Reports. Serial No. 44.</p>
+                    </editionStmt>
+                    <extent>Page 495</extent>
+                    <publicationStmt>
+                        <publisher>Broadfoot Publishing Company</publisher>
+                        <pubPlace>Wilmington, NC</pubPlace>
+                        <date value="1997">1997</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Publisher</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1863-08-18">1863-08-18</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>American Civil War</term>
+                    <term>Regiment: 52nd Va. Infantry</term>
+                    <term>Battle: Gettysburg</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="R0301T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Lieut. Col. H. P. Jones commanded the Artillery Battalion of the Army of Northern
+                    Virginia which included the Staunton Artillery. Jones reports that on July 1st,
+                    the battalion fired at the retreating enemy.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Lieut. [S. V.] Southall, Acting Assistant Adjutant-Gen.</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1863-08-04">August 4, 1863.</date>
+                    </dateline>
+                    <salute>Sir</salute>
+                </opener>
+                <p>On the morning of July 1, while marching in rear of Early's division, I received
+                    an order from Gen. Early to bring the batteries at once to the front, for the
+                    purpose of engaging the enemy. This I did, and found on arriving at the front
+                    that the enemy were posted in front of Gettysburg, and engaging hotly what I
+                    afterward learned was Gen. Rodes' division. I immediately brought twelve guns
+                    into position, and opened a brisk fire upon the enemy's artillery and infantry,
+                    taking them in flank as they were being massed upon Rodes' left and Gen. Early's
+                    right.</p>
+                <p>The batteries were very soon driven from the position and forced to retire,
+                    leaving one carriage disabled, which, however, they afterward succeeded in
+                    getting off. Our fire was very effective upon their infantry, presenting, as
+                    they did, large bodies in easy range of us.</p>
+                <p>In this engagement, I had three guns temporarily disabled and one permanently so.
+                    One man of the Louisiana Guard Artillery was killed, and 1 of the Staunton
+                    Artillery wounded.</p>
+                <p>For your better information, I have the honor herewith to inclose the reports of
+                    Capt.'s Tanner and Green, of the operations of their batteries at Wrightsville,
+                    Hunterstown, South Mountain, and Williamsport.</p>
+                <closer>
+                    <salute>Very respectfully, your obedient servant,</salute>
+                    <signed>H. P. JONES, Lieut.-Col., Comdg. Artillery Battalion.</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

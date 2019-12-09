@@ -1,0 +1,484 @@
+<?xml version="1.0"?>
+
+<?dlps id="R0057"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 n="fr" id="R0057">
+ <teiHeader type="migrated">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gettysburg, 107th Pa. Infantry, Report of Maj. Gen. Abner Doubleday, December
+     14, 1863</title>
+        <title type="sort">gettysburg, 107th pa infantry report of maj gen abner doubleday december 14 1863</title>
+        <author>Doubleday, Abner</author>
+        <respStmt>
+          <resp>Creation of machine-readable version:</resp>
+          <name/>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Peter Brownfeld</name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. <num type="kilobytes">34</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <publisher>University of Virginia</publisher>
+        <pubPlace>Charlottesville, Virginia</pubPlace>
+        <idno type="VCDH">R0057</idno>
+        <!--
+    <availability>
+     <p>Text and images (c) Copyright 1999 by The Rector and Visitors of The University of Virginia.
+      All rights reserved.</p>
+     <p>URL: http://jefferson.village.virginia.edu/vshadow2</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:500105</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>CHAP. XXXIX THE GETTYSBURG CAMPAIGN, No. 29 Reports of Maj. Gen. Abner Doubleday, U. S.
+       Army, commanding Third Division of, and First Army Corps.</title>
+            <title type="uniform">The War of The Rebellion: Official Records of the Union and Confederate
+       Armies</title>
+            <title type="sort">chap xxxix the gettysburg campaign, no 29 reports of maj gen abner doubleday u s army commanding third division of and first army corps</title>
+            <author>Abner Doubleday</author>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p>Series I, Volume 27. Part I. Reports, Serial No. 43</p>
+          </editionStmt>
+          <extent>Page 244</extent>
+          <publicationStmt>
+            <publisher>Broadfoot Publishing Company</publisher>
+            <pubPlace>Wilmington, NC</pubPlace>
+            <date value="1997">1997</date>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Publisher</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date value="1863-12-14">1863-12-14</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>American Civil War</term>
+          <term>Regiment: 107th Pa.</term>
+          <term>Battle: Gettysburg</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+ <text id="R0057T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Maj. Gen. Abner Doubleday commanded the Third Division of the Army of the Potomac which
+     included the 107th Pa. Doubleday provides an overview of the battle, mentioning many specific
+     units.</p>
+   </div1>
+  </front>
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <opener>
+     <dateline>
+      <date value="1863-12-14">December 14, 1863</date>
+      <name type="place">Washington, D. C.,</name>
+     </dateline>
+     <salute/>
+    </opener>
+    <p>On the eventful morning of July 1, between 7 and 8 o'clock, General Reynolds sent for me for
+     the purpose of explaining the telegrams received by him in relation to the movements of the
+     rebels and the latest position of our own troops. This information showed that the enemy was
+     reported in force at Cashtown and Mummasburg, and that our cavalry was skirmishing with them on
+     the roads leading from Gettysburg to those places. He told me he had already given orders to
+     Wadsworth's division, with Hall's battery, to move forward, and that he would accompany these
+     troops in person, while I remained to bring up the balance of the corps. Owing to the intervals
+     between the divisions and the necessity of calling in the pickets, from an hour and a half to
+     two hours elapsed before the remaining troops were en route. Wadsworth's division was,
+     therefore, obliged to sustain the brunt of the action alone for this length of time. As soon as
+     I saw that Robinson's and Rowley's divisions, with the remaining batteries, had commenced the
+     march, I rode on in advance of the column.</p>
+    <p>The sound of rapid cannon firing convinced me that our cavalry was warmly engaged. I pushed
+     forward at full speed, and soon overtook Wadsworth's division, which had left the main road and
+     was filing rapidly through woods and fields toward a ridge which ran north and south, about 400
+     yards to the west of the seminary, which is itself about a quarter of a mile to the west of
+     Gettysburg, and located on a similar ridge parallel to the first. About 200 yards farther on,
+     the former range of heights sloped down, and ended in a ravine called Willoughby's Run. On the
+     most westerly of these ridges, General Reynolds had directed his line of battle to be formed,
+     and was himself superintending the placing of Cutler's brigade as I rode up. I had previously
+     sent an aide (Lieutenant Marten) to the general for instructions. He returned with orders for
+     me to attend to the Millerstown road, on the left of our line. A small piece of woods cut the
+     line of battle in about two equal parts. These woods possessed all the advantages of a redoubt,
+     strengthening the center of our line, and enfilading the enemy's columns should they advance in
+     the open spaces on either side. I deemed the extremity of the woods, which extended to the
+     summit of the ridge, to be the key of the position, and urged that portion of Meredith's
+     brigade, the Western men assigned to its defense, to hold it to the last extremity. Full of the
+     memory of their past achievements, they replied cheerfully and proudly, "If we can't hold it,
+     where will you find men who can?" General Reynolds' intention appeared to be simply to defend
+     the two roads entering the town from the northwest and southwest, and to occupy and hold the
+     woods between them. The principal effort of the enemy was made on the Cashtown road from the
+     northwest, and was opposed at first by Cutler's brigade and Hall's battery, the former
+     stretching across, the latter posted on, the right of the road.</p>
+    <p>Immediately on my arrival at the ridge, I rode to the left to examine the ground in that
+     direction, and then was engaged in overseeing the operations of Meredith's brigade, commonly
+     known as the Iron Brigade. These troops were formed in the following order, from right to left:
+     The Second Wisconsin, Seventh Wisconsin, Nineteenth Indiana, and Twenty-fourth Michigan
+     Volunteers. The Sixth Wisconsin, together with the brigade guard, under Lieutenants Harris, of
+     the Sixth Wisconsin, and Showalter, of the Second Wisconsin, had been detached by my order, to
+     remain with me as a reserve. There was no time to be lost, as the enemy was already in the
+     woods, and advancing at double-quick to seize this important central position and hold the
+     ridge. The Iron Brigade, led by the Second Wisconsin in line, and followed by the other
+     regiments, deployed en echelon without a moment's hesitation, charged with the utmost
+     steadiness and fury, hurled the enemy back into the run, captured, after a sharp and desperate
+     conflict, nearly 1,000 prisoners--all from Archer's brigade--and reformed their lines on the
+     high ground beyond the ravine.</p>
+    <p>The Second Wisconsin, in this contest, under the gallant Colonel Fairchild, was particularly
+     distinguished. It accomplished the difficult task of driving superior numbers of rebel infantry
+     from the shelter of the woods, and to it also belongs the honor of capturing General Archer
+     himself. He was brought in by Private Patrick Maloney, of Company G. It is to be lamented that
+     this brave Irishman was subsequently killed in the action.</p>
+    <p>The troops were now withdrawn to the eastern side of the run by my order, and reformed on a
+     line with the Second Wisconsin, the Seventh Wisconsin taking the right of the new line and the
+     Nineteenth Indiana the left. Immediately after this, I took my position behind the left wing. I
+     had hardly done so when I learned, with deep sorrow, that our brave and lamented commander,
+     Major-General Reynolds, had just been shot, and was no more. This melancholy event occurred in
+     the beginning of the attack referred to, about 10.15 a. m. The whole burden of the battle was
+     thus suddenly thrown upon me.</p>
+    <p>The death of General Reynolds was followed by other disasters. A column of the enemy's
+     infantry had succeeded in approaching Hall's battery to within a distance of 60 yards by
+     charging up the ravine on his right, and had poured in a terrible and destructive fire at that
+     short range. At the same time a vastly superior force advanced in two lines against Cutler, in
+     front and on his right flank. General Wadsworth directed this brigade to fall back to the
+     shelter of the woods on Seminary Ridge. This left Captain Hall without any supports to his
+     battery, and, as he received no orders to withdraw, his situation soon became a precarious one.</p>
+    <p>The One hundred and forty-seventh New York Volunteers, of Cutler's brigade, did not receive
+     the order to retire; Lieutenant-Colonel Miller, its commander, having been wounded, was unable
+     to communicate his instructions to his successor, Major Harney. The latter bravely held the
+     regiment to its position until the enemy was in possession of the railroad cut on his left,
+     thus intercepting his line of retreat. During the half hour which elapsed before he could be
+     relieved, his loss was 207 killed and wounded out of 380.</p>
+    <p>The dispositions made by Captain Hall to meet the emergency and save his battery were both
+     able and resolute. He broke the force of the charge against him by firing canister, and then
+     ordered his battery to retire by sections. The right section, while falling back, was charged
+     upon by the enemy's skirmishers, and 4 of the horses of one piece shot. The cannoneers,
+     however, drew off the piece by hand. In reference to this period of the action, Captain Hall
+     says, in his official report:</p>
+    <p>As the last piece of the battery was coming away, all of its horses were shot, and I was
+     about to return for it myself, when General Wadsworth gave me a peremptory order to lose no
+     time, but get my battery in position near the barn on the heights, to cover the retiring of the
+     troops. I sent a sergeant and 5 men after the piece, all of whom were wounded or taken
+     prisoners.</p>
+    <p>Captain Hall was now withdrawn behind Seminary Ridge by way of the railroad grading, which
+     runs nearly parallel to the Cashtown road, and is about 100 yards from it--an unfortunate route
+     to take, as it was swept by the enemy's guns. He was soon afterward assigned to a new and more
+     advanced position by an aide-de-camp of the division commander, but, in attempting to occupy
+     it, he was fired upon by the rebel advance, who already held possession of the ground, and he
+     again withdrew.</p>
+    <p>The whole of these events had occurred on the right so soon after my arrival, that there was
+     no opportunity for me to interpose, issue orders, or regulate the retreat. The moment was a
+     critical one, involving the defeat, perhaps the utter rout, of our forces. I immediately sent
+     for one of Meredith's regiments (the Sixth Wisconsin), a gallant body of men, whom I knew could
+     be relied upon. Forming them rapidly perpendicular to the line of battle on the enemy's flank,
+     I directed them to attack immediately. Lieutenant-Colonel Dawes, their commander, ordered a
+     charge, which was gallantly executed. The enemy made a hurried attempt to change front to meet
+     the attack, and flung his troops into the railroad cut for safety. The Ninety-fifth New York
+     Volunteers, Colonel Biddle, and the Fourteenth Brooklyn, under Colonel Fowler, joined in the
+     charge; the cut was carried at the point of the bayonet, and two regiments of Davis' (rebel)
+     brigade were taken prisoners.</p>
+    <p>The results of this maneuver were the capture of the two rebel regiments referred to, with
+     their battle-flags, the release of the One hundred and forty-seventh New York Volunteers, which
+     had been cut off, and the recapture of one of Hall's pieces, which had been left, in
+     consequence of all the horses having been shot down and men wounded or killed. I immediately
+     directed the original line of battle to be resumed, which was done. All this was accomplished
+     in less than half an hour, and before General Howard had arrived on the field or assumed
+     command. Tidball's horse battery was now ordered up by General Wadsworth, to replace Hall's
+     battery, which had been very much cut up. Tidball was soon hotly engaged with a battery in his
+     front. Soon after, Captain Reynolds was sent to relieve him.</p>
+    <p>Upon taking a retrospect of the field, it might seem, in view of the fact that we were
+     finally forced to retreat, that this would have been a proper time to retire; but to fall back
+     without orders from the commanding general might have inflicted lasting disgrace upon the
+     corps, and as General Reynolds, who was high in the confidence of General Meade, had formed his
+     lines to resist the entrance of the enemy into Gettysburg, I naturally supposed that it was the
+     intention to defend the place.</p>
+    <p>There were abundant reasons for holding it, for it is the junction of seven great roads
+     leading to Hagerstown, Chambersburg, Carlisle, York, Baltimore, Taneytown, and Washington, and
+     is also an important railroad terminus. The places above mentioned are o n the circumference of
+     a circle of which it is the center. It was, therefore, a strategic point of no ordinary
+     importance. Its possession would have been invaluable to Lee, shortening and strengthening his
+     line to Williamsport, and serving as a base of maneuvers for future operations. I knew that
+     Slocum's and Sickles' corps were within striking distance when we left Marsh Creek; that
+     Howard's corps was already passing through the streets of the town, and that the remaining
+     divisions of the First Corps were almost up. A retreat without hard fighting has a tendency to
+     demoralize the troops who retire, and would, in the present instance, in my opinion, have
+     dispirited the whole army and injured its morale, while it encouraged the enemy in the same
+     proportion. There never was an occasion in which the result could have been more momentous upon
+     our national destiny. Final success in this war can only be attained by desperate fighting, and
+     the infliction of heavy loss upon the enemy; nor could I have retreated without the full
+     knowledge and approbation of Gen. Howard, who was my superior officer, and who had now arrived
+     on the field. Had I done so, it would have uncovered the left flank of his corps. If
+     circumstances required it, it was his place, not mine, to issue the order. Gen. Howard, from
+     his commanding position on Cemetery Hill, could overlook all the enemy's movements as well as
+     our own, and I therefore relied much upon his superior facilities for observation to give me
+     timely warning of any unusual danger.</p>
+    <p>I sent word to him shortly after this that, in addition to the forces opposed to me, Ewell's
+     corps was coming down on my right flank, and requested him to protect that portion of the line
+     with the Eleventh Corps. Almost at the same time he sent me the same information, together with
+     instructions to hold Seminary Hill at all hazards, if driven back. Just previous to this, the
+     remainder of the First Corps, consisting of Robinson's and Rowley's divisions, came up. I
+     immediately directed Gen. Robinson to station his division in reserve at the seminary, and to
+     throw up some slight intrenchments, to aid me in holding that point in case I should be driven
+     back. I divided Rowley's division, sending Stone's brigade to the open space on the right of
+     the wood, to close the interval between Cutler and Meredith. The other brigade, under Col.
+     Biddle, One hundred and twenty-first Pennsylvania Volunteers, was posted on the left and rear
+     of the Iron Brigade, toward the Millerstown road. Gen. Rowley had charge of this part of the
+     line. Later in the day he intrusted the extreme left to Col. Gates, Twentieth New York State
+     Militia, who, with his own regiment and the One hundred and fifty-first Pennsylvania
+     Volunteers, under Lieut.-Col. McFarland, stubbornly maintained it to the last. He was greatly
+     aided in this by two companies of skirmishers from his regiment, who occupied a house and barn
+     in advance of our left, on the other side of the ravine. I relied greatly on Stone's brigade to
+     hold the post assigned them, as I soon saw I would be obliged to change front with a portion of
+     my line to face the northwest, and his brigade held the pivot of the movement. My confidence in
+     this noble body of men was not misplaced, as will be shown hereafter. They repulsed the
+     repeated attacks of vastly superior numbers at close quarters, and maintained their position
+     until the final retreat of the whole line. Stone himself was shot down, battling to the last.
+     The gallant Col. Wister, who succeeded him in command, was also wounded, and the command
+     devolved upon Col. Dana, of the One hundred and forty-third Pennsylvania Volunteers. This
+     brigade, in common with almost every regiment in the Third Division, were Pennsylvanians, and
+     were actuated by a heroic desire to avenge the invasion of their native State.</p>
+    <p>Gen. Howard now formed his lines to resist the advance of Ewell's corps, which came from the
+     northeast. The corps of A. P. Hill, opposite us, at once made a junction with the new-comers.
+     This compelled me also to change front, with Wadsworth's division on Stone's brigade as a
+     pivot, so that the two branches of my line of battle were facing, the one west, the other
+     northwest. I relied upon the woods and ridges to partially shield the troops from an enfilading
+     fire. In consequence of Ewell's new line of battle, Wadsworth threw back Cutler's brigade to
+     Seminary Ridge, to avoid a battery upon his flank. Both Tidball's and Reynolds' batteries were
+     obliged to retire, as they were exposed to a cross-fire from two directions. Capt. Reynolds was
+     badly wounded in the eye, but for a long time refused to leave the field.</p>
+    <p>Col. Stone, who had been contending with very little shelter against the rebel infantry and
+     two batteries on the other side of the run, suffered some loss from the same enfilading battery
+     which had rendered a change of front necessary on the part of Wadsworth. Leaving Col. Wister's
+     regiment, the One hundred and fiftieth Pennsylvania Volunteers, still facing the west, he threw
+     successively Lieut.-Col. Dwight, with the One hundred and forty-ninth Pennsylvania, and Col.
+     Dana, with the One hundred and forty-third Pennsylvania, into the Cashtown road, facing a
+     little east of north. As this left an open space of some 200 yards between the right of Stone
+     and the left of Cutler, and as the rebels at this time were not making any strong
+     demonstrations against our left, Cooper's battery fired through the interval, and Biddle's
+     brigade changed front to support it.</p>
+    <p>Shortly after this, Lieut. Wilber, of Battery L, First New York Artillery, was sent, in
+     answer to a request from Gen. Wadsworth for a battery, and posted in an orchard on the south
+     side of the Cashtown road, where the right flank was sheltered by a house and barn. The
+     remaining two sections were posted on the open crest, also to the south of the road.</p>
+    <p>I had hoped Gen. Howard would have been able to connect with the right of my line, but after
+     Gen. Schurz had formed his division, there was a wide interval between the two corps. This gap
+     might have been filled by my falling back to the Seminary Ridge, but unfortunately that ridge
+     is open ground, and could have been, as it was afterward, enfiladed by Ewell's batteries
+     throughout its whole extent. Finding it necessary to stop this gap at all hazards, I directed
+     Gen. Robinson, whose division I had kept in reserve, to send one of his brigades there. He
+     detailed Gen. Baxter for that purpose. This brigade moved forward and formed on the right of
+     Wadsworth's division, but an interval still existed of nearly 400 yards between Baxter's right
+     and the Eleventh Corps. The enemy attacked in this interval, and were driven back by a change
+     of front. They then assailed the left flank of the brigade, obliging Baxter again to change
+     front. He drove the rebels before him in handsome style, but was constantly outflanked and
+     enfiladed. Nevertheless, the brigade behaved nobly, capturing a great number of prisoners, the
+     Eighty-eighth Pennsylvania taking two battle-flags and the Ninety-seventh New York one. They
+     were greatly aided in this by a galling fire poured in on the flanks of the enemy by the
+     Twelfth Massachusetts.</p>
+    <p>Finding Baxter was in danger of being overpowered, I directed Gen. Robinson to go in person
+     to his assistance with the remainder of his division (Paul's brigade). Stewart's battery, of
+     the Fourth U. S. Artillery, was also sent to report to Gen. Robinson. Part of Paul's brigade
+     was posted by Gen. Robinson as a support to Baxter against an enemy advancing on our front, and
+     part was posted perpendicular to our line to protect the right flank. Gen. Robinson says:</p>
+    <p>The enemy now made repeated attacks on the division, in all of which he was handsomely
+     repulsed, with the loss of three flags and about 1,000 prisoners. In one of these attacks I was
+     deprived of the services of the veteran commander of the First Brigade, Brig.-Gen. Paul, who
+     fell, severely wounded, while gallantly directing and encouraging his command. The division
+     held this position on the right, receiving and repelling the fierce attacks of a greatly
+     superior number, not only in front, but on the flanks, and, when the enemy's ranks were broken,
+     charging upon him, and capturing his colors and his men, from about noon until nearly 5 p. m.,
+     when I received orders to withdraw. These orders not being received until all the other troops,
+     except Stewart's battery, had commenced moving to the rear, the division held its ground until
+     outflanked right and left, and retired, fighting. From the nature of the enemy's attacks,
+     frequent changes were rendered necessary, and they were made promptly, under a galling fire.
+     Soldiers never fought better or inflicted severer blows upon the enemy. When out of ammunition,
+     their boxes were replenished from those of their killed or wounded comrades.</p>
+    <p>Ewell's forces advanced about 1.30 p. m. in two deployed lines, supported by a third line of
+     battalions en masse. A portion of these made the attack already referred to against Baxter's
+     left, in which they were repulsed. Their defeat was partly owing to the fact that they became
+     separated from their main line, and swung around in such a manner as to expose their flank to
+     Col. Stone's troops in the road, who took advantage of the opportunity to pour in a destructive
+     fire at long range.</p>
+    <p>Having thus failed in their assault upon Robinson's division, they next made a determined
+     advance against the two regiments in the road. To meet this, Col. Stone sent one of these
+     regiments, the One hundred and forty-ninth Pennsylvania, under Lieut.-Col. Dwight, forward to
+     the railroad cut. This formed en echelon about 100 yards to the front and left of Col. Dana's
+     regiment (One hundred and forty-third Pennsylvania Volunteers). In spite of two most effective
+     volleys of musketry, the enemy struggled on to within 30 yards of the cut. Here, however, they
+     were driven back in confusion by a spirited bayonet charge ordered by Lieut.-Col. Dwight. Dana
+     was at the same time warmly engaged in protecting the flank of the advanced regiment. The
+     enemy, immediately after this, brought a battery to enfilade the cut, and Dwight was forced to
+     fall back to his first position, on Dana's left.</p>
+    <p>It was in this affair that Col. Stone was severely wounded, and Col. Wister assumed command
+     of the brigade.</p>
+    <p>The rebels now advanced from the northwest to flank the two regiments in the road, but the
+     One hundred and fiftieth Regt., under Lieut.-Col. Huidekoper, changed front forward and met the
+     enemy precisely as Dwight had met them, with two volleys of musketry and a gallant bayonet
+     charge, led by Col. Wister in person; this dispersed them. Another desperate onslaught came
+     from the north, passed the railroad cut, and almost reached the road, only,</p>
+    <p>however, to encounter another defeat from the irresistible bayonets of our men. The next
+     attack came from the west, but was again repulsed by the indomitable One hundred and fiftieth
+     Regt.</p>
+    <p>Col. Wister was now severely wounded in the face. Col. Dana, who assumed command, contested
+     the position with varying fortunes until the close of the battle. Just previous to this, the
+     brave and resolute Lieut.-Col. Huidekoper had faced four companies of his regiment to contend
+     with the opposing forces from the west, while six companies kept of an entire brigade from the
+     north. Lieut.-Col. Huidekoper lost his arm at this point, and as Maj. Chamberlain was also
+     wounded, the command devolved upon Capt. Widdis.</p>
+    <p>Lieut.-Col. Dwight was left upon the field wounded in three places, and fell temporarily into
+     the hands of the enemy. Every regiment of Stone's brigade changed front forward, and two
+     regiments changed front to the rear while closely engaged. The most eminent military writers
+     regard the first movement as difficult, and the last as almost impossible, to be executed under
+     fire.</p>
+    <p>About 4 p. m. the enemy, having been strongly re-enforced, advanced in large numbers,
+     everywhere deploying into double and triple lines, overlapping our left for a third of a mile,
+     pressing heavily upon our right, and overwhelming our center. It was evident Lee's whole army
+     was approaching. Our tired troops had been fighting desperately, some of them for six hours.
+     They were thoroughly exhausted, and Gen. Howard had no re-enforcements to give me. It became
+     necessary to retreat. All my reserves had been thrown in, and the First Corps was now fighting
+     in a single line.</p>
+    <p>It is stated by Gen. Wadsworth in his official report that the portion of the Eleventh Corps
+     nearest to us, unable to stand the pressure, had fallen back some time before this, and that
+     our right flank was thus uncovered, so far as that corps was concerned. Biddle's brigade about
+     this time again changed front to meet the strong lines advancing from the west. I now gave
+     orders to fall back, this and Meredith's brigades covering the movement by occupying the
+     intrenchments in front of the seminary, which I had directed to be thrown up as a precautionary
+     measure to assist in holding the new position. Cooper's battery was assigned by the chief of
+     artillery on the north, and Stevens' battery (Fifth Maine) on the south of the seminary, and
+     the shattered remnants of the Iron Brigade also fell into line. From behind the feeble
+     barricade of rails these brave men stemmed the fierce tide which pressed upon them incessantly,
+     and held the rebel lines, which encircled them on three sides, at bay until the greater portion
+     of the corps had retired. The One hundred and fifty-first, One hundred and forty-second, One
+     hundred and twenty-first Pennsylvania Volunteers, and Twentieth New York State Militia, of
+     Biddle's command (the last two under Col. Gates, of the Twentieth New York State Militia), and
+     the Second and Seventh Wisconsin and Nineteenth Indiana, of the Iron Brigade, here made their
+     final stand. Capt. [Hollon] Richardson, acting assistant inspector-general, of Meredith's
+     staff, rode up and down the lines, waving a regimental flag and encouraging the men to do their
+     duty.</p>
+    <p>The troops, with the assistance of part of Stewart's battery, under Lieut. Davison, poured in
+     so deadly a fire as to wholly break up and disable the first line of the enemy approaching from
+     the west; but the other lines pressed on, and soon commenced a flank attack, which it was no
+     longer possible to answer. When all the troops at this point were overpowered, Capt. Glenn, of
+     the One hundred and forty-ninth Pennsylvania Volunteers, in command of my headquarters guard,
+     defended the building for fully twenty minutes against a whole brigade of the enemy, enabling
+     the few remaining troops, the ambulances, artillery, &amp;, to retreat in comparative
+     safety.</p>
+    <p>The batteries had all been brought back from their advanced positions and posted on Seminary
+     Hill. They greatly assisted the orderly retreat, retarding the enemy by their fire. They lost
+     heavily in men and horses at this point, and, as they retired to the town, were subjected to so
+     heavy a fire that the last gun was left, the horses being all shot down by the enemy's
+     skirmishers, who had formed line within 50 yards of the road by which the artillery was obliged
+     to pass.</p>
+    <p>The First Corps only consisted of about 8,200 men when it entered the battle. It was reduced
+     at the close of the engagement to about 2,450. It must be remembered that A. P. Hill's corps
+     alone, which fought us on the west, was estimated at 35,000 men, of which 25,000, under Heth
+     and Pender, were in line opposed to us, and that Ewell's corps, which attacked us on the north,
+     was said to amount to 30,000 more. Its two divisions with which we contended, under Rodes and
+     Early, contained about 20,000 men. Reserves amounting to 20,000 additional men, belonging to
+     the two corps, and backed by the whole rebel army, were within a few hours' march. When that
+     part of the Eleventh Corps adjacent to us fell back, a force of 30,000 men was thrown upon the
+     First Corps, which in the beginning only contained about 8,200.</p>
+    <p>I remained at the seminary superintending the final movement until thousands of hostile
+     bayonets made their appearance around the sides of the building. I then rode back and rejoined
+     my command, nearly all of whom were filing through the town. As we passed through the streets,
+     the pale and frightened inhabitants came out of their houses, offering us food and drink and
+     the expression of their deep sorrow and sympathy. The written statements of the division
+     commanders in regard to the details of this p riod are slightly conflicting. I therefore
+     present extracts from the reports themselves. Gen. Robinson has already been quoted.</p>
+    <p>The operations of the day were of necessity accompanied by severe losses in killed, wounded,
+     and missing, on account of the great disparity in numbers and the prolonged nature of the
+     contest. This preliminary battle, however, had the most important bearing on the results of the
+     next two days, as it enabled the whole army to come up and re-enforce the admirable position to
+     which we had retreated. Had we retired earlier in the day, without co-operation with the other
+     parts of the army, the enemy by a vigorous pursuit might have penetrated between the corps of
+     Sickles and Slocum, and have either crushed them in detail or flung them off in eccentric
+     directions. The whole retreat from the commencement was most creditable to the troops engaged.
+     There was no hurry and no confusion, but the regiments fell back calmly, turning from time to
+     time to check the enemy's advance by volleys of musketry, and again retreating. From the
+     admixture of so many different regiments at the seminary, it became impossible to reorganize
+     them in good order without a delay which would have exposed the men to certain destruction. I
+     saw, however, no running or undue haste. All the troops passed tranquilly on, although the
+     enemy was firing into the m from the side streets, and all reformed promptly on their arrival
+     at Cemetery Hill, and in a very short time were again ready for service. The Sixth Wisconsin
+     marched through the streets in a body, stopping from time to time to return the fire of the
+     enemy, and giving hearty cheers for the good old cause and the Sixth Wisconsin Volunteers.</p>
+    <p>I have said the losses were exceedingly heavy. More than half of those who went into the
+     battle were killed or wounded. In the Second Wisconsin, 69 came back out of 302; in the
+     Nineteenth Indiana, 78 returned out of 288; the One hundred and fiftieth Pennsylvania
+     Volunteers, Col. Wister's regiment, out of about 400 men and 17 officers, lost, in killed,
+     wounded, and missing, 16 officers and about 316 men; the One hundred and and forty-ninth
+     Pennsylvania Volunteers lost in the same proportion.</p>
+    <closer>
+     <salute>I have the honor to be, very respectfully, your obedient servant,</salute>
+     <signed>A. DOUBLEDAY, Maj.-Gen. of Volunteers.</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

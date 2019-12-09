@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+
+<?dlps id="R0050"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 n="au" id="R0050">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main">Gettysburg, 52nd Va. Infantry, Report of Lieut. Col. H.P. Jones,
+                    August 18, 1863</title>
+        <title type="sort">gettysburg, 52nd va infantry report of lieut col h p jones august 18 1863</title>
+        <author>Jones, H.P.</author>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Peter Brownfeld</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">10</num> kilobytes</extent> 
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <publisher>University of Virginia</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">R0050</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1999 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved.</p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:500099</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>CHAP. XXXIX N. C., VA., W. VA., MD., PA., ETC., No. 478 Report of
+                            Lieut. Col. H.P. Jones, C.S. Army, commanding Artillery Battalion.</title>
+            <title type="uniform">The War of The Rebellion: Official Records of the
+                            Union and Confederate Armies</title>
+            <title type="sort">chap xxxix n c , va w va md pa etc no 478 report of lieut col h p jones c s army commanding artillery battalion</title>
+            <author>H.P. Jones</author>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p>Series I. Vol. 27. Part II. Reports. Serial No. 44.</p>
+                    </editionStmt>
+                    <extent>Page 495</extent>
+                    <publicationStmt>
+                        <publisher>Broadfoot Publishing Company</publisher>
+                        <pubPlace>Wilmington, NC</pubPlace>
+                        <date value="1997">1997</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Publisher</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1863-08-18">1863-08-18</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>American Civil War</term>
+                    <term>Regiment: 52nd Va. Inf.</term>
+                    <term>Battle: Gettysburg</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="R0050T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Lieut. Col. H. P. Jones commanded the Artillery Battalion of the Army of Northern
+                    Virginia which included the Staunton Artillery. Jones reports that on July 1st,
+                    the battalion fired at the retreating enemy.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient"> Maj. John W. Daniel, Assistant Adjutant-Gen. </name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1863-08-18">August 18, 1863.</date>
+                    </dateline>
+                    <salute>Sir</salute>
+                </opener>
+                <p>I have the honor to make the following report of the operations of this battalion
+                    from the time it was attached to Gen. Early's division until its return into
+                    Virginia:</p>
+                <p>After resting at York one day, we marched back in the direction of Gettysburg,
+                    before which place we arrived on Wednesday, July 1. Here, finding the enemy
+                    heavily engaging Gen. Rodes on our right, the major-general commanding ordered
+                    me to put the batteries in position, so as to open fire. Acting under his
+                    orders, I immediately placed twelve guns in position, and opened fire with
+                    considerable effect on the enemy's artillery, and upon the flank of a column of
+                    troops that were being massed upon our right.</p>
+                <p>On the advance of Gen. Gordon's brigade from our right, we directed our fire
+                    farther to the left, on the disordered masses of the enemy that were rapidly
+                    retreating before our troops. This was continued until the advance of our men
+                    rendered it dangerous to continue firing from that position. I immediately, by
+                    order of Gen. Early, sent Capt. Carrington's battery across the creek to take
+                    position in front of Gettysburg, but, moving with all rapidity, as it did,
+                    before it could reach any position the enemy had been driven through the town by
+                    Hays' brigade. In the first position we occupied, three guns were temporarily
+                    disabled by having shots wedged in the bores, and one Napoleon permanently
+                    disabled by being struck on the face of the muzzle and bent by a solid shot from
+                    the enemy.</p>
+                <p>We had 1 man killed of Capt. Green's, and 1 man of Capt. Garber's battery
+                    wounded. The guns that were temporarily disabled were soon rendered fit for
+                    service again, and I was enabled to replace the Napoleon gun permanently
+                    disabled by one of the two Napoleon guns captured by Gen. Hays' brigade. The
+                    disabled gun and the other captured Napoleon I had carried and turned over to
+                    the ordnance department, thereby securing them.</p>
+                <p>In the other two days of the battle of Gettysburg, my battalion was not actively
+                    engaged, but was in position to guard against a reported flank movement of the
+                    enemy on our left, and afterward any advance the enemy might attempt to make
+                    from the hills in front of Gettysburg.</p>
+                <p>On the 2d, I ordered two guns of Capt. Green's battery, at the request of Gen.
+                    Stuart, to report to Gen. Hampton at Hunterstown, where he engaged the enemy,
+                    with a loss of 1 man killed and 1 sergeant and 14 men wounded.</p>
+                <p>Capt. Tanner having exhausted his ammunition, excepting a few rounds of canister,
+                    and it being impossible to supply him, I ordered him to go with the wagon train
+                    to the rear. When this was attacked in the mountains, he rendered very efficient
+                    service with his few rounds of canister, driving back the enemy's cavalry. Here
+                    he lost 2 men, missing. On reaching Williamsport, he received more ammunition,
+                    and rendered good service when the wagon train was attacked, with a loss of 1
+                    man and 2 horses killed and 1 horse disabled.</p>
+                <p>On the morning of the 5th, we fell back from Gettysburg, the division bringing up
+                    the rear of the army, and continued our march to Hagerstown, where we remained
+                    in line of battle a few days; then recrossed the river. Two empty wagons,
+                    ordered to report to the surgeon at Gettysburg, to bring off the wounded, have
+                    never since been heard from. One forge sent over with the wagon train was lost
+                    at the river.</p>
+                <p>In the expedition to and around Hedgesville, Capt. Tanner's battery was detached,
+                    and went to Johnsontown with Col. [Lawrence S.] Baker, commanding cavalry
+                    brigade, where it fired a few rounds at the enemy across the river. From
+                    Hagerstown to this point the horses suffered very much from long marches and
+                    want of proper food.</p>
+                <p>My thanks are due to both officers and men for their conduct in presence of the
+                    enemy and the patience with which they endured the hardships of the campaign.</p>
+                <closer>
+                    <salute>I am, major, very respectfully, your obedient servant,</salute>
+                    <signed>H. P. JONES, Lieut.-Col., Comdg. Artillery Battalion.</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

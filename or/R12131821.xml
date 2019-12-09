@@ -1,0 +1,304 @@
+<?xml version="1.0"?>
+
+<?dlps id="R12131821"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 n="au" id="R12131821">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">CHAP. XXXIII. Union Correspondence.</title>
+        <title type="sort">chap xxxiii union correspondence</title>
+        <author>Sigel, Franz</author>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name/>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">19</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <publisher>University of Virginia</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">R12131821</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1999 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved.</p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:498792</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>CHAP. XXXIII. Union Correspondence.</title>
+            <title type="uniform">The War of The Rebellion: Official Records of the
+                            Union and Confederate Armies</title>
+            <title type="sort">chap xxxiii union correspondence</title>
+            <author>Sigel, Franz</author>
+            <respStmt>
+                            <resp>Translator:</resp>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p>Series 1, Volume 21, Serial No. 31</p>
+                    </editionStmt>
+                    <extent>Pages 820-823</extent>
+                    <publicationStmt>
+                        <publisher>Broadfoot Publishing Company</publisher>
+                        <pubPlace>Wilmington, NC</pubPlace>
+                        <date value="1997">1997</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Publisher</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1862-12-03">1862-12-03</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term/>
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="R12131821T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Union General Franz Sigel forwards a December, 1862, scouting report to General
+                    Burnside. The report, made by one Joseph Snyder, describes all manner of
+                    Confederate activity. He reports sick being sent to Staunton, gives a
+                    description of the industry, hospitals, and defenses of the town, and reports
+                    that it forms the only telegraph link between Winchester and Richmond. Snyder
+                    also reports on the farming and wheat production of Valley citizens.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    HDQRS. ELEVENTH CORPS, ARMY OF THE POTOMAC
+                    <name type="recipient">Maj.-Gen. BURNSIDE,<lb/> Cmdg., &amp;c.:</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1862-12-03">December 3, 1862.</date>
+                        <name type="place">Fairfax Court-House, Va.,</name>
+                    </dateline>
+                    <salute>GEN.:</salute>
+                </opener>
+                <p>The following is a report of Joseph E. Snyder, one of the best scouts in this
+                    corps. He was, as he says, taken prisoner and conveyed to Richmond. His report
+                    is full of interesting details and valuable information, and indicates that he
+                    is a close and accurate observer of objects and movements. I regard him as a
+                    very reliable man, but desire that his report be not published in the
+                    newspapers, as he is still a scout, and might be tried as a spy in case he was
+                    again made a prisoner.</p>
+                <p>I forward it for your examination.</p>
+                <closer>
+                    <salute>Very respectfully, your most obedient servant</salute>
+                    <signed>F. SIGEL,<lb/> Maj.-Gen., Cmdg. Eleventh Corps.</signed>
+                    <seg type="postscript">Inclosures.<lb/> Monday, October 27.--Leaving
+                        headquarters in the morning, on my way toward Upperville, I was intercepted
+                        by a squadron of rebel cavalry, under Maj. Breckinridge, who had been on a
+                        scouting expedition toward Bloomfield and Union, the latter place being in
+                        possession of our cavalry. My arrival at Upperville seemed to have excited
+                        the curiosity of the commander, Gen. Walker, who had but newly taken up his
+                        quarters, with two brigades of infantry, one battery, and six companies
+                        porary but lengthy examination, in the presence of Gen.'s Ransom, Munford,
+                        and a number of other officers, followed. On stating that I was a soldier of
+                        Gen. Sigel's corps, the general commanding appeared to be very inquisitive
+                        as to the strength and position of his opponent, of whom (according to his
+                        own statement) he seemed to have but bare information. Upon the sudden
+                        arrival of scouts, I was quickly ordered to return to the guard-house,
+                        leaving them rejoicing over the defeat of the Yankee cavalry at Snicker's
+                        Gap.<lb/> Tuesday, October 28.--The continued advance of the Yankees from
+                        Union caused some uneasiness in camp during the day.<lb/> Wednesday, October
+                        29.--Alarm was given at 1 a.m. The cavalry force, soon mounted, was ordered
+                        to advance to meet the Yankees, who were, according to the report of scouts,
+                        advancing in force upon Upperville. The infantry was soon brought in line to
+                        support the cavalry. By daylight the whole wagon train, having been ordered
+                        back, arrived at Paris, which was followed by the infantry and artillery by
+                        noon, when, to the surprise of the rebels, 27 Yankee cavalry charged through
+                        the town of Upperville, taking several prisoners, and among them the
+                        provost-marshal (Capt. Jones), but, for cause unknown, abandoned them.<lb/>
+                        Thursday, October 30.--Before reaching Berryville, I passed fifteen
+                        regiments of infantry, nineteen field pieces, mostly steel rifle, under Maj.
+                        Gen. A. P. Hill, destined for Ashby's Gap. Berryville and its vicinity were
+                        almost deserted by the rebels, while the forces under Jackson and J. E. B.
+                        Stuart occupied positions toward Martinsburg and Charlestown, with pickets
+                        at the latter place.<lb/> Friday, October 31.--Longstreet's army corps
+                        commenced passing through the street of Winchester yesterday morning, and
+                        close to-day. It consisted mostly of infantry, estimated at 50,000 men, no
+                        less than sixty field pieces, and a small force of cavalry, en route for
+                        Front Royal. Gen. Lee having left for Richmond, Gen. Jackson was in chief
+                        command.<lb/> Saturday, November 1.--Great activity is displayed in removing
+                        the sick to Staunton. Winchester and its vicinity is garrisoned and picketed
+                        by the First Louisiana Brigade, First Regt. Maryland Infantry, and squadron
+                        of Maryland Cavalry, with pickets extending north 6 miles.<lb/> The 2d, 3d,
+                        4th, 5th, 6th, 7th, and 8th were days of constant arrival of prisoners,
+                        stragglers, exchanged prisoners from the Southern capital to join their
+                        commands. Newspapers from North and South were received daily. The
+                        appearance of Yankee cavalry within 6 miles of the city, by way of Hancock;
+                        the continual advance of McClellan's forces toward Warrenton; Sigel on
+                        Manassas and Ashby's Gap, and the maneuver of the Yankees at Wardensville,
+                        created quite a consternation among the chivalry. A daily evacuation was
+                        spoken of; the sick and wounded were more vigorously removed, while all
+                        movable conveyances in and about the city were pressed for the immediate use
+                        of the army. The fortifications northeast of the town were neither
+                        garrisoned nor guarded; they retained the same appearance as when evacuated
+                        by the Yankees. The conscript crop has turned out, like at other places
+                        South, a failure, several dozen being the gatherings of no less than six
+                        counties, and of that number five refused to take up arms under all
+                        circumstances, but subjected themselves to close imprisonment for a period
+                        of time, but finally yielded.<lb/> Gen. Longstreet's corps, having been
+                        encamped on the Front Royal road, 9 miles from Winchester, resumed its march
+                        on the 2d and 3d of November, to meet Gen. Lee at Culpeper, who was reported
+                        awaiting him, having 15,000 men under his command. The arrival of a report,
+                        received on the evening of the 4th, claiming a grand victory over Gen.
+                        Sigel, and the utter rout of the Yankees under him by Jackson and Hill,
+                        created quite a jubilee among the citizens and soldiers, and their pale
+                        countenances displayed the chivalric smile once more. Soon their common brag
+                        began to make its rounds--Jackson was again ready to advance and enter
+                        Maryland. The cry, "Winchester is not going to be evacuated," was hailed in
+                        the streets. Army supplies were arriving slowly, consisting of flour,
+                        tobacco, blankets, clothing, and shoes, sufficient to clothe 20 men of each
+                        regiment in Jackson's corps. The arrival of 103 Yankee prisoners, captured
+                        by White's guerrillas at Snicker's Gap; to buying of Yankee clothing and
+                        exchanging Confederate scrip for greenbacks, assumed the appearance of quite
+                        a business in and about the prison, while the small-pox did its duty at the
+                        hospital. The regular arrival of Northern papers and mail matter was
+                        surprising--my authority, a Maryland, and orderly to Gen. George H. Steuart,
+                        who had been in the habit of supplying me with his daily Southern gas. I
+                        obtained sufficient information to convince me that the business is carried
+                        on by Marylanders, not alone citizens, but also by soldiers, by crossing the
+                        river a few miles above Williamsport, and 4 miles below Martinsburg.<lb/>
+                        Sunday, November 9.--Arriving at Strasburg, leaving about 1,200 head of
+                        cattle a mile behind, the division, under Gen. D. H. Hill, consisting of
+                        infantry and several batteries of field pieces, just entered the town from
+                        Front Royal, under orders to re-enforce Jackson. The commissary department
+                        in this place was well supplied with crackers, bacon, and flour.<lb/>
+                        Monday, November 10.--D. H. Hill leaves at daybreak for Winchester.<lb/>
+                        Tuesday, November 11.--The hospitals at Mount Jackson are filled with the
+                        transient custom. No garrison. Commissary stores in abundance. The bridge in
+                        town not rebuilt. The one over the Shenandoah, 1 1/2 miles distant from
+                        Mount Jackson, is nearly completed, and represents a substantial structure.
+                        The abundance of water and grass at this locality seems to have induced the
+                        rebels to herd their beef-cattle there, which seem to be equal in abundance
+                        to buffaloes on the prairies of Kansas. Meeting wagons, few in number,
+                        loaded with blankets, &amp;c., from time to time. Big Spring, situate 9
+                        miles from Harrisonburg, is the rendezvous for trains, ordnance, and
+                        commissary depot.<lb/> Wednesday, November 12.--The farmers all along the
+                        valley are engaged in preparing their gain for the mills, hauling it for the
+                        use of the army. Harrisonburg, from appearance, is favored with a provost
+                        guard. Many a farmer from the surrounding country leaves it with a smile of
+                        his brow, with a full pocket of Confederate scrip, the proceeds of his
+                        productions and stock. Mount Crawford, a commissary supply depot, memorable
+                        for the unhappy bridge of Gen.'s Fremont and Shields. The bridge is rebuilt,
+                        and has every appearance of fine improvement.<lb/> Thursday, November
+                        13.--Approaching Staunton from the north side, with the mouths of cannons
+                        pointing toward you, one might suppose the rebels were occupying the same in
+                        force. Enter, and you feel surprised. The manufactories for boots, shoes,
+                        and clothing for army use, the extensive hospital preparations for thousands
+                        of sick, the general supply depot, the place of safe-keeping of all the
+                        captured Harper's Ferry plunder, is defended by one company of the
+                        Sixty-first Virginia Infantry, twenty-four field pieces, and a mixture of
+                        cavalry and artillery, although small in number. The estimated number of
+                        sick in this place is 2,000, and the report of the Yankees having dashed
+                        within 16 miles of the place the previous night, nearly caused the removal
+                        of them to Richmond.<lb/> Friday, November 14.--The Virginia Central
+                        Railroad has been in fine running condition, and has been the main line of
+                        nearly all supplies sent to the Army of Northern Virginia. The only direct
+                        telegraphic communication from Winchester to Richmond is via Staunton, along
+                        this road. Charlottesville, a pleasant village on the railroad, is partly
+                        used as a military hospital, with a provost guard to defend it. The cry of
+                        danger was visible here to a greater extent; the fear of an early capture of
+                        Staunton, the advance of the Yankees toward Fredericksburg, the slow
+                        movements of their generals, were openly discussed, and the Richmond
+                        Government not being able to comply with the wishes of the inhabitants by
+                        sending re-enforcements, they claimed their situation a most perilous one;
+                        so spoke the first Union man in Dixie Gordonsville, the junction of the
+                        Orange and Virginia Central Railroads, and place of great newspaper
+                        notoriety for military defenses and concentration of forces; a roomy
+                        railroad depot, several large frame buildings, newly erected by the
+                        Confederates, is nearly all there is of interest. Fortifications were
+                        nowhere visible. I endeavored to gain my point by raising questions among
+                        those that I came in contact with, but being made to understand that I was
+                        not here to take notes, I failed. To the best of my ability I discovered but
+                        small camps within the immediate vicinity. The depot, as well as other
+                        buildings, contained large army supplies. If there are any least 9 miles
+                        north of the junction. The arrival of exchanged soldiers, convalescents, and
+                        conscripts was great in number, having been the gatherings for a few days
+                        past, and, owing to the unsafely in sending them by way of Staunton up the
+                        valley, they were retained here for further orders.<lb/> Wednesday, November
+                        19.--The Richmond papers announcing the occupation of Staunton by the
+                        Yankees, and their rapid advance upon Charlottesville, urging the
+                        authorities to repair immediately to meet the invaders and drive them where
+                        they belong before making any further progress.<lb/>
+                    </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

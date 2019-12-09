@@ -1,0 +1,660 @@
+<?xml version="1.0"?>
+
+<?dlps id="R41127889"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 n="au" id="R41127889">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Report of T. N. Waul.</title>
+        <title type="sort">report of t n waul</title>
+        <author>Waul, T. N.</author>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name/>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">52</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <publisher>University of Virginia</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">R41127889</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1999 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved.</p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:500044</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Report of T. N. Waul.</title>
+            <title type="uniform">The War of The Rebellion: Official Records of the
+                            Union and Confederate Armies</title>
+            <title type="sort">report of t n waul</title>
+            <author>Waul, T. N.</author>
+            <respStmt>
+                            <resp>Translator:</resp>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p>Series 4, Volume 1, Serial No. 127</p>
+                    </editionStmt>
+                    <extent>Pages 883-891</extent>
+                    <publicationStmt>
+                        <publisher>Broadfoot Publishing Company</publisher>
+                        <pubPlace>Wilmington, NC</pubPlace>
+                        <date value="1997">1997</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Publisher</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1862-01-29">1862-01-29</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term/>
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="R41127889T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>T. N. Waul reports in detail on a January, 1862, examination of the Confederate
+                    Quartermaster, Commissary, and Medical Departments. Waul outlines problems and
+                    suggests solutions for clothing, feeding, and paying the army, and caring for
+                    sick and wounded soldiers. He discusses conditions in Staunton hospitals,
+                    including their good track record in healing the sick. Also of interest is
+                    Waul's tribute to the dedication and helpfulness of Confederate citizens,
+                    especially women.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                
+                <opener>
+                    <dateline>
+                        <date value="1862-01-29">WEDNESDAY, January 29, 1862.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>Mr. Waul, from the special committee appointed to examine into the
+                    Quartermaster's, Commissary, and Medical Departments, made a report, which was
+                    laid on the table and ordered to be printed, and is as follows, to wit:<lb/>
+                    REPORT.</p>
+                <p>The committee appointed under the resolution of Congress "To inquire into the
+                    organization and administration of the Medical, Commissary, and Quartermaster's
+                    Departments, and to report what changes in the laws and regulations are
+                    necessary and proper," beg leave to report, that after the passage of the
+                    resolution they called upon the Secretary of War and obtained his zealous
+                    co-operation, and, provided with letters from him, they visited the departments
+                    referred to, the principal army corps and posts, hospitals, and depots, every
+                    facility being afforded them by the officers in charge for the favorable
+                    prosecution of their inquiries.</p>
+                <p>The resolution comprises all that relates to the supply and transportation of
+                    troops in the field or in camp, or that tends to promote the health and comfort
+                    of the soldier-it embraces the administration of the civil polity of the Army,
+                    as distinguished from its command.</p>
+                <p>The labors of these departments penetrate the entire military establishment,
+                    breathe life into the Army, nurture its growth, give it strength and efficiency
+                    in the field, maintaining its health and facilitating its movements; vigilant,
+                    prepared, and present, it moves unnoticed amid the stirring events of the field,
+                    and obscured by the dust and smoke of the combat it remains unobserved even
+                    while collecting the fruits of victory.</p>
+                <p>To insure success in a military enterprise, its civil administration should be
+                    harmonious with and subordinate to its command. The inefficiency of a
+                    quartermaster or commissary may effectually check the progress of an army, and
+                    the demands of an officer may destroy the most perfect administration, through
+                    his inability to comprehend the difficulties or even the facilities for
+                    procuring subsistence or transportation.</p>
+                <p>That the immense Army now in the service of the Confederacy, suddenly
+                    collected-men and officers generally inexperienced in camp life and military
+                    duty-should be clothed, fed, armed, and moved with the facility of a permanent
+                    organization, was not to be expected, and in guarding against abuses or
+                    suggesting changes, it is with a view to present emergencies, temporary in their
+                    character, rather than to subvert a system of regulations simple in their
+                    construction, yet comprehensive enough when properly administrated to achieve
+                    the objects intended.</p>
+                <p>QUARTERMASTER'S DEPARTMENT.</p>
+                <p>The Quartermaster's Department is expected to give effect to the movements and
+                    operations of the Army, prepare quarters, hospitals, camp and garrison equipage,
+                    transportation, and all military stores, provisions, ordnance, and ordnance
+                    stores, furnish storage for all military supplies; provide fuel, forage, and
+                    straw; supply blankets, shoes, and clothing; procure cavalry and artillery
+                    horses, purchase and have the custody of all horses, mules, and oxen, harness,
+                    wagons, carts, boats, and other means of transportation; contract for and
+                    regulate the transportation of troops and supplies upon railroads and
+                    steam-boats. It is responsible for the prompt and safe transmission of all
+                    supplies; for the payment of the troops when in service or discharged, and in
+                    general contract and pay for such services as are not specially designated in
+                    the duties of any other department.</p>
+                <p>The committee was greatly assisted in its investigations by the system of entries
+                    and analysis of estimates and disbursements in the office of the
+                    Quartermaster-Gen. at Richmond, by which it is enabled to determine not only the
+                    supplies and transportation on hand and where located, but also the exact state
+                    of the account of every officer attached to that department throughout the Army.</p>
+                <p>These returns and entries show that clothing, camp and garrison equipage are
+                    accumulated at depots situated in Richmond, New Orleans, Memphis, Charleston,
+                    Savannah, San Antonio, and Fort Smith, to be distributed, upon requisition, to
+                    the troops in their vicinity. These supplies, together with shoes and blankets,
+                    are on hand, or have been distributed in such quantities as, with the aid given
+                    by the contributions of States and individuals, to place our troops beyond the
+                    danger of suffering during the present winter; while the experience of the past,
+                    the knowledge of the resources of the country, and the power to husband,
+                    systematize, and render them available, furnishes an encouraging prospect for
+                    the future.</p>
+                <p>Clothing and commutation.--It is the duty of the Confederacy to have the Army
+                    well clothed and, to attain this end, no commutation in money should be allowed
+                    until it appears that the volunteer has supply of clothing at least equal to the
+                    amount allowed by the regulations. If furnished from private resources with the
+                    principal articles, the commutation money due might be paid to the captains to
+                    be expended, first in procuring such articles as are necessary to make up the
+                    deficiency, and the balance given to the volunteer.</p>
+                <p>Depots for supplies.--The number and extent of the depots for arms, ordnance,
+                    clothing, and stores for the consumption of the Army should be greatly increased
+                    and established at secure places near the fields of operation.</p>
+                <p>Railroad transportation.--The amount of transportation required demands that
+                    every legitimate means should be used to increase the capacity of that branch of
+                    the service, and for this purpose the committee recommend that military control
+                    be taken of the principal railroad routes terminating at or passing through
+                    Richmond, Nashville, Memphis, Atlanta, and all route leading to the headquarters
+                    of our several army corps, which should be placed under the direction of an
+                    efficient superintendent, free from local interests, investments, or connection
+                    with special railroads. Great delay, inconvenience, and expense is caused by the
+                    numerous unconnected tracks, which, if joined by links, short in distance, would
+                    not only increase the facilities for transportation and the capacity of the
+                    roads, but would save much time, labor, and expense in transferring troops and
+                    freight.</p>
+                <p>There is a deficiency of rolling-stock on the most used and important railways
+                    and branches which could be remedied under a proper administration and
+                    distribution of stock, taken from roads where there is a superabundance, and
+                    adding where deficient, thus equalizing the supply throughout the Confederacy.
+                    Wherever deficient, thus equalizing the supply throughout the Confederacy.
+                    Wherever desirable for the public defense, the same stock should pass over the
+                    longest available route, and when the width of the grades differ the roads
+                    should approach to proximity until a change of width would permit the connection
+                    to be perfected. With proper management the capacity of the principal routes can
+                    be increased to six trains each way per day, with an average speed of ten miles
+                    an hour, while the present transportation is not above two trains a day, and the
+                    rate of speed not more than six miles an hour.</p>
+                <p>Wagon transportation.--The committee are satisfied that the wagon transportation
+                    is inadequate, and if the Army was furnished with the full amount allowed by the
+                    present Regulations, it would still be insufficient. Our volunteers arrive in
+                    the service unused to camp life, encumbered by an allowance of clothing hardly
+                    sufficient for their need, yet beyond the amount allowed by Regulations.
+                    Overtaken by disease, and with conveniences though scanty, yet forbidden by the
+                    frugality and thrift suited to the educated soldier, when a movement is made,
+                    the line of march may be traced by the cheap comforts and extra blankets cast
+                    aside, to be deeply regretted by the soldier at his next camping ground. From
+                    causes like these much suffering has been endured by our troops in exposed
+                    situations, especially in Western Virginia, where the transportation was barely
+                    sufficient to keep subsistence enough for the daily ration while on the march
+                    from Jackson's River to Sewell Mountain.</p>
+                <p>The amount and necessity for accumulated transportation has been greatly
+                    increased by permitting the Army to feed and forage upon the neighborhood where
+                    stationed, each succeeding day widening the circle which it exhausts, and to the
+                    same extent protracting the distance for transportation, in addition to
+                    destroying the source of supply by taking from the country its present
+                    subsistence, and its means for furnishing another crop.</p>
+                <p>This system enhances the price of all products to the Army and the inhabitants,
+                    until, forced to abandon their residences, they emigrate in pursuit of cheap
+                    food, and leave their homes depopulated. By adopting a different policy, with
+                    the judicious use of railways to penetrate the productive regions, and by the
+                    aid of wagon transportation, connecting with the neighboring granaries, the
+                    supply might be rendered regular, cheap, and of better quality.</p>
+                <p>Hospitals and stations.--Connected with, and auxiliary to, this subject, the
+                    committee advise that hospitals and stations for the wounded, sick, and
+                    convalescent should be provided at a distance from the camps or crowded cities
+                    wherever pure aid, good water, and an abundance of food would recommend them,
+                    leaving for the use of the able, active soldier a large quantity of food and
+                    transportation, and removing from the Army an incubus which, with its limited
+                    transportation, renders rapid movement impracticable.</p>
+                <p>Transport trains.--Transportation being the motive power of the Army, without it
+                    the most thoroughly organized and disciplined corps is useless and its services
+                    unavailable. To be efficient it should be systematized and trained to a
+                    performance of its duties. Competent wagon-masters should be selected, and an
+                    enlisted or hired number of teamsters engaged, who, by their skill, attention,
+                    and adaptation to this service, would faithfully perform their obligations.</p>
+                <p>The custom of detailing volunteers for this service is fraught with trouble;
+                    horses, harness, and wagons are neglected until a movement is required, when the
+                    death, disease, or starved condition of the horses, the loss of harness and
+                    breakage of wagons, render it impossible, or its performance so defective that
+                    suffering to the sick, loss of baggage to the well, and discomfiture to the
+                    designs best arranged and matured are the probable results.</p>
+                <p>Payment of troops and creditors.--Admitting the efficiency of the Quartermaster's
+                    Department, as at present constituted for a peace establishment, to be equal to
+                    the duties with which it is charged, it would be relieved of much of the
+                    embarrassment and complication caused by the magnitude of the present war should
+                    a separate pay department by established.</p>
+                <p>Some discontent has arisen among the troops from a failure to pay them with
+                    regularity, particularly at posts and places distant from headquarters of the
+                    homes of the volunteers.</p>
+                <p>To detail an instructed and experienced quartermaster from headquarters for this
+                    service would frequently leave a post or important position unsupplied and the
+                    necessary routine neglected, and to send an officer new to the service and
+                    unacquainted with its duties would result in injury to the department, ruin to
+                    the officer, or loss to the soldier. Punctually is important in all the dealings
+                    of Government; it is particularly so with its Army. The troops should be paid
+                    every two months, and to insure its punctuality the pay-rolls should be prepared
+                    after each muster under the superintendence of an inspector and handed over to
+                    the officers of the Pay Department for payment.</p>
+                <p>The system in force in the U. S. Army might be adopted by adding thereto
+                    paymasters, with the rank of captain, requiring the senior paymaster in each
+                    district to make an estimate and receive funds for the whole of his district
+                    upon estimates made by the regimental quartermasters, who might pay their
+                    regiments from the funds receive for that purpose from the district paymaster,
+                    leaving the field and staff of the divisions and brigades and other floating
+                    accounts to be settled by the district paymaster.</p>
+                <p>The quartermasters unattached to regiments and acting as pay officers might be
+                    transferred to the Pay Department, and by their experience facilitate the
+                    adjustment of accounts and payments of troops at points where there are no
+                    regiments, the sick at general hospitals, and discharged soldiers. The need of
+                    this supervising power has caused large amounts of money to be twice paid to
+                    soldiers discharged for debility, necessity requiring in many cases payments to
+                    be made upon the statement of the soldier himself. Some dissatisfaction has been
+                    manifested by the creditors of this and the Subsistence Department from the want
+                    of punctuality in settling the debts contracted to be paid at the specified
+                    time, and this uncertainty of payment has caused exactions to be made and prices
+                    demanded of the Government officers greatly above the market rate, particularly
+                    at places distant from the capital, where credit is all important. This has been
+                    aggravated by the difficulty in preparing Treasury notes, the absence of
+                    facilities for transferring the funds, the trouble and responsibility of
+                    transmission, as well as the more pressing emergencies, or urgent solicitations
+                    of claimants, more convenient to headquarters.</p>
+                <p>SUBSISTENCE DEPARTMENT.</p>
+                <p>To maintain an abundant and regular supply of provisions for the soldiers is the
+                    paramount duty of the commissary of subsistence, and to it everything else must
+                    be subordinate. To economize the public money and to justify expenditure and
+                    disbursement by well-authenticated accounts are important considerations, but
+                    even these must yield to the one great object of military administration-to keep
+                    the soldier in fighting condition at all times and under all circumstances.</p>
+                <p>Without system in the administration of this department the most fertile genius
+                    would prove powerless, and the most abundant resources insufficient; yet, so
+                    varying are the circumstances attending active warfare, so much influenced by
+                    the character of the operations, the resources and extend of the country, the
+                    disposition of the population, the confidence and credit in the Government, that
+                    far more reliance must be placed upon the intelligence, the ability, and the
+                    zeal of the commissary than upon any system established for general guidance. It
+                    is in availing himself of every expedient, in seizing every opportunity, in
+                    guarding against all risks and providing for all contingencies that the highest
+                    qualities of a good officer are put to the test. He must not rely on rumors or
+                    trust to probabilities; he must depend upon his own judgment and energy, and, by
+                    exerting all his foresight, skill, and decision, anticipate the wants of the
+                    troops in whatever position they may be placed.</p>
+                <p>The machinery, perfectly adapted to a season of peace and a country replete with
+                    resources, would entirely fail during a state of war with the ordinary source of
+                    supply stopped or diminished.</p>
+                <p>The returns of this department show that although its chief supply has been
+                    obtained within the Confederacy, heretofore considered insufficient to support
+                    its population, with an untiring, vigilant, and remorseless enemy surrounding
+                    and endeavoring by every means to starve as well as subjugate, we have had our
+                    Army well fed, and with an amount on hand so large as to place us beyond the
+                    reach for want for the ensuing campaign, and trusting in a kind Providence for
+                    our usual seasons and the preparations that are made throughout the Confederacy
+                    for the next crop, we need fear no coming want.</p>
+                <p>Purchasing agents.--To protect the department against the fluctuations and
+                    combinations of trade, which are considered legitimate and generally used
+                    against the Government where it enters the market as an open purchaser, the
+                    Commissary-Gen. should have power, with the approval of the Secretary of War, to
+                    select agents from able and practical business men to make purchases at distant
+                    points, and a proper discretion allowed them, without referring to the
+                    department for confirmation.</p>
+                <p>Rations and cooks.--The ration, as restricted by the Regulations, is in many
+                    respects unsuited to the habit of our volunteer force. Rice and corn-meal,
+                    hominy, peas, tea, milk, molasses, and vegetables (particularly potatoes and
+                    onions), should be distributed whenever they can be reasonably obtained, and
+                    substituted, by a scale to be prepared by the commissary, for the ordinary
+                    ration. Flour should only be given in cases of necessity, or where ovens are
+                    used by the company or regiments. Bakeries should be established for hard bread
+                    at places convenient to the different army corps. Ovens should be erected in
+                    every regiment and loaves of bread distributed, so as to avoid the unwholesome
+                    mass which constitutes the ordinary specimen of cooking by Southern soldiers.
+                    Cooks should be hired or enlisted, at least two to each company, so that
+                    well-cooked, wholesome meals may be regularly served, and the cooking inspected
+                    at each meal under the direction of the officer of the day. To insure small
+                    comforts, the committee recommend that 2 or 3 cents per day be allowed each
+                    volunteer, to be disbursed by the captain. That the ration of coffee and sugar
+                    be increased to ten pounds of coffee and fifteen pounds of sugar for 100 men.
+                    That the surplus rations be under the charge of one of the sergeants, whose duty
+                    it shall be to sell them and purchase vegetables and other food not supplied by
+                    the Government, for the benefit of the company.</p>
+                <p>Hospital rations.--The regulations provide that the rations not consumed in the
+                    hospitals shall be commuted in money and constitute a hospital fund, from which
+                    articles for the sick may be obtained. Under this regulation no money has been
+                    furnished the regimental commissaries, and the sick are unprovided for, or
+                    forced to use the ordinary ration of beef, bacon, and coffee. This neglect calls
+                    for an immediate remedy.</p>
+                <p>Sutlers.--The comfort of the volunteer would be consulted by a definite number of
+                    sutlers, judiciously selected, properly restricted, and a tariff of prices with
+                    moderate profits adopted. Much information has been obtained by the committee
+                    from the Commissary Department, to be submitted to Congress, but the answer of
+                    the Commissary-Gen. to the resolution of Congress including all that is
+                    important, and in more elaborate form, the committee beg leave to refer to that
+                    communication for the routine of purchase, &amp;c.</p>
+                <p>MEDICAL DEPARTMENT.</p>
+                <p>In relation to the Medical Department, in its organization and administration,
+                    your committee report that there is, in the laws regulating that department, no
+                    want of power for its efficiency, and, except in a few particulars, no necessary
+                    for a change in the regulations which control it.</p>
+                <p>The authority of the Surgeon-Gen. is ample in the direction of he administration
+                    of his department, and, under ordinary circumstances, the medical staff is,
+                    perhaps, sufficiently numerous. But, in visiting the camps and hospitals, your
+                    committee were deeply impressed with the inadequacy of the preparations and
+                    provisions for the comfort of the sick soldiers, as well as the obvious causes
+                    for the unusual amount of disease prevailing amongst the troops. Much is to be
+                    ascribed to the nature of the service and the persons who compose the Army. The
+                    volunteers when at home were not generally accustomed to care for themselves,
+                    usually living in families who provided for their comfort and nursed them in
+                    sickness, unused to exposure, and entirely unaccustomed to the preparation of
+                    their food. When in addition to this it is considered that the summer was
+                    unusually rainy, and that a very large proportion of the men contracted the
+                    measles in the camps, it could not be otherwise than that there should be great
+                    suffering and great mortality. It is the peculiar characteristic of measles that
+                    the system is left liable to the invasion of the most formidable diseases, upon
+                    exposure a short time after undergoing an attack. Fever, pneumonia and diarrhea,
+                    the scourges of camps and armies, follow in the wake of measles where the
+                    convalescents are exposed to cold and wet; and when to this we add unsuitable
+                    diet, badly-ventilated tents and hospitals, there can be no surprise at the
+                    number of sick in the Army, as well as the great suffering and distress.</p>
+                <p>Your committee found in some regiments but one surgeon or assistant surgeon,
+                    sometimes a private detailed from the ranks, who happens to be a physician, the
+                    number of sick too great for any one man to attend properly, placed under his
+                    care. The diseases prevalent in the Army are camp fever, measles, pneumonia,
+                    diarrhea, and dysentery. All of them partook of the depressing character of the
+                    camp fever, being of a typhus tendency. In some localities the typhoid fever was
+                    found greatly aggravated in its progress by the general morbid influence of the
+                    atmosphere of the camps.</p>
+                <p>The armies on the Potomac and in Western Virginia suffered greatly; those troops
+                    in Cheat Mountain and in the vicinity of the Kanawha Valley most intensely. The
+                    wet and changeable climate, the difficulty of transportation, exposure to cold
+                    and rain, without tents, the necessary consequence of the frequent forward and
+                    retrograde movements, as well as the impossibility of a always obtaining
+                    suitable food for either sick or well me, produced most of the sickness and
+                    greatly aggravated it after its accession.</p>
+                <p>There were no hospitals in reach of those armies, and it became necessary to
+                    subsidize all suitable buildings in reach for the use of the sick, who often
+                    accumulated so rapidly as to fill them to crowding.</p>
+                <p>The rapid movements of armies hourly expecting battle created a necessity for the
+                    removal of the sick into the rear at a time when transportation was greatly in
+                    demand and at all times insufficient. Under these circumstances the sick in all
+                    stages of disease-sometimes when merely moving them must be fatal-were crowded
+                    into wagons and delivered at points where, from their unexpected number, there
+                    was no adequate provision either for their food or shelter, and in such cases
+                    the suffering as well as the mortality was greatly increased.</p>
+                <p>The diseases in the Peninsula were exceedingly severe and the cases very
+                    numerous. They were usually of the miasmatic character, to which men from the
+                    upper country would be subject. These, too, were greatly aggravated by measles,
+                    which also scourged these camps. In the early part of the campaign there was a
+                    great deficiency of hospital accommodation there, but now, in Yorktown and
+                    Williamsburg, that want has been in a great measure supplied.</p>
+                <p>Whenever hospital accommodation was possible, and a due regard paid by those in
+                    charge, much of the suffering of the sick was avoided, especially where those
+                    hospitals were within a convenient distance, and the transportation at all
+                    adequate to the gentle and merciful removal of the sick and helpless.</p>
+                <p>Your committee were impressed with several evils which, as they are clearly
+                    within the reach of remedy by the present laws, will be mentioned, as those
+                    which could be obviated by a more full administration of their provisions.</p>
+                <p>First, upon examination of the medical stores at the various hospitals and camps,
+                    with a few exceptions, they were incomplete and insufficient in many of the
+                    leading and necessary articles for the prevailing diseases. Second, there was a
+                    great deficiency in surgical instruments, and those in possession of the
+                    surgeons often very inferior and ill adapted to the service. This they, however,
+                    feel assured was the result in a great measure of the almost insuperable
+                    difficulty of obtaining a supply in the present state of our commercial atrophy.
+                    But it is presumed that sufficient encouragement would secure the manufacture of
+                    instruments within the Confederate States. The Surgeon-Gen. assured the
+                    committee that this difficulty was in a fair way to be overcome. This, the great
+                    insufficiency of transportation to be devoted to the service of the Medical
+                    Department, in the camps and at the hospitals. A great increase is
+                    indispensable; the want of it has produced much of the mortality and much of the
+                    suffering. Sick men, on the advance of the enemy, are crowded into common wagons
+                    and ambulances, moved rapidly over bad roads, jolted and rendered uncomfortable,
+                    the maladies aggravated, and, in many instances, dying in the removal. Fourth,
+                    the regulations requiring reports from the regiments as to the number of sick,
+                    their diseases and the wants of the medical station, have not been complied
+                    with. The result of this neglect is that, upon a change of position in the Army,
+                    it has been the unhappy consequence that the number of sick greatly exceeded
+                    that indicated by the reports. They have been hurried to the rear, where the
+                    accommodations, both as to food, shelter, and medical attendance, being all
+                    insufficient, there has been great suffering and great mortality. Upon inquiry
+                    the committee learned from the department of the Surgeon-Gen. that on various
+                    occasions, without sufficient notice, large numbers of sick have reached
+                    Richmond in the cars, when attention to them was impossible. Your committee also
+                    found upon examination that the regulation requiring that the regimental surgeon
+                    should, whenever a sick soldier was sent to the hospital, his descriptive roll
+                    as well as the nature of his disease, should accompany him, has been sadly
+                    neglected. The evil of this neglect is felt in the impossibility of prompt
+                    medical treatment, as well as the almost insurmountable difficulty which
+                    obstructed every effort of friends to find and identify those to whom their
+                    attentions were so desirable. No legislation is necessary to cure this evil. The
+                    fault is with the surgeons and the officers of the regiments and the posts.
+                    Their authority is complete, and the evils referred to arise from the want of
+                    its exercise. In none of the hospitals accurate lists of the sick, convalescent,
+                    discharged, and dead have been found, but in a vast majority of instances that
+                    list, instead of being made from regimental returns accompanying the sick have
+                    been the result of inquiry and observation by the hospital surgeon. When to this
+                    is added that the absence of the descriptive roll prevented the sick from the
+                    use of their pay in the purchase of comforts for themselves, your committee feel
+                    it due to truth and justice to notice this neglect as seriously injuring the
+                    service. Fifth, the indifferent as well as the unwholesome food provided for the
+                    sick, and the use of which by well men made them sick, attracted the attention
+                    of the committee. The rations were wholesome, sound, and abundant, but the
+                    cooking, particularly the bread, rendered it unsuitable for either sick or
+                    healthy men. Bread hastily made up of flour and water add imperfectly baked,
+                    almost incapable of being digested, was deemed a most fruitful source of
+                    disease. It was apparent at those camps where well-baked bread was served to the
+                    men that the amount of disease was greatly reduced. We think bakeries in
+                    Richmond and other convenient localities might be provided, and by serving good
+                    bread to the soldiers the saving in material would greatly overbalance any
+                    expense to the Government. Until good bread is furnished to the Army we look in
+                    vain for a permanent restoration of health. The rapid recovery of many who have
+                    been permitted to return home to get well demonstrates the efficacy of wholesome
+                    and nutritious diet rather than the use of medicines. The great majority of the
+                    deaths result from the want of proper nutriment, such as the impaired digestion
+                    of the patient can assimilate, and without which it is impossible for him to
+                    recover. At Norfolk, at Staunton, at Charlottesville, the amelioration of the
+                    condition of the sick, by improved nutriment and comfortable hospitals and
+                    hospital surgeons, was strikingly apparent. The sickness and mortality at
+                    Norfolk were inconsiderable because of the fresh vegetables, the good bread,
+                    good hospitals, and all the comforts necessary for the sick. Sixth, the
+                    establishment of a corps of nurses for the camps, as well as the sick in camps.
+                    Good nursing is of equal value to medical attention. Without it the best skill
+                    is often unavailable. Constant attention and control of the sick cannot be
+                    dispensed with, and the faithful application of remedies prescribed cannot be
+                    expected from the attention of casual nurses. Our volunteer army are
+                    unaccustomed to such duties, and we shall vainly look for great improvement
+                    without the presence of constant and competent nurses for the sick.</p>
+                <p>Much of the insufficiency of the medical staff is to be attributed to unavoidable
+                    evils in the mode of appointment in the sudden organization of so large an army.
+                    It was impossible for the head of this Bureau to be thoroughly informed of the
+                    fitness of applicants for the position sought by them in the medical staff. He
+                    was necessarily dependent upon such means of information as the circumstances
+                    would allow, and depended mainly upon the recommendations of the field officers
+                    of the regiments to which the surgeons and their assistants were to be assigned.
+                    In this way many very young and inexperienced persons were recommended and
+                    appointed, and much evil resulted from their want of qualification for their
+                    duties. The older and best of the physicians of the country were not usually
+                    applicants for the places, and the selection was to be made from those who
+                    offered their services. The history of the war up to a month or two since has
+                    fully developed this evil, and the institution of a board of examiners, it is
+                    hoped, may afford some remedy. The service demands the best talents and the most
+                    enlarged experience, and the greatest circumspection is indispensable in
+                    assigning to such responsible duties those who seek appointments in the medical
+                    staff.</p>
+                <p>The want of medical stores is the result, in a great measure, of the existing
+                    blockade, and the expense and difficulty in procuring those foreign medicines
+                    which are indispensable for the sick, and it is but just to say that great and
+                    unusually successful efforts have been made by the department in obtaining them.
+                    The hospitals established by many of the States for the sick and wounded, and
+                    the admirable manner in which they have been conducted, demonstrates that, with
+                    the same care on the part of the Confederate Government, the condition of the
+                    sick and the prospects of recovery would be greatly improved. Hospital room and
+                    an increase of hospital surgeons and assistants are greatly needed.</p>
+                <p>In connection with the views of the committee upon the means best adapted to the
+                    preservation of the health of the Army and the restoration of the sick, they
+                    would call attention to the necessity of providing some practical, simple, and
+                    easy mode of obtaining furloughs for sick soldiers to visit their homes.</p>
+                <p>The regulations requiring the certificate of the surgeon of regiments or
+                    hospitals when the sick are far distant from their command, and the certificates
+                    of commanding officers opposing the application, is, in a large proportion of
+                    the cases, a virtual denial of the privilege. Observation proves that whenever
+                    it is possible to remove the sick, in the low depressing diseases of the camp,
+                    preying as much on the mind and spirits of the sufferer as on his body, a
+                    furlough and return to home and its associations caused speedy recoveries and
+                    return to duty. Some modifications of the law and regulations on this subject in
+                    indispensably necessary, or we may look with apprehension for the recuperation
+                    of our Army by volunteers in the spring. They wound recommend such legislation
+                    as would reach all cases removed from the regiments to hospitals by authorizing
+                    those in command of stations to grant furloughs or discharges and simplify the
+                    process by which they are obtained, whilst sick, under the immediate observation
+                    of regimental authority.</p>
+                <p>The committee cannot close this part of the subject without a testimonial to the
+                    kindness and patriotism of our citizens at home, manifested in their unremitting
+                    efforts to supply the wants and relieve the sufferings of the soldiers, sick and
+                    well. The supply of money, clothing, and hospital stores derived from this
+                    generous source is not only of immense value in itself, but the most cheering
+                    indication of the spirit of our people in the case of our independence. The
+                    women of the country, with the tenderness and generosity of their sex, have not
+                    only loaded the cars with all those appliances for the comfort of the sick which
+                    their patriotic ingenuity could devise, but have also come to the rescue in
+                    clothing those who are well and bearing arms in the field. They have made large
+                    pecuniary contributions, taken charge of the hospitals established by the
+                    States, and, as matrons of those institutions, have carried cleanliness and
+                    comfort to the gallant soldier far from home and kindred. To the women of the
+                    country simple gratitude demands that public thanks be given and a public
+                    acknowledgment of their faithfulness in the glorious work of effecting our
+                    independence. As a part of their duty, the committee visited and examined the
+                    prisons and hospitals of the prisoners in Richmond. The sick and wounded are
+                    fully cared for, and the food furnished for all was both wholesome and ample.
+                    There was no cause of complaint in the entire management. Both medical attention
+                    and the supply of necessaries for food were such as justice and humanity
+                    demanded.</p>
+                <p>Inspection and reports.--The health, comfort, and efficiency of the Army results
+                    less from defects in legislation than the proper enforcement of the Regulations
+                    and a regular and thorough system of inspection.</p>
+                <p>The offices of adjutant and inspector general, now united, have distinct and
+                    separate duties. The labors of the adjutant generally confine him to his desk;
+                    those of the inspector demand his active presence in the field. The adjutant is
+                    the channel of communication in all matters relating to the discipline and
+                    organization of the Army, and these officers are constantly occupied with the
+                    details of service and in office duties. The duty of the inspector is, by
+                    personal investigation, to learn whether the rules and regulations of the Army
+                    are properly enforced, and to report when, where, by whom, and in what manner
+                    they have been neglected.</p>
+                <p>A detail of the duties and the requirements of the reports are embraced in the
+                    following sections of the Army Regulations:</p>
+                <p>INSPECTION REPORTS.</p>
+                <p>462. Inspection reports will show the discipline of the troops, their instruction
+                    in all military exercises and duties; the state of their arms, clothing,
+                    equipments, and accouterments of all kinds; of their kitchens and messes; of the
+                    barracks and quarters at the post; of the guard-house, prisons, hospital,
+                    bake-house, magazines, store-houses, and stores of every description; of the
+                    stables and horses; the condition of the post school, the management and
+                    application of the post and company funds; the state of the post and regimental
+                    and company books, papers, and files; the zeal and ability of the officers in
+                    command of troops, the capacity of the officers conducting the administrative
+                    and staff services, the fidelity and economy of their disbursements, the
+                    condition of all public property, and the amount of money in the hands of each
+                    disbursing officer; the regularity of issues and payments; the mode of enforcing
+                    discipline by courts-martial, and by the authority of the officers; the
+                    propriety and legality of all punishments inflicted; and any information
+                    whatsoever concerning the service in any matter or particular that may merit
+                    notice or aid to correct defects or introduce improvements.</p>
+                <p>463. Inspectors are required particularly to report if any officer is of
+                    intemperate habits, or unfit for active service by infirmity or any other cause.</p>
+                <p>The importance and extent of these duties show that all the time, attendance, and
+                    labor of an efficient corps is necessary for their performance, with such rank
+                    as to induce respect and obtain able and energetic officers. The separation
+                    would be less imperative in an army thoroughly organized and disciplined, but
+                    the immense number of raw recruits and uninstructed officers renders it
+                    indispensable to indoctrinate as well as to supervise. The reports should be
+                    made to the Inspector-Gen. at the War Department, as well as to the commander to
+                    whose staff the inspector is attached, thereby insuring the performance of the
+                    duties by the inspectors enforcing the requirements for officers to remedy
+                    defects throughout their command, and bringing before the Secretary of War
+                    knowledge of the condition of the Army.</p>
+                <p>Medical Inspectors.--By the Regulations the medical director is made the
+                    inspector of hospitals, and required to enforce the regulations, &amp;c.
+                    Like the adjutant, his time is so much occupied by the details of service that
+                    in most instances this important duty has been neglected, and the committee
+                    suggest, for the consideration of Congress, if it is not due to the proper care
+                    of the sick and the protection of the well from disease to add officers to the
+                    present medical staff, whose duties should require them to inspect and report
+                    upon the sanitary condition and police of hospitals, camps, and posts occupied
+                    by troops, and the skill and efficiency of the officers, stewards, nurses, and
+                    employees attached to this department.</p>
+                <closer>
+                    <salute>All of which is respectfully submitted.</salute>
+                    <signed>T. N. WAUL,<lb/> For the Committee.</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+
+<?dlps id="R1271027"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 n="au" id="R1271027">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">CHAP. XXXIX. Confederate Correspondence.</title>
+        <title type="sort">chap xxxix confederate correspondence</title>
+        <author>Lee, Robert E.</author>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name/>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent> 
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <publisher>University of Virginia</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">R1271027</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1999 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved.</p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:498985</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>CHAP. XXXIX. Confederate Correspondence.</title>
+            <title type="uniform">The War of The Rebellion: Official Records of the
+                            Union and Confederate Armies</title>
+            <title type="sort">chap xxxix confederate correspondence</title>
+            <author>Lee, Robert E.</author>
+            <respStmt>
+                            <resp>Translator:</resp>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p>Series 1, Volume 27, Serial No. 45</p>
+                    </editionStmt>
+                    <extent>Pages 1027</extent>
+                    <publicationStmt>
+                        <publisher>Broadfoot Publishing Company</publisher>
+                        <pubPlace>Wilmington, NC</pubPlace>
+                        <date value="1997">1997</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Publisher</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1863-07-20">1863-07-20</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term/>
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="R1271027T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Robert E. Lee writes General Richard Ewell concerning July, 1863, troop movements
+                    in the Valley. Lee reports that he ordered Imboden's cavalry from Staunton to
+                    Winchester.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Hdqrs. Army of Northern Virginia
+                    <name type="recipient">Lieut. Gen. R. S. Ewell,<lb/> Comdg. Corps:</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1863-07-20">July 20, 1863.</date>
+                    </dateline>
+                    <salute>Gen.:</salute>
+                </opener>
+                <p>Unless I receive contrary information to what I now possess, Gen. A. P. Hill's
+                    corps will move in the morning for Rappahannock County.</p>
+                <p>Gen. Stuart has been directed with his cavalry to continue in the Valley until he
+                    finds the forces of the enemy sufficiently reduced; then to withdraw, and
+                    interpose his forces between the enemy and the portion of the army east of the
+                    Blue Ridge. He will notify you of all movements of the enemy of any importance.</p>
+                <p>I have directed Gen. Imboden to return to Winchester with his troops from
+                    Staunton.</p>
+                <p>Col. Imboden with his cavalry will remain with you until you leave the Valley,
+                    and you must give directions to all the other troops.</p>
+                <p>I think it probable that you will be required to follow me in a few days, so be
+                    prepared with provisions, &amp;c., to move at short notice.</p>
+                <p>I have directed Col. Wharton, who commands such troops from Gen. Sam. Jones as
+                    have arrived, to occupy Winchester and to receive your instructions.</p>
+                <p>Should you not require Col. James B. Terrill (now in Winchester, belonging to
+                    Early's division), I suggest that he be directed to move to Front Royal, to
+                    guard the pontoon bridge, which I will leave there for you.</p>
+                <p>I suggest that you move higher up the Valley, in the direction of Berryville or
+                    Milwood, so as to be prepared to vacate the Valley if pressed by superior
+                    numbers, or to join me, as circumstances may require.</p>
+                <p>Should your line of march by Chester Gap be cut off, you can proceed west of the
+                    Massanutten Mountain, and go by Thornton's or Swift Run Gap.</p>
+                <p>I will march with A. P. Hill's corps. Please send me any information of the
+                    enemy's movements which you may deem important.</p>
+                <closer>
+                    <salute>I am, very respectfully, your obedient servant,</salute>
+                    <signed> R. E. LEE,<lb/> Gen.</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+
+<?dlps id="R0045"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 n="au" id="R0045">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main">Gettysburg, 5th Va. Infantry, Report of Maj. Gen. Edward Johnson,
+                    September 30, 1863</title>
+        <title type="sort">gettysburg, 5th va infantry report of maj gen edward johnson september 30 1863</title>
+        <author>Johnson, Edward</author>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Peter Brownfeld, Virginia Center for Digital History</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">15</num> kilobytes</extent> 
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <publisher>University of Virginia</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">R0045</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1999 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved.</p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:500094</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>CHAP. XXXIX N.C., VA., W.VA., MD., PA., ETC., No. 481, Reports of
+                            Maj. gen. Edward Johnson, C.S. Army, commanding division.</title>
+            <title type="uniform">The War of The Rebellion: Official Records of the
+                            Union and Confederate Armies</title>
+            <title type="sort">chap xxxix n c , va w va md pa etc no 481 reports of maj gen edward johnson c s army commanding division</title>
+            <author>Edward Johnson</author>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p>Series I. Vol. 27. Part II. Reports. Serial No. 44</p>
+                    </editionStmt>
+                    <extent>Page 503</extent>
+                    <publicationStmt>
+                        <publisher>Broadfoot Publishing Company</publisher>
+                        <pubPlace>Wilmington, NC</pubPlace>
+                        <date value="1997">1997</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Publisher</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1863-09-30">September 30, 1863</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>American Civil War</term>
+                    <term>Regiment: 5th Va. inf.</term>
+                    <term>Battle: Gettysburg</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="R0045T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Maj. Gen. Edward Johnson commanded the division of the Army of the Potomac which
+                    included the Army of Northern Virginia. Johnson reported a constant, bloody
+                    battle.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Hdqrs. Johnson's Division
+                    <name type="recipient">Maj. A. S. Pendleton, Assistant Adjutant-Gen. </name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1863-09-30">September 30, 1863</date>
+                    </dateline>
+                    <salute>Maj.</salute>
+                </opener>
+                <p>I have the honor to submit the following report of the operations of my division
+                    from June 15 to July 31, embracing the campaign in Pennsylvania and battle of
+                    Gettysburg:</p>
+                <p>The last day's march was 25 miles, rendered the more fatiguing because of
+                    obstructions caused by wagons of Longstreet's corps.</p>
+                <p>Late on the night of July 1, I moved along the Gettysburg and York Railroad to
+                    the northeast of the town, and formed line of battle in a ravine in an open
+                    field, Nicholls' brigade on the right, next Jones'; Steuart's and Walker's on
+                    the left. Pickets were thrown well to the front, and the troops slept on their
+                    arms.</p>
+                <p>Early next morning, skirmishers from Walker's and Jones' brigades were advanced
+                    for the purpose of feeling the enemy, and desultory firing was maintained with
+                    their skirmishers until 4 p. m., at which hour I ordered Maj. Latimer to open
+                    fire with all of his pieces from the only eligible hill within range, Jones'
+                    brigade being properly disposed as a support. The hill was directly in front of
+                    the wooded mountain and a little to the left of the Cemetery Hill; consequently
+                    exposed to the concentrated fire from both, and also to an enfilade fire from a
+                    battery near the Baltimore road. The unequal contest was maintained for two
+                    hours with considerable damage to the enemy, as will appear from the
+                    accompanying report of Lieut.-Col. Andrews. Maj. Latimer having reported to me
+                    that the exhausted condition of his horses and men, together with the terrible
+                    fire of the enemy's artillery, rendered his position untenable, he was ordered
+                    to cease firing and withdraw all of his pieces excepting four, which were left
+                    in position to cover the advance of my infantry.</p>
+                <p>In obedience to an order from the lieutenant-general commanding, I then advanced
+                    my infantry to the assault of the enemy's strong position--a rugged and rocky
+                    mountain, heavily timbered and difficult of ascent; a natural fortification,
+                    rendered more formidable by deep intrenchments and thick abatis--Jones' brigade
+                    in advance, followed by Nicholls' and Steuart's. Gen. Walker was directed to
+                    follow, but reporting to me that the enemy were advancing upon him from their
+                    right, he was ordered to repulse them and follow on as soon as possible.</p>
+                <p>The opposing force was larger and the time consumed longer than was anticipated,
+                    in consequence of which Gen. Walker did not arrive in time to participate in the
+                    assault that night.</p>
+                <p>By the time my other brigades had crossed Rock Creek and reached the base of the
+                    mountain, it was dark. His skirmishers were driven in, and the attack made with
+                    great vigor and spirit. It was as successful as could have been expected,
+                    considering the superiority of the enemy's force and position. Steuart's
+                    brigade, on the left, carried a line of breastworks which ran perpendicular to
+                    the enemy's main line, captured a number of prisoners and a stand of colors, and
+                    the whole line advanced to within short range, and kept up a heavy fire until
+                    late in the night. Brig.-Gen. Jones and Col. Higginbotham, Twenty-fifth
+                    Virginia, were wounded in this assault, and the command of Jones' brigade
+                    devolved upon Lieut.-Col. Dungan.</p>
+                <p>Early next morning, the Stonewall Brigade was ordered to the support of the
+                    others, and the assault was renewed with great determination. Shortly after, the
+                    enemy moved forward to recapture the line of breastworks which had been taken
+                    the night previous, but was repulsed with great slaughter. Daniel's and Rodes'
+                    brigades (Col. [E. A.] O'Neal commanding), of Rodes' division, having reported
+                    to me, two other assaults were made; both failed. The enemy were too securely
+                    intrenched and in too great numbers to be dislodged by the force at my command.</p>
+                <p>In the meantime, a demonstration in force was made upon my left and rear. The
+                    Second Virginia Regt., Stonewall Brigade, and Smith's brigade, of Early's
+                    division, were disposed to meet and check it, which was accomplished to my
+                    entire satisfaction. No further assault was made; all had been done that it was
+                    possible to do.</p>
+                <p>I held my original position until 10 o'clock of the night of the 3d, when, in
+                    accordance with orders, I withdrew to the hill north and west of Gettysburg,
+                    where we remained until the following day, in the hope that the enemy would give
+                    us battle on ground of our own selection.</p>
+                <p>My loss in this terrible battle was heavy, including some of the most valuable
+                    officers of the command.</p>
+                <p>Maj. J. W. Latimer, of Andrews' battalion, the "boy major," whose chivalrous
+                    bearing on so many fields had won for him a reputation to be envied by his
+                    seniors, received a severe wound on the evening of the 2d, from the effects of
+                    which he has since died.</p>
+                <p>Maj. B. W. Leigh, my chief of staff, whose conscientious discharge of duty,
+                    superior attainments, and noble bearing made him invaluable to me, was killed
+                    within a short distance of the enemy's line.</p>
+                <p>Maj. H. K. Douglas, assistant adjutant-general, was severely wounded while in the
+                    discharge of his duties, and is still a prisoner.</p>
+                <p>My orderly, W. H. Webb, remained with me after being severely wounded. His
+                    conduct entitles him to a commission.</p>
+                <p>Fewer wounded from my division were left in the hands of the enemy than from any
+                    other division of the army; for which I am indebted to the active exertions of
+                    Chief Surg. R. T. Coleman.</p>
+                <p>Mr. E. J. Martin, my volunteer aide-de-camp, rendered valuable service by his
+                    prompt transmission of orders, and Maj. E. L. Moore faithfully performed his
+                    duties as assistant inspector-general.</p>
+                <p>The troops are much indebted to Majs. T. E. Ballard and G. H. Kyle, of the
+                    commissary department, for supplies during the trying period covered by this
+                    report. Cattle and flour were frequently procured within the enemy's lines.</p>
+                <p>All of the officers and men of the division who came under my observation during
+                    their three days' exposure to the enemy's incessant fire of musketry and
+                    artillery from the front and artillery from the left and rear behaved as brave
+                    men.</p>
+                <p>For particular instances of gallantry, I have the honor to refer you to the
+                    reports of brigade and regimental commanders, herewith transmitted.</p>
+                <p>I take pleasure in bearing testimony to the gallantry of Brig.-Gen. Daniel and
+                    Col. O'Neal, and to Brig.-Gen. [William] Smith, and their brigades, while under
+                    my command.</p>
+                <p>We marched on the 5th across the mountain, by Waynesborough, toward Hagerstown,
+                    and remained for a few days within 3 miles of the latter place. Thence the
+                    division moved 2 1/2 miles from Hagerstown, and formed line of battle on both
+                    sides of and perpendicular to the Hagerstown and Williamsport pike.</p>
+                <p>On the night of the 13th, I recrossed the Potomac 1 mile above Williamsport, and
+                    continued the march next day to within 4 miles of Martinsburg; thence to
+                    Darkesville on the 15th, where we remained until ordered to return to
+                    Martinsburg, to destroy the Baltimore and Ohio Railroad, and repel an advance of
+                    the enemy. This done, the division by steady marches recrossed the Blue Ridge at
+                    Front Royal, and went into camp near Orange Court-House about August 1.</p>
+                <p>The casualties in my division during the operations around Gettysburg were:
+                    Killed, 219; wounded, 1,229; missing, 375; total, 1,823.</p>
+                <closer>
+                    <salute>I am, major, with great respect, your obedient servant,</salute>
+                    <signed>ED. JOHNSON, Maj.-Gen.</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

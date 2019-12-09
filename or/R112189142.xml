@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+
+<?dlps id="R112189142"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 n="au" id="R112189142">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">CHAP. XXIV. Confederate Correspondence.</title>
+        <title type="sort">chap xxiv confederate correspondence</title>
+        <author>Jackson, Thomas J.</author>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name/>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent> 
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <publisher>University of Virginia</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">R112189142</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1999 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved.</p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:498682</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>CHAP. XXIV. Confederate Correspondence.</title>
+            <title type="uniform">The War of The Rebellion: Official Records of the
+                            Union and Confederate Armies</title>
+            <title type="sort">chap xxiv confederate correspondence</title>
+            <author>Jackson, Thomas J.</author>
+            <respStmt>
+                            <resp>Translator:</resp>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p>Series 1, Volume 12, Serial No. 18</p>
+                    </editionStmt>
+                    <extent>Pages 914-915</extent>
+                    <publicationStmt>
+                        <publisher>Broadfoot Publishing Company</publisher>
+                        <pubPlace>Wilmington, NC</pubPlace>
+                        <date value="1997">1997</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Publisher</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1862-06-17">1862-06-17</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term/>
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="R112189142T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Confederate General Thomas J. Jackson congratulates Cavalry Colonel Thomas
+                    Munford on a June,1862, victory in the Shenandoah Valley. Jackson orders Munford
+                    to send prisoners and captured supplies to Staunton. He arranges a meeting in
+                    the same place. Jackson also discusses how to deal with citizens driving cattle
+                    through Confederate lines.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Col. T. T. MUNFORD,<lb/> Cmdg. Cavalry, Valley District:</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1862-06-17">June 17, 1862.</date>
+                        <name type="place">NEAR WEYER'S CAVE,</name>
+                    </dateline>
+                    <salute>COL.:</salute>
+                </opener>
+                <p>I congratulate you upon the success of yesterday. Send the prisoners to Staunton,
+                    and also the captured property, if you can spare it. If you have need of it, let
+                    it be accounted for to Maj. J. A. Harman by your quartermaster as captured
+                    property, and as such taken up on his return.</p>
+                <p>If you can meet me in Staunton by 5 o'clock to-morrow morning I hope you will do
+                    so, as I desire to have a personal interview with you. Instead of sending your
+                    dispatches to Gen. Winder please continue to send them directed to me.</p>
+                <closer>
+                    <salute>Your most obedient servant,</salute>
+                    <signed>T. J. JACKSON,<lb/> Maj.-Gen.</signed>
+                    <seg type="postscript"> P. S.--I do not wish you to leave your command unless
+                        you can safely do so. I will be at Mount Sidney to-night about 10 o'clock.
+                        Can you meet me there? I will be on my horse at north end of the town, so
+                        you need not inquire after me. I do not desire it to be known that I am
+                        absent from this point. Encourage citizens in driving their cattle on this
+                        side of the lines, but do not take any further steps, and say to those who
+                        come on this side that of a few days they will have to remain on this side,
+                        as no one is permitted to pass the lines to the enemy's side.<lb/> T. J. J.</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

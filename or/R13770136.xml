@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+
+<?dlps id="R13770136"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 n="au" id="R13770136">
+ <teiHeader type="migrated">
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">CHAP. XLIX. Report of Colonel Thomas Morris.</title>
+        <title type="sort">chap xlix report of colonel thomas morris</title>
+        <author>Morris, Thomas</author>
+        <respStmt>
+          <resp>Creation of machine-readable version:</resp>
+          <name/>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name/>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. <num type="kilobytes">6</num> kilobytes</extent> 
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <publisher>University of Virginia</publisher>
+        <pubPlace>Charlottesville, Virginia</pubPlace>
+        <idno type="VCDH">R13770136</idno>
+        <!--
+    <availability>
+     <p>Text and images (c) Copyright 1999 by The Rector and Visitors of The University of Virginia.
+      All rights reserved.</p>
+     <p>URL: http://jefferson.village.virginia.edu/vshadow2</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:499313</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>CHAP. XLIX. Report of Colonel Thomas Morris.</title>
+            <title type="uniform">The War of The Rebellion: Official Records of the Union and Confederate
+       Armies</title>
+            <title type="sort">chap xlix report of colonel thomas morris</title>
+            <author>Morris, Thomas</author>
+            <respStmt>
+              <resp>Translator:</resp>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p>Series 1, Volume 37, Serial No. 70</p>
+          </editionStmt>
+          <extent>Pages 135-136</extent>
+          <publicationStmt>
+            <publisher>Broadfoot Publishing Company</publisher>
+            <pubPlace>Wilmington, NC</pubPlace>
+            <date value="1997">1997</date>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Publisher</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date value="1864-07-01">1864-07-01</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term/>
+          <term/>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+ <text id="R13770136T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>In June, 1864, Union troops advanced up the Shenandoah Valley, through Staunton to Lexington
+     and Lynchburg. In this dispatch, Union Colonel Thomas Morris reports on the role that the
+     Fifteenth West Virginia Infantry played in the campaign, including arrival at Staunton and
+     skirmishing in the area.</p>
+   </div1>
+  </front>
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     No. 18. Report of Lieut. Col. Thomas Morris, Fifteenth West Virginia Infantry.<lb/>
+     HDQRS. FIFTEENTH WEST VIRGINIA VOLUNTEERS,
+     <name type="recipient">Lieut. C. W. KIRBY,<lb/> Acting Assistant Adjutant-Gen.</name>
+    </head>
+    <opener>
+     <dateline>
+      <date value="1864-07-01">July 1, 1864.</date>
+      <name type="place">Camp Piatt, W. Va.,</name>
+     </dateline>
+     <salute>SIR:</salute>
+    </opener>
+    <p>I have the honor to submit the following report of my command during the late expedition,
+     from June 1 until the 29th:</p>
+    <p>On the 1st of June left Bunger's Mills, Greenbrier County, W. Va., and arrived at Staunton,
+     Augusta County, Va.; on the 8th, had considerable skirmishing with the enemy, but met with no
+     loss, marching a distance of 105 miles.</p>
+    <p>On the 10th left Staunton and proceeded to Lexington, via Middlebrook, where we skirmished
+     with the enemy, lost 1 man killed and 1 severely wounded. Distance from Staunton thirty-six
+     miles.</p>
+    <p>Left Lexington on the morning of the 14th and arrived at Liberty, on the Virginia and
+     Tennessee Railroad, on the morning of the 16th a distance of forty-five miles. Occupied the day
+     in destroying the railroad for a distance of eight miles.</p>
+    <p>On the morning of the 17th moved in direction of Lynchburg, a distance of sixteen miles,
+     engaged the enemy, my regiment forming the right of the Third Brigade, Second Infantry
+     Division; had 1 commissioned officer slightly wounded and 1 private severely wounded.</p>
+    <p>On the 18th, after some maneuvering, engaged the enemy about 1 p. m., and after a severe
+     engagement was withdrawn from the field with a loss of 5 killed and 63 wounded.</p>
+    <p>Commenced retreating on the evening of the 18th and arrived at Lewisburg, Greenbrier County,
+     W. Va., on the evening of the 26th, a distance of 148 miles.</p>
+    <p>Same evening left and arrived at this camp on the evening of the 29th, a distance of ninety
+     miles. Whole distance marched 448 miles. Loss in killed, wounded, and missing, 70.</p>
+    <p>The men are much wearied and exhausted, not one-half of my command being able for effective
+     duty at the present time.</p>
+    <closer>
+     <salute>I am, yours, very respectfully,</salute>
+     <signed>THOMAS MORRIS,<lb/> Lieut.-Col., Cmdg. Regt.</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+
+<?dlps id="R33124573"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 n="fr" id="R33124573">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Union Correspondence.</title>
+        <title type="sort">union correspondence</title>
+        <author>Cadwalader, George</author>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name/>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent> 
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <publisher>University of Virginia</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">R33124573</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1999 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved.</p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:500026</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Union Correspondence.</title>
+            <title type="uniform">The War of The Rebellion: Official Records of the
+                            Union and Confederate Armies</title>
+            <title type="sort">union correspondence</title>
+            <author>Cadwalader, George</author>
+            <respStmt>
+                            <resp>Translator:</resp>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p>Series 3, Volume 3, Serial No. 124</p>
+                    </editionStmt>
+                    <extent>Pages 573</extent>
+                    <publicationStmt>
+                        <publisher>Broadfoot Publishing Company</publisher>
+                        <pubPlace>Wilmington, NC</pubPlace>
+                        <date value="1997">1997</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Publisher</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1863-07-25">1863-07-25</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term/>
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="R33124573T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Union General George Cadwalader writes from Philadelphia in July, 1863, to
+                    General Darius Couch, commanding the Department of the Susquehanna at
+                    Chambersburg. Cadwalader requests that he be allowed to retain the services of
+                    General Dana, and reports on the progress of the draft in Pennsylvania. He
+                    reports that enrollment is going forward quietly in Philadelphia, but in
+                    Schuylkill County an armed force of resisters is rumored to be gathering and
+                    drilling. Cadwalader proposes making plans to deal with any emergency.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Maj. Gen. D. N. COUCH,<lb/> Comdg. Dept. of the
+                        Susquehanna, Chambersburg, Pa.:</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1863-07-25">July 25, 1863.</date>
+                        <name type="place">HDQRS.,<lb/> Philadelphia, Pa.,</name>
+                    </dateline>
+                    <salute>GEN.:</salute>
+                </opener>
+                <p>Your two telegrams of the 23d instant in relation to Maj.-Gen. Dana were dully
+                    received, and I have this morning received your letter of the same date by mail.</p>
+                <p>The services of Maj.-Gen. Dana will, as I have already informed you, be required
+                    here in the event of the troops now on duty here being called upon for active
+                    service, and in the meantime he is also rendering assistance to Professor Bache
+                    in the construction of the works for the defense of the city, with which he has
+                    been familiar, and which duties Professor Bache requested that he should
+                    continue to perform. I will therefore avail myself of your permission to retain
+                    Gen. Dana here for the present.</p>
+                <p>It seems from your letter just received that you had not received my letter of
+                    the 18th instant addressed to Harrisburg informing you of my having been
+                    assigned to the command here by the Gen.-in-Chief. The receipt by you of the
+                    copy of my instructions, which I subsequently transmitted to you to
+                    Chambersburg, supplied you with the information contained in my former letter.</p>
+                <p>The draft is progressing quietly here, and we do not anticipate any different
+                    until it is attempted to take the drafted men who do not report.</p>
+                <p>I think it proper to state that I hear from different sources of a strong
+                    combination in Schuylkill County, in this State, to resist the arrest of drafted
+                    men. It is also stated by some of the citizens of Pottsville to consist of about
+                    3,000 men, armed, and having officers who are said to be drilling them, who have
+                    been in the U. S. service. It is also stated that they have several pieces of
+                    artillery, and that they are supplied with ammunition. It may be important to
+                    consider from what direction forces are to be drawn to be sent there when the
+                    emergency may arise, and it may perhaps be well that some discreet person should
+                    be sent there to inquire about it.</p>
+                <p>Governor Curtin may perhaps have the information, or could take measures to
+                    obtains it.</p>
+                <closer>
+                    <salute>Very respectfully, your obedient servant,</salute>
+                    <signed>GEO. CADWALADER,<lb/> Maj.-Gen., Comdg.</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+
+<?dlps id="R11928627"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 n="au" id="R11928627">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">CHAP. XXXI. Confederate Correspondence.</title>
+        <title type="sort">chap xxxi confederate correspondence</title>
+        <author>Taylor, Walter H.</author>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name/>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent> 
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <publisher>University of Virginia</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">R11928627</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1999 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved.</p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:498731</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>CHAP. XXXI. Confederate Correspondence.</title>
+            <title type="uniform">The War of The Rebellion: Official Records of the
+                            Union and Confederate Armies</title>
+            <title type="sort">chap xxxi confederate correspondence</title>
+            <author>Taylor, Walter H.</author>
+            <respStmt>
+                            <resp>Translator:</resp>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p>Series 1, Volume 19, Serial No. 28</p>
+                    </editionStmt>
+                    <extent>Pages 627</extent>
+                    <publicationStmt>
+                        <publisher>Broadfoot Publishing Company</publisher>
+                        <pubPlace>Wilmington, NC</pubPlace>
+                        <date value="1997">1997</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Publisher</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1862-09-25">1862-09-25</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term/>
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="R11928627T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Lee's aid de camp, Walter Taylor, writes General Gustavus Smith in late
+                    September, 1862, as the Maryland campaign drew to a close. He discusses removal
+                    of sick and wounded from the front. Taylor instructs Smith to use Staunton and
+                    the Valley as the primary line of communication with Lee's army. He also
+                    suggests moving supplies from Culpeper Court-House to Staunton.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    HDQRS. ARMY OF NORTHERN VIRGINIA
+                    <name type="recipient">Maj. Gen. GUSTAVUS W. SMITH,<lb/> Cmdg., &amp;c.,
+                        Richmond, Va.:</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1862-09-25">September 25, 1862.</date>
+                        <name type="place">Camp on the Opequon,</name>
+                    </dateline>
+                    <salute>GEN.:</salute>
+                </opener>
+                <p>I am directed by Gen. Lee to say that it has been reported to him by Dr. Herndon,
+                    who is just from Warrenton, that the removal of the wounded and sick from that
+                    place had been stopped by order of Dr. Fisher on his arrival there. Only about
+                    400 had been removed, and there are still remaining some 1,400. The commanding
+                    general desires that the work of removal shall proceed until all are carried to
+                    some place of security, inasmuch as Warrenton is not considered a safe place for
+                    them, and is liable to be visited at any time by the enemy's cavalry. There may
+                    be some whose condition will not permit their being moved; of this the surgeons
+                    will judge. The general instructs me to add that, as the route from Rapidan and
+                    Culpeper Court-House is not altogether secure from the raids of the enemy's
+                    cavalry, he deems it advisable to forsake that route of communication and adopt
+                    the one by Staunton, Harrisburg, and down the valley. He wishes this route
+                    pursued hereafter, and moreover, that all stores that may be at Culpeper
+                    Court-House be removed to Gordonsville or sent around to Staunton, to be drawn
+                    from for the use of this army.</p>
+                <closer>
+                    <salute>I am, very respectfully, your obedient servant,</salute>
+                    <signed>W. H. TAYLOR,<lb/> Maj. and Aide-de-Camp.</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

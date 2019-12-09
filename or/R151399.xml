@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+
+<?dlps id="R151399"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 n="fr" id="R151399">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">CHAP. LXIII. Union Correspondence.</title>
+        <title type="sort">chap lxiii union correspondence</title>
+        <author>Porter, Fitz-John</author>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name/>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent> 
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <publisher>University of Virginia</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">R151399</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1999 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved.</p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:499870</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>CHAP. LXIII. Union Correspondence.</title>
+            <title type="uniform">The War of The Rebellion: Official Records of the
+                            Union and Confederate Armies</title>
+            <title type="sort">chap lxiii union correspondence</title>
+            <author>Porter, Fitz-John</author>
+            <respStmt>
+                            <resp>Translator:</resp>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p>Series 1, Volume 51, Serial No. 107</p>
+                    </editionStmt>
+                    <extent>Pages 399</extent>
+                    <publicationStmt>
+                        <publisher>Broadfoot Publishing Company</publisher>
+                        <pubPlace>Wilmington, NC</pubPlace>
+                        <date value="1997">1997</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Publisher</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1861-06-11">1861-06-11</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term/>
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="R151399T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>In this June, 1861, dispatch, Fitz-John Porter, Union Assistant Adjutant for the
+                    Department of Pennsylvania, writes from Chambersburg to Colonel Lewis Wallace
+                    concerning regulations for taking prisoners. Porter instructs Wallace to avoid
+                    taking prisoners when possible, since they might encumber his regiment's
+                    movements. He asserts that a rout would be as useful to the Union cause as a
+                    large-scale surrender.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Col. LEWIS WALLACE,<lb/> Eleventh Indiana Regt.,
+                        Cumberland, Md.:</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1861-06-11">June 11, 1861.</date>
+                        <name type="place">Chambersburg, Pa.,</name><name type="location">HDQRS. DEPARTMENT OF PENNSYLVANIA,</name>
+                    </dateline>
+                    <salute>SIR:</salute>
+                </opener>
+                <p>By direction of the commanding general I to-day telegraphed you in reply to your
+                    query, "What shall I do with prisoners?" Tis well not to have many prisoners.
+                    Such as you take imprison and treat kindly. Success attend your calls." Many
+                    prisoners would trammel you very much, and unless you succeed in capturing
+                    prominent or very troublesome opponents, the commanding general thinks a rout
+                    would be as effective as taking prisoners, by spreading demoralization in their
+                    ranks. It is desirable to save life, secure property, and disarm our opponents.
+                    Since the receipt of your telegram, your letter of the 10th has arrived. The
+                    commanding general will not forget you, and would be pleased to have you, but
+                    unless a force strong enough to maintain itself comes to take your place he
+                    cannot call you from your present position, now daily becoming more and more
+                    important and essential to be held for the security of this force. Closson
+                    reports that the bridges which it was desired you should guard are destroyed.
+                    Can you not cause them to be repaired and the road in your reach made
+                    practicable? The commanding general desires you to be cautions, very cautions,
+                    that our forces shall receive no check or reverse. Either will swell the ranks
+                    of the enemy, fill their store-houses, and dispirit our own forces.</p>
+                <closer>
+                    <salute>I am, colonel, very respectfully, your obedient servant,</salute>
+                    <signed>F. J. PORTER,<lb/> Assistant Adjutant-Gen.</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

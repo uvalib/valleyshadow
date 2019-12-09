@@ -1,0 +1,444 @@
+<?xml version="1.0"?>
+
+<?dlps id="R12744305"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 n="fr" id="R12744305">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">CHAP. XXXIX. Confederate Correspondence.</title>
+        <title type="sort">chap xxxix confederate correspondence</title>
+        <author>Lee, Robert E.</author>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name/>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">32</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <publisher>University of Virginia</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">R12744305</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1999 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved.</p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:499005</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>CHAP. XXXIX. Confederate Correspondence.</title>
+            <title type="uniform">The War of The Rebellion: Official Records of the
+                            Union and Confederate Armies</title>
+            <title type="sort">chap xxxix confederate correspondence</title>
+            <author>Lee, Robert E.</author>
+            <respStmt>
+                            <resp>Translator:</resp>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p>Series 1, Volume 27, Serial No. 44</p>
+                    </editionStmt>
+                    <extent>Pages 305-311</extent>
+                    <publicationStmt>
+                        <publisher>Broadfoot Publishing Company</publisher>
+                        <pubPlace>Wilmington, NC</pubPlace>
+                        <date value="1997">1997</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Publisher</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1863-07-31">1863-07-31</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term/>
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="R12744305T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>General Robert E. Lee gives a detailed account of the Gettysburg campaign in this
+                    July, 1863, dispatch to Adjutant General Samuel Cooper. Lee discusses the
+                    movements of the Army of Northern Virginia after crossing the Potomac. He
+                    mentions troop movements to and from Chambersburg.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Gen. S. Cooper,<lb/> Adjutant and Inspector Gen.,
+                        Richmond, Va.</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1863-07-31">July 31, 1863.</date>
+                        <name type="place">Hdqrs. Army of Northern Virginia,</name>
+                    </dateline>
+                    <salute>Gen.:</salute>
+                </opener>
+                <p>I have the honor to submit the following outline of the recent operations of this
+                    army, for the information of the Department:</p>
+                <p>The position occupied by the enemy opposite Fredericksburg being one in which he
+                    could not be attacked to advantage, it was determined to draw him from it. The
+                    execution of this purpose embraced the relief of the Shenandoah Valley from the
+                    troops that had occupied the lower part of it during the winter and spring, and,
+                    if practicable, the transfer of the scene of hostilities north of the Potomac.
+                    It was thought that the corresponding movements on the part of the enemy to
+                    which those contemplated by us would probably give rise, might offer a fair
+                    opportunity to strike a blow at the army then commanded by Gen. Hooker, and that
+                    in any event that army would be compelled to leave Virginia, and, possibly, to
+                    draw to its support troops designed to operate against other parts of the
+                    country. In this way it was supposed that the enemy's plan of campaign for the
+                    summer would be broken up, and part of the season of active operations be
+                    consumed in the formation of new combinations, and the preparations that they
+                    would require. In addition to these advantages, it was hoped that other valuable
+                    results might be attained by military success. Actuated by these and other
+                    important considerations that may hereafter be presented, the movement began on
+                    June 3. McLaws' division, of Longstreet's corps, left Fredericksburg for
+                    Culpeper Court-House, and Hood's division, which was encamped on the Rapidan,
+                    marched to the same place. They were followed on the 4th and 5th by Ewell's
+                    corps, leaving that of A. P. Hill to occupy our lines at Fredericksburg.</p>
+                <p>The march of these troops having been discovered by the enemy on the afternoon of
+                    the 5th, on the following day he crossed a force amounting to about one army
+                    corps to the south side of the Rappahannock, on a pontoon bridge laid down near
+                    the mouth of Deep Run. Gen. Hill disposed his command to resist their advance,
+                    but as they seemed intended for the purpose of observation rather than attack,
+                    the movements in progress were not arrested.</p>
+                <p>The forces of Longstreet and Ewell reached Culpeper Court-House by the 8th, at
+                    which point the cavalry, under Gen. Stuart, was also concentrated.</p>
+                <p>On the 9th, a large force of Federal cavalry, strongly supported by infantry,
+                    crossed the Rappahannock at Beverly and Kelly's Fords, and attacked Gen. Stuart.
+                    A severe engagement ensued, continuing from early in the morning until late in
+                    the afternoon, when the enemy was forced to recross the river with heavy loss,
+                    leaving 400 prisoners, 3 pieces of artillery, and several colors in our hands.</p>
+                <p>Gen. Jenkins, with his cavalry brigade, had been ordered to advance to
+                    Winchester, to co-operate with the infantry in the proposed expedition into the
+                    lower Valley, and at the same time Gen. Imboden was directed with his command to
+                    make a demonstration in the direction of Romney, in order to cover the movement
+                    against Winchester, and prevent the enemy at that place from being re-enforced
+                    by the troops on the line of the Baltimore and Ohio Railroad. Both of these
+                    officers were in position when Gen. Ewell left Culpeper Court-House on the 10th.
+                    Crossing the Shenandoah near Front Royal, he detached Rodes' division to
+                    Berryville, with instructions, after dislodging the force stationed there, to
+                    cut off the communication between Winchester and the Potomac. With the divisions
+                    of Early and Edward Johnson, Gen. Ewell advanced directly upon Winchester,
+                    driving the enemy into his works around the town on the 13th. On the same day
+                    the troops at Berryville fell back before Gen. Rodes, retreating to Winchester.</p>
+                <p>On the 14th, Gen. Early stormed the works at the latter place, and the whole army
+                    of Gen. Milroy was captured or dispersed. Most of those who attempted to escape
+                    were intercepted and made prisoners by Gen. Johnson. Their leader fled to
+                    Harper's Ferry with a small party of fugitives.</p>
+                <p>Gen. Rodes marched from Berryville to Martinsburg, entering the latter place on
+                    the 14th, where he took 700 prisoners, 5 pieces of artillery, and a considerable
+                    quantity of stores. These operations cleared the Valley of the enemy, those at
+                    Harper's Ferry withdrawing to Maryland Heights. More than 4,000 prisoners, 29
+                    pieces of artillery, 270 wagons and ambulances, with 400 horses, were captured,
+                    besides a large amount of military stores. Our loss was small.</p>
+                <p>On the night that Ewell appeared at Winchester, the Federal troops in front of A.
+                    P. Hill at Fredericksburg recrossed the Rappahannock, and the next day
+                    disappeared behind the hills of Stafford. The whole army of Gen. Hooker withdrew
+                    from the line of the Rappahannock, pursuing the roads near the Potomac, and no
+                    favorable opportunity was offered for attack. It seemed to be the purpose of
+                    Gen. Hooker to take a position which would enable him to cover the approaches to
+                    Washington City. With a view to draw him farther from his base, and at the same
+                    time to cover the march of A. P. Hill, who, in accordance with instructions,
+                    left Fredericksburg for the Valley as soon as the enemy withdrew from his front,
+                    Longstreet moved from Culpeper Court-House on the 15th, and, advancing along the
+                    east side of the Blue Ridge, occupied Ashby's and Snicker's Gaps. His force had
+                    been augmented, while at Culpeper, by Gen. Pickett, with three brigades of his
+                    division. The cavalry under Gen. Stuart was thrown out in front of Longstreet,
+                    to watch the enemy, now reported to be moving into Loudoun.</p>
+                <p>On the 17th, his cavalry encountered two brigades of ours under Gen. Stuart, near
+                    Aldie, and was driven back with loss. The next day the engagement was renewed,
+                    the Federal cavalry being strongly supported by infantry, and Gen. Stuart was,
+                    in turn, compelled to retire. The enemy advanced as far as Upperville, and then
+                    fell back. In these engagements, Gen. Stuart took about 400 prisoners and a
+                    considerable number of horses and arms.</p>
+                <p>In the meantime, a part of Gen. Ewell's corps had entered Maryland, and the rest
+                    was about to follow. Gen. Jenkins, with his cavalry, who accompanied Gen. Ewell,
+                    penetrated Pennsylvania as far as Chambersburg. As these demonstrations did not
+                    have the effect of causing the Federal Army to leave Virginia, and as it did not
+                    seem disposed to advance upon the position held by Longstreet, the latter was
+                    withdrawn to the west side of the Shenandoah, Gen. Hill having already reached
+                    the Valley. Gen. Stuart was left to guard the passes of the mountains and
+                    observe the movements of the enemy, whom he was instructed to harass and impede
+                    as much as possible, should he attempt to cross the Potomac. In that event, Gen.
+                    Stuart was directed to move into Maryland, crossing the Potomac east or west of
+                    the Blue Ridge, as, in his judgment, should be best, and take position on the
+                    right of our column as it advanced.</p>
+                <p>By the 24th, the progress of Ewell rendered it necessary that the rest of the
+                    army should be within supporting distance, and Longstreet and Hill marched to
+                    the Potomac. The former crossed at Williamsport and the latter at Shepherdstown.
+                    The columns reunited at Hagerstown, and advanced thence into Pennsylvania,
+                    encamping near Chambersburg on the 27th.</p>
+                <p>No report had been received that the Federal Army had crossed the Potomac, and
+                    the absence of the cavalry rendered it impossible to obtain accurate
+                    information. In order, however, to retain it on the east side of the mountains,
+                    after it should enter Maryland, and thus leave open our communication with the
+                    Potomac through Hagerstown and Williamsport, Gen. Ewell had been instructed to
+                    send a division eastward from Chambersburg to cross the South Mountain. Early's
+                    division was detached for this purpose, and proceeded as far east as York, while
+                    the remainder of the corps proceeded to Carlisle.</p>
+                <p>Gen. Imboden, in pursuance of the instructions previously referred to, had been
+                    actively engaged on the left of Gen. Ewell during the progress of the latter
+                    into Maryland. He had driven off the forces guarding the Baltimore and Ohio
+                    Railroad, destroying all the important bridges on that route from Cumberland to
+                    Martinsburg, and seriously damaged the Chesapeake and Ohio Canal. He
+                    subsequently took position at Hancock, and, after the arrival of Longstreet and
+                    Hill at Chambersburg, was directed to march by way of McConnellsburg to that
+                    place.</p>
+                <p>Preparations were now made to advance upon Harrisburg; but, on the night of the
+                    28th, information was received from a scout that the Federal Army, having
+                    crossed the Potomac, was advancing northward, and that the head of the column
+                    had reached the South Mountain. As our communications with the Potomac were thus
+                    menaced, it was resolved to prevent his farther progress in that direction by
+                    concentrating our army on the east side of the mountains. Accordingly,
+                    Longstreet and Hill were directed to proceed from Chambersburg to Gettysburg, to
+                    which point Gen. Ewell was also instructed to march from Carlisle.</p>
+                <p>Gen. Stuart continued to follow the movements of the Federal Army south of the
+                    Potomac, after our own had entered Maryland, and, in his efforts to impede its
+                    progress, advanced as far eastward as Fairfax Court-House. Finding himself
+                    unable to delay the enemy materially, he crossed the river at Seneca, and
+                    marched through Westminster to Carlisle, where he arrived after Gen. Ewell had
+                    left for Gettysburg. By the route he pursued, the Federal Army was interposed
+                    between his command and our main body, preventing any communication with him
+                    until his arrival at Carlisle. The march toward Gettysburg was conducted more
+                    slowly than it would have been had the movements of the Federal Army been known.</p>
+                <p>The leading division of Hill met the enemy in advance of Gettysburg on the
+                    morning of July 1. Driving back these troops to within a short distance of the
+                    town, he there encountered a larger force, with which two of his divisions
+                    became engaged. Ewell, coming up with two of his divisions by the Heidlersburg
+                    road, joined in the engagement. The enemy was driven through Gettysburg with
+                    heavy loss, including about 5,000 prisoners and several pieces of artillery. He
+                    retired to a high range of hills south and east of the town. The attack was not
+                    pressed that afternoon, the enemy's force being unknown, and it being considered
+                    advisable to await the arrival of the rest of our troops. Orders were sent back
+                    to hasten their march, and,in the meantime, every effort was made to ascertain
+                    the numbers and position of the enemy, and find the most favorable point of
+                    attack. It had not been intended to fight a general battle at such a distance
+                    from our base, unless attacked by the enemy, but, finding ourselves unexpectedly
+                    confronted by the Federal Army, it became a matter of difficulty to withdraw
+                    through the mountains with our large trains. At the same time, the country was
+                    unfavorable for collecting supplies while in the presence of the enemy's main
+                    body, as he was enabled to restrain our foraging parties by occupying the passes
+                    of the mountains with regular and local troops. A battle thus became, in a
+                    measure, unavoidable. Encouraged by the successful issue of the engagement of
+                    the first day, and in view of the valuable results that would ensue from the
+                    defeat of the army of Gen. Meade, it was thought advisable to renew the attack.
+                    The remainder of Ewell's and Hill's corps having arrived, and two divisions of
+                    Longstreet's, our preparations were made accordingly. During the afternoon,
+                    intelligence was received of the arrival of Gen. Stuart at Carlisle, and he was
+                    ordered to march to Gettysburg and take position on our left. A full account of
+                    these engagements cannot be given until the reports of the several commanding
+                    officers shall have been received, and I shall only offer a general description.</p>
+                <p>The preparations for attack were not completed until the afternoon of the 2d. The
+                    enemy held a high and commanding ridge, along which he had massed a large amount
+                    of artillery. Gen. Ewell occupied the left of our line, Gen. Hill the center,
+                    and Gen. Longstreet the right. In front of Gen. Longstreet the enemy held a
+                    position from which, if he could be driven, it was thought our artillery could
+                    be used to advantage in assailing the more elevated ground beyond, and thus
+                    enable us to reach the crest of the ridge. That officer was directed to endeavor
+                    to carry this position, while Gen. Ewell attacked directly the high ground on
+                    the enemy's right, which had already been partially fortified. Gen. Hill was
+                    instructed to threaten the center of the Federal line, in order to prevent
+                    re-enforcements being sent to either wing, and to avail himself of any
+                    opportunity that might present itself to attack. After a severe struggle,
+                    Longstreet succeeded in getting possession of and holding the desired ground.
+                    Ewell also carried some of the strong positions which he assailed, and the
+                    result was such as to lead to the belief that he would ultimately be able to
+                    dislodge the enemy. The battle ceased at dark.</p>
+                <p>These partial successes determined me to continue the assault next day. Pickett,
+                    with three of his brigades, joined Longstreet the following morning, and our
+                    batteries were moved forward to the positions gained by him the day before. The
+                    general plan of attack was unchanged, excepting that one division and two
+                    brigades of Hill's corps were ordered to support Longstreet.</p>
+                <p>The enemy, in the meantime, had strengthened his lines with earthworks. The
+                    morning was occupied in necessary preparations, and the battle recommenced in
+                    the afternoon of the 3d, and raged with great violence until sunset. Our troops
+                    succeeded in entering the advanced works of the enemy, and getting possession of
+                    some of his batteries, but our artillery having nearly expended its ammunition,
+                    the attacking columns became exposed to the heavy fire of the numerous batteries
+                    near the summit of the ridge, and, after a most determined and gallant struggle,
+                    were compelled to relinquish their advantage, and fall back to their original
+                    positions with severe loss.</p>
+                <p>The conduct of the troops was all that I could desire or expect, and they deserve
+                    success so far as it can be deserved by heroic valor and fortitude. More may
+                    have been required of them than they were able to perform, but my admiration of
+                    their noble qualities and confidence in their ability to cope successfully with
+                    the enemy has suffered no abatement from the issue of this protracted and
+                    sanguinary conflict.</p>
+                <p>Owing to the strength of the enemy's position, and the reduction of our
+                    ammunition, a renewal of the engagement could not be hazarded, and the
+                    difficulty of procuring supplies rendered it impossible to continue longer where
+                    we were. Such of the wounded as were in condition to be removed, and part of the
+                    arms collected on the field, were ordered to Williamsport.</p>
+                <p>The army remained at Gettysburg during the 4th, and at night began to retire by
+                    the road to Fairfield, carrying with it about 4,000 prisoners. Nearly 2,000 had
+                    previously been paroled, but the enemy's numerous wounded that had fallen into
+                    our hands after the first and second days' engagements were left behind.</p>
+                <p>Little progress was made that night, owing to a severe storm, which greatly
+                    embarrassed our movements. The rear of the column did not leave its position
+                    near Gettysburg until after day light on the 5th. The march was continued during
+                    that day without interruption from the enemy, excepting an unimportant
+                    demonstration upon our rear in the afternoon when near Fairfield, which was
+                    easily checked. Part of our train moved by the road through Fairfield, and the
+                    rest by way of Cashtown, guarded by Gen. Imboden. In passing through the
+                    mountains in advance of the column, the great length of the trains exposed them
+                    to attack by the enemy's cavalry, which captured a number of wagons and
+                    ambulances, but they succeeded in reaching Williamsport without serious loss.</p>
+                <p>They were attacked at that place on the 6th by the enemy's cavalry, which was
+                    gallantly repulsed by Gen. Imboden. The attacking force was subsequently
+                    encountered and driven off by Gen. Stuart, and pursued for several miles in the
+                    direction of Boonsborough. The army, after an arduous march, rendered more
+                    difficult by the rains, reached Hagerstown on the afternoon of July 6 and
+                    morning of the 7th.</p>
+                <p>The Potomac was found to be so much swollen by the rains that had fallen almost
+                    incessantly since our entrance into Maryland as to be unfordable. Our
+                    communications with the south side were thus interrupted, and it was difficult
+                    to procure either ammunition or subsistence, the latter difficulty being
+                    enhanced by the high waters impeding the working of the neighboring mills. The
+                    trains with the wounded and prisoners were compelled to await at Williamsport
+                    the subsiding of the river and the construction of boats, as the pontoon bridge
+                    left at Falling Waters had been partially destroyed. The enemy had not yet made
+                    his appearance, but as he was in condition to obtain large re-enforcements, and
+                    our situation, for the reasons above mentioned, was becoming daily more
+                    embarrassing, it was deemed advisable to recross the river. Part of the pontoon
+                    bridge was recovered and new boats built, so that by the 13th a good bridge was
+                    thrown over the river at Falling Waters.</p>
+                <p>The enemy in force reached our front on the 12th. A position had been previously
+                    selected to cover the Potomac from Williamsport to Falling Waters, and an attack
+                    was awaited during that and the succeeding day. This did not take place, though
+                    the two armies were in close proximity, the enemy being occupied in fortifying
+                    his own lines. Our preparations being completed, and the river, though still
+                    deep, being pronounced fordable, the army commenced to withdraw to the south
+                    side on the night of the 13th. Ewell's corps forded the river at Williamsport.
+                    Those of Longstreet and Hill crossed upon the bridge. Owing to the condition of
+                    the roads, the troops did not reach the bridge until after daylight on the 14th,
+                    and the crossing was not completed until 1 p. m., when the bridge was removed.
+                    The enemy offered no serious interruption, and the movement was attended with no
+                    loss of Materiel excepting a few disabled wagons and two pieces of artillery,
+                    which the horses were unable to move through the deep mud. Before fresh horses
+                    could be sent back for them, the rear of the column had passed. During the slow
+                    and tedious march to the bridge, in the midst of a violent storm of rain, some
+                    of the men lay down by the way to rest. Officers sent back for them failed to
+                    find many in the obscurity of the night, and these, with some stragglers, fell
+                    into the hands of the enemy.</p>
+                <p>Brig.-Gen. Pettigrew was mortally wounded in an attack made by a small body of
+                    cavalry, which was unfortunately mistaken for our own, and permitted to enter
+                    our lines. He was brought to Bunker Hill, where he expired a few days afterward.
+                    He was a brave and accomplished officer and gentleman, and his loss will be
+                    deeply felt by the country and the army.</p>
+                <p>The following day the army marched to Bunker Hill, in the vicinity of which it
+                    encamped for several days. The day after its arrival, a large force of the
+                    enemy's cavalry, which had crossed the Potomac at Harper's Ferry, advanced
+                    toward Martinsburg. It was attacked by Gen. Fitz. Lee, near Kearneysville, and
+                    defeated with heavy loss, leaving its dead and many of its wounded on the field.</p>
+                <p>Owing to the swollen condition of the Shenandoah, the plan of operations which
+                    had been contemplated when we recrossed the Potomac could not be put into
+                    execution, and before the waters had subsided, the movements of the enemy
+                    induced me to cross the Blue Ridge and take position south of the Rappahannock,
+                    which was accordingly done.</p>
+                <p>As soon as the reports of the commanding officers shall be received, a more
+                    detailed account of these operations will be given, and occasion will then be
+                    taken to speak more particularly of the conspicuous gallantry and good conduct
+                    of both officers and men.</p>
+                <p>It is not yet in my power to give a correct statement of our casualties, which
+                    were severe, including many brave men, and an unusual proportion of
+                    distinguished and valuable officers. Among them I regret to mention the
+                    following general officers: Maj.-Gen.'s Hood, Pender, and Trimble severely, and
+                    Maj.-Gen. Heth slightly wounded.</p>
+                <p>Gen. Pender has since died. This lamented officer had borne a distinguished part
+                    in every engagement of this army, and was wounded on several occasions while
+                    leading his command with conspicuous gallantry and ability. The confidence and
+                    admiration inspired by his courage and capacity as an officer were only equaled
+                    by the esteem and respect entertained by all with whom he was associated for the
+                    noble qualities of his modest and unassuming character.</p>
+                <p>Brig.-Gen.'s Barksdale and R. B. Garnett were killed, and Brig.-Gen. Semmes
+                    mortally wounded, while leading their troops with the courage that always
+                    distinguished them. These brave officers and patriotic gentlemen fell in the
+                    faithful discharge of duty, leaving the army to mourn their loss and emulate
+                    their noble examples. Brig.-Gen.'s Kemper, Armistead, Scales, G. T. Anderson,
+                    Hampton, J. M. Jones, and Jenkins were also wounded. Brig.-Gen. Archer was taken
+                    prisoner.</p>
+                <p>Gen. Pettigrew, though wounded at Gettysburg, continued in command until he was
+                    mortally wounded, near Falling Waters.</p>
+                <p>The loss of the enemy is unknown, but from observation on the field, and his
+                    subsequent movements, it is supposed that he suffered severely.</p>
+                <closer>
+                    <salute>Respectfully submitted.</salute>
+                    <signed>R. E. LEE,<lb/> Gen.</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

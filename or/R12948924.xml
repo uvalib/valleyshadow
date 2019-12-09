@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+
+<?dlps id="R12948924"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 n="au" id="R12948924">
+ <teiHeader type="migrated">
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">CHAP. XLI. Report of Gen. William W. Averell.</title>
+        <title type="sort">chap xli report of gen william w averell</title>
+        <author>Averell, William</author>
+        <respStmt>
+          <resp>Creation of machine-readable version:</resp>
+          <name/>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name/>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. <num type="kilobytes">8</num> kilobytes</extent> 
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <publisher>University of Virginia</publisher>
+        <pubPlace>Charlottesville, Virginia</pubPlace>
+        <idno type="VCDH">R12948924</idno>
+        <!--
+    <availability>
+     <p>Text and images (c) Copyright 1999 by The Rector and Visitors of The University of Virginia.
+      All rights reserved.</p>
+     <p>URL: http://jefferson.village.virginia.edu/vshadow2</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:499168</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>CHAP. XLI. Report of Gen. William W. Averell.</title>
+            <title type="uniform">The War of The Rebellion: Official Records of the Union and Confederate
+       Armies</title>
+            <title type="sort">chap xli report of gen william w averell</title>
+            <author>Averell, William</author>
+            <respStmt>
+              <resp>Translator:</resp>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p>Series 1, Volume 29, Serial No. 48</p>
+          </editionStmt>
+          <extent>Pages 924-925</extent>
+          <publicationStmt>
+            <publisher>Broadfoot Publishing Company</publisher>
+            <pubPlace>Wilmington, NC</pubPlace>
+            <date value="1997">1997</date>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Publisher</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date value="1863-12-21">1863-12-21</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term/>
+          <term/>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+ <text id="R12948924T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Union cavalry general William Averell reports to General in Chief Henry Halleck on a
+     December, 1863, raid on the Virginia and Tennessee Railroad. Averell mentions Confederate
+     positions at Staunton and points west.</p>
+   </div1>
+  </front>
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     No. 2. Reports of Brig. Gen. William W. Averell, U. S. Army, commanding expedition to
+     Virginia at Tennessee Railroad.
+     <name type="recipient">Maj. Gen. H. W. HALLECK,<lb/> Gen.-in-Chief.</name>
+    </head>
+    <opener>
+     <dateline>
+      <date value="1863-12-21">DECEMBER 21.</date><lb/> Via Beverly, <date value="1863-12-22">December 22, 1863</date>. (Received <time>4.15 p. m.</time>, 23d.)
+      <name type="place">EDRAY, POCAHONTAS COUNTY, W. VA.,</name>
+     </dateline>
+     <salute>SIR:</salute>
+    </opener>
+    <p>I have the honor to report that I cut the Virginia and Tennessee Railroad at Salem on the
+     16th instant, and have arrived safely at this point with my command, consisting of the Second,
+     Third, and Eighth West Virginia Mounted Infantry, Fourteenth Pennsylvania, Gibson's battalion
+     cavalry, and Ewing's battery.</p>
+    <p>At Salem three depots were destroyed, containing 2,000 barrels flour, 10,000 bushels wheat,
+     100,000 bushels shelled corn, 50,000 bushels oats, 2,000 barrels meat, several cords leather,
+     1,000 sacks salt, 31 boxes clothing, 20 bales cotton, a large amount of harness, shoes, and
+     saddles, equipments, tools, oil, tar, and various other stores, and 100 wagons. The telegraph
+     wire was cut, coiled, and burned for half a mile. The water-station, turn-table, and 3 cars
+     were burned, the track torn up, and the rails heated and destroyed as much as possible in six
+     hours. Five bridges and several culverts were destroyed, over an extent of 15 miles. A large
+     quantity of bridge timber and repairing materials were also destroyed.</p>
+    <p>My march was retarded occasionally by the tempest in the mountains, and the icy roads. I was
+     obliged to swim my command and drag my artillery with ropes across Craig's Creek seven times in
+     twenty-four hours. On my return I found six separate commands, under Generals Early, Jones,
+     Fitz. Lee, Imboden, Jackson, Echols, and McCausland, arranged in a line extending from Staunton
+     to Newport upon all the available roads to prevent my return.</p>
+    <p>I captured a dispatch from General Jones to General Early, giving me the position, and that
+     of Jackson--at Clifton Forge and Covington--was selected to carry. I marched from the front of
+     Jones to that of Jackson during the night. His outposts were pressed in at a gallop by the
+     Eighth West Virginia Mounted Infantry, and the two bridges across Jackson's River saved,
+     although fagots had been piled ready to ignite. My column, about 4 miles long, hastened across
+     regardless of the enemy until all but my ambulances, a few wagons, and one regiment had passed,
+     when a strong effort was made to retake the first bridge, which did not succeed. The ambulance
+     and some sick men were lost, and by the darkness and difficulties the last regiment was
+     detained upon the opposite side until morning, when it was ascertained that the enemy seemed
+     determined to maintain his position up the cliffs which overlooked the bridge.</p>
+    <p>I caused the bridges, which were long and high, to be destroyed, and the enemy immediately
+     changed his position to the flank and rear of the detachment which was cut off. I sent orders
+     to the remnants to destroy our wagons and come to me across the river or over the mountains.
+     They swam the river, with the loss of only 4 men drowned, and joined me. In the meantime,
+     forces of the enemy were concentrating upon me at Callaghan's over every available road but
+     one, which was deemed impracticable, but by which I crossed over the top of the Alleghanies
+     with my command, with the exception of four caissons, which were destroyed in order to increase
+     the teams of the pieces.</p>
+    <p>My loss is C men drowned, 1 officer and 4 men wounded, and 4 officers and 90 men missing. We
+     captured about 200 prisoners, but have retained but 4 officers and 80 men, on account of their
+     inability to walk. We took also about 150 horses. My men and horses have subsisted entirely
+     upon a very poor country, and the officers and men have suffered cold, hunger, and fatigue with
+     remarkable fortitude.</p>
+    <p>My command has marched, climbed, slid, and swum 355 miles since the 8th instant.</p>
+    <closer>
+     <salute/>
+     <signed>WM. W. AVERELL,<lb/> Brigadier-General.</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

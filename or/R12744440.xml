@@ -1,0 +1,800 @@
+<?xml version="1.0"?>
+
+<?dlps id="R12744440"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 n="au" id="R12744440">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">CHAP. XXIV. Report of General Richard Ewell.</title>
+        <title type="sort">chap xxiv report of general richard ewell</title>
+        <author>Ewell, Richard S.</author>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name/>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">63</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <publisher>University of Virginia</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">R12744440</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1999 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved.</p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:499011</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>CHAP. XXIV. Report of General Richard Ewell.</title>
+            <title type="uniform">The War of The Rebellion: Official Records of the
+                            Union and Confederate Armies</title>
+            <title type="sort">chap xxiv report of general richard ewell</title>
+            <author>Ewell, Richard S.</author>
+            <respStmt>
+                            <resp>Translator:</resp>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p>Series 1, Volume 27, Serial No. 44</p>
+                    </editionStmt>
+                    <extent>Pages 440-452</extent>
+                    <publicationStmt>
+                        <publisher>Broadfoot Publishing Company</publisher>
+                        <pubPlace>Wilmington, NC</pubPlace>
+                        <date value="1997">1997</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Publisher</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1863">1863</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term/>
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="R12744440T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Confederate General Richard Ewell reports on the part his men played in the
+                    June-July, 1863, Gettysburg campaign. Ewell discusses fighting in the Shenandoah
+                    Valley prior to crossing the Potomac, the invasion of Pennsylvania, including
+                    entering Chambersburg, the battle of Gettysburg, and the retreat to Virginia.
+                    Ewell mentions sending prisoners to Staunton after the battle.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    No. 467. Report of Lieut. Gen. Richard S. Ewell, C. S. Army, commanding
+                    Second Army Corps. Hdqrs. Second Corps, Army of Northern Virginia,
+                    <name type="recipient">Col. R. H. Chilton,<lb/> Assistant Adjutant and Inspector
+                        Gen.</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1863">1863.</date>
+                    </dateline>
+                    <salute>Col.:</salute>
+                </opener>
+                <p>The Second Corps, at the time of leaving Hamilton's Crossing (June 4), comprised
+                    the following troops:</p>
+                <p>The division of Maj. Gen. Jubal A. Early, containing the brigades of Brig. Gens.
+                    H. T. Hays (Louisiana), J. B. Gordon (Georgia), William Smith (Virginia), and R.
+                    F. Hoke (North Carolina), temporarily commanded by Col. I. E. Avery, of the
+                    Sixth North Carolina, in the absence of Gen. Hoke, from wounds received at the
+                    battle of Fredericksburg, May 4. To this division was attached Lieut. Col. H. P.
+                    Jones' battalion of light artillery.</p>
+                <p>The division of Maj. Gen. Edward Johnson, containing the brigades of Brig. Gens.
+                    George H. Steuart (Virginia and North Carolina), James A. Walker (Stonewall,
+                    Virginia), John M. Jones (Virginia), and F. T. Nicholls (Louisiana), temporarily
+                    commanded by Col. J. M. Williams, of the Second Louisiana Regt., in the absence
+                    of Gen. Nicholls, from wounds received at the battle of Chancellorsville. To
+                    this division was attached Lieut. Col. R. Snowden Andrews' battalion of light
+                    artillery.</p>
+                <p>The division of Maj. Gen. Robert E. Rodes, containing the brigades of Brig. Gens.
+                    Junius Daniel (North Carolina), George Doles (Georgia), A. Iverson and S. D.
+                    Ramseur (North Carolina), and Rodes' (Alabama) brigade, commanded by Col. Edward
+                    A. O'Neal, of the Twenty-Sixth Alabama Regt.. To this division was attached
+                    Lieut. Col. Thomas H. Carter's battalion of light artillery.</p>
+                <p>Lieut. Col. William Nelson's battalion and five batteries of the First Virginia
+                    Artillery, under Col. J. Thompson Brown, acting chief of artillery, in the
+                    absence of Col. S. Crutchfield, from wounds received in the battle of
+                    Chancellorsville, May 2, formed the artillery reserve of the corps.</p>
+                <p>TO CULPEPER AND WINCHESTER.</p>
+                <p>Marching via Verdierville and Somerville Ford, the corps reached Culpeper on June
+                    7.</p>
+                <p>On the 9th, the enemy being reported to have crossed the Rappahannock in force, I
+                    moved my corps, by direction of the general commanding, to Gen. Stuart's
+                    support, but on reaching Brandy Station with Gen. Rodes' division, found the
+                    enemy already retiring.</p>
+                <p>Resuming the march on the 10th, we passed by Gaines' Cross-Roads, Flint Hill, and
+                    Front Royal, arriving at Cedarville on the 12th. At this point I detached Gen.
+                    Rodes' division, together with Gen. Jenkins' cavalry brigade, which here
+                    reported to me, to capture, if possible, a force of 1,800 men, under Col. A. T.
+                    McReynolds, reported at Berryville, and thence to press on to Martinsburg. With
+                    the remaining two divisions and the Sixteenth Virginia Cavalry Battalion Regt.,
+                    (Maj. James H. Nounnan), of Jenkins' brigade, I proceeded to attack Winchester.
+                    From all the information I could gather, the fortifications of Winchester were
+                    only assailable on the west and northwest, from a range of hills which commanded
+                    the ridge occupied by their main fortifications. The force there was represented
+                    at from 6,000 to 8,000, under Gen. Milroy.</p>
+                <p>On the 13th, I sent Early's division and Col. Brown's artillery battalion (under
+                    Capt. W. J. Dance), to Newtown, on the Valley pike, where they were joined by
+                    the First Maryland Infantry Battalion, Lieut.-Col. J. R. Herbert, and the
+                    Baltimore Light Artillery, Capt. W. H. Griffin. Gen. Early was directed to
+                    advance toward the town by the Valley pike.</p>
+                <p>The same day Johnson's division, preceded by Nounnan's cavalry, drove in the
+                    enemy's pickets on the Front Royal and Winchester road, and formed line of
+                    battle 2 miles from town, preparatory to an attack. After some skirmishing, the
+                    enemy opened from a battery near the Millwood road, and J. C. Carpenter's
+                    battery, Lieut. W. T. Lambie commanding, was placed by Lieut.-Col. Andrews to
+                    the left of the Front Royal road, and opened vigorously, soon driving off the
+                    opposing battery and blowing up a caisson. This drew upon our battery a heavy
+                    fire from twelve or fifteen pieces in and near the town, but beyond the range of
+                    our guns.</p>
+                <p>About 5 p m. Gen. Early had a pretty sharp skirmish with the enemy's infantry and
+                    artillery near Kernstown, Gordon's brigade, supported by Hays', driving them at
+                    a run as far as Milltown Mills. Here Early, coming within range of the enemy's
+                    fortifications, halted for the night. Before morning, the enemy withdrew all
+                    their artillery into their fortifications from Bowers' Hill and the south and
+                    east sides of the town. On examining the enemy's fortifications from Gen.
+                    Johnson's position, I found they had put up works on the hills I had intended
+                    gaining possession of, and were busy strengthening them.</p>
+                <p>Having reconnoitered with Gen. Early from Bowers' Hill (9 a. m. on the 14th), I
+                    coincided with his views as to the best point of attack, and directed him to
+                    move his main force to the left, and carry by assault one of the works above
+                    mentioned, a small, open work on a commanding hill near the Pughtown road, which
+                    overlooked the main fort.</p>
+                <p>About 11 a. m., finding there was no danger of a sortie, and seeing the enemy
+                    fortifying a hill north of their main fort, I directed Gen. Johnson to move to
+                    the east of the town, and interfere with their work as much as possible, and so
+                    divert attention from Gen. Early. He accordingly took up position between the
+                    Millwood and Berryville pikes, and threw forward the Fifth Virginia, under
+                    Lieut. Col. H. J. Williams, as skirmishers, who annoyed the enemy so as to force
+                    them to leave off work and effectually to engross their attention.</p>
+                <p>Gen. Gordon's brigade and Lieut.-Col. Herbert's Maryland battalion, with two
+                    batteries, were left by Gen. Early at Bowers' Hill, and pushed their skirmishers
+                    into Winchester, who were recalled for fear of drawing the enemy's fire on the
+                    town.</p>
+                <p>By 4 p. m. Gen. Early had attained, undiscovered, a wooded hill (one of the range
+                    known as Little North Mountain) near the Pughtown road, on the south side of
+                    which an orchard and on the north a corn-field afforded excellent positions for
+                    artillery in easy range of the work to be attacked--a bastion, front open toward
+                    the town. Hays' brigade was designated for the assault, and Smith's for its
+                    support, and about 6 o'clock Col. Jones ran his pieces and those of the First
+                    Virginia Artillery, under Capt. Dance, forward by hand into position, and opened
+                    simultaneously from twenty guns, completely surprising the enemy, whose entire
+                    attention at this point was engrossed by Gordon.</p>
+                <p>In half an hour their battery was silenced, Jones' artillery firing excellently.
+                    Gen. Hays moved quietly to within 200 yards of their work, when our guns ceased
+                    firing, and he charged through an abatis of brushwood, and captured the work,
+                    taking six rifled pieces, two of which were at once turned upon and dispersed
+                    the columns that the enemy were endeavoring to form to recapture it. Two works
+                    to the left of the one taken were immediately abandoned, their defenders
+                    retreating to the main fort. It was by this time too late to do more than
+                    prepare to improve this important advantage promptly in the morning. This result
+                    established the correctness of Gen. Early's views as to the point of attack, and
+                    rendered the main fort untenable.</p>
+                <p>Accordingly, anticipating the possibility of the enemy's attempting to retreat
+                    during the night, I ordered Gen. Johnson, with the Stonewall, Nicholls', and
+                    three regiments of Steuart's brigades, and W. F. Dement's battery, with sections
+                    of Charles I. Raine's and J. C. Carpenter's (the whole under Lieut.-Col.
+                    Andrews), to proceed to a point on the Martinsburg pike about 2 1/2 miles from
+                    Winchester, so as to intercept any attempt to retreat, or to be ready to attack
+                    at daylight if the enemy held their ground.</p>
+                <p>Finding the road to this point very rough, Gen. Johnson concluded to march, via
+                    Jordan Springs, to Stephenson's Depot, where the nature of the ground would give
+                    him a strong position. Just as the head of his column reached the railroad, 200
+                    yards from the Martinsburg road, the enemy were heard retreating down the pike
+                    toward Martinsburg. Forming line parallel with the pike behind a stone wall,
+                    Steuart on the right and the Louisiana brigade on the left (1,200 men in all),
+                    and posting the artillery favorably, he was immediately attacked by Milroy with
+                    all his force of infantry and cavalry, his artillery having been abandoned at
+                    the town, the enemy making repeated and desperate efforts to cut their way
+                    through. Here was the hardest fighting which took place during the attack, the
+                    odds being greatly in favor of the enemy, who were successfully repulsed and
+                    scattered by the gallantry of Gen. Johnson and his brave command.</p>
+                <p>After several front attacks had been steadily met and repulsed. they attempted to
+                    turn both flanks simultaneously, but were met on the right by Gen. Walker and
+                    his brigade, which had just arrived on the field (having been left behind by a
+                    mistake), and on the left by two regiments of Nicholls' brigade, which had been
+                    held in reserve. In a few minutes the greater part of them surrendered, 2,300 to
+                    2,500 in number. The rest scattered through the woods and fields, but most of
+                    them were subsequently captured by our cavalry. Gen. Milroy, with 250 or 300
+                    cavalry, made his way to Harper's Ferry.</p>
+                <p>The fruits of this victory were 23 pieces of artillery (nearly all rifled), 4,000
+                    prisoners, 300 loaded wagons, more than 300 horses, and quite a large amount of
+                    commissary and quartermaster's stores.</p>
+                <p>My loss was 47 killed, 219 wounded, and 3 missing; aggregate, 269.</p>
+                <p>Lieut.-Col. Andrews, who handled his artillery with great skill and effect in the
+                    engagement of the 15th, was wounded just at the close of the action.</p>
+                <p>BERRYVILLE AND MARTINSBURG.</p>
+                <p>Gen. Rodes encamped near Stone Bridge, on the road to Millwood, on the night of
+                    June 12, and, moving on next morning toward Berryville, his infantry were met by
+                    a detachment of Yankee cavalry before reaching Millwood. Finding himself
+                    discovered, he pushed on rapidly, but before reaching Berryville the enemy's
+                    infantry had retreated on the Charlestown road, holding Jenkins at bay for
+                    awhile with their artillery, which was withdrawn as soon as ours came up.
+                    Turning off by the road to Summit Point, the enemy retreated to Winchester.
+                    After securing the small amount of supplies at Berryville, Gen. Rodes, sending
+                    Jenkins in pursuit, followed with his infantry to Summit Point, where he
+                    encamped. Jenkins failed from some cause to overtake the enemy.</p>
+                <p>Late on the 14th, Gen. Rodes came to Martinsburg, before reaching which place
+                    Jenkins drove the enemy from some barricaded houses at Bunker Hill, capturing 75
+                    or 100 prisoners. At Martinsburg, Gen. Rodes found the enemy's infantry and
+                    artillery in position before the town. He immediately sent Jenkins' cavalry to
+                    the left and rear of the place, and, putting some of Carter's artillery in
+                    position, drove off the opposing battery, which retreated toward Williamsport,
+                    so closely pursued by Jenkins' dismounted cavalry and two squadrons mounted that
+                    they were forced to abandon five out of their six guns, and many prisoners were
+                    taken. The infantry fled by way of Shepherdstown, a fact not known for some
+                    hours, which, together with the darkness, will account for their escape. The
+                    enemy destroyed many of the stores at Martinsburg, but 6,000 bushels of grain
+                    and a few quartermaster's and commissary stores fell into our hands.</p>
+                <p>The results of this expedition were 5 pieces of artillery, 200 prisoners, and
+                    quartermaster's and subsistence stores in some quantity.</p>
+                <p>Gen. Rodes mentions with commendation the conduct of Maj. J. W. Sweeney, of
+                    Jenkins' brigade, wounded in charging the enemy's rear near the Opequon, as they
+                    retreated to Winchester from Berryville.</p>
+                <p>CROSSING THE POTOMAC, AND MARCH TO CARLISLE.</p>
+                <p>I sent notice to Gen. Rodes of Milroy's escape, but he was not in position to
+                    intercept him, Jenkins' cavalry being already (10 a. m. 15th) on the Potomac,
+                    near Williamsport. The same evening, Gen. Rodes crossed at Williamsport with
+                    three brigades, sending Jenkins forward to Chambersburg, and on the 19th moved
+                    his division by my orders to Hagerstown, where he encamped on the road to
+                    Boonsborough, while Johnson crossed to Sharpsburg, and Early moved to
+                    Shepherdstown, to threaten Harper's Ferry.</p>
+                <p>In these positions we waited until June 21 for the other two corps to close up,
+                    on the afternoon of which day I received orders from the general commanding to
+                    take Harrisburg, and next morning (22d) Rodes and Johnson marched toward
+                    Greencastle, Pa. Jenkins reoccupied Chambersburg, whence he had fallen back some
+                    days before, and Early moved by Boonsborough to Cavetown, where the Seventeenth
+                    Virginia Cavalry (Col. William H. French) reported, and remained with him till
+                    the battle of Gettysburg.</p>
+                <p>Continuing our march, we reached Carlisle on the 27th, halting one day at
+                    Chambersburg to secure supplies. The marching was as rapid as the weather and
+                    the detours made by Maj.-Gen. Early and Brig.-Gen. Steuart would admit. Early
+                    having marched parallel with us as far as Greenwood, then turned off toward
+                    Gettysburg and York. At Carlisle, Gen. George H. Steuart, who had been detached
+                    to McConnellsburg from Greencastle, rejoined the corps, bringing some cattle and
+                    horses. At Carlisle, Chambersburg, and Shippensburg, requisitions were made for
+                    supplies, and the shops were searched, many valuable stores being secured. At
+                    Chambersburg, a train was loaded with ordnance and medical stores and sent back.
+                    Near 3,000 head of cattle were collected and sent back by my corps, and my chief
+                    commissary of subsistence, Maj. W. J. Hawks, notified Col. R. G. Cole of the
+                    location of 5,000 barrels of flour along the route traveled by the command.</p>
+                <p>From Carlisle I sent forward my engineer, Capt. H. B. Richardson, with Gen.
+                    Jenkins' cavalry, to reconnoitre the defenses of Harrisburg, and was starting on
+                    the 29th for that place when ordered by the general commanding to join the main
+                    body of the army at Cashtown, near Gettysburg. Agreeably to the views of the
+                    general commanding, I did not burn Carlisle Barracks.</p>
+                <p>EXPEDITION TO YORK AND WRIGHTSVILLE.</p>
+                <p>Col. E. V. White's cavalry battalion reported to me at Chambersburg, and was sent
+                    to Gen. Early, then at Greenwood. Arriving at Cashtown, Gen. Early sent Gordon's
+                    brigade, with White's cavalry, direct to Gettysburg, taking the rest of the
+                    division on the Mummasburg road. In front of Gettysburg, White charged and
+                    routed the Twenty-sixth Regt. Pennsylvania Militia, of whom 170 were taken and
+                    paroled. From Gettysburg, Gordon, with Tanner's battery and White's battalion,
+                    was sent on the direct road to York, and Gen. Early moved in the direction of
+                    Dover with the rest of the division.</p>
+                <p>On approaching York, Gen. Gordon met the mayor and a deputation of citizens, who
+                    made a formal surrender of the place.</p>
+                <p>Pushing on, by order of Gen. Early, to Wrightsville, on the Susquehanna, he found
+                    1,200 militia strongly intrenched, but without artillery. A few shots drove them
+                    across the magnificent railroad bridge, a mile and a quarter long, which they
+                    burned as they retreated over it. The little town of Wrightsville caught fire
+                    from the bridge, and Gen. Gordon, setting his brigade to work, succeeded in
+                    extinguishing the flames. Yet he is accused by the Federal press of having set
+                    fire to the town.</p>
+                <p>Gen. Early levied a contribution on the citizens of York, obtaining, among other
+                    things, $ 28,600 in United States currency, the greater part of which was turned
+                    over to Col. J. L. Corley, chief quartermaster, Army of Northern Virginia; 1,000
+                    hats, 1,200 pairs of shoes, and 1,000 pairs of socks were also obtained here.</p>
+                <p>GETTYSBURG.</p>
+                <p>On the night of June 30, Rodes' division, which I accompanied, was at
+                    Heidlersburg; Early 3 miles off, on the road to Berlin, and Johnson, with Col.
+                    Brown's reserve artillery, between Green Village and Scotland. At Heidlersburg,
+                    I received orders from the general commanding to proceed to Cashtown or
+                    Gettysburg, as circumstances might dictate, and a note from Gen. A. P. Hill,
+                    saying he was at Cashtown.</p>
+                <p>Next morning, I moved with Rodes' division toward Cashtown, ordering Early to
+                    follow by Hunterstown. Before reaching Middletown, I received notice from Gen.
+                    Hill that he was advancing upon Gettysburg, and turned the head of Rodes' column
+                    toward that place, by the Middletown road, sending word to Early to advance
+                    directly on the Heidlersburg road. I notified the general commanding of my
+                    movements, and was informed by him that, in case we found the enemy's force very
+                    large, he did not want a general engagement brought on till the rest of the army
+                    came up.</p>
+                <p>By the time this message reached me, Gen. A. P. Hill had already been warmly
+                    engaged with a large body of the enemy in his front, and Carter's artillery
+                    battalion, of Rodes' division, had opened with fine effect on the flank of the
+                    same body, which was rapidly preparing to attack me, while fresh masses were
+                    moving into position in my front. It was too late to avoid an engagement without
+                    abandoning the position already taken up, and I determined to push the attack
+                    vigorously. Gen. Rodes had drawn up his division, Iverson's brigade on the
+                    right, Rodes' (old) brigade (Col. O'Neal) in the center (these two on the ridge
+                    leading to the west of Gettysburg), and Doles on the left, in the plain. The
+                    Fifth Alabama was retained by Gen. Rodes, to guard a wide gap left between
+                    O'Neal and Doles. Daniel and Ramseur were in reserve. He at once moved forward,
+                    and, after advancing for some distance in line, came in sight of the enemy, and
+                    O'Neal and Iverson were ordered to attack, Daniel advancing in line 200 yards in
+                    rear of Iverson's right, to protect that flank.</p>
+                <p>At this time, only desultory artillery firing was going on on the rest of the
+                    field. Carter was warmly engaged. O'Neal's brigade, advancing in some disorder
+                    in a direction different from that indicated by Maj.-Gen. Rodes in person to
+                    Col. O'Neal, and with only three regiments (the Third Alabama being by some
+                    mistake left with Daniel's brigade), was soon forced to fall back,
+                    notwithstanding the Fifth Alabama was sent to its support. The left of Iverson's
+                    brigade was thus exposed, but these gallant troops obstinately stood their
+                    ground till the greater part of three regiments had fallen where they stood in
+                    line of battle. A few of them, being entirely surrounded, were taken prisoners;
+                    a few escaped.</p>
+                <p>The unfortunate mistake of Gen. Iverson at this critical juncture in sending word
+                    to Maj.-Gen. Rodes that one of his regiments had raised the white flag and gone
+                    over to the enemy might have produced the most disastrous consequences. The
+                    Twelfth North Carolina, being on the right of his brigade, suffered least. A
+                    slight change in the advance of Gen. Iverson had uncovered the whole of Daniel's
+                    front, and he found himself opposed to heavy bodies of infantry, whom he
+                    attacked and drove before him till he reached a railroad cut extending
+                    diagonally across his front and past his right flank, which checked his advance.
+                    A battery of the enemy beyond this cut near a barn enfiladed his line, and fresh
+                    bodies of infantry poured across the cut a destructive enfilade and reverse
+                    fire. Seeing some troops of the Third Corps lying down beyond the railroad, in
+                    front of the enemy, who were on his flank, Gen. Daniel sent an officer to get
+                    them to advance. As they would not, he was obliged--leaving the Forty-fifth
+                    North Carolina and Second North Carolina Battalion to hold his line--to change
+                    the front of the rest of his brigade to the rear, and throw part across the
+                    railroad beyond the cut, where, having formed line directly in front of the
+                    troops of the Third Corps already mentioned, he ordered an advance of his whole
+                    brigade, and gallantly swept the field, capturing several hundred prisoners in
+                    the cut.</p>
+                <p>About the time of his final charge, Ramseur, with his own and Rodes' brigades,
+                    and remnants of Iverson's, under Capt. D. P. Halsey, assistant adjutant-general
+                    of the brigade, who rallied the brigade and assumed command, had restored the
+                    line in the center.</p>
+                <p>Meantime an attempt by the enemy to push a column into the interval between Doles
+                    and O'Neal had been handsomely repulsed by Doles, who, changing front with his
+                    two right regiments, took them in flank, driving them in disorder toward the
+                    town.</p>
+                <p>All of Gen. Rodes' troops were now engaged. The enemy were moving large bodies of
+                    troops from the town against his left, and affairs were in a very critical
+                    condition, when Maj.-Gen. Early, coming up on the Heidlersburg road, opened a
+                    brisk artillery fire upon large columns moving against Doles' left, and ordered
+                    forward Gordon's brigade to the left of Doles', which, after an obstinate
+                    contest, broke Barlow's division, captured Gen. F. C. Barlow, and drove the
+                    whole back on a second line, when they were halted, and Gen. Early ordered up
+                    Hays' and Hoke's brigades on Gordon's left, and the three drove the enemy
+                    precipitately toward and through the town just as Ramseur broke those in his
+                    front.</p>
+                <p>Gen. Gordon mentions that 300 of the enemy's dead were left on the ground passed
+                    over by his brigade. The enemy had entirely abandoned the north end of the town,
+                    and Early entering by the York Railroad at the same time that Rodes came in on
+                    the Cashtown road, they together captured over 4,000 prisoners and three pieces
+                    of artillery, two of which fell into the hands of Early's division. So far as I
+                    can learn, no other troops than those of this corps entered the town at all. My
+                    loss on this day was less than 2,900 killed, wounded, and missing.</p>
+                <p>The enemy had fallen back to a commanding position known as Cemetery Hill, south
+                    of Gettysburg, and quickly showed a formidable front there. On entering the
+                    town, I received a message from the commanding general to attack this hill, if I
+                    could do so to advantage. I could not bring artillery to bear on it, and all the
+                    troops with me were jaded by twelve hours' marching and fighting, and I was
+                    notified that Gen. Johnson's division (the only one of my corps that had not
+                    been engaged) was close to the town.</p>
+                <p>Cemetery Hill was not assailable from the town, and I determined, with Johnson's
+                    division, to take possession of a wooded hill to my left, on a line with and
+                    commanding Cemetery Hill. Before Johnson got up, the enemy was reported moving
+                    to outflank our extreme left, and I could see what seemed to be his skirmishers
+                    in that direction.</p>
+                <p>Before this report could be investigated by Lieut. T. T. Turner, aide-de-camp of
+                    my staff, and Lieut. Robert D. Early, sent for that purpose, and Johnson placed
+                    in position, the night was far advanced.</p>
+                <p>I received orders soon after dark to draw my corps to the right, in case it could
+                    not be used to advantage where it was; that the commanding general thought from
+                    the nature of the ground that the position for attack was a good one on that
+                    side. I represented to the commanding general that the hill above referred to
+                    was unoccupied by the enemy, as reported by Lieut.'s Turner and Early, who had
+                    gone upon it, and that it commanded their position and made it untenable, so far
+                    as I could judge.</p>
+                <p>He decided to let me remain, and on my return to my headquarters, after 12
+                    o'clock at night, I sent orders to Johnson by Lieut. T. T. Turner, aide-de-camp,
+                    to take possession of this hill, if he had not already done so. Gen. Johnson
+                    stated in reply to this order, that after forming his line of battle this side
+                    of the wooded hill in question, he had sent a reconnoitering party to the hill,
+                    with orders to report as to the position of the enemy in reference to it. This
+                    party, on nearing the summit, was met by a superior force of the enemy, which
+                    succeeded in capturing a portion of the reconnoitering party, the rest of it
+                    making its escape. During this conversation with Gen. Johnson, one man arrived,
+                    bringing a dispatch, dated at 12 midnight, and taken from a Federal courier
+                    making his way from Gen. Sykes to Gen. Slocum, in which the former stated that
+                    his corps was then halted 4 miles from Gettysburg, and he would resume his march
+                    at 4 a. m. Lieut. Turner brought this dispatch to my headquarters, and at the
+                    same time stated that Gen. Johnson would refrain from attacking the position
+                    until I had received notice of the fact that the enemy were in possession of the
+                    hill, and had sent him further orders. Day was now breaking, and it was too late
+                    for any change of place.</p>
+                <p>Meantime orders had come from the general commanding for me to delay my attack
+                    until I heard Gen. Longstreet's guns open on the right. Lieut. Turner at once
+                    returned to Gen. Johnson, and delivered these instructions, directing him to be
+                    ready to attack, Early being already in line on the left and Rodes on the right
+                    of the main street of the town, Rodes' line extending out on the Fairfield road.</p>
+                <p>Early in the morning, I received a communication from the commanding general, the
+                    tenor of which was that he intended the main attack to be made by the First
+                    Corps, on our right, and wished me, as soon as their guns opened, to make a
+                    diversion in their favor, to be converted into a real attack if an opportunity
+                    offered.</p>
+                <p>I made the necessary preparations, and about 5 p. m., when Gen. Longstreet's guns
+                    opened, Gen. Johnson commenced a heavy cannonade from Andrews' battalion and
+                    Archibald Graham's battery, the whole under Maj. J. W. Latimer, against the
+                    Cemetery Hill.</p>
+                <p>After an hour's firing, finding that his guns were overpowered by the greater
+                    number and superior position of the enemy's batteries, Maj. Latimer withdrew all
+                    but one battery, which he kept to repel any infantry advance. While with this
+                    battery, this gallant young officer received, from almost the last shell fired,
+                    the wound which has since resulted in his death. Col. Brown says justly of that
+                    calamity, "No greater loss could have befallen the artillery of this corps."
+                    Maj. Latimer served with me from March, 1862, to the second battle of Manassas
+                    (August 28 to 30, 1862). I was particularly struck at Winchester, May 25, 1862,
+                    his first warm engagement, by his coolness, self-possession, and bravery under a
+                    very heavy artillery fire, showing when most needed the full possession of all
+                    his faculties. Though not twenty-one when he fell, his soldierly qualities had
+                    impressed me as deeply as those of any officer in my command.</p>
+                <p>Immediately after the artillery firing ceased, which was just before sundown,
+                    Gen. Johnson ordered forward his division to attack the wooded hill in his
+                    front, and about dusk the attack was made. The enemy were found strongly
+                    intrenched on the side of a very steep mountain, beyond a creek with steep
+                    banks, only passable here and there. Brig. Gen. J. M. Jones was wounded soon
+                    after the attack began, and his brigade, which was on the right with Nicholls'
+                    (Louisiana) brigade (under Col. Williams), was forced back, but Steuart, on the
+                    left, took part of the enemy's breastworks, and held them till ordered out at
+                    noon next day. As soon as information reached him that Johnson's attack had
+                    commenced, Gen. Early, who held the center of my corps, moved Hays' and Hoke's
+                    brigades forward against the Cemetery Hill. Charging over a hill into a ravine,
+                    they broke a line of the enemy's infantry posted behind a stone wall, and
+                    advanced up the steep face of another hill, over two lines of breastworks. These
+                    brigades captured several batteries of artillery and held them until, finding
+                    that no attack was made on the right, and that heavy masses of the enemy were
+                    advancing against their front and flank, they reluctantly fell back, bringing
+                    away 75 to 100 prisoners and four stand of captured colors. Maj.-Gen. Rodes did
+                    not advance, for reasons given in his report.</p>
+                <p>Before beginning my advance, I had sent a staff officer to the division of the
+                    Third Corps, on my right, which proved to be Gen. Pender's, to find out what
+                    they were to do. He reported the division under command of Gen. Lane, who
+                    succeeded Pender, wounded, and who sent word back that the only orders he had
+                    received from Gen. Pender were that he was to attack if a favorable opportunity
+                    presented. I then wrote to him (it being too late to communicate with the corps
+                    commander) that I was about attacking with my corps, and requested that he would
+                    co-operate. To this I received no answer, nor do I believe that any advance was
+                    made. The want of co-operation on the right made it more difficult for Rodes'
+                    division to attack, though, had it been otherwise, I have every reason to
+                    believe, from the eminent success attending the assault of Hays and Avery, that
+                    the enemy's lines would have been carried.</p>
+                <p>I was ordered to renew my attack at daylight Friday morning, and as Johnson's
+                    position was the only one affording hopes of doing this to advantage, he was
+                    re-enforced by Smith's brigade, of Early's division, and Daniel's and Rodes'
+                    (old) brigades, of Rodes' division. Just before the time fixed for Gen. Johnson
+                    to advance, the enemy attacked him, to regain the works captured by Steuart the
+                    evening before. They were repulsed with very heavy loss, and he attacked in
+                    turn, pushing the enemy almost to the top of the mountain, where the precipitous
+                    nature of the hill and an abatis of logs and stones, with a very heavy work on
+                    the crest of the hill, stopped his farther advance.</p>
+                <p>Half an hour after Johnson attacked, and when too late to recall him, I received
+                    notice that Longstreet would not attack until 10 o'clock; but, as it turned out,
+                    his attack was delayed till after 2 o'clock. In Johnson's attack, the enemy
+                    abandoned a portion of their works in disorder, and, as they ran across an open
+                    space to another work, were exposed to the fire of Daniel's brigade at 60 or 70
+                    yards.</p>
+                <p>Our men were at this time under no fire of consequence. Their aim was accurate,
+                    and Gen. Daniel thinks that he killed here in half an hour more than in all the
+                    rest of his fighting. Repeated reports from the cavalry on our left that the
+                    enemy were moving heavy columns of infantry to turn Gen. Johnson's left, at last
+                    caused him about 1 p. m. to evacuate the works already gained. These reports
+                    reached me also, and I sent Capt. G. C. Brown, of my staff, with a party of
+                    cavalry to the left, to investigate them, who found them to be without
+                    foundation, and Gen. Johnson finally took up a position about 300 yards in rear
+                    of the works he had abandoned, which he held, under a cross-fire of artillery
+                    and exposed to the enemy's sharpshooters, until dark. At night my corps fell
+                    back, as ordered, to the range of hills west of the town, taken by us on
+                    Wednesday, where we remained unmolested during July 4.</p>
+                <p>The behavior of my troops throughout this campaign was beyond praise, whether the
+                    points considered be their alacrity and willing endurance of the long marches,
+                    their orderly and exemplary conduct in the enemy's country, their bravery in
+                    action, or their patient endurance of hunger, fatigue, and exposure during our
+                    retreat.</p>
+                <p>The lists of killed and wounded, as well as the results gained, will show the
+                    desperate character of their fighting. In the infantry, Daniel's brigade, of
+                    Rodes' division, and in the artillery, Andrews' battalion, of Johnson's
+                    division, suffered most loss. The Second North Carolina Battalion, of Daniel's
+                    brigade, lost 200 of 240 men, killed and wounded, without yielding an inch of
+                    ground at any time.</p>
+                <p>BACK TO DARKESVILLE.</p>
+                <p>By order of the commanding general, the Third Corps was to move at dark on July
+                    4, and the First to follow with the prisoners, mine being rear guard. Next day
+                    the Third was to take the rear, &amp;c.</p>
+                <p>At 10 a. m. on the 5th, the other corps were not all in the road, and,
+                    consequently, mine did not take up its march till near noon, and only reached
+                    Fairfield at 4 p. m. Here the enemy, who had been threatening our rear and
+                    occasionally opening a fire of artillery on the rear guard (Gordon's brigade, of
+                    Early's division), showed more boldness in attacking, throwing out a line of
+                    skirmishers over a mile in length. They were repulsed, and a battery which was
+                    shelling our column driven off.</p>
+                <p>We encamped for the night on a hill 1 1/2 miles west of Fairfield, and next day,
+                    July 6, the Third Corps moving by another road, we were still in the rear,
+                    Rodes' division acting as rear guard, and repelling another attack of the enemy.
+                    The Forty-fifth North Carolina, Daniel's brigade, under Capt. James A. Hopkins,
+                    being summoned to surrender, attacked the troops making the summons, and drove
+                    them out of a wood in which they were posted. The enemy did not follow much
+                    beyond Fairfield. The road was again blocked till noon. That night we encamped
+                    near Waynesborough, and reached Hagerstown about noon of July 7.</p>
+                <p>On the 11th, we were moved into line between Hagerstown and Williamsport, our
+                    right joining the left of the Third Corps, and began fortifying, and in a short
+                    time my men were well protected. Their spirit was never better than at this
+                    time, and the wish was universal that the enemy would attack.</p>
+                <p>On the night of the 14th, I was ordered with my infantry and artillery to ford at
+                    Williamsport, the ammunition-chests going in the ferry-boats. I could find no
+                    ferry-boats, nor any one in charge; it was dark and raining. The entrance to the
+                    river would have been impracticable for artillery in daylight, and, as well as I
+                    could ascertain, the exit was worse. Everything was in confusion. Col. Corley,
+                    chief quartermaster Army of Northern Virginia, who had charge of the
+                    arrangements, recommended Col. Brown, my chief of artillery, to cross by the
+                    pontoons, and sent to the same point my reserve train of ambulances with
+                    wounded, originally intended to cross by the ferry-boats. Just before midnight,
+                    my advance (Rodes' division) commenced crossing. The men had directions to sling
+                    their cartridge boxes over their shoulders, but many rounds of ammunition were
+                    necessarily lost, as the water was up to their armpits the whole way across,
+                    sometimes deeper. By 8 o'clock my whole corps was over, all fording excepting
+                    Hays' brigade, which was sent with the artillery to the pontoons.</p>
+                <p>While in camp near Darkesville, the enemy, under Kelley, were reported between
+                    Martinsburg and Hedgesville, protecting the Baltimore and Ohio Railroad, and
+                    occasionally skirmishing with Johnson's division, which was destroying the
+                    track.</p>
+                <p>Gen. Lee, commanding, directed on the 21st an effort to be made to capture this
+                    force, said to be 6,000 strong, sending Early's division to get in rear through
+                    Mill's Gap and down Back Creek, while I joined Rodes to Johnson, and marched
+                    against their front. Though these movements were made in the night of the 21st,
+                    the enemy heard of them through spies, and early on the 22d had retreated out of
+                    reach.</p>
+                <p>The other corps had already marched toward the Blue Ridge, and accordingly we
+                    followed, and bivouacked near Winchester, and next day, on reaching Manassas
+                    Gap, found Wright's brigade, of Anderson's division, deployed to repel a large
+                    body of the enemy who were advancing upon it through the Gap. The insignia of
+                    two corps could be seen in the Gap, and a third was marching up; over 10,000 men
+                    were in sight.</p>
+                <p>The enemy were so close to Wright's brigade that the line of battle had to be
+                    chosen some distance in the rear, and accordingly some 250 sharpshooters, of
+                    Rodes' division, under Maj. Eugene Blackford, were added to Wright's brigade, to
+                    hold the enemy in check while the line was formed. Rodes' (old) brigade, Col.
+                    O'Neal, deployed as skirmishers, formed the first, and the remainder of Rodes'
+                    division, with Carter's battalion of artillery, the second line. These
+                    dispositions were made by Gen. Rodes with his usual promptness, skill, and
+                    judgment. The enemy were held in check for some time by the line of Wright's
+                    brigade and the skirmishers under Maj. Blackford, which they at last drove back
+                    with considerable loss to themselves by flanking it. These troops, in full view,
+                    showed great gallantry, and though intended merely to make a show, held the
+                    enemy back so long and inflicted such loss that they were satisfied not to come
+                    within reach of O'Neal, but remained at a safe distance, where they were
+                    leisurely shelled by Carter's artillery.</p>
+                <p>Johnson's division was ordered to take position near the river, to prevent the
+                    enemy cutting me off from the ford at Front Royal, and, though not required in
+                    action, was promptly in place. Early's division, much jaded, was 15 miles off,
+                    near Winchester, and could not possibly reach me before the afternoon of next
+                    day.</p>
+                <p>I had reason to believe that Meade's whole army was in our front, and having but
+                    two divisions to oppose him, I decided to send Early up the Valley, by Strasburg
+                    and New Market, while I marched the other two divisions up the Page Valley to
+                    Luray, the route pursued by Jackson, in 1862, in his campaign against Banks.
+                    Johnson's and Rodes' divisions moved back 2 to 4 miles, and encamped near Front
+                    Royal, the rear guard, under Col. B. T. Johnson, of Johnson's division, leaving
+                    Front Royal after 10 o'clock next day, the enemy making only a slight advance,
+                    which was driven back by a few rounds of artillery. Rodes' division, the only
+                    troops of my corps that I saw during this affair, showed great eagerness and
+                    alacrity to meet the enemy, and, had he advanced, would have given him a severe
+                    lesson.</p>
+                <p>I was indebted for correct and valuable information regarding the strength and
+                    movements of the enemy at this point to Capt. W. F. Randolph, commanding cavalry
+                    escort attached to my headquarters, and to Capt. R. E. Wilbourn, of the signal
+                    corps.</p>
+                <p>In this campaign, the loss of my corps was as follows: At Winchester and in the
+                    Valley, 47 killed, 219 wounded, and 3 missing; aggregate, 269. At Gettysburg and
+                    in Pennsylvania, 883 killed, 3,857 wounded, 1,347 missing; aggregate, 6,094. For
+                    the entire campaign, 930 killed, 4,076 wounded, and 1,350 missing; aggregate,
+                    6,356. Before crossing the Potomac, it captured 28 pieces of artillery and about
+                    4,500 prisoners. About 200 prisoners were taken before reaching Gettysburg. At
+                    that place over 4,000 prisoners, 3 pieces of artillery, and 4 stand of colors,
+                    memorable as having been brought off Cemetery Hill, were the spoils gained,
+                    making altogether nearly 9,000 prisoners and 31 pieces of artillery.</p>
+                <p>The Fifty-fourth North Carolina Regt., of Hoke's brigade, and the Fifty-eighth
+                    Virginia Regt., of Smith's brigade in Early's division, sent to Staunton from
+                    Winchester with prisoners, returned in time to aid Gen. Imboden in repelling the
+                    enemy's attack on the wagon trains at Williamsport.</p>
+                <p>Iverson's brigade, sent back to guard my wagon train from Fairfield, had a
+                    handsome affair with the enemy's cavalry at Hagerstown, in which they are
+                    reported by Gen. Iverson as killing, wounding, and capturing a number equal to
+                    their whole force.</p>
+                <p>At Winchester, the Maryland battalion was attached to Gen. Steuart's brigade, and
+                    the Baltimore Light Artillery to Col. Brown's battalion, with which they served
+                    with their usual gallantry throughout the campaign.</p>
+                <p>At Gettysburg, July 1, I was much pleased with the conduct of Capt. Carter's
+                    battery, which came under my immediate observation.</p>
+                <p>The conduct of Hays' (Louisiana) and Hoke's (North Carolina) brigades (the latter
+                    under Col. Avery) at Cemetery Hill, Gettysburg, was worthy of the highest
+                    praise. In this and at Winchester the Louisiana brigade and their gallant
+                    commander gave new honor to the name already acquired on the old fields of
+                    Winchester and Port Republic, and wherever engaged.</p>
+                <p>Lieut.-Col. Andrews, of the artillery, not fully recovered from his serious
+                    wounds received at Cedar Run, was again wounded at Winchester, and, while
+                    suffering from his wounds, appeared on the field at Hagerstown, and reported for
+                    duty.</p>
+                <p>The rapid and skillful advance of Gordon's brigade on June 13, near Winchester,
+                    with great spirit driving the enemy in confusion toward the town, was one of the
+                    finest movements I have witnessed during the war, and won for the troops and
+                    their gallant commander the highest commendation.</p>
+                <p>I beg leave to call attention to the gallantry of the following men and officers:</p>
+                <p>AT WINCHESTER.</p>
+                <p>Lieut. John Orr, adjutant Sixth Louisiana, was the first man to mount the enemy's
+                    breastworks on the 14th, receiving in the act a bayonet wound in the side. Gen.
+                    Early recommends him for captain of cavalry, he being desirous of entering that
+                    branch of the service, for which he is eminently qualified.</p>
+                <p>Lieut. C. S. Contee's section of Dement's battery was placed in short
+                    musket-range of the enemy on June 15, and maintained its position till 13 of the
+                    16 men in the two detachments were killed or wounded, when Lieut. John A.
+                    Morgan, of the First North Carolina Regt., and Lieut. R. H. McKim, aide-de-camp
+                    to Brig. Gen. G. H. Steuart, volunteered and helped to work the guns till the
+                    surrender of the enemy. The following are the names of the gallant men belonging
+                    to this section: First gun--Sergt. John G. Harris; Corpls. William P. Compton,
+                    Samuel Thompson; Privates Robert Chew, William Koester, Charles Pease, A. James
+                    Albert, jr., William T. Wootton, John R. Yates, jr., H. J. Langsdale, and John
+                    R. Buchanan. Second gun--Sergt. John E. Glascocke; Corpls. William H. May,
+                    Charles Harris; Privates Thomas Moore, William Gorman, F. Frayer, William W.
+                    Wilson, Samuel Thomas, R. T. Richardson, William Sherburne, James Owens, William
+                    Dallam, and Joseph Mockabee.</p>
+                <p>Col. Brown, acting chief of artillery, recommends Lieut. Contee for promotion to
+                    the captaincy of the Chesapeake Artillery, vice Capt. W. D. Brown, a most
+                    gallant and valuable officer, killed at Gettysburg.</p>
+                <p>Sergeants A. L. East, William H. Eades, and F. D. Milstead, jr., of Capt. Raine's
+                    battery, are mentioned for gallantry on the 15th.</p>
+                <p>AT GETTYSBURG.</p>
+                <p>Capt. D. P. Halsey, assistant adjutant-general of Iverson's brigade, displayed
+                    conspicuous gallantry, and rendered important service in rallying the brigade,
+                    which he led in its final attack.</p>
+                <p>Gen. Rodes speaks of the services rendered by Col. D. H. Christie, North Carolina
+                    (mortally wounded July 1), as having been especially valuable. First Lieut. F.
+                    M. Harney, Fourteenth North Carolina, while in command of sharpshooters,
+                    defeated the One hundred and fiftieth Pennsylvania Regt., and took their colors
+                    with his own hand, falling, mortally wounded, soon after.</p>
+                <p>Capt. A. H. Gallaway, Forty-fifth North Carolina, recaptured the flag of the
+                    Twentieth North Carolina, of Iverson's brigade.</p>
+                <p>Sergt. Thomas J. Betterton, Company A, Thirty-seventh Virginia, took a stand of
+                    colors, and was dangerously wounded.</p>
+                <p>Private W. H. Webb, orderly to Gen. Johnson, remained on the field after being
+                    severely wounded. Gen. Johnson says, "His conduct entitles him to a commission."</p>
+                <p>The following non-commissioned officers and privates are honorably mentioned for
+                    gallantry: Sergeant P. B. Grier, Company B; Sergeant G. W. Wills, Company D,
+                    Forty-third North Carolina; Sergeant E. J. Null and Private W. D. McAdoo,
+                    Company A, Fifty-third North Carolina; Sergt. Christopher Clark, Twelfth
+                    Alabama; Private A. F. Senteo, Company H, Twenty-fifth Virginia (detailed in
+                    ambulance corps).</p>
+                <p>Many officers besides those above named are distinguished by their commanders for
+                    gallant behavior. I have only space for the names of a few, whose acts of
+                    gallantry are specified.</p>
+                <p>I was fortunate in this campaign in the assistance of three division
+                    commanders--Maj. Gens. Jubal A. Early, Edward Johnson, and Robert E.
+                    Rodes--whose wise counsel, skillful handling of their commands, and prompt
+                    obedience to orders are beyond praise--generals whose scars bear witness to the
+                    manner in which were won their laurels and rank.</p>
+                <p>Col. J. T. Brown, commanding artillery of this corps, showed himself competent to
+                    his position, and gave me perfect satisfaction.</p>
+                <p>I have to express my thanks to the officers of my staff for their valuable
+                    services during the campaign: Maj. (now Lieut. Col.) A. S. Pendleton, chief of
+                    staff; Maj. G. Campbell Brown, assistant adjutant-general; Lieuts. T. T. Turner
+                    and James P. Smith, aides-decamp; Col. A. Smead and Maj. B. H. Green, assistant
+                    inspectors-general; Surg. H. McGuire, medical director; Maj. J. A. Harman, chief
+                    quartermaster; W. J. Hawks, chief commissary of subsistence; William Allan,
+                    chief of ordnance; Capts. R. E. Wilbourn, chief of signals; H. B. Richardson,
+                    chief engineer, and Jed Hotchkiss, topographical engineer. Col. J. E. Johnson,
+                    formerly of the Ninth Virginia Cavalry; Lieuts. Elliott Johnston, of Gen.
+                    Garnett's staff, and R. W. B. Elliott, of Gen. Lawton's staff, were with me as
+                    volunteer aides-de-camp.</p>
+                <p>Col. Pendleton's knowledge of his duties, experience, and activity relieved me of
+                    much hard work. I felt sure that the medical department, under Surg. H. McGuire,
+                    the quartermaster's, under Maj. Harman, and the subsistence, under Maj. Hawks,
+                    would be as well conducted as experience, energy, and zeal would allow. The
+                    labor and responsibility of providing the subsistence of the whole army during
+                    its advance rested to a great measure on Maj. Hawks, and could not have been
+                    more successfully accomplished.</p>
+                <p>Col. J. E. Johnson, formerly of the Ninth Virginia Cavalry, was placed in charge
+                    of the pickets on the Shenandoah, covering my flank and rear during the attack
+                    on Winchester, and I rested securely in that respect, trusting to his
+                    experience, judgment, and coolness.</p>
+                <p>Capt. H. B. Richardson, chief engineer, was severely wounded at Gettysburg, and
+                    was left, I regret to say, in the enemy's hands--a loss I have very seriously
+                    felt ever since that engagement.</p>
+                <p>The efficiency and value of Maj. Allan and Capt. Wilbourn in their respective
+                    departments are well known.</p>
+                <p>The reports of the division commanders accompany this report, as also those of
+                    the brigade commanders and the chief of artillery. To these I beg leave to refer
+                    for greater detail in their respective operations than is practicable in the
+                    report of the corps commander.</p>
+                <p>I have the pleasure to send you the accompanying maps of the campaign by Capt.
+                    Jed Hotchkiss, topographical engineer, being the map of routes to and from
+                    Gettysburg, map of the battle-field of Winchester, and map of the battle-field
+                    of Gettysburg.</p>
+                <closer>
+                    <salute>I have the honor to remain, &amp;c.,</salute>
+                    <signed>R. S. EWELL,<lb/> Lieut.-Gen., Provisional Army, C. S. Army.</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

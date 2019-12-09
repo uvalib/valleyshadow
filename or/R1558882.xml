@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+
+<?dlps id="R1558882"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 n="au" id="R1558882">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">CHAP. XIV. Confederate Correspondence.</title>
+        <title type="sort">chap xiv confederate correspondence</title>
+        <author>Deas, George</author>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name/>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent> 
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <publisher>University of Virginia</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">R1558882</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1999 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved.</p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:499950</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>CHAP. XIV. Confederate Correspondence.</title>
+            <title type="uniform">The War of The Rebellion: Official Records of the
+                            Union and Confederate Armies</title>
+            <title type="sort">chap xiv confederate correspondence</title>
+            <author>Deas, George</author>
+            <respStmt>
+                            <resp>Translator:</resp>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p>Series 1, Volume 5, Serial No. 5</p>
+                    </editionStmt>
+                    <extent>Pages 888</extent>
+                    <publicationStmt>
+                        <publisher>Broadfoot Publishing Company</publisher>
+                        <pubPlace>Wilmington, NC</pubPlace>
+                        <date value="1997">1997</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Publisher</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1861-10-03">1861-10-03</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term/>
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="R1558882T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Confederate Assistant Adjutant George Deas forwards to Major George Stevens
+                    Governor Letcher's September, 1861, dispatch concerning recruiting in Nelson
+                    County. Letcher threatens to call out the militia and order them to Staunton if
+                    the County does not provide its quota of volunteers.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    HDQRS. VIRGINIA FORCES,<lb/> ADJUTANT AND INSPECTOR GEN.'S OFFICE
+                    <name type="recipient">Maj. GEORGE S. STEVENS, Cmdg., Nelson Station, Va.:</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1861-10-03">October 3, 1861.</date>
+                        <name type="place">Richmond, Va.,</name>
+                    </dateline>
+                    <salute>SIR:</salute>
+                </opener>
+                <p>I have the honor to submit to you the following remarks of Governor Letcher
+                    relative to your detailed report of the state of the militia in the county of
+                    Nelson, dated the 23d ultimo, viz:</p>
+                <p>EXECUTIVE DEPARTMENT, September 28, 1861.<lb/> The county of Nelson not having
+                    furnished her quota of volunteers, militia went into camp August 6, 1861. The
+                    return of the colonel, one received at the office of the adjutant-general
+                    (Richardson), on the 7th of this month, showed that he then had at Camp Mitchell
+                    197. This return shows 163, a reduction of 34. Under the 10 percent regulation
+                    they were short of their quota upwards of 150 men. While in the camp I proposed,
+                    if they would furnish a company of 80 volunteers, I would accept them and
+                    disband the balance. These men were to be furnished by a given day, which has
+                    long since passed. I still indulged them, and told the officers and others who
+                    called upon me that if the number of 80 was not furnished I would order the
+                    militia to rendezvous at Staunton, where they would be attached to a regiment
+                    being formed at that place. Finding they would do nothing, they were ordered to
+                    Staunton. After the order was issued major Stevens came here to see me, and did
+                    not pretend to justify their conduct. Among other things, he said, in the
+                    presence of Col. Dimmock, that they did not think I would order them into
+                    service; that I was not in earnest. I told him as the order had been given they
+                    could now tell whether I had been jesting on so serious a subject, and that he
+                    must return and execute the order without delay.<lb/> JOHN LETCHER,</p>
+                <closer>
+                    <salute>Very respectfully, your obedient servant,</salute>
+                    <signed>GEO. DEAS,<lb/> Assistant Adjutant-Gen.</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

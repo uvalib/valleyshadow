@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+
+<?dlps id="R0004"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 n="au" id="R0004">
+ <teiHeader type="migrated">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">First Manassas, 5th Va. Infantry, Report of Brig. Gen. T.J. Jackson, July 23,
+     1861 </title>
+        <title type="sort">first manassas, 5th va infantry report of brig gen t j jackson july 23 1861</title>
+        <author>Jackson, T. J.</author>
+        <respStmt>
+          <resp>Creation of machine-readable version:</resp>
+          <name/>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Peter Brownfeld</name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. <num type="kilobytes">10</num> kilobytes</extent> 
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <publisher>University of Virginia</publisher>
+        <pubPlace>Charlottesville, Virginia</pubPlace>
+        <idno type="VCDH">R0004</idno>
+        <!--
+    <availability>
+     <p>Text and images (c) Copyright 1999 by The Rector and Visitors of The University of Virginia.
+      All rights reserved.</p>
+     <p>URL: http://jefferson.village.virginia.edu/vshadow2</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:500055</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Chap. IX. THE BULL RUN CAMPAIGN, No. 82 Report of Brig. Gen. T.J. Jackson, C.S. Army,
+       commanding First Brigade, Army of the Shenandoah.</title>
+            <title type="uniform">The War of The Rebellion: Official Records of the Union and Confederate
+       Armies</title>
+            <title type="sort">chap ix the bull run campaign, no 82 report of brig gen t j jackson c s army commanding first brigade army of the shenandoah</title>
+            <author>T.J. Jackson</author>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p>Series I, Volume 2, Serial No. 2</p>
+          </editionStmt>
+          <extent>Pages 481-482</extent>
+          <publicationStmt>
+            <publisher>Broadfoot Publishing Company</publisher>
+            <pubPlace/>
+            <date value=""/>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Publisher</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date value="1861-07-23">1861-07-23</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>American Civil War</term>
+          <term/>
+          <term>Regiment: 5th Va. Inf.</term>
+          <term>Company:</term>
+          <term>Battle: First Manassas</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+ <text id="R0004T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>General T.J. Jackson commanded the First Brigade in the Fifth Virginia Infantry in the Army
+     of the Shenandoah.</p>
+   </div1>
+  </front>
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     HEADQUARTERS FIRST BRIGADE
+     <name type="recipient">Major</name>
+    </head>
+    <opener>
+     <dateline>
+      <date value="1861-07-23">July 23, 1861</date>
+      <name type="place">Camp near Manassas, Va.</name>
+     </dateline>
+     <salute>MAJOR:</salute>
+    </opener>
+    <p>have the honor to submit the following report of the operations of my brigade on the 21st:</p>
+    <p>About 4 in the morning I received notice from Gen. Longstreet that he needed a re-enforcement
+     of two regiments, which were accordingly ordered.</p>
+    <p>Subsequently I received an order from Gen. Beauregard to move to the support of Gen. Bonham,
+     afterwards to support Gen. Cocke, and finally to take such position as would enable me to
+     re-enforce either, as circumstances might require.</p>
+    <p>Whilst in the position last indicated I received a request from Gen. Cocke to guard the stone
+     bridge, and immediately moved forward to effect the object in view.</p>
+    <p>Subsequently ascertaining that Gen. Bee, who was on the left of our line, was hard pressed, I
+     marched to his assistance, notifying him at the same time that I was advancing to his support;
+     but, before arriving within cannon range of the enemy, I met Ge n. Bee's forces falling back. I
+     continued to advance with the understanding that he would form in my rear. His battery, under
+     its dauntless commander, Capt. Imboden, reversed and advanced with my brigade.</p>
+    <p>The first favorable position for meeting the enemy was at the next summit, where at 11.30
+     a.m., I posted Capt. Imboden's battery and two pieces of Capt. Stanard's, so as to play upon
+     the advancing foe. The Fourth Regiment, commanded by Col. James F. Pr eston, and the
+     Twenty-seventh Regiment, commanded by Lieut. Col. John F. Preston, and the Twenty-seventh
+     Regiment, commanded by Lieut. Col. John Echols, were posted in rear of the batteries; the Fifth
+     Regiment, commanded by Col. Kenton Harper, was posted on the right of the batteries; the Second
+     Regiment, commanded by Col. James W. Allen, on the left, and the Thirty-third commanded by Col.
+     A. C. Cummings, on his left. I also ordered forward the other two pieces of Capt. Stanard's and
+     all those of Col. Pen dleton's battery. They, as well as the battery under Lieut. Pelham, came
+     into action on the same line as the others; and nobly did the artillery maintain for hours
+     against the enemy's advancing thousands. Great praise is due to Col. Pendleton and the othe r
+     officers and men.</p>
+    <p>Apprehensive lest my flanks should be turned, I sent an order to Cols. Stuart and Radford, of
+     the cavalry, to secure them. Col. Stuart and that part of his command with him deserve great
+     praise for the promptness with which they moved to my left and se cured the flank by timely
+     charging the enemy and driving him back.</p>
+    <p>Gen. Bee, with his rallied troops, soon marched to my support; and as re-enforcements
+     continued to arrive Gen. Beauregard posted them so as to strengthen the flanks of my brigade.
+     The enemy not being able to force our lines by a direct fire of artiller y, inclined part of
+     his batteries to the right, so as to obtain an oblique fire; but in doing so exposed his pieces
+     to a more destructive fire from our artillery, and one of his batteries was thrown so near to
+     Col. Cummings that it fell into his hands in consequence of his having made a gallant charge on
+     it with his regiment; but owing to a destructive small-arm fire from the enemy he was forced to
+     abandon it.</p>
+    <p>At 3.30 p.m. the advance of the enemy having reached a position which called for the use of
+     the bayonet, I gave the command for the charge of the more than brave Fourth and
+     Twenty-seventh, and, under commanders worth of such regiments, they, in the ord er in which
+     they were posted, rushed forward obliquely to the left of our batteries, and through the
+     blessing of God, who gave us the victory, pierced the enemy's center, and by co-operating with
+     the victorious Fifth and other forces soon placed the field essentially in our possession.</p>
+    <p>About the time that Col. Preston passed our artillery the heroic Lieut.-Col. Lackland, of the
+     Second Regiment, followed by the highly meritorious right of the Second, took possession of and
+     endeavored to remove from the field the battery which Col. Cum mings had previously been forced
+     to abandon; but after removing one of the pieces some distance was also forced by the enemy's
+     fire to abandon it.</p>
+    <p>The brigade, in connection with other troops, took seven field pieces in addition to the
+     battery captured by Col. Cummings. The enemy, though repulsed in the center, succeeded in
+     turning our flanks. But their batteries having been disabled by our fire, and also abandoned by
+     reason of the infantry charges, the victory was soon completed by the fire of small-arms and
+     occasional shots from a part of our artillery, which I posted on the next crest in rear.</p>
+    <p>By direction of Gen. Johnston I assumed the command of all the remaining artillery and
+     infantry of the Army near the Lewis house, to act as circumstances might require. Part of this
+     artillery fired on the retreating enemy. The colors of the First Michi gan Regiment and an
+     artillery flag were captured-the first by the Twenty-seventh Regiment and the other by the
+     Fourth.</p>
+    <p>Lieut. Col. F. B. Jones, acting assistant adjutant-general; Lieut. T. G. Lee, aide-de-camp,
+     and Lieut. A. A. Pendleton, brigade ordnance officer, and Capt. Thomas Marshall, volunteer
+     aide, rendered valuable service. Cadets J. W. Thompson and N. W. Lee, also volunteer aides,
+     merit special praise. Dr. Hunter H. McGuire has proved himself to be eminently qualified for
+     his position-that of medical director of the brigade. Capt. Thomas L. Preston, though not of my
+     command, rendered valuable service during t he action.</p>
+    <p>It is with pain that I have to report as killed 11 officers, 14 non-commissioned officers,
+     and 86 privates; wounded, 22 officers, 27 non-commissioned officers, and 319 privates; and
+     missing, 1 officer and 4 privates.</p>
+    <p>I respectfully call attention to the accompanying reports of the commanders of the regiments
+     and battery composing this brigade.*</p>
+    <closer>
+     <salute>Your most obedient servant,</salute>
+     <signed>T.J. JACKSON,<lb/> Brig.-Gen., Provisional Army, Confederate States </signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

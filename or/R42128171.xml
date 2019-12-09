@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+
+<?dlps id="R42128171"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 n="au" id="R42128171">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Confederate Correspondence.</title>
+        <title type="sort">confederate correspondence</title>
+        <author>Shields, J. D.</author>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name/>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">10</num> kilobytes</extent> 
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <publisher>University of Virginia</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">R42128171</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1999 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved.</p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:500045</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Confederate Correspondence.</title>
+            <title type="uniform">The War of The Rebellion: Official Records of the
+                            Union and Confederate Armies</title>
+            <title type="sort">confederate correspondence</title>
+            <author>Shields, J. D.</author>
+            <respStmt>
+                            <resp>Translator:</resp>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p>Series 4, Volume 2, Serial No. 128</p>
+                    </editionStmt>
+                    <extent>Pages 171</extent>
+                    <publicationStmt>
+                        <publisher>Broadfoot Publishing Company</publisher>
+                        <pubPlace>Wilmington, NC</pubPlace>
+                        <date value="1997">1997</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Publisher</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1862-11-06">1862-11-06</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term/>
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="R42128171T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Confederate Colonel J. D. Shields reports to Adjutant General Samuel Cooper on
+                    enrolling conscripts in November, 1862. Shields discusses the availability of
+                    conscripts and mentions Colonel Michael G. Harman's command at Staunton.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    HDQRS. CAMP OF INSTRUCTION,
+                    <name type="recipient">Gen. S. COOPER,<lb/> Adjutant and Inspector Gen.:</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1862-11-06">November 6, 1862.</date>
+                        <name type="place">Near Richmond,</name>
+                    </dateline>
+                    <salute>GEN.:</salute>
+                </opener>
+                <p>Accompanying my report, herewith inclosed, I have the honor to submit the
+                    following statement: The report only gives the operations of this and the camp
+                    of instruction at Dublin Depot. The counties of the Valley have been nearly
+                    drained of conscripts by officers sent for the purpose by Maj.-Gen. Jackson, and
+                    the men never accounted for to me, with the exception of those reported by Col.
+                    M. G. Harman, Fifty-second Virginia Regt., enrolling officer at Staunton. The
+                    same is the case with all the counties within the influence of Maj.-Gen.
+                    Loring's command. Undoubtedly a very large number of conscripts have been
+                    collected and sent to the armies of the Valley and Southwestern Virginia who do
+                    not appear upon my report, which is chiefly confined to the eastern portion of
+                    the State. The discrepancy between the "total number enrolled as liable to duty"
+                    and the total number actually received into the camps of instruction is due to
+                    the fact that a great many of the men fail to report at the time and place
+                    appointed, and others desert en route. The enrolling officers, as a general
+                    thing not being provided with competent guards, have not the means of preventing
+                    this, but many of these men subsequently join volunteer companies already in the
+                    service, and should be properly accounted for to me by the officers receiving
+                    them. The number of desertions from this camp have been about 140 up to this
+                    time; four-fifths of these have been substitutes deserting within twenty-four
+                    hours of their being received as such. I have endeavored in every way to protect
+                    the Government in this matter of substitutes, even to retaining the money until
+                    they are assigned, but with no success. Either some example should be made of
+                    them or the principal be in some manner held responsible. I should be pleased to
+                    receive any suggestions or instructions concerning this subject from the
+                    Department. A majority of the enrolling officers have failed or not deemed it
+                    necessary to report to me the number or deserters, stragglers, &amp;c.,
+                    arrested by them and returned to their respective regiments. I am confident the
+                    number so arrested is very large, nearly equaling the conscripts, from the
+                    verbal statements of these officers, and it should be credited to the recruiting
+                    conscripts service. I shall instruct the officers hereafter to make their
+                    reports embrace this class as well as the conscripts. At the beginning of the
+                    conscripts service I was mainly dependent upon the State officers for purpose of
+                    enrollment, but subsequently received the services of many regular C. S.
+                    officers. Nine out of ten State officers and a large number of C. S. officers
+                    proving inefficient, have been from time to time relieved. Now that the act has
+                    been extended to embrace all persons between eighteen and forty, I respectfully
+                    request that I may be permitted to select from the regular service such officers
+                    as I know will render efficient service in enrolling and reporting the
+                    conscripts promptly into camp. In this connection I have already brought to your
+                    attention the names of Maj. Cabell, Capt. McPhail, and one or two others. I
+                    propose to assign a superior officer to each Congressional district, who will
+                    have entire charge of the business in his district, receiving the reports of
+                    subordinate officers in the different counties, and forwarding the conscripts as
+                    enrolled to the nearest camp of instruction. He will also have control of the
+                    expenditures of the subordinate officers, and thus effect a great saving to the
+                    public Treasury, as he will be required to certify to the justness of all
+                    accounts before they are submitted to this office. I hope it will be the
+                    pleasure of the Department to accept my suggestion in this matter, as it is my
+                    earnest desire to see the act carried out in the most expeditious and effective
+                    manner, and at the same time with the very smallest cost to the Government.</p>
+                <closer>
+                    <salute>I am, general, very respectfully,</salute>
+                    <signed>J. D. SHIELDS,<lb/> Lieut.-Col., Cmdg.</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

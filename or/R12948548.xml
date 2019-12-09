@@ -1,0 +1,256 @@
+<?xml version="1.0"?>
+
+<?dlps id="R12948548"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 n="au" id="R12948548">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">CHAP. XLI. Report of Gen. John D. Imboden.</title>
+        <title type="sort">chap xli report of gen john d imboden</title>
+        <author>Imboden, John</author>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name/>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">15</num> kilobytes</extent> 
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <publisher>University of Virginia</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">R12948548</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1999 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved.</p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:499166</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>CHAP. XLI. Report of Gen. John D. Imboden.</title>
+            <title type="uniform">The War of The Rebellion: Official Records of the
+                            Union and Confederate Armies</title>
+            <title type="sort">chap xli report of gen john d imboden</title>
+            <author>Imboden, John</author>
+            <respStmt>
+                            <resp>Translator:</resp>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p>Series 1, Volume 29, Serial No. 48</p>
+                    </editionStmt>
+                    <extent>Pages 547-549</extent>
+                    <publicationStmt>
+                        <publisher>Broadfoot Publishing Company</publisher>
+                        <pubPlace>Wilmington, NC</pubPlace>
+                        <date value="1997">1997</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Publisher</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1863-11-14">1863-11-14</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term/>
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="R12948548T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Confederate General John Imboden reports from Staunton to Robert Chilton, Lee's
+                    Chief of Staff, on November, 1863, efforts to oppose a raid in West Virginia and
+                    the Valley by Union cavalry under William Averell. At one point, Imboden felt
+                    that Staunton was threatened, and he reports calling out the Augusta Home
+                    Guards.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    No 22. Report of Brig. Gen. John D. Imboden, C. S. Army, commanding Valley
+                    District, of operations November 4-14.
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1863-11-14">November 14, 1863.</date>
+                        <name type="place">STAUNTON,</name>
+                    </dateline>
+                    <salute>COLONEL:</salute>
+                </opener>
+                <p>On the evening of the 4th instant, I received a note from Lieutenant Byrd,
+                    commanding detachment at Hightown, in Highland County, that the enemy had
+                    appeared over 5,000 strong at Camp Barrow, on the east side of Cheat Mountain,
+                    and a few hours later another dispatch that he had moved toward Huntersville.</p>
+                <p>At daybreak on the 5th, I left my camp, 4 miles from Bridgewater, and moved to
+                    Buffalo Gap and encamped. I ordered six days' rations (hard bread and bacon) to
+                    be sent on the cars to Goshen Depot, and on the 6th I left Buffalo Gap with my
+                    best mounted men (about 600 men) and a section of artillery, without baggage.
+                    Halted at Goshen, issued provisions to the men, and encamped at Bratton's, in
+                    Bath County.</p>
+                <p>Started at dawn on the 7th, and passed the Warm Springs at 1 p. m. on the
+                    Huntersville road. There heard that a battle was fought on the 6th between the
+                    forces of General Echols and Colonel Jackson and the enemy at Mill Point, in
+                    Pocahontas. I resolved to fall upon the enemy's rear if possible and pushed on.
+                    At the foot of Back Creek Mountain a courier from Covington brought me a
+                    dispatch from Captain Skeen that Echols was badly defeated; had retreated
+                    through Lewisburg toward Monroe; that a large column of the enemy had arrived at
+                    Lewisburg from Kanawha, making the entire hostile force at that point 15,000
+                    strong. Believing it impossible to cross by Huntersville and do any good, I
+                    changed my course down Jackson's River toward Covington. That night I received a
+                    telegram from General Samuel Jones in cipher, which I could not read, never
+                    having been furnished the key.</p>
+                <p>On Sunday, the 8th, I pressed on to Covington, where I found more than 100
+                    panic-stricken refugees from Colonel Jackson's command, and that night more came
+                    in. I placed a company on picket at Callaghan's. A little after dark my picket
+                    was attacked. Had one horse shot, but repelled the enemy and held the post.</p>
+                <p>When I changed my course down Jackson's River on Saturday I sent an order to the
+                    Rockbridge Home Guards and Cadets, who were at Millborough, to go to Clifton
+                    Forge, which they did on Sunday, and encamped only 13 miles from me. They
+                    numbered about 800 men and had two 6-pounder guns.</p>
+                <p>On Monday, the 9th, at dawn, the enemy appeared in force at Callaghan's and
+                    attacked my picket. It came in slowly. One and a half miles west of Covington I
+                    took position on the crest of a mountain to give battle. The force that drove in
+                    my picket was about 400 cavalry. When the head of the column came within about
+                    1,200 yards I opened on it with my artillery, and by a few shots repulsed and
+                    scattered it, when two companies of my cavalry charged and drove the whole force
+                    back at full run to Callaghan's, where they joined the main column, over 3,000
+                    strong, and moved off on the Warm Springs road. As soon as apprised of this
+                    fact, and that the enemy had seven pieces of artillery along, I felt sure he
+                    intended to get in my rear, if possible, by a country road, which I knew was
+                    entirely practicable. I at once withdrew to a hill 1 mile east of Covington, and
+                    sent to hurry up the Rockbridge forces, intending to give battle at that point
+                    (a very strong position) to whatever force might appear. In the meanwhile a part
+                    of my cavalry, under Colonel Imboden, were thrown out about 4 or 5 miles to
+                    watch the enemy's movements.</p>
+                <p>Early in the afternoon it was ascertained that Averell had left the Warm Springs
+                    road and gone off toward Huntersville. As it was possible this might be a ruse,
+                    and that he would sweep around by the Warm Springs and reach Millborough, I
+                    resolved to move, via Clifton Forge, to Goshen as quick as possible, sending
+                    scouts to watch Averell and report to me at Goshen. I commenced my march at
+                    once, and in a little over twenty-four hours made Goshen, a distance of 40
+                    miles, on the 10th. Hearing from my scouts I dismissed the Rockbridge forces. My
+                    scouts reported Averell as making for Monterey, up Back Creek, and moving very
+                    rapidly.</p>
+                <p>On the 11th, I came to Buffalo Gap, where I ascertained beyond a doubt that
+                    Mulligan, with a fresh force of 800 men from Petersburg, would form a junction
+                    that evening with Averell at Monterey. I then deemed a raid on Staunton highly
+                    probable, and to repel it (tired as were my men) I ordered up l50 men to top of
+                    Shenandoah Mountain (16 miles distant) that night, and followed in the morning
+                    with 750 more and four pieces of artillery, and called out the Augusta Home
+                    Guards. Mulligan and Averell did form a junction, making their united force near
+                    4,000 men, but made no effort to reach Staunton. They went on toward Hardy.</p>
+                <p>Having sent Captain McNeill into Hardy two weeks ago with 200 men, who are still
+                    there, I immediately dispatched three couriers to his party to obstruct the
+                    roads about and north of Franklin, and take position in the cliffs and bushwhack
+                    the enemy as he passed. I also sent 40 fresh cavalry to harass him at different
+                    points in the mountains. I expect to hear good accounts from both these parties.
+                    The force that accompanied me was much jaded, having marched nearly 200 miles in
+                    six days through the mountains and over bad roads. Although I inflicted no
+                    appreciable damage on the enemy, I am certain I saved all the furnaces (six or
+                    eight in full blast) on the west side of Rockbridge and Botetourt Counties. I
+                    have information that leaves no doubt that the column I repulsed at Covington
+                    were furnished with several days' rations and ordered to proceed down Jackson's
+                    River, burn the depots and bridges, destroy the furnaces, and retreat by
+                    Millborough and Warm Springs to the main body.</p>
+                <p>I will rest two days, and on Monday move down into the lower end of Rockingham or
+                    Shenandoah, and see what further can be done before winter sets in. I am
+                    satisfied Averell will seek to winter his cavalry at Moore field. Forage and
+                    other supplies are abundant in that rich valley. He has over 3,000 men, Mulligan
+                    over 1,000--a force too large for me to drive out. I will harass them all
+                    winter, but that is all I can do. To-morrow I start Captain Hill with a company
+                    to Barbour County to try and capture a train from Grafton to Beverly. There are
+                    but about 500 men left at Beverly.</p>
+                <p>I beg leave to add my testimony to the admirable spirit displayed by the people
+                    of Rockbridge in coming to my assistance. At 7 p. m. on Thursday, the 6th, the
+                    news reached Lexington of this raid. By 7 p. m. the next day 800 men were 12
+                    miles on their march to support me. My thanks are especially due Col. J. W.
+                    Massie, commanding home guards, and. General F. H. Smith, commanding cadets, for
+                    the energy and zeal they manifested and the skill with which they moved their
+                    commands so rapidly through the mountains.</p>
+                <p>I regret to have to add that of nearly 200 stragglers from Colonel
+                    Jackson's--whom I found at Covington and supplied with funds to subsist
+                    themselves, and supplied with arms, where they had lost their own, out of some
+                    Virginia State arms I found at Covington--a large number ran off to the woods
+                    and mountains as soon as my artillery opened on the enemy, although I had
+                    organized them into two companies and ordered them to take part in the fight I
+                    then expected would occur. A part remained and were willing to fight, but a
+                    large number fled most shamefully before the enemy was nearer than 2 miles of
+                    where I left them to await orders.</p>
+                <closer>
+                    <salute>Very respectfully, your obedient servant,</salute>
+                    <signed>J. D. IMBODEN,<lb/> Brigadier-General, Commanding.</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

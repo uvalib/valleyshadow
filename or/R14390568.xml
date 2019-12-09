@@ -1,0 +1,759 @@
+<?xml version="1.0"?>
+
+<?dlps id="R14390568"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 n="au" id="R14390568">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">CHAP. LV. Journal of Captain Jedediah Hotchkiss.</title>
+        <title type="sort">chap lv journal of captain jedediah hotchkiss</title>
+        <author>Hotchkiss, Jedediah</author>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name/>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">60</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <publisher>University of Virginia</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">R14390568</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1999 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved.</p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:499585</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>CHAP. LV. Journal of Captain Jedediah Hotchkiss.</title>
+            <title type="uniform">The War of The Rebellion: Official Records of the
+                            Union and Confederate Armies</title>
+            <title type="sort">chap lv journal of captain jedediah hotchkiss</title>
+            <author>Hotchkiss, Jedediah</author>
+            <respStmt>
+                            <resp>Translator:</resp>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p>Series 1, Volume 43, Serial No. 90</p>
+                    </editionStmt>
+                    <extent>Pages 567-588</extent>
+                    <publicationStmt>
+                        <publisher>Broadfoot Publishing Company</publisher>
+                        <pubPlace>Wilmington, NC</pubPlace>
+                        <date value="1997">1997</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Publisher</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1865-01">1865-01</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term/>
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="R14390568T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Confederate Topographical Engineer Jedediah Hotchkiss kept a journal from August
+                    to the end of December, 1864. In it, he details his role in campaigns in
+                    Maryland and the Shenandoah Valley. Hotchkiss discusses events in Staunton, VA,
+                    as well, including troop movements in the vicinity, the evacuation of the town
+                    in October, personal business, dinner with Major M. G. Harman who had served as
+                    Staunton's quartermaster, and Harman's efforts to select winter camps in Augusta
+                    County.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    No. 174. Journal of Capt. Jed. Hotchkiss, Topographical Engineer,Second Corps,
+                    Army of Northern Virginia (Valley District), of operations August 4-December
+                    31.
+                </head>
+                
+                <p>Thursday, August 4.--We started at sunrise and went to Shepherdstown via Leetown.
+                    Breckinridge went the same way. Rodes and Ramseur went by Martinsburg to near
+                    Hainesville. Hdqrs. at Mrs. Bedinger's. Pleasant.</p>
+                <p>Friday, August 5.--We crossed the river to Sharpsburg and had engagement with
+                    Coke's cavalry and drove them away, and then encamped near there. Gen. Early and
+                    myself rode over part of the battle-field of Sharpsburg, and I sketched, by his
+                    order, the position of his brigade there. Gen. Ransom accompanied us. Rodes and
+                    Ramseur encamped at Claggett's Mill. A warm day.</p>
+                <p>Saturday, August 6.--We marched to Tilghmanton and the cross-roads beyond toward
+                    Hagerstown, and then went to Williamsport and encamped on the Virginia side. We
+                    found Rodes and Ramseur near Saint James' College. The general went to Saint
+                    James' College and paroled Doctor Kerfoot and Professor Coit for the return of
+                    Doctor Boyd, of Winchester, to his home in three weeks. He talked to Doctor
+                    Kerfoot for some time. It began to rain very early in the morning and rained
+                    most of the forenoon, then cleared off finely. We dined at Williamsport.
+                    Breckinridge encamped opposite Williamsport. Rodes and Ramseur went to near
+                    Hammond's Mill. The Yankees have a force at Harper's Ferry.</p>
+                <p>Sunday, August 7.--We started at an early hour and went to Martinsburg and spent
+                    most of the day at Ed. Pendleton's, and in the p. m. went on to Bunker Hill.
+                    Breckinridge came to Darkesville and Rodes and Ramseur to Bunker Hill. Gen.
+                    Pegram reported for duty. Quite warm.</p>
+                <p>Monday, August 8.--Worked at map of the battle of Monocacy all day. Quite warm.
+                    Enemy reported coming up from Harper's Ferry.</p>
+                <p>Tuesday, August 9.--Spent day in camp at Bunker Hill making map of battle of
+                    Monocacy. Robinson reducing Adams County and Oltmanas copying map of District of
+                    Columbia. Lieut. Koerner came to see me in p. m. about details, &amp;c.
+                    Warm.</p>
+                <p>Wednesday August 1O.--We moved at an early hour to Stephenson's Depot,
+                    Breckinridge in advance, and then by Jordan Springs to the Red Bud and Abraham's
+                    Creek, where Breckinridge encamped. Rodes marched to the right of the road at
+                    Stephenson's and encamped. Ramseur marched yesterday to Winchester to meet a
+                    reported advance of Averell from Romney. We got the details of the rout of our
+                    cavalry at Moorefield. It was a disgraceful affair. We lost some 400 men and 4
+                    pieces of artillery. We had headquarters near Burgess', a mile from Winchester
+                    on the Berryville road. Dined at Walls. Warm day. Enemy made demonstrations on
+                    the Millwood, Berryville, and Martinsburg roads in the p. m., and were easily
+                    repulsed.</p>
+                <p>Thursday, August 11.--Appearances indicating a general attack by a large force,
+                    we this morning formed a line of battle covering the approaches east and
+                    southeast of Winchester; Breckinridge covering the Berryville and Millwood
+                    roads, Ramseur the Front Royal road, and Rodes the Martinsburg road. Everything
+                    was moved from Winchester and we had a skirmish on the Millwood road. About noon
+                    I guided Gordon across the country, by a route I had selected in the a.m. , to
+                    the pike near Kernstown and took him to a position south of Newtown. The rest of
+                    the army followed, and we had a brisk skirmish, about dark, on the road to the
+                    Double Toll-Gate from Newtown. We drove the enemy back and encamped near
+                    Newtown. Headquarters at Chrisman's. Very warm. Bryan's and Lowry's batteries,
+                    on the Millwood road, were engaged some.</p>
+                <p>Friday, August 12. --We marched at an early hour and went across Cedar Creek and
+                    formed a line of battle. The Yankees came on and formed on the north side of the
+                    creek, and we had some skirmishing but no general engagement. In the evening we
+                    fell back to Fisher's Hill and took up our headquarters at Funkhouser's. I spent
+                    the day reconnoitering and carrying orders, and at night took Col. Jackson and
+                    his cavalry to the Middle road and posted them for pickets. Got to camp at
+                    midnight. Very warm.</p>
+                <p>Saturday, August 13.--We selected a line of battle on Fisher's Hill, Wharton on
+                    the right of the pike, Gordon to the top of the hill beyond the railroad,
+                    Ramseur from Gordon to the top of the hill beyond the Middle road, and Rodes
+                    half a mile beyond the Middle road with strong pickets across the Valley to the
+                    Back road; cavalry in front, McCausland at the foot of Three Top Mountain,
+                    Jackson on the Middle road and Johnson on the Back road. We spent the day on the
+                    lines. The troops fortified them. Very warm.</p>
+                <p>Sunday, August 14.--We spent the day on the lines, staying under a tree by the
+                    roadside. Had a little skirmishing with the enemy. Most of them remained on the
+                    north side of Cedar Creek. Our signal men were driven off the point of Three Top
+                    Mountain, but Capt. Keller and his sharpshooters drove the Yankees off and
+                    killed 2 and captured 3.</p>
+                <p>Monday, August 15.--Spent the day on the lines and at Breckinridge's
+                    headquarters. In the p.m. we drove the enemy back to Cedar Creek Hill and found
+                    them in the same position. A very warm day. It rained late in the p.m. and at
+                    night. Maj. Jones spent the night with me. Gen. Lomax came to-day.</p>
+                <p>Tuesday, August 16.--Sketched the country between the river and Massanutten
+                    Mountain and along the foot of Fisher's Hill. Quite warm. Fitz Lee came to see
+                    Gen. Early, his cavalry being at Front Royal. Anderson had a fight with the
+                    Yankee cavalry at Guard Hill, in which he got the worst of it.</p>
+                <p>Wednesday, August 17.--We found the enemy gone this morning and the smoke rising
+                    from all parts of the Lower Valley from the burning of barns and hay and wheat
+                    stacks by the retreating Yankees. We followed, Gordon in advance; then Wharton,
+                    Ramseur, and Rodes. McCausland went down the Valley pike, Jackson on the Middle,
+                    and Johnson on the Back roads. We did not get up with the enemy until we reached
+                    Kernstown; there drove in the skirmishers, and found the cavalry posted on
+                    Bower's Hill. I took Forsberg's small brigade to the Middle road and threw them
+                    out to the left and drove the enemy from the hills in front and to the left of
+                    Bell's, Johnson's cavalry being there on our left; then reported, and Wharton's
+                    division was sent there. I put in it line to advance against Bower's Hill. Then
+                    saw it go in and take the hill. Ramseur's sharpshooters advanced at the same
+                    time. I watched the left of the line and the advance of Johnson's cavalry, then
+                    reported to Gen. Early after dark. Gordon crossed from Kernstown to the Front
+                    Royal road and came into Winchester from that way. We lost some killed and
+                    wounded, and inflicted some loss on the enemy and drove them through the town.
+                    We got the town just after dark. We encamped at Pritchard's, near Kernstown. We
+                    took 200 prisoners. The day was pleasant and cloudy; part of it very hot.
+                    Anderson marched up to the Opequon.</p>
+                <p>Thursday, August 18.--We moved our camp to the yard of Mrs. Wood, near the Town
+                    Spring, at Winchester. Rodes moved out a mile or so on the Berryville road,
+                    Ramseur on the Martinsburg road, and Gordon and Wharton remained on Abraham's
+                    Creek, near Hollingsworth's Mill. Gen. Anderson came up with Kershaw's division
+                    and Fitz Lee's cavalry and encamped near the Opequon, on the Front Royal and
+                    Millwood roads. It rained most of last night and half of to-day quite steadily.
+                    Oltmanns finished a map of the Valley, which I sent to Gen. Lomax, and corrected
+                    some maps.</p>
+                <p>Friday, August 19.--We moved at an early hour to Bunker Hill, Ramseur in advance,
+                    followed by Rodes and Breckinridge. All encamped in the vicinity of Bunker Hill.
+                    Anderson and Fitz Lee remained at Winchester. Lomax and his cavalry went to
+                    vicinity of Martinsburg and halt the line of the Opequon all along. A fine day.
+                    Slight showers. Cool evening. Lomax went to Martinsburg and Shepherdstown.</p>
+                <p>Saturday, August 20.--We spent the day in camp. I corrected some maps. Oltmanns
+                    copied part of battle of Monocacy and Robinson copied a Valley map. It rained
+                    and misted most of the day. We had some skirmishing with the enemy along the
+                    Opequon. Camps as yesterday.</p>
+                <p>Sunday, August 21.--We moved toward Charlestown at an early hour. Drove the enemy
+                    from the Opequon. Met their infantry skirmishers at Aldridge's about 9.30 a.m.
+                    Rodes was in front and threw out his skirmishers and drove the enemy to the
+                    vicinity of Charlestown. Ramseur was put on his right and advanced to near the
+                    Summit Point road. Anderson came by the old Winchester and Charlestown road and
+                    Fitz Lee by the Berryville road. They had some fighting near Summit Point. We
+                    advanced by Smithfield. It threatened rain some, but cleared off by noon. Lomax,
+                    with Vaughn, Johnson, and Jackson, advanced by Leetown and then toward Summit
+                    Point with part of his force from Smithfield. Gordon was put on the right and
+                    Wharton on the left of the pike in reserve. We skirmished with the enemy during
+                    the p.m. and used some artillery. They made some advances, but were repulsed. We
+                    encamped some two and a half miles from Charlestown. A fine day. I reconnoitered
+                    positions, &amp;c.</p>
+                <p>Monday, August 22.--We advanced at an early hour and found the enemy gone,
+                    leaving only cavalry behind. We soon drove them off, and three miles beyond
+                    Charlestown. Anderson and Fitz Lee came to vicinity of Charlestown, and our
+                    cavalry was thrown out toward Shepherdstown and toward the Shenandoah. It rained
+                    very hard for several hours in the p.m. I dined at Mr. Strider's. Robinson
+                    copied map for Gen. Kershaw in p.m. and night. Hdqrs. near Davenport's.</p>
+                <p>Tuesday, August 23.--The army remained in front of Charlestown. Made some few
+                    movements to thwart moved of the enemy, moving more to the left. I sketched the
+                    portion of country that we fought over on Sunday. There was a dense for in the
+                    morning, but it cleared off and became quite warm. Hdqrs. at Davenport's.</p>
+                <p>Wednesday, August 24.--Still at same place. Enemy drove in our pickets toward
+                    Harper's Ferry and created some stir, which was soon quelled. Quiet the rest of
+                    the day. I rode over to Rock's Ford, on the Shenandoah, to view the country.
+                    Dined with Maj. Adams at Osborne's. Very warm day.</p>
+                <p>Thursday, August 25.--We started at an early hour for Shepherdstown, via Leetown,
+                    Wharton in front, followed by Gordon, Rodes, and Ramseur. Fitz Lee went by
+                    Smithfield to Leetown and Lomax collected his at the same place, and all went on
+                    to Martinsburg and Williamsport. We met the enemy's cavalry advance about one
+                    mile and a half from Leetown and had quite a heavy skirmish with them. Wharton's
+                    division was thrown out and engaged, most of it on the left of the road. Gordon
+                    was moved to the right and Rodes to the left. We soon drove the enemy off, with
+                    considerable loss on both sides. They made another stand near Shepherdstown on
+                    the Charlestown road, which Gordon repulsed with Terry's brigade on the left,
+                    then York and Evans on the right. Quite a lively skirmish ensued, in which
+                    Gordon was wounded in the head, but he gallantly dashed on, the blood direction,
+                    and encamped at night near Shepherdstown. Hdqrs. at Boteler's house. A stampede
+                    of ambulances when the firing began came near causing a stampede of Wharton's
+                    division. We lost a good many. The Yanks had started on a raid and had three
+                    days' rations with them. Very warm. The cavalry is opposite Williamsport
+                    to-night.</p>
+                <p>Friday, August 26.--We spent about half the day at Shepherdstown, then marched
+                    back to Leetown, Ramseur in advance, followed by Rodes, Gordon and Wharton. Our
+                    cavalry came to the vicinity of Shepherdstown, having found the enemy in force
+                    to oppose their passage at Williamsport. They had an artillery duel in the
+                    morning. Anderson had a fight near Charlestown in the p.m. Hdqrs. in the orchard
+                    at the old Gen. Lee house. Col. Boteler spends the night with me. Robinson and
+                    Oltmanns worked awhile at maps. Fine day. Windy and some rain at night.</p>
+                <p>Saturday, August 27.--We continued our march back to our old camp at Bunker Hill.
+                    Rodes went by Dandridge's and the Sulphur Springs, the rest by Smithfield.
+                    Ramseur followed by Gordon and Wharton. Anderson came from Charlestown by
+                    Smithfield, and went on to Stephenson's. Pleasant, but quite cool in the p.m. We
+                    also found the cavalry falling back, but Gen. Early ordered McCausland back to
+                    Charlestown, and he went beyond toward Harper's Ferry. Fitz Lee and Lomax
+                    remained near Shepherdstown.</p>
+                <p>Sunday, August 28.--We spent the day in camp at Bunker Hill, and had preaching in
+                    some of the divisions. The enemy's cavalry advanced on ours, and we had some
+                    fighting near Smithfield, especially Harry Gilmor, but our cavalry retired,
+                    Lomax toward Bunker Hill, and Fitz Lee toward Brucetown. The enemy occupied
+                    Smithfield, burning three houses there. Some infantry marched toward the
+                    Opequon, but was not engaged. The day was quite cool. Robinson made a map for
+                    Gen. Wickham.</p>
+                <p>Monday, August 29.--The enemy's cavalry advanced this morning and drove ours
+                    across the Opequon. Ramseur was marched out by the turnpike and advanced to
+                    drive them back. Gordon moved by a road to the right to turn the enemy's left
+                    flank. The artillery was also advanced. After some brisk commanding across the
+                    creek, and skirmishing, we drove the enemy through Smithfield and two miles and
+                    a half beyond, then returned to our old camps again. Rodes help the road toward
+                    Martinsburg. We lost 10 killed and 75 wounded. Late in the p.m. our cavalry was
+                    again driven across the Opequon by the enemy. I went to Gen. Anderson in the
+                    morning to apprise him of the situation, then came back and witnessed most of
+                    the advance. Pleasant day. Cool in morning and evening. Robinson and Oltmanns
+                    worked at maps. I sent Green's baggage to Winchester.</p>
+                <p>Tuesday, August 30.--Spent the day in camp, not feeling very well, but worked
+                    some at maps. Robinson and Oltmanns copying maps of the Valley. Fine day; cool
+                    night; all quiet.</p>
+                <p>Wednesday, August 31.--I sketched the road to the Opequon and back. The Yankee
+                    cavalry made some advances toward Winchester. Came to the Opequon. Anderson
+                    moved back to near Winchester. Our cavalry was moved to meet them, but they went
+                    back in the p.m. and the usual quiet prevailed. Fine day; cool at night. Rodes'
+                    division went to Martinsburg and back.</p>
+                <p>Thursday, September 1.--I rode up to Winchester in the a.m. and brought back some
+                    dispatches for Gen. Early. Oltmanns copied map of the Valley. Robinson finished
+                    reducing Adams County, Pa. A very fine day.</p>
+                <p>Friday, September 2.--Dispatches came in the morning stating that the enemy was
+                    moving toward Berryville in force. So we moved across the country toward Stone
+                    Chapel by Fry's Ford, Gordon in advance, followed by Wharton and Ramseur. We got
+                    nearly to Stone Chapel when Vaughan's brigade of our cavalry to stampeded at
+                    Bunker Hill and ran away, leaving the wagons and Johnson's brigade to take care
+                    of themselves. A few hundred cavalry took fourteen wagons and some men and
+                    compelled us to turn back. Rodes had been left near Stephenson's. He turned back
+                    and drove the enemy nearly to Bunker Hill. We turned back through Brucetown,
+                    Ramseur in advance, and encamped between Brucetown and Stephenstown's. Our
+                    wagons went from Stephenson's nearly to Summit Point ahead of the army, but all
+                    got back safely to Stephenstown's about midnight. The enemy retired and Fitz Lee
+                    reported that the enemy had gone to City Point. Anderson and Fitz Lee moved
+                    toward Berryville.</p>
+                <p>Saturday, September 3.--The enemy's cavalry appeared at White Post this morning
+                    threatening to come to Newtown. Fitz Lee moved toward Newtown and Anderson
+                    toward Berryville. He met the enemy near there in the p.m. and drove them from a
+                    line of works with small loss. The cannonading kept up until 9 p.m. Rodes
+                    started in the morning for Bunker Hill, to be followed by the rest of the corps;
+                    but he alone went on and had a skirmish with the enemy there after the cavalry
+                    fight, in which Harry Gilmor was wounded. Ramseur remained in camp guarding some
+                    roads. At night Gordon moved to Winchester, his men in high spirits. It rained
+                    in the night; began just about dark. I went to Winchester to attend to some
+                    business.</p>
+                <p>Sunday, September 4.--We were roused up very early to go to Berryville, Ramseur
+                    in front, followed up Wharton and Rodes (Gordon remained at Winchester). We
+                    found Anderson in line of battle in front of Berryville and joined on to his
+                    left. He was skirmishing some with the enemy. Their cavalry soon passed back
+                    from Millwood. We marched to find the enemy's right flank. Went as far as Sidney
+                    Allen's. Found them well fortified, so skirmished with them until night and then
+                    withdrew to a line parallel with the Winchester and Berryville roads, and there
+                    spent the night. Hdqrs. at Russell's. A fine day. It rained some at night.</p>
+                <p>Monday, September 5.--We remained in front of Berryville until 2 p.m., then
+                    withdrew and returned to Stephenson's Depot by the way of the Burnt Factory,
+                    Jordan Springs, &amp;c. Rodes was in front, followed by Wharton and Ramseur.
+                    Anderson moved back to Winchester in the morning. Our cavalry had a skirmish
+                    with the enemy below Stephenson's and was falling back when Rodes' advance came
+                    there, just before dark, and threw out a brigade to the right of the pike and
+                    advanced rapidly and drove Averell's cavalry some three miles, inflicting some
+                    damage. It rained very hard late in the p.m. and also after dark. Hdqrs. at Mrs.
+                    Stephenson's.</p>
+                <p>Tuesday, September 6.--We spent the day in camp, and it rained and misted most of
+                    the time. I corrected maps and wrote some letters. Gave Col. Smith a map of the
+                    northeast of Virginia.</p>
+                <p>Wednesday, September 7.--I rode over a back road to Winchester on the left of the
+                    pike and back by one of the right and sketched them. A fine, clear day. Enemy's
+                    cavalry made a demonstration near Brucetown; also near the Yellow House on the
+                    Martinsburg road, and also on the Millwood and Front Royal roads not far from
+                    Winchester, and were repulsed at all points. The general went to Winchester.</p>
+                <p>Thursday, September 8.--I went to Newtown to-day to see Lieut. Koerner. Met him
+                    and we went to Maj. Jones' and spent the night. It rained most of the day; began
+                    at 10 a.m. We changed camp and went back of Mrs. Stephenson's.</p>
+                <p>Friday, September 9.--It cleared off and we had a fine day. Koerner and myself
+                    came back to camp, then went over to Breckinridge's and fixed to have his
+                    engineer company go and aid in the survey of the country. The enemy came to the
+                    Opequon and burned some mills. Wharton went to meet them.</p>
+                <p>Saturday, September 10.--We moved down to Bunker Hill, Rodes in front, followed
+                    by Ramseur. Some of Lomax's brigade preceded us. We had a very hard rained in
+                    the morning, with thunder and lighting. We marched through. Our infantry marched
+                    just beyond Darkeville. Our cavalry drove the Yankees through Martinsburg after
+                    the infantry had started them from Darkesville. All the enemy went south of that
+                    stream. We came back to our old camp at Bunker Hill. Ramseur and Rodes came
+                    there. Lomax remained at Darkeville. The day became pleasant.</p>
+                <p>Sunday, September 11.--It began to rain about 11 p.m. last night and rained very
+                    hard until 7 this morning, with thunder and vivid lightning. The infantry moved
+                    back to Stephenson's to-day. I went with Capt. Wilbourn by the Back road to our
+                    old camp at Stephenson's. The cavalry remained at Darkeville. There were several
+                    hard showers during the day, accompanied by thunder and lightning. We dined at
+                    Mr. Abbott's.</p>
+                <p>Monday, September 12.--Spent the day in camp preparing to go to Staunton. All
+                    quiet. A fine day; showery. Cool morning and evenings. Maj. Jones dined with us.</p>
+                <p>Tuesday, September 13.--I left for home. Went to the engineer camp, seven miles
+                    southwest of Strasburg, and spent the night. There was heavy cannonading near
+                    Brucetown when I left. A fine, cool day. The enemy advanced on the old
+                    Charlestown road. We broke up camp at Stephenson's at 2 p.m. The general spent
+                    the day at Carpenter's battery on the left of the road near the Opequon. We
+                    skirmished across the creek. Carpenter had 2 guns disabled, 3 men killed, and 5
+                    wounded. Gordon on the left. Ramseur on the right. Enemy left. Hdqrs. at same
+                    place at night.</p>
+                <p>Wednesday, September 14.--I rode as far as Mr. Cowan's, near Tenth Legion. It
+                    rained very hard most of the day. Cold and chilly. Col. Boteler left for
+                    Winchester. Anderson took his division away to Culpeper Court-House via Front
+                    Royal.</p>
+                <p>Thursday, September 15.--Went on home by way of Mossy Creek. Dined at Mr. Craun's
+                    and called at Maj. McCue's. A fine, cool day. The people are busy sowing grain.
+                    Grass is growing finely. Otlmanns made copy of map of Virginia. Lieut. Boyd came
+                    to headquarters to report to Lieut. Koerner.</p>
+                <p>Friday, September 16.--Went to Staunton by the way of E. Geeding's. Looked some
+                    for supplies. Got maps and sent some down to camp. A fine day. Cool in evening.
+                    Lieut. Koerner sent Boyd and Chichester to the west of Winchester to survey.</p>
+                <p>Saturday, September 17.--Rode around among my neighbors to buy supplies for the
+                    year. Had some difficulty, but got along well. Fine, bracing day. They had
+                    dinner in camp at 1 p.m. and two days' rations were ordered, and moved at 3 p.m.
+                    to Bunker Hill, Gordon in advance, preceded by Jackson and followed by Rodes.
+                    Camped at Bunker Hill.</p>
+                <p>Sunday, September 18.--I spent the day at home, as it portended rain and rained
+                    some in the a.m. Henry Sieg and others called to see me. Fine day. At 3 a.m.
+                    Gordon marched for Martinsburg. Cavalry met enemy's pickets at Big Spring and
+                    drove them through town of Martinsburg. Two brigades of Gordon went to the left
+                    of Martinsburg, and one (York's) to the right. Destroyed Tuscarora bridge, took
+                    21 men and horses, 5 wagon loads of coal, and 5 coils of telegraph wire. Left at
+                    4 p.m. and came back to Bunker Hill; headquarters at Stephenson's. Rodes came to
+                    Stephenson's. Grant said to be at Harper's Ferry.</p>
+                <p>Monday, September 19.--I started back to camp by the way of Staunton. Passed
+                    through Harrisonburg, where there was a large crowd at court. Came to Big Spring
+                    and spent the night at Lincoln's. Fine, warm day. Enemy came on by the
+                    Berryville road and Ramseur engaged them three miles from Winchester, at right
+                    angles to the road, from 3 a.m. Lomax, Johnson, and Jackson on the right. Rodes
+                    came up at 10 a.m. and formed on Ramseur's left, and Gordon came about noon and
+                    formed on Rodes' left. Wharton came up and fought along the Martinsburg road to
+                    Gordon's rear. He drove the enemy's cavalry back several times. The infantry
+                    fighting became heavy about noon. Gen. Rodes was killed between 1 and 2 p.m.
+                    Enemy advanced several times. Were repulsed with very great loss. The Yankee
+                    cavalry made a dash on our left at 1 p.m. and were driven back, but at 4 p.m.
+                    they turned our left and fell on our rear and made our men give way in great
+                    confusion, coming to the suburbs of Winchester. Then Gordon's line gave way and
+                    we were compelled to retreat about sundown. This was effected with little loss.
+                    The enemy's cavalry come on to Kernstown, but were checked by Ramseur. We fell
+                    back to Newtown, Gordon in front and Ramseur in the rear. Camped about midnight.
+                    We took 400 prisoners and inflicted a loss of 8,000 or 10,000 on the enemy. Our
+                    loss about 1,500. Fine day. Chilly night. . .</p>
+                <p>Saturday, September 24.--We formed a line of battle on Rude's Hill in the
+                    morning, Wharton on the left and Ramseur on the right, in front, and Pegram on
+                    the right and Gordon on the left, in the rear, and remained there until noon.
+                    The enemy came on and threw a few shells and began to move up the opposite side
+                    of the river on our left flank. We then fell back to near New Market, then
+                    gradually, in line of battle and by the flank, skirmishing and using artillery,
+                    to Tenth Legion Church, where we formed a line and kept the enemy at bay until
+                    after dark. The enemy drove our cavalry rapidly on the Back and Middle roads.
+                    Wickham brought his cavalry across the Massanutten enemy followed him closely. I
+                    took orders to Maj. Harman about the wagons, and then aided in getting them off
+                    the pike and onto to Keezletown road. After dark the infantry retired to
+                    Flook's, eighth miles from Tenth Legion, on the Keezletown road, getting there
+                    about midnight, Ramseur in front, followed by Gordon, Wharton, and Pegram. I
+                    remained and posted Jackson's cavalry brigade. Our cavalry was driven in great
+                    confusion nearly to Harrisonburg. We rested at the wagons at Flook's until the
+                    moon rose. A fine day. Cool in p.m. and some rain.</p>
+                <p>Sunday, September 25.--We started the wagons on toward Port Republic at 1 a.m. At
+                    daylight the army came on, Pegram in rear, by Peale's Cross-Roads,
+                    Meyerhoeffer's Store, &amp;c. Wharton preceded Pegram. I came to Port
+                    Republic to guide the head of the train. It went on to Brown's Gap. Harman and
+                    Allan were with me. I rode on to Staunton to look after my map box. Got there by
+                    noon. Found much excitement. They were evacuating the place. I dined at Maj.
+                    Harman's. Got back to camp by 10 p.m., having ridden forty miles to-day. A fine
+                    warm day. The enemy did not follow. Their cavalry came to Harrisonburg. We got
+                    out whole commanding into Brown's Gap, except the cavalry. Left them north of
+                    the South River. Hdqrs. at Mount Vernon Furnance.</p>
+                <p>Monday, September 26.--Kershaw's division came up from Saint Run Gap. Joined us
+                    about noon. The Yankee artillery fired a few shots at it as it turned off at
+                    Lewis' to come to Brown's Gap, and a few cavalry went down the river to attack
+                    his trains. Kershaw got some men and artillery in position and gave them a warm
+                    reception. The Yankee cavalry drove ours across the river and came up to our
+                    lines. Pegram's division was marched out on the Cave road, and skirmished some
+                    with them near the angle of the road, and repulsed several charges of their
+                    cavalry, using artillery. The enemy also advanced on the turnpike, and Ramseur
+                    drove them back from there. Wharton moved out in rear of Ramseur, and Gordon in
+                    rear of Pegram. I showed Kershaw the way up, and carried some orders. Oltmanns
+                    copied a map of the Valley. A fine, warm day. Enemy reported up South River, and
+                    Wickham moved to near Patterson's, on South River. My horse was killed by a
+                    bullet in the Yankee charge.</p>
+                <p>Tuesday, September 27.--Wickham crossed the river at Patterson's, and Gordon
+                    followed him with artillery, &amp;c. Ramseur followed Gordon. We attacked
+                    the Yankee cavalry encamped near Weyer's Cave and drove them away from between
+                    Middle and South Rivers, and also from the vicinity of Port Republic, giving
+                    them some help with our artillery as they went toward Harrisonburg. Pegram
+                    pushed forward shaw held the front of Brown's Gap. Wharton followed Pegram. We
+                    surprised the Yankees, but an untimely opening of artillery advised them of our
+                    approach. We brought our camp to opposite Weyer's Cave. The army (except
+                    Kershaw, who remained at the Furnace) encamped between the rivers. I suggested
+                    the routes of the army and guided movements. Pleasant day.</p>
+                <p>Wednesday, September 28.--We started at an early hour to go to Waynesborough, but
+                    a report of an attack on Pegram's pickets turned us back for a time. Then we had
+                    to wait for Kershaw's train to pass by. Then a misunderstanding of orders caused
+                    delay at Mount Meridian. The train went up South River and crossed at
+                    Patterson's Ford, Ramseur in front. Pegram, followed by Wharton, went by the
+                    Waynesborough road from Mount Meridian. Five miles from Waynesborough Wharton
+                    took the River road and Pegram kept on to Dogtown. I guided Kershaw by Mount
+                    Meridian to New Hope. A mile beyond New Hope we took the Waynesborough road. We
+                    encountered the enemy's cavalry pickets near the Hermitage, five miles from
+                    Waynesborough, and drove them rapidly forward. Pegram drove them to Dogtown by
+                    dark, and attacked them there just after Wickham drove them through
+                    Waynesborough from toward Rocksfish Gap, whither he had gone by the south bank
+                    of South River. Pegram drove them to Dogtown by dark, and attacked them there
+                    just after Wickham drove them through Waynesborough from toward Rockfish Gap,
+                    whither he had gone by the south bank of South River. Pegram had driven the
+                    Yanks three miles and a half. He gallantly attacked them after dark and drove
+                    them toward Fishersville and encamped where they had had their camp on the
+                    Staunton road. Gordon followed Kershaw. All encamped in the vicinity of
+                    Waynesborough at a late hour. Hdqrs. at Gallagher's. A fine day. Some rain in
+                    p.m.</p>
+                <p>Thursday, September 29.--We moved our camp to the southwest of Waynesborough and
+                    spent the day cleaning up. I rode around the lines with the general in the a.m.
+                    The enemy went toward Mossy Creek at a rapid rate. They made the night light
+                    with burning barns, hay stacks, &amp;c., during the day and night. I went to
+                    the tunnel in the morning to see if any damage had been done there; also
+                    examined the track of the railroad and got the pioneers and engineer troops at
+                    work on the bridge across South River, which the enemy had burned. Showery day.
+                    Rained hard at night. Quite warm.</p>
+                <p>Friday, September 30.--We spent the day at Waynesborough. It rained and misted in
+                    the morning, but got quite pleasant in the p.m. The Yankees went to Bridgewater
+                    yesterday. Our cavalry went up to Staunton and put pickets out to Middle River.
+                    A great deal of burning going on to-night toward Rockingham-mills, barns,
+                    &amp;c. . .</p>
+                <p>Monday, October 3.--Spent the day in camp. Army quiet, save some skirmishing with
+                    Yankee cavalry along North River. It misted and rained during the day and rained
+                    hard at night. Gen. Rosser came yesterday, and to-day reconnoitered the front.
+                    The enemy holds the line of North River. Sent map of Southeastern Virginia to
+                    Gen. R. E. Lee.</p>
+                <p>Tuesday, October 4.--Spent the day in camp. Oltmanns went to Staunton. Robinson
+                    copied map of Valley. It cleared off and was a fine day. All quiet. Rosser's
+                    cavalry encamped near Staunton; came from Lynchburg and Richmond. The enemy
+                    burned barns, &amp;c., at night.</p>
+                <p>Wednesday, October 5.--Spent the day in camp drawing--Robinson reducing
+                    Pennsylvania maps, Otlmanns copying Valley map. Gordon moved camp to vicinity of
+                    Naked Creek. Rosser moved to Landes' Mill, on road from Stone Church to Mossy
+                    Creek. Cars ran to Smith's to-day, two miles and a half from Staunton. We have
+                    rebuilt the bridges over South River and Christian's Creek. About two miles of
+                    track are to be railed. Enemy still near Harrisonburg. The general rode along
+                    the lines to-day. Fine day. Lieut. Boyd dined with us. . .</p>
+                <p>Saturday, October 22.--I started on the state for Richmond at 7 a.m. to bear
+                    dispatches to Gen. Lee. Got to Staunton after dark. Spent the night at M. G.
+                    Harman's. Had quite a long chat with Andrew Hunter. Quite cool.</p>
+                <p>Sunday, October 23.--Went to Richmond on the cars. Many of the reserves were
+                    going down and I met some coming to the Valley District. A fine day, but cool. I
+                    went to Gen. Lawton's to get a horse to go to Gen. Lee's at Chaffin's. Took tea
+                    with Gen. Lawton and had a long chat. Got a horse and went to Gen. Lee's, six
+                    miles. Got there at 11 p.m. Saw Gen. Lee and we had a long talk about matters in
+                    the Valley, commanding generals, &amp;c. I spent the night there. Gen. Early
+                    told me not to tell Gen. Lee that we ought to have advanced in the morning at
+                    Middletown, for, said he, we ought to have done so.</p>
+                <p>Monday, October 24.--I went down to see Gen. Ewell at the Chaffing house; found
+                    him in a fine humor. We rode out along the line of works and to Fort Gilmer. Saw
+                    Fort Harrison and the Yankee lines. Came back and conversed awhile with Gen.
+                    Lee, then went up to Richmond. Transacted some business at the Engineer Bureau.
+                    Went to the Spotswood and found my old friend Col. Heck there. Called on Col.
+                    Nat. Tyler in the evening and went home with him and spent a pleasant hour or
+                    so. A fine day.</p>
+                <p>Tuesday, October 25.--Went to Staunton on the cars and then got a horse and rode
+                    home. Got there at midnight and spent a few delightful hours with my family.
+                    Fine bracing day. All quiet at the army.</p>
+                <p>Wednesday, October 26.--Started for Staunton at 5 a.m., then went on to New
+                    Market on the stage. Found all quiet, save that the cavalry of Sheridan had been
+                    fighting Lomax at Milford, and he had repulsed all their attacks. Cool day. Some
+                    rain at night. Rosser's brigade went to Luray in the night. . .</p>
+                <p>Thursday, November 17.--Worked at battle of Cedar Creek; Robinson finished
+                    Southeast Virginia and worked on Franklin County, Pa. Oltmanns at small
+                    Virginia. Misty and rainy. Pegram moved up to Big Springs. Hinrichs called to
+                    see us.</p>
+                <p>Friday, November 18.--Spent day as yesterday. It rained and misted all day.</p>
+                <p>Saturday, November 19.--Drawing map of battle of Cedar Creek. Oltmanns copying
+                    map of Eastern Virginia. Robinson reducing Franklin County, Pa. It snowed in the
+                    morning and rained and misted until about noon.</p>
+                <p>Sunday, November 20.--The day was chilly and misty. Capt. Page came back from
+                    Richmond. Monday, November 21.--All engaged as before. It rained and misted all
+                    day. Got orders at dark to go to-morrow with Maj. Harman to select camps for
+                    winter quarters for the troops in Augusta County.</p>
+                <p>Tuesday, November 22.--We were up by 5 a.m. I took breakfast with Maj. Harman,
+                    and we were far on our way by sunrise. Col. Allan accompanied us. We stopped a
+                    short time at Mrs. Grattan's, but pressed on and reached Maj. Harman's, near
+                    Staunton, by 4 p.m., forty-three miles. The air was very chilly and the ground
+                    in places white with snow. The enemy's cavalry, two divisions, encamped at
+                    Woodstock last night, and to-day it came on up as far as Rude's Hill. We marched
+                    three divisions of infantry down to meet them, Gordon's, Wharton's, and Grimes',
+                    from their camps three and four miles southwest of New Market. Grimes, Gordon,
+                    and Wharton in order. We took a line on the top of the hill ------- on the left
+                    of the road ------- on the right, and ------- in reserve in the rear of the
+                    others. A regiment of cavalry and ------- pieces of artillery. The enemy came
+                    boldly up to near the hill, when we opened on them and sent them back in great
+                    disorder, inflicting considerable loss. Our infantry skirmishers pursued to
+                    Hawkinstown and the cavalry to below Edenburg. A brigade of our cavalry pursued.
+                    All came back to the old camps at night. Marched twenty-five miles.</p>
+                <p>Wednesday, November 23.--Maj. Harman, Col. Allan, and myself went toward
+                    Waynesborough to look for winter quarters for the troops. Col. Allan soon found
+                    a camp for his ordnance train and left us, and we spent the day riding through
+                    woods, &amp;c. We selected a set of camps near Fishersville and returned to
+                    Maj. Harman's by 5 p.m. The day was chilly. Rode thirty miles.</p>
+                <p>Thursday, November 24.--We rode toward Christian's Creek and selected some camps
+                    there if it should be desired to encamp some troops there. The engineer troops
+                    passed through Staunton on their way to Lexington. The day was quite pleasant.
+                    Rode twenty miles. . .</p>
+                <p>Monday, November 28.--Spent day in camp. Finished battle of Cedar Creek and
+                    worked at battle of Kearneysville. Oltmanns finished Western Virginia; Robinson
+                    made map of Harper's Ferry. Mild day; fog in morning.</p>
+                <p>Tuesday, November 29.--I sketched the road to Mount Jackson, and got position at
+                    Rude's Hill. A fine, warm day; summer-like. Heard that Rosser had captured a gun
+                    at Moorefield and gone on toward Cumberland.</p>
+                <p>Wednesday, November 30.--Spent the day in camp making map of the engagement at
+                    Rude's Hill. Oltmanns copying battle of Chattanooga. Robinson made maps for Col.
+                    Smith's monthly report, showing position of army, pickets, &amp;c. A fine,
+                    pleasant day. We heard of Gen. Rosser's capture of New Creek; 800 prisoners, 8
+                    pieces of artillery, &amp;c. I drew my pay for November, $833.33 1/3, under
+                    new appointment.</p>
+                <p>Thursday, December 1.--Finished my map of the engagement at Rude's Hill. Visited
+                    Gen. Gordon's camp. Got information of positions, &amp;c., from Gen.
+                    Wharton, Maj. Peyton, &amp;c. Oltmanns copying Chattanooga. Robinson is
+                    sick. Col. Smith went to Luray Valley. Fine, warm day.</p>
+                <p>Friday, December 2.--Worked at map of battle of Charlestown. Oltmanns finished
+                    map of battle of Chattanooga. Robinson was sick. Rosser got back to-day with
+                    flags, &amp;c. Maj. Peyton called to see me to-day. Col. Smith got back. It
+                    began to rain about noon. Somewhat cool.</p>
+                <p>Saturday, December 3.--Finished map of battle of Charlestown. Oltmanns began
+                    yesterday a reduction of the map of Northeastern Virginia and part of Maryland
+                    and Pennsylvania. Robinson still sick. A pleasant day. The Yankee prisoners were
+                    brought in.</p>
+                <p>Sunday, December 4.--Spent day in camp. A fine, warm day.</p>
+                <p>Monday, December 5.--Finished map of action at Kearneysville and worked at battle
+                    of Harper's Ferry. Robinson finished off several battle maps and outlined some.
+                    Oltmanns at reduction. A hard white frost and day chilly. Mr. Lacy spent some
+                    time with us.</p>
+                <p>Tuesday, December 6.--Finished map of Harper's Ferry and worked some on one of
+                    Fort Duncan. Robinson made a copy of Rude's Hill; Oltmanns at reduction of
+                    Northeastern Virginia. Gordon's division changed camp and moved up toward
+                    Staunton; also Pegram. A pleasant day; little rain in a.m.</p>
+                <p>Wednesday, December 7.--I began map of fight at Smithfield. Robinson copied Cedar
+                    Creek. Oltmanns at reduction of Northeastern Virginia. Wickham's brigade went
+                    from Mount Jackson to Timberville.</p>
+                <p>Thursday, December 8.--Finished Smithfield and began map of New Creek. Robinson
+                    finished copy of Cedar Creek. Oltmanns at reduction. Finished copying my journal
+                    at night. It is reported that Gordon's and Pegram's divisions went to Richmond
+                    from Staunton last night. A big battle is expected at Richmond. The Sixth Corps
+                    of Sheridan's army has gone there, and it is reported to-day that more of his
+                    men have gone.</p>
+                <p>Saturday, December 10.--It snowed all last night and for some time to-day; the
+                    snow is about ten inches deep. I began another map of the battle of Cedar Creek,
+                    after correcting a map for Robinson to copy of Rosser's route. Oltmanns at
+                    reduction. Quite cold.</p>
+                <p>Sunday, December 11.--The day was cold and chilly; it rained a little and snowed
+                    a little.</p>
+                <p>Monday, December 12.--Worked at Cedar Creek. Robinson copying Monocacy; Oltmanns
+                    at reduction. A very cold day; wind sharp and biting. It froze very hard last
+                    night.</p>
+                <p>Tuesday, December 13.--Robinson finished Monocacy. Oltmanns at reduction, I at
+                    Cedar Creek. Cool day; looks like storm.</p>
+                <p>Wednesday, December 14.--Worked at Cedar Creek. Robinson at map of vicinity of
+                    Washington; Oltmanns at reduction. Some rain that froze early in the a.m.; mild
+                    day. Grimes' division left for Richmond.</p>
+                <p>Thursday, December 15.--Spent the day finishing some maps for Col. Smith.
+                    Robinson was very sick and we sent him to the hospital. Oltmanns worked at
+                    reduction awhile and then packed up. Mild day; thawed some.</p>
+                <p>Friday, December 16.--We started from New Market about 11 a.m. Wharton's division
+                    started by daylight and went to near Mount Crawford. Rosser's division went on
+                    toward Swoope's and Lomax's to Swift Run Gap. We rode on the Harrisonburg and
+                    spent the night there. It thawed all day. Warm south wind.</p>
+                <p>Saturday, December 17.--I rode on quite early to show Gen. Wharton his camp.
+                    Turned off at the Willow Pump and went by the Barren Ridge road to the
+                    Waynesborough road; showed his inspector the camp and then went to John
+                    Hamilton's for the night. It continued to thaw and most of the snow left. Gen.
+                    Early came to Staunton. Wharton went out two miles toward Waynesborough. It
+                    rained some in the p.m. and at night.</p>
+                <p>Sunday, December 18.--I rode back to Staunton to see Gen. Early, then came back
+                    to Fishersville, where the wagons came, and went to look for a camp. It rained
+                    most of the day and the mud got quite deep. We spent the night in the woods near
+                    Fishersville. The general did not come from Staunton.</p>
+                <p>Monday, December 19.--I obtained quarters near Fishersville and moved to them.
+                    Wharton's division came two miles this side of Staunton night before last and
+                    encamped, and to-day came on to camps near Fishersville. The general came down
+                    late in the p.m. and went to Mrs. McCue's. We went to Staunton on the cars
+                    again, owing to report of enemy coming up the Valley-at Woodstock to-night. Two
+                    divisions of their cavalry crossed the Blue Ridge at Chester Gap. Mild day.</p>
+                <p>Tuesday, December 20.--We started back down the Valley this morning to meet the
+                    advance of the enemy. Rosser, who moved to Swoope's Sunday, went in advance. I
+                    guided Wharton across by Maj. Harman's into the pike and we went on to Naked
+                    Creek, where we spent the night. Had our quarters in the church. Rosser went to
+                    Harrisonburg and the enemy came to Lacey's Springs, a division of cavalry. Most
+                    of the snow gone, but the day was quite chilly and before midnight a severe
+                    storm began of sleet, hail, and snow.</p>
+                <p>Wednesday, December 21.--We marched on at daylight in the midst of a blinding
+                    storm, cold and biting, but most of the men in a good humor, though in no plight
+                    for a battle. Rosser moved at dawn and attacked the enemy just as they were
+                    saddling up. Routed their first and second brigades, capturing 35 prisoners and
+                    getting their wagons and ambulances, but they rallied on their third brigade and
+                    he had to fall back and they got their wagons back, but at once retreated down
+                    the Valley. The infantry was halted at the Big Spring on the pike three miles
+                    southwest of Harrisonburg, and went into camp. Rosser did not get all his up in
+                    time for his attack. We got to Harrisonburg about noon. The storm ceased at
+                    noon. It was quite warm for a short time. It was very slippery on the pike. The
+                    general stays in Harrisonburg. I had J. Arthur Wilson detailed for topographical
+                    duty.</p>
+                <p>Thursday, December 22.--The day was windy and quite cold. Wharton marched back to
+                    near Staunton. Payne's and Wickham's brigades came to near Staunton.</p>
+                <p>Friday, December 23.--In p.m. went to Staunton and down the quarters at
+                    Fishersville; air keen and cold, but clear. Roads very icy. Wharton's division
+                    (two brigades) took the cars and went across mountain (Blue Ridge); one brigade
+                    went to old camp.</p>
+                <p>Saturday, December 24.--Went to Fishersville, then back and up to Staunton, and
+                    Mr. Oltmanns and Col.'s Smith and Allan went home with me to a Christmas dinner,
+                    and we had a very pleasant evening. Robinson came out yesterday. A fine day. It
+                    thawed some. The Yankees came near to Gordonsville and were repulsed there.</p>
+                <p>Sunday, December 25.--Col.'s Smith and Allan went back to Staunton to-day. A fine
+                    day, quite pleasant and thawed some.</p>
+                <p>Monday, December 26.--I rode to Staunton. Was there awhile and then came back and
+                    examined the location for a bridge over Middle River. Lieut. Flood and party
+                    came out there to-day. It was warm. The sun shone brightly and most of the snow
+                    was melted. Gen. Early came back to Staunton yesterday and dined at Maj. John
+                    Harman's to-day. (Came from Gordonsville).</p>
+                <p>Tuesday, December 27.--I rode to Staunton in the a.m., and after looking after
+                    business there while, I went on to Fishersville; dined at our quarters, then
+                    went to see Gen. Early and got a furlough until January 3, then went back to
+                    Maj. Harman's. It was very muddy. Quite warm; rain at night. Troops back in camp
+                    near Fishersville.</p>
+                <p>Wednesday, December 28.--Spent part of the day in Staunton looking for servants,
+                    &amp;c., then rode home, stopping to see Lieut. Flood, who is building a
+                    bridge at Middle River. There was a heavy for and mist in the morning; then rain
+                    in the p.m., and at night quite hard. Very muddy.</p>
+                <p>Thursday, December 29.--Spent the day at home. Worked at map of Kernstown. It
+                    thawed some. Snowed last night. Froze at night. Robinson engaged at Lynchburg.</p>
+                <p>Friday, December 30.--Spent day at home. Worked at vicinity of Winchester.
+                    Robinson at Lynchburg map. It was quite chilly. Saturday, December 31.--Spent
+                    some time at battle map of Kernstown, and Robinson at Lynchburg. Snow in the
+                    morning; quite cold.</p>
+                <closer>
+                    <salute/>
+                    <signed/>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+
+<?dlps id="R0080"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 n="au" id="R0080">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main">Wilderness, Staunton Artillery, Report of Brig. Gen. Armistead L.
+                    Long, November 25, 1864 </title>
+        <title type="sort">wilderness, staunton artillery report of brig gen armistead l long november 25 1864</title>
+        <author>Long, Armistead L.</author>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Peter Brownfeld</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">11</num> kilobytes</extent> 
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <publisher>University of Virginia</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">R0080</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1999 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved.</p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:500121</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>CHAP. XLVIII, RAPIDAN TO THE JAMES., No. 291, Report of Brig. Gen.
+                            Armistead L. Long, C.S. Army, Chief of Artillery, Second Army Corps, of
+                            operations May 4-31.</title>
+            <title type="uniform">The War of The Rebellion: Official Records of the
+                            Union and Confederate Armies</title>
+            <title type="sort">chap xlviii, rapidan to the james no 291 report of brig gen armistead l long c s army chief of artillery second army corps of operations may 4 31</title>
+            <author>Armistead L. Long</author>
+            <respStmt>
+                            <resp>Translator:</resp>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p>Series I., Volume 36. Part I, Reports, Serial No. 67</p>
+                    </editionStmt>
+                    <extent>Page 1084</extent>
+                    <publicationStmt>
+                        <publisher>Broadfoot Publishing Company</publisher>
+                        <pubPlace>Wilmington, NC</pubPlace>
+                        <date value="1997">1997</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Publisher</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1864-11-25">1864-11-25</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>American Civil War</term>
+                    <term>Regiment: Staunton Artillery</term>
+                    <term>Battle: Wilderness</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="R0080T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Brig. Gen. Armistead L. Long was a member of the Second Army Corps of the Army of
+                    Northern Virginia which included the Staunton Artillery. Long reports that the
+                    artillery had a hard time in the dense wilderness but succeeded in firing on the
+                    advancing enemy.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">AJDT. Gen., Lieut. Gen. EWELL'S COMMAND, Richmond, Va.</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1864-11-25">November 25, 1864</date>
+                        <name type="place">STAUNTON</name>
+                    </dateline>
+                    <salute>MAJ</salute>
+                </opener>
+                <p>I have the honor to submit the following report of the operations of the
+                    artillery of the Second Corps from May 4 to 31, 1864:</p>
+                <p>I received orders on May 4 from Lieut.-Gen. Ewell to move my artillery to the
+                    front. I immediately broke up my grazing camps in the neighborhood of
+                    Gordonsville, and directed Col. Brown to move his division of artillery in the
+                    direction of Locust Grove. Cutshaw's battalion was ordered to report to Col.
+                    Carter, who had been ordered some days before the vicinity of Raccoon Ford with
+                    Page's battalion, of his division. Nelson's battalion had been some time on the
+                    front operating with Early's division of infantry.</p>
+                <p>On the 5th all my artillery was concentrated at Locust Grove, on the old turnpike
+                    from Orange Court-House to Fredericksburg, in the immediate vicinity of the
+                    infantry of the Second Corps. On reporting to Gen. Ewell I learned that the
+                    enemy was in his front. Maj. Gen. Edward Johnson's division of infantry was
+                    advanced, accompanied by Nelson's battalion of artillery. After moving a short
+                    distance the division was deployed across the pike, and one battery (Milledge's)
+                    was put in position to the right of the road in</p>
+                <p>CHAP. XLVIII.] RAPIDAN TO THE JAMES. PAGE 1085 [Series I. Vol. 36. Part I,
+                    Reports. Serial No. 67.]</p>
+                <p>front of Jones' brigade. The enemy attacking while the position of this brigade
+                    was being changed, it became necessary to withdraw Milledge's battery. After a
+                    very spirited attack the enemy was repulsed with considerable loss. Gen. Ewell
+                    then took up his position without further opposition. His line extended on each
+                    side of the turnpike, the road passing through the center of his division. The
+                    right wing was nearly at right angles to the pike, and the left wing was bent
+                    back to cover the road leading to the Germanna plank road. The country was of
+                    such a character (being a dense wilderness) that but few opportunities offered
+                    for the effective use of artillery; nevertheless, a portion of Nelson's guns
+                    were posted on a commanding ridge, with a small field in front, immediately on
+                    the road, 1 mile from the Lacy house. Two others of Nelson's guns were placed on
+                    the road leading to Germanna Ford, to operate with the troops of the left wing
+                    of the corps. The artillery during the day was several times used with effect in
+                    repulsing partial attacks of the enemy. For the better service of the artillery,
+                    our line being quite extended, I directed Col. Brown to take charge of that
+                    portion posted on the right of the turnpike, and Col. Carter that on the left.
+                    Early on the morning of the 6th Col. Carter was directed to concentrate as many
+                    guns as could be spared on the left of our position, which was a good deal
+                    exposed, and the enemy was feeling in that direction as if intending to attempt
+                    our flank. These guns, with a small infantry support, sufficiently protected
+                    this point. During the day the enemy made an attack on Gordon's brigade, which
+                    was on our extreme left. Some of these guns were used with considerable effect
+                    in assisting to repel this attack. Early in the day Col. Brown, while selecting
+                    a position for a battery, was shot by a sharpshooters and instantly killed. His
+                    loss was deeply felt throughout the whole army. He not only exhibited the
+                    highest social qualities, but was endowed with the first order of military
+                    talents. On every where he was called to act he was distinguished for gallantry
+                    and skill. The artillery will ever remember him as one of its brightest
+                    ornaments. Nelson's battalion was relieved during the day by guns from
+                    Lieut.-Col. Hardaway's and Maj. Cutshaw's battalions, Cutshaw occupying the
+                    position on the right of the pike, and Hardaway that on the Germanna road.
+                    Lieut.-Col. Braxton's battalion was put in position on our extreme right,
+                    filling the intervals between Rodes' right and Hill's left. A few guns were
+                    distributed along Rodes' front.</p>
+                <p>Being absent from my command, I am unable to append a list of casualties. The
+                    chief loss was upon the capture of Custhaw's and Page's battalions on May 12.</p>
+                <p>This report would have been submitted at a much earlier period had it not been
+                    for the difficulties incident to an active campaign in getting sub-reports, and
+                    my own lines.</p>
+                <closer>
+                    <salute>I am, very respectfully, your obedient servant,</salute>
+                    <signed>A. L. LONG, Brig.-Gen., Chief of Artillery.</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

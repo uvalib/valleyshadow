@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+
+<?dlps id="R0029"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 n="fr" id="R0029">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main">Antietam, 107th Pa. Infantry, Report of Capt. James MacThompson,
+                    October 7, 1862 </title>
+        <title type="sort">antietam, 107th pa infantry report of capt james macthompson october 7 1862</title>
+        <author>MacThompson, James</author>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Peter Brownfeld</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">9</num> kilobytes</extent> 
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <publisher>University of Virginia</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">R0029</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1999 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved.</p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:500079</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Chap. XXXI. THE MARYLAND CAMPAIGN, No. 28 Report of Capt. James
+                            MacThompson, One hundred and seventh Pennsylvania Infantry, First
+                            Brigade, of the battles of South Mountain and Antietam.</title>
+            <title type="uniform">The War of The Rebellion: Official Records of the
+                            Union and Confederate Armies</title>
+            <title type="sort">chap xxxi the maryland campaign, no 28 report of capt james macthompson one hundred and seventh pennsylvania infantry first brigade of the battles of south mountain and antietam</title>
+            <author>James MacThompson</author>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p>Series I. Vol. 19. Part I, Reports. Serial No. 27.</p>
+                    </editionStmt>
+                    <extent>Page 262</extent>
+                    <publicationStmt>
+                        <publisher>Broadfoot Publishing Company</publisher>
+                        <pubPlace/>
+                        <date value=""/>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Publisher</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1862-10-07">1862-10-07</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>American Civil War</term>
+                    <term/>
+                    <term>Regiment: 107th Pa.</term>
+                    <term>Company:</term>
+                    <term>Battle: Antietam</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="R0029T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Capt. James MacThompson commanded the 107th Pa. which was in the Army of the
+                    Potomac. MacThompson reports that his forces held a numerically superior force
+                    at bay before ultimately falling back.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    HDQRS. ONE HUNDRED AND SEVENTH PENNSYLVANIA VOLS
+                    <name type="recipient">Lieut. KENNY, Acting Assistant Adjutant-Gen. </name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1862-10-07">October 7, 1862</date>
+                        <name type="place">Camp near Mercerville, Md.</name>
+                    </dateline>
+                    <salute>SIR:</salute>
+                </opener>
+                <p>I have the honor to make the following report respecting the One hundred and
+                    seventh Regiment Pennsylvania Volunteers in the two actions, September 14 and
+                    17, at South Mountain and Antietam:</p>
+                <p>The coveted ground gained by our force, and night coming on, no farther advance
+                    was made, and both armies lay on their arms, ready for the fierce fight of
+                    tomorrow, our brigade having reached a point less than half a mile in rear of
+                    the outer pickets.</p>
+                <p>At early dawn, agreeably to orders, I moved the One hundred and seventh Regiment
+                    by the flank to the field on the right. Here, forming column by divisions, we
+                    moved forward through a narrow strip of timber, gained the night previous, into
+                    a plowed field, in which, opposite side, Thompson's Pennsylvania battery had
+                    just gotten into position. Advancing half way across the field to within easy
+                    supporting distance of the battery, we halted for about five minutes, the
+                    enemy's shell and round shot haying about us like hail, killing and wounding
+                    some of our poor fellows, but not injuring the morale of the regiment in the
+                    least. Shortly we were again advancing and passing the battery, and over a
+                    clover field reached the spot so frequently mentioned in the reports of this
+                    battle--the corn filed. Deploying into line, we entered the field and pushed
+                    rapidly through to the other side. Here we found, in different positions, three
+                    full brigades of the enemy. We opened fire immediately upon those in front, and
+                    in fifteen minutes compelled them to fall back. Receiving re-enforcements,
+                    however, he soon regained his position, and an unequal conflict of nearly
+                    three-quarters of an hour resulted in forcing us back through the corn-field.
+                    Our brigade had, however, done its work. We had held at bay a force of the enemy
+                    numerically five times our superior for considerably more than an hour, and at
+                    one time driving them. We were now relieved by re-enforcements coming up, and
+                    retired to the rear. During the balance of the day we were constantly on the qui
+                    vive, but were not again called into action save to support batteries.</p>
+                <p>In the battle of Antietam the One hundred and seventh Regiment had 190 men
+                    engaged, and lost 19 men killed and 45 wounded, a total loss of 85 killed and
+                    wounded in both engagements. Too much cannot be said of the dashing bravery of
+                    both officers and men at South Mountain or of their heroic firmness and cool
+                    bearing when standing still in line of battle at Antietam. They, for more than
+                    an four, received [and returned] the fire of a force infinitely superior.</p>
+                <closer>
+                    <salute>With much respect, I am, sir, your obedient servant,</salute>
+                    <signed>JAMES MacTHOMSON, <lb/> Capt., Comdg. One hundred and seventh Regt.
+                        Pennsylvania Vols., in the engagements of September 14 and 17, 1862. </signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>
