@@ -1,0 +1,506 @@
+<?xml version="1.0"?>
+
+<?dlps id="SCC0303"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 id="SCC0303">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Southern Claims Commission: Claim of William Bull,
+                    August 22, 1871, Claim No. 2,586</title>
+        <title type="sort">southern claims commission claim of william bull, august 22 1871 claim no 2 586</title>
+        <author>Bull, William</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name>Virginia Center for Digital History Staff</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Philip Herrington</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca.<num type="kilobytes"> 22.8 </num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">SCC0303</idno>
+        <!--
+                <availability>
+                    <p>Publicly accessible</p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2006, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2006">2006</date>
+            <idno type="uva-pid">uva-lib:498370</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title type="main">Southern Claims Commission: Claim of William Bull, August
+                            22, 1871, Claim No. 2,586</title>
+            <title level="m"/>
+            <title type="sort">southern claims commission claim of william bull, august 22 1871 claim no 2 586</title>
+            <author>William Bull</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives, Washington, D.
+                            C., fiche # 14</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1871">1871</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+        <hand id="h1"/>
+      </handList>
+            <textClass>
+                <keywords>
+                    <term>Agriculture, Home Front, Military Authority, National Government,
+                        Patriotism, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="SCC0303T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>William Bull filed this claim August 22, 1871, for $300, claiming that Union
+                    troops confiscated 2 mares (one with a saddle and bridle) and 1 horse from his
+                    farm near Mount Sidney, Augusta Co., Va. in 1864. The claim was disallowed (date
+                    of disallowment not given).</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="claim_items" id="d5">
+                <p>
+                    <table>
+                        <row>
+                            <cell>
+                                <hi rend="bold">Item Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Allowed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Disallowed:</hi>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell> 1 Bay mare x 9 years old x saddle &amp;<lb/>bridle </cell>
+                            <cell>$120.00</cell>
+                            <cell>0</cell>
+                            <cell>$120.00</cell>
+                        </row>
+                        <row>
+                            <cell>1 Bay Horse 3 year old</cell>
+                            <cell>$100.00</cell>
+                            <cell>0</cell>
+                            <cell>$100.00</cell>
+                        </row>
+                        <row>
+                            <cell>1 sorrel mare 3 year old</cell>
+                            <cell>$80.00</cell>
+                            <cell>0</cell>
+                            <cell>$80.00</cell>
+                        </row>
+                        <!--Enter Items here (using the tag in the toolbar) between the "table" tags-->
+                    </table>
+                </p>
+            </div1>
+            <div1 type="claim_summary" id="d6">
+                <p>Claimant hired a substitute and put him in the Confederate Service in the stead
+                    of his Son. And he voted for the ordinance of Secession, but says he was forced
+                    to it.</p>
+                <p>The mere allegation of force to compel him to vote for the dissolution of the
+                    Union and the overthrow of the Government without showing the character of the
+                    Force or any of the circumstances, fails to satisfy us and the hiring a
+                    substitute in place of his son though an act of filial affection, was still
+                    rendering effectual aid to the enemy. And we regard the conduct of the Claimant
+                    as it appears in the Evidence without other explanation inconsistent with loyal
+                    adherance to the Cause of the Union and the Government of the United States.</p>
+                <p><name type="other">Asa Owen Aldis</name>, <name type="other">JB
+                    Howell</name><lb/>Commrs of Claims</p>
+            </div1>
+            <div1 type="testimony" id="d7">
+                <byline>William Bull</byline>
+                <p>Your petitioner William Bull, repsectfully represent that he is citizen and
+                    resident near Mt Sidney Augusta county State of Virginia, and at the time this
+                    claim accrued your Petitioner <orig reg="address">addres</orig> was the same as
+                    above.</p>
+                <p>1864</p>
+                <p>June 9 1 Bay mare + 9 years old + saddle &amp;</p>
+                <p>bridle . . . . . . 120.00</p>
+                <p>Sept. 29 1 Bay Horse 3 year old . . . . . . 100.00</p>
+                <p>1 sorrel mare 3 year old . . . . . . . 80.00</p>
+                <p>[Total:] $300.00</p>
+            </div1>
+            <div1 type="testimony" id="d8">
+                <byline>William Bull</byline>
+                <p>. . .that said supplies were Taken from your petitioners Home two miles East of
+                    Mt Sidney <del hand="h1">&amp; the Bay mare was taken by</del> Augusta County Va the
+                    supplies as follows <hi rend="super">one</hi><del hand="h1">the</del> Bay mare <hi
+                        rend="super">of date June 9 1864</hi> was taken from your Petitioner
+                    upon the Ground of the <del hand="h1">Port Republic</del> Pied <hi rend="super"
+                    >mont</hi> Fight, <del hand="h1">&amp; the</del><hi rend="super">taken</hi> by
+                    the united States troops under Command of Major General Hunter the rest being
+                    two horses where taken from your petitioners fields he being <orig reg="present"
+                        >preasant</orig> at the time Major General Phillip Sheridan forces came
+                    along &amp; taken then the above statement is from your petitioners own
+                    personal knowledge &amp; no receipts or Voucher where given of any kind
+                    &amp;</p>
+                <p>. . .that this claim has never been presented to any executing department of the
+                    government for Collection</p>
+                <p><name type="claimant">William Bull</name>his x mark</p>
+            </div1>
+            <div1 type="testimony" id="d9">
+                <byline>George Peters, Noah Peters, Malilon J. Evans, Susan A. Folds, Sarah A.
+                    Roberts</byline>
+                <p>We the undersigned Loyal Citizens of Augusta County Virginia do certify on Oath
+                    that we have known W<hi rend="super">m</hi> Bull for many and know him to
+                    have been Loyal to the Government of the United States before, and at the time
+                    and since the taking of the property and supplies in the claimants petition
+                    mentioned.</p>
+                <p>Sworn to &amp; subscribed before me this 1<hi rend="super">st</hi> day
+                    of May 1871, <name type="other">H.G. MCausland N.P.</name></p>
+                <p><name type="witness">George Peters</name>, New Hope</p>
+                <p><name type="witness">Noah Peters</name>his x mark, Mt Sidney V<hi
+                        rend="super">a</hi></p>
+                <p>Witnesses as to facts Malilon J. Evans Mt Sidney Va<lb/>Susan A. Folds<lb/>Sarah
+                    A. Roberts New Hope</p>
+            </div1>
+            <div1 type="testimony" id="d10">
+                <byline>United States War Department Archives Office</byline>
+                <p>That, as stated in the Petition referred to, the property in question was taken
+                    from or furnished by petitioner of Mt Sidney, in the State of Va, for the use of
+                    a portion of the army of the United States, known as ____, and commanded by
+                    Genls Hunter &amp; Sheridan and that the person who took or received the
+                    property, or who authorized or directed it to be taken or furnished were the
+                    following:<lb/>Unknown</p>
+                <p>That the property was removed to Camp and used for or by <del rend="none" hand="h1"></del> troops on or
+                    about the 9 of June &amp; 29<hi rend="super">th</hi> day of September
+                    in the year 1864 as appears by the petition presented to the Commissioners.</p>
+                <p>That the Claimant is unable to produce the witnesses hereafter to be named before
+                    the Commissioners at the city of Washington for and because of the following
+                    reasons, to wit: the Smallness of claim</p>
+                <p>That the following are the names of the witnesses, their respective places of
+                    residence, the points most convenient for the taking of their testimony, and
+                    separate, full and detailed statements of what each particular witness is
+                    expected to prove; all matters of time, place and circumstance being set forth
+                    as explicitly as is possible:</p>
+                <p>By G &amp; N. Peters, M J. Evans, Susan A Folds &amp; Sarah A Roberts in
+                    the county of Mt Sidney and State of Va whose testimony should be taken at or
+                    near Mt Sidney in the State of Va the claimant expects to prove that he was
+                    always loyal to the U.S. Govt. and also that the facts alleged in the petition
+                    are true.</p>
+            </div1>
+            <div1 type="testimony" id="d11">
+                <byline>William Bull</byline>
+                <p>United States of America State of Virginia SS</p>
+                <p>I, W.G. Riley a commissioner selected and designated by the Commissioners of
+                    Claims appointed under the act of Congress of March 3<hi rend="super"
+                    >rd</hi> 1871 to take and record testimony Do hereby certify that the reason for
+                    taking the following depositions is and the fact is the matter of claim of <hi
+                        rend="underline">William Bull</hi> vs the United States of America and the
+                    witness herein named being first duly sworn answereth as follows.</p>
+                <p>Question 1<hi rend="super">st</hi> Witness says-I reside in the County of
+                    Augusta State of Virginia</p>
+                <p>margin note: 75 years old</p>
+                <p>Quest 2 Witness says-In the same place I have resided there for thirty years</p>
+                <p>3 Witness says-I never passed beyond the Military or Naval lines of the United
+                    States</p>
+                <p>4 Witness says-I never swore allegiance to the so called Confederate States</p>
+                <p>5 Witness says-I have never taken any amnesty oath. I have never been pardoned by
+                    the President &amp; did nothing to be pardoned for</p>
+                <p>6 Witness says-I never was connected with the Confederate States</p>
+                <p>7 Witness says-I never had any office or place of trust or honor under the
+                    Confederate Government</p>
+                <p>8 Witness says-I never held any clerkship under the so called Confederate States</p>
+                <p>9 Witness says-I never was in any military capacity or Naval service of the so
+                    called Confederate States</p>
+                <p>10 Witness says-I hired a substitute to get my son out of the Confederate Service
+                    and sent him North I did nothing else for the Confederate Government whatever.</p>
+                <p>11 Witness says-I have never done anything for the Confederate Government either
+                    Army or Navy nor assisted them in nothing</p>
+                <p>12 Witness says-I rendered the Confederate Government no assistance whatever</p>
+                <p>13 Witness says-I never was engaged in the purchase or the sale of stores and
+                    supplies for the Confederate Government</p>
+                <p>14 Witness says-I never was engaged in Blockade running or illicit traffic</p>
+                <p>Witness says-I did not leave the Confederate States between the 19<hi
+                        rend="super">th</hi> of April 1861 and the 19<hi rend="super"
+                    >th</hi> of April 1865</p>
+                <p>16 Witness says-I never was the owner or part owner or in anyway interested in
+                    any vessel navigating the Ocean or upon any waters in the Confederacy</p>
+                <p>17 Witness says-I never was arrested by the Confederate States Government I was
+                    arrested by the United States Government. I was brought to Staunton Virginia and
+                    released I told them I was glad to get with them as I wanted to see them</p>
+                <p>18 Witness says-They took all they could get meaning the Confederate Government</p>
+                <p>19 Witness says-I never was threatened that I know of with injury to my person
+                    family or property on account of my union sentiments I kept men hid on my place
+                    they slept in my barn until they could go to the North</p>
+                <p>20 Witness says-I never was injured or molested on account of my Union sentiments</p>
+                <p>21 Witness says-I did nothing for the United States Government or its Army I gave
+                    them as much as they wanted to eat</p>
+                <p>22 Witness says-Nothing except what I have stated</p>
+                <p>23 Witness says-I had no relatives in either the Union or Confederate Armies</p>
+                <p>24 Witness says-I never contributed anything to support the credit of the
+                    Confederate States</p>
+                <p>25 Witness says-I have never given aid and comfort to the Rebellion</p>
+                <p>26 Witness says-I never was engaged in making raids into the United States from
+                    Canada</p>
+                <p>27 Witness says-I never was engaged in holding in custody directly or indirectly
+                    any persons taken by the Confederate Government as prisoners of war</p>
+                <p>28 Witness says-I never was a member of any association for the purpose of
+                    persecuting any persons on account of their loyalty to the United States</p>
+                <p>29 Witness says-He never was a parolled prisoner of the United States</p>
+                <p>30 Witness says-I never held any office in the Army or Navy of the United States
+                    I was not educated at West Point or at the United States Naval Academy</p>
+                <p>31 Witness says-I never received any pass from any officers of the Confederate
+                    Government</p>
+                <p>32 Witness says-I never was under any disabilities imposed by the 14<hi
+                        rend="super">th</hi> Article of the Amendments to the Constitution of
+                    the United States. I have never held any office under the United States
+                    Government.</p>
+                <p>33 Witness says-I sympathized with the Union cause and not with the Rebellion. I
+                    voted for it they forced <hi rend="super">me</hi> to vote for it and I
+                    knew no better. After the ordinance of Secession I still adhered to the Union.</p>
+                <p>34 Witness says-I solemnly declare that from the beginning of hostilities against
+                    the united States my sympathies were constantly with the cause of the United
+                    States that I never did of my own <hi rend="underline">free will offered</hi> or
+                    sought to do anything to retard <orig reg="its">it's</orig> success were at all
+                    times ready and willing to aid the cause of the Union so far as my means and
+                    power and the circumstances of the case permitted.</p>
+                <p>Questions by the Commissioner</p>
+                <p>Quest 1 How old are you where do you reside, and what is your occupation? Answer
+                    I am seventy five years old I reside in Augusta County by occupation a farmer.</p>
+                <p>Quest 2 What was the condition and value of the horse charged in the claimant's
+                    petition when taken by the Government of the United States Answer The property
+                    mentioned in the claimant's petition was in good condition when taken by the
+                    United States Government and worth all that he was charged the same</p>
+                <p>Further the witness saith not August the 14<hi rend="super">th</hi> 1871</p>
+                <p>
+                    <name type="claimant">Will Bull</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d12">
+                <byline>M. J. Evans</byline>
+                <p>M.J. Evans a witness introduced by William Bull the Claimant being first duly
+                    sworn answereth as follows concerning the taking of the property</p>
+                <p>Question 1 Witness says-I was present when some of the articles were taken
+                    specified in the Claimant's petition</p>
+                <p>Quest 4 Witness says-I think the property was taken in 1864 it was taken from the
+                    farm of the claimant William Bull by soldiers or Officers of the United States
+                    Army I was present when they were taken.</p>
+                <p>Quest 6 Witness says-I <orig reg="don't">dont</orig> know whether they were
+                    Officers or soldiers that were present at the taking.</p>
+                <p>7 Witness says-I heard nothing said the horses that I saw taken were drove off by
+                    soldiers or officers I am not prepared to say which</p>
+                <p>9 Wintess says-I <orig reg="don't">dont</orig> know to what place the property
+                    was removed</p>
+                <p>10 Witness says-I do not know to what use the horses were put</p>
+                <p>11 Witness says-There was no complaint made to any officer on account of such
+                    taking</p>
+                <p>12 Witness says-There was no voucher or receipt asked for or given that I know
+                    of.</p>
+                <p>13 Witness says-The property was <hi rend="super">all</hi> taken in the day
+                    time just before sun down none of it was taken secretly</p>
+                <p>14 Witness says-When the property was taken I <orig reg="don't">dont</orig> think
+                    any of the Army was encamped in that vicinity. I <orig reg="don't">dont</orig>
+                    know that there had been any battle just before the property was taken.</p>
+                <p>15 Witness says-The horses when taken were in good condition they were three
+                    years old and worth all that the Claimant has charged the Government in his
+                    petition I have never talked to the claimant about their value</p>
+                <p>19 Witness says-I <orig reg="don't">dont</orig> know for what use the horses were
+                    taken they would have made good Cavalry horses</p>
+                <p>20 Witness says-I suppose they were taken for the use of the Government</p>
+                <p>21 Witness says-I suppose they were taken for some use for the Government and by
+                    persons having authority to take them</p>
+                <p>22 Witness says-I suppose the Government ought to pay for them</p>
+                <p>23 Witness says-I <orig reg="can't">cant</orig> tell whether they were taken by
+                    persons who had authority <hi rend="super">or not</hi></p>
+                <p>Questions by the Commissioner</p>
+                <p>Quest 1 How old are you where do you reside and what is your occupation? Answer I
+                    am twenty six years old I reside in Augusta County Virginia by occupation a
+                    Blacksmith</p>
+                <p>Quest 2 How long have you known the Claimant Answer I have known the Claimant
+                    about eight years. I saw him often during the war, he was loyal to the United
+                    States Government all the time I knew him he was so regarded by his neighbors-
+                    and</p>
+                <p>Further this witness saith not August the 14<hi rend="super">th</hi> 1871</p>
+                <p>
+                    <name type="witness">M.J. Evans</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d13">
+                <byline>Susan Folds</byline>
+                <p><hi rend="underline">Susan Folds</hi> a witness introduced by William Bull the
+                    claimant for the proof as to the taking of the property being first duly sworn
+                    answereth as follows</p>
+                <p>Quest 1 Witness says-I saw two horses mentioned in the claimants petition taken</p>
+                <p>Quest 4 Witness says-The horses were taken in 1864 from the farm of the Claimants
+                    by Officers and soldiers under the Command of Gen<hi rend="super">l</hi>
+                    Sheridan.</p>
+                <p>8 Witness says-The horses were drove off by soldiers or Officers</p>
+                <p>11 Witness says-There was no complaint made to any Officer on account of such
+                    taking</p>
+                <p>12 Witness says-There was no receipt given or asked for</p>
+                <p>13 Witness says-None of the property was taken in the night time</p>
+                <p>15 Witness says-They were in good condition when taken, I do <hi
+                        rend="super">not</hi> know how old they were but they were young. I
+                    think they were worth all the claimant has charged the Claimant in his petition</p>
+                <p>19 Witness says-I think the property was taken for the use of the Government and
+                    not for individual use.</p>
+                <p>22 Witness says-I think they were taken for some purpose so necessary that the
+                    Government would be <orig reg="justifiable">justifyable</orig> in paying for
+                    them.</p>
+                <p>Quest How old are you where do you reside and what is your occupation? Answer I
+                    am twenty seven years old. I reside in Augusta County, by occupation a house
+                    keeper</p>
+                <p>Further this witness saith not August the 14<hi rend="super">th</hi> 1871</p>
+                <p>
+                    <name type="witness">Susan Folds</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d14">
+                <byline>George Peters</byline>
+                <p><hi rend="underline">George Peters</hi> a witness introduced by the claimant
+                    William Bull for proof as to his loyalty being first duly sworn answereth as
+                    follows</p>
+                <p>Quest 1 Witness says-I am going on forty four years old I reside in Augusta
+                    County Virginia by occupation a farmer</p>
+                <p>Quest 2 Witness says-I have known the claimant twenty years I saw him often
+                    during the war. I believe that he was loyal to the United States Government
+                    during the war, so far as I know he was so regarded by his neighbors I never
+                    knew him to aid the United States Cause nor the Confederate cause, so far as I
+                    know he was regarded by all who knew him as a Union man. I have heard him say
+                    often that this sympathies were with the Union Cause</p>
+                <p>Questions by the Commissioner</p>
+                <p>Quest 1 Do you know of any act done or language used by the Claimant that would
+                    have prevented him from establishing his loyalty to the Confederacy if it had
+                    been maintained as a separate Government if so state the same particularly.</p>
+                <p>Answer He was too loyal to the United States Government to have been considered
+                    loyal to the Confederacy if it had been maintained as a separate Government</p>
+                <p>Further this witness saith not August the 14<hi rend="super">th</hi> 1871</p>
+                <p>
+                    <name type="witness">George Peters</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d15">
+                <byline>Noah Peters</byline>
+                <p><hi rend="underline">Noah Peters</hi> a witness introduced by William Bull the
+                    claimant for proof as to his loyalty being first duly sworn answereth as follows</p>
+                <p>Quest 1<hi rend="super">st</hi> How old are you where do you reside and
+                    what is your occupation?</p>
+                <p>Answer I am fifty three years old I reside in Augusta County <hi
+                        rend="super">Virginia</hi> by occupation a farmer</p>
+                <p>Quest 2 How long have you known the Claimant mentioned in the petition?</p>
+                <p>Answer I have known him for forty years I saw him often during the war, he was
+                    loyal to the United States Government during the war and was so regarded by his
+                    neighbors</p>
+                <p>Quest 3 Do you know of any act done or language used by the Claimant which would
+                    have prevented him from establishing his loyalty to the Confederacy if it had
+                    been maintained as a separate Government if so state the same particularly</p>
+                <p>Answer He was too loyal to the United States Government to have been considered
+                    loyal to the Confederacy if it had been maintained as a separate Government and</p>
+                <p>Further the deponent saith not August the 14<hi rend="super">th</hi> 1871</p>
+                <p><name type="witness">Noah Peters</name> his mark</p>
+            </div1>
+            <div1 type="testimony" id="d16">
+                <byline>Sarah A. Roberts</byline>
+                <p><hi rend="underline">Mrs Sarah Roberts</hi> a witness introduced by the Claimant
+                    to prove the taking of the property being first duly sworn answereth as follows-</p>
+                <p>Quest 1 Witness says-I am forty nine years old. I reside in Augusta County Va, by
+                    occupation a house keeper. I saw one horse taken in 1864 in June by United
+                    States soldiers, taken from Mr Roberts' house, the claimant saw the soldiers
+                    coming the hitched his horse and entered my house. The soldiers were under the
+                    command of Gen<hi rend="super">l</hi>. Hunter. No receipt was given that I
+                    know of and none asked for.</p>
+                <p>13 Witness says-The property was taken in the day time. I think it was in the
+                    afternoon</p>
+                <p>14 Witness says-The horse was in tolerable condition. I know nothing of <orig
+                        reg="its">it's</orig> value or age and further the deponent saith not August
+                    the 22<hi rend="super">nd</hi> 1871</p>
+                <p>
+                    <name type="witness">Sarah A. Roberts</name>
+                </p>
+                <p>Sworn to &amp; subscribed before me this 22<hi rend="super">nd</hi> day
+                    of August 1871</p>
+                <p><name type="other">WG Riley</name> United States Commissioner and Special <abbr
+                        expan="Commissioner">Com</abbr> for State of Va.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

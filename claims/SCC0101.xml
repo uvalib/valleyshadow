@@ -1,0 +1,753 @@
+<?xml version="1.0"?>
+
+<?dlps id="SCC0101"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 id="SCC0101">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Southern Claims Commission: Claim of Mary Baker,
+                    September 16, 1871, Claim No. 7071</title>
+        <title type="sort">southern claims commission claim of mary baker, september 16 1871 claim no 7071</title>
+        <author>Baker, Mary</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Jaime Martinez</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca.<num type="kilobytes"> 40</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">SCC0101</idno>
+        <!--
+                <availability>
+                    <p>Publicly accessible</p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2006, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2006">2006</date>
+            <idno type="uva-pid">uva-lib:498326</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title type="main">Southern Claims Commission: Claim of Mary Baker, September
+                            16, 1871, Claim No. 7071</title>
+            <title level="m"/>
+            <title type="sort">southern claims commission claim of mary baker, september 16 1871 claim no 7071</title>
+            <author>Mary Baker</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives, Washington,
+                            D.C., RG 123, Congressional Jurisdiction #8560</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1872">1872</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+        <hand id="h1"/>
+      </handList>
+            <textClass>
+                <keywords>
+                    <term>African Americans, agriculture, home front, military authority, national
+                        government, patriotism, race relations, troop movement, women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="SCC0101T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Mary Baker filed her claim in 1872, but it was rejected for having insufficient
+                    evidence. She appealed to the Congressional Court of Claims during the years
+                    1892-1901.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="claim_items" id="d5">
+                <p>
+                    <table>
+                        <row>
+                            <cell>
+                                <hi rend="bold">Item Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Allowed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Disallowed:</hi>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>4 Cattle at $40.</cell>
+                            <cell>160.00</cell>
+                            <cell>0</cell>
+                            <cell>160.00</cell>
+                        </row>
+                        <row>
+                            <cell>16 Tons of Hay $15.</cell>
+                            <cell>240.00</cell>
+                            <cell>0</cell>
+                            <cell>240.00</cell>
+                        </row>
+                        <row>
+                            <cell>125 bushels Wheat $1.25</cell>
+                            <cell>156.25</cell>
+                            <cell>0</cell>
+                            <cell>156.25</cell>
+                        </row>
+                        <row>
+                            <cell>30 Cords of Wood $3.</cell>
+                            <cell>90.00</cell>
+                            <cell>0</cell>
+                            <cell>90.00</cell>
+                        </row>
+                        <row>
+                            <cell>Total</cell>
+                            <cell>$646.25</cell>
+                            <cell>0</cell>
+                            <cell>$646.25</cell>
+                        </row>
+                    </table>
+                </p>
+            </div1>
+            <div1 type="claim_summary" id="d6">
+                <p>Claim rejected</p>
+                <p>The proof of the taking of the property is Entirely insufficient. -The only
+                    witness is one Walker-a former slave of the claimant, who says he was not
+                    present when the property was taken, but saw it afterwards in the possession of
+                    the Army. -How could he identify hay, wood &amp; wheat? Plainly he could
+                    not. -He does not tell when &amp; where he saw the Cattle afterwards, or how
+                    he could identify them. -From examining the whole of his evidence we think it
+                    wholly unreliable &amp; reject the claim.</p>
+                <p>It is therefore unnecessary to decide upon her loyalty.</p>
+                <p>Claim rejected.</p>
+                <p><name type="other">A.O. Aldis</name> Commrs of Claims</p>
+            </div1>
+            <div1 type="testimony" id="d7">
+                <byline>Mary Baker</byline>
+                <p>Deposition of Mary Baker</p>
+                <p>Question 1<hi rend="super">st</hi> Answer. Witness Says, I am 52 years old.
+                    I reside in Augusta Co. Va. I am a house keeper and manage my farm. I resided in
+                    Augusta Co for years before the War and all the time of the war.</p>
+                <p>4 Witness Says, I never took any oath to the Confederate Government. I took no
+                    Amnesty Oath. I never asked for any pardon.</p>
+                <p>6<hi rend="super">th</hi> Witness Says I never was in any manner connected
+                    with the civil service of the Confederate States, Clerkship or agency of any
+                    kind.</p>
+                <p>9 Witness Says, I never was engaged in blockade running or illict <orig
+                        reg="traffic">traffick</orig> or intercourse between the lines. I did not
+                    leave the Confederate States during the War.</p>
+                <p>17 Witness Says, I never was arrested by the Confederates, but was threatened
+                    with arrest, because of my sympathies for Union men. I never was arrested by the
+                    U.S. Government.</p>
+                <p>18 Witness Says I had no property taken by the Confederates. I was threatened
+                    with arrest. My son was arrested and taken to the Army. I went about 200 miles
+                    to get him released.</p>
+                <p>21 Witness Says, I never contributed any thing for the support of the United
+                    States.</p>
+                <p>23 Witness Says I had a brother in the Confederate Army. I had no relatives in
+                    the Union Army that I know of. I did not furnish my brother with anything at
+                    all.</p>
+                <p>24 Witness Says, I never owned a Confederate Bond, Nor done anything to support
+                    the Credit of the Confederacy.</p>
+                <p>25 Witness Says, I never give aid or done anything directly or indirectly for the
+                    use or benefit of the Confederate Government, its Army or Navy</p>
+                <p>31 Witness Says, I went to Winchester Va and had to get a pass to return to my
+                    house in Augusta Co. I took no oath to obtain it.</p>
+                <p>33 Witness Says, At the beginning of the war, my sympathies were with the Union,
+                    and continued so all the time. I did nothing of my own free will and accord to
+                    aid the Confederacy or against the Union or its cause, and I was willing and
+                    ready at all times to assist the Union and its supporters so far as my means
+                    power and the circumstances would present.</p>
+                <p>Further this deponent saith not.</p>
+                <p>
+                    <name type="claimant">Mary Baker</name>
+                </p>
+                <p>Sworn to and subscribed before me this 16<hi rend="super">th</hi> day of
+                    September 1871.</p>
+                <p><name type="other">Wm G Riley</name> US Comr And Special Comr for Virginia</p>
+            </div1>
+            <div1 type="testimony" id="d8">
+                <byline>Michael Carwell</byline>
+                <p>Deposition of Michael Carwell to prove the loyalty of the claimant.</p>
+                <p>Question 1<hi rend="super">st</hi>. Answer. Witness Says, I am 60 years old
+                    I reside in Augusta Co. Va. by occupation a farmer. I have known the claimant
+                    Mrs. Baker, about 30 years. I lived near her during the War, and heard her often
+                    express herself very bitterly against the rebellion. I had no doubt about her
+                    loyalty. She was regarded so by her neighbors, and she was talked about, a good
+                    deal on account of her opposition to the South. I never knew her to do anything
+                    for either of the Armies. If the Confederate States had succeeded, She could not
+                    shown any loyalty to it. She was too strong a Union woman to have even tried.</p>
+                <p>Further this deponent saith not.</p>
+                <p>
+                    <name type="witness">Michael Carwell</name>
+                </p>
+                <p>Sworn to and subscribed before me this 16<hi rend="super">th</hi> day of
+                    September 1871.</p>
+                <p><name type="other">Wm G Riley</name> US Comr And Special Comr for Virginia</p>
+            </div1>
+            <div1 type="testimony" id="d9">
+                <byline>Joseph Walker</byline>
+                <p>Deposition of Joseph Walker to prove the taking of the property mentioned in the
+                    petition.</p>
+                <p>Ques. 1 Witness Says, I am 55 years old. I reside in Augusta Co. Va. by trade a
+                    blacksmith. I was not present when the property was taken but saw it in the
+                    possession of the Army.</p>
+                <p>4 Witness Says The property was taken in June 1864, from the farm of the
+                    Claimant, Mrs. Baker, by Gen<hi rend="super">l</hi>. Crook's Army.</p>
+                <p>6<hi rend="super">th</hi> Witness Says-The property was taken by Officers
+                    and soldiers belonging to Gen<hi rend="super">l</hi>. Crooks command I did
+                    not know any names of the officers or their rank.</p>
+                <p>12 Witness Says, There was not any receipt given or asked for, that I know of</p>
+                <p>13 Witness Says, The property was taken in the day time, in the Afternoon-and
+                    publicly</p>
+                <p>15 Witness Says, The Cattle were fat, and I suppose worth not less than $35 a
+                    head. I do not know the quanitity of Hay taken, but it a great deal. The Hay was
+                    good, and I think worth about $15. a Ton. The Wheat was standing on the ground
+                    and very fine. The Army Camped in the field and destroyed entirely, I think the
+                    Wheat was worth $1.50 a bushel. I suppose there was at least 30 Cords of Wood
+                    used by the Army. Wood at that time was selling at $4.00 a Cord. The wood was
+                    not measured but supposed to be the quantity charged.</p>
+                <p>19<hi rend="super">th</hi> Witness Says, The property was taken for the use
+                    of the Army. The Cattle were killed on the ground. The Hay fed and the Wood
+                    burnt and the Wheat eaten and tramped by the Horses and Soldiers of the Army. I
+                    suppose it was needed, as it was certainly used.</p>
+                <p>21 Witness Says, I do not know what their necessities were, but they certainly
+                    took it.</p>
+                <p>22 Witness Says, I do think that as the Claimant is a widow and all the time for
+                    the Union she ought to be paid for her property.</p>
+                <p>23 Witness Says, I think the Officers and Soldiers taking the property were
+                    acting under orders as Gen<hi rend="super">l</hi>. Crook, had his head
+                    quarters in the field.</p>
+                <p>General Interrogatory</p>
+                <p>Do you know of other matter about this claim? If so, state it fully.</p>
+                <p>Answer, I know that Butter and other articles were taken from the house. I am a
+                        <orig reg="colored">Colered</orig> man and will bear testimony to her
+                    uniform kindness to myself and family and to my race. She is a good woman and
+                    strong Union.</p>
+                <p>Further this deponent saith not.</p>
+                <p><name type="witness">Joseph Walker</name> his mark</p>
+                <p>Sworn to and subscribed before me this 16<hi rend="super">th</hi> day of
+                    September 1871.</p>
+                <p><name type="other">Wm G Riley</name> US Comr And Special Comr for Virginia</p>
+            </div1>
+            <div1 type="testimony" id="d10">
+                <byline>Claimant's Brief on Loyalty</byline>
+                <p>COURT OF CLAIMS. DECEMBER TERM 1897-1898.</p>
+                <p>Mary Baker, vs. The United States No. 8560 Cong.</p>
+                <p>STATEMENT</p>
+                <p>The claimant in this case resided in Augusta Co., Va., during the late war.</p>
+                <p>The Commissioners rejected the claim because they were not convinced of the
+                    taking of the property.</p>
+                <p>The claim was transmitted to the Court by the Committee on War Claims, Feb. 17,
+                    1892.</p>
+                <p>BRIEF ON LOYALTY</p>
+                <p>Testimony taken in Sept. '71.</p>
+                <p>MARY BAKER testifies: age 52; residence Augusta Co., Va.; housekeeper; Resided
+                    here for years before the war, and all the time of the war. Never took any oath
+                    to the Confederate Govt. or amnesty oath, or never asked for pardon. Never
+                    connected with the civil service of the Conf. states. Never engaged in blockade
+                    running. Never arrested by the Confederates, but was threatened with arrest
+                    because of my sympathies for Union men. Never arrested by U.S. Govt. No property
+                    taken by Confederates. My son was arrested and taken to the army. (P.1). I went
+                    about 200 miles to get him released. Never contributed anything for the support
+                    of the U.S. Had a brother in the Conf. army. No relatives in Union army that I
+                    knew of. Did not furnish my brother with anything at all. Never owned a
+                    Confederate bond,or did anything to support the credit of the Confederacy. Never
+                    gave aid or done anything direct or indirect for the use or benefit of the
+                    Confederate Government, its army or navy. I went to Winchester., Va., and had to
+                    get a pass to return to my home in Augusta County. Took no oath to obtain it. At
+                    the beginning of the war sympathies were with the Union and continued so all the
+                    time. I did nothing of my own free will or accord to aid the Confederacy, or
+                    against the Union or its cause, and I was willing and ready at all times to
+                    assist the Union and its supporters so far as my means, power and the
+                    circumstances would permit. (P.2).</p>
+                <p>MICHAEL CARWELL testifies: Age 60; residence Augusta Co., Va.,; farmer; Known the
+                    claimant about 30 years. Lived near her during the war and heard her often
+                    express herself very bitterly against the rebellion. I had no doubt about her
+                    loyalty She was regarded so by her neighbors and talked about a good deal on
+                    account of her opposition to the South. Never knew her to do anything for either
+                    of the armies. If the Confederate states had succeeded, she could not have shown
+                    any loyalty to it. (P.3). She was too strong a Union woman to have ever tried.
+                    (P.4).</p>
+                <p>The following testimony was taken in Feb. 1898.</p>
+                <p>J. W. ENGLEMAN testifies: farmer; age 54; residence Augusta Co., Va. not
+                    interested or related. Acquainted with the claimant, known her for 34 or 35
+                    years. (P. 1). She resided one mile of me during the war. She was loyal to the
+                    United States Government. Heard her express opinions about the war so far as to
+                    satisfy me that her sympathies were with the United States. <del rend="none" hand="h1"></del> of '63
+                    remained in Indiana until after the war closed. (P.2). Had conversations with
+                    the claimant prior to going North, don't recollect just what she said, but she
+                    advised me to go. I suppose her sympathies were with the Union, she knew mine
+                    were that way. Don't think I had any conversation with her relative to my
+                    entering the Confederate army. (P.3). Don't recollect language she used, but
+                    recollect she advised me to go. She had one son W. H. H. Frenzer. Had two others
+                    which I regarded as not grown. Claimant was married twice. She kept Jas. A.
+                    Frenzer home during the war. (P.4). He was just a boy about 10 years old
+                    probably, not old enough to go in the army. Don't know ages of the others, but
+                    they were old enough to go in the army. They went North. They did not want to go
+                    in the Southern army. Her reputation was good as to loyalty to the U.S. Govt.
+                    She was regarded loyal to the U.S. Govt. (P.5).</p>
+                <p>CROSS-EXAMINED</p>
+                <p>Became acquainted with the claimant before the war. Her first husband John
+                    Frenzer was living the first of the war. Think he died about the second year of
+                    the war. He was not in the army. His sympathies were on the U.S. side.
+                    Claimant's two sons went north hecause they did not want to go in the Southern
+                    army. (P.6). Because their sympathies were with the U.S. Heard them speak of it.
+                    Don't know just what they said to me it has been too long a time to remember. My
+                    supposition is Wm. H. Frenzer done the most of the talking as he was the oldest.
+                    (P.7). I have heard claimant in conversation with my father and myself, which
+                    satisfied me that her sympathies were entirely with the Union. Can't give
+                    exactly what was said. Have heard her speak her sentiments pretty freely in
+                    regard to the war. She did not think it ought to be, and if my memory serves me
+                    right she did not want any of her children in it. (P.8). Don't know that I can
+                    recollect any particular remark she made. Can't say anything as to her loyalty
+                    after the fall of '63, I was not at home. (P.9)</p>
+                <p>MICHAEL CARWELL testifies: farmer; age 88; residence Augusta Co., Va.; not
+                    interested or related. Knew claimant not less than 65 years. Lived about 6 miles
+                    apart. Do not know anything to the contrary, always heard her say she was in
+                    favor of the Union. (P.10). Can't say when her sons left, but I was at her house
+                    when they left and saw them start, to go North. I had a conversation with her
+                    then. She sent for me that night to see them start. Conversation principally
+                    about the war and that she wanted them to go North as she was raised in the
+                    north. As near as I can remember claimant's first husband died the second year
+                    of the war. (P.11). So far as I know she was Union during the war, and is yet I
+                    reckon.</p>
+                <p>CROSS-EXAMINED.</p>
+                <p>She said so long as we were united together we might stand, but divided we might
+                    fall. Saw claimant maybe 100 times during the war. Often. Claimant was raised at
+                    Frederick Co. Md., near Winchester, Va. (P. 12). Think she was raised in
+                    Frederick Co., Ma., not certain. (P. 13).</p>
+                <p>ALEX GIBSON testifies: farmer; age 68; residence Augusta Co., Va. Not interested
+                    or related. Knew the claimant before the war. Resided about 2-1/2 miles apart.
+                    She was loyal so far as I know, and always appeared to be. Think she <del rend="none" hand="h1"></del>
+                    Union. (P. 14).</p>
+                <p>CROSS-EXAMINED.</p>
+                <p>Know claimant was regarded as loyal to the Union by several conversations I had
+                    with her. Don't know that I can just recollect any particular conversation I had
+                    with her at that time. Have heard her express <orig reg="herself">hersepf</orig>
+                    frequently on the side of the Union cause. Left Va. about March '65. (P.5). In
+                    Augusta Co. up to this time except when in the army, Conf. Was in a volunteer
+                    company of militia before the war and was ordered out with them., in the early
+                    part of '61. Served about 18 months. Belonged to Greenville Co., 5th Va. Inft. I
+                    was at the hospital at Staunton during that time. (P. 16). And frequently at
+                    home on furlough.</p>
+                <p>RE-DIRECT.</p>
+                <p>Heard claimant express herself during the war. Think before Crook and Averil
+                    camped near Mrs. Baker. Heard her so express herself before and after June '64.
+                    (P.17).</p>
+                <p>J. B. CARWELL testifies: farmer; age 53; residence Augusta Co., Va. Not related
+                    or interested. Known claimant from my childhood. Lived about 3 miles from her
+                    during the war, I suppose. Have heard her express herself as favorable to the
+                    Federal side. Think she was recognized by those who knew her as a Union woman.
+                    Think that was her general reputation. (P.18).</p>
+                <p>CROSS-EXAMINED. (P.21).</p>
+                <p>Don't recall any particular thing she said. She advised her boys to leave, and
+                    they did, and I had letters from them when they were on the other side. Don't
+                    recollect any one being present in any of our <del rend="none" hand="h1"></del> her expressions. (P.22).</p>
+                <p>JOHN A FRENZER testifies: farmer; age 52; residence Augusta Co., Va. Interested;
+                    son. Claimant's first husband, John Frenzer died Nov. 19, '61. (P. 24).</p>
+                <p>SUMMARY</p>
+                <p>The Commissioners of Claims did not seem to doubt the loyalty of Mrs. Baker. The
+                    testimony justifies the conclusion that she was at all times loyal to the United
+                    States. She was threatened on account of her Union sentiments. Her son was
+                    arrested and taken to the army. She did all she could to get him released. Never
+                    aided the Confederacy. For the Union all through.</p>
+                <p>Her witnesses testify to loyal expressions and loyal reputation throughout the
+                    war.</p>
+                <p>Mr. Engleman says she advised him to go North.</p>
+                <p>There can be no question as to her loyalty.</p>
+                <p>Respectfully Submitted, <name type="other">Gilbert Moyers</name> ATTY FOR
+                    C'L'M'T.</p>
+            </div1>
+            <div1 type="testimony" id="d11">
+                <byline>Defendant's Brief on Loyalty</byline>
+                <p>IN THE COURT OF CLAIMS OF THE UNITED STATES</p>
+                <p>MARY BAKER vs. THE UNITED STATES. #8560, Cong.</p>
+                <p>DEFENDANTS' BRIEF ON LOYALTY.</p>
+                <p>The claimant in this case lived in Augusta County, Virginia. She seeks to recover
+                    for cattle, hay, wheat and wood to the value of $646.25 alleged to have been
+                    taken from her by Federal troops in June, 1864. The claim was presented to the
+                    Commissioners of Claims. They did not pass upon the question of her loyalty
+                    because the proof of the taking was deemed by them insufficient. The counsel for
+                    the claimant has carefully abstracted the testimony submitted. The witnesses
+                    testify mostly of conversation, which they claim to have had with Mrs. Baker.
+                    There are vouchers which indicate that one Mary Baker received pay from the
+                    Confederates for certain supplies; but the vouchers are dated one at Abingdon
+                    and one at Crockett, Virginia, which are a long distance from claimant's place
+                    of abode.</p>
+                <p>There is, however, some resemblance in the signatures of the vouchers to that of
+                    the claimant in this case.</p>
+                <p>Respectfully submitted, <name type="other">Geo. H. Walker</name>, Assistant
+                    Attorney.</p>
+            </div1>
+            <div1 type="testimony" id="d12">
+                <byline>Claimant's Brief on Merits</byline>
+                <p>IN THE COURT OF CLAIMS. December Term 1899-1900.</p>
+                <p>MARY BAKER, VS. THE UNITED STATES. No. 8560 Congressional.</p>
+                <p>STATEMENT.</p>
+                <p>The claimant in this case resided during the war of the rebellion in Augusta
+                    County, Virginia, where her claim originated. The Commissioners of Claims
+                    disallowed it because they were not convinced of the taking of the property. It
+                    was referred to the Court by the Committee on War Claims Feb. 16, 1892. The
+                    claimant was held loyal March 5, 1899.</p>
+                <p>BRIEF ON MERITS.</p>
+                <p>In her petition the claimant alleges that the following property was taken from
+                    her by Gen. Crook's command about June 11, 1864, near Greenville, Va.: 4 head
+                    Cattle at $40, $160.00; 16 tons Hay at $15, 240.00; 125 bus. Wheat at $1.25,
+                    156.25; 30 cords Wood at $3 per cord, 90.00; Total $646.25.</p>
+                <p>The following testimony was taken while the claim was pending before the
+                    Commissioners of Claims, in September, 1871:</p>
+                <p>JOSEPH WALKER testifies: Age 55; residence Augusta County, Va.; blacksmith. Was
+                    not present when the property was taken but saw it in the possession of the
+                    army. Was taken in June 1864 from the farm of the claimant, Mrs. Baker, by Gen.
+                    Crook's army. I did not know the names of any of the officers who mere present
+                    or their rank. There was no receipt given or <orig reg="asked">aksed</orig> for
+                    that I know of. The property was taken in the afternoon and publicly. The cattle
+                    were fat and worth, I suppose, not less than $35 a head. I do not know the
+                    quantity of hay taken but it was a great deal. It was good hay and worth, I
+                    think, about $15 a ton (p.5). The wheat was standing on the ground and very
+                    fine. The army camped in the field and destroyed <hi rend="super">it</hi>
+                    entirely, I think the wheat was worth $1.50 a bushel. I suppose there was at
+                    least 30 cords of wood used by the army. Wood at that time was selling at $4 a
+                    cord. The wood was not measured but supposed to be the quantity charged. The
+                    property was taken for the use of the army. The cattle were killed on the
+                    ground, the hay fed, the wood burned and the wheat eaten and tramped by the
+                    horses and soldiers of the army. I suppose it was needed as it was certainly
+                    used. I do not know what their necessities were but they certainly took it. I
+                    think that as the claimant is a widow and all the time for the Union she ought
+                    to be paid for her property (p.6). I think the officers and soldiers taking the
+                    property were acting under orders as Gen. Crook had his head-quarters in the
+                    field. I know that butter and other articles were taken from the house (p. 7).</p>
+                <p>The following testimony was taken at Middlebrook, Va. in February 1898:</p>
+                <p>J. W. ENGLEMAN testifies: Farmer; age 54; residence Augusta County, Va.; no
+                    interest or relationship. I think claimant's first husband, John Frenger, died
+                    about the second year of the war (p.6).</p>
+                <p>MICHAEL CARWELL testifies: Farmer; age 88; residence Augusta County, Va.; no
+                    interest or relation (p .10). Have known claimant not less than 65 years. John
+                    Frenger, claimant's first husband, as near as I can remember, died the
+                        <del hand="h1">first</del><hi rend="super">second</hi> year of the war (p.11).</p>
+                <p>JOHN A. FRENGER testifies: Age 52; farmer; residence Augusta County, Va.; no
+                    interest; son of claimant. John Frenger, the first husband of claimant died Nov.
+                    19, 1861 (p.24).</p>
+                <p>The following testimony was taken commencing August 28, 1900:</p>
+                <p>MRS. MARY BAKER testifies: Widow of John Frenger: Age 81; Residence Staunton,
+                    Va.; claimant. Resided during the war about 1 1/2 miles north of Greenville,
+                    Augusta County, Va. on my farm. I had property taken by the U. S. Army in
+                    harvest time, in June or July, the third year of the war, I think (p. l); the
+                    wheat was beginning to turn. This property consisted of 4 improved head of
+                    cattle; 20 acres of fine wheat; ten-acre field of fine clover; a large meadow
+                    ready to mow; twenty-acre field of corn plowed once; about 60,000 rails, I
+                    think, all that was on the place; my entire garden; all my chickens; all cooking
+                    utensils in my house destroyed; everything in spring house; 25 bushels shelled
+                    corn. Do not remember anything else. I lost all the dry hay that was in my barn.
+                    This property was taken by Generals Crook, Averill and Hunter, I suppose, for
+                    the benefit of the army This property was on my farm when it was taken. I was
+                    given no receipts, but Gen. Crook told me to put my claim in. There were three
+                    fine heifers and one bull, improved stock and fat (p.2). I can not tell what
+                    they were worth; did not know the prices. Three were butchered on the farm and
+                    the other was driven off. Can not state how much dry hay was taken; all was
+                    carried out of the barn. One very large mow was full. Some of the old pens are
+                        sta<hi rend="super">n</hi>ding now. I can not state what hay was worth
+                    per ton. Do not know the value of wheat, but it was very high (p.3). Could not
+                    state exactly how many bushels of wheat the 20 acres would have amounted to, but
+                    not less than 400 or 500 bushels. Can not state how many cords of wood the rails
+                    which I have stated were taken would have made. Do not know what it was worth
+                    per cord.</p>
+                <p>Cross-examination</p>
+                <p>I did not see or hear any officer but Gen. Crook give direction for the taking of
+                    my property (p.4). I went to Con. Crook and told him his men were destroying
+                    everything I had. He told me to take an account of everything, which I did. The
+                    next morning as he was about to leave he rode up to my house, and told me to put
+                    my claim in and I would be paid for it after the war. I do not know under whose
+                    direction the soldiers were; I only talked to Gen. Crook and Dr. Wormick (p. 5).</p>
+                <p>JOHN A. FRENGER testifies: Farmer; age 53; residence near Greenville, Augusta
+                    County, Va.; no interest; son of claimant. I have been present at the taking of
+                    my mother's deposition and heard the same. I am acquainted with the farm upon
+                    which she lived during the third year of the war and was acquainted with it at
+                    that time. Remember the barn that was there; a portion of it is there now. This
+                    barn was capable of holding 14 to 16 tons of Day according to the way it was
+                    packed (p.6).</p>
+                <p>Cross-examination.</p>
+                <p>I do not know of my owm knowledge of the loss of my mother's property. I was at
+                    Cumberland, Md. at that time (p. 7).</p>
+                <p>MARY E. ENGLEMAN testifies: Age 59; residence near Greenville, Va.; no interest
+                    or relation. I have known the claimant in this case ever since I can remember.
+                    She resided during the war on the Frenger home place. I resided where I now
+                    live, about a mile from claimant. I knew that Gen. Crook's army was on part of
+                    claimant's farm; I was <hi rend="super">on</hi> part of the camp ground. I
+                    am not sure whether I was on Mrs. Baker's farm about that time. The camp ground
+                    was about 200 or 300 yards from Mrs. Baker's house. I could have seen her house
+                    if the ground had been level, but under the circumstances I could not (p.8). I
+                    saw evidences of the slaughter of cattle on the camp ground. I saw piles of raw
+                    beef thown out as if from some kind of vessel (Objected to by the attorney for
+                    the government). I do not know whose cattle the soldiers had slaughtered there.
+                    I did not notice the fencing on Mrs. Baker's farm.</p>
+                <p>Cross-examination.</p>
+                <p>I do not know anything of my own knowledge of the losses Mrs. Baker alleges to
+                    have suffered from the Union troops (p 9).</p>
+                <p>SUSAN M. HAYS testifies: Age 73; residence near Greenville, <orig reg="Va"
+                    >Ca</orig>.; no interest or relation. Have known the claimant since a short time
+                    before the war. During June of the third year of the war she lived on the
+                    Frenger farm, about a mile from where I lived. I know Gen. Crook's army was in
+                    the neighborhood of her farm but do not know whether it was on her farm or not.
+                    I was not on her farm; was on the camp ground. I saw where cattle had been
+                    butchered on the camp ground but do not know whose they were.</p>
+                <p>Cross-examination.</p>
+                <p>I have no personal knowledge of the losses said to have been sustained by
+                    claimant at that time (p. 10).</p>
+                <p>S. H. BURNETT testifies: Age 66; residence near Greenville, Va.; no interest or
+                    rela-tion. I lived during the third year of the war, in June, in Rockbridge
+                    County, Va. The value of cattle where I lived at that time was from $35 to $60
+                        <orig reg="according">accordig</orig> to quality (p. 11). I traveled through
+                    Augusta, Albemarle and Nelson counties and bought some cattle in Albemarle
+                    County about that time. I could not see any difference in the prices in the
+                    several counties named. Wheat was worth about that time $1.25 a bushel. Hay sold
+                    for $15 per ton. Wood was worth $5 per cord; I sold a good deal and never got
+                    less than that (p.12). A rail is 11 feet long and on an average 4 inches square.
+                    I do not know how much cord wood they would make per thousand (p. 13).</p>
+                <p>The following testimony was taken at Staunton, Va. commencing Nov. 24, 1900:</p>
+                <p>H. F. WISEMAN testifies: Hospital attendant and nurse. Age 50. Residence
+                    Staunton, Va. No interest or relation. Have known claimant ever since before the
+                    war (p. 1). She resided during the war on her farm, the old Frenger home place,
+                    in Augusta County, Va., about two miles, I think, from Greenville. In June,
+                    1864, I resided on the <orig reg="adjoining">adjoinin</orig> farm; don't suppose
+                    it was over a quarter of a mile from where claimant lived. The U. S. Army was
+                    encamped on her farm in June, 1864. I was there the next morning after they
+                    left. I know she had four head of cattle at that time. Did not see the soldiers
+                    kill them. Never saw them on the place after that time. I saw some pieces of
+                    cattle and blood near her barn when I went there the next morning; the hides and
+                    most of the meat had been taken away. The soldiers destroyed the whole of her
+                    growing crop of wheat; they encamped right in the field and it was tramped down
+                    as flat as it could be. On the side of the farm opposite to the side which
+                    adjoined the farm on which I lived all the fences were destroyed, both the
+                    inside and outside fences. The main part of the army camped on that side of her
+                    farm and burned the rails for camp fires. (p. 2):</p>
+                <p>Cross-examination</p>
+                <p>It was Crook's army that was here at that time and Generals Hunter and Averill
+                    also, I think. They came about three o'clock in the afternoon and stayed, I
+                    think, until about ten o'clock the next morning. Most of them were infantry;
+                    there may have been some cavalry, but I think most of them were infantry. Could
+                    not say exactly how many rails were taken. At a rough estimate I would suppose
+                    there was something like 35,000 or 40,000 rails. Think there were about 200
+                    acres of land in the farm and it was fenced into fields that were small. They
+                    were used for regular camp fires by the soldiers for cooking. A good many of the
+                    pieces were still burning when I was there. The fences were worm stake and rider
+                    rail fences. Mrs. Mary Baker owned this farm at that time.</p>
+                <p>Redirect-examination.</p>
+                <p>Claimant had about ten acres of growing corn that was destroyed, and I suppose
+                    about 16 acres of grass that had not been reaped (p. 3).</p>
+            </div1>
+            <div1 type="testimony" id="d13">
+                <byline>Defendant's Brief on Merits</byline>
+                <p>IN THE COURT OF CLAIMS.</p>
+                <p>Mary Baker v. The United States. No. 8560 Cong.</p>
+                <p>DEFENDANT'S BRIEF ON MERITS.</p>
+                <p>This is a claim for $646.25, the value of stores and supplies in the shape of
+                    cattle, hay, wheat and wood alleged to have been taken from the home of the
+                    claimant in Augusta County, Virginia, during the year 1864, by soldiers of Gen.
+                    Crook's army. Counsel for the claimant has made a fair abstract of the
+                    testimony. There is no evidence from any of the witnesses that they saw the
+                    property taken. Amounts are approximated. So far as the wheat is concerned the
+                    testimony is positive that the soldiers came in the field and camped, and
+                    trampled down the said wheat which was growing in the field. According to
+                    claimant's own witnesses, the Union troops never derived the slightest benefit
+                    from the wheat.</p>
+                <p>It will be noted that the prices for cattle, $40 each, is very high. Claimant has
+                    charged for hay to the amount of almost the utmost capacity of her barn.</p>
+                <p>The testimony as to quantities is very indefinite. The only definite statement as
+                    to number, <hi rend="super">or</hi> amounts is relative to the cattle,
+                    witnesses testifying that claimant had four cattle. In regard to all the other
+                    items the witnesses approximate in every case. While objecting to the request of
+                    counsel for the claimant, because of the indefinite character of the testimony,
+                    it is almost impossible to suggest what amounts, if any, should be found
+                    respecting the various items embraced in claimant's second request.</p>
+                <p>There is no objection to claimant's first and third requests.</p>
+                <p>Respectfull submitted, <name type="other">Geo. H. Walker</name>, Assistant
+                    Attorney.</p>
+            </div1>
+            <div1 type="testimony" id="d14">
+                <byline>Reply to Defendant's Brief on Merits</byline>
+                <p>IN THE COURT OF CLAIMS. December Term 1900-1901.</p>
+                <p>MARY BAKER VS. THE UNITED STATES. No. 8560 Congressional.</p>
+                <p>REPLY TO DEFENDANTS' BRIEF ON MERITS.</p>
+                <p>While it is true, as defendants' counsel states, that the witnesses did not see
+                    the property taken, their testimony is quite as conclusive as if they saw it
+                    taken. For instance, Joseph Walker testifies that while he was not present when
+                    the property was taken, he saw the property, in possession of the army when it
+                    was taken, in June 1864, and gives the command.</p>
+                <p>Counsel is not quite correct when he states that none of the witnesses saw the
+                    property taken. Mrs. Mary Baker, the claimant, certainly was present, as
+                    indicated on her examination when she says that she went to Gen. Crook, who
+                    commanded the forces that took her property, and told him his men were
+                    destroying everything she had, and he told her to take an account of everything,
+                    which she did. This shows that she was there when the property was taken and
+                    made complaint to the officer and also that she made out an account at the time,
+                    from which account she doubtless made her claim.</p>
+                <p>The other witnesses testify very clearly that they were there soon after the army
+                    left and saw that the property had been taken. Some of them testify that they
+                    know she had this property before the army came and that it was gone after they
+                    left. Now, as there was no one else to take it, the presumption is irresistible
+                    that the Federal forces did get the property that is charged for.</p>
+                <p>Notwithstanding the contention of defendants' counsel to the contrary, I think
+                    the quantity, of hay is very definitely proven as charged. The claimant states
+                    the the mow in her barn was full of hay at the time the Federals came and that
+                    they took it all; that besides this they took the hay from a ten-acre field of
+                    fine clover.</p>
+                <p>It will be observed that this was taken in June 1864, about the time that hay was
+                    matured in the field and ready for harvesting. In fact the claimant testifies
+                    that it was ready to mow.</p>
+                <p>Mr. Frenger, who was familiar with claimant's property and knew about her barn,
+                    states that the barn was capable of holding from 14 to 16 tons of hay.</p>
+                <p>So, taking the standing hay, which was ready to mow, and the amount that was in
+                    the barn, it is proven conclusively that they took much more hay than is charged
+                    for.</p>
+                <p>Now as to the wheat:</p>
+                <p>This wheat was taken at a time when it was ready for harvesting, in June 1864.
+                    There were 20 acres of it and it would yield from 400 to 500 bushels to the
+                    acre. While the proof shows that the stock trampled down this wheat to a large
+                    extent, it is not unreasonable to believe that out of 400 or 500 bushels that
+                    they used 125 bushels, that is, got the benefit of that number of bushels by
+                    feeding their stock.</p>
+                <p>So the quantity of wheat, notwithstanding defendants' counsel to the contrary, is
+                    a reasonable charge and is fully supported by the proof.</p>
+                <p>Again, as to the wood, Mr. Walker testifies that the claimant had at least 30
+                    cords of wood used by the army, which was selling at that time at $4 a cord. The
+                    proof shows that they took about 60,000 rails. That would make at least 30 cords
+                    of wood.</p>
+                <p>Mr. Wiseman testifies that the claimant had in her farm about 200 acres and it
+                    was fenced in small fields; that they burned the fence on one side of the farm.
+                    He, being a farmer, could properly make an estimate and he says there were
+                    something like 35,000 or 40,000 rails taken.</p>
+                <p>So there can be no doubt as to the quantity of wood. There should have been more
+                    charged for. $3 a cord is reasonable. The finding should therefore be as
+                    requested, that is, 30 cords of wood at $3 per cord.</p>
+                <p>It is very evident therefore that this claim is just for the property charged for
+                    and that the prices requested to be found are very reasonable. The finding of
+                    the Court should be as requested in the original petition.</p>
+                <p>Respectfully submitted, <name type="other">Gilbert Moyers</name> Attorney for
+                    Claimant.</p>
+            </div1>
+            <div1 type="testimony" id="d15">
+                <byline>Findings</byline>
+                <p>COURT OF CLAIMS. (Congressional Case No. 8560)</p>
+                <p>Mary Baker vs. The United States</p>
+                <p>STATEMENT OF CASE</p>
+                <p>The claim in the above-titled case for supplies, or stores, alleged to have been
+                    taken by or furnished to the military forces of the United States, for their use
+                    during the late war for the suppression of the rebellion, was transmitted to the
+                    Court by the Committee on War Claims of the House of Representatives on the 16th
+                    day of February 1892.</p>
+                <p>On a preliminary inquiry the Court, on the 5th day of March 1899, found that the
+                    person alleged to have furnished the supplies or stores, or from whom they were
+                    alleged to have been taken, was loyal to the Government of the United States
+                    throughout said war.</p>
+                <p>The case was brought to a hearing on its merits on the fourth day of December
+                        <del hand="h1">189</del> 1901, Gilbert Moyers, Esq., appeared for claimant, and the
+                    Attorney General, by George H. Walker, Esq., his assistant, and under his
+                    direction, appeared for the defense and protection of the interests of the
+                    United States.</p>
+                <p>The claimant in her petition makes the following allegations:</p>
+                <p>That she is a citizen of the United states, residing in Augusta County, State of
+                    Virginia, where she resided during the late war of the rebellion; that at
+                    different times during said period the United States forces, by proper
+                    authority, took from her quartermaster stores and commmissary supplies of the
+                    value of $646.25, and appropriated the same to the use of the United States
+                    Army, as follows, namely:</p>
+                <p>Taken by Gen. Crooks' command about June 11, 1864, near Greenville, Va., 4 head
+                    Cattle at $40, $160.00; 16 tons Hay at $15, 240.00; 125 bushels Wheat at $1.25,
+                    156.25; 30 cords Wood at $3 per cord, 90.00: $646.25</p>
+                <p>The court, upon the evidence, and after considering the briefs and argument of
+                    counsel on both sides, makes the following</p>
+                <p>FINDING OF FACT</p>
+                <p>There were taken from the claimant in Augusta County, State of Virginia, during
+                    the war of the rebellion, by the military forces of the United States, for the
+                    use of the army, stores and supplies of those above described, which at the time
+                    and place of taking were reasonably worth the sum of Four hundred and twenty-six
+                    dollars ($426).</p>
+                <p>It does not appear that payment has been made for any part thereof.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

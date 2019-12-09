@@ -1,0 +1,395 @@
+<?xml version="1.0"?>
+
+<?dlps id="SCC0535"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 id="SCC0535">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Southern Claims Commission: Claim of Samuel H.
+                    Swisher, 1875, Claim No. 9002</title>
+        <title type="sort">southern claims commission claim of samuel h swisher, 1875 claim no 9002</title>
+        <author>Swisher, Samuel H.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca.<num type="kilobytes"> 17 </num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">SCC0535</idno>
+        <!--
+                <availability>
+                    <p>Publicly accessible</p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2006, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2006">2006</date>
+            <idno type="uva-pid">uva-lib:498422</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title type="main">Southern Claims Commission: Claim of Samuel H. Swisher,
+                            1875, Claim No. 9002</title>
+            <title level="m"/>
+            <title type="sort">southern claims commission claim of samuel h swisher, 1875 claim no 9002</title>
+            <author>Samuel H. Swisher</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives, College Park,
+                            RG 217, claim #9002</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1875">1875</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+        <hand id="h1"/>
+      </handList>
+            <textClass>
+                <keywords>
+                    <term>Family, Patriotism</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="SCC0535T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                
+                <p>Samuel H. Swisher filed this claim in 1875 for $165, claiming Union forces under
+                    General Sheridan took one horse, one Spanish saddle, and two bridles in 1864.
+                    Samuel was a 36 year old farmer who was granted exemption from Confederate
+                    service and tried to help his brother escape to the Union to avoid service. The
+                    commission allowed $165.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="claim_items" id="d5">
+                
+                <p>
+                    <table>
+                        <row>
+                            <cell>
+                                <hi rend="bold">Item Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Allowed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Disallowed:</hi>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>One horse</cell>
+                            <cell>$150.00</cell>
+                            <cell>$150.00</cell>
+                            <cell>$0.00</cell>
+                        </row>
+                        <row>
+                            <cell>One Spanish saddle</cell>
+                            <cell>$12.00</cell>
+                            <cell>$12.00</cell>
+                            <cell>$0.00</cell>
+                        </row>
+                        <row>
+                            <cell>One bridle</cell>
+                            <cell>$2.00</cell>
+                            <cell>$2.00</cell>
+                            <cell>$0.00</cell>
+                        </row>
+                        <row>
+                            <cell>One bridle</cell>
+                            <cell>$1.00</cell>
+                            <cell>$1.00</cell>
+                            <cell>$0.00</cell>
+                        </row>
+                    </table>
+                </p>
+            </div1>
+            <div1 type="claim_summary" id="d6">
+                
+                <p>The claimant was a resident of Augusta <abbr expan="County">Co.</abbr><abbr
+                        expan="Virginia">Va</abbr>. At the Commencement of the war he was drafted
+                    &amp; sworn into the militia, but was exempted from service on a medical
+                    examination. Says he took the oath fearing if he did not he would be sent to
+                    jail. He gave no aid to the Confederacy &amp; swears that he was from the
+                    beginning to the end of the war in sympathy with the Union Cause. He
+                    unquestionably bore the reputation of a Union man. When the case was first
+                    submitted no such facts were shown as would settle the question of loyalty
+                    &amp; we caused an investigation to be made by an agent, whose report with
+                    the accompanying testimony is decidedly in favor of claimants loyalty.</p>
+                <p>The property was taken by Sheridans troops about the 1st of Oct. 1864 &amp;
+                    for army use. No voucher was given or payment made</p>
+                <p>We recommend the payment of $165.</p>
+                <p><name type="other">AO Aldis</name>, <name type="other">Orange Ferris</name>,
+                        <name type="other">JB Howell</name><abbr expan="Commissioners">Commrs</abbr>
+                    of Claims</p>
+            </div1>
+            <div1 type="testimony" id="d7">
+                
+                <byline>Samuel H. Swisher</byline>
+                <p>I am 36 years old. I reside in Augusta <abbr expan="County">Co.</abbr><abbr
+                        expan="Virginia">V<hi rend="super">a</hi></abbr>. I am a farmer. Lived
+                    where I now do for 25 years.</p>
+                <p>Ques 3. Witness Says, I never passed the military or Naval lines of the <abbr
+                        expan="United States">U.S.</abbr> &amp; entered the rebel lines.</p>
+                <p>4. Witness Says, I was drafted in the militia, &amp; had to take the oath of
+                    allegiance to the <abbr expan="Confederate">Confed.</abbr> States I thought if I
+                    did not take it I would have to go to prison. I was exempted, &amp; did not
+                    serve in the militia.</p>
+                <p>5. Witness Says, I took the amnesty oath in 1865 at Staunton <abbr
+                        expan="Virginia">V<hi rend="super">a</hi></abbr></p>
+                <p>6. Witness Says, I never was directly nor indirectly connected with the civil
+                    service of the <abbr expan="Confederate">Confed.</abbr> States.</p>
+                <p>7. Witness Says, I never held any clerkship agency or employment of any kind,
+                    never held any officer of honor profit or trust, nor was in any service or
+                    employment of any kind, for the <abbr expan="Confederate">Confed.</abbr><abbr
+                        expan="Government">Govt</abbr>.</p>
+                <p>9. Witness Says, I never was in any capacity in the military or Naval service of
+                    the <abbr expan="Confederate">Confed</abbr>. States.</p>
+                <p>10. Witness says, Never was an officer soldier sailor or marine in the Army or
+                    Navy. Never furnished a substitute. Nor had any connection with any <abbr
+                        expan="Department">Dept.</abbr> of the <abbr expan="Confederate"
+                        >Confed</abbr><abbr expan="Government">Govt</abbr>. Never furnished any
+                    stores or supplies. Nor had charge of any trains teams or wagons. Nor gave any
+                    information to any officer or any one in the late employment of the <abbr
+                        expan="Confederate">Confed</abbr><abbr expan="Government">Govt</abbr>.</p>
+                <p>13. Witness Says, Never was engaged in the collection or impressment of supplies
+                    of any kind for the <abbr expan="Confederate">Confed</abbr><abbr
+                        expan="Government">Govt</abbr>.</p>
+                <p>14. Witness Says, Never engaged in blockade running, or illicit traffic between
+                    the lines. Nor was the owner nor part owner of any vessel engaged in navigating
+                    to or from any port of the <abbr expan="Confederate">Confed</abbr> States</p>
+                <p>15. Witness say, I did not leave the <abbr expan="Confederate">Confed</abbr>
+                    States at any time during the war.</p>
+                <p>17. Witness says, Was never arrested by either the <abbr expan="United States"
+                        >U.S.</abbr> or <abbr expan="Confederate">Confed.</abbr><abbr
+                        expan="Governments">Govts</abbr>.</p>
+                <p>18. Witness Says, I had some wheat taken by the <abbr expan="Confederate"
+                        >Confed.</abbr><abbr expan="Government">Govt.</abbr><abbr expan="received"
+                        >recd.</abbr> pay for it.</p>
+                <p>19. Witness says, Don't know that I ever was threatened on account of my union
+                    sentiments</p>
+                <p>22. Witness says, I did nothing for the <abbr expan="United States"
+                        >U.S.</abbr><abbr expan="Government">Govt.</abbr> had no chance.</p>
+                <p>23. Witness says, I had <del hand="h1">a brother</del> no near relatives in the <abbr
+                        expan="Confederate">Confed.</abbr> Army, nor <abbr expan="United States"
+                        >U.S.</abbr> army.</p>
+                <p>24. Witness says, I never owned any <abbr expan="Confederate">Confed.</abbr>
+                    bonds, never did anything to support the credit of the <abbr expan="Confederate"
+                        >Confed.</abbr> States</p>
+                <p>25. Witness says, I never gave aid nor comfort to the rebellion</p>
+                <p>26. Witness says, I never engaged in raiding into the <abbr expan="United States"
+                        >U.S.</abbr> nor in destroying its commerce.</p>
+                <p>29. Witness Says, I never was a paroled prisoner of the <abbr
+                        expan="United States">U.S.</abbr></p>
+                <p>30. Witness Says, I never held any office in the Army or Navy of the <abbr
+                        expan="United States">U.S.</abbr> was not educated at West Point or the
+                    Naval Academy.</p>
+                <p>31. Witness Says, I never <abbr expan="received">recd.</abbr> any pass from any
+                    officer of the <abbr expan="Confederate">Confed</abbr><abbr expan="Government"
+                        >Govt</abbr>.</p>
+                <p>32. Witness says, I am not &amp; never have been under any disabilities
+                    imposed by the 14th amendment of the Constitution, have not held any office
+                    since the war</p>
+                <p>33 Witness says, At the beginning of the war I sympathized with the Union. Did
+                    not vote either for or against the ordinance of secession. After its adoption I
+                    adhered to the Union &amp; did not go with my State</p>
+                <p>34. Witness says, My sympathies were constantly with the cause of the union. I
+                    never did anything against its cause, &amp; was ready &amp; willing to
+                    aid it to the extent of my means &amp; ability &amp; further this
+                    deponent sayeth not. Oct. 28th 1871</p>
+                <p>
+                    <name type="claimant">Samuel H Swisher</name>
+                </p>
+                <p>Sworn to &amp; sworn before me this 28th day of Oct. 1871</p>
+                <p><name type="other">WG Riley</name> United States Commissioner and Special <abbr
+                        expan="Commissioner">Comr</abbr> for State of <abbr expan="Virginia">V<hi
+                            rend="super">a</hi></abbr></p>
+            </div1>
+            <div1 type="testimony" id="d8">
+                
+                <byline>Philip D. Swisher</byline>
+                <p>Deposition of Phillip D. Swisher to prove property.</p>
+                <p>Ques 1. Witness says, I am 32 years old. I live in Augusta <abbr expan="County"
+                        >Co.</abbr><abbr expan="Virginia">V<hi rend="super">a</hi></abbr>. I
+                    am a farmer. I was present &amp; saw the property mentioned in the claimants
+                    petition taken. I saw one horse one saddle, one riding bridle &amp; one
+                    blind bridle taken.</p>
+                <p>4. Witness Says, The property was taken in 1864 from the farm of the claimant, by
+                    Soldiers of the <abbr expan="United States">U.S.</abbr> army under <abbr
+                        expan="General">Genl.</abbr> Sheridan</p>
+                <p>6. Witness Says, There were no officers present when the property was taken, so
+                    far as I know. Know neither the name rank or <abbr expan="command">comd.</abbr>
+                    of any of them, but <abbr expan="General">Genl.</abbr> Talbot was in <abbr
+                        expan="command">comd</abbr>.</p>
+                <p>10. Witness says, The property was taken for the use of the <abbr
+                        expan="United States">U.S.</abbr><abbr expan="Government">Govt</abbr>.</p>
+                <p>11. Witness Says, No complaint was made on account of the taking.</p>
+                <p>12. Witness says, There was no receipt asked for &amp; none given</p>
+                <p>13. Witness Says, The property was taken in the day time it was not taken
+                    secretly</p>
+                <p>14. Witness Says, When the property was taken the army was on the march.</p>
+                <p>15. Witness Says, Item #1. Saw one fine horse taken, he was 10 years old, was
+                    worth $150.00. Item #2. Saw one Spanish riding saddle taken, was worth $15.00
+                    Item #3. Saw one riding bridle taken worth $2.00 Item #4. Saw one blind bridle
+                    taken, was worth $1.00. Saw all the above property taken for the benefit of the
+                    army.</p>
+                <p>19. Witness says, I think the property was taken for the use of the <abbr
+                        expan="United States">U.S.</abbr> army &amp; not for private use, the
+                    horse was put into immediate service.</p>
+                <p>22. Witness say, I think the property was taken for the necessary use of the
+                    army, &amp; the <abbr expan="Government">Govt.</abbr> should pay for it.</p>
+                <p>23. Witness says, I suppose those who took the property had authority to take it
+                    &amp; further this deponent sayeth not.</p>
+                <p>Oct 28th 1871</p>
+                <p>
+                    <name type="witness">Philip D. Swisher</name>
+                </p>
+                <p>Sworn to &amp; subscribed before me this 28th day of Oct. 1871</p>
+                <p><name type="other">WG Riley</name> United States Commissioner and Special <abbr
+                        expan="Commissioner">Comr</abbr> for State of <abbr expan="Virginia">V<hi
+                            rend="super">a</hi></abbr></p>
+            </div1>
+            <div1 type="testimony" id="d9">
+                
+                <byline>Adam Lambert</byline>
+                <p>Deposition of Adam Lambert, to prove loyalty.</p>
+                <p>Ques 1. Witness Says, I am 46 years old. I reside in Augusta <abbr expan="County"
+                        >Co.</abbr><abbr expan="Virginia">V<hi rend="super">a</hi></abbr>. I
+                    am a blacksmith. Have known the claimant 25 years. Part of the war I lived near
+                    him. Saw him often &amp; talked with him about the war. I regard him as a
+                    loyal man to the <abbr expan="United States">U.S.</abbr><abbr expan="Government"
+                        >Govt.</abbr> &amp; he was so regarded by his neighbors, he was called
+                        <orig reg="abolitionist">abolishionist</orig> by the rebels. He did nothing
+                    for the <abbr expan="United States">U.S.</abbr><abbr expan="Government"
+                    >Govt</abbr> so far as I know, don't know that he assisted any one to go with
+                    the Union lines. I know he spoke favorably of it. Never knew him to do anything
+                    for the rebel <abbr expan="Government">Govt</abbr>. Did not know him threatened
+                    or injured on account of his Union sentiments. I do not think he could have
+                    lived here contented, had the South succeeded, he was too loyal to the <abbr
+                        expan="United States">U.S.</abbr> I think he would have left the State of
+                        <abbr expan="Virginia">V<hi rend="super">a</hi></abbr> &amp;
+                    further this deponent sayeth not. Oct. 28th 1871</p>
+                <p>
+                    <name type="witness">Adam Lambert</name>
+                </p>
+                <p>Sworn to &amp; subscribed before me this 28th day of Oct. 1871</p>
+                <p><name type="other">WG Riley</name> United States Commissioner and Special <abbr
+                        expan="Commissioner">Comr</abbr> for State of <abbr expan="Virginia">V<hi
+                            rend="super">a</hi></abbr></p>
+            </div1>
+            <div1 type="testimony" id="d10">
+                
+                <byline>John M. Rimel</byline>
+                <p>Deposition of Jno. M. Rimel to prove loyalty.</p>
+                <p>Ques 1. Witness says, I am 37 years old. I reside in Augusta <abbr expan="County"
+                        >Co.</abbr><abbr expan="Virginia">V<hi rend="super">a</hi></abbr>. I
+                    am a farmer. Have known the claimant all my life. Live near him. Saw him often
+                    &amp; talked with him about the war. He was so loyal, he thought the Union
+                    army would not take his property. I regard him as loyal to the <abbr
+                        expan="United States">U.S.</abbr><abbr expan="Government">Govt.</abbr> he
+                    was so regarded by his neighbors, &amp; some were very much against him on
+                    account of it. He tried to get his brother through the lines to go North, he
+                    would have gone himself if he had not been exempted. Never knew him to do
+                    anything for the <abbr expan="Confederate">Confed.</abbr><abbr
+                        expan="Government">Govt</abbr>. Never knew him threatened on account of his
+                    Union sentiments. He said he did not expect to be allowed to stay in the South
+                    if the Confederates succeeded, because he was a loyal man to the <abbr
+                        expan="United States">U.S.</abbr> I have heard him speak often, favorably to
+                    the <abbr expan="United States">U.S.</abbr> &amp; further this deponent
+                    sayeth not.</p>
+                <p>Oct 28th 1871</p>
+                <p>
+                    <name type="witness">John M Rimel</name>
+                </p>
+                <p>Sworn to &amp; subscribed before me this 28th day of Oct. 1871</p>
+                <p><name type="other">WG Riley</name> United States Commissioner and special <abbr
+                        expan="Commissioner">Comr</abbr> for State of <abbr expan="Virginia">V<hi
+                            rend="super">a</hi></abbr></p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

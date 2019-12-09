@@ -1,0 +1,601 @@
+<?xml version="1.0"?>
+
+<?dlps id="SCC0511"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 id="SCC0511">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Southern Claims Commission: Claim of John Wine, Jr.,
+                    1879, Claim No. 18728</title>
+        <title type="sort">southern claims commission claim of john wine, jr 1879 claim no 18728</title>
+        <author>Wine, John, Jr.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name>Elizabeth Ladner</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca.<num type="kilobytes"> 30 </num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">SCC0511</idno>
+        <!--
+                <availability>
+                    <p>Publicly accessible</p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2006, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2006">2006</date>
+            <idno type="uva-pid">uva-lib:498398</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title type="main">Southern Claims Commission: Claim of John Wine, Jr., 1879,
+                            Claim No. 18728</title>
+            <title level="m"/>
+            <title type="sort">southern claims commission claim of john wine, jr 1879 claim no 18728</title>
+            <author>John Wine, Jr.</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives, Washington
+                            D.C., RG 123 Congressional Jurisdiction #8611</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1879">1879</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+        <hand id="h1"/>
+      </handList>
+            <textClass>
+                <keywords>
+                    <term>Agriculture, Military Authority, Patriotism</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="SCC0511T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>John Wine, Jr. filed this claim in 1879 for $400, claiming General Torbit's Union
+                    troops took 10 cattle in 1864. John was a 50 year old farmer who resided near
+                    New Hope. After his exemption for furnishing goods to the Confederate Army was
+                    revoked in October of 1864 he crossed through to Union lines and stayed in
+                    Illinois until July of 1865. The claim was disallowed.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="claim_items" id="d5">
+                <p>
+                    <table>
+                        <row>
+                            <cell>
+                                <hi rend="bold">Item Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Allowed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Disallowed:</hi>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>10 Cattle</cell>
+                            <cell>$400.00</cell>
+                            <cell>$0.00</cell>
+                            <cell>$400.00</cell>
+                        </row>
+                    </table>
+                </p>
+            </div1>
+            <div1 type="claim_summary" id="d6">
+                <p>Claimant swears that he did not vote for the adoption of the Ordinance of
+                    Secession, but the Record of the Election shows that he did vote for the
+                    adoption of the Ordinance of Secession. It also appears from his own testimony
+                    that he voluntarily furnished a substitute before the Conscript Law was enacted,
+                    and that after that he got a detail as a Farmer in the service of the
+                    Confederate <abbr expan="Government">Govt.</abbr> We reject the Claim.</p>
+                <p><name type="other">AO Aldis</name>, <name type="other">JB Howell</name>, <name
+                        type="other">O. Ferriss</name><abbr expan="Commissioners">Comm.</abbr> of
+                    Claims</p>
+            </div1>
+            <div1 type="testimony" id="d7">
+                <byline>John Wine, Jr.</byline>
+                <p>Ques. 2. Ans. My residence then was at the same place where I now reside. I never
+                    changed my residence. I was then and still am the owner of the farm upon which I
+                    reside. I had at that time about 150 acres of cleared land and 90 acres in
+                    timber, situated in Augusta County, about three miles <abbr expan="south east"
+                        >S.E.</abbr> of New Hope on South River. I farmed all the time.</p>
+                <p>Ques. 3. Ans. I did at no time pass the <abbr expan="United States">U.S.</abbr>
+                    lines either Military or Naval and enter the rebel lines.</p>
+                <p>Ques. 4. Ans. I never took any oath of allegiance to the so called Confederate
+                    States.</p>
+                <p>Ques. 5. Ans. I took an amnesty oath at New Creek Station in <abbr expan="West"
+                        >W.</abbr><abbr expan="Virginia">Va.</abbr> in 1864 being forced to leave my
+                    house or go into the rebel Army.</p>
+                <p>Ques. 6. Ans. I never was in any way connected with the civil service of the
+                    Confederate States.</p>
+                <p>Ques. 7. Ans. I never held any office, or place of trust or honor in the
+                    Confederate governments <add hand="h1" place="inline">or</add> in any State or territory.</p>
+                <p>Ques. 8. Ans. I held no clerkship, agency or employment of any kind, under or for
+                    the Confederate government or army.</p>
+                <p>Ques. 9. Ans. I never was in any capacity in the Military or Naval service of the
+                    so called Confederate States, State or territory.</p>
+                <p>Ques. 10. Ans. Never was an officer or soldier.</p>
+                <p>Ques. 11. Ans. I never was in the State <orig reg="Militia">Malitia</orig> while
+                    subordinate to the Confederacy.</p>
+                <p>Ques. 12. Ans. I never belonged to any home guard or vigilance committee of any
+                    kind whatever.</p>
+                <p>Ques. 13. Ans. I was not conscripted.</p>
+                <p>Ques. 14. Ans. I furnished no substitute.</p>
+                <p>Ques. 15 &amp; 16. Ans. I was never employed on any Railroad nor aided in the
+                    transportation of soldiers or any thing else for the aid and benefit of the
+                    Confederacy. Nor in the Quarter Masters department, or any department at all of
+                    the government, Military or Naval of the Confederacy.</p>
+                <p>Ques. 17. Ans. I never had charges at any stores or supplies for the use of the
+                    Confederate Army, navy or government. I did not have charge of any trains,
+                    teams, Wagons or any thing at all.</p>
+                <p>Ques. 18. Ans. I never was in any service employment or business of any kind what
+                        <orig reg="so ever">soever</orig> for the Confederate government or in aid
+                    of the rebellion or of any of its agencies. I never <orig reg="gave">give</orig>
+                    any information.</p>
+                <p>Ques. 19. Ans. I never was engaged or employed in the manufacture of any article
+                    of any kind for the use of soldiers, Army, Navy or government of the
+                    Confederacy.</p>
+                <p>Ques. 20. Ans. I never was directly or indirectly employed, in collecting,
+                    immpressing, purchase or sales of stores or supplies for the benefit of the
+                    rebellion. I had no contract or share in any contract for any aid or benefit of
+                    the rebellion.</p>
+                <p>Ques. 21. Ans. I was not engaged in blockade running or illicit <orig
+                        reg="traffic">traffick</orig> or intercourse between the lines or share of
+                    goods wares or of any thing brought into or exported from the Confederate States
+                    during the war.</p>
+                <p>Ques. 22. Ans. I went through the lines the last of <abbr expan="October"
+                    >Oct.</abbr> or first of <abbr expan="November">Nov.<hi rend="super"
+                        >r</hi></abbr> 1864. I went to the State of Illinois. I went because I was
+                    determined never to fight against the Union. I was absent about nine months. I
+                    was a laborer on a farm. I returned in July 1865 to my residence in Augusta
+                    County.</p>
+                <p>Ques. 23. Ans. I never owned in whole or part any boat or vessel.</p>
+                <p>Ques. 24. Ans. I never was arrested by either government.</p>
+                <p>Ques. 25. Ans. The Confederate authorities took three of my horses, after I left
+                    my home and gone through the lines. I never received any pay.</p>
+                <p>Ques. 26. Ans. I was threatened with injury to my property this was in 1864 and
+                    by persons named Kennerly. There was no damage done however.</p>
+                <p>Ques. 27. Ans. I never was molested.</p>
+                <p>Ques. 28. Ans. I never contributed to aid the Union Cause.</p>
+                <p>Ques. 29. Ans. I had no opportunity to do anything.</p>
+                <p>Ques. 30. Ans. I had none nearer than a cousin. I funished him nothing at all.</p>
+                <p>Ques. 31. Ans. I never owned a Confederate bonds or had any interest or share in
+                    any or any loans. I never did anything unless compelled to support the credit of
+                    the Confederate states or the rebellion.</p>
+                <p>Ques. 32. Ans. I never <orig reg="gave">give</orig> aid or comfort to the
+                    rebellion.</p>
+                <p>Ques. 33. Ans. Never made a raid of any kind or any purpose or engaged in the
+                    destruction of any property of the United States.</p>
+                <p>Ques. 34. Ans. I never held in custory any persons of any kind or for any
+                    purpose.</p>
+                <p>Ques. 35. Ans. I belonged to no society or association of any kind or for any
+                    purpose.</p>
+                <p>Ques. 36. Ans. I never was paroled.</p>
+                <p>Ques. 37. Ans. I never held an office nor educated in any Military or Naval
+                    School.</p>
+                <p>Ques. 38. Ans. I never had a pass.</p>
+                <p>Ques. 39. Ans. I was under no disabilities. I have held no office since the war.</p>
+                <p>Ques. 40. Ans. I sympathised with the Union Cause. My feelings were always in
+                    favor of the Union. My language always emphatic against the rebellion. I did not
+                    vote for the ratification of the ordinance of secession. After the ordinance
+                    passed I was still for the Union and since have voted with the Union party.</p>
+                <p>Ques. 41. Ans. In conclusion, I do solemnly declare <add hand="h1" place="inline">that</add> from the
+                    beginning of hostilities against the United States to the end thereof, my
+                    sympathies were constantly with the the cause of the United States, and that I
+                    never of my own free will and accord, did anything, or offered or sought or
+                    attempted to do anything, by word or deed, to injure said cause or retard its
+                    success, and was at all times, ready and willing when called upon, or if called
+                    upon, to aid and assist the cause of the Union, or its supporters, so far as my
+                    means and power and the circumstances of the case permitted.</p>
+                <p>Taking of the property by same I was not present when the cattle were taken and
+                    will have to rely upon the testimony of those who were present and saw them
+                    taken, viz. Jacob Koiner and Sampson Pelter. The Cattle were ten in number on a
+                    grazing farm about 8 miles from my residence. There were seven Steers and three
+                    spayed heifers, nearly four years old, fat and of large size. They were fit for
+                    any market. I think they would have grossed from 1050 <abbr expan="pounds">
+                        <hi rend="super">lbs.</hi>
+                    </abbr> to 1200 <abbr expan="pounds">
+                        <hi rend="super">lbs.</hi>
+                    </abbr> each, and worth in gold forty dollars a head. They were taken in
+                    October, 1864. I made no effort to obtain a receipt. The Army was in command of
+                        <abbr expan="General">Gen<hi rend="super">l.</hi></abbr> Torbit and
+                    camped at Waynesboro but had probably had left there before I heard of my cattle
+                    being taken.</p>
+                <p>
+                    <name type="claimant">John Wine Jr.</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d8">
+                <byline>Jacob Coiner Jr.</byline>
+                <p>Deposition of Jacob Coiner Jr.</p>
+                <p>Ans. to 1<hi rend="super">st</hi><abbr expan="general">gen<hi
+                            rend="super">l.</hi></abbr> question.</p>
+                <p>My name is Jacob Coiner jr. My residence near Waynesboro a farmer by occupation
+                    and my age is 44 years. I am not related to the claimant and have no interest in
+                    his claim.</p>
+                <p>I was present and saw the cattle taken from the grazing farm of M<hi
+                        rend="super">r.</hi> Yount, but at the time did not know whose cattle
+                    they were, but supposed they belonged to M<hi rend="super">r.</hi> Yount.
+                    I was under arrest at the time. They were driven out of the field and taken in
+                    the direction of Waynesboro a distance of about three miles. I do not know that
+                    they were taken to Waynesboro but suppose they were as the Army was then in Camp
+                    at that place. I suppose there were not less than one hundred soldiers engaged
+                    in taking the cattle. I suppose they were taken (at the farm) about one hour.
+                    There was a man from Rockingham, a prisoner, but whose name I do not remember
+                    present at the time. I do not remember of seeing Sampson Pelter.</p>
+                <p>I heard the name of Sargeant Joice called by a superior officer and ordered I
+                    think to take charge of the Cattle. I heard nothing said as to what they wanted
+                    the cattle for. I did not see the cattle after they left the farm. I would
+                    suppose from the condition of the cattle they were killed for beef. There was no
+                    one to make complaint. The claimant lived some four or five miles from the
+                    grazing farm. I know of no receipt at all. I did not hold any conversation with
+                    officers or soldiers nor heard any in relation to taking the cattle.</p>
+                <p>They were taken in the day time. I suppose one or two oclock P.M. There was no
+                    concealment in taking the cattle. The Army commanded by Gen<hi
+                        rend="super">l</hi>. Torbett was then in camp at Waynesboro <del hand="h1">I
+                        think</del> They left that night I dont think they remained in camp over a
+                    day &amp; night. I never heard the name of any Quartermaster. There had been
+                    no battle or skirmish near that I recollect of. The cattle were in good beef
+                    order. I do not know the age of the cattle but suppose 3 1/2 yeas old. From my
+                    recollection of the cattle I would suppose they were worth forty dollars a head.
+                    I suppose they would have grossed ten or eleven hundred pounds each. I have not
+                    conversed with the claimant as to the value of the cattle.</p>
+                <p>
+                    <name type="witness">Jacob Coiner Jr.</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d9">
+                <byline>Sampson Pelter</byline>
+                <p>Deposition of Sampson Pelter</p>
+                <p>Ans. First general question.</p>
+                <p>My name is Sampson Pelter, my age is 38 years. I reside near Waynesboro, <abbr
+                        expan="Virginia">Va.</abbr> my occupation a farmer. I am not related to the
+                    claimant and have no interest in the claim.</p>
+                <p>Ques. 1. Ans. I was present and saw the property charged by the claimant taken.
+                    There were ten head of cattle. I think the most, if not all were steers. They
+                    were taken from the grazing farm of <abbr expan="John">Jno.</abbr> Yount where
+                    the claimant had them grazing. The ten head were driven off at the same time.</p>
+                <p>Ques. 4. Ans. I do not know where the cattle were taken, nor do I recollect the
+                    time they were taken by the Army in command of <abbr expan="General">Gen<hi
+                            rend="super">l.</hi></abbr> Torbit. It was in the fall of 1864, I
+                    think, probably the month of October. I suppose there were 150 or 200 soldiers
+                    engaged in driving the cattle off. They were at it, not longer than was
+                    necessary to get the cattle together and start them.</p>
+                <p>Ques. 5. Ans. I was alone at the time, but there were others, not far distant.
+                        M<hi rend="super">r.</hi> Jacob Koiner, and two others who are now
+                    dead.</p>
+                <p>Ques. 6. Ans. There were officers present, Captains and Lieutenants, I heard no
+                    names of Officers or regiments. I heard no orders given. When the Cattle were
+                    driven up to where the Officers were standing they then moved off taking the
+                    Cattle with them. But little was said. The cattle were driven off by the whole
+                    company of Soldiers present.</p>
+                <p>Ques. 9. Ans. The Cattle were started in the direction of Staunton, I did not
+                    follow and do not know where they were taken.</p>
+                <p>Ques. 10. Ans. I do not know what use they made of the Cattle, as I never saw
+                    them after their removal from the grazing farm.</p>
+                <p>Ques. 11. Ans. There was no complaint made by any one. No voucher or receipt
+                    asked for or given.</p>
+                <p>Ques. 12. Ans. There was no conversation that I heard. I had none and was alone.</p>
+                <p>Ques. 13. Ans. The Cattle were taken in the daytime, I suppose between 10 A.M.
+                    &amp; 2 P.M. There was no secrecy shown at all but taken as though they had
+                    right to do so. The Army was encamped at Waynesboro about three (3) miles
+                    distant from the grazing farm. The Army was in Command of <abbr expan="Generals"
+                            >Gen<hi rend="super">ls.</hi></abbr> Torbit &amp; Wilson. I
+                    think they remained in their Camp some two days and nights. There had been no
+                    battle or skirmish near there. I did not hear the name of any Quartermaster.</p>
+                <p>Ques. 15. Ans. The ten Cattle were large and fat. I do not know their age, but
+                        <add hand="h1" place="inline">they</add> were all big heavy cattle and fat. I reckon from my
+                    knowledge of the cattle, that they were worth between forty and forty five
+                    dollars a head, and would have readily brought forty dollars. I have never
+                    talked with the claimant about the value of the cattle.</p>
+                <p>
+                    <name type="witness">Sampson Pelter</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d10">
+                <byline>Jacob W. Zirkle</byline>
+                <p>Deposition of Jacob W. Zirkle</p>
+                <p>Ans. to first general question.</p>
+                <p>My name is Jacob W. Zirkle, my residence near New Hope, Augusta County, my age is
+                    62 years and a farmer by occupation. I am not related to the claimant and have
+                    no interest in the claim.</p>
+                <p>I have known the claimant about twenty two years. I resided about 1 3/4 miles
+                    from him during the war. I was very intimate with him during that time. I
+                    suppose I saw him once a week until he went through the lines, which was in
+                    1864. We conversed about the war nearly every time we met and rejoiced over all
+                    victories of the Union Army. I always found him bitterly opposed to the
+                    rebellion, and always maintained that he never would take up arms against the
+                    Union. That he would leave his home and go to the north, if forced to do so. I
+                    do not recollect of talking to him in the presence of others. His Union
+                    neighbors all had full confidence in his loyalty to the United States and the
+                    Union cause. I do not believe he ever contributed or done anything voluntarily
+                    in aid of the rebellion. He never owned any Confederate bonds that I know or
+                    heard of. My own sympathies were with the Union, and as such I always felt that
+                    I had the full sympathy of the claimant. His conduct throughout proved him an
+                    honest and sincere adherent of the Union and its cause.</p>
+                <p>
+                    <name type="witness">Jacob W. Zirkle</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d11">
+                <byline>Jacob Coffman to prove loyalty</byline>
+                <p>Deposition of Jacob Coffman</p>
+                <p>Ans. to first <abbr expan="General">Gen<hi rend="super">l.</hi></abbr>
+                    question.</p>
+                <p>My name is Jacob Coffman, my age is 44 years. I reside near New Hope. I am a
+                    farmer by occupation. I am not related to the claimant and have no interest in
+                    his claim. I have known the claimant from boyhood. I lived the first two years
+                    of the War about four miles from and in 1863 I moved to about 1 1/2 miles from
+                    him. We were on very intimate terms of friendship. I saw him frequently and
+                    talked with him on several occasions about the war. He always expressed
+                    opposition to the rebellion, and said he would not fight against the Union. I
+                    was an adherent to the Union, and always felt free to converse with him on the
+                    subject of the war. The Union men of the neighborhood never doubted his true
+                    loyalty to the Union. I never knew or heard of his doing anything in aid of the
+                    rebellion. He went through the lines in 1864 and did not return until after the
+                    close of the war.</p>
+                <p>
+                    <name type="witness">Jacob Coffman</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d12">
+                <byline>John S. Smith U.S. Special Agent</byline>
+                <p>In the matter of the Claim of John Wine, Jr. No. 18728</p>
+                <p>In this case, I submit the claimants own deposition only. I find that in the
+                    beginning of the war, before there was any conscripting done here, claimant
+                    hired a Subsitute &amp; put him in the Confederate Army, the claimant at the
+                    time was not liable to be conscripted. That in 1863 when they commenced
+                    conscripting men, So that he was liable, he got himself detailed a farmer, that
+                    the deatil was made out &amp; signed by a Confederate official at Staunton.
+                    That he delivered all &amp; everything he made in 1863 to the Confederate
+                    Governemnt, except what he eat &amp; that he delivered a number of Head of
+                    cattle to the Confederate Government in 1863. That at the end of 1863 he was
+                    again detailed as a farmer, &amp; delivered all he made on his farm in 1864
+                    to the Confedeate Government &amp; also delivered a number of head of cattle
+                    in 1864. That they never paid him anything, he never aske<hi rend="super"
+                        >d</hi> for pay, never attempted to get pay, did not expect pay. That he
+                    gave it to them. That in 1862 he furnished a span of horses to Confederate <abbr
+                        expan="Government">Gov<hi rend="super">t.</hi></abbr> &amp; got
+                    paid for them &amp; that in 1864 they got another Span &amp; did not pay
+                    him. That he left in 1864 in Oct. because the Confederate officers refused to
+                    renew his detail as a farmer. That if they would have renewed it he would have
+                    continued working his farm for the Confederate Government the same as he had
+                    done. That he did not want to go into the Army. That it was too <hi
+                        rend="underline">dangerous</hi> work for him, (not out of Sympathy for the
+                    Federal Government) That he knows, that when he was detailed as a farmer, he was
+                    much in the Confederate Service as though he was in the Army. That he testified
+                    in his original papers, "that he was not in any way connected with the
+                    Confederate Service" That the two Statements are inconsistent that one is
+                    untrue, I find that his present Statement is true. That being so I find that the
+                    Cattle charged in the account in this claim belonged to the Confederate
+                    Government.</p>
+                <p>After deliberation, I cannot find that the claimant is entitled to be paid. The
+                    claim ought not be paid. Respectfully Submitted to <abbr expan="Honorable"
+                    >Hon</abbr> Claim<hi rend="super">s</hi><abbr expan="Commission">Com<hi
+                            rend="super">s.</hi></abbr></p>
+                <p>Jno. S. Smith<name type="witness"/></p>
+                <p>Washington, D.C. Special Agent</p>
+            </div1>
+            <div1 type="testimony" id="d13">
+                <byline>John Wine Jr.</byline>
+                <p>Deposition of John Wine Jr. taken at New Hope Augusta County <abbr
+                        expan="Virginia">V<hi rend="super">a.</hi></abbr> February 27<hi
+                        rend="super">th</hi> 1878 and before Jno S. Smith Special Commissioner</p>
+                <p>John Wine Jr. being duly Sworn Says, I am here to testify for the Government. I
+                    am 50 years old. I reside on South River, Middle River Township. I have lived
+                    there about twenty years, lived there before and during the war. My claim in
+                    this case is for Ten head of Cattle. I lost them I think in 1864. I did not See
+                    them taken &amp; do not know what became of them only what I have been told.
+                    These cattle were on a Mountain farm that belonged to my Father-in-law, two
+                    miles from Waynesboro that is three niles from the residence of Samson Pelter
+                    and two miles from Jacob Coiner Jr. Think Jacob Coiner is about my age this farm
+                    lays South East from them, there was not &amp; is not any road runs to this
+                    Mountain farm, that passes any where near the house of either of these men.
+                    Jacob Zirkle lived about two miles from me during the war. he is not related to
+                    me. Jacob Zirkle was not a Confederate during the war. There were Some
+                    Confederates here during the war. The Jacob Coffman who is a Witness on my
+                    papers is young Jacob think he is near fifty-years old he lived about three
+                    miles from me. I had a good many neighbors nearer than that at the time when
+                    these papers were made to part in this claim, my father was living, his name was
+                    John Wine, my name was John Wine Jr. This claim is my own &amp; was mine
+                    when it was made. I was a Witness when this claim was made out. I signed my mame
+                    John Wine Jr. This claim was made in the name of John Wine because it was his
+                    stock that was taken. These cattle did not belong to my father, they belonged to
+                    me. My father did not have any interest in these cattle. I cannot tell why this
+                    claim purports to be made by him. I lost these cattle in the fall of the year
+                    1864. I was at home when these cattle were taken. I went to Illinois in <abbr
+                        expan="October">Oct</abbr> 1864, These cattle were last before that. In the
+                    beginning of the war I hired a Substitute and put him in the Confederate Army, I
+                    done that before there was any Conscripting done here. I was not liable to be
+                    conscripted. In 1863, when they commenced conscripting men so that I was liable,
+                    I got detailed as a farmer, the detail was made out &amp; signed by a
+                    Confederate official at Sta<add hand="h1" place="inline">u</add>nton, What detailed famers made on their
+                    farms, belonged to the Confederate government, except what they &amp; their
+                        <orig reg="families">famalies</orig><orig reg="ate">eat</orig>. I <orig
+                        reg="delivered">delievered</orig> all &amp; everything I made in 1863 to
+                    the Confederate Government except what I <orig reg="ate">eat</orig>. I delivered
+                    every bit of it to them. I delivered a number of head of cattle to the
+                    Confederate Government in 1863. My detail was renewed at the end of 1863 for the
+                    year 1864 and I delivered all I made in 1864 on my farm to the Confederate
+                    Government, the Same as in 1863. I delivered a number of head of Cattle to them
+                    in 1864, cant <orig reg="recollect">recolect</orig> the Confederate Government
+                    never paid me for this property. I never <abbr expan="asked">ask<hi
+                            rend="super">d</hi></abbr> for pay. I never attempted to get pay
+                    any way. I did not expect pay for it. I gave it to them. I had the ten head of
+                    Cattle charged for dairy the whole Season of 1864. I had them hid up in this
+                    Mountain pasture. I sold a Span of horses in 1862 to the Confederate Government,
+                    delivered them to Mike <del hand="h1">Holman</del> Harmon a <abbr expan="Confederate"
+                        >Confed</abbr><abbr expan="Quartermaster">Q.M.</abbr> at <orig
+                        reg="Staunton">Stanton</orig>. I Sold &amp; delivered them voluntarily
+                    they paid me for the horses, and in 1864 the Confederates got an other Span of
+                    horses from me. They took them I did not Sell them. I left here in <abbr
+                        expan="October">Oct.</abbr> 1864 because the Confederate officers refused to
+                    renew my deta<add hand="h1" place="inline">i</add>l as a farmer. If they would have renewed my
+                    deta<add hand="h1" place="inline">i</add>l as a farmer I would have kept on working my farm for the
+                    Confederate government the Same as I had done. I did not want to go in the Army,
+                    it was too dangerous work for me. I know Dr. J.S. Myers, he lived at Waynesboro,
+                    Augusta <abbr expan="County">Co</abbr>. I do not recollect of having signed a
+                    petition at any time during the war asking that Myers be discharged from the
+                    Confederate Army. When I was detailed, I was in the Confederate Service
+                    &amp; aiding the Confederate Cause as much as though I was in the
+                    Confederate Army. I know that. I do not recollect whether I took the Oath of
+                    Allegiance to the Confederate Government the Statement I have made to day in
+                    relation to my being in the Confederate Service is true. I do not recollect that
+                    I testified when the testimony was first taken in this case, "that I was not in
+                    any way connected with the Confederate Service" If it so appears in the papers
+                    it is a mistake. I never intend to Swear to any Such thing &amp; did not
+                    know I had.</p>
+                <p>Subscribed &amp; Sworn to before me <abbr expan="February">Feby</abbr> 27<hi
+                        rend="super">th</hi> 1878 Jno. S. Smith Speccial Commissioner</p>
+                <p>
+                    <name type="claimant">John Wine Jr.</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d14">
+                <byline>John Wine</byline>
+                <p>John Wine. New Hope, Augusta <abbr expan="County">Co.</abbr><abbr
+                        expan="Virginia">Va.</abbr></p>
+                <p>Claimant was 32 in 1861 and farmed his place of 150 situate 3 miles <abbr
+                        expan="south east">S.E.</abbr> of New Hope on South River. Was not in any
+                    way connected with the Confederate Service. In <abbr expan="October">Oct.</abbr>
+                    or <abbr expan="November">Nov.</abbr> 1864 he went to Illinois as he was
+                    determined never to fight against the Union was absent 9 months, labored on a
+                    farm. Was threatened with damage in 1864 by persons named Kennerly. His
+                    sympathies and feelings were always in favor of the Union. Did not vote for the
+                    ratification of Secession.</p>
+                <p>John Wine of Augusta Co. signs petition asking for discharge of Dr. J.S. Myers
+                    for the military service to act as their physician. Say that "under the late
+                    call for volunteers all the physicians of their immediate neighborhood
+                    patriotically responded"</p>
+                <p>account</p>
+                <p>10 Cattle $400</p>
+                <p>Witness: <name type="claimant">John Wine, Jr.</name>, <name type="witness">Jacob
+                        Coiner, Jr.</name>, <name type="witness">Samson Pelter</name>, <name
+                        type="witness">Jacob W. Zirkle</name>, <name type="witness">Jacob
+                    Coffman</name>.</p>
+                <p>Testimony taken by <name type="other">Harvey Risk</name><abbr expan="Special"
+                        >Spl.</abbr><abbr expan="Commissioner">Comm<hi rend="super"
+                    >r.</hi></abbr></p>
+            </div1>
+            <div1 type="testimony" id="d15">
+                
+                <byline>United States War Department</byline>
+                <p>WAR DEPARTMENT, ADJUTANT GENERAL'S OFFICE, April 22<hi rend="super">d</hi>,
+                    1892.</p>
+                <p>Respectfully returned to the Department of Justice, by authority of the Secretary
+                    of War, inviting attention to the following report, viz:</p>
+                <p>There are on file in this office, three Vouchers signed John Wine, one sg<hi
+                        rend="super">d</hi>. John Wine <hi rend="underline">Jr</hi>. and one
+                    in favor of John Wine <hi rend="underline">Sr</hi>. (not signed) in Augusta Co.
+                    Va. for forage, and one signed John Wine<hi rend="super">s</hi>, by his
+                    mark, at Throughfare Va. for services as laborer.</p>
+                <p>One John <hi rend="bold">Wine</hi> of Augusta co. Va. petitioned for the
+                    discharge of a physician.</p>
+                <p>One John Wine of Blountville, Tenn. petitioned for the discharge of a doctor.
+                    Also, signed voucher for payment for forage. No further information found.</p>
+                <p><name type="other">
+                        <unclear>Wm Holkear</unclear>
+                    </name> Asst. Adjt. General</p>
+            </div1>
+            <div1 type="testimony" id="d16">
+                
+                <byline>United States Treasury Department</byline>
+                <p>Treasury Department, Office of the Secretary. Washington, D.C., May 24, 1892.</p>
+                <p>The Honorable The Attorney General.</p>
+                <p>Sir: In answer to your request of the 9th ultimo, in the case of John Wine Jr.,
+                    against the United States, No. 8611 Congressional, I have the honor to state
+                    that the name of John Wine Jr. appears in a copy of a list of those who voted
+                    for the ordinance of secession in Augusta County, Virginia, the original of
+                    which is presumed to be in the custody of the clerk of the court of said county.</p>
+                <p>Respectfully yours, <name type="other">Charles Forter</name> Secretary</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

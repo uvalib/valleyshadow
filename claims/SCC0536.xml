@@ -1,0 +1,435 @@
+<?xml version="1.0"?>
+
+<?dlps id="SCC0536"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 id="SCC0536">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Southern Claims Commission: Claim of Mathew Tisdale,
+                    1871, Claim No. 7651</title>
+        <title type="sort">southern claims commission claim of mathew tisdale, 1871 claim no 7651</title>
+        <author>Tisdale, Mathew</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca.<num type="kilobytes"> 20 </num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">SCC0536</idno>
+        <!--
+                <availability>
+                    <p>Publicly accessible</p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2006, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2006">2006</date>
+            <idno type="uva-pid">uva-lib:498423</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title type="main">Southern Claims Commission: Claim of Mathew Tisdale, 1871,
+                            Claim No. 7651</title>
+            <title level="m"/>
+            <title type="sort">southern claims commission claim of mathew tisdale, 1871 claim no 7651</title>
+            <author>Mathew Tisdale</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives, College Park,
+                            RG 217, claim #7651</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1871">1871</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Desertion/Leave, Patriotism, Prisons/Prisoners</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="SCC0536T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                
+                <p>Mathew Tisdale filed this claim in 1871 for $300, claiming Union forces under
+                    General Hunters Command took two horses in 1864. Mathew was a 31 year old
+                    farmer. He was arrested to join the Confederate Army once in Staunton but he was
+                    later released. He helped deserters reach Union lines. The commission allowed
+                    $250.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="claim_items" id="d5">
+                
+                <p>
+                    <table>
+                        <row>
+                            <cell>
+                                <hi rend="bold">Item Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Allowed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Disallowed:</hi>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>One black Mare</cell>
+                            <cell>$150.00</cell>
+                            <cell>$125.00</cell>
+                            <cell>$25.00</cell>
+                        </row>
+                        <row>
+                            <cell>One brown Mare 8 yrs old</cell>
+                            <cell>$150.00</cell>
+                            <cell>$125.00</cell>
+                            <cell>$25.00</cell>
+                        </row>
+                    </table>
+                </p>
+            </div1>
+            <div1 type="claim_summary" id="d6">
+                
+                <p>Claimants loyalty is established, by his own statements, and the testimony of
+                        <abbr expan="William">W<hi rend="super">m</hi></abbr> Andrews, and
+                    B.F. <orig reg="Bagby">Bayly</orig>.</p>
+                <p>He aided several Union prisoners to escape, furnished money to deserters from the
+                    Rebel Army. He was generally regarded as a loyal man, and was hardly safe in the
+                    Country during the War, and now that the War is over, he is shunned by the
+                    Rebels.</p>
+                <p>The horses were taken from his premises by soldiers of <abbr expan="General"
+                            >Gen<hi rend="super">l</hi></abbr>. Hunter's Command, in June
+                    1864, while the Army was stationed a few miles off at Staunton.</p>
+                <p>We allow the sum of two hundred and fifty dollars.</p>
+                <p><name type="other">A.O. Aldis</name>, <name type="other">JB Howell</name><abbr
+                        expan="Commissioners">Commrs</abbr> of Claims</p>
+            </div1>
+            <div1 type="testimony" id="d7">
+                
+                <byline>Mathew Tisdale</byline>
+                <p>I am 31 years old. I reside in Augusta <abbr expan="County">Co.</abbr> I am a
+                    Farmer. Have lived in Augusta <abbr expan="County">Co.</abbr> all my life.</p>
+                <p>Ques 2. Witness says: I resided in Augusta <abbr expan="County">Co.</abbr><abbr
+                        expan="Virginia">V<hi rend="super">a</hi></abbr> from April 1st 1861
+                    to June 1st 1865 &amp; did not change my residence at any time.</p>
+                <p>3. Witness says: I never passed the military or Naval lines of the United States
+                    &amp; entered the rebel lines.</p>
+                <p>4. Witness says: I never took an oath of allegiance of any kind to the so-called
+                    Confederate States.</p>
+                <p>5. Witness says: I took the amnesty oath in 1865, in Staunton <abbr
+                        expan="Virginia">V<hi rend="super">a</hi></abbr>. It was required of
+                    every one. Have never been pardoned by the <abbr expan="President"
+                    >Presdt.</abbr> as I have never done any thing to be pardoned for.</p>
+                <p>6. Witness says, I never was directly nor indirectly in any manner connected with
+                    the civil service of the <abbr expan="Confederate">Confed.</abbr> States.</p>
+                <p>7. Witness Says: I never held any office or place of honor, profit, or trust
+                    under the <abbr expan="Confederate">Confed</abbr>. States, or any State of the
+                    Confederacy.</p>
+                <p>8. Witness says: I never held any clerkship or any agency or employment of any
+                    kind for or under the <abbr expan="Confederate">Confed.</abbr><abbr
+                        expan="Government">Govt</abbr>.</p>
+                <p>9. Witness says: I never was in any capacity in the military or Naval Service of
+                    the <abbr expan="Confederate">Confed.</abbr> States.</p>
+                <p>10. Witness Says: I never was an officer soldier sailor or marine in either the
+                    military or naval service of the <abbr expan="Confederate">Confed</abbr><abbr
+                        expan="Government">Govt</abbr>. I did not furnish a substitute for either.
+                    Never had any connection with any department of the <abbr expan="Confederate"
+                        >Confed.</abbr><abbr expan="Government">Govt</abbr>. Never had charge of any
+                    supplies, stores, or trains in the <abbr expan="Confederate">Confed.</abbr>
+                    service.</p>
+                <p>11. Witness says, I never was in any service or employment of any kind under the
+                        <abbr expan="Confederate">Confed.</abbr><abbr expan="Government"
+                    >Govt.</abbr> or furnished supplies of any kind to any <abbr expan="Department"
+                        >Dept.</abbr> of any sort for their use. I never gave any information to any
+                    officer, soldier, sailor or marine of the army or navy of the <abbr
+                        expan="Confederate">Confed.</abbr><abbr expan="Government">Govt</abbr>.</p>
+                <p>12. Witness says, I never was in any manner engaged in the manufacture of
+                    munitions of War, of clothing <unclear>boots</unclear>, or shoes, or articles of
+                    any kind for the <abbr expan="Confederate">Confed.</abbr><abbr
+                        expan="Government">Govt</abbr>.</p>
+                <p>13. Witness says: I never was in any manner engaged in the impressment, taking or
+                    furnishing of any supplies of any kind for the <abbr expan="Confederate"
+                    >Confed.</abbr> service. Did not have any share or interest in any purchase or
+                    contract for the <abbr expan="Confederate">Confed.</abbr><abbr
+                        expan="Government">Govt</abbr>.</p>
+                <p>14. Witness says, I never was engaged in blockade running, or illicit traffic
+                    between the lines. Had no share or interest in any goods brought into the <abbr
+                        expan="Confederate">Confed.</abbr> States.</p>
+                <p>15. Witness says, I did not leave the <abbr expan="Confederate">Confed.</abbr>
+                    States between the 1st of April 1861 &amp; 1st of April 1865</p>
+                <p>16. Witness says, I was neither the owner nor in any way interested in any vessel
+                    engaged in blockade running.</p>
+                <p>17. Witness says, I was arrested once by the <abbr expan="Confederate"
+                        >Confed.</abbr><abbr expan="Government">Govt.</abbr> in 1862, in Staunton
+                        <abbr expan="Virginia">V<hi rend="super">a</hi></abbr> by <abbr
+                        expan="Captain">Capt.</abbr> Jno. Avis of the Provost Guard. I was released
+                    soon after. I took no oath to the <abbr expan="Confederate">Confed.</abbr><abbr
+                        expan="Government">Govt.</abbr> to effect my release. I was arrested to be
+                    part of the army. Never was arrested by the United States <abbr
+                        expan="Government">Govt</abbr>.</p>
+                <p>18. Witness say, I had horses, grain, &amp; hay taken by the <abbr
+                        expan="Confederate">Confed.</abbr><abbr expan="Government">Govt.</abbr> in
+                    the spring &amp; fall of 1864. I was paid in <abbr expan="Confederate"
+                        >Confed.</abbr> Money, it was of little value.</p>
+                <p>19. Witness says: I was threatened to be taken to <abbr expan="Richmond"
+                        >Richd.</abbr><abbr expan="Virginia">V<hi rend="super">a</hi></abbr>
+                    because I would not take the oath of Allegiance to the <abbr expan="Confederate"
+                        >Confed.</abbr> States. I told them I would not take it any way</p>
+                <p>20. Witness says: I never was in any way molested or injured on account of my
+                    union sentiments.</p>
+                <p>21. Witness says, I never contributed any thing to the support of the Union Army,
+                    or its cause. Never did anything for the United States.</p>
+                <p>23. Witness says: I did <orig reg="not">no</orig> have any near relatives in
+                    either the United States or Confederate Armies</p>
+                <p>24. Witness says, I never owned any Confederate bonds, nor had any interest in
+                    any. Never did anything to support the credit of the <abbr expan="Confederate"
+                        >Confed.</abbr><abbr expan="Government">Govt</abbr>.</p>
+                <p>25. Witness says, I never have given aid or comfort to the rebellion.</p>
+                <p>26. Witness says, I never engaged in raiding into the United States from Canada,
+                    or in injuring or destroying its commerce.</p>
+                <p>27. Witness says, I never was engaged directly nor indirectly in holding persons
+                    persons as prisoners, who had been taken by the <abbr expan="Confederate"
+                        >Confed.</abbr><abbr expan="Government">Govt</abbr>. I once helped some
+                    prisoners to escape to their homes, there were seven in the lot</p>
+                <p>28. Witness says: I never was in any way connected with any society for the
+                    persecution or expulsion of any person on account of union sentiments.</p>
+                <p>29. Witness says, I never was a paroled prisoner of the United States.</p>
+                <p>30. Witness says, I have never held any office in either the Army or Navy of the
+                    United States. Was not educated either at West Point or the Naval Academy</p>
+                <p>31. Witness says: I never <abbr expan="received">rec'd</abbr> any pass from the
+                        <abbr expan="Confederate">Confed</abbr><abbr expan="Government">Govt.</abbr></p>
+                <p>32. Witness says, I am not &amp; never have been under any disabilities
+                    imposed by the fourteenth amendment of the Constitution of the United States.
+                    Have not held any office under the <abbr expan="United States">U.S.</abbr><abbr
+                        expan="Government">Govt.</abbr> since the War.</p>
+                <p>33. Witness says: At the beginning of the war, I <orig reg="sympathized"
+                        >sympathised</orig> with the union cause. I did not vote either for or
+                    against the ordinance of <orig reg="secession">cesission</orig> they threatened
+                    to shoot anyone voting against it. After the adoption of the ordinance of <orig
+                        reg="secession">cesession</orig> I adhered to the Union Cause, &amp; did
+                    not go with my State</p>
+                <p>34 Witness says: I do solemnly declare, that from the beginning to the end of the
+                    war my sympathies were constantly with the Union Cause, &amp; I was at all
+                    times ready &amp; willing to aid its Cause, to the extent of my ability,
+                    &amp; so far as my circumstances permitted, &amp; further this deponent
+                    sayeth not. Sept 21st 1871</p>
+                <p>
+                    <name type="claimant">M. Tisdale</name>
+                </p>
+                <p>Sworn to &amp; subscribed before me this 21st day of September 1871</p>
+                <p><name type="other">WG Riley</name> United States Commissioner and Special <abbr
+                        expan="Commissioner">Comr</abbr> for State of <abbr expan="Virginia">V<hi
+                            rend="super">a</hi></abbr></p>
+            </div1>
+            <div1 type="testimony" id="d8">
+                
+                <byline>Randolph Tisdale</byline>
+                <p>Deposition of <orig reg="Randolph">Randal</orig> Tisdale to prove taking
+                    &amp; furnishing of property</p>
+                <p>Ques. 1. Witness Says: I am 70 years old. I reside in Augusta <abbr
+                        expan="County">Co</abbr><abbr expan="Virginia">V<hi rend="super"
+                        >a</hi></abbr>. I am a Farmer. I was present when the articles mentioned in
+                    claimants petition were taken.</p>
+                <p>2. Witness says: I saw them taken, one brown mare, &amp; one black mare</p>
+                <p>4. Witness Says: The property was taken in June 1864 by officers &amp;
+                    Soldiers of <abbr expan="General">Genl.</abbr> Hunters Army from the claimants
+                    farm. There was an officer present.</p>
+                <p>5. Witness says, A man named David Stultz was present &amp; saw them taken.</p>
+                <p>6. Witness says: There was an officer present. Do not know his name, rank or
+                        <abbr expan="regiment">regt.</abbr> he belonged to the command of <abbr
+                        expan="General">Genl.</abbr> Hunter of the <abbr expan="United States"
+                    >US</abbr> Army.</p>
+                <p>7. Witness says: One was taken from the field &amp; one from the plow. I told
+                    them we had obeyed <abbr expan="President">Presdt.</abbr> Lincoln's
+                    proclamation, &amp; it should protect our (claimants) property. We had never
+                    put any thing out of the way. The officer said he was compelled to take them,
+                    &amp; that my son should be paid for them.</p>
+                <p>8. Witness says, The officer rode the black mare, &amp; the brown mare was
+                    ridden off by a soldier</p>
+                <p>9. Witness says, The property was taken in the direction of Lexington I went
+                    about a mile with them. I did not see it afterwards.</p>
+                <p>10. Witness says, The officer said it was taken for the use of the army</p>
+                <p>11. Witness says: There was no complaint made on account of the taking</p>
+                <p>12. Witness says, There was no receipt asked for &amp; none given.</p>
+                <p>13. Witness says, The property was taken before 12 oclock, in the day, it was not
+                    taken secretly.</p>
+                <p>14. Witness says, When the property was taken, the army was about 4 miles off at
+                    Staunton. Hunters &amp; Averills men were encamped at Staunton, <orig
+                        reg="stayed">staid</orig> I think two days. Had not been any battle or
+                    skirmish near except at Piedmont, 12 miles off, did not know the Quarter Marters
+                    or any of them.</p>
+                <p>15. Witness Says, The property was in good condition. One black mare was either 4
+                    or 5 years old, was worth One hundred &amp; fifty dollars. One brown mare,
+                    was worth one hundred &amp; fifty dollars, was about 10 years old.</p>
+                <p>19. Witness says, I know the property was taken for the use of the <abbr
+                        expan="Government">Govt.</abbr> &amp; not for private use, the officer
+                    said so.</p>
+                <p>20. Witness say, I think it was taken for the use of the <abbr expan="Government"
+                        >Govt.</abbr> &amp; for no other purpose. I have reason to believe the
+                    black mare was used by <abbr expan="General">Genl.</abbr> Hunter I was told so
+                    by several persons who saw her</p>
+                <p>21. Witness Says, I believe the necessity of the army compelled them to take the
+                    property, the officer told me so</p>
+                <p>22. Witness says: I believe it was taken for the necessary use of the <abbr
+                        expan="Government">Govt.</abbr> &amp; it should pay for it.</p>
+                <p>23. Witness says: I think the officer who took them had orders to take them for
+                    the use of the army. The officer said so, &amp; refused to give her up for
+                    money or anything else, as he needed them, &amp; further this deponent
+                    sayeth not.</p>
+                <p>Sept. 21st 1871</p>
+                <p>
+                    <name type="witness">Randolph Tisdale</name>
+                </p>
+                <p>Sworn to &amp; subscribed before me this 21st day of September 1871</p>
+                <p><name type="other">WG Riley</name> United States Commissioner and Special <abbr
+                        expan="Commissioner">Com.</abbr> for State of Virginia</p>
+            </div1>
+            <div1 type="testimony" id="d9">
+                
+                <byline>William Andrews</byline>
+                <p>Deposition of William Andrews to prove loyalty of claimant</p>
+                <p>Ques 1. Witness says: I am 49 years old. I reside in Augusta <abbr expan="County"
+                        >Co.</abbr><abbr expan="Virginia">V<hi rend="super">a</hi></abbr>. I
+                    am a farmer. I have known the claimant 10 years, live near him. Saw him nearly
+                    every week during the war. Talked with very frequently about the war. He was a
+                    loyal man to the <abbr expan="United States">U.S.</abbr><abbr expan="Government"
+                        >Govt</abbr>, never heard anything else from him, he was nothing but a loyal
+                    man. Every body who knew him regarded him as a loyal man. He has been shunned
+                    &amp; avoided by men around him on account of his union sentiments. I have
+                    known him to protect &amp; furnish supplies to men, deserters from the <abbr
+                        expan="Confederate">Confed.</abbr> Army, until they could get to the Union
+                    lines, &amp; he helped them go away. Never knew him to do any thing for the
+                        <abbr expan="Confederate">Confed.</abbr><abbr expan="Government"
+                    >Govt.</abbr> except when he was compelled to furnish them his team by <abbr
+                        expan="Confederate">Confed.</abbr> soldiers, with guns in their hands. He
+                    was too loyal to the United States <abbr expan="Government">Govt.</abbr> to have
+                    been loyal to the <abbr expan="Confederate">Confed.</abbr><abbr
+                        expan="Government">Govt.</abbr> had it succeeded, he told me, we would all
+                    have to leave or be ruined if the Confederates succeeded, &amp; further this
+                    deponent sayeth not.</p>
+                <p>Sept. 21st 1871</p>
+                <p>
+                    <name type="witness">W Andrews</name>
+                </p>
+                <p>Sworn to &amp; subscribed before me this 21st day of September 1871</p>
+                <p><name type="other">WG Riley</name> United States Commissioner and Special <abbr
+                        expan="Commissioner">Comr</abbr> for State of Virginia</p>
+            </div1>
+            <div1 type="testimony" id="d10">
+                
+                <byline>B. F. Bagby</byline>
+                <p>Deposition of B.F. Bagby to prove loyalty</p>
+                <p>Ques 1. Witness says: I am 42 years old. I reside in Staunton <abbr
+                        expan="Virginia">V<hi rend="super">a</hi></abbr>. I am by profession a
+                    contractor. Have known the claimant 15 years. Lived near him during the war, saw
+                    him nearly every day, &amp; talked with him frequently about the war. He was
+                    loyal to the <abbr expan="United States">US</abbr><abbr expan="Government"
+                    >Govt.</abbr> &amp; was so regarded by his neighbors. I do not know that he
+                    was injured in person, but his grain was taken by the Confederates, on account
+                    of his being a Union Man. I tried several to induce him to take Confederate
+                    Money, but he <orig reg="always">allways</orig> refused, saying he had no
+                    confidence in it. I do not know that he had any chance to do anything for the
+                        <abbr expan="United States">US</abbr><abbr expan="Government">Govt.</abbr>
+                    he never left his home when the <abbr expan="United States">US</abbr> troops
+                    came in. Never knew him to do anything for the Confederate <abbr
+                        expan="Government">Govt</abbr>. I know that he was hardly safe in staying at
+                    his home during the war, &amp; had the Confederates succeeded I do not think
+                    he could have stayed at all. He never would have made a loyal citizen to the
+                    Confederate Government, &amp; further this deponent sayeth not.</p>
+                <p>
+                    <name type="witness">B.F. Bagby</name>
+                </p>
+                <p>Sept. 21st 1871</p>
+                <p>Sworn to &amp; subscribed before me this 21st day of September 1871</p>
+                <p><name type="other">WG Riley</name> United States Commissioner and Special <abbr
+                        expan="Commissioner">Comr</abbr> for State of <abbr expan="Virginia">V<hi
+                            rend="super">a</hi></abbr></p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

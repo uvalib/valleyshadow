@@ -1,0 +1,471 @@
+<?xml version="1.0"?>
+
+<?dlps id="SCC0523"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 id="SCC0523">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Southern Claims Commission: Claim of Martin Garber,
+                    1871, Claim No. 2537</title>
+        <title type="sort">southern claims commission claim of martin garber, 1871 claim no 2537</title>
+        <author>Garber, Martin</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca.<num type="kilobytes"> 21 </num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">SCC0523</idno>
+        <!--
+                <availability>
+                    <p>Publicly accessible</p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2006, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2006">2006</date>
+            <idno type="uva-pid">uva-lib:498410</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title type="main">Southern Claims Commission: Claim of Martin Garber, 1871,
+                            Claim No. 2537</title>
+            <title level="m"/>
+            <title type="sort">southern claims commission claim of martin garber, 1871 claim no 2537</title>
+            <author>Martin Garber</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives, College Park,
+                            RG 217, claim #2537</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1871">1871</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+            <textClass>
+                <keywords>
+                    <term/>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item>Home Front, Patriotism</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="SCC0523T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                
+                <p>Martin Garber filed this claim in 1871 for $799, claiming Union forces during
+                    General Hunter's raid of the Valley took four horses, bacon, cattle, wheat, and
+                    a harness in 1864. Martin was a 54 year old farmer near New Hope who did not
+                    vote on the Ordinance of Secession question. The commission allowed $557.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="claim_items" id="d5">
+                
+                <p>
+                    <table>
+                        <row>
+                            <cell>
+                                <hi rend="bold">Item Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Allowed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Disallowed:</hi>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>1 Grey horse</cell>
+                            <cell>$100.00</cell>
+                            <cell>$0.00</cell>
+                            <cell>$0.00</cell>
+                        </row>
+                        <row>
+                            <cell>1 Grey mare</cell>
+                            <cell>$150.00</cell>
+                            <cell>$0.00</cell>
+                            <cell>$0.00</cell>
+                        </row>
+                        <row>
+                            <cell>1 Bay horse</cell>
+                            <cell>$130.00</cell>
+                            <cell>$0.00</cell>
+                            <cell>$0.00</cell>
+                        </row>
+                        <row>
+                            <cell>1 Black horse</cell>
+                            <cell>$60.00</cell>
+                            <cell>$300.00</cell>
+                            <cell>$140.00</cell>
+                        </row>
+                        <row>
+                            <cell>50 pounds Bacon</cell>
+                            <cell>$7.00</cell>
+                            <cell>$7.00</cell>
+                            <cell>$0.00</cell>
+                        </row>
+                        <row>
+                            <cell>8 Cattle</cell>
+                            <cell>$320.00</cell>
+                            <cell>$240.00</cell>
+                            <cell>$80.00</cell>
+                        </row>
+                        <row>
+                            <cell>8 bush. wheat</cell>
+                            <cell>$12.00</cell>
+                            <cell>$10.00</cell>
+                            <cell>$2.00</cell>
+                        </row>
+                        <row>
+                            <cell>Saddle &amp; harness</cell>
+                            <cell>$20.00</cell>
+                            <cell>$0.00</cell>
+                            <cell>$20.00</cell>
+                        </row>
+                    </table>
+                </p>
+            </div1>
+            <div1 type="claim_summary" id="d6">
+                
+                <p>The claimants loyalty is established by his own Statement and that of his
+                    neighbors, who testify in his behalf.</p>
+                <p>The property for which he asks Compensation was taken by Gen Hunters Command in
+                    June 1864.</p>
+                <p>We allow the sum of five hundred and fifty seven dollars.</p>
+                <p><name type="other">A.O. Aldis</name>, <name type="other">JB Howell</name><abbr
+                        expan="Commissioners">Commrs</abbr> of Claims</p>
+            </div1>
+            <div1 type="testimony" id="d7">
+                
+                <byline>Martin Garber</byline>
+                <p>United States of America, State of <abbr expan="Virginia">Va</abbr>. SS</p>
+                <p>JWG Riley a commissioner selected and designated by the commissioners of Claims,
+                    appointed under the act of Congress of March 3<hi rend="super">d</hi> 1871
+                    to take and record testimony. Do hereby certify that the reason for taking the
+                    following depositions is, and the fact is, the matter of claims of Martin Garber
+                    vs the United States of America and the witness herein named being natural and
+                    necessary, being first duly sworn deposed as follows.</p>
+                <p>Question, Where do you reside.</p>
+                <p>Answer, I reside near New Hope Augusta <abbr expan="Virginia">Va</abbr>, by
+                    occupation a farmer, age fifty four.</p>
+                <p>2 The witness says, Same place.</p>
+                <p>3 The witness says, No.</p>
+                <p>4 The witness says, I never did take an oath of allegiance to the so called
+                    Confederate States.</p>
+                <p>5 The witness says, I have never taken any amnesty oath. I have never been
+                    pardoned by the President. I have done nothing to be pardoned for.</p>
+                <p>6 The witness says, He says he never was directly or indirectly connected with
+                    the civil service of the so called Confederate States.</p>
+                <p>7 Witness says, He held no office of honor or profit under the Confederate
+                    Government.</p>
+                <p>8 Witness says-No</p>
+                <p>9 Witness says-No</p>
+                <p>10 Witness says-He never aided the Confederate Government in any way whatever.</p>
+                <p>11 Witness says-No nothing except that which was impressed the witness says he
+                    nver rendered any aid whatever to the so called Confederate States.</p>
+                <p>12 Witness says-He never was employed in any way for the Confederate Government.</p>
+                <p>13 Witness says-No he never was employed by the Confederate Government in any
+                    way.</p>
+                <p>14 Witness says-He never was Engaged in Blockade running never had any interest
+                    or share in any goods or wares, brought into or exported from the so called
+                    Confederate States during the war.</p>
+                <p>15 Witness says-I did not leave the Confederate States between the 19<hi
+                        rend="super">th</hi> April 1861 and the 19<hi rend="super"
+                    >th</hi> April 1865.</p>
+                <p>16 Witness says-I never was an owner or part owner or in any way interested in
+                    any vessel used in navigating the Ocean to or from any port in the Confederacy
+                    or upon any waters in the Confederacy.</p>
+                <p>17 Witness says-I never was arrested by the Confederate Government or by any
+                    Officer, soldier or other person professing to act therefor or for any State in
+                    rebellion &amp; never was arrested by the United States Government.</p>
+                <p>18 Witness says-I had a good deal of property taken by the Confederate
+                    authorities, some was <orig reg="paid">payed</orig> for and some was not.</p>
+                <p>19 Witness Says-I never was threatened to my face with damage or injury to my
+                    person, family or property on account of my union sentiments, but I was
+                    threatened behind my back.</p>
+                <p>20 Witness says-I was molested and somewhat injured on account of my Union
+                    sentiments more than I otherwise would have been.</p>
+                <p>21 Witness says-I never contributed anything to the Union Cause until <abbr
+                        expan="General">Gen<hi rend="super">l</hi></abbr>. Hunter made a raid
+                    through our Valley, and then they gathered up my property that way viz: horses
+                    &amp; cattle for the use of the Army.</p>
+                <p>22 Witness says-No sir I do not recollect that I did unless by talking in favor
+                    of it.</p>
+                <p>23 Witness says-I had two nephews in the Confederate Army until they run off. I
+                    had no relations in the Union Army that I know of. I contributed nothing to
+                    supply them with military equipments or with money.</p>
+                <p>24 Witness says-I did own one Confederate bond which I used to pay taxes</p>
+                <p>25 Witness says-I have never given aid or comfort to the Rebellion</p>
+                <p>26 Witness says-I never was engaged in making raids into the United States from
+                    Canada, or engaged in destroying the Commerce of the United States</p>
+                <p>27 Witness says-I never was engaged in holding in custody any person taken by the
+                    Rebel Government as prisoners of war</p>
+                <p>28 Witness says-No sir I never was</p>
+                <p>29 Witness says-I never was a parolled prisoner of the United States</p>
+                <p>30 Witness says-I have never held any office in the Army or navy of the United
+                    States I was not educated by the United States at the Military Academy at West
+                    Point or at the United States Naval Academy.</p>
+                <p>31 Witness says-I received no pass from the Confederate Government, except to go
+                    home from town.</p>
+                <p>32 Witness says-I was under no disabilities imposed by the fourteenth article of
+                    the amendments to the Constitution of the United States. I have held no Office
+                    under the United States Government since the war</p>
+                <p>33 Witness says-I sympathized with the Union Cause and not with the Rebellion. I
+                    did not vote for or against the ordinance of Secession. I went to the polls to
+                    vote against the ordinance of Secession, but the excitement was so great that I
+                    came away without voting at <del rend="none" hand="h1"></del></p>
+                <p>34 Witness says-I from the beginning of hostilities against the United States to
+                    the end of thereof my sympathies were with the cause of the United States and
+                    that I was at all times ready and willing when called upon to aid the cause of
+                    the Union or its supporters so far as my means and power and the circumstances
+                    of the case permitted.</p>
+                <p>Questions by the Commissioner</p>
+                <p>What was the condition of the property charged in your petition when taken by the
+                    Government?</p>
+                <p>All the stock mentioned in the petition was in good condition when taken by the
+                    United States Government. I think that the prices charged in the petition are
+                    fair, they would have brought that before the war. The rest of the articles were
+                    good and were sold at fair prices. Further this deponent saith not. August the
+                        8<hi rend="super">th</hi> 1871.</p>
+                <p>
+                    <name type="claimant">Martin Garber</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d8">
+                
+                <byline>Jacob Stover</byline>
+                <p>Jacob Stover a witness introduced by Martin Garber, being duly sworn answereth as
+                    follows</p>
+                <p>Questions by the Commissioner</p>
+                <p>1<hi rend="super">st</hi> How old are you, where do you reside, and what is
+                    your occupation? Answer I am fifty three years old. I reside in Augusta County
+                    Virginia, by occupation a farmer</p>
+                <p>2 How long have you known the Claimant in this petition Answer I have known him
+                    twenty or twenty five years. I reside seven miles from him. I knew him during
+                    the war. I saw him often during the war. I took him to be strictly loyal to the
+                    United States Government during the war. I did not know any man more so in
+                    Augusta County Virginia. He was so regarded by his neighbors. I never heard him
+                    threatened on account of his union sentiments but Union people were generally
+                    threatened. I never knew him to do anything to aid the Confederate Government,
+                    nor do I believe he would have done it voluntarily.</p>
+                <p>3 Do you know of any act done or language used by the Claimant which would have
+                    prevented him from establish his loyalty to the Confederacy if it had been
+                    maintained as a separate Government if so state the same particularly. Answer He
+                    was so loyal to the United States Government he could not have been loyal to the
+                    Confederate Government if it had been maintained as a separate government.</p>
+                <p>Further the witness saith not. August the 8<hi rend="super">th</hi> 1871.</p>
+                <p>
+                    <name type="witness">Jacob Stover</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d9">
+                
+                <byline>David Perry</byline>
+                <p>David Perry a witness introduced by Martin Garber being duly sworn answereth as
+                    follows</p>
+                <p>1 By Commissioner How old are you where do you reside, and what is your
+                    occupation. Answer I am forty nine years old. I reside in Augusta County
+                    Virginia by occupation a farmer.</p>
+                <p>2 Are you acquainted with the Claimant in this petition Answer I have known him
+                    for eleven years. I saw him often during the war. So far as I know and believe
+                    he was loyal to the United States Government during the war and so regarded by
+                    his neighbors.</p>
+                <p>3 Were you acquainted with the property or any part of it mentioned in the
+                    Claimants petition Answer I was acquainted with his horses and cows they were in
+                    good condition when I saw them last. I saw one of his horses in the posession of
+                    the Army of the United States then being commanded by <abbr expan="General"
+                            >Gen<hi rend="super">l</hi></abbr> Hunter, and from my knowledge
+                    of his stock I do not think he has charged the Government too much in his
+                    petition.</p>
+                <p>4 Do you know any act done, or language used by the Claimant which would have
+                    prevented him from establishing his loyalty to the Confederacy if it had been
+                    maintained as a separate Government if so state the same particularly. Answer he
+                    was too loyal to the United States Government to have been considered a loyal
+                    man to the Confederacy if it had been maintained as a separate Government.</p>
+                <p>Further this witness saith not. August the 8<hi rend="super">th</hi> 1871.</p>
+                <p>
+                    <name type="witness">David Perry</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d10">
+                
+                <byline>Martin Garber</byline>
+                <p>Martin Garber the Claimant having been duly sworn deposes as follows.</p>
+                <p>Witness says-I was present when the cattle were taken. When the horses were taken
+                    which was by another portion of the Army, the Cavalry. I was a quarter of a mile
+                    distant, they being in the pasture meaning my horses.</p>
+                <p>3 Witness says-I saw the grain, the bacon and the harness taken.</p>
+                <p>4 Witness says-I say that they were taken the day after the battle of Piedmont
+                    which I think was the 6<hi rend="super">th</hi> of June 1864 they were
+                    taken from my house by Officers and soldiers under the command of <abbr
+                        expan="General">Gen<hi rend="super">l</hi></abbr>. Hunter</p>
+                <p>6 Witness says-I saw the cattle taken by the Quartermaster, he gave me a receipt
+                    for the same which is filed with my petition, he said the army was making a raid
+                    and that they had orders to take horses and cattle and flour and bacon and
+                    everything else necessary for the use of the army that the Army <hi
+                        rend="super">had</hi> lost a good many horses the day before, and that
+                    cattle they must have that they had to get their living in the country they
+                    passed through.</p>
+                <p>8 Witness says-The property was removed by the soldiers. The horses were rode and
+                    the cows driven</p>
+                <p>9 Witness says-It was removed to Staunton I followed it there. I saw the saddle
+                    and one horse the property of Isaac Coffman which was in the pasture with mine
+                    at the time they were taken.</p>
+                <p>11 Witness says-I complained to the Provost <orig reg="Marshal">Marshall</orig>
+                    as they had taken all my horses he told me to come on to Staunton and as they
+                    had taken all my horses he would do what he could for me. I went to Staunton the
+                    next day and found the Provost Marshal, he told me he was very busy and the
+                    Cavalry was all scattered about, and if he would give me an order to hunt my
+                    horses unless I was a deity I could not find them he told me to come back some
+                    other day. The reason I did not come back, both armies were in the neighborhood
+                    and the pickets were fighting.</p>
+                <p>12 Witness says-A receipt was given for the Cattle without being asked for which
+                    receipt is filed with the petition. There was no other receipt given for any
+                    other articles mentioned in the Claimant's petition no other receipt was asked
+                    for</p>
+                <p>13 Witness says-The property was taken in the day time about ten O'clock and none
+                    of the property was taken secretly.</p>
+                <p>14 Witness says-It was taken the day after the battle of Piedmont when the Army
+                    was on its way to Staunton where it was encamped for several days</p>
+                <p>15 Witness says-The horses and cattle were in good condition the cattle were good
+                    beef, they were worth what the Claimant has charged the Government in his
+                    petition and the Quartermaster's receipt that was given me corresponds precisely
+                    with the amount charged by the Claimant in his petition the age of the horses is
+                    state in the petition. The wheat mentioned in the Claimant's petition ws
+                    threshed and in the barn and was worth at that time what I have charged the
+                    Government, as well as the bacon and all other articles mentioned in the
+                    Claimant's petition</p>
+                <p>16 Witness says-I knew what was in the barn they did not take all. I measured
+                    what was left behind which enabled me to know what was taken.</p>
+                <p>19 Witness says-I am satisfied that the property which was taken, was taken for
+                    the use of the government and for no other purpose.</p>
+                <p>20 Witness says-The property was taken for the use of the Government</p>
+                <p>21 Witness says-the articles were taken for the use of the Government because the
+                    Government needed them</p>
+                <p>22 Witness says-I know that it was taken for some purpose so necessary useful
+                    beneficial or justifiable as to require the Government to pay for it</p>
+                <p>23 Witness says-I do believe that the persons that took the property were
+                    authorized, empowered, and justified in taking it or ordering it to be taken.</p>
+                <p>Further the deponent saith not Aug 8<hi rend="super">th</hi> 1871</p>
+                <p>
+                    <name type="claimant">Martin Garber</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d11">
+                
+                <byline>Isaac Coffman</byline>
+                <p>Isaac Coffman a witness introduced by Martin Garber being duly sworn answereth as
+                    follows.</p>
+                <p>Questions by Commissioner</p>
+                <p>1 How old are you where do you reside and what is your occupation? Answer I am
+                    forty three years old I reside in Augusta County Virginia by occupation a
+                    farmer.</p>
+                <p>2 Do you know the claimant? Answer I have known him all my life time I reside in
+                    a half mile of him. I saw him often during the war, he was loyal to the United
+                    States during the war, he was so regarded by his neighbors. He <hi
+                        rend="super">always</hi> spoke in favor of the United States
+                    Government</p>
+                <p>3 Do you know any act done, or language used by the claimant which would have
+                    prevented him from establishing his loyalty to the Confederacy, if it had been
+                    maintained as a separate Government if so state the same particularly. Answer He
+                    was too good a Union man to have been considered loyal to the Confederacy if it
+                    had been maintained as a separate government</p>
+                <p>And further this witness saith not August the 8<hi rend="super">th</hi>
+                    1871</p>
+                <p>
+                    <name type="witness">Isaac Coffman</name>
+                </p>
+                <p>Sworn to &amp; subscribed before me this 8th day of August 1871</p>
+                <p><name type="other">WG Riley</name> United States Commissioner and Special <abbr
+                        expan="Commissioner">Comr</abbr> for State of <abbr expan="Virginia">V<hi
+                            rend="super">a</hi></abbr></p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

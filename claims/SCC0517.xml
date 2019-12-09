@@ -1,0 +1,488 @@
+<?xml version="1.0"?>
+
+<?dlps id="SCC0517"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 id="SCC0517">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Southern Claims Commission: Claim of Alexander
+                    Anderson, 1874, Claim No. 19562</title>
+        <title type="sort">southern claims commission claim of alexander anderson, 1874 claim no 19562</title>
+        <author>Anderson, Alexander</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca.<num type="kilobytes"> 23 </num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">SCC0517</idno>
+        <!--
+                <availability>
+                    <p>Publicly accessible</p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2006, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2006">2006</date>
+            <idno type="uva-pid">uva-lib:498404</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title type="main">Southern Claims Commission: Claim of Alexander Anderson,
+                            1874, Claim No. 19562</title>
+            <title level="m"/>
+            <title type="sort">southern claims commission claim of alexander anderson, 1874 claim no 19562</title>
+            <author>Alexander Anderson</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives, College Park,
+                            RG 217, claim #19562</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1874">1874</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+        <hand id="h1"/>
+      </handList>
+            <textClass>
+                <keywords>
+                    <term>Patriotism, Home Front, Reunification, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="SCC0517T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                
+                <p>Alexander Anderson filed this claim in 1874 for $712.50, claiming the Union army
+                    took three horses, corn, bacon, oats, and a rifle in 1864. Alexander was a 66
+                    year old farmer. After the war and taking the Ironclad Oath he served as a
+                    Magistrate in Augusta. Included is testimony by the Mayor of Staunton to prove
+                    Alexander's loyalty. The commission allowed $175.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="claim_items" id="d5">
+                
+                <p>
+                    <table>
+                        <row>
+                            <cell>
+                                <hi rend="bold">Item Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Allowed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Disallowed:</hi>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>Ten bus corn @ 1.00 per bus</cell>
+                            <cell>$10.00</cell>
+                            <cell>$0.00</cell>
+                            <cell>$10.00</cell>
+                        </row>
+                        <row>
+                            <cell>One black horse 5 yrs old</cell>
+                            <cell>$250.00</cell>
+                            <cell>$125.00</cell>
+                            <cell>$125.00</cell>
+                        </row>
+                        <row>
+                            <cell>390 lbs bacon @ .25 per lb</cell>
+                            <cell>$97.00</cell>
+                            <cell>$0.00</cell>
+                            <cell>$97.00</cell>
+                        </row>
+                        <row>
+                            <cell>75 bus oats @.60 per bus</cell>
+                            <cell>$45.00</cell>
+                            <cell>$0.00</cell>
+                            <cell>$45.00</cell>
+                        </row>
+                        <row>
+                            <cell>25 bags .60 each</cell>
+                            <cell>$15.00</cell>
+                            <cell>$0.00</cell>
+                            <cell>$15.00</cell>
+                        </row>
+                        <row>
+                            <cell>1 rifle gun</cell>
+                            <cell>$30.00</cell>
+                            <cell>$0.00</cell>
+                            <cell>$30.00</cell>
+                        </row>
+                        <row>
+                            <cell>60 bus Corn @ 1.00</cell>
+                            <cell>$60.00</cell>
+                            <cell>$50.00</cell>
+                            <cell>$10.00</cell>
+                        </row>
+                        <row>
+                            <cell>50 bus Corn in Ear</cell>
+                            <cell>$25.00</cell>
+                            <cell>$0.00</cell>
+                            <cell>$25.00</cell>
+                        </row>
+                        <row>
+                            <cell>1 Black horse</cell>
+                            <cell>$50.00</cell>
+                            <cell>$0.00</cell>
+                            <cell>$50.00</cell>
+                        </row>
+                        <row>
+                            <cell>1 Three year old Colt</cell>
+                            <cell>$130.00</cell>
+                            <cell>$0.00</cell>
+                            <cell>$130.00</cell>
+                        </row>
+                    </table>
+                </p>
+            </div1>
+            <div1 type="claim_summary" id="d6">
+                
+                <p>Mr. Anderson resided on his farm near Staunton <abbr expan="Virginia">Va.</abbr>
+                    during the war. He had two sons in the Confederate service but he swears he did
+                    his best to get them to leave the Confederacy. He swears strongly to his own
+                    loyalty-&amp; is sustained by the testimony of Mr. N.K. Trout the Mayor of
+                    Staunton &amp; by one Daniel O'Rourke. -At the close of the War he was
+                    appointed by <abbr expan="General">Genl.</abbr> Canby <abbr expan="President"
+                        >Pres.</abbr> of the <abbr expan="Commissioners">Commrs</abbr> of Election
+                    and Justice of the Peace for Augusta.</p>
+                <p>On the whole we incline to hold him loyal; tho' not without hesitatation.</p>
+                <p>The evidence to show taking is the <del hand="h1">Claiment</del> claimant's <del hand="h1">&amp;
+                        his</del> daughter Mary. Mary seems like a fair &amp; honest witness,
+                    but her testimony gives no amounts of articles taken. She testifies only to Corn
+                    "taken in wagons," "bacon," "oats" The phrase "some Corn" is too indefinite to
+                    found any allowance upon. The party must prove his case-all indefinite testimony
+                    is to be taken <abbr expan="against">ag<hi rend="super">t</hi>.</abbr>
+                    him. It is fair to presume he would prove a better &amp; more definite claim
+                    if he could.</p>
+                <p>The black horse, Item 2, seems to be proved. As corn was taken in wagons, we may
+                    allow for two wagon loads-though it is very slender proof; but a voucher for
+                    Corn in the Ear sustains it. "Bacon," "Oats" too indefinite for any allowance.
+                    Rifle gun-probably stolen-no authority. Item 5. bags not proven. Items 9
+                    &amp; 10-The horse seems to have been an old one &amp; not fit for
+                    Cavalry service. Colt 3 yrs old &amp; not fit for Cavalry use. We can not
+                    think such animals taken by Authority for the use of the Army.</p>
+                <p><name type="other">A.O. Aldis</name><abbr expan="Commissioners">Commrs</abbr> of
+                    Claims</p>
+            </div1>
+            <div1 type="testimony" id="d7">
+                
+                <byline>Alexander Anderson</byline>
+                <p>United States of America, State of Virginia, SS</p>
+                <p>J.M.G. Riley a Commissioner selected and designated by the Commissioners of
+                    Claims appointed under the Act of Congress of March 3<hi rend="super"
+                    >rd</hi> 1871 to take and record testimony do hereby certify that the reason for
+                    taking the following depositions is and the fact is the matter of the Claim of
+                    Alexander Anderson vs. the United States of America and the witness herein named
+                    being first duly sworn answereth as follows witness says I am 66 years old, I
+                    reside in Augusta <abbr expan="County">Co.</abbr><abbr expan="Virginia"
+                    >Va.</abbr> I am a farmer by occupation. I resided at the same place for 6
+                    months previous to April 1<hi rend="super">st</hi> 1861, and at the same
+                    from April 1<hi rend="super">st</hi> 1861 to June 1<hi rend="super"
+                        >st</hi> 1865, occupation farming.</p>
+                <p>3<hi rend="super">d</hi> Witness says I never passed beyond the military
+                    lines of the <abbr expan="United States">U.S.</abbr> and enter the rebel lines.</p>
+                <p>4<hi rend="super">th</hi> Witness says I never took any oath to bear
+                    allegiance to the Confederacy. I took an Amnesty oath, after the close of the
+                    War in 1865, at Staunton, <abbr expan="Virginia">Va.</abbr> I never pardoned by
+                    the President, never asked for one.</p>
+                <p>6<hi rend="super">th</hi> Witness says-I never connected in any way with
+                    the civil service of the so called Confederate States.</p>
+                <p>7<hi rend="super">th</hi> Witness says-I never held any office or place of
+                    trust or honor or profit under the Confederate States. I never held a clerkship,
+                    or agency or employment of any kind whatsoever.</p>
+                <p>9<hi rend="super">th</hi> Witness says I never was <orig reg="in">in
+                    in</orig> any capacity in the military or naval service of the Confederacy.</p>
+                <p>10<hi rend="super">th</hi> Witness says I never held any office nor in, as
+                    sailor, soldier or Marine in the Confederacy. I never furnished a substitute. I
+                    was not connected with any department of the Confederate Government Army or
+                    Navy. I never had charge of stores, supplies teams, Wagons, vessels, or done any
+                    thing for the Confederacy.</p>
+                <p>11<hi rend="super">th</hi> Witness says I never was in the employment of
+                    the Confederate States I never <orig reg="gave">give</orig> any information to
+                    the officers or soldiers of the Confederacy.</p>
+                <p>12<hi rend="super">th</hi> Witness says I never manufactured any thing for
+                    the Confederate Government.</p>
+                <p>13<hi rend="super">th</hi> Witness says I never was directly or indirectly
+                    engaged in collectiong or impressing any stores or supplies for the use of the
+                    Confederate Government.</p>
+                <p>14<hi rend="super">th</hi> Witness says I never was engaged in blockade
+                    running or any interst in any goods or merchandise brought into or exported from
+                    any port of the Confederacy.</p>
+                <p>15<hi rend="super">th</hi> Witness says I did not leave the Confederate
+                    states during the war.</p>
+                <p>16<hi rend="super">th</hi> Witness says I had no interest in any Vessel
+                    used in navigation to or from any port of the Confederacy.</p>
+                <p>17<hi rend="super">th</hi> Witness says-I never was arrested by the
+                    Confederate Government, nor by the <abbr expan="United States">U.S.</abbr>
+                    Government.</p>
+                <p>18<hi rend="super">th</hi> Witness says he took Cattle, and Wheat, for the
+                    use of Confederate Army. I was paid for the Wheat. It was taken in 1863.</p>
+                <p>19<hi rend="super">th</hi> Witness says-I never was threatened directly,
+                    with damage, on account of my Union sentiments.</p>
+                <p>20<hi rend="super">th</hi> Witness says I never was molested except in the
+                    property taken from me.</p>
+                <p>21<hi rend="super">st</hi> Witness says I never done anything for the
+                    United States Government.</p>
+                <p>23<hi rend="super">d</hi> Witness says I had two sons in the Confederate
+                    Army. I had no relations in the Union Army. I did nothing to aid them. I tried
+                    my best to get my sons to leave the Confederacy.</p>
+                <p>24<hi rend="super">th</hi> Witness says He never owned a Confederate Bond
+                    or done anything to support the Credit of the Confederacy.</p>
+                <p>25<hi rend="super">th</hi> Witness says He never <orig reg="gave"
+                    >give</orig> aid comfort to the rebellion.</p>
+                <p>26<hi rend="super">th</hi> Witness says He never was engaged in making
+                    raids into the United States from Canada, nor in the destruction of the commerce
+                    of the <abbr expan="United States">U.S.</abbr></p>
+                <p>27<hi rend="super">th</hi> Witness says-I never was engaged in holding any
+                    prisoners of War.</p>
+                <p>28<hi rend="super">th</hi> Witness says I never belonged to any society for
+                    the purpose of the prosecution or persecution of any one.</p>
+                <p>29<hi rend="super">th</hi> Witness says I never was a paroled prisoner of
+                    the <abbr expan="United States">U.S.</abbr></p>
+                <p>30<hi rend="super">th</hi> Witness says I never held any office, nor
+                    educated at any Military or Naval school of the <abbr expan="United States"
+                    >U.S.</abbr></p>
+                <p>31<hi rend="super">st</hi> Witness says I never received a pass.</p>
+                <p>32 Witness says I never was under disabilities imposed by the 14<hi
+                        rend="super">th</hi><abbr expan="Amendment">Am<hi rend="super"
+                        >t</hi>.</abbr> of the Constitution. I was a Magistrate in Augusta by
+                    Military appointment since the war. I took the "Ironclad" Oath. I was also
+                    president of the Commissioners of election by appointment by <abbr
+                        expan="General">Genl.</abbr> Canby.</p>
+                <p>33<hi rend="super">d</hi> Witness says my sympathies were entirely with the
+                    United States. I did not vote at all on the secession. After the ordinance of
+                    secession was adopted I adhered to my Government the United States.</p>
+                <p>34<hi rend="super">th</hi> Witness says I do declare that from the
+                    beginning of the hostilities to the end thereof my sympathies were constantly
+                    with the Union cause, and was <hi rend="super"
+                    >always</hi><del hand="h1">al</del>ready and willing to aid and assist the <abbr
+                        expan="United States">U.S.</abbr> Government.</p>
+                <p>Further this deponent saith not. Sept. 4<hi rend="super">th</hi> 1871.</p>
+                <p>
+                    <name type="claimant">Alexander Anderson</name>
+                </p>
+                <p>Sworn to &amp; subscribed before me the day of Sept. 1871</p>
+                <p>United States Commissioner and Special <abbr expan="Commissioner">Comr</abbr> for
+                    State of <abbr expan="Virginia">Va.</abbr></p>
+            </div1>
+            <div1 type="testimony" id="d8">
+                
+                <byline>Mary E. Huppman</byline>
+                <p>Mary E. Huppman, a witness introduced to prove the taking of the property,
+                    charged in Claimants petition and being duly sworn answers as follows.</p>
+                <p>1<hi rend="super">st</hi> Witness says I am 24 years old, I reside in
+                    Augusta <abbr expan="County">Co.</abbr><abbr expan="Virginia">Va.</abbr>
+                    Housekeeper by occupation.</p>
+                <p>I was present when the articles named in the petition.</p>
+                <p>2<hi rend="super">d</hi> Witness says I saw the property taken. Some Corn,
+                    One black horse, Bacon, Oats, One Rifle gun. I don't remember the Bags. I saw
+                    Corn taken in the ear, &amp; one Colt.</p>
+                <p>4<hi rend="super">th</hi> Witness says the property was taken by United
+                    States soldiers, in the command of <abbr expan="General">Genl.</abbr> Hunter, in
+                    1864 from my father's (the claimant) farm.</p>
+                <p>5<hi rend="super">th</hi> Witness says My mother and brother were present
+                    when the property was taken.</p>
+                <p>6<hi rend="super">th</hi> Witness says Officers and soldiers both present
+                    at the taking.</p>
+                <p>7<hi rend="super">th</hi> Witness says the Colt was taken out of the
+                    stable, and one horse from the field and one out of the road. The soldiers
+                    wanted to take all the horses on the farm but the Officers would not let them.</p>
+                <p>8<hi rend="super">th</hi> Witness says the Corn was carried in Wagons, and
+                    the soldiers led the Horses.</p>
+                <p>9<hi rend="super">th</hi> Witness says the property was taken to Staunton,
+                        <abbr expan="Virginia">Va.</abbr></p>
+                <p>10<hi rend="super">th</hi> Witness says I suppose the property was taken
+                    for the use of the Army.</p>
+                <p>11<hi rend="super">th</hi> Witness says My father and mother complained
+                    about the taking. I do not remember the name of the officer present.</p>
+                <p>12<hi rend="super">th</hi> Witness says there was no receipt asked or given
+                    that I recollect.</p>
+                <p>13<hi rend="super">th</hi> Witness says the property was taken publicly in
+                    the day time. The horses in the fore, and the other property in the afternoon.</p>
+                <p>14<hi rend="super">th</hi> Witness says When the property was taken the
+                    Army was encamped at Staunton, <abbr expan="Virginia">Va.</abbr><abbr
+                        expan="General">Genl.</abbr> Hunter was the Commandant. The Army encamped at
+                    Staunton, on the 6<hi rend="super">th</hi> of June '65, and left the 10<hi
+                        rend="super">th</hi>. There had been a battle at Piedmont a few days
+                    previous.</p>
+                <p>15<hi rend="super">th</hi> Witness says the Corn was all good, The horse
+                    (black) was in good condition, so were the other horses. The Bacon was good, as
+                    was all the property. I think Corn, was worth a dollar a bushel, being a lady I
+                    do not know the prices of such property, but I would think that the charges
+                    named in the petition were fair and reasonable.</p>
+                <p>19<hi rend="super">th</hi> Witness says I think the property named in the
+                    claimants petition was taken for the use of the Army and not for soldiers or
+                    officers gratification.</p>
+                <p>20<hi rend="super">th</hi> Witness says I suppose the property was needed
+                    by the Army, but do not know.</p>
+                <p>21<hi rend="super">st</hi> Witness says the officers forbid the soldiers
+                    from taking all the horses.</p>
+                <p>22<hi rend="super">d</hi> Witness says I think the Government ought to pay
+                    for the property.</p>
+                <p>23<hi rend="super">d</hi> Witness says I think they had authority to take
+                    the property and acted under orders.</p>
+                <p>Further this deponent saith not. September 1<hi rend="super">st</hi> 1871.</p>
+                <p>
+                    <name type="witness">Mary E. Hupman</name>
+                </p>
+                <p>Sworn to &amp; Subscribed before me the day of September 1871.</p>
+                <p>United States Commissioner and Special <abbr expan="Commissioner">Comr</abbr> for
+                    State of <abbr expan="Virginia">Va.</abbr></p>
+            </div1>
+            <div1 type="testimony" id="d9">
+                
+                <byline>Samuel Jackson</byline>
+                <p>Samuel Jackson, a witness introduced by claimant to prove the taking and the
+                    value of the property named in the petition, being duly sworn answers as
+                    follows.</p>
+                <p>1<hi rend="super">st</hi> Witness says-I am 40 years old, I reside in
+                    Augusta <abbr expan="County">Co.</abbr><abbr expan="Virginia">Va.</abbr> I am a
+                    Cooper by Trade. I was not present when the property was taken. There was a
+                    black horse about 5 years old, worth $250.00. I know nothing about the Bacon,
+                    nor Oats, nor Rifle Gun, nor Bags, nor Corn, the black horse old, but worth
+                    $150.00. The <orig reg="filly">Filley</orig> 3 years old was worth about $200.</p>
+                <p>4<hi rend="super">th</hi> Witness says the property was taken from the
+                    Claimants farm, in 1864, by soldiers and officers of the <abbr
+                        expan="United States">U.S.</abbr> Army <pb n="12"/> under the command of
+                        <abbr expan="General">Genl.</abbr> Hunter, the horses were all in good
+                    condition, and low at the prices charged by the claimant.</p>
+                <p>Further this deponent saith not. September 4<hi rend="super">th</hi> 1871.</p>
+                <p><name type="witness">Samuel Jackson</name> his mark</p>
+                <p>Sworn to and subscribed before me this day of September 1871.</p>
+                <p>United States Commissioner and Special <abbr expan="Commissioner">Comr</abbr> for
+                    State of <abbr expan="Virginia">Va.</abbr></p>
+            </div1>
+            <div1 type="testimony" id="d10">
+                
+                <byline>Daniel O'Rourke</byline>
+                <p>Daniel ORorke a witness introduced by claimant to his loyalty to the United
+                    States being duly sworn answers as follows.</p>
+                <p>1<hi rend="super">st</hi> Witness says- I am about 45 years old, I reside
+                    in Augusta <abbr expan="County">Co.</abbr><abbr expan="Virginia">Va.</abbr> I am
+                    a farmer by occupation. I have known the claimant 10 years or more, I saw him
+                    frequently during the war, and talked with him about the war, and I had no doubt
+                    of his loyalty to the <abbr expan="United States">U.S.</abbr> Government and so
+                    far as I know his neighbors so regarded him. I regarded him as truly loyal to
+                    the United States Government.</p>
+                <p>Further this deponent saith not. Sept. 4<hi rend="super">th</hi> 1871.</p>
+                <p>
+                    <name type="witness">Danl O Rourke</name>
+                </p>
+                <p>Sworn to &amp; subscribed before me this day of September 1871.</p>
+                <p>United States Commissioner and Special <abbr expan="Commissioner">Comr</abbr> for
+                    State of Virginia</p>
+            </div1>
+            <div1 type="testimony" id="d11">
+                
+                <byline>Nicholas K. Trout</byline>
+                <p>Nicholas K. Trout (Mayor of Staunton City) a witness introduced by the claimant
+                    to prove his loyalty to the <abbr expan="United States">U.S.</abbr> Government
+                    being duly sworn answers as follows.</p>
+                <p>1<hi rend="super">st</hi> Witness says I am 52 years old. I reside in
+                    Staunton, <abbr expan="Virginia">Va.</abbr> By profession a lawyer and Mayor of
+                    the City. I have known the claimant 30 years, I talked with him often during the
+                    war, and he was an avowed Union <hi rend="super">man</hi>, never
+                    concealing his sentiments to any one. And was so regarded by all who knew him
+                    <del rend="none" hand="h1"></del> opinions in that he was so bold in expressing his sentiments that he
+                    could not have established any claim of loyalty to the Confederacy, had it
+                    succeeded. Further this deponent saith not.</p>
+                <p>Sept. 4<hi rend="super">th</hi> 1871.</p>
+                <p>
+                    <name type="witness">N.K. Trout</name>
+                </p>
+                <p>Sworn to and subscribed before me this day of September 1871.</p>
+                <p>United States Commissioner and Special <abbr expan="Commissioner">Comr</abbr> for
+                    State of Virginia</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

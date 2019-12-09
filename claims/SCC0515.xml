@@ -1,0 +1,441 @@
+<?xml version="1.0"?>
+
+<?dlps id="SCC0515"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 id="SCC0515">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Southern Claims Commission: Claim of Frederick K.
+                    Kline, 1871, Claim No. 2580</title>
+        <title type="sort">southern claims commission claim of frederick k kline, 1871 claim no 2580</title>
+        <author>Kline, Frederick K.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name>Jamie Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca.<num type="kilobytes"> 20 </num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">SCC0515</idno>
+        <!--
+                <availability>
+                    <p>Publicly accessible</p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2006, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2006">2006</date>
+            <idno type="uva-pid">uva-lib:498402</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title type="main">Southern Claims Commission: Claim of Frederick K. Kline,
+                            1871, Claim No. 2580</title>
+            <title level="m"/>
+            <title type="sort">southern claims commission claim of frederick k kline, 1871 claim no 2580</title>
+            <author>Frederick K. Kline</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives, College Park,
+                            RG 217, claim #2580</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1871">1871</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+        <hand id="h1"/>
+      </handList>
+            <textClass>
+                <keywords>
+                    <term>Agriculture, Home Front, Patriotism, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="SCC0515T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                
+                <p>Frederick K. Kline filed this claim in 1871 for $895, claiming the Union army
+                    took three horses, two cows and eleven cattle in 1864. Frederick was a 43 year
+                    old farmer who spent 5 weeks in Indiana to avoid Confederate service and was
+                    threatened by Confederate neighbors because of his Unionist sentiments. The
+                    commission allowed $568.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="claim_items" id="d5">
+                
+                <p>
+                    <table>
+                        <row>
+                            <cell>
+                                <hi rend="bold">Item Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Allowed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Disallowed:</hi>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>One Bay Mare</cell>
+                            <cell>$125.00</cell>
+                            <cell>$100.00</cell>
+                            <cell>$25.00</cell>
+                        </row>
+                        <row>
+                            <cell>1 Brown Mare</cell>
+                            <cell>$175.00</cell>
+                            <cell>$0.00</cell>
+                            <cell>$175.00</cell>
+                        </row>
+                        <row>
+                            <cell>2 Gray Mares</cell>
+                            <cell>$240.00</cell>
+                            <cell>$200.00</cell>
+                            <cell>$40.00</cell>
+                        </row>
+                        <row>
+                            <cell>2 Milk Cows</cell>
+                            <cell>$80.00</cell>
+                            <cell>$70.00</cell>
+                            <cell>$10.00</cell>
+                        </row>
+                        <row>
+                            <cell>11 head Young Cattle</cell>
+                            <cell>$275.00</cell>
+                            <cell>$198.00</cell>
+                            <cell>$77.00</cell>
+                        </row>
+                    </table>
+                </p>
+            </div1>
+            <div1 type="claim_summary" id="d6">
+                
+                <p>The loyalty of Claimaint is established by his own Statements under Oath and the
+                    testimony of B.F. Wampler and Samuel Click to loyal Acts, Conversations, and
+                    reputation of Claimant And to his adherence to the Cause of the Union throughout
+                    the war.</p>
+                <p>Property was taken in the fall of 1864 by soldiers of <abbr expan="General"
+                    >Gen</abbr> Sheridan's Command. The taking of the Brown horse is not proved
+                    except referentially and we disallow the claim.</p>
+                <p>We allow five hundred and sixty eight dollars.</p>
+                <p><name type="other">A.O. Aldis</name>, <name type="other">JB Howell</name><abbr
+                        expan="Commissioners">Commrs</abbr> of Claims</p>
+            </div1>
+            <div1 type="testimony" id="d7">
+                
+                <byline>Frederick K. Kline to prove loyalty</byline>
+                <p>I am 43 years old. I reside in Augusta Co V<hi rend="super">a</hi>. I am a
+                    farmer. Have lived where I now am for fifteen years.</p>
+                <p>3. Witness says: I went to Indiana in 1861 &amp; came back to my home in
+                    about 5 weeks. I worked on a far while there.</p>
+                <p>4. Witness says: I never took an oath of allegiance to the <abbr
+                        expan="Confederate">Confed.</abbr><abbr expan="Government">Govt</abbr>.</p>
+                <p>5. Witness says: I took the amnesty oath in 1865 at Staunton V<hi
+                        rend="super">a</hi>. All were required to take it. I have never been
+                    pardoned by the <abbr expan="President">Presdt</abbr>.</p>
+                <p>6. Witness says, I never was directly nor indirectly connected with the civil
+                    service of the <abbr expan="Confederate">Confed.</abbr> States.</p>
+                <p>7. Witness says, I never held any office or place of honor profit or trust under
+                    the <abbr expan="Confederate">Confed</abbr> States.</p>
+                <p>8. Witness says, I never held any clerkship agency or employment of any kind
+                    under the <abbr expan="Confederate">Confed</abbr> States.</p>
+                <p>9. Witness says, I never was in any capacity in the military or Naval service of
+                    the <abbr expan="Confederate">Confed.</abbr> States.</p>
+                <p>10. Witness says: I never was an officer, soldier, sailor or Marine in either the
+                    army or navy of the <abbr expan="Confederate">Confed.</abbr> States. I furnished
+                    a substitute for the <abbr expan="Confederate">Confed.</abbr> Army. Never was in
+                    any way connected with any department of the <abbr expan="Confederate"
+                        >Confed</abbr><abbr expan="Government">Govt</abbr>. Never had charge of any
+                    stores, supplies or goods of any kind for the <abbr expan="Confederate"
+                        >Confed.</abbr><abbr expan="Government">Govt</abbr>. Nor any teams wagons or
+                    wagon trains. My team was impressed once, &amp; I went part of the time with
+                    it.</p>
+                <p>11. Witness says, I never was directly nor indirectly employed in the manufacture
+                    of munitions of war, shoes, clothing or goods of any kind for the <abbr
+                        expan="Confederate">Confed.</abbr><abbr expan="Government">Govt.</abbr>
+                    &amp; had no interest or share in any.</p>
+                <p>12. Witness says, I never was in any service or employment of any kind under the
+                        <abbr expan="Confederate">Confed.</abbr><abbr expan="Government"
+                    >Govt</abbr>. Never furnished any aid or supplies, or gave any information to
+                    any officer soldier sailor or Marine of the Confederate States.</p>
+                <p>13. Witness says, I never was directly nor indirectly employed in the collection
+                    or impressment of stores or supplies of any kind for the <abbr
+                        expan="Confederate">Confed</abbr><abbr expan="Government">Govt</abbr>, nor
+                    aided others in so doing.</p>
+                <p>14. Witness says, I never was engaged in blockade running or illicit traffic
+                    between the lines, &amp; had no interest therein.</p>
+                <p>15. Witness says, I left the <abbr expan="Confederate">Confed.</abbr> States in
+                    1861 &amp; went to <orig reg="Indiana">Indianna</orig> to avoid the war.
+                    Stayed about 5 weeks, &amp; returned to my home in Augusta <abbr
+                        expan="County">Co.</abbr><abbr expan="Virginia">V<hi rend="super"
+                        >a</hi></abbr>. worked on a farm while in <orig reg="Indiana"
+                    >Indianna</orig>.</p>
+                <p>16. Witness says, I was neither the owner nor part owner of any vessel engaged in
+                    navigating to or from any port of the Confederacy.</p>
+                <p>17. Witness says, I never was arrested by either the <abbr expan="United States"
+                        >U.S.</abbr> or Confederate <abbr expan="governments">Govts</abbr>.</p>
+                <p>18. Witness says, I had no property taken by the <abbr expan="Confederate"
+                        >Confed</abbr><abbr expan="Government">Govt</abbr>.</p>
+                <p>19. Witness says, I was threatened while I was west. Some of my neighbors
+                    threatened to sell my property, because I was a union man.</p>
+                <p>21. Witness says: I never contributed any thing to the <abbr
+                        expan="United States">US</abbr><abbr expan="Government">Govt.</abbr> except
+                    I helped men through the lines to go north.</p>
+                <p>23. Witness says, I had no near relatives in either the Union or <abbr
+                        expan="Confederate">Confed</abbr> armies.</p>
+                <p>24. Witness says, I have never owned any <abbr expan="Confederate">Confed.</abbr>
+                    bonds, nor done any thing to support the credit of the <abbr expan="Confederate"
+                        >Confed.</abbr> States.</p>
+                <p>25. Witness says, I have never given aid or comfort to the rebellion.</p>
+                <p>26. Witness says I never was engaged in raiding into the <abbr
+                        expan="United States">U.S.</abbr> nor in destroying its commerce.</p>
+                <p>27. Witness says, I never was engaged in holding in custody persons taken as
+                    prisoners of war by the <abbr expan="Confederate">Confed.</abbr><abbr
+                        expan="Government">Govt</abbr>.</p>
+                <p>28. Witness says, I never was a member of any society for the persecutuion or
+                    imprisonment of any person on account of Union sentiments &amp; never
+                    assisted in such acts.</p>
+                <p>29. Witness says I never was a paroled prisoner of the <abbr
+                        expan="United States">U.S.</abbr></p>
+                <p>30. Witness says: Never held any office in either the Army or Navy of the <abbr
+                        expan="United States">U.S.</abbr> was not educated either at West Point or
+                    the Naval Academy.</p>
+                <p>31. Witness says: I <abbr expan="received">recd</abbr> a pass from the <abbr
+                        expan="Confederate">Confed.</abbr><abbr expan="Government">Govt.</abbr> to
+                    come from <abbr expan="Richmond">Richd.</abbr> home. I had been selling stock to
+                    a <unclear>Dom:</unclear> Merchant. I took no oath to get the pass.</p>
+                <p>32. Witness says: I am not &amp; never have been under any disabilities
+                    imposed by the 14th amendment of the Constitution. Have not held any office
+                    under the <abbr expan="United States">U.S.</abbr> since the war.</p>
+                <p>33. Witness says, At the beginning of the war, I <orig reg="sympathized"
+                        >sympathised</orig> with the cause of the Union. I did not vote either for
+                    or against the ordinance of secession. After its adoption I adhered to the cause
+                    of <del hand="h1">
+                        <del rend="none" hand="h1"></del>
+                    </del> the Union &amp; did not go with my State.</p>
+                <p>34. Witness says, I was ready &amp; willing at all times to aid the cause of
+                    the Union, so far as my circumstances permitted, &amp; further this deponent
+                    saith not. Oct 4th 1871.</p>
+                <p>
+                    <name type="claimant">Frederick R. Cline</name>
+                </p>
+                <p>Sworn to &amp; subscribed before me this 4th day of Oct. 1871.</p>
+                <p><name type="other">WG Riley</name> United States Commissioner and Special <abbr
+                        expan="Commissioner">Com</abbr> for State of <abbr expan="Virginia">V<hi
+                            rend="super">a</hi></abbr>.</p>
+            </div1>
+            <div1 type="testimony" id="d8">
+                
+                <byline>Samuel Glick</byline>
+                <p>Deposition of Samuel Glick to prove taking property.</p>
+                <p>1. Witness says: I am 47 years old. I reside in Augusta Co. V<hi
+                        rend="super">a</hi>. I am a farmer. I was present &amp; saw some
+                    of the property mentioned in the claimants petition taken.</p>
+                <p>4. Witness says, The property was taken in 1864 from the farm of the claimant, by
+                    officers &amp; soldiers of the Union Army under <abbr expan="command"
+                    >Comd.</abbr> of <abbr expan="General">Gen<hi rend="super">l</hi></abbr>
+                    Sheridan.</p>
+                <p>6. Witness says: I have no doubt there were officres present, the whole army was
+                    there.</p>
+                <p>15. Witness says, I saw item #4, 2 cows taken, were worth $40.00 each. Item #5,
+                    11 young cattle, were worth $25.00 each 2 1/2 years old, they were all in good
+                    condition &amp; firm stock, &amp; were taken by Genl Sheridans army.</p>
+                <p>19. Witness says: The property was taken for use of the <abbr
+                        expan="United States">U.S.</abbr> Army, &amp; not for private use.</p>
+                <p>22. Witness says, I think the property was taken for the necessary use of the
+                        <abbr expan="Government">Govt.</abbr> &amp; ought to be paid for.</p>
+                <p>23. Witness say, I think those who took the property had authority to take it, or
+                    order it taken, &amp; further this deponent sayeth not. Oct. 4th 1871.</p>
+                <p>
+                    <name type="witness">Samuel Glick</name>
+                </p>
+                <p>Sworn to &amp; subscribed before me this 4th day of Oct. 1871.</p>
+                <p><name type="other">WG Riley</name> United States Commissioner and Special <abbr
+                        expan="Commissioner">Comr</abbr> for State of <abbr expan="Virginia">V<hi
+                            rend="super">a</hi></abbr>.</p>
+            </div1>
+            <div1 type="testimony" id="d9">
+                
+                <byline>Emma C. Cline</byline>
+                <p>Deposition of Miss Emma C. Cline to prove taking of the property.</p>
+                <p>1. Witness says I am 18 years old. I reside in Augusta <abbr expan="County"
+                        >Co</abbr><abbr expan="Virginia">V<hi rend="super">a</hi></abbr>. I am
+                    a Lady. I was present &amp; saw four horses taken, mentioned in the
+                    claimants petition.</p>
+                <p>4. Witness says The horses were taken 29th day of Sept. 1864, from the farm of
+                    the claimant, by officers &amp; soldiers of the Union Army under <abbr
+                        expan="command">comd.</abbr> of <abbr expan="General">Genl.</abbr> Sheridan.</p>
+                <p>6. Witness says: There was an officer present. I did not know his name rank or
+                        <abbr expan="regiment">regt</abbr>. The Soldiers said the officer ordered
+                    the property to be taken.</p>
+                <p>7. Witness says, The soldiers drove the horses off as far as I could see.</p>
+                <p>9. Witness says, The army was marching by. I do not know where the horses were
+                    taken.</p>
+                <p>10. Witness says: I do not know for what use the property was taken.</p>
+                <p>15. Witness says, The horses were all in good condition except one. Item #1, one
+                    mare, don't know her age or worth. Item #2, I did not see taken, but I know it
+                    was taken. Item #3, 2 mares, don't know their ages or worth, the bay mare I
+                    think was 4 years old. Saw no other property taken mentioned in the claimants
+                    petition.</p>
+                <p>19. Witness says, I think the property was taken for the use of the <abbr
+                        expan="United States">U.S.</abbr> Army, &amp; not for private use.</p>
+                <p>22. Witness says, I think the property was taken for the necessary use of the
+                        <abbr expan="Government">Govt.</abbr> &amp; ought to be paid for.</p>
+                <p>23. Witness says: Those who took the property said they had orders to take it,
+                    &amp; further this deponent sayeith not. Oct. 4th 1871.</p>
+                <p>
+                    <name type="witness">Emma Cline</name>
+                </p>
+                <p>Sworn to &amp; subscribed before me this 4th day of Oct. 1871.</p>
+                <p><name type="other">WG Riley</name> United States Commissioner and Special <abbr
+                        expan="Commissioner">Comr</abbr> for State of <abbr expan="Virginia">V<hi
+                            rend="super">a</hi></abbr>.</p>
+            </div1>
+            <div1 type="testimony" id="d10">
+                
+                <byline><abbr expan="Benjamin">Benj.</abbr> F. Wampler</byline>
+                <p>Deposition of <abbr expan="Benjamin">Benj.</abbr> F. Wampler to prove loyalty.</p>
+                <p>1. Witness says, I am 37 years old I reside in Augusta <abbr expan="County"
+                        >Co</abbr><abbr expan="Virginia">V<hi rend="super">a</hi></abbr>. I am
+                    a farmer. I have known the claimant 15 years. Live near him. Saw him very often
+                    during the war. Talked with him about the war. I regarded him as loyal to the
+                    U.S. <abbr expan="Government">Govt.</abbr> &amp; he was so regarded by his
+                    neighbors. He talked &amp; acted that way at any rate. I do not know that he
+                    ever did anything for the <abbr expan="United States">U.S.</abbr><abbr
+                        expan="Government">Govt</abbr>. I do not know that he ever did anything for
+                    the rebel <abbr expan="government">Govt</abbr>, except by compulsion, he
+                    preferred to let private individuals have his property rather than the <abbr
+                        expan="Confederate">Confed.</abbr><abbr expan="Government">Govt</abbr>. The
+                    Confederates threatened to tar &amp; feather him on account of his Union
+                    sentiments he went west &amp; came back.</p>
+                <p>I think he was too loyal to the <abbr expan="United States">U.S.</abbr><abbr
+                        expan="Government">Govt</abbr> to have made a loyal citizen to the <abbr
+                        expan="Confederate">Confed</abbr><abbr expan="Government">Govt</abbr>, had
+                    it <orig reg="succeeded">suceeded</orig>. He told me he could not &amp;
+                    would not live in the <abbr expan="Confederacy">Confed</abbr> if it <orig
+                        reg="succeeded">suceeded</orig>. He inteded to move away &amp; further
+                    this deponent sayeth not. Oct. 4th 1871.</p>
+                <p>
+                    <name type="witness">Benjamin F Wampler</name>
+                </p>
+                <p>Sworn to &amp; subscribed before me this 4th day of Oct. 1871.</p>
+                <p><name type="other">WG Riley</name> United States Commissioner and Special <abbr
+                        expan="Commissioner">Comr</abbr> for State of <abbr expan="Virginia">V<hi
+                            rend="super">a</hi></abbr>.</p>
+            </div1>
+            <div1 type="testimony" id="d11">
+                
+                <byline>Samuel Glick</byline>
+                <p>Deposition Samuel Glick to prove loyalty.</p>
+                <p>1. Witness says: I am 47 years old I reside in Augusta <abbr expan="County"
+                        >Co.</abbr><abbr expan="Virginia">V<hi rend="super">a</hi></abbr>. I
+                    am a farmer. I have known the claimant 30 years. Live half mile from him. Saw
+                    him often &amp; talked with him about the war. I regarded him as loyal to
+                    the <abbr expan="United States">U.S.</abbr><abbr expan="Government">Govt</abbr>,
+                    &amp; he was so regarded by his neighbors. Never knew him to do anything for
+                    either the <abbr expan="United States">U.S.</abbr> or Confederate <abbr
+                        expan="Governments">Govts</abbr>. The Confederates came to his house one
+                    night &amp; threatened to tar &amp; feather him on account of his union
+                    sentiments. They threatened to confiscate his property after he returned from
+                    the north. I think he was too loyal to the <abbr expan="United States"
+                        >U.S.</abbr><abbr expan="Government">Govt</abbr> to have made a loyal
+                    citizen to the <abbr expan="Confederate">Confed.</abbr><abbr expan="Government"
+                        >Govt</abbr> had it succeeded. He would have left the state, &amp;
+                    further this deponent sayeth not. Oct 4th 1871.</p>
+                <p>
+                    <name type="witness">Samuel Glick</name>
+                </p>
+                <p>Sworn to &amp; subscribed before me this 4th day of Oct. 1871.</p>
+                <p><name type="other">WG Riley</name> United States Commissioner and special <abbr
+                        expan="Commissioner">Comr</abbr> for State of <abbr expan="Virginia">V<hi
+                            rend="super">a</hi></abbr>.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

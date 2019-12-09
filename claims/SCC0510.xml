@@ -1,0 +1,563 @@
+<?xml version="1.0"?>
+
+<?dlps id="SCC0510"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 id="SCC0510">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Southern Claims Commission: Claim of Harriet Doom,
+                    1879, Claim No. 16243</title>
+        <title type="sort">southern claims commission claim of harriet doom, 1879 claim no 16243</title>
+        <author>Doom, Harriet</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name>Elizabeth Ladner</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca.<num type="kilobytes"> 27 </num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">SCC0510</idno>
+        <!--
+                <availability>
+                    <p>Publicly accessible</p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2006, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2006">2006</date>
+            <idno type="uva-pid">uva-lib:498397</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title type="main">Southern Claims Commission: Claim of Harriet Doom, 1879,
+                            Claim No. 16243</title>
+            <title level="m"/>
+            <title type="sort">southern claims commission claim of harriet doom, 1879 claim no 16243</title>
+            <author>Harriet Doom</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives, Washington
+                            D.C., fiche #3977</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1879">1879</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+        <hand id="h1"/>
+      </handList>
+            <textClass>
+                <keywords>
+                    <term>Patriotism, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="SCC0510T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Harriet Doom filed this claim in 1879 for $150, claiming the Union army took on
+                    horse from her deceased husband Jacob Coffman in 1864 after the battle of the
+                    Piedmont. Harriet was a 31 year old who had remarried to George Doom, a
+                    Unionist, and resided near New Hope. The claim was disallowed due to her
+                    deceased husband's disloyalty to the Union.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="claim_items" id="d5">
+                <p>
+                    <table>
+                        <row>
+                            <cell>
+                                <hi rend="bold">Item Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Allowed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Disallowed:</hi>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>1 Bay Mare 7 years Old</cell>
+                            <cell>$150.00</cell>
+                            <cell>$0.00</cell>
+                            <cell>$150.00</cell>
+                        </row>
+                    </table>
+                </p>
+            </div1>
+            <div1 type="claim_summary" id="d6">
+                <p>The Mare for which this claim is made belonged to Jacob Cauffman of Augusta <abbr
+                        expan="County">Co.</abbr><abbr expan="Virginia">Va.</abbr> The claimant was
+                    then his wife. He died in 1869 &amp; she married a man named Doom. Caufman
+                    was unquestionably disloyal. When the ordinance of secession was submitted to
+                    the people of <abbr expan="Virginia">Va.</abbr> May 23, 1861 he voted for its
+                    ratification. The claim is disallowed.</p>
+                <p>
+                    <name type="other">A O Aldis</name>
+                    <name type="other">O. Ferriss</name>
+                </p>
+                <p><abbr expan="Commissioners">Comm</abbr> of Claims</p>
+            </div1>
+            <div1 type="testimony" id="d7">
+                <byline>Harriet Doom</byline>
+                <p>My name is <hi rend="underline">Harriet Doom</hi>, my age <hi rend="underline"
+                    >31</hi> years, my residence <hi rend="underline">New Hope Augusta <abbr
+                            expan="County">Co.</abbr></hi>, in the State of <hi rend="underline"
+                        >Virginia</hi>, and my occupation a ____, I am the claimant, and have
+                    beneficial interest in the claim.</p>
+                <p>I was the widow of Jacob Coffman Sr. He died in March 1869. He was a Union man. I
+                    have <del hand="h1">four</del><add hand="h1" place="inline">3</add> children by Mr Coffman my first husband. Jacob
+                    Jr., 8 years old, John Samuel, <del hand="h1">Wm H.</del> 6 years old next october, W.
+                    Henry 4 years old. My husband left a will but he named no Executor and Mr.
+                    Samuel Kennedy qualified in May 1869 as Administrator. I think he was named as
+                    executor in the will. He died not file this petition because he said he was a
+                    southern man and wouldnt have anythin to do with it. I told him to make the
+                    claim and he just laughed at it. I saw the mare charged taken. It was the day
+                    after the Piedmont fight in June 1864, about 7 oclock in the morning. She was
+                    hitched to a cherry tree not 5 yards from our house and a mar came in from the
+                    road and took her out to a colonel who was waiting in the road about 100 yards
+                    from my house, when he reached the <abbr expan="Colonel">Col</abbr>, a saddle
+                    and bridle was put on our horse and the Colonel got on
+                    <del hand="h1">him</del><add hand="h1" place="inline">her</add> himself and rode up to my gate and backwards and
+                    forwards in front of my house and she frequently neighed to come in. His army
+                    was there several hours. It was 3 o'clock in the afternoon before they left. I
+                    don't know the name of the Colonel. I don't know whether he belonged to a
+                    Cavalry, Infantry, Command, I did not go out of my house. <del hand="h1">I was of me</del>
+                    My husband, myself and a step-grandson saw the horse taken. Noone else saw the
+                    horse taken. My Grandson who was present then is now out in Kansas. It was a
+                    dark bay with a blaze face about 7 years old, She was a tolerable large brute,
+                    she was sound and a good beast too as ever lived. She was worth $150, at that
+                    time, I got no receipt we did not ask for any, we were confused and scared, I
+                    saw the Col on our mare. I knew he was some officer by his uniform, I know no
+                    more about it. Further saith not</p>
+                <p><name type="claimant">Harriet D. Doom</name> her mark</p>
+            </div1>
+            <div1 type="testimony" id="d8">
+                <byline>Isaac Coffman</byline>
+                <p>Issac Coffman, a witness for claim being duly affirmed and examined by <abbr
+                        expan="Commissioner">Com<hi rend="super">mr.</hi></abbr> deposes and
+                    says,</p>
+                <p>I am 44 years old, a resident of Augusta County, Va., a farmer by occupation. The
+                        <abbr expan="deceased">dec'd</abbr> on behalf of whose estate this claim is
+                    made was an uncle of mine, I am no interested in this claim. I lived about a 1/4
+                    of a mile from him during the war, I saw him often about once a week during the
+                    war, I talked with him often about the war, its causes and progress, I knew his
+                    political sympathies and opinions, His sentiments was Union sentiments, I knew
+                    them by his conversation, I know that he was very much opposed to the rebellion
+                    all the time it was going on, I don't know that I remmeber what he said. I heard
+                    him say in the <unclear>evening</unclear> after the vote on the ratification of
+                        <add hand="h1" place="inline">the Ordinance of</add> secession, <unclear>doesn't</unclear> we've got
+                    to do the way they want us to do. I judged from that that he <del hand="h1">was</del> had
+                    voted for secession, I think he was scared into it. I never knew him to
+                    contribute anything in aid of either <abbr expan="government">gov't</abbr>
+                    during the war. I never knew him to own any Confederate bonds or to do anything
+                    to sustain the credit of the Confederacy. I knew his <del hand="h1">
+                        <unclear>fastibule</unclear>
+                    </del> general reuptation in the community to loyalty it was good as far as I
+                    knew. He was generally regarded as a Union man. He was so regarded by his loyal
+                    neighbors, I never knew him to be molested or threatened with injury on account
+                    of his Union sentiments. I was a Union man during the war and the claimant so
+                    regarded me. I <orig reg="know">no</orig> of nothing he said or done during the
+                    war that might <del hand="h1">prev</del> have prevented him from proving his loyalty to
+                    the Confederacy if it had been able to maintain a seperate <abbr
+                        expan="government">gov't</abbr>. and further saith not</p>
+                <p>
+                    <name type="witness">Isaac Coffman</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d9">
+                <byline>Henry K. Eakle</byline>
+                <p>Henry K. Eakle a witness for <abbr expan="claimant">clt.</abbr> being duly sworn
+                    and examined by Commissioner deposes and says, I am 53 years old a resident of
+                    Augusta County, a Farmer. I am not related to Mr. Coffman the <abbr
+                        expan="deceased">dec<hi rend="super">d</hi></abbr>, I have <del hand="h1">I
+                    have</del> no interest in this claim. I had know Mr Coffman all my life. I lived
+                    about half a mile from him during the war, I saw him every week or two on
+                    average. I think I talked with him about the war, the causes and progress, I
+                    knew his political sympathies and opinons, it was as good a Union man any of us,
+                    I was a Union man and the <del hand="h1">clai</del><abbr expan="deceased">dec<hi
+                            rend="super">d</hi></abbr> could not well help regarding me as
+                    such. I have heard him abuse the Confederacy, but I don't remember the substance
+                    of what I heard him on. I never heard him threatened with injury on account of
+                    his Union sentiments. I never knew him to contribute any money or property
+                        <add hand="h1" place="inline">or information</add> in aid of either Cause during the war; I
+                        <del hand="h1">never t</del> have no knowledge of his owning or not owning
+                    <del hand="h1">any</del> Confederate bonds or doing any thing to sustain the credit of the
+                    Confederate <abbr expan="Government">Govt.</abbr> I know of no act done or
+                    language used, except what I have already said, that <del hand="h1">would</del> might have
+                    prevented <del hand="h1">the claimant</del><add hand="h1" place="inline">him</add> from proving his loyalty to the
+                    Confederate Govt if it had been able to maintain a seperate existence. Further
+                    said not.</p>
+                <p>
+                    <name type="witness">Henry K. Eakle</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d10">
+                <byline>J.H. Baker</byline>
+                <p>Bakers Mill, <abbr expan="Virginia">Va</abbr><lb/>May 2<hi rend="super"
+                    >d</hi>, 1878</p>
+                <p>Hon. John J. Harris,</p>
+                <p>Dear Sir,</p>
+                <p>Enclosed please find a postal card addressed to me from Mr. Doom the case is
+                    this, Mr. Dooms wife filed a claim for a horse taken by the Federal Army during
+                    the late war this horse was bought by her first Husband, Jacob Coffman he died
+                    She then paid for him herself &amp; then married Mr. Doom. The <abbr
+                        expan="Commission">Com</abbr> sent a Special agent up <orig reg="there"
+                        >their</orig> to enquire after this case and reported her first husband
+                    disloyal they (the <abbr expan="Commission">Com</abbr>) notified me of this
+                    fact. I then offered rebuttal testimony &amp; the parties <orig
+                        reg="referred">refered</orig> to in this card that testified to the loyalty
+                    of Mr. Coffman (Decd): <del rend="none" hand="h1"></del> Thornton G. Stout of New Hope, 58 <add hand="h1" place="inline">years
+                    old</add>, Jacob Coffman <add hand="h1" place="inline">48</add> "Do., J.B. Barger 64 years old, Isaac
+                    Coffman 50 years old &amp; James Borden.</p>
+                <p>If you can do this lady any Good please testify to the credability of these
+                    witnesses.</p>
+                <p>&amp; Oblige yours truly</p>
+                <p>
+                    <name type="witness">J. H. Baker</name>
+                </p>
+                <p>Bakers Mill Va.</p>
+            </div1>
+            <div1 type="testimony" id="d11">
+                
+                <byline>Harriet Doom</byline>
+                <p>Deposition of Harriet Doom at New Hope Augusta County <abbr expan="Virginia"
+                        >Va.</abbr><abbr expan="February">Feby</abbr> 27<hi rend="super"
+                    >th</hi> 1878 by and before Jrd. S. Smith Special Commissioner</p>
+                <p>Harriet Doom being duly Sworn says. I am here to testify for the
+                        <unclear>Government</unclear>. I am 42 years old. I am the claimant. Claim
+                    No 16243. I was formerly the wife of Jacob Coffman. I was married to Jacob
+                    Coffman in Sept. 1863 he was an old man he died in 1869. March 22d. The claim in
+                    this case for one horse this horse belonged to my husband Jacob Coffman. This
+                    horse was taken from him at our house about one mile from here it was the next
+                    day after the Piedmont fight June 7th 1864. The Horse was hitched to a Cherry
+                    tree just back of the house. There was Six Federal Soldiers come into the yard
+                        <del hand="h1">one of them was a colonel</del> they went out where the Horse was
+                    &amp; commenced unhitching her. I Stood in the door &amp; saw them. they
+                    took her down the road a little ways and a Colonel put his Saddle on her and got
+                    on &amp; rode up to our hose. I went out &amp; asked him would he give
+                    me the beast. He <orig reg="shook">shooke</orig> his head and said that this
+                    horse had been killed and that he must have one. The Army remained there until
+                    about four two &amp; this colonel was riding him up &amp; down the road
+                    all day. She was taken at six <abbr expan="o'clock">o.c.</abbr> in the morning
+                    &amp; when they moved on he took her with him and no more Saw her any more.
+                    I did not know any thing about Jacob Coffmans political Sentiments until I
+                    married him in 1863 after that he used to curse Jeff Davis &amp; the
+                    Confederacy, he made a will he gave me &amp; my children all his property
+                    the oldest one of my children was only five years old when my husband died. Dr.
+                    Kennerly was the executor named in my husbands will. Kennerly was an <orig
+                        reg="awful">oful</orig> Strong Secessionist, he was the worst kind of a one.
+                    my husbands will was drawn in June before he died. my husband had no children
+                    living when he died that I know of except mine. My husband had <orig reg="grown"
+                        >groud</orig> children one of his <orig reg="grown">groud</orig> sons Sandy
+                    Coffman was in the Confederate Army. The Executor of my husbands will refused to
+                    make this application for pay. Said he would have nothing to do with it. My
+                    present Husbands name is <abbr expan="George">Geo.</abbr> Doom. he was not in
+                    the Confederate Army. he went North &amp; remained there until after the
+                    war.</p>
+                <p><name type="claimant">Harriet Doom</name> her mark</p>
+                <p>Subscribed &amp; Sworn to before me Feby 27<hi rend="super">th</hi>
+                    1878</p>
+                <p>
+                    <name type="other">Jrd. S. Smith</name>
+                </p>
+                <p>Special Commissioner</p>
+            </div1>
+            <div1 type="testimony" id="d12">
+                
+                <byline>Nathaniel M. Talley</byline>
+                <p>Deposition of Nathaniel M. Talley taken at New Hope Augusta County <abbr
+                        expan="Virginia">Va.</abbr> Feby 27<hi rend="super">th</hi> 1878 by
+                    and before Jrd. S. Smith Special Commissioner</p>
+                <p>Nathaniel M. Talley being duly Sworn Says. I am here to testify for the
+                    Government. I am 63 years old. I reside in New Hope Augusta <abbr expan="County"
+                        >Co.</abbr><abbr expan="Virginia">Va.</abbr> I have lived here for Forty
+                    Nine years. I am well acquainted with Harriet Doom the claimant, Claim No. 16243
+                    when the war commenced her husbands name was Jacob Coffman. he died after the
+                    war. I think in 1869. I <orig reg="knew">knowd</orig> him well. he lived about
+                    one &amp; a half miles from me during the war. I Saw him often before the
+                    vote on the question of Secession was taken in this State. He was a Strong
+                    Secessionist. he advocated Secession all the time and when the vote was taken on
+                    that question he voted to ratify the Ordinance of Secession and voted for
+                    Secession candidates to the Convention after the State Seceded. he was a Strong
+                    Confederate he did all he could to aid the Confederate Cause. his Sympathies
+                    were entirely with the South and the Confederate Cause. his never <orig
+                        reg="did">done</orig> any thing to aid the Union Cause. his feelings were
+                    not with it. He was never known <del rend="none" hand="h1"></del> during the war as a Union man. his
+                    associations were entirely with the Confederates and never with Union people. he
+                    never <orig reg="did">done</orig> any thing to help the Confederacy except talk
+                    he <orig reg="talked">talkd</orig> powerful hard for them. I have no knowledge
+                    that Jacob Coffman lost a horse during the war.</p>
+                <p>
+                    <name type="witness">Nathaniel M. Talley</name>
+                </p>
+                <p>Subscribed &amp; Sworn to before me <abbr expan="February">Feby</abbr> 27th
+                    1878</p>
+                <p>
+                    <name type="other">Jrd. S. Smith</name>
+                </p>
+                <p>Special Commissioner</p>
+            </div1>
+            <div1 type="testimony" id="d13">
+                
+                <byline>Henry K. Eakle</byline>
+                <p>Deposition of Henry K. Eakle taken at New Hope Augusta <abbr expan="County"
+                        >Co</abbr><abbr expan="Virginia">Va</abbr><abbr expan="February">Feby</abbr>
+                        27<hi rend="super">th</hi> 1878 by &amp; before Jrd. S. Smith
+                    Special Commissioner</p>
+                <p>Henry K. Eakle being duly Sworn Says. I am here to testify for the Government. I
+                    am 59 years old. I reside one mile from New Hope Augusta <abbr expan="County"
+                        >Co.</abbr> Va. I was intimately acquainted with Jacob Coffman the owner of
+                    the property mentioned in Claim No 16243. I lived a about one half mile from him
+                    before and during the war. At that time when the vote was taken here as to the
+                    Confirmation of the Ordinance of Secession I know that Jacob Coffamn voted for
+                    it. a man of the name of Thos. Turk brought him up to the polls at the time and
+                    told him to vote for Secession &amp; he <orig reg="did">done</orig> it. I
+                    know that before that time Jacob Coffman was very bitter on the abolitionists
+                    and Rebupblicans at the North. he was in the habit of using very bitter language
+                    about them, a while after the war began he seemed to change and my impression
+                    was that he was in favor of the Union. I cannot State a Single act of his that
+                    Showed him to be loyal to the Federal Government he was too old to take any
+                    active part in the war.</p>
+                <p>
+                    <name type="witness">H. K. Eakle</name>
+                </p>
+                <p>Subscribed &amp; Sworn to before me <abbr expan="February">Feby</abbr> 27th
+                    1878</p>
+                <p>
+                    <name type="other">Jrd. S. Smith</name>
+                </p>
+                <p>Special Commissioner</p>
+            </div1>
+            <div1 type="testimony" id="d14">
+                
+                <byline>Special Agent Jrd. S. Smith</byline>
+                <p>In the matter of the Claim for Harriet Doom No. 16243</p>
+                <p>Harriet Doom the Claimant testifies that the horse for which claim is made
+                    belonged to her husband Jacob Coffman. That the Horse was taken by a Federal
+                    Colonel for his own use. Nathaniel Talley testifies, <orig reg="knew"
+                    >knowd</orig> Jacob Coffman. He voted for Secession was a strong confederate
+                    &amp; <orig reg="did">done</orig> what he could to aid the confederate
+                    cause.</p>
+                <p>Henry K. Eakle testifies <orig reg="knew">knowd</orig> Jacob Coffman. he voted
+                    for Secession and was bitter on the abolitionists &amp; Republicans of the
+                    North. That a while after the war began he seemed to change, and was now of the
+                    impression he was a Union man.</p>
+                <p>This claim ought not to be paid. The horse did not go to the Use of the Army
+                    officers were obliged to furnish their own horses of their own expense, not at
+                    the expense of the Government. Jacob Coffman to <orig reg="whom">whome</orig>
+                    the horse <orig reg="belonged">belong<hi rend="super">d</hi></orig> was
+                    disloyal. <orig reg="Respectfully">Respectfuly</orig> Submitted to the Claim<hi
+                        rend="super">s</hi><abbr expan="Commission">Coms.</abbr> Washington
+                    D.C.</p>
+                <p>
+                    <name type="other">Jrd. S. Smith</name>
+                </p>
+                <p>Special Agent</p>
+            </div1>
+            <div1 type="testimony" id="d15">
+                
+                <byline>James Borden</byline>
+                <p>State of Virginia County of Augusta To Wit</p>
+                <p>I E. J. Jones a Notary Public for the County aforesaid in said state do certify
+                    that the following were taken in New Hope on the 29th day of April 1878.</p>
+                <p><name type="other">E. J. Jones</name> N.P.</p>
+                <p>James Borden being duly Sworn testifies as follows. 1st question: What is your
+                    age?</p>
+                <p>Answer. fifty four years</p>
+                <p>How long resident of Augusta <abbr expan="County">Co</abbr><abbr expan="Virginia"
+                        >Va.</abbr>?</p>
+                <p>Thirty five years.</p>
+                <p>How long did you know Jacob Coffman <del hand="h1">in <del rend="none" hand="h1"></del></del><add hand="h1" place="inline">who you <del rend="none" hand="h1"></del></add>
+                    a citizen of the County now <abbr expan="deceased">decd</abbr> &amp; whose
+                    representative is now an applicant to the <abbr expan="United States"
+                        >U.S.</abbr><abbr expan="Government">Go.</abbr> for Compensation for a horse
+                    appropriated by Federal Forces during the late rebellion.</p>
+                <p>Answer. I knew him 35 years.</p>
+                <p>What were his Sentiments before and during the war?</p>
+                <p>Answer. I always regarded him as being an unqualified Union man and he never
+                    hesitated to express such Sentiments.</p>
+                <p>Further the deponent sayeth not.</p>
+                <p>
+                    <name type="witness">James Borden</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d16">
+                
+                <byline>T. G. Stout</byline>
+                <p>T. G. Stout being Sworn testifies as follows</p>
+                <p>Question. What is your age?</p>
+                <p>Answers. fifty Eight</p>
+                <p>Ques. How long have you resided in this County?</p>
+                <p>Answer. Thirty Two years</p>
+                <p>Question. How long did you know Jacob Coffman <abbr expan="deceased">dec'd</abbr>
+                    whose representative is making application a horse horse taken and appropriated
+                    by the Federal Forces during the late Rebellion?</p>
+                <p>Answer. Thirty Two years</p>
+                <p>Question. Do you know what his political sentiments before, during &amp;
+                    after the war was?</p>
+                <p>Answer. I know that he was a thorough union man, having heard him so express
+                    himself often as well as abuse the Confederate Government.</p>
+                <p>Further the depononent sayeth not.</p>
+                <p>
+                    <name type="witness">T. G. Stout</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d17">
+                
+                <byline>Jacob Coffman</byline>
+                <p>Jacob Coffman being Sworn Testifies as follows</p>
+                <p>Q. What is your age.</p>
+                <p>Ans. Forty Eight years</p>
+                <p>How long have you resided in the county of Augusta?</p>
+                <p>Ans. All my life.</p>
+                <p>Ques. How long did you know Jacob Coffman who was a citizen of this county; and
+                    who representative is an applicant for pay for a horse taken from him by Federal
+                    forces during the late rebellion?</p>
+                <p>Ques. I have known him all my life.</p>
+                <p>Ques. What were his political opinions before, during, and since the war?</p>
+                <p>Answer. I believe him to have been a genuine union man having often heard him so
+                    express himself.</p>
+                <p>Further the deponent sayeth not</p>
+                <p>
+                    <name type="witness">Jacob Coffman</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d18">
+                
+                <byline>John C. Barger</byline>
+                <p>John C. Barger being duly Sworn testifies as follows</p>
+                <p>1st Ques. What is your age</p>
+                <p>Answer. Sixty four years</p>
+                <p>2d q. How long a resident of Augusta <abbr expan="County">Co.</abbr><abbr
+                        expan="Virginia">Va</abbr>.</p>
+                <p>Answer. All my life time</p>
+                <p>3rd. How long did you know Jacob Coffman of this <abbr expan="County">Co.</abbr>
+                    &amp; State, now <abbr expan="deceased">decd</abbr>, whose Representative is
+                    an applicant to the <abbr expan="United States">U.S.</abbr><abbr
+                        expan="Government">Govt.</abbr> for Compensation for a horse appropriated by
+                    the <abbr expan="Federal">Fed.</abbr> Forces during the late rebellion.</p>
+                <p>Answer. I knew him personally from 1844 <abbr expan="April">Apl</abbr>. until his
+                    death.</p>
+                <p>Question. What were his political Sentiments before and during the late war</p>
+                <p>Answer. I believed him to be a Union Man and he always gave expression,
+                    unreservedly, to Union Sentiments.</p>
+                <p>
+                    <name type="witness">J C Barger</name>
+                </p>
+                <p>Further the deponent sayeth not</p>
+            </div1>
+            <div1 type="testimony" id="d19">
+                
+                <byline>Isaac Coffman</byline>
+                <p><del hand="h1">Jacob</del><add hand="h1" place="inline">Isaac</add> Coffman being duly Sworn testifies as follows</p>
+                <p>1st. What is your age</p>
+                <p>Answer. Fifty years</p>
+                <p>2nd. How long have you been a resident of Augusta County Virginia</p>
+                <p>Answer. Fifty years</p>
+                <p>3rd How long did you know Jacob Coffman, of this <abbr expan="County">C.</abbr>
+                    and State, now <abbr expan="deceased">decd</abbr>, whose Representative is an
+                    applicant to the <abbr expan="Federal">Fed.</abbr><abbr expan="Government"
+                    >Go.</abbr> for Compensation for a horse appropriated by the <abbr
+                        expan="Federal">Fed</abbr>. Forces during the late rebellion?</p>
+                <p>4. All my life time</p>
+                <p>5. What were his political Sentiments before and during the war</p>
+                <p>Answer I do now hestitate to say that he was all the while a thorough Union man,
+                    and never hestitated to express Union Sentiments when any and all occasions, and
+                    was notoriously opposed to Secession</p>
+                <p>
+                    <name type="witness">Isaac Coffman</name>
+                </p>
+                <p>State of Virginia County of Augusta To Wit</p>
+                <p>I E.J. Jones a Notary Public for the County aforesaid, do hereby certify, that
+                    the foregoing depositions were duly taken, Sworn to and Subscribed before me at
+                    the time and place mentioned therein.</p>
+                <p>Given under my hand thsi 29th April 1878</p>
+                <p><name type="other">E. J. Jones</name> N.P.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

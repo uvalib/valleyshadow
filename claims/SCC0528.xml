@@ -1,0 +1,664 @@
+<?xml version="1.0"?>
+
+<?dlps id="SCC0528"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 id="SCC0528">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Southern Claims Commission: Claim of Christian
+                    Landes, 1877, Claim No. 17,923</title>
+        <title type="sort">southern claims commission claim of christian landes, 1877 claim no 17 923</title>
+        <author>Landes, Christian</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca.<num type="kilobytes">33</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">SCC0528</idno>
+        <!--
+                <availability>
+                    <p>Publicly accessible</p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2006, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2006">2006</date>
+            <idno type="uva-pid">uva-lib:498415</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title type="main">Southern Claims Commission: Claim of Christian Landes,
+                            1877, Claim No. 17,923</title>
+            <title level="m"/>
+            <title type="sort">southern claims commission claim of christian landes, 1877 claim no 17 923</title>
+            <author>Christian Landes</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives, College Park,
+                            RG 217, claim #17923</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1877">1877</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+        <hand id="h1"/>
+      </handList>
+            <textClass>
+                <keywords>
+                    <term>Church/Religious Activity, Enlistment, Family, Patriotism, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="SCC0528T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                
+                <p>Christian Landes filed this claim in 1877 for $444, claiming Union forces under
+                    General Sheridan took 3 horses, 2 bushels of hay, 2 cattle, and sheep in 1865.
+                    Christian was a farmer in Mount Sidney and a member of the Dunker Church. He had
+                    two sons forcefully conscripted into Confederate service. Included is testimony
+                    on the Dunkers political and pacifist beliefs as well as testimony from John
+                    Yates, the local Postmaster and an "Ironclad Oath" taker. The commission allowed
+                    $300.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="claim_items" id="d5">
+                
+                <p>
+                    <table>
+                        <row>
+                            <cell>
+                                <hi rend="bold">Item Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Allowed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Disallowed:</hi>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>3 Horses &amp; 2 bus hay</cell>
+                            <cell>$360.00</cell>
+                            <cell>$300.00</cell>
+                            <cell>$60.00</cell>
+                        </row>
+                        <row>
+                            <cell>2 Cattle &amp; 2 Sheep</cell>
+                            <cell>$84.00</cell>
+                            <cell>$0.00</cell>
+                            <cell>$84.00</cell>
+                        </row>
+                    </table>
+                </p>
+            </div1>
+            <div1 type="claim_summary" id="d6">
+                
+                <p>Claimant belongs to the fraternity of Dunkards who eschew Politics and war. He
+                    was opposed to secession and in favor at the Union. He did not go to the
+                    Election when the Ordinance of <orig reg="secession">succession</orig> was
+                    submitted. He advised his son and sons in law to go North and aided them to do
+                    so. His neighbors testify to his loyal conversation &amp; reputation. We
+                    find him loyal. Two of the Horses were taken by Gen Hunter's <unclear>forces
+                    in</unclear> 1864, and the other by Gen Sheridan's Command in 1865. He abandons
+                    the claim for the Cattle, on the ground that although he had bargained for them
+                    he had not paid for them and they had not been delivered.</p>
+                <p>We allow $300.</p>
+                <p><name type="other">AO Aldis</name>, <name type="other">JB Howell</name>, <name
+                        type="other">O. Ferris</name><abbr expan="Commissioners">Commrs</abbr> of
+                    Claims</p>
+            </div1>
+            <div1 type="testimony" id="d7">
+                
+                <byline>Christian Landes</byline>
+                <p>In answer to the First General Interrogatory, the Deponent says: My name is
+                    Christian Landes, my age 64 years, my residence Augusta County, in the State of
+                    Virginia, and my occupation a Farmer; I am the claimant, and have beneficial
+                    interest in the claim.</p>
+                <p>2 I lived all the time on my own farm at Mount Sidney in Augusta County.</p>
+                <p>3 &amp; 4 No sir.</p>
+                <p>5 Yes sir. I went to Staunton and took it after the war.</p>
+                <p>6 to 24 inclusive No sir. I had nothing at all to do with them in any way. My age
+                    exempted me from military duty and saved me much trouble.</p>
+                <p>25 Yes, the Confederates camped on my place at Mount Sidney for 4 or 5 days in
+                    the fall of 1864 and used a quantity of corn from my fields. They never paid me
+                    anything for it.</p>
+                <p>26 Yes. When I have been asked by the Confederate soldiers to feed their horses
+                    and have told them I could not do it, they have threatened to burn my barn down.</p>
+                <p>27 to 29 inclusive no sir</p>
+                <p>30 Yes, I have one nephew named Levi Landes, two sons named Jacob and Daniel
+                    Landes. Jacob was <unclear>in the second</unclear><del rend="none" hand="h1"></del><unclear>he carried to
+                        the county in a sick bed</unclear> after he denied the Confederate cause and
+                    carried him away by force. He was 19 years old when he went. He was forced to go
+                    both times. Daniel was conscripted in 1865. He was living near my residence at
+                    the time, he was about 30 years old. I gave neither of them any
+                        <unclear>equipment</unclear> nor assistance when in the service, and would
+                    have kept them out if I could have done so.</p>
+                <p>31 to 39 inclusive No Sir</p>
+                <p>40 I sympathized with the Union Cause. I thought the rebellion was wrong. I did
+                    not vote on the question of Secession. Our church held that the brethren might
+                    not meddle with politics, and recommended that we abstain from voting or
+                    attending elections. After the state <orig reg="seceded">seceeded</orig> I still
+                    held for the union.</p>
+                <p>41 I was for the Union from first to last. I could never see any good cause for
+                    the rebellion. I never did anything against the cause of the <abbr
+                        expan="United States">U.S.</abbr> and was always glad of its success. I am a
+                    member of the Dunkard Church.</p>
+                <p>44 I am a native born Citizen of the United States and I have not <del rend="none" hand="h1"></del> through
+                    Bankruptcy.</p>
+                <p>In answer to the interrogatories as to the Property deponent says</p>
+                <p>I was present and saw my property taken, all except the cattle.</p>
+                <p>1 &amp; 2 The Black horse and bay mare were both taken <hi rend="super"
+                        >at the same time one</hi> from a boy I had plowing with them. He was
+                    plowing with two and one of them was taken and another from the field. They were
+                    taken by the army of <abbr expan="General">Gen</abbr> Hunter in the summer of
+                    1864, when they were passing through here towards Staunton. The main body had
+                    passed along and two soldiers came back while other portions of the army were
+                    passing. There was some 20 or 30 men stopped while the horses were being taken
+                    and they all passed on taking horses from other persons on the way. The black
+                    horse I valued at $125 and the bay mare at $135. They were both good animals and
+                    in good condition.</p>
+                <p>The cattle were taken from the farm of Mr Searight about 4 miles from my place. I
+                    had purchased them from him for to butcher, and was to take them at a certain
+                    day, but did not get them away and they were driven away by a portion of the
+                    army of <abbr expan="General">Gen</abbr> Sheridan in <abbr expan="September"
+                        >Sept</abbr> 1864 as I am informed and expect to prove. The cattle were
+                    purchased by weight and I forget the exact amount, but think it was about $80 or
+                    $85 for the two.</p>
+                <p>The dark brown horse was taken from the stable on my farm at Mount Sidney, by a
+                    portion of Gen Sheridans army in March 1865 while going towards Staunton.</p>
+                <p>The Stable was locked and the men broke the door open while I was in my yard,
+                    across the road from the farm.</p>
+                <p>I urged them not to take him, but they told me the less I said, the better for
+                    me. There was a large company of men in the party, probably 100 or more. I
+                    valued him at $100. He was an excellent farm horse.</p>
+                <p>There were officers with the party who knew of the taking. I spoke to one of them
+                    about it, but it did no good, and further deponent saith not.</p>
+                <p>
+                    <name type="claimant">Christian Landes</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d8">
+                
+                <byline>Elizabeth Garber</byline>
+                <p>Deposition of Elizabeth Garber as to the taking of Property</p>
+                <p>I am 33 years old, I live in the same house with the claimant. I am his daughter.
+                    During the war, I lived in the <hi rend="super">same</hi> place where I do
+                    now until August 1864 when I went west where my husband was.</p>
+                <p>In the summer of 1864 when the Army of <abbr expan="General">Gen</abbr> Hunter
+                    passed through this place I saw some of the soldiers go to a field near the
+                    house where a boy was plowing corn and take the harness from one of the horses
+                    and put a <orig reg="saddle">sadle</orig> on him and ride him away another party
+                    next into a field on the other side of the road and took the bay mare from the
+                    field saddled her and rode her away. Also, both of them were taken along with
+                    the army. They did not leave any other horses in places of them.</p>
+                <p>The army was a portion of them passing through here at the time the horses were
+                    taken. My father was at the house on the porch at the time. It was the first
+                    union army that had passed this way during the war. And further deponent saith
+                    not.</p>
+                <p>
+                    <name type="witness">Elizabeth Garber</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d9">
+                
+                <byline>John M. Perry</byline>
+                <p>Deposition of John M Perry as to the taking of Property</p>
+                <p>I am 50 years old, a farmer, live near Banks Mill in Augusta County <abbr
+                        expan="Virginia">Va.</abbr></p>
+                <p><del hand="h1">D</del> I am not related to the claimant and have no interest in this claim.</p>
+                <p>During the war I was present and saw a lot of cattle driven from the farm of John
+                    and George Searight by a portion of the Army of Gen Sheridan, in the fall of the
+                    year 1864. I <orig reg="don't">dont</orig> know how many cattle were in the lot
+                    driven away. I supposed they were Mr Searights cattle. I did not know that Mr
+                        <orig reg="Landes">Landis</orig> had purchased any of them. I heard Mr
+                    Searight talking about them afterwards, and he said he had sold two or three
+                    head to Mr <orig reg="Landes">Landis</orig>, I forget which, and that they were
+                    left there at his Mr <orig reg="Landes'">Landis</orig> risk, and that he should
+                    hold him responsible for them.</p>
+                <p>I <orig reg="don't">dont</orig> know what kind of cattle Mr <orig reg="Landes"
+                        >Landis</orig> had bought. Some of those driven away were cows. Some were
+                    dry and in good order. The troops were gathering up stock all about the
+                    neighborhood at the time and these were driven away with the rest. And further
+                    deponent saith not.</p>
+                <p>
+                    <name type="witness">John M. Perry</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d10">
+                
+                <byline>Lydia Miller</byline>
+                <p>Deposition of Lydia Miller as to the taking of Property</p>
+                <p>I am 37 years old. I live 4 miles from Mt Sidney in Augusta County <abbr
+                        expan="Virginia">Va</abbr>. During the war I lived on my fathers farm. The
+                    claimant is my father.</p>
+                <p>I was present and saw all his property taken except the cattle.</p>
+                <p>The black horse was taken from before the plow while plowing corn in the summer
+                    of 1864, by a portion of <abbr expan="General">Gen</abbr><orig reg="Hunter's"
+                        >Hunters</orig> command while passing on the Pike towards Staunton. One of
+                    the men put a saddle on him and rode him away with the rest of the Army. Our
+                    farm is immediately on the pike and the horse was plowing close by when taken.
+                    He was a good sized animal and an excellent saddle horse. He was valued at $125
+                    when taken.</p>
+                <p>The bay mare was taken at the same time from a pasture field across the road by
+                    some of the same troops who went into the field and caught her. And one of them
+                    rode her away with the rest of the army. She was a medium sized animal, a good
+                    worker and rider. She was worth rather more than the horse.</p>
+                <p>The brown horse was taken in the spring of the year 1865 a short time before the
+                    surrender of Gen Lee by a party of Union cavalry, passing up the Pike toward
+                    Staunton. There was a large party of them; they were from 1 <abbr
+                        expan="O'clock">Oclk</abbr> until after dark in passing, marching close to
+                    each other.</p>
+                <p>The horse was taken from our stable and rode away by one of the party.</p>
+                <p>I <orig reg="don't">dont</orig> know who was in command of the troops. I
+                    understood they belonged to <abbr expan="General">Gen</abbr><orig
+                        reg="Sheridan's">Sheridans</orig> army.</p>
+                <p>He was very good horse, was valued at about 125.</p>
+                <p>And further deponent saith not.</p>
+                <p>
+                    <name type="witness">Lydia Miller</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d11">
+                
+                <byline>Abner Shumate</byline>
+                <p>Deposition of Abner <orig reg="Shumate">Shumake</orig> as to the Loyalty of
+                    Christian Landes</p>
+                <p>I am 50 years old a merchant in M<hi rend="super">t</hi> Sidney. I am not
+                    related to the claimant, and have no interest in his claim.</p>
+                <p>I have known the Claimant 45 years, have lived within half a mile of him nearly
+                    all the time, was near him during the whole period of the war. I have heard him
+                    talk many times on matters connected with the rebellion. He was opposed to
+                    secession and spoke against it as long as it was safe to do so. He <orig
+                        reg="always">alway</orig> held that the rebellion was wrong and that it
+                    could not succeed. Said he was certain the south would be overrun and the
+                    rebellion crushed. He regarded me as a union man and spoke freely with me;
+                    sometimes we were alone and sometimes in company with other loyal men, but not
+                    publicly.</p>
+                <p>Whenever the Union forces were victorious in battle, the claimant was rejoiced
+                    and would express it when I saw him.</p>
+                <p>He was generally known and regarded as a union man all through the war. And
+                    further deponent saith not.</p>
+                <p>
+                    <name type="witness">Abner Shumake</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d12">
+                
+                <byline>John Yates</byline>
+                <p>Deposition of John Yates as to the Loyalty of Christian Landes</p>
+                <p>I am 65 years old. I am Postmaster at Mt. Sidney. I am an "Iron Clad" Union man.
+                        <hi rend="super">I</hi> was imprisoned in Castle Thunder for aiding
+                    refugees across the lines, and was sent form there to Staunton for trial and
+                    before the time came on, I was released by the Army of <abbr expan="General"
+                    >Gen</abbr> Sheridan. I am not related to the claimant and have no interest in
+                    his claim.</p>
+                <p>I have known the claimant 30 years lived about half a mile from him, during the
+                    whole period of the war, except when a prisoner. I had frequent conversations
+                    with him about secession and the war and all such matters, and he always
+                    expressed union sentiments when talking with me. he was opposed to secession and
+                    the war. He thought as I did about it, that it was an unrighteous affair, and
+                    that it could not prosper. He was a decided union man at heart but like most of
+                    us was obliged to be very prudent and cautious in his expressions. <hi
+                        rend="super">In consequence of his union sentiments, his barn was not
+                        burnt by Sheridan.</hi> And further deponent saith not.</p>
+                <p>
+                    <name type="witness">John Yates</name>
+                </p>
+                <p>Claimant is a very simple minded and peacable old Dunker. Never meddles with
+                    public affairs. Is perfectly <orig reg="harmless">harmles</orig> and innocent.</p>
+                <p>Isaac P. Baldwin Special Commissioner</p>
+            </div1>
+            <div1 type="testimony" id="d13">
+                
+                <byline>Christian Landes</byline>
+                <p>Deposition of Claimant</p>
+                <p>1 My name is Christian <orig reg="Landes">Landis</orig>. I am 68 years old, a
+                    farmer and live at M<hi rend="super">t</hi> Sidney where I have resided 26
+                    years.</p>
+                <p>2 I am the claimant.</p>
+                <p>3 I was born and raised in this county.</p>
+                <p>4 Where I now live</p>
+                <p>5 I sympathized with the north all the time from beginning to end.</p>
+                <p>6 I never did.</p>
+                <p>7 &amp; 8 I was willing and I did give all the aid in my power. I sent my son
+                    and two sons in law to the north through the mountains, and one of my daughters
+                    down the valley and they all <orig reg="stayed">staid</orig> north until the war
+                    closed.</p>
+                <p>9 Two cousins of my first wife named Wenger and several others one a David <orig
+                        reg="Landes">Landis</orig>.</p>
+                <p>10 No Sir</p>
+                <p>11 I gave the union troops when camped near me at the time of the burning hay,
+                    Oats, bacon and provisions, and my wife cooked for them all day.</p>
+                <p>12 I stood by the union all the time. I am no <orig reg="politician"
+                    >polititian</orig>. I belong to the Dunker Church. I did not do anything.</p>
+                <p>13 I adhered to the union all the time.</p>
+                <p>14 I was always sorry for the defeat, and glad of the success of the union forces
+                    as I believed that was the only way to peace, and because the union cause was
+                    right. Of course I was sorry for so much slaughter and suffering.</p>
+                <p>15 I never asked for any</p>
+                <p>16 I never had occasion to take it.</p>
+                <p>17 John Yates, Abner Shumate, Daniel and John Miller, John Wampler &amp;
+                    Joseph Click were all union men living within one to two miles of here. Some of
+                    them wil testify to my loyalty.</p>
+                <p>18 They threatened various things if I did not feed their horses, for nothing. I
+                    did <hi rend="super">not</hi> want to do it.</p>
+                <p>19 No sir.</p>
+                <p>20 They took from me 100 bushels of wheat I had at Klines Mill, they never paid
+                    me a cent. They made me give them a tenth of my crop one year.</p>
+                <p>21 to 35 No Sir, to each and every question.</p>
+                <p>36 My youngest son was conscripted the second year of the war. He was taken by
+                    armed men from my house and was killed in the Wilderness. He was taken against
+                    my will: I went to M<hi rend="super">t</hi> Jackson and also to Staunton
+                    to try to get him off, but could not succeed. His name was Jacob <orig
+                        reg="Landes">Landis</orig>. I had two <hi rend="super"
+                        >cousins</hi><del hand="h1">Nephews</del> in the service also, one named Henry and one
+                    Daniel <orig reg="Landes">Landis</orig>. They lived about 2 miles from me. I had
+                    nothing to do with their going, and contributed nothing towards their support
+                    while in the service.</p>
+                <p>37 &amp; 38 No Sir</p>
+                <p>39 I took some kind of an oath after the war in Staunton. I reckon it was the
+                    amnesty oath.</p>
+                <p>40 to 43 No Sir, to each question.</p>
+                <p>44 I have no recollection of voting during the war. There was no union
+                    candidates. I did not vote at all on the secession question at eather election.
+                    Our church advises us to take no part in elections.</p>
+                <p>45 to 51 No Sir to each question.</p>
+                <p>Concerning the property deponent says During the war I carried on buchering and
+                    had purchased the <del hand="h1">three</del><hi rend="super">two</hi> cattle charged
+                    in my claim from a man named George Searight who had agreed to deliver to me
+                    three head, but butchered one of them himself, and before the others were
+                    delivered to me they were taken by the Union forces, and Searight charged them
+                    to me and insisted that I should pay for them because I had not taken them away
+                    at the time agreed on, so I charged them to the government. I have since been
+                    advised that he cannot compel me to pay for them, and I therefore have thought
+                    it best to abandon the claim for the cattle, <orig reg="although">altho</orig> I
+                    have had no settlement with him.</p>
+                <p>The charge for the cattle is Abandoned.</p>
+                <p>The last horse that was taken from me, was a dark brown, or some would say a
+                    black horse. He was taken by a party of Union Cavalrymen from my stable. They
+                    broke the door of the stable open, and one of the men rode him away with the
+                    others going towards Staunton. This was in the spring of 1865. He was a good
+                    horse worth at least $100. And further deponent saith not.</p>
+                <p>
+                    <name type="witness">Christian Landes</name>
+                </p>
+                <p>Isaac P. Baldwin Special Comm<hi rend="super">r</hi></p>
+            </div1>
+            <div1 type="testimony" id="d14">
+                
+                <byline>Elizabeth J. Landes</byline>
+                <p>Deposition of Claimants wife concerning property.</p>
+                <p>My name is Elizabeth J. <orig reg="Landes">Landis</orig> I am 40 years old. I am
+                    the wife of claimant and live with him. I was married to him in 1871.</p>
+                <p>In the Spring of 1865 I was living with my own family keeping house about one
+                    mile from the claimant on the pike towards Staunton. Claimants <hi
+                        rend="super">first</hi> wife was then living, and my sister was living
+                    with them where <del hand="h1">where</del> we now live. Claimant had at that time a dark
+                    brown or black horse which my sister used to ride when she came to see me, and
+                    which I used to see at claimants place very often, and knew the horse well.</p>
+                <p>In the spring of 1865, I <orig reg="don't">dont</orig> remember the month, a
+                    party of union cavalry, said to be a part of <orig reg="Sheridan's"
+                    >Sheridans</orig> Army passed up the pike going towards Staunton; and in passing
+                    my residence, I saw the brown or black horse of claimants with them, rode by one
+                    of the men in uniform, and called the <pb n="19"/> attention of one of my
+                    sisters who was visiting with me to the horse, saying "there is Mr <orig
+                        reg="Landes">Landis</orig>'s black horse that you have rode many a time."
+                    She looked and immediately recognized the horse as belonging to claimant. There
+                    were probably two or three hundred in the party, and they all passed on towards
+                    Staunton which was the last I ever saw of them. He was a veery fine looking
+                    horse, and was called a good one by those who knew him. I saw no other of
+                    claimants property taken.</p>
+                <p>And further deponent saith not.</p>
+                <p><name type="witness">Elizabeth J. <orig reg="Landes">Landis</orig></name> her
+                    mark</p>
+                <p>Isaac P. Baldwin Special Commr</p>
+            </div1>
+            <div1 type="testimony" id="d15">
+                
+                <byline>John Miller</byline>
+                <p>Deposition of John Miller</p>
+                <p>1 My name is John Miller. I am 64 years old. I am a farmer and a preacher in the
+                    Dunker Church and live near Mount Sidney in Augusta <abbr expan="County"
+                        >Co</abbr><abbr expan="Virginia">Va</abbr> where I have lived for 30 years
+                    past.</p>
+                <p>2 I am not related to the claimant and have no interest in the success of his
+                    claim</p>
+                <p>53 to 55 I have known him for 30 years or more, have lived within about 1 1/2
+                    miles of the Dunker Church. I frequently saw him during the war, sometimes at Mt
+                    Sidney sometimes at church and elsewhere.</p>
+                <p>56 I had some conversation with him <hi rend="super">on</hi> matters
+                    relating to war but not much. He is not much of a talker at anytime, is more
+                    than ordinary quiet. When I did talk with him he generally expressed union
+                    sentiments, but was rather reticent except when in the company of well known
+                    union men.</p>
+                <p>57 I was not a witness to any acts of his that would indicate his sentiments I
+                    have understood that he favored the going north of several members of his family
+                    and that they did escape and remained away until the close of the war.</p>
+                <p>58 &amp; 59 I do not. I <orig reg="don't">dont</orig> believe he did any
+                    thing in aid of the rebellion that he was not of need to do.</p>
+                <p>60 I have never heard him spoekn of a great deal he did not meddle with politics.
+                    If all were like him there would have been no war. He was generally regarded as
+                    a union man by those who knew him as far as I know. And I think he was in favor
+                    of the Union cause. I am quite sure he had no sympathy with the Confederate
+                    cause.</p>
+                <p>61 Abner Shumate John Yates, Joseph Glick John Wampler &amp; Daniel Miller
+                    were all good union people.</p>
+                <p>62 I have had a claim allowed by the commrs of claims. I was a decided Union man
+                    at all times.</p>
+                <p>63 to 65 At the time of the burning his barn was spared.</p>
+                <p>And further saith not.</p>
+                <p>
+                    <name type="witness">John Miller</name>
+                </p>
+                <p>Attest Isaac P. Baldwin Special Commr</p>
+            </div1>
+            <div1 type="testimony" id="d16">
+                
+                <byline>John Wampler</byline>
+                <p>Deposition of John Wampler</p>
+                <p>1 My name is John Wampler I am 49 years old, a farmer and live near Mt Sidney
+                    where I have resided over 20 years.</p>
+                <p>2 I m not related to the claimant and have no interest in the success of his
+                    claim.</p>
+                <p>53 to 55 I have known him about 30 years, part of hte time intimately. We are
+                    members of the same church and often met during the war.</p>
+                <p>56 We had some considerable talk about the war and such matters. He was opposed
+                    to the war and spoke against it, and against secession. I <orig reg="can't"
+                    >cant</orig> relate conversation, but from his language I always took him to be
+                    a union man. When the news of a battle came, it was most always in favor of the
+                    rebels. I remember his saying you <orig reg="can't">cant</orig> believe that
+                    side, I expect when we get the news it will be that the Confederates were
+                    whipped. He expressed union sentiments when speaking of these things. He is not
+                    much of a talker at any time, and we all had to be on our guard in those days.</p>
+                <p>He had one son and two sons in law and one daughter who went north during the war
+                    and remained there until the war closed. Some of them started from claimants
+                    home and he helped them away. I know this because <orig reg="they">the</orig>
+                    were started on horseback but found they could not make it, and sent the horses
+                    back to claimants house and then took to the mountains.</p>
+                <p>58 &amp; 59 No Sir</p>
+                <p>60 He was regarded generally by those who knew him as a union man. I have heard
+                    him called a union man by the secesh and probably by others I <orig reg="don't"
+                        >dont</orig> remember; the members of our church were generally union
+                    people. There were some secesh among them.</p>
+                <p>61 John Yates, Abner Shumate, John Miller, Daniel Miller, Joseph Click were all
+                    union people.</p>
+                <p>62 I profess to have been one.</p>
+                <p>65 Claimants farm was spard during the burning. And further saith not.</p>
+                <p>
+                    <name type="witness">John Wampler</name>
+                </p>
+                <p>Attest Isaac P. Baldwin Special <abbr expan="Commissioner">Commr</abbr></p>
+            </div1>
+            <div1 type="testimony" id="d17">
+                
+                <byline>Commissioners' Note Regarding Claim</byline>
+                <p>In the absence of any special commissioner, the Commissioners authorize the
+                    taking of further testimony in this case by the clerk of the nearest court of
+                    record, but strictly in conformity to the rules for taking testimony for the
+                    uses of the Commissioner.</p>
+                <p><abbr expan="Charles">Chas</abbr> F. Benjamin Clerk.</p>
+                <p>Commissioners Office, Harrisonburg Virginia, November 22<hi rend="super"
+                    >d</hi> 1876</p>
+                <p>Depositions taken, sworn to, and subscribed before the undersigned G. F. Compton,
+                    a Commissioner in and for the County Court of Rockingham County Virginia to be
+                    used as evidence for, and in behalf of, Christian Landes, upon <del hand="h1">a</del>
+                    Claim No. 17923, before The Commissioners of Claims, under Act of Congress of
+                    the Untied States of date March 3<hi rend="super">d</hi> 1871.</p>
+                <p>Christian Landes, a witness of lawful age, introduced in behalf of himself, being
+                    first duly sworn by Affirmation, deposes, and says,</p>
+                <p>Answer To Question No. 14, on annexed printed Sheet.</p>
+                <p>I was always in favor of peace, and while I was grieved to see so many persons
+                    killed or wounded, I believed in sustaining the Union, and rejoiced in the final
+                    termination of the War, but I was too old to take arms, and remained quietly at
+                    home.</p>
+                <p>And further this deponent says not.</p>
+                <p>
+                    <name type="claimant">Christian Landes</name>
+                </p>
+                <p>Attest G. F. Compton Com<hi rend="super">r</hi>.</p>
+            </div1>
+            <div1 type="testimony" id="d18">
+                
+                <byline>Andrew M. Yates</byline>
+                <p>At the same time and place. Andrew M. Yates, a witness introduced in behalf of
+                    Christian Landes, being first duly sworn <hi rend="super">by
+                    Affirmation</hi> deposes says.</p>
+                <p>Answer to Question 52, on annnexed printed Sheet. In Christian Landes' farm.</p>
+                <p>Answer to Question 53. I have known him about 20 years, and have been intimate
+                    with him during the whole time.</p>
+                <p>Answer to <abbr expan="Question">Quest.</abbr> 54. I lived one fourth of a mile
+                    from him during the late war and still live at the same place.</p>
+                <p>Answer to Question 55. I met him a number of times, perhaps once in every two
+                    months, or oftener.</p>
+                <p>Answer to Question 56 I had frequent conversations with him during the war, about
+                    the war, and he always expressed himself as a Union man. I can remember his
+                    exact words but he always spoke in favor of Union Cause, and desired that there
+                    should be no separation.</p>
+                <p>Answer to Question 57. I know of no particular act done by the Claimant he was an
+                    old man, and stayed at home.</p>
+                <p>Answer to Question 58. I do not.</p>
+                <p>Answer to Question 59 I have heard John Yates, Peter Sheets + Abner Shumate speak
+                    of his being a Union man.</p>
+                <p>Answer to Question 60 People in the neighborhood said he was a Union man.</p>
+                <p>Answer to Question 61. John Yates, Abner Shumate &amp; Peter Sheets were all
+                    Union men during the War.</p>
+                <p>Answer to Question 62 Not at first, I lent that way toward the close of war.</p>
+                <p>Answer to Question 63 No Sir I do not.</p>
+                <p>Answer to Question 64 I know his language was laways against the Confederacy.</p>
+                <p>Answer to Question 65 No Sir, I do not</p>
+                <p>And further this deponent says not.</p>
+                <p>
+                    <name type="witness">A. M. Yates</name>
+                </p>
+                <p>Attest G. F. Compton Com<hi rend="super">r</hi>.</p>
+                <p>I G. F. Compton do hereby certify that the foregoing depositions were taken sworn
+                    to and subscribed before me at the time, and place named in the Caption. Given
+                    under my hand as Commissioner of the County Court of Rockingham County, this
+                        22<hi rend="super">nd</hi> day of November 1876.</p>
+                <p><name type="other">G. F. Compton</name>, Com<hi rend="super">r</hi><abbr
+                        expan="Chancery">Chy.</abbr><abbr expan="Court">Co.</abbr><abbr
+                        expan="Circuit">Ct</abbr><abbr expan="Rockingham">Ro.</abbr><abbr
+                        expan="County">Co.</abbr></p>
+                <p>Virginia, Rockingham County, to wit-</p>
+                <p>I, Joseph F. Logan Clerk of the County Court of Rockingham County a Court of
+                    Record, for said County &amp; State do hereby certify that G. F. Compton the
+                    person before who the foregoing depositions were taken, and whose name is signed
+                    to the foregoing Certificate, is a Commissioner of the County Court of
+                    Rockingham County duly authorized, empowered, and sworn, to perform the duties
+                    of such Commissioner.</p>
+                <p>Given under my hand and the Seal of my said County Court of Rockingham County
+                    this 22<hi rend="super">d</hi> day of November 1876, and the year of the
+                    Commonwealth.</p>
+                <p><name type="other">J. F. Logan</name>, Clerk of the County Court of Rockingham
+                    County</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

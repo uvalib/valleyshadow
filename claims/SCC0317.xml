@@ -1,0 +1,647 @@
+<?xml version="1.0"?>
+
+<?dlps id="SCC0317"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 id="SCC0317">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Southern Claims Commission: Claim of William Gibson,
+                    December 1, 1873, Claim No. 8955</title>
+        <title type="sort">southern claims commission claim of william gibson, december 1 1873 claim no 8955</title>
+        <author>Gibson, William</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name>Virginia Center for Digital History Staff</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Philip Herrington</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca.<num type="kilobytes"> 30 </num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">SCC0317</idno>
+        <!--
+                <availability>
+                    <p>Publicly accessible</p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2006, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2006">2006</date>
+            <idno type="uva-pid">uva-lib:498384</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title type="main">Southern Claims Commission: Claim of William Gibson,
+                            December 1, 1873, Claim No. 8955</title>
+            <title level="m"/>
+            <title type="sort">southern claims commission claim of william gibson, december 1 1873 claim no 8955</title>
+            <author>William Gibson</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives, Washington,
+                            D.C., fiche # 1463</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1874">1874</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+        <hand id="h1"/>
+      </handList>
+            <textClass>
+                <keywords>
+                    <term>Agriculture, Enlistment, Family, Home Front, Military Authority, National
+                        Government, Patriotism, Troop Movement, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="SCC0317T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                
+                <p>William and Alexander Gibson, sons of William Gibson (deceased) and executors of
+                    his estate, claimed that Union troops confiscated 9000 pounds of beef and 2
+                    horses from their father's farm near Arbor Hill, Augusta Co., Va. The testimony
+                    reveals that the "fresh beef" were actually live cattle. The Claims Commission
+                    ruled that a portion of the claim had already been paid ($210) and that the
+                    remainder of the claim was unsubstantiated; thus the claim was disallowed in
+                    1874.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="claim_items" id="d5">
+                
+                <p>
+                    <table>
+                        <row>
+                            <cell>
+                                <hi rend="bold">Item Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Allowed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Disallowed:</hi>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>3000 pounds of fresh beef @ 7 cts.</cell>
+                            <cell>$210.00</cell>
+                            <cell>0</cell>
+                            <cell>$210.00</cell>
+                        </row>
+                        <row>
+                            <cell>6000 pounds of fresh beef @ 7 cts.</cell>
+                            <cell>$420.00</cell>
+                            <cell>0</cell>
+                            <cell>$420.00</cell>
+                        </row>
+                        <row>
+                            <cell>2 Horses, Matched bays, star in face, aboue 16 hands high</cell>
+                            <cell>$300.00</cell>
+                            <cell>0</cell>
+                            <cell>$300.00</cell>
+                        </row>
+                    </table>
+                </p>
+            </div1>
+            <div1 type="claim_summary" id="d6">
+                
+                <p>The deceased William Gibson lived in Augusta Co. Va. - The <abbr
+                        expan="Executors">Ex<hi rend="super">rs.</hi></abbr> are his sons.</p>
+                <p>The son <abbr expan="William">Wm</abbr> says he was conscripted in '62, after the
+                    Conscript law was passed, into the rebel army &amp; remained in the service
+                    till some time in 1863 when he was discharged. He does not give the dates of his
+                    entry or discharge. He probably was in the rebel Army over a year. He says his
+                    service was "involunteer" - "was conscripted." There is nothing to show this but
+                    his <unclear>pan</unclear> assertion - no facts or circumstances stated so that
+                    we can judge whether voluntary or not. The third Auditor it seems has allowed a
+                    voucher for $210. worth of beef. Whether he knew of his service in the rebel
+                    army does not appear - but it is probable that he was not informed of it.</p>
+                <p>As to the other heir of the father the proof of loyalty might be deemed
+                    sufficient.</p>
+                <p>But it appears that the items 1 &amp; 2 charged as beef were really 18 head
+                    of cattle all taken at one time; that the deceased soon after, perhaps the same
+                    day, got a receipt for $210 - it is clear that he would have got a receipt for
+                    the whole, as well as for a part, if the whole number 18 were really taken or,
+                    were not in part paid for at the time. No one can give any reason why a receipt
+                    for the whole was not given; &amp; we are satisfied that either a part was
+                    paid for; or that a part did not come to Army use; or that the number or value
+                    are much exaggerated and that the whole were not worth over $210. - The $210 has
+                    been paid.</p>
+                <p>The horses were taken "after dark" by "several" soldiers. No officers were
+                    present. They said they were needed for the Army. There had been skirmishing
+                    near there that day. - These, are all the circumstances of the taking &amp;
+                    they indicate lawless rather that lawful taking - Claim rejected.</p>
+                <p><name type="other">A.O. Aldis</name> Commr of Claims</p>
+            </div1>
+            <div1 type="testimony" id="d7">
+                
+                <byline>William Gibson</byline>
+                <p>United States of America State of Va.</p>
+                <p>I W.G. Riley, a commissioner selected and designated by the Commrs. of Claims,
+                    appointed under the Act of Congress of March 3<hi rend="super">d</hi> 1871
+                    to take and record testimony. Do hereby certify that the reason for taking the
+                    following depositiions is and the fact is the matter of claim of William and
+                    Alexander Gibson, Ex<hi rend="super">rs</hi> of William Gibson deceased
+                    Vs. The United States of America and the witnesses herein named being first duly
+                    sworn answereth as follows.</p>
+                <p>Ques. 1st Witness <del hand="h1">says</del> being William Gibson one of Executors of
+                    William Gibson <abbr expan="deceased">dec'<hi rend="super">d</hi></abbr>.
+                    Witness says I resided in Augusta Co. Va. at home personally during that period
+                    farming.</p>
+                <p>Ques. 2d Witness says I resided at home between April 1st 1861 &amp; June 1st
+                    1865, except what time I was conscribed by the Confederates and my residence in
+                    Indiana.</p>
+                <p>Ques. 3d Witness says I did not pass beyond the Military or Naval lines of the
+                    United States and enter the rebel lines, but did pass from the rebel lines to
+                    the U.S. lines</p>
+                <p>Ques. 4th Witness says I have no recollection of ever taking an oath or
+                    affirmation to support or aid The Confederacy.</p>
+                <p>Ques. 5th Witness says I took an Amnesty oath at New Creek, W. Va. April 5<hi
+                        rend="super">th</hi> 1865, after voluntarily leaving the rebel lines.</p>
+                <p>Ques. 6th Witness says I never exercised the function of any office whatever in
+                    the Confederacy.</p>
+                <p>Ques. 7th Witness says I never held an office under the Confederate Government or
+                    any State or Territory subordinate thereto.</p>
+                <p>Ques. 8th Witness says I had no clerkship or agency of any kind.</p>
+                <p>Ques. 9th Witness says I was conscripted soon after that law was enacted, I think
+                    in 1862, and was discharged in 1863, and never thereafter entered the army.
+                    (rebel)</p>
+                <p>Ques. 10th Witness says I never was in the rebel Army or service, in any capacity
+                    except as an <orig reg="involuntary">involunteer</orig> conscript.</p>
+                <p>Ques. 11th Witness says, None whatever, except what I say in my previous
+                        <del hand="h1">questions</del> answers. I never give any information of any kind
+                    whatever to the Confederate Authorities. </p>
+                <p>Ques. 12th Witness Says. I was not engaged or assisted in the manufacture of any
+                    thing whatever to aid or support The Confederate Government or Army.</p>
+                <p>Ques. 13th Witness says I never was directly or indirectly employed in any manner
+                    for the collection of stores, supplies or other articles, and had no share or
+                    interest whatever for such purpose.</p>
+                <p>Ques. 14th Witness Says. I never was engaged in blockade running or illicit
+                    traffic or intercourse between the lines nor was I interested therein. I never
+                    had any interest or share in any goods, wares, or merchandise brought into or
+                    exported from the Confederate States.</p>
+                <p>Ques. 15th Witness says I left the so called Confederate States in the spring of
+                    1865 and went to Indiana. I went for the pupose of getting clear of the rebel
+                    Government. I was absent until the following September and returned to Augusta
+                    Co. Va.</p>
+                <p>Ques. 16th Witness says I had no interest in or to any vessel used in navigation
+                    in any way or any where whatever.</p>
+                <p>Ques. 17th Witness says I never was arrested by the Confederates.</p>
+                <p>Ques. 18th Witness says I had one horse taken for which I never was paid.</p>
+                <p>Ques. 19th Witness says I never was threatened in person but heard of threats
+                    being made for my Union sentiments.</p>
+                <p>Ques. 20th Witness says My fathers property was impressed, and told that we ought
+                    to be driven away on account of our Union sentiments.</p>
+                <p>Ques. 21st Witness Says I had no opportunity to to do so, except some provisions
+                    to the soldiers.</p>
+                <p>Ques. 22nd Witness says Nothing but fed the soldiers.</p>
+                <p>Ques. 23rd Witness says I had one nephew in the rebel Army, and some cousins in
+                    the United States Army. I never contributed anything to them.</p>
+                <p>Ques. 24th Witness says My father refused to take Confederate bonds and so did I
+                    and he never contributed anything voluntarily to aid or support the Credit of
+                    the Confederacy. And he nor I ever give any aid voluntarily to the Confederacy.</p>
+                <p>Ques. 26th Witness says I never was engaged in making raids into the U.S. from
+                    Canada nor on the Lakes or rivers adjoining Canada.</p>
+                <p>Ques. 27th Witness says My father never was engaged directly or indirectly in
+                    doing anything to aid or abet the Confederacy. I have given <abbr expan="United"
+                        >U.</abbr> States soldiers, held as prisoners by the Confederacy provisions.
+                    He nor I never were members of any society or association whatever in connection
+                    with the rebel Government or its authorities.</p>
+                <p>Ques. 29th Witness says, No.</p>
+                <p>Ques. 30th Witness says No.</p>
+                <p>Ques. 31st Witness says I have received passes from Confederate
+                    <unclear>Surgeons</unclear> to go home, but never took any oath.</p>
+                <p>Ques. 32nd Witness says I was under no diabilities neither was my father. I was a
+                    Registrar and took the so called "Iron clad" oath.</p>
+                <p>Ques. 33rd Witness says At the beginning I sympathized with the Union cause and
+                    used my influence as did my father in favor of the Union. Neither my father nor
+                    myself voted for or against the ordinance of Secession. After the ordinance of
+                    Secession was passed we both adhered in our sympathies to the Union.</p>
+                <p>Ques. 34th Witness says I solemly declare that myself and father from the
+                    beginning of hostilities against the United States to the end thereof our
+                    sympathies were constantly with the cause of the United States, that we never of
+                    our own free will and accord did anything or offered or sought to do anything by
+                    word or deed to injure said cause or retard its success, and we were at all
+                    times ready and willing if called upon to aid and assist the cause of the Union
+                    so far as our means, and power and the circumstances permitted.</p>
+                <p>Questions by the Commissioner</p>
+                <p>Ques. 1 How old are you, where do you reside and what is your occupation and when
+                    did your father William Gibson die.</p>
+                <p>Answer. I am about 40 years old, I reside in Augusta Co. Va. My occupation is a
+                    farmer. My father died April 10th 1869, aged about 84 years.</p>
+                <p>Further, this witness saith not.</p>
+                <p>August 17<hi rend="super">th</hi> 1871</p>
+                <p>
+                    <name type="witness">William Gibson</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d8">
+                
+                <byline>Alexander Gibson</byline>
+                <p>Alexander Gibson, a witness introduced to prove the taking of the property of
+                    Claimants executors of William Gibson <abbr expan="deceased">dec'<hi
+                            rend="super">d</hi></abbr> being duly sworn answers as follows.</p>
+                <p>Ques. 1st Witness says, I was present when the property was taken, I saw them all
+                    taken.</p>
+                <p>Ques. 4th Witness says the cattle was taken on the 7th of June 1864, and the
+                    horses taken on the 10th June 1864, from the farm of the Executors then William
+                    Gibson, now deceased. Henry Demasters and others were present.</p>
+                <p>Ques. 6th Witness says that he does not know whether there was any officer
+                    present or not.</p>
+                <p>Ques. 7th Witness says. The Cattle were drove off and the horses rode. The
+                    soldiers said they were ordered to take the property for the use of the Army.</p>
+                <p>Ques. 9th Witness says the Cattle were removed to Staunton, Va. and the horses
+                    were taken when the Army was moving to Lexington Va.</p>
+                <p>Ques. 10th Witness says I suppose the cattle were taken for beef, as they were in
+                    good order, but do not know the <del hand="h1">less</del> use the horses were taken for.
+                    My father complained at the time, but the soldiers said they had orders to do
+                    so.</p>
+                <p>Ques. 12th Witness says. My father asked for a receipt, and did get a receipt for
+                    a part of the cattle, which was signed by Capt. Ash and countersigned by Gen<hi
+                        rend="super">l</hi>. Custer, which is filed with the Claimants
+                    petition. I do not know why a receipt was not given for the other property. The
+                    Cattle were taken in the day time in the forenoon, and the horses about dark.</p>
+                <p>Ques. 14th Witness says. There was no regular encampment in that vicinity, only
+                    for the night - The army was in Command of Gen<hi rend="super">ls</hi>.
+                    Crook &amp; Averill. There had been a battle at Piedmont by Gen<hi
+                        rend="super">l</hi>. Hunter's Army about 20 miles off. There was a
+                    skirmish about 3 miles away, on the day the horses were taken I know no officer
+                    of any rank.</p>
+                <p>Ques. 15th Witness says. The Cattle and horses were in good condition when taken,
+                    and worth all that is charged in the petition.</p>
+                <p>Ques. 19th Witness says I believe all the property was taken for the use of the
+                    Army, and not to gratify the wish of soldiers, or officers and that it was
+                    necessary for them to have them.</p>
+                <p>Ques. 20th Witness says I do not know them, but suppose the property was taken
+                    because it was needed so necessary as to justify the Officers in ordering it to
+                    be taken.</p>
+                <p>Ques. 22nd Witness says I do suppose that it was so necessary for them to have it
+                    &amp; that is was so useful as to warrant and require the Government to pay
+                    for it.</p>
+                <p>Ques. 23rd Witness says I believe it was taken by the order of an officer or
+                    officers having authority, as the soldiers said they were acting by order.</p>
+                <p>Questions by Commissioner</p>
+                <p>Ques. 1st How old are you, Where do you reside and what is you occupation?</p>
+                <p>Answer. I am about 40 years old, I reside in Augusta Co. Va. My occupation is a
+                    farmer.</p>
+                <p>Further this deponent saith not.</p>
+                <p>August 17<hi rend="super">th</hi> 1871</p>
+                <p>
+                    <name type="witness">Alexander Gibson</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d9">
+                
+                <byline>William T. Fauber</byline>
+                <p>In answer to the First General Interrogatory, the Deponent says: My name is
+                    William T. Fauber, my age 48 years, my residence Near Arbor Hill, Augusta, in
+                    the State of virginia, and my occupation a Farmer; I am not related to the
+                    claimant, and have no beneficial interest in the claim.</p>
+                <p>Ques. 2 Ans. I have known <abbr expan="William">W<hi rend="super"
+                    >m</hi></abbr> Gibson <abbr expan="deceased">dec'<hi rend="super"
+                    >d</hi></abbr> from my boyhood, and resided about one mile from him during the
+                    War. I saw him once and twice a week during the war. I had frequent and free
+                    conversations with him about the war, and always found him opposed to the War.
+                    He said that the attack on Ft. <orig reg="Sumter">Sumpter</orig> was the worst
+                    thing the South could have done, that the war was unjust and would not succeed.
+                    I am satisfied that he never did anything in aid of the rebellion voluntarily. I
+                    have heard him say "The South could not be whipped, any too soon to please
+                        <del hand="h1">me</del> him." I have heard him express himself freely to others
+                    besides myself. The Union men of his neighborhood had full confidence in his
+                    loyalty to the Union and its cause, and were free in telling him all they knew.
+                    I am satisfied that if the South had succeeded as an independent Government that
+                    the deceased could not have shown any loyalty to it. He thought that in that
+                    event he would have to leave.</p>
+                <p>I am also intimately and well acquainted with the legatees, and was during the
+                    war. William and Alexander are the executors. John Gibson and the widow now
+                    deceased are the legatees by virtue of the Will of the deceased W. Gibson. The
+                    daughters were provided for by specific item in said Will and are not
+                    beneficiaries in the claim against the United States. The family from the oldest
+                    to the youngest were strictly and thoroughly loyal to the United States. I never
+                    heard any of them express a disloyal sentiment or do a disloyal act. John Gibson
+                    told me <add hand="h1" place="inline">he</add> voted against the ratification of the Ordinance of
+                    Secession. I know that neither of them could show the slightest loyalty to the
+                    South or its cause.</p>
+                <p>
+                    <name type="witness">William T. Fauber</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d10">
+                
+                <byline>Henry Demasters</byline>
+                <p>Deposition of Henry Demasters</p>
+                <p>My name is Henry Demasters, my age is 64 years, my residence near Lexington
+                    Nelson Co. Va. My occupation a laborer on a farm. I resided on the farm of the
+                    claimants during the War, and knew their feeling and sentiments well in relation
+                    to the war and its cause, and I know that they all were bitterly opposed to the
+                    War and secession. I never knew them to say or do anything in aid, or favor of
+                    the rebellion. My sympathies were with them, hence always conversed with them
+                    without reserve. The Secessionists of the neghborhood regarded them as disloyal
+                    to the South. I helped the claimants to hide grain and other property to keep
+                    the Confederates from getting it and also know that there was a large quantity
+                    kept in the straw until after the surrender. I am satisfied, that neither one of
+                    them had any sympathy with the rebellion. I was present and saw the Cattle 18
+                    head drove out of the field by the Union soldiers, under the command of Genls.
+                    Crook and Averill. I do not know the name of any officer engaged, there were a
+                    large number engaged. The Army had encamped the night previous about 3 miles
+                    from the Claimants, and on the day the Cattle were taken the Army of Genls.
+                    Crook &amp; Averill was marching to Staunton and joined Genl. Hunter at that
+                    place. The Cattle were taken in the forenoon, in the month of June 1864. I do
+                    not recollect the day of the Month, but a few days after Genl. Hunter's battle
+                    at Piedmont. Genls Crook &amp; Averill had had no battle near. I did not
+                    hear anything said about the taking of the Cattle. I was present when a receipt
+                    was given for the Cattle. I do not remember the name of the Officer who gave the
+                    receipt. The receipt was given to <abbr expan="William">W<hi rend="super"
+                            >m</hi></abbr> Gibson <abbr expan="deceased">dec<hi rend="super"
+                        >d</hi>.</abbr> in my presence at the Camp at Staunton. There 18 head of
+                    Cattle, all in pretty good order, generally young, 3 and 4 year old - 6 of them
+                    would have weighed upwards of 1000 gross, I think 600 <orig reg="net"
+                    >nett</orig>, and the remainder 12 would have netted 300 and 400. I think from
+                    my recollection of the Cattle that they would have exceeded in <orig reg="net"
+                        >nett</orig> beef 9000 lbs as charged. I think seven cents is a low as beef
+                    could have been bought at in good money. I saw the two mares charged in their
+                    possession when the Army was marching to Lexington, it was in the Night, and the
+                    Army was marching on two different <orig reg="parallel">paralel</orig> routes.
+                    They were leading the Mares when I saw them, I suppose it was a Cavalry command
+                    as the Soldiers were all mounted. I heard nothing said in relation to them.</p>
+                <p>The Mares were young, in color bays, a small white star in their faces, in fine
+                    order, well broken and good matches. I think they would have been well worth
+                    $160 each, or $170.</p>
+                <p><name type="witness">Henry Demasters</name> his mark</p>
+            </div1>
+            <div1 type="testimony" id="d11">
+                
+                <byline>Mary J. Gibson</byline>
+                <p>Deposition of Mary J. Gibson</p>
+                <p>My name is Mary J. Gibson, my age is 50 years. My residence is near Arbor Hill
+                    Augusta County. I am the sister of the legatees, and daughter of the deceased
+                        <abbr expan="William">W<hi rend="super">m</hi>.</abbr> Gibson. I have
+                    no beneficial interest in the claim, as my father by his will bequeathed me a
+                    specific sum. I was present and saw the Cattle charged in the account taken,
+                    there were 18 head. They were taken in June 1864, near the first of the month,
+                    by the Army commanded by Genls Crook &amp; Averill, then on their to
+                    Staunton. The Cattle were taken in day light, about 10 Oclock A.M. The Army had
+                    camped the night previous about 3 miles from my fathers. I do not know how many
+                    men were engaged in driving the cattle. I did not hear the name of any officer.
+                    My father went to Staunton, and got a receipt for a part of the Cattle, the
+                    amount of beef I do not recollect. I believe the receipt (Duplicate) was filed
+                    with W.G. Riley, a former Special Commissioner, and I heard my brother say that
+                    he had given the original to Senator J.F. Lewis (see his letter filed herewith
+                    &amp; marked <hi rend="underline">B</hi>). When the horses were taken, it
+                    was after dark. I saw several soldiers, they said they belonged to the Union
+                    Army. This was two or three days after the cattle were taken, and as the Army
+                    was on its way to Lexington. They said they needed the horses and were obliged
+                    to have them. They were skirmishing near to our house the evening that the
+                    horses were taken. No regular battle except the one at Piedmont several days
+                    previous.</p>
+                <p>The Cattle were in good condition. I am <add hand="h1" place="inline">not a</add> judge of Stock and
+                    cannot say what they would weighed.</p>
+                <p>The horses were about 5 &amp; 7 years old, in good condition, and well
+                    broken. I suppose at that time they were worth $150 each.</p>
+                <p>
+                    <name type="witness">Mary J. Gibson</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d12">
+                
+                <byline>Elizabeth V. Gibson</byline>
+                <p>Deposition of Elizabeth V. Gibson</p>
+                <p>My name is Elizabeth V. Gibson my age is 30 years. My residence near Arbor Hill,
+                    Augusta County. I am a sister of the legatees but have no beneficial interst in
+                    the claim. I was present and saw the cattle drove away by Union Soldiers,
+                    numbering I suppose a Company of Cavalry. I did not hear the names of any
+                    officer engaged in taking the Cattle. They were taken about 10 Oclock A.M. I
+                    suppose. The Army had camped the night before at M<hi rend="super">r</hi>.
+                    Bumgardner's about 3 miles distant from my fathers. The army was in Command of
+                    Genls. Crook and Averill, then on their way to Staunton. My father went to
+                    Staunton and got a recipt for, I think, 3000 pounds of beef I do not know why he
+                    did not get a receipt for all of the beef. The Duplicate was handed to W.G.
+                    Riley a Special Commissioner and the original to Senator Lewis. The Cattle (18)
+                    were in good order. The estimate made at the time I recollect was 9000 lbs. They
+                    were taken in different lots, 6 of them were large, and the others medium size.
+                    I saw the horses taken, they were taken about dark. There were 3 soldiers who
+                    said they belonged to the Union Army. This was several days after the Cattle
+                    were taken. The Army then was on its way to Lexington. I think the horses then
+                    were worth $175 a piece. They were in good condition</p>
+                <p>
+                    <name type="witness">Elizabeth V. Gibson</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d13">
+                
+                <byline>Elizabeth V. Gibson</byline>
+                <p>Elizabeth Gibson, a witness introduced to prove the loyalty of the Claimant,
+                        <abbr expan="William">W<hi rend="super">m</hi>.</abbr> Gibson,
+                    Alexander Gibson, <abbr expan="Executors">Exe'<hi rend="super"
+                    >rs</hi></abbr> of William Gibson deceased.</p>
+                <p>Ques. 1st Questions by the Commissioner.</p>
+                <p>How old are you, where do you reside, and what is your occupation?</p>
+                <p>Answer. I am about 25 years old, I reside in Augusta Co. Va. My occupation is a
+                    house keeper. I have known the deceased William Gibson and the Claimants all my
+                    life. I saw them often during the war. They were at all times loyal in their
+                    sympathies to the Union Cause and were so regarded by their neighbors. They had
+                    no opportunity to contribute to the support of the United States.</p>
+                <p>Ques. 2 Do you know of any act done, or language used that would have prevented
+                    either of the parties named in the petition from establishing his loyalty to the
+                    Confederacy, had it <add hand="h1" place="inline">been</add> maintained as a <orig reg="separate"
+                        >seperate</orig> Government.</p>
+                <p>Answer. I do not think that they could have established any loyalty to the
+                    Confederacy.</p>
+                <p>Further this witness saith not.</p>
+                <p>August 17th 1871</p>
+                <p>
+                    <name type="witness">Elizabeth Gibson</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d14">
+                
+                <byline>Henry Demasters</byline>
+                <p>Henry Demasters, a witness introduced by Claimants to prove loyalty to the United
+                    States, being duly sworn answers as follows.</p>
+                <p>Questions by Commissioner</p>
+                <p>Ques. 1st How old are you, where do you reside, what is your occupation?</p>
+                <p>Answer - I am 62 years old, I reside in Augusta Co. Va. My occupation generally a
+                    farmer. I have known the Claimants since 1862. I saw them often during the War.
+                    They were strong Union men, often heard them talk in opposition to the
+                    Confederacy, and in favor of the Union. I think their neighbors all regarded
+                    them as Union men and hated them for it.</p>
+                <p>Ques. 2nd Do you know any act done or language used by either of the Claimants
+                    that would have prevented them on either of them from establishing his loyalty
+                    to the Confederacy, had it been maintained as a <orig reg="separate"
+                    >seperate</orig> Government.</p>
+                <p>Answer. I do not know that they could.</p>
+                <p>Further this witness saith not.</p>
+                <p><name type="witness">Henry Demasters</name> his mark</p>
+            </div1>
+            <div1 type="testimony" id="d15">
+                
+                <byline>United States War Department</byline>
+                <p>Archive Office, WAR DEPARTMENT, April 30, 1875</p>
+                <p>Book 3, Letters Sent, page 107</p>
+                <p>Case of William Gibson of Augusta Co. Va</p>
+                <p>Bill &amp; receipt for 12 bushel Wheat at $14 per bushel $168 no/100s Paid
+                    May 7, 1864 at Mint Spring.</p>
+                <p>
+                    <add hand="h1" place="inline">Dec<hi rend="super">r</hi> 14/74 Reported</add>
+                </p>
+                <p>
+                    <add hand="h1" place="inline">rejected</add>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d16">
+                
+                <byline>United States War Department</byline>
+                <p>Archive Office, WAR DEPARTMENT, Sept. 15, 1874</p>
+                <p>Book 3, Letters Sent, page 48</p>
+                <p>Case of W<hi rend="super">m</hi> Gibson of Augusta Co. Va</p>
+                <p>Bill &amp; receipt for pasturing Horses &amp; mules 14 days from Oct<hi
+                        rend="super">r</hi> to Nov<hi rend="super">r</hi> 1864 at
+                    Staunton Va. $17.00 paid at Staunton Dec<hi rend="super">r</hi> 28th 1864
+                    by Maj H. M. Bell.</p>
+                <p>
+                    <add hand="h1" place="inline">Disall'd<lb/>4 Report</add>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d17">
+                
+                <byline>United States War Department</byline>
+                <p>Archive Office, WAR DEPARTMENT, July 31st, 1878</p>
+                <p>Book 3, Letters Sent, page 337</p>
+                <p>Case of William Gibson of Augusta Co. Va</p>
+                <p>Bill &amp; voucher for Pasturing Govt. horses in July &amp; August 1863.
+                    amount $183<hi rend="super">60</hi>. Paid at Staunton Va. Oct 20<hi
+                        rend="super">th</hi> 1863. by H. M. Bell Q. M. C. S. A.</p>
+            </div1>
+            <div1 type="testimony" id="d18">
+                
+                <byline>H. C. Bliss</byline>
+                <p>Law Office of H.C. Bliss, 1332 F Street, Under Southern Claims Commission Rooms,
+                    Washington D.C., Oct 6 1874</p>
+                <p>In the Matter of Wm. Gibson (decd) No. 8955 <del rend="none" hand="h1"></del></p>
+                <p>Hon. Commissioners of Claims,</p>
+                <p>The vouchers in the accompanying claim of Wm. Gibson (decd) for $210 are witheld
+                    by me to be filed in the <abbr expan="Treasury">Treas.</abbr><abbr
+                        expan="Department">Dep.</abbr> for immediate settlement.</p>
+                <p>The claim may be considered abated that am't unless the said vouchers are
+                    returned prior to the consideration of this case.</p>
+                <p>
+                    <name type="other">H.C. Bliss</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d19">
+                
+                <byline>J. F. Lewis</byline>
+                <p>Port Republic, June 6<hi rend="super">th</hi>, 1871</p>
+                <p>William Gibson - Esqr</p>
+                <p>My dear sir</p>
+                <p>Yours of the 27 Ult. is before me. I answer that I have placed your papers before
+                    the committee on claims, of the Senate. I would advise you however, to give your
+                    claim to some one who is attending to claims before the commission in
+                    Washington. They can get copies of the papers from the clerk of the committee on
+                    claims. I am sorry I did <orig reg="not">no</orig> receive your letter before
+                    leaving Washington, &amp; before the adjournment of the Senate as I could
+                    then have gotten leave to withdraw the papers.</p>
+                <p>Your friend <name type="other">J.F. Lewis</name></p>
+            </div1>
+            <div1 type="testimony" id="d20">
+                
+                <byline>H C Bliss</byline>
+                <p>Law Office of H.C. Bliss, 1332 F Street, Under Southern Claims Commission Rooms
+                    Washington D.C. June 13 1874</p>
+                <p>In the Matter of Wm. Gibson dec. No. 8955</p>
+                <p>Hon. Commissioners of Claims,</p>
+                <p>I respectfully inform you that I have obtained partial settlement of the claim of
+                    Wm Gibson (dec'd) No 8955 through the third auditors office, <abbr
+                        expan="Treasury">Treas</abbr>.</p>
+                <p>The partial settlement was in the sum of $210 - evidence by voucher filed with
+                    the <hi rend="underline">Senate</hi> - prior to the presentation of this claim
+                    to the Commissioner. And withdrawn therefrom, by leave, Feb 1874. And presented
+                    to the Third Aud Treas. The claim should therefore be abated $210. The vouchers
+                    are referred to in the testimony.</p>
+                <p>Respectfully, <name type="other">H.C. Bliss</name> Aty.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

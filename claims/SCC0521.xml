@@ -1,0 +1,570 @@
+<?xml version="1.0"?>
+
+<?dlps id="SCC0521"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 id="SCC0521">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Southern Claims Commission: Claim of Lydia Fishburn,
+                    1876, Claim No. 17000</title>
+        <title type="sort">southern claims commission claim of lydia fishburn, 1876 claim no 17000</title>
+        <author>Fishburn, Lydia</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca.<num type="kilobytes"> 26 </num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">SCC0521</idno>
+        <!--
+                <availability>
+                    <p>Publicly accessible</p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2006, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2006">2006</date>
+            <idno type="uva-pid">uva-lib:498408</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title type="main">Southern Claims Commission: Claim of Lydia Fishburn, 1876,
+                            Claim No. 17000</title>
+            <title level="m"/>
+            <title type="sort">southern claims commission claim of lydia fishburn, 1876 claim no 17000</title>
+            <author>Lydia Fishburn</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives, College Park,
+                            RG 217, claim # 17000</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1876">1876</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+        <hand id="h1"/>
+      </handList>
+            <textClass>
+                <keywords>
+                    <term>Agriculture, Death/Casualties, Enlistment, Patriotism, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="SCC0521T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                
+                <p>Lydia Fishburn filed this claim in 1876 for $1105.50, claiming Union forces under
+                    General Hunter took two horses, corn, sheep, butter, hogs, bacon, lard, salt
+                    beef, apple butter, sorgham, vinegar, and hay in 1864. Lydia was the widow of
+                    Philip Fishburne. One of her sons residing in Staunton, George, was in the
+                    Confederate Army. She had one son and two grandsons in the Union Army. The
+                    commission allowed $714.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="claim_items" id="d5">
+                
+                <p>
+                    <table>
+                        <row>
+                            <cell>
+                                <hi rend="bold">Item Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Allowed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Disallowed:</hi>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>2 Horses</cell>
+                            <cell>$400.00</cell>
+                            <cell>$280.00</cell>
+                            <cell>$120.00</cell>
+                        </row>
+                        <row>
+                            <cell>50 bushels Corn</cell>
+                            <cell>$50.00</cell>
+                            <cell>$50.00</cell>
+                            <cell>$0.00</cell>
+                        </row>
+                        <row>
+                            <cell>2 Sheep</cell>
+                            <cell>$12.00</cell>
+                            <cell>$6.00</cell>
+                            <cell>$6.00</cell>
+                        </row>
+                        <row>
+                            <cell>50 lbs Butter</cell>
+                            <cell>$20.00</cell>
+                            <cell>$0.00</cell>
+                            <cell>$20.00</cell>
+                        </row>
+                        <row>
+                            <cell>6 Sheep</cell>
+                            <cell>$36.00</cell>
+                            <cell>$18.00</cell>
+                            <cell>$18.00</cell>
+                        </row>
+                        <row>
+                            <cell>6 Hogs</cell>
+                            <cell>$120.00</cell>
+                            <cell>$60.00</cell>
+                            <cell>$60.00</cell>
+                        </row>
+                        <row>
+                            <cell>550 lbs Bacon</cell>
+                            <cell>$137.00</cell>
+                            <cell>$100.00</cell>
+                            <cell>$37.00</cell>
+                        </row>
+                        <row>
+                            <cell>75 pounds Butter</cell>
+                            <cell>$30.00</cell>
+                            <cell>$0.00</cell>
+                            <cell>$30.00</cell>
+                        </row>
+                        <row>
+                            <cell>50 pounds Lard</cell>
+                            <cell>$15.00</cell>
+                            <cell>$0.00</cell>
+                            <cell>$15.00</cell>
+                        </row>
+                        <row>
+                            <cell>300 pounds Salt Beef</cell>
+                            <cell>$45.00</cell>
+                            <cell>$30.00</cell>
+                            <cell>$15.00</cell>
+                        </row>
+                        <row>
+                            <cell>20 Galls. apple Butter</cell>
+                            <cell>$20.00</cell>
+                            <cell>$0.00</cell>
+                            <cell>$20.00</cell>
+                        </row>
+                        <row>
+                            <cell>30 " Sorgham</cell>
+                            <cell>$30.00</cell>
+                            <cell>$0.00</cell>
+                            <cell>$30.00</cell>
+                        </row>
+                        <row>
+                            <cell>40 " Vinegar</cell>
+                            <cell>$20.00</cell>
+                            <cell>$0.00</cell>
+                            <cell>$20.00</cell>
+                        </row>
+                        <row>
+                            <cell>100 bush Corn</cell>
+                            <cell>$100.00</cell>
+                            <cell>$100.00</cell>
+                            <cell>$0.00</cell>
+                        </row>
+                        <row>
+                            <cell>3 1/2 tons Hay</cell>
+                            <cell>$70.00</cell>
+                            <cell>$70.00</cell>
+                            <cell>$0.00</cell>
+                        </row>
+                    </table>
+                </p>
+            </div1>
+            <div1 type="claim_summary" id="d6">
+                
+                <p>The claimant is the <hi rend="super">widow of</hi> Philip <orig
+                        reg="Fishburn">Fishburne</orig> who died in 1865 and left all his personal
+                    property to her. She is a very old Lady and they have a very large family of
+                    sons and daughters. Some of the sons and Grandsons were in the Rebel Army but
+                    more in the Union Army. Claimant swears to her own and her husbands loyalty, and
+                    two or three witnesses give decided testimony to the loyal conversation and
+                    reputation of both as well as <del rend="none" hand="h1"></del> most of the family connection, part of whom
+                    had moved to Iowa before the war.</p>
+                <p>The Horses were taken by soldiers of Hunter's Command three days after the Battle
+                    of Piedmont, and seem to have been needed for the use of the Commad, as many
+                    were dismounted. The corn and sheep seem also to have been needed for Army use
+                    and were taken by Sheridan in Sept.</p>
+                <p>Items five to 15 in claim were taken by Sheridan's Command in March 1865 by
+                    Sheridan's Command. We do not allow for Pantry stores usually as Supplies for
+                    the Army.</p>
+                <p>We allow in full of Claim the sum of Seven Hundred and fourteen dollars on the
+                    testimony of Claimant and her daughter.</p>
+                <p><name type="other">AO Aldis</name>, <name type="other">JB Howell</name>, <name
+                        type="other">O. Ferris</name><abbr expan="Commissioners">Commrs</abbr> of
+                    Claims</p>
+            </div1>
+            <div1 type="testimony" id="d7">
+                
+                <byline>Lydia Fishburn</byline>
+                <p>In answer to the First General Interrogatory, the Deponent says: My name is Lidia
+                    Fishburn, my age is 77 years, my residence Clines Mill Augusta, in the State of
+                    Va., and my occupation a ; I am the claimant, and have beneficial interest in
+                    the claim.</p>
+                <p>2 Ans. I have resided where I now do for fifty years. I have 196 acres of land,
+                    about 100 cleared.</p>
+                <p>3 Ans. I never passed any military lines.</p>
+                <p>4 Ans. I never took any oath.</p>
+                <p>5 Ans. I have taken no amnesty oath.</p>
+                <p>6 Ans. No.</p>
+                <p>7 Ans. No.</p>
+                <p>8 Ans. No.</p>
+                <p>9 Ans. No.</p>
+                <p>10 Ans. No.</p>
+                <p>11 Ans. I never had anything to do with any services.</p>
+                <p>12 Ans. No sir.</p>
+                <p>13 Ans. I was not conscripted.</p>
+                <p>14 Ans. I furnished no substitute.</p>
+                <p>15 Ans. Never.</p>
+                <p>16 Ans. Never at all.</p>
+                <p>17 Ans. I had charge of nothing.</p>
+                <p>18 Ans. I never was in service at all.</p>
+                <p>19 Ans. I made no cloth or anything else nor interested in any manufacture for
+                    the benefit of the Confederacy.</p>
+                <p>20 Ans. Never.</p>
+                <p>21 Ans. I no way.</p>
+                <p>22 Ans. I did not.</p>
+                <p>23 Ans. I was not.</p>
+                <p>24 Ans. I was never arrested by either the Confederates or the United States.</p>
+                <p>25 Ans. Nothing except they stole Bee hives and butter.</p>
+                <p>26 Ans. I never was threatened.</p>
+                <p>27 Ans. No, not seriously.</p>
+                <p>28 Ans. I never contributed anything.</p>
+                <p>29 Ans. I done nothing except to feed some of the soldiers.</p>
+                <p>30 Ans. My son George Fishburn, was in the Confederate Army, he resides near
+                    Staunton. I never furnished him any thing at all.</p>
+                <p>31 Ans. I never owned any bonds, and done nothing to support the credit of the
+                    Confederate Army or Government.</p>
+                <p>32 Ans. I never <orig reg="gave">give</orig> aid or comfort to the rebellion.</p>
+                <p>33 Ans. I never made raids.</p>
+                <p>34 Ans. No.</p>
+                <p>35 Ans. Never</p>
+                <p>36 Ans. No.</p>
+                <p>37 Ans. No. No.</p>
+                <p>38 Ans. I never had a pass.</p>
+                <p>39 Ans. I had no disabilities.</p>
+                <p>40 Ans. My sympathies were with the Union all the time.</p>
+                <p>41 Ans. I do solemnly declare that from the beginning of hostilities against the
+                    United States to the end thereof, my sympathies were constantly with the cause
+                    of the United States, and I never of my own free will and accord did anything,
+                    or offered, or sought, or attempted to do anything by word or deed, to injure
+                    said cause or retard its success and was at all times ready and willing if
+                    called upon to aid and assist the cause of the Union, or its supporters, so as
+                    my means and power and the circumstances would permit.</p>
+                <p>42 Ans. husband Phillip Fishburn, died in July 1865. I was married in 1818. My
+                    husband was thoroughly a Union man, I have nine children living. My oldest Abram
+                    Fishburn, is about 60 years old, he resides in the State of Illinois, one of his
+                    sons was in the Union Army. William Fishburn, is about 58 years old, he resides
+                    in South West Virginia. I do not know his Post Office. Ezra Fishburn, lives in
+                    Iowa, he is about 54, his son was in the Union Army. Daniel Fishburn, is about
+                    52 he resides near Staunton. Levi Fishburn about 49, resides near Staunton.
+                    David Fishburn, lives in Iowa, about 46, he was in the Union Army. George
+                    Fishburn, about 40, he resides near to Staunton. Elizabeth M<hi
+                        rend="super">c</hi>Leod, resides in in Rockingham <abbr expan="County"
+                        >Co.</abbr><abbr expan="Virginia">Va.</abbr> is about 59, and Sarah L. A.
+                    Fishburn, is about 35 years, and resides with me. My son George was in the
+                    Confederate Army, he was there against his own consent. I hold the real estate
+                    in virtue of my father Abram Silling's <del hand="h1">Will</del><hi rend="super"
+                        >deed</hi>, and the personalty by the Will of my husband, both
+                        Will<del hand="h1">s</del><hi rend="super">&amp; Deed</hi> are on record in
+                    the County Clerks Office at Staunton, <abbr expan="Virginia">Va.</abbr> My
+                    children are only interested as my heirs, or at my own disposal. An extract of
+                    the will is hereto attached.</p>
+                <p>Taken in the Property</p>
+                <p>Deposition of Same.</p>
+                <p>1 Ans. I was present and saw the property taken.</p>
+                <p>3 Ans. One of the horses was in the field and the other in the Stable, and the
+                    Sheep were in the field, and the hogs were in the pen. The other articles
+                    specified were taken from the house, granary &amp;c.</p>
+                <p>4 Ans. The horses were taken in June 1864 by soldiers belonging to <abbr
+                        expan="General">Gen<hi rend="super">l</hi></abbr>. Hunter's Army. I
+                    suppose there <hi rend="super">were</hi> two at the Stable and three in
+                    the field, but quite a number near by. I do not know whether there was an
+                    officer present or not. The two Sheep and Corn <hi rend="super">&amp;
+                        butter</hi> was taken in September 1864 by soldiers belonging to <abbr
+                        expan="General">Gen<hi rend="super">l</hi></abbr>. Sheridan. I suppose
+                    there were 60 or 70 present. And from item 5 to 15 were taken in March 1865, by
+                        <abbr expan="General">Gen<hi rend="super">l</hi></abbr>. Sheridan's
+                    Command.</p>
+                <p>5 Ans. My daughter Sarah L. A. Fishburn was present.</p>
+                <p>6 Ans. I do not know whether there was an officer present or not.</p>
+                <p>7 Ans. The property was all taken by soldiers.</p>
+                <p>8 Ans. One of the horses was rode and the other was led away. The Sheep were in
+                    part butchered on my farm and the others drove off. Same as to the hogs. The
+                    Corn was carried off in Sacks and the Bacon &amp; Beef was taken in sacks
+                    the Butter &amp; Lard was carried away in Cans in which it was packed. The
+                    Apple butter was in Jars &amp; Crocks, and the molasses and vinegar, in
+                    buckets, and the hay was carried in bundles. I think too they had a wagon and
+                    hauled some hay.</p>
+                <p>9 Ans. I suppose the horses were taken to <abbr expan="General">Gen<hi
+                            rend="super">l</hi></abbr>. Hunter's Camp at Staunton, and in
+                    September 1864. The Command marched on in the direction of Staunton, and in
+                    March 1865, the Army camped in about 1/2 mile of my house for one night. I did
+                    not follow and I saw nothing after it was taken away.</p>
+                <p>10 Ans. I only saw them take the horses + all the other articles, but do not know
+                    how or for what they were used. A part of the sheep &amp; hogs were killed
+                    and the meat carried off.</p>
+                <p>11 Ans. I complained about my horses and the other articles, but the reply was
+                    that they needed the horses for Army purposes, and the Corn to feed and also the
+                    hay, and the provisions to eat, as they were out and needed provisions. They
+                    told <hi rend="super">me</hi> I would be paid for everything taken.</p>
+                <p>12 Ans. I did not ask for a receipt.</p>
+                <p>13 Ans. The horses were taken from 10 A.M. to 2 P.M. Items 2, 3 &amp; 4 were
+                    taken about 2 P.M. and the balance all taken between 3 P.M. &amp; night.</p>
+                <p>14 Ans. <abbr expan="General">Gen<hi rend="super">l</hi></abbr>. Hunter was
+                    camped at Staunton, and had had a fight at Piedmont a few days <hi
+                        rend="super">before</hi>. In Sept. <abbr expan="General">Gen<hi
+                            rend="super">l</hi></abbr>. Sheridan was on a raid, and in March
+                        <abbr expan="General">Gen<hi rend="super">l</hi></abbr>. Sheridan
+                    camped on night near my house. I knew no officer.</p>
+                <p>15 Ans. The horses were very fine, young 8 &amp; 6 years old, of good size
+                    and well broken. The sheep were fat and also the hogs. The Bacon &amp; Beef
+                    sound and good, and all the articles were good. The most of the Corn was on the
+                    Cob. I did not measure it. From the quanitity of Bacon &amp; beef I think
+                    there must have been the weight specified. I judged the quantity of hay by the
+                    amount put into the Mow. Every article was very valuable to me and I think worth
+                    all that is charged.</p>
+                <p>
+                    <name type="claimant">Lydia Fishburn</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d8">
+                
+                <byline>Sarah L. A. Fishburn</byline>
+                <p>Deposition of Sarah L. A. Fishburn</p>
+                <p>Answer to first question</p>
+                <p>My name is Sarah L. A. Fishburn, my age is 35, my residence near Clines Mill. The
+                    claimant is my mother. I have no interest in the claim, except by her disposal.
+                    I was present and <hi rend="super">saw</hi> the articles specified in the
+                    claimants petition taken.</p>
+                <p>3 Ans. The Horses were taken, one out of the Stable and the other from the field.
+                    the items 2, 3 &amp; 4. The Corn was in the Crib. The sheep in the field,
+                    and the butter in the Spring house, and the other articles named were taken, the
+                    sheep out of the field, hogs from pen, hay from Stable Mow, Corn from the Crib
+                    and Bacon, Beef &amp; Lard from the Smoke house and the other articles from
+                    the house.</p>
+                <p>4 Ans. The horses were taken in June 1864, by soldiers belonging to <abbr
+                        expan="General">Gen<hi rend="super">l</hi></abbr>. Hunter's Army. The
+                    2 Sheep, 50 <abbr expan="bushels">bush.</abbr> Corn &amp; 50 <hi
+                        rend="super">lbs</hi> butter, in Sept 1864, by Union soldiers. The
+                    commander's name I have forgotten, and the other items were taken in March 1865,
+                    by <abbr expan="General">Gen<hi rend="super">l</hi></abbr>. Sheridan's
+                    Command. There were 4 Soldiers engaged in taking the horses. There were a large
+                    number of soldiers, a short distance away. When the items 2, 3 &amp; 4 were
+                    taken there <hi rend="super">were</hi> 200 or 300 soldiers around the
+                    house, and when the last items taken in March 1865. I do not know whether there
+                    was an officer present or not. I suppose each time they remained two or three
+                    hours.</p>
+                <p>5 Ans. My mother was present.</p>
+                <p>6 Ans. I do not know that there was any officer present or not.</p>
+                <p>7 Ans. The property was taken as I have described. They said that they <hi
+                        rend="super">had</hi> orders to take the property, and they needed all
+                    they took. They also told me to keep an account of everything taken, and we
+                    would be paid for all after awhile.</p>
+                <p>8 Ans. One of the horses was rode away and the other led. The two sheep were
+                    killed and the Meat carried off on horses, and the 50 <abbr expan="bushels"
+                            >bush<hi rend="super">ls</hi>.</abbr> Corn taken off in bags, and
+                    the butter carried in Cans. The 6 Sheep were also killed and also the hogs
+                    killed too, and the Meat carried away, and every thing else was carried a short
+                    distance where they camped for the night.</p>
+                <p>9 Ans. I did not follow, but could see them going with the articles to the camp.
+                    I mean all items from No. 5 to 15.</p>
+                <p>10 Ans. I did not see them use any thing at all. Only saw them taken and carried
+                    away.</p>
+                <p>11 Ans. I asked them not <hi rend="super">to</hi> take the property, and
+                    they replied they needed all, ad must take it.</p>
+                <p>12 Ans. There was no receipt asked for.</p>
+                <p>13 Ans. The horses were taken from 12 to 3 P.M. and items 2, 3 &amp; 4, were
+                    taken in the afternoon, when they were on March, and the balance taken in March
+                    1865, was in the afternoon. They camped for the night in sight of claimants
+                    house.</p>
+                <p>14 Ans. When the horses were taken <abbr expan="General">Gen<hi
+                            rend="super">l</hi></abbr>. Hunter had his camp at Staunton. He
+                    had a battle at Piedmont on Sunday before. The horses were taken on a Wednesday
+                    of the same week, and when the 2 Sheep, 50 <abbr expan="bushels">bus.</abbr>
+                    Corn &amp; 50 <hi rend="super">lbs</hi> butter was taken the command
+                    was marching in the direction of Staunton, and then the last army camped one
+                    night in sight. I did not hear the name of any Quarter Master.</p>
+                <p>15 Ans. The horses were in splendid condition, good sized horses, one 6 and the
+                    other 8 years, both of them good riding horses and also worked anywhere. The
+                    sheep were No. 1, very fat + large. The hogs were good size and order. The hay
+                    sound and good, and from the amount put into the Stable I should think there was
+                    3 1/2 Tons. We guessed at the quantity of Corn, by the bulk in the Crib, it was
+                    on the Cob. I do not think there was a pound less than 550 <hi
+                        rend="super">lbs</hi> Bacon, and 300 Beef. The Butter was in Cans, and
+                    also the Lard, Apple Butter in Jars &amp; Crocks, and the Molasses and
+                    Vinegar in <abbr expan="barrels">Blls</abbr>. I do not think that there <hi
+                        rend="super">is</hi> a charge or item in excess of its actual
+                    quantity, and horses and every article worth all and more than the prices
+                    charged. I did not weigh any thing or count pieces, but judged the quantity by
+                    bulk.</p>
+                <p>
+                    <name type="witness">Sallie A. Fishburn</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d9">
+                
+                <byline>Samuel Landes</byline>
+                <p>Deposition of Samuel Landes</p>
+                <p>Answer to 1<hi rend="super">st</hi> general question</p>
+                <p>My name is Samuel Landes, my age is 50 years. My residence near Spring Hill,
+                    Augusta County and my occupation is a Miller. I am not related to the claimant,
+                    nor have any interest in the claim. I become acquainted with the claimant and
+                    her deceased husband in 1857. At the commencement of the War and until May 1862
+                    I lived adjoining farms, and then I removed about 3 miles off. We were intimate
+                    and I saw her and husband frequently. I saw her husband Philip Fishburn, at
+                    least twice a month. I <orig reg="don't">dont</orig> think we ever met without
+                    conversing about the War. I was an adherent to the Union, and he was aware of
+                    that. I do not recollect any particular expression or language that he used, but
+                    I distinctly remember that I could always express myself freely and in
+                    confidence in his presence, and I have no doubt of his being a true Union man,
+                    and utterly opposed to the war. His reputation in the neighborhood, amongst the
+                    Union men, was that of a Union man. I never knew him to do anything in aid of
+                    the rebellion. I never knew him to do anything for the Union cause, except that
+                    he harbored and helped men to keep out of the rebel service. I do not believe
+                    that if the South had succeeded in gaining its independence, Philip Fishburn,
+                    could if alive, proven loyalty to it.</p>
+                <p>His widow, the claimant, was quite an old lady, seldom from home. I do not know
+                    anything about her sympathies, but in my own mind I believe she was in sympathy
+                    with her husband. I never heard anything to the contrary.</p>
+                <p>
+                    <name type="witness">Samuel Landes</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d10">
+                
+                <byline>Erasmus L. Houff</byline>
+                <p>Deposition of Erasmus L. Houff</p>
+                <p>Answer to 1<hi rend="super">st</hi> general question</p>
+                <p>My name is Erasmus L. Houff, my age is 44 years. My residence near Mt. Sidney,
+                    Augusta County. My occupation a farmer &amp; a <abbr expan="United States"
+                        >U.S.</abbr> Store Keeper.</p>
+                <p>I knew Philip Fishburn, the deceased husband or the claimant, for about 15 years
+                    prior to his death, and resided about 3 miles from him during the war. We were
+                    intimate I saw him frequently during the war, probably two or three time a
+                    month, frequently spent the night with him. We talked about the War, its cause
+                    and progress, and he invariably expressed his devotion to the United States
+                    Government. That he at no time expressed any <hi rend="super">wish</hi> or
+                    used any language in favor of the rebellion or its success. He said frequently
+                    in my presence that he had witnessed the War of 1812, and in that he could have
+                    fought with good conscience, but that he could not in the rebellion, for that
+                    was to destroy what the other was to defend. His wife, the claimant always
+                    agreed with her husband in his sentiments, stating what the people had suffered
+                    to maintain the Government, and the rebels were now trying to break it down.</p>
+                <p>I do not now recollect that there were any persons present (except their daughter
+                    Sarah) when we had conversations, but they were always very bold and positive in
+                    expressing themselves.</p>
+                <p>The Union men of the neighborhood, had full confidence in their loyalty to the
+                    Union cause. I was a strictly Union man myself, and consequently visited them
+                    because they were true, and I could converse freely and fully with them. I never
+                    knew them to do anything for the rebellion, but on the contrary they harbored
+                    Union men and helped to keep them concealed.</p>
+                <p>If the south had been successful they could not have proven by their neighbors
+                    any loyalty to the Confederacy.</p>
+                <p>
+                    <name type="witness">E.L. Houff</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d11">
+                
+                <byline>William A. Burnett</byline>
+                <p>Philip Fishburn's Will Recorded in Clerk's Office of Augusta County Court in Will
+                    No 40 page 275, dated March 27th 1865, &amp; admitted to record November
+                    27th 1865.</p>
+                <p>"2nd. I give and bequeath to my beloved wife Lydia Fishburn all my personal
+                    property consisting of all the household &amp; kitchen furniture, cattle,
+                    hogs, sheep, horses and all the farming utensils to her sole use and purpose and
+                    to be disposed of during her life time as she may think best."</p>
+                <p>An Extract Teste</p>
+                <p>
+                    <name type="witness">William A. Burnett</name>
+                    <abbr expan="Clerk">Clk</abbr>
+                </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

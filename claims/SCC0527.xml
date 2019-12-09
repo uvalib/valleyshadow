@@ -1,0 +1,399 @@
+<?xml version="1.0"?>
+
+<?dlps id="SCC0527"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 id="SCC0527">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Southern Claims Commission: Claim of Thomas and Nancy
+                    Jefferson, 1877, Claim No. 15,385</title>
+        <title type="sort">southern claims commission claim of thomas and nancy jefferson, 1877 claim no 15 385</title>
+        <author>Jefferson, Thomas and Nancy</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca.<num type="kilobytes"> 17 </num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">SCC0527</idno>
+        <!--
+                <availability>
+                    <p>Publicly accessible</p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2006, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2006">2006</date>
+            <idno type="uva-pid">uva-lib:498414</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title type="main">Southern Claims Commission: Claim of Thomas and Nancy
+                            Jefferson, 1877, Claim No. 15,385</title>
+            <title level="m"/>
+            <title type="sort">southern claims commission claim of thomas and nancy jefferson, 1877 claim no 15 385</title>
+            <author>Thomas and Nancy Jefferson</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives, College Park,
+                            RG 217, claim #15385</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1877">1877</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+        <hand id="h1"/>
+      </handList>
+            <textClass>
+                <keywords>
+                    <term>African Americans, Death/Casualties, Patriotism, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="SCC0527T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                
+                <p>Thomas and Nancy Jefferson filed this claim in 1877 for $117, claiming Union
+                    forces under General Sheridan required Nancy's nursing services as well as
+                    appropriated 3 barrels of flour and a hog in 1865. Nancy was a 35 year old
+                    African American housekeeper married to Thomas, also of African American
+                    descent. The commission allowed $42.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="claim_items" id="d5">
+                
+                <p>
+                    <table>
+                        <row>
+                            <cell>
+                                <hi rend="bold">Item Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Allowed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Disallowed:</hi>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>To services for the space of 7 1/2 weeks nursing Adjt. Ast. Genl.
+                                Fry who was wounded near Waynesboro at $10 per week</cell>
+                            <cell>$75.00</cell>
+                            <cell>$0.00</cell>
+                            <cell>$75.00</cell>
+                        </row>
+                        <row>
+                            <cell>3 barrels of flour</cell>
+                            <cell>$24.00</cell>
+                            <cell>$24.00</cell>
+                            <cell>$0.00</cell>
+                        </row>
+                        <row>
+                            <cell>1 Hog</cell>
+                            <cell>$18.00</cell>
+                            <cell>$18.00</cell>
+                            <cell>$0.00</cell>
+                        </row>
+                    </table>
+                </p>
+            </div1>
+            <div1 type="claim_summary" id="d6">
+                
+                <p>The claimants are respectable colored people. The services charged in item No. 1
+                    were rendered by them, and we regret that they can not be allowed not being
+                    within our jurisdiction.</p>
+                <p>The other items were taken in March 1865 by the soldiers of <abbr expan="General"
+                            >Gen<hi rend="super">l</hi></abbr>. Sheridan's command for Army
+                    use.</p>
+                <p>We allow for the items as charged. The hog was estimated at 180 lbs, &amp;
+                    pork was then high.</p>
+                <p>Claimants' loyalty fully proved. We allow $42.00</p>
+                <p><name type="other">A.O. Aldis</name>, <name type="other">JB Howell</name>, <name
+                        type="other">O. Ferris</name><abbr expan="Commissioners">Commrs</abbr> of
+                    Claims</p>
+            </div1>
+            <div1 type="testimony" id="d7">
+                
+                <byline>Nancy Jefferson</byline>
+                <p>United States of America, State of Virginia SS</p>
+                <p>J.W.G. Riley a commissioner selected and designated by the Commissioners of
+                    Claims appointed under the act of Congress of March 3<hi rend="super"
+                    >rd</hi> 1871 to take and record testimony Do hereby certify that the reason for
+                    taking the following depositions is and the fact is the matter of claim of
+                    Thomas Jefferson and wife vs. the United States of America and the witnesses
+                    herein named being first duly sworn answereth as follows.</p>
+                <p>1 Witness says-I resided in the County of Augusta six months prior to the 1<hi
+                        rend="super">st</hi> of April 1861. I have resided there for 14 years
+                    two years ago I moved into Waynesboro.</p>
+                <p>4 Witness says-I never took any oath of allegiance to the Confederate States.</p>
+                <p>5 Witness says-I have never taken any amnesty oath. I never was in any manner
+                    connected with the Confederate States.</p>
+                <p>7 Witness says-I never held any office of profit under the Confederate Government
+                    I never aided the Confederate Government in any manner</p>
+                <p>14 Witness says-I never was engaged in blockade running or any thing else that
+                    would benefit the Confederate States</p>
+                <p>15 Witness says-Between the 19<hi rend="super">th</hi> of April 1861 and
+                    the 19<hi rend="super">th</hi> of April 1865 I did not leave the
+                    Confederate States</p>
+                <p>16 Witness says-I never was interested in any vessel engaged in navigating the
+                    ocean to or from the Confederacy</p>
+                <p>17 Witness says-I never was arrested by the Confederate Government. I never was
+                    arrested by the United States Government</p>
+                <p>18 Witness says-I had provisions taken by the Confederate authorities sometimes
+                    they would pay and sometimes they would not</p>
+                <p>20 Witness says-I never was injured on account of my union sentiments</p>
+                <p>21 Witness says-I never contributed any money or property to aid the United
+                    States Government</p>
+                <p>23 Witness says-I had a brother in the Confederate Army he was forced in to wait
+                    on an officer</p>
+                <p>24 Witness says-I never owned any Confederate bonds or done anything to support
+                    the credit of the Confederate States</p>
+                <p>33 Witness says-At the beginning of the war I sympathized with the Union and not
+                    with the rebellion. I had no vote I am a colored woman but my sympathies were
+                    all the time with the Union.</p>
+                <p>34 Witness says-I solemnly declare from the beginning of hostilities to the end
+                    thereof my sympathies were constantly with the cause of the United States and I
+                    was ready at all times to do anything for the United States in my power.</p>
+                <p>Questions by the Commissioner</p>
+                <p>1 How old are you where do you reside and what is your occupation. Answer I am
+                    thirty five years old I reside in Augusta County Virginia by occupation a house
+                    keeper I am a married colored woman.</p>
+                <p>Further the deponent saith not. Aug the 16<hi rend="super">th</hi> 1871</p>
+                <p><name type="claimant">Nancy Jefferson</name> Her mark</p>
+            </div1>
+            <div1 type="testimony" id="d8">
+                
+                <byline>Fannie Sheppard</byline>
+                <p>Fannie Sheppard a witness introduced by the Claimant to prove the taking of the
+                    property being first duly sworn answereth as follows</p>
+                <p>1 Witness says-I was present when the articles mentioned in the Claimants
+                    petition were taken I also know that the Claimant nursed acting Assistant
+                    Adjutant Gen<hi rend="super">l</hi> Fry belonging to <abbr expan="General"
+                            >Gen<hi rend="super">l</hi></abbr> Talbot's command wounded
+                    through both <orig reg="thighs">thies</orig> and in the body between Waynesboro
+                    and the Blue ridge at ten dollars per week for seven weeks and a half.</p>
+                <p>4 Witness says-The articles that I saw taken that are mentioned in the Claimant's
+                    petition were taken in 1865 from the premises of the Claimants by officers and
+                    soldiers under <abbr expan="General">Gen<hi rend="super">l</hi></abbr>
+                    Sheridans command</p>
+                <p>8 Witness says-The property was removed by soldiers some of it was eaten on the
+                    spot</p>
+                <p>11 Witness says-No complaint was made on account of such taking</p>
+                <p>12 Witness says-There was no receipt give except a piece of paper by the wounded
+                    man Gen<hi rend="super">l</hi> Fry to show what command he belonged to</p>
+                <p>13 Witness says-The property was taken in the daytime in the afternoon none of it
+                    was taken secretly</p>
+                <p>14 Witness says-They were encamped near the house of the Claimant. They had been
+                    skirmishing during the day.</p>
+                <p>15 Witness says-The condition of the property was good when taken they took three
+                    barrels of flour at eight dollars a barrel and one hog weighing one hundred and
+                    eighty pounds at ten dollars per hundred.</p>
+                <p>22 Witness says-I believe the property of the Claimant was taken for some purpose
+                    so necessary and useful that the Government ought to pay for it and also for the
+                    services rendered by the Claimants to<abbr expan="General"> Gen<hi
+                            rend="super">l</hi></abbr> Fry while wounded at their house and
+                    Further the deponent saith not August the 16<hi rend="super">th</hi> 1871</p>
+                <p><name type="witness">Fannie Sheppard</name> her mark</p>
+            </div1>
+            <div1 type="testimony" id="d9">
+                
+                <byline>Nelson Taylor</byline>
+                <p>Nelson Taylor a witness introduced by the Claimants to <orig reg="prove"
+                    >proove</orig> loyalty being first duly sworn answereth as follows-</p>
+                <p>1 How old are you where do you reside and what is your occupation. Answer I am
+                    sixty seven years old I reside in Waynesboro Augusta County Virginia by trade a
+                    Cooper</p>
+                <p>2 How long have you known the claimants? Answer I have known the claimants for
+                    many years I knew them all the war they are both colored people. They were true
+                    to the United States Government during the war they were so regarded by their
+                    neighbors. I have never known either one of them to do any thing against the
+                    Union cause. They were always ready and willing to help the Union cause and to
+                    aid it to the extent of their power and ability they were too loyal to the
+                    United States Government to have been loyal to the Confederacy if it had been
+                    maintained as a separate Government.</p>
+                <p>Further the witness saith not Aug the 16<hi rend="super">th</hi> 1871</p>
+                <p><name type="witness">Nelson Taylor</name> his mark</p>
+            </div1>
+            <div1 type="testimony" id="d10">
+                
+                <byline>John James</byline>
+                <p>John James a witness introduced by the Claimants for proof as to loyalty being
+                    first duly sworn answereth as follows</p>
+                <p>1 How old are you where do you reside and what is your occupation? Answer I am
+                    thirty six years old I live in Waynesboro Augusta County Virginia by occupation
+                    a laborer</p>
+                <p>2 How long have you known the Claimants Answer I have known the claimants
+                    mentioned in the petition twelve or thirteen years they were both loyal to the
+                    United States Government during the war and so regarded by their neighbors they
+                    are both colored people and they were ready at all times to aid the United
+                    States when called upon and</p>
+                <p>Further the deponent saith not August the 16<hi rend="super">th</hi> 1871</p>
+                <p><name type="witness">John James</name> his mark</p>
+                <p>Sworn to &amp; subscribed before me this 16th day of August 1871</p>
+                <p><name type="other">WG Riley</name> United States Commissioner and special <abbr
+                        expan="Commissioner">Comr</abbr> for State of <abbr expan="Virginia">V<hi
+                            rend="super">a</hi></abbr></p>
+            </div1>
+            <div1 type="testimony" id="d11">
+                
+                <byline>Thomas and Nancy Jefferson</byline>
+                <p>May 21<hi rend="super">st</hi> 77</p>
+                <p>Waynesboro Augusta Co Va.</p>
+                <p>CF Benjamin <abbr expan="Esquire">Esq</abbr></p>
+                <p>Sir, Your Postal <unclear>Crard</unclear>, under date of May 16<hi
+                        rend="super">th</hi> Inviting <del hand="h1">of</del> our attention to the
+                    provision of an act of Congress section 2., <orig reg="alleging"
+                    >Alledgeing</orig> that it is for the benefits of the parties interested in a
+                    claim of Thomas Jefferson &amp; wife, against the <abbr expan="United"
+                    >U</abbr> States No. 15385.</p>
+                <p>This claim we had sent to Washington City, in 1872, or early 1873. We were
+                    informed <hi rend="super">it</hi> was not acted on by the court for
+                    Southern claims. This statement must have been correct, although the impression
+                    was that the court did not adjudicate <unclear>ascs</unclear> of that kind. We
+                    would very Respectfully beg leave to ask your <orig reg="advice">advise</orig>
+                    in regard to how we shall act in the premises &amp; also if you think the
+                    court will allow &amp; pay a Just claim of that kind. <hi rend="underline"
+                        >Our Loyalty</hi> is <hi rend="underline">in</hi>disputable, <hi
+                        rend="underline">as we are colored persons</hi>, and only suffered our House
+                    to be used as a Hospital, and furnished <orig reg="sustenance"
+                    >sustainance</orig> and the attendance upon the sick soldier, because he was
+                        <orig reg="wounded">wouned</orig> at our door, and the Confederates would
+                    have <orig reg="stripped">
+                        <hi rend="underline">striped</hi>
+                    </orig> and <hi rend="underline">murdered</hi> him after <del hand="h1">he was
+                    wouned</del> he was shot down, had he not been cared for by us. It would only be
+                    an act of Justice to pay us. Be Kind enough to advise as requested and allow us
+                    to subscribe our selves</p>
+                <p>Your <abbr expan="obedient">Ob<hi rend="super">t</hi></abbr><abbr
+                        expan="servants">servts</abbr></p>
+                <p>
+                    <name type="claimant"><abbr expan="Thomas">Tho<hi rend="super"
+                        >s</hi></abbr> Jefferson and Nancy Jefferson</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d12">
+                
+                <byline>Charles F. Benjamin</byline>
+                <p>Office of the Commissioners of Claims, Washington, D.C., July 9, 1872</p>
+                <p>Memorandum: Depositions are on file in this office in support of the claim of <hi
+                        rend="underline">Thomas Jefferson</hi> and <hi rend="underline">Wife</hi>,
+                    but no petition appears to have been presented as required by paragraph 1 of the
+                    accompanying rules and regulations. Please return this card with the petition
+                    when forwarded.</p>
+                <p><name type="other"><abbr expan="Charles">Chas</abbr> F. Benjamin</name> Clerk</p>
+                <p>A. H. Fulz <abbr expan="Esquire">Esq</abbr>. Staunton, Va.</p>
+            </div1>
+            <div1 type="testimony" id="d13">
+                
+                <byline>A. H. Fultz</byline>
+                <p>Staunton, Va. June 11 1877</p>
+                <p>Hon Charles F. Benjamin</p>
+                <p>Dear Sir:</p>
+                <p>I <abbr expan="received">rec<hi rend="super">d</hi></abbr> from you a few
+                    days ago, the Enclosed letter of Thomas Jefferson and from the endorsement it
+                    seems that there has been no testimony taken in support of the Claim. I am
+                    surprised at this, because immediately upon the filing of the claim, we took,
+                    before Judge Riley, the then Commissioner, the testimony of a large number of
+                    witnesses, proving beyond all question, the loyalty of the petitioners and the
+                    justice of their Claim. This testimony was, of course left with Judge Riley to
+                    be forwarded to your office, and I suppose he must have neglected to do so. Will
+                    you please inform me what course to pursue in order to get in this testimony. I
+                    am very anxious to have the claim allowed, not only because I believe it to be
+                    just but because the petitioner is one of our most worthy <orig reg="colored"
+                        >coloured</orig> men and if any one in the south is entitled to compensation
+                    he is. Hoping to hear from you soon I remain</p>
+                <p>Very Respectfully Your <abbr expan="obedient">Obt</abbr><abbr expan="servant"
+                            >Serv<hi rend="super">t</hi></abbr></p>
+                <p>
+                    <name type="other">A.H. Fultz</name>
+                </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

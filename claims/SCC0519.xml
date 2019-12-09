@@ -1,0 +1,441 @@
+<?xml version="1.0"?>
+
+<?dlps id="SCC0519"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 id="SCC0519">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Southern Claims Commission: Claim of John Brown,
+                    1879, Claim No. 22264</title>
+        <title type="sort">southern claims commission claim of john brown, 1879 claim no 22264</title>
+        <author>Brown, John</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca.<num type="kilobytes"> 20 </num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">SCC0519</idno>
+        <!--
+                <availability>
+                    <p>Publicly accessible</p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2006, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2006">2006</date>
+            <idno type="uva-pid">uva-lib:498406</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title type="main">Southern Claims Commission: Claim of John Brown, 1879,
+                            Claim No. 22264</title>
+            <title level="m"/>
+            <title type="sort">southern claims commission claim of john brown, 1879 claim no 22264</title>
+            <author>John Brown</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives, College Park,
+                            RG 217, claim #22264</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1879">1879</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+        <hand id="h1"/>
+      </handList>
+            <textClass>
+                <keywords>
+                    <term>Agriculture, Patriotism</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="SCC0519T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                
+                <p>John Brown filed this claim in 1879 for $250, claiming the Union army took two
+                    horses in 1864. John was a 41-year-old farmer. His dislike of the Confederacy
+                    forced him to seek refuge in the mountains after he was unable to reach Union
+                    lines due to an injury. He was threatened by Confederates and had a
+                    brother-in-law in the Union Army. The commission allowed $210.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="claim_items" id="d5">
+                
+                <p>
+                    <table>
+                        <row>
+                            <cell>
+                                <hi rend="bold">Item Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Allowed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Disallowed:</hi>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>1 grey mare</cell>
+                            <cell>$140.00</cell>
+                            <cell>$110.00</cell>
+                            <cell>$30.00</cell>
+                        </row>
+                        <row>
+                            <cell>1 black mare</cell>
+                            <cell>$110.00</cell>
+                            <cell>$100.00</cell>
+                            <cell>$10.00</cell>
+                        </row>
+                    </table>
+                </p>
+            </div1>
+            <div1 type="claim_summary" id="d6">
+                
+                <p>John Brown was a blacksmith. He says he ws always for the Union &amp; hated
+                    the Confederacy. He left his house &amp; went through the lines and was gone
+                    one or two years &amp; did not return till the close of the war. "The rebels
+                    despised him &amp; some said he ought to be hung, &amp; one man told me
+                    he would not get him to do any more work for him that he would rather hang him
+                    than give him work to do." -Three witnesses testify to his loyalty. He had a
+                    brother in law in the Union Army.</p>
+                <p>Loyalty proved.</p>
+                <p>The horses were taken in June 1864 for Army Use -taken to the Camp at Staunton.
+                    We allow $210.</p>
+                <p><name type="other">AO Aldis</name>, <name type="other">O. Ferris</name>, <name
+                        type="other">JB Howell</name><abbr expan="Commissioners">Commrs</abbr> of
+                    Claims</p>
+            </div1>
+            <div1 type="testimony" id="d7">
+                
+                <byline>John Brown</byline>
+                <p>United States of America, State of Virginia SS</p>
+                <p>J.W.G. Riley a Commissioner selected and designated by the Commisioner of Claims
+                    appointed under the act of Congress of March 3<hi rend="super">rd</hi>
+                    1871 to take and record testimony. Do hereby certify that the reason for taking
+                    the following depositions is and the fact is the matter of Claim of John Brown
+                    vs the United States of America and the witness herein named being first duly
+                    sworn answereth as follows.</p>
+                <p>1<hi rend="super">st</hi> Witness says -He resided in Augusta <abbr
+                        expan="County">Co.</abbr><abbr expan="Virginia">Va.</abbr> at home all the
+                    time-farming.</p>
+                <p>2<hi rend="super">d</hi> Witness says -I resided in Augusta <abbr
+                        expan="County">Co.</abbr><abbr expan="Virginia">Va.</abbr> except what time
+                    I was in the mountains trying to get through the Confederate lines. His
+                    occupation all the time a farmer.</p>
+                <p>3<hi rend="super">d</hi> Witness says -I never passed the military or Naval
+                    lines of the United States to enter the rebel lines, but tried to get into the
+                    U.S. lines.</p>
+                <p>4<hi rend="super">th</hi> Witness says I never took an oath or affirmation
+                    to bear allegiance to the so called Confederate States, or to aid or support
+                    them in any way.</p>
+                <p>5<hi rend="super">th</hi> Witness says, I have never taken any Amnesty
+                    oath. I never was pardoned by the President.</p>
+                <p>6<hi rend="super">th</hi> Witness says I was never directly or indirectly,
+                    or in any manner connected with the civil service of the so-called Confederate
+                    States.</p>
+                <p>7<hi rend="super">th</hi> Witness says I never held any office or place of
+                    trust, honor or profit under the so called Confederate States, or territories
+                    subordinate thereto.</p>
+                <p>8<hi rend="super">th</hi> Witness says I never held a clerkship or have any
+                    agency or employment of any kind for the benefit of the so-called Confederate
+                    Government.</p>
+                <p>9<hi rend="super">th</hi> Witness says, No.</p>
+                <p>10<hi rend="super">th</hi> Witness says I never was in any department or
+                    bureau of the Confederate Army or Government. I never had charge of stores,
+                    supplies, trains, teams wagons or wagons vessels or any thing else for the use
+                    of the Confederacy.</p>
+                <p>11<hi rend="super">th</hi> Witness says I never furnished any thing
+                    voluntarily.</p>
+                <p>12<hi rend="super">th</hi> Witness says, I was never engaged or employed in
+                    the manufacture of any article for the benefit or use of the Confederate
+                    Government whatever.</p>
+                <p>13<hi rend="super">th</hi> Witness says No, emphatically.</p>
+                <p>14<hi rend="super">th</hi> Witness says, I never was engaged in blockade
+                    running or illicit traffic between the lines. I had no interest or share in any
+                    such trade or traffic.</p>
+                <p>15<hi rend="super">th</hi> Witness says I did try to leave the Confederate
+                    lines, but got crippled and could not. I was leaving because of my hatred to the
+                    Confederacy and its cause.</p>
+                <p>16<hi rend="super">th</hi> Witness says, I was not the owner or part owner
+                    of any vessels whatever.</p>
+                <p>17<hi rend="super">th</hi> Witness says I was never arrested by any
+                    officer, or soldier of the Confederate Government. Efforts were made to do so,
+                    but failed.</p>
+                <p>18<hi rend="super">th</hi> Witness says I had one horse taken by the
+                    Confederate Government, I never received any pay <orig reg="therefore"
+                    >therefor</orig>.</p>
+                <p>19<hi rend="super">th</hi> Witness says, I do not know that I was
+                    threatened with damage in any way, on account of my Unionism.</p>
+                <p>20<hi rend="super">th</hi> Witness says, There was a great deal of talk,
+                    but I was never molested.</p>
+                <p>21<hi rend="super">st</hi> Witness says I frequently fed the soldiers at my
+                    house, while they were in <hi rend="super">camp at</hi> Staunton, <abbr
+                        expan="Virginia">Va.</abbr></p>
+                <p>22<hi rend="super">d</hi> Witness says, I did nothing, not having an
+                    opportunity to do so.</p>
+                <p>23<hi rend="super">d</hi> Witness says I had a brother in law in the Union
+                    Army, but no relation in the rebel Army.</p>
+                <p>24<hi rend="super">th</hi> Witness says I never had any Confederate Bond,
+                    or any interest in any, and never did anything to support the Credit of the so
+                    called Confederate Government.</p>
+                <p>25<hi rend="super">th</hi> Witness says I have never given any aid or
+                    comfort <del hand="h1">to</del> to the rebellion.</p>
+                <p>26<hi rend="super">th</hi> Witness says, No, I never was.</p>
+                <p>27<hi rend="super">th</hi> Witness says, I never was so engaged either
+                    directly or indirectly.</p>
+                <p>28<hi rend="super">th</hi> Witness says I have never belonged to any
+                    society or association for the imprisonment, expulsion execution or other
+                    persecutions of any persons on account of their loyalty to the United States
+                    Government.</p>
+                <p>29<hi rend="super">th</hi> Witness says I never was a paroled prisoner of
+                    the <abbr expan="United States">U.S.</abbr></p>
+                <p>30<hi rend="super">th</hi> Witness says I have never held any office
+                    Military or Naval <del hand="h1">in</del> of the <abbr expan="United States">U.S.</abbr>
+                    neither educated at any Military or Naval Academy of the <abbr
+                        expan="United States">U.S.</abbr></p>
+                <p>31<hi rend="super">st</hi> Witness says I never had a pass from the
+                    Confederate Government or Officer thereof, for any cause whatever, and took no
+                    Oath of any description.</p>
+                <p>32<hi rend="super">d</hi> Witness <orig reg="says">say</orig> I have never
+                    been under disabilities imposed by any article of the <abbr
+                        expan="United States">U.S.</abbr> Constitution I have not held any office
+                    since the war.</p>
+                <p>33<hi rend="super">d</hi> Witness says I <orig reg="sympathized"
+                        >sympathised</orig> with the Union Cause. I said a great deal, said that I
+                    would never fight against the Union. I exerted my influence in favor of the
+                    Union. I did not for or against the ordinance of Secession.</p>
+                <p>34<hi rend="super">th</hi> Witness says, I do solemnly declare that, from
+                    the beginning of hostilities against the United States to the end thereof, my
+                    sympathies were constantly with the cause of the <abbr expan="United States"
+                        >U.S.</abbr> that I never of my own free will and accord did anything or
+                    offered or sought or attempted to do any thing by word or deed to injure said
+                    cause or retard its success, and that I was at all times ready and willing when
+                    called upon to aid and assist the cause of the Union, or its supporters, so far
+                    as my means and power and the circumstances of the case permitted.</p>
+                <p>Questions by the Commissioner</p>
+                <p>1<hi rend="super">st</hi> How old are you, Where do you reside and what is
+                    your occupation? Answer-I am about 41 years old. I reside in Augusta <abbr
+                        expan="County">Co.</abbr><abbr expan="Virginia"> Va.</abbr> My occupation is
+                    a farmer.</p>
+                <p>2<hi rend="super">d</hi> What was the condition and value of the property
+                    taken by the Government of the United States named in the petition? <abbr
+                        expan="Answer">Ans.</abbr> They were in good condition and worth all I have
+                    charged. Further this deponent saith not. August 14<hi rend="super"
+                    >th</hi> 1871.</p>
+                <p>
+                    <name type="claimant">John Brown</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d8">
+                
+                <byline>George A. Shuey</byline>
+                <p>George A. Shuey, a witness introduced by John Brown, the claimant to prove his
+                    loyalty to the United States Government, being duly sworn answereth as follows.</p>
+                <p>Questions by the Commissioner</p>
+                <p>1<hi rend="super">st</hi> How old are you, where do you reside. <del hand="h1">My
+                        profession a minister and farmer.</del> Answer, I am 57 years old, reside in
+                    Augusta <abbr expan="County">Co.</abbr><abbr expan="Virginia">Va.</abbr> I am a
+                    minister and farmer.</p>
+                <p>2<hi rend="super">d</hi> How long have you known the claimant? Answer-I
+                    have known him about fifteen years.</p>
+                <p>3<hi rend="super">d</hi> Did you know him to be loyal the United Government
+                    during the War. Answer-I think he was the most consistent Union man that I knew,
+                    and he was so regarded by all his neighbors.</p>
+                <p>4<hi rend="super">th</hi> Do you know any act or <orig reg="language"
+                        >languaged</orig> used by the claimant which would have prevented him from
+                    establishing his loyalty to Confederate Government had it maintained a <orig
+                        reg="separate">seperate</orig> Government. If so, state the same
+                    particularly. Ans-He was so strong and consistent a Union man, and expressed
+                    himself so frankly in favor of the Union, that he could not have established any
+                    loyalty to the Confederate Government.</p>
+                <p>
+                    <name type="witness">Geo A Shuey</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d9">
+                
+                <byline>Jacob Wiseman</byline>
+                <p>Jacob Wiseman a <orig reg="witness">witnessed</orig> introduced by the Claimant
+                    John Brown, to prove the taking of the property mentioned in the petition first
+                    being duly swornn answereth as follows.</p>
+                <p>1<hi rend="super">st</hi> Witness says, I was not present at the time, but
+                    saw them have one horse the property of the Claimant mentioned in the petition.</p>
+                <p>4<hi rend="super">th</hi> Witness says The horse <hi rend="super">was
+                        taken</hi> in 1864, from the farm of the Claimant in Augusta <abbr
+                        expan="County">Co.</abbr> by United States soldiers.</p>
+                <p>11<hi rend="super">th</hi> Witness says No complaint made that I heard.</p>
+                <p>12<hi rend="super">th</hi> Witness says There was no receipt or voucher
+                    asked for, that I know of.</p>
+                <p>13<hi rend="super">th</hi> witness says The property was taken in the
+                    daytime and not secretly.</p>
+                <p>14<hi rend="super">th</hi> Witness says When the property was taken the
+                    Army was encamped at Staunton.</p>
+                <p>15<hi rend="super">th</hi> Witness says, The horses were in good condition
+                    about 8 years old, and worth fully what the claimant has charged ($110) in the
+                    petition.</p>
+                <p>19<hi rend="super">th</hi> Witness says I think the property was taken for
+                    the Army and not for private use.</p>
+                <p>22 Witness says I think that it was taken for some purpose so necessary and
+                    useful as to warrant and require the Government to pay for it.</p>
+                <p>23<hi rend="super">d</hi> Witness says, I think that <del hand="h1">they</del> it was
+                    taken by the order or authority of some officer of the Government which
+                    justified him in taking or ordering it to be taken. It was taken by Officers
+                    (who were present) belonging to <abbr expan="General">Gen<hi rend="super"
+                            >l</hi></abbr>. Hunter's Army. Further this witness saith not. August
+                        14<hi rend="super">th</hi> 1871.</p>
+                <p>
+                    <name type="witness">Jacob Wiseman</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d10">
+                
+                <byline>Paul S. Bare</byline>
+                <p>Paul S. Bare a witness introduced by John Brown, the claimant to prove the taking
+                    or funishing of property, being duly sworn answereth as follows.</p>
+                <p>1<hi rend="super">st</hi> Witness says, I was present when the two horses
+                    mentioned in claimants petition were taken, I saw them taken.</p>
+                <p>4<hi rend="super">th</hi> Witness says, The property was taken in June
+                    1864, from the farm of the claimant by soldiers belonging to <abbr
+                        expan="General">Gen<hi rend="super">l</hi></abbr>. Hunter's Army. The
+                    claimant and a <orig reg="colored">colered</orig> man were present with me at
+                    the time.</p>
+                <p>6<hi rend="super">th</hi> Witness says-that there were no officers present
+                    that I know of.</p>
+                <p>7<hi rend="super">th</hi> Witness says, One horse was taken from the plow,
+                    and the other from the pasture field. They (the (soldiers) said they wanted them
+                    for Cavalry horses. The claimant helped to catch them.</p>
+                <p>8<hi rend="super">th</hi> Witness says, One horse was rode off by soldiers
+                    and the other I think was led away.</p>
+                <p>9<hi rend="super">th</hi> Witness says The property was taken to Staunton,
+                        <abbr expan="Virginia">Va.</abbr> I did not follow it.</p>
+                <p>10<hi rend="super">th</hi> Witness says-I know nothing except that the
+                    soldiers said they wanted them for Cavalry use. I did not see the property after
+                    it was taken.</p>
+                <p>11<hi rend="super">th</hi> Witness says-I know of no complaint being made.
+                    There was no voucher or receipt asked for or given.</p>
+                <p>13<hi rend="super">th</hi> Witness says The property was taken in the day
+                    time, in the afternoon, and was not taken secretly.</p>
+                <p>14<hi rend="super">th</hi> Witness says, There was no Camp nearer than
+                    Staunton, <abbr expan="Virginia">Va.</abbr> where they remained some three or
+                    four days. There had been a battle at Piedmont a few days previous, about 18
+                    miles from the claimant. I did not <hi rend="super">know</hi> any
+                    Quartermaster or any other Officer of the Army. I <hi rend="super"
+                    >did</hi> not see any.</p>
+                <p>15<hi rend="super">th</hi> Witness says The horses were in good condition.
+                    They were young horses just in their prime. I think one of the horses was worth
+                    $150.00 to $175.00 and the other about $150.00. The claimant asked me what they
+                    were worth.</p>
+                <p>19<hi rend="super">th</hi> Witness says I believe that from what the
+                    soldiers <hi rend="super">said</hi> they were taken for the use of the
+                    Army and not for mere gratification of any one.</p>
+                <p>20<hi rend="super">th</hi> Witness says, I believe they were taken in
+                    consequence of a necessity in the Army. And such a necessity as justified the
+                    taken.</p>
+                <p>22<hi rend="super">d</hi> Witness says, I believe it was taken for purposes
+                    so necessary, and beneficial as to require its being paid for.</p>
+                <p>23<hi rend="super">d</hi> Witness says I suppose that it was taken by
+                    authority of some officer, whose rank justified in ordering it to be taken.</p>
+                <p>Questions by the Commissioner</p>
+                <p>1<hi rend="super">st</hi> How old are you, where do you reside and what is
+                    your occupation? Answer. I am about 62 years old. I reside in Augusta <abbr
+                        expan="County">Co.</abbr><abbr expan="Virginia">Va.</abbr> and a farmer by
+                    occupation.</p>
+                <p>Further this witness saith not. August 16<hi rend="super">th</hi> 1871.</p>
+                <p>
+                    <name type="witness">P. S. Bear</name>
+                </p>
+                <p>Sworn to &amp; subscribed before me this 16th day of August 1871.</p>
+                <p><name type="other">WGR</name> United States Commissioner and Special <abbr
+                        expan="Commissioner">Comr</abbr> for State of <abbr expan="Virginia">V<hi
+                            rend="super">a</hi></abbr>.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

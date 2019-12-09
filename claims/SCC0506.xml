@@ -1,0 +1,293 @@
+<?xml version="1.0"?>
+
+<?dlps id="SCC0506"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 id="SCC0506">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Southern Claims Commission: Claim of Christian
+                    Palmer, 1873, Claim No. 15854</title>
+        <title type="sort">southern claims commission claim of christian palmer, 1873 claim no 15854</title>
+        <author>Palmer, Christian</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name>Elizabeth Ladner</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca.<num type="kilobytes"> 31 </num>
+      </extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">SCC0506</idno>
+        <!--
+                <availability>
+                    <p>Publicly accessible</p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2006, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2006">2006</date>
+            <idno type="uva-pid">uva-lib:498393</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title type="main">Southern Claims Commission: Claim of Christian Palmer,
+                            1873, Claim No. 15854</title>
+            <title level="m"/>
+            <title type="sort">southern claims commission claim of christian palmer, 1873 claim no 15854</title>
+            <author>Christian Palmer</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives, Washington,
+                            D.C. RG 123, Congressional Jurisdiction #8772</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1873">1873</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+        <hand id="h1"/>
+      </handList>
+            <textClass>
+                <keywords>
+                    <term>Agriculture, Economy</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="SCC0506T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Christian Palmer filed this claim in 1873 for $200, claiming Union troops under
+                    General Hunter took one horse in 1864. Christian was a 35 year old farmer who
+                    did not vote at all regarding the Ordinance of Secession but who failed to
+                    produce much evidence of his loyalty to the Union. The claim was disallowed.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="claim_items" id="d5">
+                <p>
+                    <table>
+                        <row>
+                            <cell>
+                                <hi rend="bold">Item Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Allowed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Disallowed:</hi>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>One Horse</cell>
+                            <cell>$200.00</cell>
+                            <cell>$0.00</cell>
+                            <cell>$200.00</cell>
+                        </row>
+                    </table>
+                </p>
+            </div1>
+            <div1 type="claim_summary" id="d6">
+                <p>The evidence in this Case is very meager and quite too thin to be at all
+                    Satisfactory. The Claimant is 35 years old and was subject to Conscription,
+                        <del hand="h1">and</del> he fails entirely to answer questions numbered from 6 to 14
+                    which are intended to elicit the material facts, as to Military service or
+                    employing subsitute in the Rebel Army. The omission to answer those questions is
+                    Conclusive as to Claimants own testimony and he calls but one witness to loyalty
+                    and his testimony is of no force or value whatever.</p>
+                <p>We reject the Claim for insufficiency of Evidence of Loyalty and suspicious
+                    indications of actual disloyalty of Claimant.</p>
+            </div1>
+            <div1 type="testimony" id="d7">
+                <byline>Christian Palmer</byline>
+                <p>1<hi rend="super">st</hi>. Witness says, I am 35 years old, I reside in
+                    Augusta <abbr expan="County">Co.</abbr><abbr expan="Virginia">Va.</abbr> I am a
+                    farmer by occupation. I have resided in Augusta <abbr expan="County">Co.</abbr>
+                    all my life.</p>
+                <p>3<hi rend="super">d</hi>.Witness says, I never passed beyond the Military
+                    or Naval line of the <abbr expan="United States">U.S.</abbr> and enter the rebel
+                    lines.</p>
+                <p>4<hi rend="super">th</hi>.Witness says, I never took any oath to the
+                    Confederate States.</p>
+                <p>5<hi rend="super">th</hi>. Witness says, I have never taken the Amnesty
+                    oath, I never was pardoned.</p>
+                <p>6<hi rend="super">th</hi>. Witness says, I have never done anything for the
+                    Confederacy at all.</p>
+                <p>14<hi rend="super">th</hi>. Witness says, I never was engaged in blockade
+                    running.</p>
+                <p>15<hi rend="super">th</hi>. Witness says, I never left the Confederate
+                    States.</p>
+                <p>16th. Witness says, I had no interest in any vessel for any purpose or use.</p>
+                <p>17<hi rend="super">th</hi>. Witness says, I never was arrested by the
+                    Confederate or <abbr expan="United States">U.S.</abbr> Government.</p>
+                <p>18<hi rend="super">th</hi>. Witness says, None of my property was ever
+                    taken by the Confederates.</p>
+                <p>19<hi rend="super">th</hi>. Witness says, I never was threatened or injured
+                    on account of my Union sentiments.</p>
+                <p>22<hi rend="super">d</hi>. Witness says, I did nothing for the U.S.
+                    Government during the War.</p>
+                <p>23<hi rend="super">d</hi>. Witness says, I had no relatives in either Army
+                    that I know of.</p>
+                <p>24<hi rend="super">th</hi>. Witness says, I never owned any Confederate
+                    Bonds.</p>
+                <p>25<hi rend="super">th</hi>. Witness says, I never done any thing for the
+                    rebellion.</p>
+                <p>26<hi rend="super">th</hi>. Witness says, I never made any raids into the
+                    United States from Canada.</p>
+                <p>29<hi rend="super">th</hi>. Witness says, I never was a paroled prisoner of
+                    the <abbr expan="United States">U.S.</abbr></p>
+                <p>30<hi rend="super">th</hi>. Witness says, I never held any office, nor
+                    educated at the West Point or Naval Academy.</p>
+                <p>31<hi rend="super">st</hi>. Witness says, I never received any pass from
+                    the Confederate Government.</p>
+                <p>32<hi rend="super">d</hi>. Witness says, I was under no disabilities I have
+                    held no office since the war.</p>
+                <p>33<hi rend="super">d</hi>. Witness says, at the beginning I was for the
+                    Union and against the rebellion. I did not vote at all. After the ordinance was
+                    adopted I went for the Union.</p>
+                <p>34<hi rend="super">th</hi>. Witness says, I was all the time a Union man,
+                    and willing at all times to aid the cause of the U.S. Government.</p>
+                <p>Further this deponent saith not,</p>
+                <p><abbr expan="September">Sept.</abbr> 4<hi rend="super">th</hi> 1871.</p>
+                <p><name type="claimant">Christian Palmer</name> his mark</p>
+            </div1>
+            <div1 type="testimony" id="d8">
+                <byline>Michael Palmer to prove taking of property</byline>
+                <p>Michael Palmer, a witness introduced by claimant to prove the taking of the
+                    property charged in the petition, being duly sworn answers as follows,</p>
+                <p>Ques 1<hi rend="super">st</hi>. Witness says, I am 39 years old. I reside
+                    in Augusta <abbr expan="County">Co.</abbr><abbr expan="Virginia">Va.</abbr> by
+                    trade a blacksmith. I was present when the horse mentioned in claimants petition
+                    was taken.</p>
+                <p>2<hi rend="super">d</hi>. Witness says, I saw the horse taken.</p>
+                <p>4<hi rend="super">th</hi>. Witness says, The horse was taken from Claimants
+                    farm, in June 1864 by soldiers, of whom was named Gollady, under the command of
+                        <abbr expan="General">Gen<hi rend="super">l.</hi></abbr> Hunter.</p>
+                <p>7<hi rend="super">th</hi>. Witness says, The horse was taken by the
+                    soldiers.</p>
+                <p>8<hi rend="super">th</hi>. Witness says, The horse was led off to Staunton.</p>
+                <p>12<hi rend="super">th</hi>. Witness says, No receipt was given or asked
+                    for.</p>
+                <p>13<hi rend="super">th</hi>. Witness says, The horse was taken in the day
+                    time, at about 3 O'clock P.M.</p>
+                <p>14<hi rend="super">th</hi>. Witness says, When the horse was taken the Army
+                    was camped at Staunton and remained there several days.</p>
+                <p>15<hi rend="super">th</hi>. Witness says, The horse was fat and in good
+                    condition. He was 7 years old, and worth $150.<hi rend="super">00</hi> or
+                    $200.</p>
+                <p>19<hi rend="super">th</hi>. Witness says, They took him for the use of the
+                    Army.</p>
+                <p>22<hi rend="super">d</hi>. Witness says, They took the horse for the use fo
+                    the Army and I think they ought to pay for him.</p>
+                <p>23<hi rend="super">d</hi>. Witness says, I suppose they had authority to
+                    take property.</p>
+                <p>Further this deponent saith not.</p>
+                <p><abbr expan="September">Sept.</abbr> 4<hi rend="super">th</hi> 1871 <name
+                        type="witness">Micheal Palmer</name></p>
+            </div1>
+            <div1 type="testimony" id="d9">
+                <byline>David Thornton to prove loyalty</byline>
+                <p>David Thornton, introduced by the Claimant to prove his loyalty to the United
+                    States, being duly sworn answers as follows.</p>
+                <p>1<hi rend="super">st</hi>. Witness says, I am 62 years old, I reside in
+                    Augusta Co. Va. I am a farmer. I have known the claimant about 20 years. I live
+                    near him I saw him frequently during the war and I believe that he was a Union
+                    man. I do not know how his neighbors regarded him.</p>
+                <p>I never knew him to do anything for the Confederacy. I think he was <orig
+                        reg="too">to</orig> loyal to the <abbr expan="United States">U.S.</abbr> to
+                    be regarded as at all loyal to the Confederacy.</p>
+                <p>Further this deponent saith not.</p>
+                <p><abbr expan="September">Sept.</abbr> 2<hi rend="super">d</hi> 1871<name
+                        type="witness"> David Thornton</name></p>
+                <p>Sworn to &amp; subscribed before me this 2<hi rend="super">nd</hi> day
+                    of <abbr expan="September">Sept.</abbr> 1871</p>
+                <p>
+                    <name type="other">WG Riley</name>
+                </p>
+                <p>United States Commissioner and special <abbr expan="Commissioner">Com.</abbr> for
+                    State of <abbr expan="Virginia">Va.</abbr></p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

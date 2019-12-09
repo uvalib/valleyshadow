@@ -1,0 +1,413 @@
+<?xml version="1.0"?>
+
+<?dlps id="SCC0501"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 id="SCC0501">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Southern Claims Commission: Claim of Jacob Bowman,
+                    1873, Claim No. 17165</title>
+        <title type="sort">southern claims commission claim of jacob bowman, 1873 claim no 17165</title>
+        <author>Bowman, Jacob</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name>Elizabeth Ladner</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca.<num type="kilobytes"> 18 </num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">SCC0501</idno>
+        <!--
+                <availability>
+                    <p>Publicly accessible</p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2006, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2006">2006</date>
+            <idno type="uva-pid">uva-lib:498388</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title type="main">Southern Claims Commission: Claim of Jacob Bowman, 1873,
+                            Claim No. 17165</title>
+            <title level="m"/>
+            <title type="sort">southern claims commission claim of jacob bowman, 1873 claim no 17165</title>
+            <author>Jacob Bowman</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives, Washington,
+                            D.C., RG 123, Congressional Jusidiction #8876</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1873">1873</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+        <hand id="h1"/>
+      </handList>
+            <textClass>
+                <keywords>
+                    <term>Agriculture, Church/Religious Activity, Desertion/Leave, Economy,
+                        Patriotism</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="SCC0501T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Jacob Bowman filed this claim in 1873 for 4 items, including horses, corn, bacon,
+                    and flour, amounting to $600. He claimed the property taken by General Averill's
+                    Union troops in June of 1864. Jacob was a 37 year old farmer and miller and a
+                    member of the Lutheran Church. He voted for the Ordinance of Secession. The
+                    claim was disallowed.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="claim_items" id="d5">
+                <p>
+                    <table>
+                        <row>
+                            <cell>
+                                <hi rend="bold">Item Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Allowed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Disallowed:</hi>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>4 Items</cell>
+                            <cell>600.00</cell>
+                            <cell>0.00</cell>
+                            <cell>600.00</cell>
+                        </row>
+                    </table>
+                </p>
+            </div1>
+            <div1 type="claim_summary" id="d6">
+                <p>Claimant swears to loyal Sympathies but not to loyal Conduct. On the contrary he
+                    was over persuaded and voted for the disolution of the Union and the destruction
+                    of the Government. He likewise furnished a Substitute for the Confederate
+                    Serivce, having as he alleged been Conscripted and having no other way to Escape
+                    personal Service. And he also received Vouchers from Confederate Officers for
+                    supplies taken which would not have been given him had he been the reputation of
+                    a Union Man. We therefore reject the Claim.</p>
+            </div1>
+            <div1 type="testimony" id="d7">
+                <byline>Jacob Bowman</byline>
+                <p>My name is <hi rend="underline">Jacob Bowman</hi>, my age <hi rend="underline">37
+                        years</hi>, my residence <hi rend="underline">Augusta County</hi>, in the
+                    State of <hi rend="underline">Virginia</hi>, and my occupation a <hi
+                        rend="underline">farmer</hi>; I am <del hand="h1">related to</del> the claimant, and
+                    have <hi rend="underline">a</hi> beneficial interest in the claim.</p>
+                <p>2. Witness says: I resided on my farm &amp; cultivated my farm all the war;
+                    my farm contains 500 acres, 350 cleared. I did not leave the State during the
+                    war.</p>
+                <p>3. No in full</p>
+                <p>4. No in full</p>
+                <p>Witness says: I took amnesty oath after the war, had nothing to be pardoned for.</p>
+                <p>6. No in full</p>
+                <p>7. No in full</p>
+                <p>8. No in full</p>
+                <p>9. No in full.</p>
+                <p>10. No in full</p>
+                <p>11. No in full</p>
+                <p>12. Witness says: I was forced into the Home guard for 5 days in 1864.</p>
+                <p>13. I was conscripted into the Rebel service &amp; furnished a substitute to
+                    keep out of it. I had either to do that or go in myself; I had no other choice.</p>
+                <p>15. No in full</p>
+                <p>16. No in full</p>
+                <p>17. No in full</p>
+                <p>18. No in full</p>
+                <p>19. No in full</p>
+                <p>20. No in full</p>
+                <p>21. No in full</p>
+                <p>22. No in full</p>
+                <p>23. No in full</p>
+                <p>24. Witness says: He was arrested twice by the <abbr expan="Confederate"
+                    >Confed.</abbr> authorities &amp; brought to Staunton, the first time
+                        <del hand="h1">he</del><add hand="h1" place="inline">I</add> was parolled, then <del hand="h1">he</del><add hand="h1" place="inline">I</add> was
+                    brought back &amp; released upon the ground that <del hand="h1">he</del><add hand="h1" place="inline">I</add>
+                    was a miller. Was arrested after the law passed requiring principals to go into
+                    Army notwithstanding had employed substitutes. I never was arrested by the <abbr
+                        expan="United States">U.S.</abbr><abbr expan="Government">Gov<hi
+                            rend="super">t.</hi></abbr></p>
+                <p>25. The Confederate impressed <add hand="h1" place="inline">some</add> hay, oats, &amp;
+                    <add hand="h1" place="inline">flour</add> for which they gave me receipts.</p>
+                <p>26. Witness says: I was never threatened as I kept as still I possibly could.</p>
+                <p>27. No in full</p>
+                <p>28. No in full</p>
+                <p>29. No in full</p>
+                <p>30. Witness says: I had no son, nephew or brother in <abbr expan="Confederate"
+                        >Confed.</abbr> Army.</p>
+                <p>31. No in full</p>
+                <p>32. No in full</p>
+                <p>33. No in full</p>
+                <p>34. No in full</p>
+                <p>35. No in full</p>
+                <p>36. No in full</p>
+                <p>37. No in full</p>
+                <p>38. No in full</p>
+                <p>39. No in full</p>
+                <p>40. Witness says: I was opposed to the war from beginning to the end. I voted for
+                    the Ordinance of Secession against my conviction. I had determined to vote
+                    against it, but was approached by D<hi rend="super">r.</hi> W<hi
+                        rend="super">m</hi> S. M<hi rend="super">c</hi>Chesney, an
+                    intelligent &amp; influential man, a warm personal friend of mine, who said
+                    if I did not vote for it I would rue it the balance of my life as it was the
+                    only way upon Earth to keep off a war and I yielded to his advice for &amp;
+                    in consideration of my love of the country.</p>
+                <p>41. Witness says: My sympathies were with the old <abbr expan="Government"
+                    >Gov.</abbr> I wasted no change. Was opposed to a Separation, &amp; did
+                    nothing for the rebel <abbr expan="Government">Gov.</abbr> but what I was
+                    compelled. I was never gladder in my life than when the war ended &amp; as
+                    it did.</p>
+                <p>And further this Deponent saith not.</p>
+                <p>
+                    <name type="claimant">Jacob Bowman</name>
+                </p>
+                <p>Sworn to and subscribed before me this 17 day of October 1872.</p>
+                <p>
+                    <name type="other">WG Riley</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d8">
+                <byline>Jacob Bowman</byline>
+                <p>Deposition of Jacob Bowman recalled to prove taking &amp; value of his
+                    property.</p>
+                <p>1. Witness says: I saw all the property mentioned in my petition mentioned the
+                    flour &amp; corn from the mill, one horse from a meadow &amp; the other
+                    from the yard gate on my farm. The bacon was in my house. This was
+                    <add hand="h1" place="inline">all</add> taken in June 1864 by G<hi rend="super">en.</hi> Averill
+                    &amp; Crooks soldiers of the <abbr expan="United States">U.S.</abbr> Army.
+                    There were about 150 soldiers engaged in takin the property. There were officers
+                    present but I do not know their names or ranks. My family was present, &amp;
+                        M<hi rend="super">r.</hi> W<hi rend="super">m</hi> Bosserman was
+                    with me at the time near by. I had no conversation with any officer, the
+                    officers <add hand="h1" place="inline">said</add> that they must have such property as this mentioned, it
+                    was necessary to have it. They were driving off my young cattle, but at the
+                    earnest request of my life to leave one special one, he said as that is the best
+                    one I will leave all, which he did. The main body of the Army was at Staunton
+                    about 7 miles, they took the property in direction of camp, except what they fed
+                    on the ground. There were a great many sacks in mill, which they used in taking
+                    property away. An officer rode one of my horses, &amp; told my wife it was
+                    one of the best horses he had seen in <abbr expan="Virginia">V<hi
+                            rend="super">a.</hi></abbr> the other was led off. No complaint
+                    was made to any officer, no receipt was given or asked for, all was taken in day
+                    time. The horses were 4 &amp; 6 years old respectively, in fine condition,
+                    &amp; worth richly $200 each. The flour was in <abbr expan="pounds"
+                    >lbls.</abbr> 10 barrels &amp; worth $10 per <abbr expan="pound">lb<hi
+                            rend="super">l.</hi></abbr> There were 50 bushels of corn I had
+                    measured it. it was all taken &amp; was worth $1 per bushel. There were 11
+                    pieces of bacon, large hams weighing 20 <abbr expan="pounds">lbs.</abbr> each,
+                    all taken from garret of the house to which it had been removed from the Smoke
+                    house; was worth 25 cents per <abbr expan="pound">lb.</abbr> The officer was
+                    very kind, &amp; would suffer no soldier to enter the house. he pitched the
+                    bacon out of the window. he left about as much bacon as he took. I was the sole
+                    owner of the property taken, nothing was left in exchange, &amp; I have
+                    never been paid for it, nor has the claim ever been presented before to the Gov.</p>
+                <p>And further the Deponent saith not.</p>
+                <p>
+                    <name type="claimant">Jacob Bowman</name>
+                </p>
+                <p>Subscribed &amp; sworn to before me this 17<hi rend="super">th.</hi>
+                    day of October 1872.</p>
+                <p>
+                    <name type="other">WG Riley</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d9">
+                <byline>William Bosserman</byline>
+                <p>Deposition of William Bosserman to prove the taking and value of the property
+                    mentioned in Claimants petition.</p>
+                <p>1. Witness says: I am 45 years of age, reside in Augusta County, and am a farmer.
+                    Was on a hill near by <del hand="h1">his</del><add hand="h1" place="inline">Claimant</add> house &amp; mill,
+                    &amp; saw the property taken, or rather saw the soldiers enter the mill
+                    where the corn &amp; flour were, &amp; when they left it was gone. I saw
+                    one horse taken out of the meadow, &amp; the other from the yard gate of
+                    Claimants farm. I did not see the bacon actually taken, but know from
+                    information of others that it was. This was <add hand="h1" place="inline">done</add> in June 1864, by
+                    soldiers of <abbr expan="General">Gl.</abbr> Hunter. I thought there were 150
+                    men engaged in taking the property. The place seemed alive with them. The
+                    Claimants family were present. There were officers there, but I did not know
+                    them. The main body of the Army was encamped at Staunton, a part of it about 4
+                    miles from Claimants; soldiers took the property towards their camp. No
+                    complaint was made that I know of to any officer, no receipt given or asked for,
+                    nothing left in exchange, it has never been paid for or presented to any Dep
+                    that I know of. It was all taken in the day time. The horses were in fine
+                    condition, one 6 &amp; the other 4 years of age, they were remarkably fine
+                    horses &amp; richly worth $200 each. They took 10 <abbr expan="pounds"
+                    >lbls</abbr> of flour worth $10 each. it was in the mill. There were 50 bushels
+                    of measured corn in the mill. it was taken. it was worth $1 per bushel. I did
+                    not see the bacon, but am satisfied from what I saw &amp; heard it was
+                    taken. it was worth 25 <abbr expan="cents">cts.</abbr><abbr expan="per">p<hi
+                            rend="super">r.</hi></abbr><abbr expan="pound">lb.</abbr></p>
+                <p>And further this Deponent saith not.</p>
+                <p>
+                    <name type="witness">W<hi rend="super">m.</hi> Bosserman</name>
+                </p>
+                <p>Sworn to and subscribed before me this 17<hi rend="super">th.</hi> day of
+                    October 1872.</p>
+                <p>
+                    <name type="other">WG Riley</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d10">
+                <byline>William Bosserman</byline>
+                <p>Deposition of W<hi rend="super">m.</hi> Bosserman recalled to prove the
+                    loyalty of the Claimant.</p>
+                <p>1. I have known the Claimant all his life, he was raised within two miles of my
+                    fathers house. Saw him constantly during the war &amp; talked with him about
+                    the war. He was the sickest man of the war I ever saw, he was opposed to the war
+                    &amp; to secession. He advised every body to leave the South &amp; go to
+                    the mountains. He aided all deserters, fed them &amp; concealed them. he
+                    gave them while in the mountains, flour, bacon, &amp;. He said the day he
+                    was parolled &amp; left Staunton that if he could not get off as a miller he
+                    would certainly <add hand="h1" place="inline">run off &amp;</add> go North. I regarded him as a true
+                    Union man &amp; he was so regarded by all his neighbors. I heard of no
+                    threats against him. I am certain that he did nothing to aid the Confederate
+                        <abbr expan="Government">Gov<hi rend="super">t.</hi></abbr> except as
+                    stated above. The claimant is a member of high standing in the Lutheran Church.
+                    I the witness was a Union man during the war, &amp; am also a member of the
+                    Lutheran Church. He had no sons in <abbr expan="Confederate">Confed.</abbr>
+                    Army, was the owner of no <abbr expan="Confederate">Confed.</abbr> bonds to my
+                    knowledge, &amp; did nothing to aid the credit of the Confederacy. He
+                        <del hand="h1">was</del> rejoiced more than any man I ever saw at the conclusion of
+                    the war &amp; at the sucess of the <abbr expan="United States">U.S.</abbr> I
+                    do not think he would have done as he did about <del hand="h1">not</del> voting, had it
+                    not been for the influence of D<hi rend="super">r.</hi> W<hi
+                        rend="super">m.</hi> S. M<hi rend="super">c</hi>Chesney
+                    &amp; for the reason assigned that it would keep off a war. D<hi
+                        rend="super">r.</hi> M<hi rend="super">c</hi>Chesney had great
+                    influence and was regarded as a true friend. The D<hi rend="super">r.</hi>
+                    was as much distressed as I ever saw a man when the war commenced - he wept
+                    bitterly. The State of affairs was such, that a great many good
+                    <del hand="h1">friends</del> citizens, &amp; Union men, were apt to be influenced by
+                    men of more reading &amp; information than they possessed themselves, as to
+                    what way proper to be done for the Country.</p>
+                <p>And further the Deponent saith not.</p>
+                <p>
+                    <name type="witness">Wm. Bosserman</name>
+                </p>
+                <p>Subscribed and sworn to before me this 17<hi rend="super">th.</hi> day of
+                    October 1872.</p>
+                <p>
+                    <name type="other">WG Riley</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d11">
+                <byline>George S. Arehart</byline>
+                <p>Deposition of G. S. Arehart, to prove the Loyalty of Jacob Bowman.</p>
+                <p>1. Witness says: I am 44 years old, reside in Augusta <abbr expan="County"
+                    >Co.</abbr> I am a farmer, I have known the Claimant all his life. Lived near
+                    him during the war. Saw him often &amp; talked to him about the war. When we
+                    went in the mountains hiding to keep out of the Confederate Army, the Claimants
+                    sent us us six (6) <abbr expan="pounds">lbs.</abbr> of flour to use, when I
+                    returned from the West in 1864. I told him how every thing prospered in the
+                    North &amp; that the South was already whipped. he seemed delighted. Said he
+                    wanted the thing to close. I regarded him as a Union man &amp; his neighbors
+                    regarded him as such. Don't know how he voted on the ordinance of Secession. If
+                    he had been a rebel he would not have supplied us as he did while we were hiding
+                    in the mountains. Never heard him threatened by the rebels. He was in the home
+                    guards a few days. <add hand="h1" place="inline">was</add> forced into it. Did nothing voluntarily for
+                    the Confederate <abbr expan="Government">Govt.</abbr> Had no son in the
+                    Confederate Army. Owned no Confederate blonds, did nothing to support the credit
+                    of the Confederate States. He is a member of the Lutheran Church. I am a member
+                    of the same Church. Can't say what the claimant would have done had the South
+                    gained its independence. And further this deponent saith not.</p>
+                <p>
+                    <name type="witness">George S. Arehart</name>
+                </p>
+                <p>Sworn to and subscribed before me this 15th day of October 1872</p>
+                <p>
+                    <name type="other">WG Riley</name>
+                </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

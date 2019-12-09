@@ -1,0 +1,768 @@
+<?xml version="1.0"?>
+
+<?dlps id="SCC0531"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 id="SCC0531">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Southern Claims Commission: Claim of David Myers,
+                    1874, Claim No. 12,113</title>
+        <title type="sort">southern claims commission claim of david myers, 1874 claim no 12 113</title>
+        <author>Myers, David</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name>Virginia Center for Digital History Staff</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca.<num type="kilobytes"> 40 </num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="VCDH">SCC0531</idno>
+        <!--
+                <availability>
+                    <p>Publicly accessible</p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2006, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2006">2006</date>
+            <idno type="uva-pid">uva-lib:498418</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title type="main">Southern Claims Commission: Claim of David Myers, 1874,
+                            Claim No. 12,113</title>
+            <title level="m"/>
+            <title type="sort">southern claims commission claim of david myers, 1874 claim no 12 113</title>
+            <author>David Myers</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives, College Park,
+                            RG 217, claim #12,113</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1874">1874</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+        <hand id="h1"/>
+      </handList>
+            <textClass>
+                <keywords>
+                    <term>Enlistment, Home Front, Patriotism, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="SCC0531T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                
+                <p>David Myers filed this claim in 1874 for $929, claiming Union forces under
+                    General Hunters Army took five horses, corn, grain, flour, and sorgham molasses
+                    in 1864. David was a 53 year old farmer in New Hope who helped neighbors escape
+                    to the Union lines. He hired a substitute for his son and then sent his son to
+                    the Union to avoid Confederate service. David served as a Justice of the Peace
+                    after the war was over. Included is testimony of John A. Stover of Augusta who
+                    joined the 6th Ohio Regiment. The commission allowed $615.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="claim_items" id="d5">
+                
+                <p>
+                    <table>
+                        <row>
+                            <cell>
+                                <hi rend="bold">Item Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Claimed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Allowed:</hi>
+                            </cell>
+                            <cell>
+                                <hi rend="bold">Amount Disallowed:</hi>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>1 Bay horse 6 years old</cell>
+                            <cell>$175.00</cell>
+                            <cell>$125.00</cell>
+                            <cell>$50.00</cell>
+                        </row>
+                        <row>
+                            <cell>One Brown Mare</cell>
+                            <cell>$125.00</cell>
+                            <cell>$110.00</cell>
+                            <cell>$15.00</cell>
+                        </row>
+                        <row>
+                            <cell>One Cob Ham Mare 3 yrs old</cell>
+                            <cell>$125.00</cell>
+                            <cell>$110.00</cell>
+                            <cell>$15.0</cell>
+                        </row>
+                        <row>
+                            <cell>One Bay Mare</cell>
+                            <cell>$100.00</cell>
+                            <cell>$100.00</cell>
+                            <cell>$0.00</cell>
+                        </row>
+                        <row>
+                            <cell>One Sorrel Mare</cell>
+                            <cell>$50.00</cell>
+                            <cell>$50.00</cell>
+                            <cell>$0.00</cell>
+                        </row>
+                        <row>
+                            <cell>25 Bushels of Corn</cell>
+                            <cell>$25.00</cell>
+                            <cell>$20.00</cell>
+                            <cell>$5.00</cell>
+                        </row>
+                        <row>
+                            <cell>21 acres grain in head - 15 bus per acre</cell>
+                            <cell>$315.00</cell>
+                            <cell>$100.00</cell>
+                            <cell>$215.00</cell>
+                        </row>
+                        <row>
+                            <cell>One Barrel Flour</cell>
+                            <cell>$8.00</cell>
+                            <cell>$0.00</cell>
+                            <cell>$8.00</cell>
+                        </row>
+                        <row>
+                            <cell>One Bbll Sorgham Molasses</cell>
+                            <cell>$6.00</cell>
+                            <cell>$0.00</cell>
+                            <cell>$6.00</cell>
+                        </row>
+                    </table>
+                </p>
+            </div1>
+            <div1 type="claim_summary" id="d6">
+                
+                <p>The claimant is about 55 years of age and a farmer. He resided in Augusta <abbr
+                        expan="County">Co.</abbr><abbr expan="Virginia">Va.</abbr> during the war.
+                    When this case was first submitted the testimony was so badly taken that we
+                    required an investigation and further testimony. The testimony has been
+                    furnished. Mr. Myers was opposed to secession, and when the ordinance of
+                    secession was submitted to the people he did not vote on the question. His son
+                    was conscripted and being sick he purchased a substitute for him and sent him
+                    north into the federal lines to escape conscription. He rejoiced at Union
+                    victories and is regarded by all his Union neighbors as having been a constant
+                    and consistent Unoin man. The rebels took his property but paid him nothing.</p>
+                <p>The battle of Piedmont occured June 5, 1864 about one mile from claimants
+                    premises. The next day June 6 the claimants property was taken. The horses and
+                    the corn clearly for army use. The quantity of corn is not certain. The field of
+                    grain was wheat which was just heading out and the cavalry horses were turned
+                    into the field and trampled it down. For the pasturing we can make a small
+                    allowance. The flour and molasses must be charged to depredation. No vouchers or
+                    receipts were given.</p>
+                <p>We recommend the payment of $615</p>
+            </div1>
+            <div1 type="testimony" id="d7">
+                
+                <byline>David Myers</byline>
+                <p>United States of America</p>
+                <p>State of <abbr expan="Virginia">Va.</abbr> S. S. </p>
+                <p>J.W.G. Riley a commissioner selected and designated by the <abbr
+                        expan="Commissioners">Commrs</abbr>. of Claims, appointed under the act of
+                    Congress of March 3<hi rend="super">d</hi>. 1871. To take and record
+                    testimony. Do hereby certify that the reason for taking the following
+                    depositions is and the fact is, the matter of claim of David Myers vs. the
+                    United States of America and the witness herein named being material and
+                    necessary, being first duly sworn deposeth as follows.</p>
+                <p>Question. Where do you reside. What is your age, and what is your occupation,</p>
+                <p>Ans. I reside at New Hope, in Augusta <abbr expan="County">Co.</abbr><abbr
+                        expan="Virginia">Va.</abbr> My age is 53 years and my occupation a farmer.</p>
+                <p>Ques. 1<hi rend="super">st</hi> Witness says. Same place, New Hope Augusta
+                        <abbr expan="County">Co.</abbr><abbr expan="Virginia">Va.</abbr> and was
+                    there during the war.</p>
+                <p>Ques. 3. Witness says. He did not pass beyond the military or Naval lines of the
+                        <abbr expan="United States">U.S.</abbr> and enter the rebel lines.</p>
+                <p>Ques. 4<hi rend="super">th</hi>. Witness says. He never did take an oath of
+                    affirmation to bear allegiance to the so called Confederate States or to aid or
+                    support them in any way.</p>
+                <p>Ques. 5<hi rend="super">th</hi>. Witness says, <del hand="h1">Have you ever
+                    taken</del> I have taken the am<add hand="h1" place="inline">n</add>esty oath. I have not been pardoned
+                    by the President I have done nothing to be pardoned for.</p>
+                <p>Ques. 6<hi rend="super">th</hi>. Witness says. That he was never directly
+                    or indirectly connected with the civil service of the so called Confederate
+                    States.</p>
+                <p>Ques. 7<hi rend="super">th</hi>. Witness says. That he never held any
+                    office <add hand="h1" place="inline">or</add> place of trust under the Confederate Government or under
+                    any of the States or territories subordinate thereto.</p>
+                <p>Ques. 8<hi rend="super">th</hi>. Witness says. He held no agency or
+                    employment of any kind for or under or for the benefit of the so called
+                    Confederate States.</p>
+                <p>Ques. 9<hi rend="super">th</hi>. Witness says. He never was in the Military
+                    or Naval service of the so called Confederate States or of any of State or
+                    territory subordinate thereto.</p>
+                <p>Ques. 10. Witness says. I never was in the Confederate Army or Navy myself, but I
+                    did furnish a substitute for my son. My son was sick, and being about to force
+                    him into the service, I hired a substitute for him he being under age at the
+                    time, and as soon thereafter as he was well, I sent him into the Federal lines,
+                    where he remained until after the close of the war. I was never directly or
+                    indirectly connected with employed for either the Commissary department, Quarter
+                    Master department, Medical department, Engineers department, the Ordinance
+                    department impressment service, the Provost Marshal department, or any other
+                    Bureau, or branch or department of the Confederate service. Nor did I at any
+                    time have charge of any stores, or supplies for the use of the Confederate Army,
+                    Navy or Government, or the charge of trains, teams or teams Wagon or Wagons,
+                    Vessels, Boats, or other crafts, or munitions of War for the use of the
+                    Confederate Army or Navy.</p>
+                <p>Ques. 11. Witness says. He was never in any service of any kind for the
+                    Confederate service of any kind for the Confederate Governmnet, Army or Navy. I
+                    never furnished any supplies, stores or property of any kind volunatrily to the
+                    Confederate States or any State in rebellion, or to the Army, Navy militia, home
+                    guards, armed forces, or military organizations thereof, or for any officer,
+                    soldier or sailor thereof, that he never <orig reg="gave">give</orig> any
+                    information to any officer, soldier, or sailor of the Confederate Army or Navy,
+                    or to any person employed by of for the so called Confederate States, or acting
+                    on their behalf, or for their benefit which might aid in any way any military or
+                    naval <orig reg="operations">apperations</orig> carried on against the United
+                    States.</p>
+                <p>Ques. 12<hi rend="super">th</hi>. Witness says. I was never employed in the
+                    manufacture of the munitions of war, of clothing, Boots, Shoes, Saddles Harness
+                    or leather, for soldiers of the Confederate Army or Navy, or aid or assist
+                    others, engaged in such manufacture.</p>
+                <p>Ques. 13<hi rend="super">th</hi>. Witness says. That he never was directly
+                    or indirectly employed in the collection, impressment, or purchase or the sale
+                    of Stores, supplies, or any property for the use or benefit of the Confederate
+                    Government or any state in rebellion or the Army Navy, or other forces thereof.
+                    And that he never had any interest or share in contracts with, or purchases for,
+                    the Confederate Government or its Army or Navy, or any state in rebellion or its
+                    forces.</p>
+                <p>Ques. 14<hi rend="super">th</hi>. Witness says. That he never was engaged
+                    in blockade running or illicit traffic or intercourse between the lines nor
+                    never was in any way interested therein. Nor did he have any interest or share
+                    in any goods, wares, merchandise, stores or supplies brought into or exported
+                    from the so called Confederate States during the war.</p>
+                <p>Ques. 15<hi rend="super">th</hi>. Witness says. That he did not leave the
+                    so called Confederate States between the 19<hi rend="super">th</hi> April
+                    1861 and the 19<hi rend="super">th</hi> April 1865.</p>
+                <p>Ques. 16<hi rend="super">th</hi>. Witness says. That he was not the owner
+                    or any way interested in any vessel used in navigating the ocean, to or from any
+                    port in the Confederacy or upon any waters in the Confederacy.</p>
+                <p>Ques. 17<hi rend="super">th</hi>. Witness says. I never was arrested by the
+                    Confederate Government or any one having authority or professing to have
+                    authority therefor. Nor was I ever arrested by the United States Government.</p>
+                <p>Ques. 18<hi rend="super">th</hi>. Witness says. He had grain taken by the
+                    Confederate authorites, but received no compensation for the same.</p>
+                <p>Ques. 19<hi rend="super">th</hi>. Witness says. I was never threatened with
+                    damage to person, family, or property on account of my Union sentiments, to my
+                    own knowledge.</p>
+                <p>Ques. 20<hi rend="super">th</hi>. Witness says. I believe it was on account
+                    of my Union sentiments that they took my grain.</p>
+                <p>Ques. 21<hi rend="super">st</hi>. Witness says. I contributed nothing in
+                    aid of the <abbr expan="United States">U.S.</abbr> Government, or in aid of the
+                    Union Army or cause.</p>
+                <p>Ques. 22<hi rend="super">nd</hi>. Witness says. That the soldiers of the
+                    Union Army after the battle of Piedmont came to my house and got provisions of
+                    various kinds, same being commanded by <abbr expan="General">Gen<hi
+                            rend="super">l</hi>.</abbr> Hunter.</p>
+                <p>Ques. 23<hi rend="super">d</hi>. Witness says. He had no near relatives in
+                    the Confederate or Union Armies. I did have nephews in the Confederate
+                    Government and a brother in law in the Union Army. I did not supply them with
+                    any military equipment or with money.</p>
+                <p>Ques. 24. Witness says. I never owned any Confederate bonds, nor any share or
+                    interest therein, or did in any way contribute to support the credit of the so
+                    called Confederate States, during the rebellion.</p>
+                <p>Ques. 25<hi rend="super">th</hi>. Witness says. He never <orig reg="gave"
+                        >give</orig> any aid and comfort to the rebellion.</p>
+                <p>Ques. 26<hi rend="super">th</hi>. Witness says. I never was engaged in
+                    making raids into the United States from Canada, nor engaged in the destruction
+                    of Commerce of the<abbr expan="United"> U.</abbr> States in the rivers adjoining
+                    Canada.</p>
+                <p>Ques. 27<hi rend="super">th</hi>. Witness says. I was never engaged in
+                    holding in custody directly or indirectly any persons taken by the rebel
+                    Government as prisoners of War.</p>
+                <p>Ques. 28<hi rend="super">th</hi>. Witness says. I never was <add hand="h1" place="inline">a member
+                        of</add> any society for the imprisonment, expulsion or execution of any
+                    persons, on account of their loyalty to the United States, or did ever assist in
+                    such acts.</p>
+                <p>Ques. 29<hi rend="super">th</hi>. Witness says. That he was
+                    <add hand="h1" place="inline">never</add> a paroled prisoner of the United States.</p>
+                <p>Ques. 30<hi rend="super">th</hi>. Witness says. I have never held any
+                    office in the Army or Navy of the United States. I was never educated in the
+                    Military Academy at West Point or at the <abbr expan="United States">U.S.</abbr>
+                    Naval Academy.</p>
+                <p>Ques. 32<hi rend="super">d</hi>. Witness says. That he was not under any
+                    disabilities imposed by the 14<hi rend="super">th</hi> Amendment to the
+                    Constitution of the <abbr expan="United">U.</abbr> States. That he held the
+                    office of Registrar by Military appointment and took the so called "Iron Clad"
+                    oath.</p>
+                <p>Ques. 33<hi rend="super">d</hi>. Witness says. that at the beginning of the
+                    rebellion he did sympathise with the Union cause, and did not vote for or
+                    against the ordinance of secession and that he adhered to the Union cause during
+                    the war.</p>
+                <p>Ques. 34<hi rend="super">th</hi>. Witness says. That I did from the
+                        <add hand="h1" place="inline">beginning of</add> hostilities against the United States to the end
+                    thereof sympathise with the cause of the same and never of my own free will
+                    injured the said cause, and were at all times willing when called upon to aid
+                    the cause of the Union or its supporters so far as my means and power and the
+                    circumstances of the case permitted.</p>
+                <p>Further this witness sayeth not, August 7<hi rend="super">th</hi>, 1871</p>
+                <p>
+                    <name type="claimant">David Myers</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d8">
+                
+                <byline>Samuel P. Garber</byline>
+                <p>Samuel P. Garber, a witness introduced by David Myers, being first duly sworn
+                    answereth as follows.</p>
+                <p>Question. How old are you. Where do you reside and what is your occupation?</p>
+                <p><hi rend="underline">Ans</hi>. I am twenty four years old, I reside near New
+                    Hope, Augusta <abbr expan="County">Co</abbr>. <abbr expan="Virginia">Va</abbr>.
+                    my occupation is a farmer.</p>
+                <p>Ques. 1<hi rend="super">st</hi>. Witness says. I was present when the
+                    horses were taken belonging to the claimant. I saw them taken. I saw nothing
+                    else taken.</p>
+                <p>Ques. 4<hi rend="super">th</hi>. Witness says. They were taken by <abbr
+                        expan="General">Genl.</abbr> Hunter's Army, on the 6<hi rend="super"
+                        >th</hi> day of June 1864, on the farm of Elizabeth Garber, about 1/4 mile
+                    from claimant</p>
+                <p>Ques. 5<hi rend="super">th</hi>. Witness says. that my mother, Elizabeth
+                    Garber, was present.</p>
+                <p>Ques. 6<hi rend="super">th</hi>. Witness says. that they were taken by
+                    soldiers under <abbr expan="General">Genl.</abbr> Hunter's command. I did not
+                    know the rank or regiment.</p>
+                <p>Ques. 8<hi rend="super">th</hi>. Witness says that some were rode and some
+                    led off.</p>
+                <p>Ques. 9<hi rend="super">th</hi>. Witness says That they were removed to
+                    Staunton, I did not follow it.</p>
+                <p>Ques. 10<hi rend="super">th</hi>. Witness says I do not know, for what use
+                    they were taken.</p>
+                <p>Ques. 11<hi rend="super">th</hi>. Witness says there was no complaint made
+                    at the time of taking</p>
+                <p>Ques. 12<hi rend="super">th.</hi> Witness says there was no receipt taken
+                    for the property</p>
+                <p>Ques. 13<hi rend="super">th</hi>. Witness says. They were taken the day
+                    time on the 6<hi rend="super">th</hi> June 1864.</p>
+                <p>Ques. 14<hi rend="super">th</hi>. Witness says. They were coming to
+                    Staunton, <abbr expan="Virginia">Va.</abbr>, where they remained not more than
+                    week, there was a battle fought at Piedmont on the 5<hi rend="super">th
+                    </hi>of June 1864.</p>
+                <p>Ques 15<hi rend="super">th</hi>. Witness says that the horses were in
+                    pretty good condition and I think the charges made by the claimant are
+                    reasonable and fair. They were all young horses. </p>
+                <p>Ques. 19<hi rend="super">th</hi>. Witness says that they were taken for the
+                    Army, that they the soldiers said they wanted them for the Artillery service.</p>
+                <p>Ques. 20<hi rend="super">th</hi>. Witness says they were taken for the use
+                    of the Army and not for the soldiers private use.</p>
+                <p>Ques. 21<hi rend="super">st</hi>. Witness says. I suppose they were ordered
+                    to take them.</p>
+                <p>Ques 22<hi rend="super">nd</hi>. Witness says. I do think the Government
+                    ought to pay for them.</p>
+                <p>Ques 23<hi rend="super">rd</hi>. Witness says. I suppose they had authority
+                    to take them.</p>
+                <p>Questions asked by the Commissioner</p>
+                <p>Question 1<hi rend="super">st</hi>. How long have you known the claimant?</p>
+                <p>Ans. Ever since my infancy and I have known him to be a loyal man. I saw him
+                    often during the war, and lived near him and know that his <orig
+                        reg="sympathies">sympathys</orig> were with the Union all the time. He fed
+                    the Union soldiers during the time they were about his house, I never knew him
+                    to aid the Confederate Government, I never knew him threatened on account of his
+                    Union sentiments. He never owned any Confederate bonds. He was regarded a Union
+                    man by his neighbors.</p>
+                <p>Ques. 2<hi rend="super">d</hi>. Do you know any act done, or language used
+                    by the claimant, which would have prevented him from establishing his loyalty to
+                    the Confederacy if it had been maintained as a <orig reg="separate"
+                    >seperate</orig> Government. If so, state the same particularly.</p>
+                <p><hi rend="underline">Ans</hi>. He was such a good Union man that he could not
+                    have maintained his loyalty to the Confederacy.</p>
+                <p>Further this deponent saith not</p>
+                <p>August 7<hi rend="super">th</hi> 1871</p>
+                <p>
+                    <name type="witness">Saml. P. Garber</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d9">
+                
+                <byline>Sallie J. Kerr</byline>
+                <p>Sallie J. Kerr, a witness is introduced by David Myers, being duly sworn
+                    answereth as follows</p>
+                <p>Questions by the Commissioner</p>
+                <p>Ques. 1<hi rend="super">st</hi>. Do you know the condition and value of the
+                    horses, of the claimant when taken by the United States Army?</p>
+                <p><hi rend="underline">Ans</hi>. The horses were in good condition and I think
+                    worth all charged for them. I know that the army took corn. I suppose about the
+                    quantity specified, but I do not know what Corn was worth by the bushel, they
+                    pastured their horses on the wheat and carried Corn from the barn and fed it in
+                    the wheat field--but I do not know how much. I think they took a barrel of flour
+                    from the barn.</p>
+                <p>Ques. 2<hi rend="super">nd</hi>. How long have you known the claimant?</p>
+                <p><hi rend="underline">Ans</hi>. I have known him all my life and think if there
+                    was a loyal man in the Confederacy he was to the United States Government and
+                    was so regarded by all his neighbors.</p>
+                <p>Ques. 3. How old are you? Where do you reside and what is your occupation?</p>
+                <p><hi rend="underline">Ans.</hi> I am 28 years old, I reside near New Hope, Augusta
+                        <abbr expan="County">Co</abbr>. <abbr expan="Virginia">Va</abbr>. by
+                    occupation a housekeeper.</p>
+                <p>Further this witness saith not,</p>
+                <p>August 7<hi rend="super">th</hi> 1871</p>
+                <p>
+                    <name type="witness">Sallie J. Kerr</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d10">
+                
+                <byline>William H. Myers</byline>
+                <p>William H. Myers, a witness introduced by David Myers, being duly sworn answereth
+                    as follows.</p>
+                <p>Questions by the <abbr expan="Commissioner">Comm<hi rend="super"
+                    >r</hi>.</abbr></p>
+                <p>Ques. 1<hi rend="super">st</hi>. How long have you known the claimant, and
+                    do you know him to have been loyal to the United States during the War?</p>
+                <p><hi rend="underline">Ans</hi>. I have known the claimant all my life, he was
+                    loyal during the war to the <abbr expan="United States">U. S.</abbr> Government
+                    and so regarded by his neighbors. I have heard him to a certain extent defend
+                    the Union cause</p>
+                <p>Ques. 2<hi rend="super">d</hi>. Do you know of any act done, or language
+                    used by the claimant, which would have prevented him from establishing his
+                    loyalty to the Confederacy if it had maintained as a <orig reg="separate"
+                        >seperate</orig> Government? If so, state the same particularly. How old are
+                    you?</p>
+                <p>Ans. I think he was too good a Union man to have established his loyalty to the
+                    Confederacy had it succeeded. I am 26 years, I reside in New Hope, Augusta <abbr
+                        expan="County">Co</abbr>.</p>
+                <p>Further this witness saith not.</p>
+                <p>August 7<hi rend="super">th</hi> 1871</p>
+                <p>
+                    <name type="witness">Wm. H. Myers</name>
+                </p>
+                <p>Sworn to &amp; subscribed before me this 7th day of August 1871</p>
+                <p>
+                    <name type="other">W G Riley</name>
+                </p>
+                <p>United States Commissioner and Special <abbr expan="Commissioner">Com.</abbr> for
+                    State of <abbr expan="Virginia">V<hi rend="super">a</hi>.</abbr></p>
+            </div1>
+            <div1 type="testimony" id="d11">
+                
+                <byline>David Myers</byline>
+                <p>My name is <hi rend="underline">David Myers</hi>, my age <hi rend="underline"
+                    >54</hi> years, my residence <hi rend="underline">Augusta County</hi>, in the
+                    State of <hi rend="underline">Virginia</hi>, and my occupation a <hi
+                        rend="underline">Farmer</hi>; I am <del hand="h1">related to</del> the claimant,
+                        <del hand="h1">and have beneficial interest in the claim.</del></p>
+                <p>I did not see any of the horses charged taken. I did see the Corn grain, Flour,
+                    and sorgham molasses taken. These items were all taken on the 6<hi
+                        rend="super">th</hi> day of June 1864 from my farm near this place.
+                    The Corn was taken out of my granary, by a portion of <abbr expan="General"
+                        >Genl.</abbr> Hunter's Army. They were going towards Staunton. <del hand="h1">They
+                        said</del> I was at the house an officer came and
+                    <del hand="h1">told</del><add hand="h1" place="inline">asked</add> me <del hand="h1">that</del> if I had Corn. I told him I
+                    had a little; he said they were obliged to have grain for their horses, and they
+                    turned their horses into my wheatfield and came to the barn and carried the corn
+                    out. They fed it right there, I saw then they had been feeding it. They left no
+                    receipt for it. They got 25 <abbr expan="bushels">bus</abbr>. I knew I had put
+                    25 <abbr expan="bushels">bus</abbr> into the granary and I had used none of it
+                    and they took it all, the last grain. I was there and insisted on their leaving
+                    us some, but they didn't do it. They carried the corn away in my sacks. They
+                    took 12 or 15 sacks to carry it away. They did not return the sacks. The sacks
+                    were cotton and were not worth more than 25 cts a piece. Corn was worth at that
+                    time $1.- per bus in specie.</p>
+                <p>The grain charged was growing wheat, just out of bloom. they turned the cavalry
+                    horses in on it and pastured it there some 21 acres in the field and it was
+                    pretty full of them. It looked to me like it was full. They were in the field
+                    about 2 hours, I don't know the number of horses. There must have been a
+                    regiment at least. The wheat was good. It was a good season. It would have made
+                    at least 15 <abbr expan="bushels">bus</abbr>, to the acre. Wheat standing in the
+                    condition mine was at that time was worth $1 per bushel. I cut the corner a
+                    small portion of one of the fields about an acre. The horses were hungry and
+                        <orig reg="ate">eat</orig> rapidly. they destroyed by tramping about one
+                    third <del hand="h1">of</del> as much as they eat.</p>
+                <p>The flour charged was taken out of a barrel in my corn cub. They carried the
+                    flour away in their Horses sacks. It was a full barrel. They knocked the head of
+                    the barrel in an took it all. They stopped <add hand="h1" place="inline">then</add> but for a short time.
+                    They carried the flour away with them. I don't know where they took it. The
+                    flour <del hand="h1">where</del> was then worth $8 per barrel. They said they were hungry
+                    and were obliged to have the flour to eat.</p>
+                <p>The sorgham they took at the same time. I think they filled their Canteens with
+                    it. <del hand="h1">They took some of the molasses.</del> They said they were obliged to
+                    have something to eat. The molasses was in a <unclear>finkin</unclear> in my
+                    spring house. There was 12 <abbr expan="Gallons">Galls</abbr> in the
+                        <unclear>Finkin</unclear> and they took it all. <orig reg="It">I</orig> was
+                    worth $(50 cts) fifty cents per gallon. The battle <del hand="h1">was</del> of Piedmont
+                    was fought the day before about a mile from my house. I got no receipts for any
+                    of the property charged. I never thought about a receipt. Officers said the saw
+                    the soldiers taking the property. I don't think they tried to prevent them from
+                    taking it. No one <orig reg="has">is</orig> interest in this claim
+                    <del hand="h1">from</del> but me. Further saith not.</p>
+                <p>
+                    <name type="claimant">David Myers</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d12">
+                
+                <byline>Samuel P. Garber</byline>
+                <p>Samuel P. Garber a witness for claimant being duly affirmed and examined by
+                    Commissioner deposes and says</p>
+                <p>I am 25 years old a resident of Augusta County a farmer by occupation, I am not
+                    related to the claimant and have no interest in his claim. I was before examined
+                    by Judge W. G. Riley at Staunton in this case. I was present and saw 5 horses
+                    taken from the <abbr expan="claimant">clt</abbr>, one was good size Bay horse 6
+                    years old and was worth $200--two hundred dollars. One was a brown mare 9 years
+                    old worth about $130. One Cobham mare worth $150. One Bay mare worth $130. One
+                    sorrel mare worth $75 she was about 12 yrs old. They <del hand="h1">they</del> were all
+                    round--in good condition, large, they had no brands on them. I don't think any
+                    officers were present when the horses were taken, the horses were taken from my
+                    mother's Barn yard, I heard the soldiers tell my mother that they were good
+                    horses and that they wanted them for the artillery and that the owner would get
+                    paid for them. They took the horses toward Staunton, they said their horses had
+                    broken down, It was the day after the battle of the 5<hi rend="bold">th</hi> of
+                    June 1864 at Piedmont, I never saw them afterward.</p>
+                <p>Further saith not</p>
+                <p>
+                    <name type="witness">Saml. P. Garber</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d13">
+                
+                <byline>William H. Myers</byline>
+                <p>William H. Meyers, a witness whose testimony was taken and certified by Judge Wm.
+                    G. Riley at Staunton on the 9<hi rend="super">th</hi> day of August 1871
+                    in the claim of Daniel Meyers N<hi rend="super">o</hi>. 12113 being
+                    recalled at the request of claimant makes the following additional statements
+                    and correction of the testimony heretofore taken.</p>
+                <p>I do know of acts and language both done and used by the Claimant that might have
+                    prevented him from proving his loyalty to the Confederacy if it had been
+                    maintained as a <orig reg="separate">seperate</orig><abbr expan="Government"
+                        >Govt</abbr>. I know that he assisted me and others to go throught lines
+                    north, to keep the rebels from getting us into their Army, He assisted me with
+                    money and sent me in a buggy to about 5 miles to the left of Harrisonburg in
+                    Rockingham County, a distance of about 27 miles from my home, I know that in his
+                    conversations concerning the war he always upheld the north--the Union cause,
+                    and to me he denounced the rebellion, I don't remember whether he ever expressed
+                    an intention to change his residence in case the confederacy was successful.
+                    Further deponent saith not.</p>
+                <p>
+                    <name type="witness">Wm. H. Myers</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d14">
+                
+                <byline>John D. Garber</byline>
+                <p>John D. Garber, witness to prove property being affirmed and examined by the
+                    Commissioner, deposes and says: I am 22 years old and reside near New Hope, Va.
+                    I am a farmer. I am not related to the claimant and have no interest in this
+                    claim. I saw five horses belonging to the claimant taken by General Hunter's
+                    army in the month of June 1864. The horses were in the barnyard of the stable
+                    where they were taken. There were several soldiers present--but I don't know
+                    whether there was an officer with them. I heard them say they wanted the horses
+                    for the artillery service. One horse was a bay about six years old and worth
+                    $200. One was a black mare. I don't know how old, worth about $130. One was a
+                    bay mare about three years old, worth about $130. One was a brown mare. I don't
+                    recollect how old worth about $120. The claimant was not present when the horses
+                    were taken. The soldiers said they had a fight the day before and their horses
+                    were broken down and that they needed these horses to supply their place. I knew
+                    the horses well and worked them and knew their condition and am thus able to
+                    state their value. The fifth horse was a sorrel mare, <del hand="h1">about</del> I do not
+                    recollect how old, and was worth $130. Further deponent saith not</p>
+                <p>
+                    <name type="witness">J. D. Garber</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d15">
+                
+                <byline>Samuel P. Garber</byline>
+                <p>At the request of the claimant, The <abbr expan="commissioner">commr.</abbr>
+                    recalls <abbr expan="Samuel">Saml</abbr>. P. Garber and examines him concerning
+                    the pasturage of the wheat charged in the 7<hi rend="super">th</hi> item.</p>
+                <p>I did not see the cavalry horses of the Army turned into the field of the <abbr
+                        expan="claimant">Clt.</abbr> I did not see them while they were in there, I
+                    saw the day after that the field had been pastured off, I know the field well, I
+                    know the number of acres, There were two fields. They contained 21 acres. The
+                    wheat was growing in the head and didn't lack much of being ripe. It was a good
+                    crop, I think it would have made 20 bushels to the acre. I saw it the day after
+                        <del hand="h1">the day</del> after the <del hand="h1">Ar</del> the <abbr expan="General">Gen<hi
+                            rend="super">l</hi>.</abbr> Hunter's army moved by, It was
+                    trampled down and eat off. I suppose about the half of it was eat and nearly all
+                    the balance was destroyed. The claimant cut a little of it about an acre or two,
+                    which they didn't get over so much--it was pretty tolerable good. The wheat was
+                    worth, I think, in that condition a $1 per bushel. And further saith not</p>
+                <p>
+                    <name type="witness">Saml. P. Garber</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d16">
+                
+                <byline>Isaac Coffman</byline>
+                <p>Depositions of Isaac Coffman, and John A. Stover taken on behalf of David Myers,
+                    claimant in the city of Staunton, <abbr expan="Virginia">Va.</abbr> said
+                    witnesses being duly sworn by me H. Risk, Special Commissioner.</p>
+                <p>Deposition of Isaac Coffman</p>
+                <p>Answereth</p>
+                <p>My name is Isaac Coffman, my age is 46 years, residence near New Hope, Augusta
+                    County, <abbr expan="Virginia">Va.</abbr>, occupation a farmer. I am related to
+                    the claimant by marriage on his wife's side but have no beneficial interest in
+                    the cliam. I lived about one mile from the claimant during the war and saw him
+                    frequently and talked with him about the war and I always regarded him as a true
+                    Union man doubted or questioned by any of his neighbors. I do not recollect any
+                    language used by claimant, but have no hesitation in saying that he was a strict
+                    union man. I never knew him to do anything to aid the Confederacy except he was
+                    compelled to do. The rebels had no confidence in him. I was a Union man myself
+                    and the claimant knew it. I am satisfied that had the rebels succeeded in
+                    gaining an independent government, the claimant never could have proven any
+                    loyalty to that government.</p>
+                <p>
+                    <name type="witness">Isaac Coffman</name>
+                </p>
+            </div1>
+            <div1 type="testimony" id="d17">
+                
+                <byline>John A. Stover</byline>
+                <p>Deposition of John A. Stover</p>
+                <p>Answereth--</p>
+                <p>My name is John A. Stover, my age is 31 years, my residence near New Hope Augusta
+                    County. occupation a farmer. I am not related to the claimant. I resided about
+                    ten miles from the claimant during the war. I saw him frequently, but cannot say
+                    how often during the time. I heard him talk frequently and always in favor of
+                    the Union and its cause. I remember when I was about starting through the lines,
+                    that he advised and encouraged me to go, and concealed me at his house until
+                    everything could be fixed for my departure. I left in 1864. had never been in
+                    the rebel service. I joined the 6th Ohio Regiment, Co. M, under command of
+                    General Sheridan. To the time I left I never had heard of the claimants unionism
+                    doubted. I believe he was strictly and truly a Union man and he was so regarded
+                    by his neighbors. I know that he has acted with the Union party since the
+                    surrender and acted as a Justice of the Peace under military rule in this
+                    county.</p>
+                <p>I have heard him express himself since, and know that he has worked and voted for
+                    the Republican party.</p>
+                <p>
+                    <name type="witness">John A. Stover</name>
+                </p>
+                <p>The foregoing depositions were taken by me at the time and place named in the
+                    caption.</p>
+                <p>H. Risk</p>
+                <p><abbr expan="Special">Spe</abbr>. <abbr expan="Commissioner">Commr</abbr>.</p>
+            </div1>
+            <div1 type="testimony" id="d18">
+                
+                <byline>Henry K. Eakle</byline>
+                <p>Deposition of Henry K. Eakle, taken in Staunton,<abbr expan="Virginia">
+                    Va.</abbr> November 5th, 1874, in behalf of David Myers of Augusta County
+                    Virginia who being duly sworn answers as follows. My name is Henry K. Eakle, my
+                    age is 55 years, my residence near New Hope in Augusta county, and occupation a
+                    farmer. I have known the claimant, David Myers, all my life. I lived one mile
+                    from him during the war and saw him very frequently during the war, and talked
+                    frequently about the war with him, and am satisfied that his sympathies were
+                    always with the Union. He appeared to be pleased when news would reach us of the
+                    probability of the Union Army coming to our section, and when General Hunter's
+                    did come, he seemed delighted and was <orig reg="relieved">releaved</orig> and
+                    pleased with the result of the battle at Piedmont. I never heard his loyalty
+                    doubted by the Union men of the neighborhood, and was regarded as a Union man my
+                    the rebels of the neighborhood. The prominent Union men of that neighborhood,
+                    were Charles Batis, Martin and Saml. Garber, Isaac Coffman and myself, with
+                    others. I never knew the claimant to do anything for the Confederacy, except
+                    what he might have been compelled. I have no hesitation in saying that I believe
+                    he was strictly loyal during the war, and that since he has sustained the
+                    Government by his votes and influence. He served as a Justice of the Peace,
+                    under the military rule, which none but union men could do. My own record as a
+                    Union man was and is well known in my section of the county.</p>
+                <p>
+                    <name type="witness">Henry K. Eakle</name>
+                </p>
+                <p>I certify that the foregoing deposition of Henry K. Eakle was taken by me at the
+                    place and on the day named in the caption. And I further certify that the
+                    witness is a gentleman of undoubted veracity and loyalty to the Union.</p>
+                <p>
+                    <name type="other">H. Risk</name>
+                </p>
+                <p>Special <abbr expan="Commissioner">Comm<hi rend="super">r.</hi></abbr></p>
+            </div1>
+            <div1 type="testimony" id="d19">
+                
+                <byline>H. Risk</byline>
+                <p>Staunton, Va., Nov 13<hi rend="super">th</hi> 1874.</p>
+                <p>Hon. Comm<hi rend="super">r</hi>. I am satisfied that Mr. David Myers is
+                    and was a true Union man, and believe from all I have heard of him that his
+                    claim should be allowed.</p>
+                <p>Respectfully, <name type="witness">H. Risk</name></p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>
