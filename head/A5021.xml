@@ -1,0 +1,253 @@
+<?xml version="1.0"?>
+
+<?dlps id="A5021"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A5021">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Martha Trimble to Alexander McCorkle, June 27,
+     1867</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county martha trimble to alexander mccorkle, june 27 1867</title>
+        <author>Trimble, Martha</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Voorhees</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Voorhees</name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. <num type="kilobytes">10</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A5021</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:502313</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Martha Trimble to Alexander McCorkle, June 27, 1867</title>
+            <title level="m"/>
+            <title type="sort">augusta county martha trimble to alexander mccorkle, june 27 1867</title>
+            <author>Martha Trimble</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>6 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Bumgardner Family Papers, Accession #5974-c,
+       Special Collection Department, University of Virginia Library, Charlottesville,
+      Virginia</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1867-06-27">1867-06-27</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Family</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2002">Spring 2002 </date>
+        <respStmt>
+          <resp/>
+          <name>Desi Hopkins</name>
+        </respStmt>
+        <item>Original consulted; corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A5021T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>An aunt writes to her nephew of his family history, including references to the McNutt,
+     McCorcle, Trimble and Porter families.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Alexander McCorkle</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1867-06-27">June 27th, 1867</date>
+      <name type="place">Holly Hill</name>
+     </dateline>
+     <salute>My Dear Nephew,</salute>
+    </opener>
+
+    <p>After a long interval, I have concluded to <hi rend="underline">attempt</hi> a reply to your
+     kind, &amp; welcome letter. It always gives me sincere pleasure, to hear of the welfare
+     &amp; prosperity of my dear friends, &amp; their families; Since your letter came to
+      <hi rend="underline">hand</hi>. I have seen, &amp; become slightly acquainted with your
+     son cousin Gamble; We were all much pleased with him &amp; would like much to see more of
+     him. He does not look like you, yet there is something about him which reminds me of you. In
+     the tones of his voice - there is often a striking <hi rend="underline">resemblance</hi>. Yet I
+     think it is his manner rather than his appearance or voice, which I seem to <hi
+      rend="underline">recognize</hi>.</p>
+
+    <p>So far as I <hi rend="underline">know</hi> your friends and relatives in Rockbridge are all
+     well &amp; doing <hi rend="underline">well</hi>
+     <pb n="2"/> though many of them suffered much &amp; were sorely tried whilst the war
+     lasted.</p>
+
+    <p>My family (I mean your cousin Joseph Hub.'s children) are all married (except Agnes) so that
+     my present family is very small, consisting of Agnes, her Father, &amp; Myself. Just now
+     Frances McNutt is here on a visit, the first she has paid us for fourteen <hi rend="underline"
+      >years</hi>. Her husband is Dr. John McNutt, a son of your Uncle William McNutt. They live in
+     Monroe <abbr expan="County">Cty</abbr> Missouri. Alexander has long lived in New Orleans,
+     William was killed during the war at Spottsylvania C H. His wife, a daughter of cousin Mildred
+     Johnston's, is living near us; she has four <hi rend="underline">children</hi>. Joseph is
+     living in Lexington; Ashlie married Mr. Adolph Echart, &amp; lives in Baltimore. Josephine
+     Married Mr. Granville Campbell, &amp; lives in this county. Phebe the youngest child
+     married Mr. John F Baker, a Presbyterian minister. She is with us at present. You ask me to
+     tell you of your ancetors the McNutts especially. I never had a taste for tracing up
+     relationships - but <pb n="3"/> since you desire it I will without preclude or apology, tell
+     you what I know of them.</p>
+
+    <p>Mr. John McNutt, &amp; his wife Catharine Anderson removed from Ireland &amp; settled
+     in this county where they brought up a large family - two daughters &amp; seven sons. One
+     of the daughters married an Englishman named Rhodes, &amp; the other Rebecca married Mr.
+     John McCorcle by whom she had three children Alexander, Samuel &amp; <hi rend="underline"
+      >Catharine</hi>. Mr. McNutt's sons were Alexander, John, Issac Robert Benjamin &amp;
+     William &amp; Joseph. Robert was killed at the battle of Cowpens &amp; his
+     brotherinlaw, W. McCorcle died on his way home - from a wound received in the same battle.
+     After Mr.McCorcle's death his widow married Mr. Arther Glasgow by whom she had a large family
+     of children.</p>
+
+
+    <p>My Father Mr. John Grigsby married a Miss Etchison by whom he had five children, James, John,
+     Charles, Sarah and William. Sarah Grigsby (my half sister &amp; your Grandmother) married
+     Mr. Thomas Welch of Orange County. They had <pb n="4"/> two sons and five daughters. One of the
+     daughters married Alexander <hi rend="underline">McCorcle</hi>, a son of John McCorcle
+     &amp; Rebecca McNutt. After the death of my Father's wife he married a Miss Porter by whom
+     he had three sons, Joseph, Elisha &amp; Reuben, &amp; five daughters, Jane (Paxton)
+     Rachel (McNutt) Martha (Trimble) Elizabeth (McNutt) &amp; Frances (<hi rend="underline"
+      >Beccum</hi>). Two of my sisters you <hi rend="underline">perceive</hi> married McNutts,
+     Sister Rachel married Alexander McNutt, &amp; Elizabeth married William McNutt, your Grand
+     mother's Brother. Cousin Gamble was anxious to know in what way he was related to the Porter's.
+     He is not related by blood - but is connected by marriage. My mother was a Porter and two of
+     her daughers married McNutts. Now cousin Alexander I have told you what I could of your
+     ancestors, but cannot begin to trace out their decendants. They have obeyed the command given
+     to our ancestors of old multiply &amp; replenish the earth. Their name is <hi
+      rend="underline">legion</hi> - Yet so far as I know they are all Moral and Respectable people
+     - many of them <hi rend="underline">pious</hi>. Cousin Alexander I think of you often &amp;
+     pray for your prosperity, &amp; that you may be the means of leading many souls to Christ.
+     I seem to stand almost alone all my family &amp; all who knew me when I was young have
+     passed away, &amp; I feel that nothing which this world can give <pb n="5"/> will make us
+     happy even in this life. I pray that I, and all my dear friends may be enabled to choose as <hi
+      rend="underline">Joshua</hi> of <hi rend="underline">old</hi> that they may serve the Lord. I
+     should like to see you once more &amp; if you find it in your power to pay another visit to
+     your native land while I am spared do call &amp; see me. I know you have many friends more
+     nearly related by blood - but I think there are none who more earnestly desire your welfare.
+     Your parents were dear friend whose memory I shall ever <hi rend="underline">cherish</hi>. Give
+     my warmest love to your wife &amp; children. I remember your wife as she was when I saw her
+     - but I suppose Time has not spared her the bloom &amp; freshness of <hi rend="underline"
+      >youth</hi>. It always suprises me cousin Alexander to find persons I regard as young -
+     looking <hi rend="underline">old</hi>. A few more years and the places which knew us now will
+     know us no <hi rend="underline">more</hi>. I have written you a long letter - When you have
+     time &amp; inclina <pb n="6"/> tion I would like you to write to me again. But whither you
+     find time to write or not I would request an interest in your prayers. My family all unite with
+     me in love toyou &amp; <hi rend="underline">yours</hi> Farewell may you ever be happy is
+     the earnest wish of your affectionately attached Aunt</p>
+
+    <closer>
+     <salute/>
+     <signed>Martha Trimble</signed>
+     <seg type="postscript">Cousin Alexander, Aunt desires me to say that Mrs. John McNutt - the
+      mother or you Grand Mother McCorcle, had a brother who emigrated from Ireland &amp;
+      settled in Botetourt County. He was the Father of Colonel Anderson of that cty who was an
+      elder in the presbyterian church. Your Uncle Robert Glasgow married a daughter of his. Mrs.
+      Jenkins wife of Rev. Wm Jenkins, pastor of Falling Spring church, is his Grand daughter.
+      Remember us all affectionately to your wife &amp; family and accept of much love for
+      yourself from us all, your sincere friend <unclear>Amos</unclear></seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1085"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1085">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: Orlando Brown to John A.
+                    McDonnell, January 26, 1867</title>
+        <title type="sort">freedmens bureau records orlando brown to john a mcdonnell, january 26 1867</title>
+        <author>Brown, Orlando</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1085</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500953</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: Orlando Brown to John A. McDonnell,
+                            January 26, 1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records orlando brown to john a mcdonnell, january 26 1867</title>
+            <author>Orlando Brown</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 26.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-01-26">1867-01-26</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Administration/Bureaucracy, Aid/Relief, Violence/Crime</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-07">July 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+                <item>Item checked against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1085T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Brown asks McDonnell to investigate allegations against Frederick Tukey during
+                    his tenure as the Bureau's agent in Augusta County.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau of Refugees, Freedmen and Abandoned Lands,<lb/>Head Quarters Assistant
+                    Commissioner Department of the Potomac
+                    <name type="recipient">Captain J. A. McDonnell<lb/>Superintendent &amp;c</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-01-26">January 26<hi rend="super">th</hi> 1867</date>
+                        <name type="place">Richmond, Va.</name>
+                    </dateline>
+                    <salute>Captain</salute>
+                </opener>
+
+                <p>You will at once <add hand="h1" place="inline">personally</add> investigate into,
+                    and report upon the truth of a statement made to these Head Quarters against Mr.
+                        <hi rend="underline">F. S. Tukey</hi>
+                    <abbr expan="Assistant Superintendent">Asst. Supt</abbr> for the Counties of
+                    Highland and Bath in your district, to the effect that at the time of his former
+                    service in the Bureau at Staunton, before his being relieved by <abbr
+                        expan="Lieutenant">Lieut.</abbr>
+                    <hi rend="underline">Cook</hi>, he sold clothing which was, or was supposed to
+                    be, sent him from benevolent societies for gratuitous distribution.</p>
+
+                <p>In the investigation of this matter the teachers of freedmen and Trustees of the
+                    church at Staunton, are generally referred to, and in particular a freedman
+                    named <hi rend="underline">Oscar Morris</hi>, to be found at <hi
+                        rend="underline">John Christian's</hi> Saloon.</p>
+
+                <p>You will also investigate into, and report upon the administration of Bureau
+                    Affairs by Mr. <hi rend="underline">Tukey</hi> during his former term of service
+                    at the above place, and state the reputation he acquired among the several <pb
+                        n="2"/>classes of the population, as well as the mode in which his office
+                    was conducted. The Assessor of Internal Revenue is referred to in this
+                    connection.</p>
+
+                <p>You will also report in the same manner, and to the same extent, regarding the
+                    late administration of <abbr expan="Lieutenant">Lieut.</abbr>
+                    <hi rend="underline">Cook</hi>.</p>
+
+                <closer>
+                    <salute>I am Captain<lb/>Very Respectfully<lb/>Your <abbr expan="Obedient"
+                            >Obedt.</abbr>
+                        <abbr expan="Servant">Servt.</abbr></salute>
+                    <signed>O. Brown<lb/><abbr expan="Brevet Brigadier General">Bvt. Brig.
+                        Genl.</abbr> A.A.A.G.</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

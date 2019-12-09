@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+
+<?dlps id="F3022"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="F3022">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: William Christy to Mary Jane Demus, August 2,
+     1863</title>
+        <title type="sort">franklin county william christy to mary jane demus, august 2 1863</title>
+        <author>Christy, William</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Murrell</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Murrell</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">9</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">F3022</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:501460</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Franklin County: William Christy to Mary Jane Demus, August 2, 1863</title>
+            <title level="m"/>
+            <title type="sort">franklin county william christy to mary jane demus, august 2 1863</title>
+            <author>William Christy</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>3 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Case File of Wesley Krunkleton, Approved Pension
+       Applications of Veterans Who Served in the Army and Navy Mainly in the Civil War and the War
+       with Spain, Record Group 15, National Archives and Records Administration, Washington,
+      D.C.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>We would like to thank Edwin S. Redkey, Lagrangeville, New York, for bringing these
+        letters to our attention.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1863-08-02">1863-08-02</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>African Americans, Family, Battle Description, Death/Casualties</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001-07">July 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Murrell</name>
+        </respStmt>
+        <item>Proofread against original; corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="F3022T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Christy reports on the men wounded during the attack on Fort Wagner, including Demus'
+     husband, David.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Mary Jane Demus</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1863-08-02">August the 2th 1863</date>
+     </dateline>
+     <salute>Dear sister</salute>
+    </opener>
+
+    <p>i take my pen in hand to inform to you that i well at present and all the <orig reg="rest"
+      >reste</orig> of us but Jacob he is <orig reg="wounded">wonded</orig> in the arm We <orig
+      reg="were">wer</orig> on <orig reg="saint">sant</orig> James island on the 16 of July the
+      <orig reg="rebel">revel</orig>
+     <unclear>advds</unclear> on our tickets <unclear>Cefrdlight</unclear> we all arose and formed a
+      <orig reg="line">lin</orig> the <orig reg="artillery">artilery</orig>
+     <orig reg="opened">opend</orig>
+     <orig reg="fire">fier</orig> on them and <orig reg="drove">drov</orig> them <orig reg="back"
+      >bak</orig> we left the island that night and on the 18 of July we landed on <orig
+      reg="morris">mres</orig> island and We made a charge on <orig reg="Fort">Port</orig> Wagner We
+     lost <orig reg="a  
+ great">agrate</orig>
+     <orig reg="many">meny</orig> men the <orig reg="rebels">revls</orig> Was <orig reg="too">tow</orig>
+     <orig reg="hard">harde</orig> for us Jacob <orig reg="Christy">Christey</orig> was <orig
+      reg="wounded">wonded</orig> and <unclear>tomed</unclear>
+     <unclear>Curtches</unclear>
+     <unclear>hes watchen sirers cruelten</unclear> was <orig reg="killed">kild</orig> and all the
+     rest of them was <orig reg="wounded">wonded</orig>
+     <orig reg="David">Daved</orig>
+     <orig reg="Demus">Deames</orig> was <orig reg="wounded">wonded</orig> tomes stoner robert lines
+     is <orig reg="amongst">ammonks</orig> the <orig reg="missing">missin</orig> i harisson gorge
+     Demes gorge Cavosek was not hurt we are about five miles from <orig reg="Charleston"
+     >Charlston</orig> our men are <orig reg="living">lving</orig> on the island i <orig reg="don't"
+      >donte</orig> know how so they will make an attack on them it is very hot where we are we have
+     be over <unclear>agrate</unclear> and saw <unclear>agrate</unclear>
+     <orig reg="deal">deel</orig> of the <orig reg="country">contrey</orig> i have saw more then i
+     ever expected to see <orig reg="before">be for</orig> i left home i have <orig reg="got">gut</orig>
+     <orig reg="through">thrue</orig> this <orig reg="time">tim</orig> i was struck on the best
+     plate with a ball and that was all that save me it was <orig reg="through">throw</orig> gods
+     will that the ball struck the plate if i live to <orig reg="get">git</orig> home i will fetch
+     the plate home with me if i can i thought that the people had all left <orig reg="pennsylvania"
+      >pennsevany</orig> i <unclear>ever</unclear> not <orig reg="hear">her</orig>
+     <orig reg="anything">enney thing</orig> from <orig reg="anyone">enney won</orig> wood like to
+     hire from John i got <orig reg="a  
+ letter">aletter</orig> from James o carson the 2 of <orig
+      reg="august">augst</orig> i <orig reg="sent">sente</orig> the <orig reg="money">mony</orig> to
+     him to <orig reg="go">gow</orig> to my father and when he <orig reg="wrote">rote</orig> he
+      <orig reg="wrote">rote</orig> that he had the five <orig reg="dollars">dolers</orig> that i
+      <orig reg="sent">sente</orig> and he <orig reg="would">wood</orig> give it to as soon as he
+      <orig reg="got">gut</orig> an <orig reg="opportunity">oppercunity</orig> to give it to him he
+      <orig reg="would">wood</orig> give it to him tell him to pay Clark 62 1/2 ct and then he can
+     keep the <orig reg="rest">reste</orig> in the place <orig reg="where">wir</orig> we are now it
+     is hard to paper <orig reg="envelopes">envelops</orig> and stamps i <orig reg="heard"
+     >hird</orig> that the <orig reg="Colored">Cuord</orig> folks <orig reg="were">wir</orig> going
+     to <del rend="none" hand="h1"/> my words <orig reg="come">com</orig> true <orig reg="just">juste</orig> as
+     i <orig reg="said">sade</orig> before <orig reg="i  
+ left">ilefte</orig> that the rebels <orig
+      reg="would">wood</orig>
+     <orig reg="come in">comin</orig> and take all the <orig reg="Colored">Coulerd</orig>
+     <orig reg="peoples">poples</orig> that they <orig reg="could">cod</orig> get and take them this
+     is all i <orig reg="have">hav</orig> at present we are at <orig reg="morris">morisis</orig>
+     island now but i dont know how long <orig reg="we">wi</orig>
+     <orig reg="may">my</orig> be <orig reg="there">ther</orig>
+     <orig reg="please">pleas</orig>
+     <orig reg="write">rite</orig> soon and let me <orig reg="know">kno</orig> how the times is</p>
+
+    <closer>
+     <salute/>
+     <signed>William W Christey</signed>
+     <seg type="postscript">William W Christey Mary <orig reg="Demus">Demes</orig></seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

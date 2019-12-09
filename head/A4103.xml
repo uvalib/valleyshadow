@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+
+<?dlps id="A4103"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A4103">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Jedediah Hotchkiss to Sara A. Hotchkiss,
+     November 5, 1864</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county jedediah hotchkiss to sara a hotchkiss, november 5 1864</title>
+        <author>Hotchkiss, Jedediah</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Lara Diefenderfer</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Rider</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">9</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A4103</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:502298</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Jedediah Hotchkiss to Sara A. Hotchkiss, November 5, 1864</title>
+            <title level="m"/>
+            <title type="sort">augusta county jedediah hotchkiss to sara a hotchkiss, november 5 1864</title>
+            <author>Jedediah Hotchkiss</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>4 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Jedediah Hotchkiss Collection, Reel 4, Manuscripts
+       Division, Library of Congress, Washington, D. C.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Congress, Washington, D. C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1864-11-05">1864-11-05</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Camp Life, Enlistment, National Government, African Americans, Slavery, Women,
+      Church/Religious Activity, Home Front, Family</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A4103T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Hotchkiss describes camp life, troop enlistment, and miscellaneous news about friends and
+     neighbors, a church meeting, and Northern opinion of the war.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Sara A. Hotchkiss</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1864-11-05">Nov. 5<hi rend="underline">
+        <hi rend="super">th</hi>
+      </hi> 1864</date>
+      <name type="place"><abbr expan="Head Quarters Valley District">Hd. Qrs. V. D.</abbr> New Market
+       Va.</name>
+     </dateline>
+     <salute>My Dear Wife:</salute>
+    </opener>
+
+    <p>The labors of the day being over &amp; night with its quiet -- Saturday evening quiet,
+     &amp; the prospect of a day of rest in anticipation, I will do, what I have thought of
+     doing all the week, write you a long letter -- You will ask why I have put it off, -- if you
+     could look into my 8 by 10 cloth house, with camp stove in one corner, Robinson &amp;
+     drawing table in one corner, Oltman, ditto, in another &amp; your "other half" Do, in
+     another &amp; all busy from 8 A.M. to 3 P.M. &amp; then some at night, you would not
+     ask the question, for you would know that I am pretty well tired out when bed time comes, for I
+     have not yet gotten used to the confinement, we have been such rovers this summer that I have
+     been in the saddle more hours than in my office &amp; now the Reports of the <orig
+      reg="year's">years</orig> operations are to be made out &amp; the number of maps, plans of
+     battles &amp;c to be made is almost incredible, but I have gone at it with a will &amp;
+     intend to finish them within the year, if possible.<pb n="2"/> Everything is quiet -- we are
+     drilling the army &amp; getting it thoroughly reorganized &amp; ready for any emergency
+     or opportunity. The reserves &amp; detailed men are coming in rapidly &amp; being
+     examined &amp; assigned either to the army or light duty, as they are found capable or not.
+     I saw M. J. M Hanger today, he has been passed for "light duty" &amp; will go to Richmond
+     with the others -- he told me Mr. Euritt was also "passed" for the same &amp;, recommend
+     for his trade at a "post" or light hospital duty &amp; he will be sent on at the same time
+     &amp; may get to Staunton, in the shops there, that is the best that can be done for him
+      <hi rend="underline">now</hi> -- the Government is determined to have <hi rend="underline"
+      >every one</hi> -- I hope Mrs. Euritt will bear it calmly &amp; she may rest assured that
+     Mr. <abbr expan="Euritt">E.</abbr> will not be exposed if unfit for field duty. I still think
+     all "things work together for good" to indicate a speedy conclusion of the war &amp; if we
+     are able to keep the enemy at bay, as heretofore, to the end of this campaign we shall not be
+     troubled by them another year -- I learn from a scout that the prevailing <pb n="3"/>opinion at
+     the "North" is that the war will end this year. By the way, the Yankees down here say they are
+     going back below Winchester as soon as the Election is over -- I am sorry Reed has gone, if he
+     has, but I think he will be back -- Mr. Euritt came to see me &amp; looked very well, I
+     thought. I enclose you some Yankee stamps -- I did not tell you of the paper in my saddlebags
+     -- I see you have <hi rend="underline">found</hi> it. -- use what you need for yourself, but do
+     not let any go, for it is <abbr expan="Engineer">Eng.</abbr> property that I sent home for safe
+     keeping -- by the way I sent off all my white envelopes, I believe -- if this reaches you
+     before <abbr expan="William">Wm</abbr> leaves, send me 25 back. Maj. Bell was to send Maj.
+     Green's clothes &amp; bed out to our house, but I reckon he sent them away in his flight
+     &amp; has not brought them back -- I will write to him about them -- Glad you had a good
+     time chestnuting &amp; that you are able to stir about -- nothing like it -- helps
+     digestion &amp; keeps the clouds out of the head &amp; makes one <hi rend="underline"
+      >sleep</hi> well at night -- <pb n="4"/>I enclose to you every day or so, the files of the
+     papers that I get here -- so you can get the reading of them &amp; put them away -- If Miss
+     Susan does anything to the coat I want it <hi rend="underline">turned</hi> -- if she has not
+     undertaken "the job" why you may let it rest -- The Methodists are having "Big Meetings" here
+     &amp; revivals - crowded houses day &amp; night -- the soldiers are near enough to come
+     to meeting -- I imagine William has not been of much service to you -- the weather has been bad
+     -- &amp; he has wanted to be with "Maj" &amp;c -- but if you got your fall work some of
+     it off your hands I will, by the blessing of Providence get home in time to have some work done
+     before <orig reg="New Year's">New Years</orig>. Put my bottle of ink in a safe place -- I shall
+     draw some money Monday &amp; will avail myself of the first chance to send you some -- I
+     wrote to you to get all the items I left on the <unclear>memo</unclear> for you -- they will
+     all be needed - especially the "bread" -- &amp; potatoes -- I sent for the gloves for Miss
+     Kate -- hope they will come -- I wrote you about Mr. R's shirt -- he is away tonight -- Write
+     often -- be of good cheer &amp; May Heaven's choicest blessings be with all my "dear ones
+     at home" -- Nelly can read the "Humming Bird" in the "Examiner" </p>
+
+    <closer>
+     <salute>Your <abbr expan="Affectionate">Aff</abbr> husband</salute>
+     <signed>Jed. Hotchkiss</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

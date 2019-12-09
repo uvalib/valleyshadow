@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9515"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A9515">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: N. K. Trout to Francis McFarland,
+                    October 5, 1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county n k trout to francis mcfarland, october 5 1863</title>
+        <author>Trout, N.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Jaime Martinez</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A9515</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502757</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: N. K. Trout to Francis McFarland, October 5, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta county n k trout to francis mcfarland, october 5 1863</title>
+            <author>N. K. Trout</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Francis McFarland Papers, Mss
+                            053, Leyburn Library, Washington and Lee University, Lexington,
+                            Virginia.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Special Collections, James G. Leyburn Library, Washington and Lee University</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1863-10-05">1863-10-05</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>African Americans, Home Front, Prisons/Prisoners, Slavery, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2003-06">June 2003</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Item proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A9515T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Trout requests information about McFarland's slave, Rhoda, who is linked to the
+                    possible theft of bacon by other slaves in Staunton.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1863-10-05">Oct 5, 1863</date>
+                        <name type="place">Staunton</name>
+                    </dateline>
+                    <salute>Doctor McFarland, <lb/>
+                        <abbr expan="Dear">D</abbr>Sir:</salute>
+                </opener>
+
+                <p>We have much stealing of bacon &amp;c in town - this morning a negro woman
+                    has been arrested with a <orig reg="piece">peice</orig> of bacon in her
+                    possession which appears to have been <hi rend="underline">in oats</hi> - which
+                        <hi rend="underline">she says</hi> she got from your negro woman <orig
+                        reg="Rhoda">
+                        <hi rend="underline">Roby</hi>
+                    </orig> - through the hands of another slave; the woman is in possession of the
+                    military in the guard house, and I address you this note as your woman is
+                    implicated, that you may <pb n="2"/> investigate the matter - and if she is
+                    guilty that she may be properly punished. Robberies of meat houses occur here
+                    nearly every night &amp; we must do something to arrest the perpetrators. If
+                    your woman is innocent we must have her as a witness.</p>
+
+                <closer>
+                    <salute>Yours very truly,</salute>
+                    <signed>N. K. Trout</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

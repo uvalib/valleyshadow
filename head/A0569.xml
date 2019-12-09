@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+
+<?dlps id="A0569"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="A0569">
+ <teiHeader type="migrated">
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Benjamin Franklin Cochran to His Mother, June
+     12, [1860 or 1860]</title>
+        <title type="sort">augusta county benjamin franklin cochran to his mother, june 12 1860 or 1860</title>
+        <author>Cochran, Benjamin Franklin </author>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Murrell </name>
+        </respStmt>
+      </titleStmt>
+   
+      <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Institute for Advanced Technology in the Humanities </publisher>
+        <publisher>University of Virginia </publisher>
+        <pubPlace>Charlottesville, Va. </pubPlace>
+        <!--
+    <availability>
+     <p>Text and images (c) Copyright 1997 by The Rector and Visitors of The University of Virginia.
+      All rights reserved. </p>
+     <p>URL: http://jefferson.village.virginia.edu/vshadow2/ </p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1997 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <idno type="VCDH">A0569</idno>
+        <date value=""/>
+        <idno type="uva-pid">uva-lib:501866</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War </p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note>
+          <p>This letter is undated, but archivists believe it was written in 1860 or 1861.</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Benjamin Franklin Cochran to His Mother, June 12, [1860 or 1861]</title>
+            <title type="sort">augusta county benjamin franklin cochran to his mother, june 12 1860 or 1861</title>
+            <author>Benjamin Franklin Cochran </author>
+            <respStmt>
+              <resp> </resp>
+              <name> </name>
+            </respStmt>
+          </titleStmt>
+          <publicationStmt>
+            <publisher> </publisher>
+            <pubPlace> </pubPlace>
+            <date value=""/>
+          </publicationStmt>
+          <seriesStmt>
+            <p>Source Copy Consulted: Cochran Family Letters, 1860-1861, (MS 92-032), Civil War
+       Collections, Special Collections, Virginia Polytechnic Institute and State University,
+       Blacksburg, Virginia. </p>
+          </seriesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Special Collections, Virginia Polytechnic Institute and State University, Blacksburg, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date value="-06-12">186x-06-12 </date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Battle Description, Death/Casualties, Family</term>
+          <term>Regiment: 1st Va. Cav. </term>
+          <term>Company: E </term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date value="2000">Summer 2000</date>
+        <respStmt>
+          <resp> </resp>
+          <name>Amy Voorhees </name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+ <text id="A0569T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Cochran writes his mother about encountering enemy fire when working on a dam. </p>
+   </div1>
+  </front>
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Mother</name>
+    </head>
+    <opener>
+     <dateline>
+      <date value="-06-12">June the 12 </date>
+      <name type="place">Camp clover <orig reg="Berkeley">Berkly</orig> county <abbr expan="Virginia"
+       >Va</abbr>
+      </name>
+     </dateline>
+     <salute>Dear Mother </salute>
+    </opener>
+    <p>I <orig reg="received">recieved</orig> your letter of the fourth and was very glad to hear
+     from you. We expect a fight soon now we have had one or two <orig reg="skirmishes"
+     >skermishes</orig> at honey wood mills we <orig reg="were">wer</orig> down there a few days ago
+     that is about 20 of us working at a dam to blow it up whilst we were at work a body of men the
+     other side of the river showered <orig reg="their">there</orig> balls amongst us from the bank
+     of the canal from behind the stone wall but none of us were hurt we ran under cover and got our <unclear>
+      <orig reg="carpenter">carpiner</orig>
+     </unclear> then <abbr expan="Colonel">Col</abbr> Stuart ordered us to make for the dam and
+     cover I was the first one to step from the house<pb n="2"/> which we were behind I made a
+     slight <unclear>
+      <orig reg="pass">pass</orig>
+     </unclear> to look for <unclear>
+      <orig reg="afor">afor</orig>
+     </unclear> to fire at when I was hailed by a shower of balls which struck all around me we
+     fired from four oclock PM <orig reg="until">untill</orig> dark two were killed on the <orig
+      reg="enemies">eneymes</orig> side or badly wounded We have but little time for play we have to
+     stay up every other night on picket there is one post 15 miles from camp four of us have to
+     stand picket there some times when we start from camp and very often <orig reg="there is"
+      >theris</orig> nothing to carry with us to eat we go out one morning and come back the next
+     about 12 oclock without a thing to eat some times the neighbors send us something to eat<pb
+      n="3"/></p>
+
+    <p>There is no <orig reg="news">knewse</orig> here you can <orig reg="hear">here</orig> more
+     than we can for we are not <orig reg="allowed">alowed</orig> to go out of camp without a pass
+     and then we cannot go out of bugle sound We are now placed 25 miles from the Ferry but <abbr
+      expan="Colonel">Col</abbr> Stuart sends one man to the <orig reg="Ferry">Fery</orig>
+     <orig reg="every">evry</orig> two days for the mail and boxes sent to us I am <orig reg="very"
+      >verry</orig> glad that you are going to make me some calico shirts make them like the linen
+     shirts with pleated bosom and fix them so that I can change the <orig reg="collars"
+     >colors</orig> you need not make any <orig reg="collars">colars</orig> for them as I have
+     plenty of white ones Direct your letters to the <orig reg="Ferry">Fery</orig> How is little
+     Adam. I did not see Mr. Mc C when he was down to the <orig reg="Ferry">Fery</orig></p>
+
+    <closer>
+     <salute>Your Affectionate son </salute>
+     <signed>B.F. Cochran </signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

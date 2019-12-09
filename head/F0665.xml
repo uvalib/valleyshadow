@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0665"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="F0665">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Samuel W. North to his brother,
+                    April 15, 1863</title>
+        <title type="sort">franklin county samuel w north to his brother, april 15 1863</title>
+        <author>North, Samuel W. </author>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Sally Henninger </name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Institute for Advanced Technology in the Humanities </publisher>
+                <publisher>University of Virginia </publisher>
+                <pubPlace>Charlottesville, Va. </pubPlace>
+                <idno type="VCDH">F0665</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1997 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved. </p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1997 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1997">1997 </date>
+            <idno type="uva-pid">uva-lib:501327</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War </p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note> </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Samuel W. North to his brother, April 15, 1863</title>
+            <title type="sort">franklin county samuel w north to his brother, april 15 1863</title>
+            <author> </author>
+            <respStmt>
+                            <resp> </resp>
+                            <name> </name>
+                        </respStmt>
+          </titleStmt>
+                    <publicationStmt>
+                        <publisher> </publisher>
+                        <pubPlace> </pubPlace>
+                        <date value=""> </date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p>Source copy consulted: Samuel W. North Letters, Company C, 126th
+                            Pennsylvania Infantry, Civil War Miscellaneous Collection, Archives of
+                            the U.S. Military History Institute, Carlisle Barracks, Pennsylvania.
+                        </p>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from U. S. Army Military History Institute, Carlisle Barracks, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="-04-15">04-15 </date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Military Strategy, Troop Movement</term>
+                    <term>Regiment: 126th Pa. </term>
+                    <term>Company: C </term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value="2000">Summer 2000</date>
+                <respStmt>
+                    <resp/>
+                    <name>Amy Voorhees</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="F0665T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>North explains why he is not sending his money home and describes a friendly
+                    encounter with the enemy.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Brother</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="-04-15">April 15<hi rend="super">th</hi></date>
+                        <name type="place">near Falmouth Va. </name>
+                    </dateline>
+                    <salute>Dear <unclear>
+                            <orig reg="Brother">Brother</orig>
+                        </unclear>
+                    </salute>
+                </opener>
+                <p>I received your letter last night or night before I believe it was <unclear>right
+                        as the boys are almost</unclear> all sending some money home. I write to let
+                    you know why I <orig reg="don't">dont</orig> send any. we were <orig reg="paid"
+                        >payed</orig> for four months but <orig reg="owing">oweing</orig> to a
+                    mistake in <orig reg="signing">sighning</orig> my name, I with several others
+                    did not get <unclear>counted</unclear>. When I enlisted I signed my name as I
+                    always do S.W. North, but somehow my name was copied on the roll, Samuel J.
+                    North, and has always continued so on the muster rolls and this time when I came
+                    to sign the muster roll I put my correct signature to it and the paymaster this
+                    time was very <del hand="h1">correc</del> strict and did not give us who had
+                    mistakes in our names. There were several who did not get paid but we will get
+                    it when we are discharged. there will not be the least risk of losing it. I had
+                    just as <orig reg="like">liek</orig> have it then as now as I <orig reg="don't"
+                        >dont</orig> need it and would run the risk of sending it home.<pb n="2"/>
+                    when I do get it I will get six months pay at once. We had orders to move but I
+                    will give you the whole account on Monday the 91<hi rend="super">st</hi>
+                    <abbr expan="regiment">regt</abbr> with four men from each company of ours and
+                    the 134 &amp; 124 started on monday morning. they are now at U.S. ford
+                    &amp; Banks ford holding them. they are about six miles up the river. our
+                    whole cavalry force has come out towards Warrenton. they are reported to have
+                    had a fight. We were to have gone this morning but it commenced raining last
+                    night and has been pouring down all day and this night - it is raining still. it
+                    will raise the river and may delay the move. It seems as if providence was
+                    against us all along. the mud march was defeated on <abbr expan="account"
+                    >acct</abbr> of the weather. <orig reg="Burnside's">Burnsides</orig> plans were
+                    disclosed another time now this move has just gone far enough to be exposed. I
+                    think it is the plan <del hand="h1">is</del> to cross the main force below those
+                    above were for a decoy though a considerable force may cross above the city.
+                    This is my idea. Some of our boys were out to see those at the fords they say
+                    they could not see many <abbr expan="rebels">rebs</abbr> at first<pb n="3"/> but
+                    they soon came pretty thick. they are on good terms with our boys they made a
+                    raft of cornstalks and put a Richmond Examiner on it and sent it over to our
+                    fellows. one of the boys from our company got it the war news was torn off one
+                    hollared will you let me come back again if i come over our boys said yes he
+                    stripped off and was coming when one of the 91<hi rend="super">st</hi> officers
+                    said I will have to make a prisoner of you he then stopped and went back our
+                    company was at Stonemans <unclear>
+                        <orig reg="Switch">swich</orig>
+                    </unclear> yesterday unloading cars we unloaded a great deal of hay and grain
+                    they have splendid engines on the road the finest I ever saw tell pap to send me
+                    some postage stamps as mine are most done. I sent the April agriculturist. I
+                    might most as well have a sharp stick to write with as this pen. give my love to
+                    all the friends. I will write soon again if anything is going on. </p>
+                <closer>
+                    <salute>write soon. </salute>
+                    <signed>S. W. North </signed>
+                    <seg type="postscript">I forgot to say that we have to carry 8 days rations of
+                        all but meat that is driven along with us. I think if I live to get home my
+                        shoulders will be so used to <unclear>staples</unclear> that I can tote a
+                        bundle of <del rend="none" hand="h1"/> or a box of goods. I know I will always be able
+                        to feel for sore shouldered horses. My own have been <unclear>pretty
+                        bad</unclear> blistered and rubbed after a march so they hurt whenever I
+                        would move but only four weeks and then <orig reg="I'm">Im</orig> done
+                        fighting <unclear>
+                            <orig reg="back">back</orig>
+                        </unclear>
+                        <del rend="none" hand="h1"/>
+                        <del rend="none" hand="h1"/> still if it was not for this horrid butchering I believe I
+                        would stay in the army. I fear I will not feel contented at home it is hard
+                        to tell what I will do.<lb/>S.W.N. </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

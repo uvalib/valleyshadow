@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2532"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A2532">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Jedediah Hotchkiss to Sara A. Hotchkiss, May 3,
+     1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county jedediah hotchkiss to sara a hotchkiss, may 3 1862</title>
+        <author>Hotchkiss, Jedediah</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Rider</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Rider</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A2532</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:502021</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note>
+          <p>A "0" was inserted by another hand into the date to make it May "30"</p>
+        </note>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Jedediah Hotchkiss to Sara A. Hotchkiss, May 3, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta county jedediah hotchkiss to sara a hotchkiss, may 3 1862</title>
+            <author>Jedediah Hotchkiss</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>2 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Jedediah Hotchkiss Collection, Reel 4, Manuscripts
+       Division, Library of Congress, Washington, D.C.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Congress, Washington, D. C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1862-05-03">1862-05-03</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Troop Movement, National Government, Military Strategy, Death/Casualties</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A2532T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Hotchkiss describes Confederate and Federal troop movement in western Virginia and the
+     Shenandoah Valley</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Sara A. Hotchkiss</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1862-05-03">Tuesday May 3<hi rend="super">rd</hi> 1862</date>
+     </dateline>
+     <salute>My <abbr expan="Dear">Dr.</abbr> Wife</salute>
+    </opener>
+
+    <p>I have been so busy for several days that I have not had time to write to you, for after we
+     got to Winchester, we started on down to Charlestown &amp; went to near Harper's Ferry
+     where the enemy had posted himself on the <abbr expan="Maryland">Md</abbr> Heights across the
+     River &amp; there was no such thing as doing anything with him there, so we started back,
+     but our movement had alarmed Old Abe and he recalled Shields &amp; McDowell from towards
+     Richmond &amp; sent them to cross the Blue Ridge one towards Front Royal &amp; one
+     towards Berryville, and also he had sent Fremont to Strasburg, intending to cut us off from up
+     the Valley but, we got wind of all the <orig reg="moves">moes</orig> &amp; moved up rapidly
+     -- we got safely through all his <del rend="none" hand="h1"/> -- but it took stirring I went down to
+     Charlestown after the First Brigade, which had been there on duty, and brought them up to
+     Winchester the same day by 9 P.M., after a weary ride and a weary march to the men, &amp;
+     then we had to move up lively to Strasburg before the junction of Abe's forces, we then offered
+     them battle, but they would not come &amp; fight, so we moved on back before Shields got up
+     to cross here from towards Luray, and now we are encamped here at New Market -- how long we
+     shall stay I know not, we may <pb n="2"/> go somewhere tomorrow, &amp; we may fight Fremont
+     who is in front of us, and who is another Banks, those of his men that we have taken say. Ashby
+     killed some 25 or 30 yesterday of the Yank cavalry with some straggling soldiers. I saw Col.
+     Sterrett today but was too busy to write by him, I saw Mr. Hornrick today, he lives at
+     Parnassus, and he promised to buy some 2 or 300 pounds of <del rend="none" hand="h1"/> for you -- he
+     promised to send it over -- it is getting too dark to see so I must close --</p>
+    <p>Write to me -- God bless you </p>
+
+    <closer>
+     <salute>Your <abbr expan="Affectionate">Aff</abbr> husband</salute>
+     <signed>Jed. Hotchkiss</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

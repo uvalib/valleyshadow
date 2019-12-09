@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+
+<?dlps id="A3055"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A3055">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: J.Y. McCutchan to Virginia Miller,
+                    July 14, 1864</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county j y mccutchan to virginia miller, july 14 1864</title>
+        <author>McCutchan, J.Y.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Museum of the Confederacy Staff</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Doug O'Reagan</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A3055</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502212</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: J.Y. McCutchan to Virginia Miller, July 14, 1864</title>
+            <title level="m"/>
+            <title type="sort">augusta county j y mccutchan to virginia miller, july 14 1864</title>
+            <author>J.Y. McCutchan</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 page</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: J. Y. McCutchan to Virginia
+                            Miller, July 14, 1864, Fort Delaware POW letters, Museum of the
+                            Confederacy</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1864-07-14">1864-07-14</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Prisons/Prisoners</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A3055T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>McCutchan thanks Mrs. Miller for sending a package of items and asks for shoes,
+                    money, and news.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Mrs. V.L. Miller<lb/>York<lb/><orig reg="Pennsylvania">Pensylvania</orig>
+                    <name type="recipient">Mrs. V.L. Miller</name>
+                    <name type="place">First Division Fort <abbr expan="Delaware">Del</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1864-07-14">July the 14th 1864</date>
+                    </dateline>
+                    <salute>Mrs Miller</salute>
+                </opener>
+
+                <p> It is with pleasure that I <orig reg="acknowledge">acknowdg</orig> the <orig
+                        reg="receipt">reciept</orig> of a <orig reg="small">smal</orig>
+                    <orig reg="package">packge</orig>
+                    <orig reg="containing">contaning</orig> a Testament ham soap comb thread <orig
+                        reg="buttons">butons</orig> pins all of which I am very thankful to you for
+                    being just what I wanted I have been <orig reg="compelled">compeld</orig> to do
+                    without shoes since I have been here and would like to have a <orig reg="pair"
+                        >pare</orig> if you can send them here or I can buy them here if you can
+                    send me a <orig reg="little">litle</orig> money as I will refund it to you or
+                    your Father if <orig reg="Providence">Providece</orig> permits I <orig
+                        reg="inferred">infered</orig> from the verses you marked that you would do
+                    me a favor if required pardon me if I misunderstood you write to me at any rate
+                    and tell who Mary B. Miller is &amp; give me all the news you can I will
+                    preserve your <orig reg="letter">leter</orig> hope this will find you and all
+                    yours well</p>
+
+                <closer>
+                    <salute>I am <orig reg="respectfully">respectfuly</orig> your friend</salute>
+                    <signed>J.Y. McCutchan</signed>
+                    <seg type="postscript">[note at top of letter]Company D are all well</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

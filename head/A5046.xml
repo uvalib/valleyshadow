@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+
+<?dlps id="A5046"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A5046">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Gerald E. Crist to his cousin Mary,
+                    March 18, 1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county gerald e crist to his cousin mary, march 18 1862</title>
+        <author>Crist, Gerald E.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amy Voorhees</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A5046</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502330</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Gerald E. Crist to his cousin Mary, March 18, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta county gerald e crist to his cousin mary, march 18 1862</title>
+            <author>Gerald E. Crist</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: McGuffin Family Papers, Accession
+                            #6732, Special Collections Department, University of Virginia Library,
+                            Charlottesville, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1862-03-18">1862-03-18</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Enlistment, Home Front, Patriotism, Prisons/Prisoners</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2002-11">November 2002</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A5046T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>G. E. Crist writes to his cousin Mary about camp life in general, his worries
+                    about his mother, once the militia is called up. He also writes about his
+                    growing urge to fight and his faith that they will eventually win the war.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1862-03-18">March 18th 1862</date>
+                        <name type="place">Camp Alleghany</name>
+                    </dateline>
+                    <salute>Dear Cousin</salute>
+                </opener>
+
+                <p>I received your kind letter of the Fourteenth which was read with much pleasure.
+                    I was glad to hear from you as well as from home. I have been well since I wrote
+                    to you. The boys are generally well. We are all getting along very well. We have
+                    good times here now, not much to do and plenty to eat. There is not much news
+                    here now except that of the <orig reg="militia">malitia</orig>. There has not
+                    been any recruits came here yet but we are expecting some before long. Some of
+                    the men have reenlisted to go into a Cavalry company. Cousin John M. Baylor has
+                    joined that company. I have not re-enlisted yet and I do not intend until our
+                    time is out, perhaps I may have a chance to stay at home but if I have to go
+                    again I intend to go in a <orig reg="volunteer">volenteer</orig> company. I am
+                    sorry to hear that the <orig reg="militia">malitia</orig> have to be called out.
+                    I know there will be hard times with those who are left at home. But they will
+                    have make the best of it as we are into trouble and must get out the best way
+                    that we can.</p>
+
+                <p><pb n="2"/>Well cousin Mary I do pity poor George but I <hi rend="underline"
+                    >cant</hi> cry for he has as good reason to go as the rest of the boys. I know
+                    they will have hard times as well as many others who are already in the field.</p>
+
+                <p>I do not know what <hi rend="underline">Mother</hi> is to do for she cannot <orig
+                        reg="stay">say</orig> by herself. I know of no plan to suggest unless she
+                    can get someone stay with her to attend to the beasts. If she could hire some
+                    person to plant a little corn and sow some oats, but she can do as she thinks
+                    best. I would be glad if you could stay with her if you could. I know she will
+                    be very lonesome. You must all do the best you can and do not get alarmed at
+                    every thing that you hear for it is half true that you hear. keep your courage
+                    up and do not think we are to be subdued so easy. Our cause is a just one and I
+                    believe the God of battles will be with us, and bring us off victorious in the
+                    end. There is some talk here that we will have to fall back to Staunton but I do
+                    no think that we will leave this point yet. I have just heard that the <orig
+                        reg="militia">malitia</orig> in this county pendleton and highland have been
+                    ordered to this place next thursday.</p>
+
+                <p><pb n="3"/>Tell Mother that I am not in need of any thing but if she has an
+                    opportunity she might send me a box if she does she must send some Sole leather
+                    as it is very scare here. I want my <hi rend="underline">watch</hi> more than
+                    any thing. If it is fixed she might send it with Lieutenant Summers. Lieutenant
+                    Lambert or Robert McFarland. James Clinebell has not gotten his box yet but I
+                    suppose he will get it as soon as a train comes out. Luther R. Waid went home
+                    some time ago and <abbr expan="Captain">Capt</abbr> Humphreys had him arrested
+                    and sent out here he has just arrived and is in the <hi rend="underline">guard
+                        house</hi>. There is about Twenty Five men in the guard house, most of which
+                    have run the <hi rend="underline">Blockade</hi> as we call it, went home without
+                    permission. While have been writing the boys are quite merry. This is a fine day
+                    and a good many of the boys are washing their clothes. I have not learned to
+                    wash yet I always get some one else to wash for me. I do not cook either the
+                    mess that I stay in have John Engleman hired to cook. We pay him seventy five
+                    cents apiece when the bread is baked for us and One Dollar when we get flour.</p>
+
+                <p><pb n="4"/>I believe I have written all that would interest you. you must write
+                    soon and tell me all the news in old Augusta. Give my love to all inquiring
+                    friends. I do not want to see home until the <orig reg="yankees">yankeys</orig>
+                    are all driven from our soil I feel more like fighting, now than I have since I
+                    have been in the service. I must close for this time</p>
+
+                <closer>
+                    <salute>I remain your Cousin</salute>
+                    <signed>G. E. Crist</signed>
+                    <seg type="postscript">Direct to Staunton Company I 52nd <abbr
+                            expan="Regiment Virginia Volunteers">Reg. Va. Vol.</abbr> care of Col.
+                        J.B. Baldwin. <lb/>Lewis Dull is well and sends his respects to you and
+                        Mother. When you write let me know where Ezra and the <orig reg="Militia"
+                            >Malitia</orig> are</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

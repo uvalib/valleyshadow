@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+
+<?dlps id="A8006"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A8006">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Millard Fillmore to Alexander H. H.
+                    Stuart, February 9, 1854</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county millard fillmore to alexander h h stuart, february 9 1854</title>
+        <author>Fillmore, Millard</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Andrew J. Torget</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A8006</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502658</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Millard Fillmore to Alexander H. H. Stuart, February
+                            9, 1854</title>
+            <title level="m"/>
+            <title type="sort">augusta county millard fillmore to alexander h h stuart, february 9 1854</title>
+            <author>Millard Fillmore</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Millard Fillmore to Alexander H.
+                            H. Stuart, 9 February 1854, Papers of Alexander H. H. Stuart and the
+                            Related Stuart and Baldwin Families, 1776-1878, Accession #228-a,
+                            Special Collections Department, University of Virginia Library,
+                            Charlottesville, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1854-02-09">1854-02-09</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>National Government, Slavery, Unionism</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A8006T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Fillmore invites Stuart to accompany him on a tour of the South, then discusses
+                    the Kansas-Nebraska Act which he thinks will be passed by the Senate, although
+                    he fears the consequences.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1854-02-09">February 9. 1854,</date>
+                        <name type="place">Buffalo</name>
+                    </dateline>
+                    <salute>My Dear Sir,</salute>
+                </opener>
+
+                <p>Yours of the <orig reg="3rd">3o</orig> ult. came duly to hand but I have delayed
+                    writing you from day to day, and week to week, 1st. because I had nothing
+                    apparently worth communicating and <orig reg="secondly">2ndly</orig> because I
+                    was trying to make some arrangements to take a Southern tour this Spring and if
+                    I did so, I was <del rend="none" hand="h1"/> that it might suit your convenience to
+                    accompany me. I have written to our mutual friend Mr. Kennedy who consents to
+                    go, and I have also written to Mr. Granger who will go if he can arrange his
+                    business so as to leave it, but of this he expresses considerable doubt. I think
+                    a party of three or four would be most pleasant. Will you consent to make one of
+                    it? I can assure you that I should be greatly gratified to have you, and I know
+                    Mr. Kennedy would.</p>
+                <pb n="2"/>
+                <p>Our intention is to go down through the Southern Atlantic States, to Mobile and
+                    thence back to Savannah where we will take a steamer for Havanna, and possibly
+                    visit some other of the West India Islands, and thence to N. Orleans, and up the
+                    Mississippi through Tennessee and <orig reg="Kentucky">Ky.</orig> to Cincinnati
+                    and thence home. This route, however, may be shortened, lengthened, or varied to
+                    suit circumstances. We would rendezvous at Baltimore, about the 1st of March,
+                    and might hope to accomplish it all in from one to two months. Will you not go?
+                    Can you spend the same length of time more pleasantly or even more profitably in
+                    any other way? It seems to me not, so let us calculate on the pleasure of your
+                    society.</p>
+                <p>This Nebraska matter presents a new phase to things in Washington. But is it wise
+                    for the South to set the example separating the compromise of 1820? If one
+                    compromise be disregarded will not another be, and will not the South in the end
+                    be left to the <hi rend="underline">tender mercy</hi> of Northern fanaticism
+                    with an overwhelming numerical majority? These are<pb n="3"/> Serious questions
+                    for the South and yes it may be difficult for her to resist the proffered favor
+                    of Douglas' Bill. She may suspect the motive; she may see its fatal consequences
+                    and its delusive benefits, but can she resist it?</p>
+                <p>I think the measure will pass the senate by a decided majority, but its fate is
+                    doubtful in the house, and there is reason to apprehend that it will reopen the
+                    slavery agitation, <del hand="h1">much</del> with all its bitterness, if not all
+                    its dangers to our Union. We had fondly hoped that this question was at rest,
+                    for a time at least, but I fear we are to be disappointed.</p>
+                <p>My children are very well, and join me in kindest remembrances to yourself and
+                    Mrs. Stuart.</p>
+                <p>I shall write Mr. Kennedy today that I have invited you to join us.</p>
+
+                <closer>
+                    <salute>I am truly yours,</salute>
+                    <signed>Millard Fillmore</signed>
+                    <seg type="postscript">
+                        <name type="recipient">Hon.<lb/>A. H. H. Stuart<lb/>Staunton, Va.</name>
+                    </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

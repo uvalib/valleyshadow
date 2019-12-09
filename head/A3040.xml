@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+
+<?dlps id="A3040"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A3040">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Tony Pastor to Annie Harris, March
+                    8, 1864</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county tony pastor to annie harris, march 8 1864</title>
+        <author>Pastor, Tony</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Doug O'Reagan</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Doug O'Reagan</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">4</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A3040</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502200</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Tony Pastor to Annie Harris, March 8, 1864</title>
+            <title level="m"/>
+            <title type="sort">augusta county tony pastor to annie harris, march 8 1864</title>
+            <author>Tony Pastor</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 page</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Tony Pastor to Annie Harris,
+                            March 8, 1864, from Nellie Harris private collection</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from private collection</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1864-03-08">1864-03-08</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Prisons/Prisoners</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A3040T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Pastor writes to Annie from prison, keeping an upbeat attitude.</p>
+            </div1>
+
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <name type="place">Old Capitol</name>
+                        <name type="place">Washington D.C.</name>
+                        <date value="1864-03-08">March 8<hi rend="super">
+                                <hi rend="underline">th</hi>
+                            </hi> 1864</date>
+                    </dateline>
+                    <salute>Dear Annie</salute>
+                </opener>
+
+                <p> Not having an opportunity of answering your kind and very welcome letter after
+                    its reception, I now take the opportunity of replying in a short epistle,
+                    although I fear it will not prove very interesting, <orig reg="owing"
+                    >oweing</orig> to <hi rend="underline">circumstances</hi>
+                    <hi rend="underline">over</hi>
+                    <hi rend="underline">which</hi>
+                    <hi rend="underline">I</hi>
+                    <hi rend="underline">have</hi>
+                    <hi rend="underline">no</hi>
+                    <hi rend="underline">
+                        <orig reg="control">controll</orig>
+                    </hi>.</p>
+                <p>I have been quite well since my arrival at this place, with the exception of a
+                    slight cold. The rest of the boys are generally well. Stuart Brown has received
+                    a letter from his brother John, they are all well.</p>
+
+                <closer>
+                    <salute>My kindest regards to all <orig reg="inquiring">enquiring</orig> friends
+                        and believe me as ever yours.</salute>
+                    <signed>Tony Pastor</signed>
+                    <seg type="postscript">Direct to "Old Capitol Prison"<lb/> Washington D.C.</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+
+<?dlps id="A7516"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A7516">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: William L. Evans to David H. Evans,
+                    November 13, 1866</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county william l evans to david h evans, november 13 1866</title>
+        <author>Evans, William L.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Andrew Witmer</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Andrew Witmer</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A7516</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502558</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: William L. Evans to David H. Evans, November 13, 1866</title>
+            <title level="m"/>
+            <title type="sort">augusta county william l evans to david h evans, november 13 1866</title>
+            <author>William L. Evans</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William L. Evans to David H.
+                            Evans, November 13, 1866, Evans-Sibert Family Papers, Accession 27770,
+                            Virginia State Library and Archives, Richmond, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Virginia State Library and Archives, Richmond, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1866-11-13">1866-11-13</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Economy, Family, Home Front, Women, Medicine/Hospitals</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-12-28">December 28, 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Andre Fleche</name>
+                </respStmt>
+                <item>Proofread against original; changes made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A7516T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Evans writes to his brother with news about his town and family.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1866-11-13">Nov 13 1866</date>
+                        <name type="place">Winchester</name>
+                    </dateline>
+                    <salute>Dear <abbr expan="Brother">Bro.</abbr></salute>
+                </opener>
+
+                <p>Your letter is to hand. You ask me to hand the Photograph to Sarah but you must
+                    of forgotten to put it in the letter. And you also state that Elva had answered
+                    my last but it has not reached me yet I am sorry that I did not <abbr
+                        expan="received">rec'd</abbr> it she must write again tell her I am <orig
+                        reg="anxious">anxous</orig> to hear from her. Edward returned on <orig
+                        reg="Saturday">Sadurday</orig> last did Very well on trip but nothing Extra.
+                        <abbr expan="Samuel">Saml.</abbr> is not married but will be soon this week
+                    or next I suppose: I know nothing about when Edward will go <orig reg="off"
+                    >of</orig>-- but I suppose soon<pb n="2"/>You must tell Elva not to fail to
+                    answer my letter as nothing gives me more pleasure than to hear from her her
+                    last was Very interesting You must be mistaken about her sending it! tell Mary-
+                    Lizzie that little Mary has grown so much she would not know her she is now one
+                    of the prettiest little <orig reg="babies">baby's</orig> in town. Tell her I
+                    will say all the fun I can and think of her at the same time</p>
+
+                <p>Henry <abbr expan="received">rec'd</abbr> the tobacco you speak of. I expect he
+                    will start to Baltimore tomorrow he will go to buy stocks Our town is awful dull
+                    at this time since the dedication it has been dull. We had a serious accident to
+                        occur<pb n="3"/>to one of our citizens on <orig reg="Saturday"
+                    >Sadurday</orig> last. John Chamberlain a <unclear>turner</unclear> who worked
+                    at Waltons and a former member of My Company while fixing a roof in the Taylor
+                    Hotel alley fell from the ladder and killed him-self almost Instantly he was
+                    buried on Sunday he had a large funeral I was one of the Pall-Bearers. I notice
+                    Billy Hordy <orig reg="occasionally">Occasionly</orig> with his "Blushing Bride"
+                    I am glad to hear the cholera has subsided in Staunton. We have had no Diseases
+                    of any kind this <orig reg="summer">sumer</orig> truly this is a healthy place.
+                    You must write soon and tell Elva not to fail to answer my last. We are all well
+                    I let you know when <abbr expan="Samuel">Saml</abbr> goes <orig reg="off"
+                    >of</orig> It will be soon<pb n="4"/>Write soon and when you send the Photograph
+                    I will hand it to Sarah I would like to come at a Christmas but I cant do it I
+                    will try and come up next summer Love to all </p>
+
+                <closer>
+                    <salute>You Bro</salute>
+                    <signed>Wm L. Evans</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,317 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1234"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="B1234">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: Ellen Sanderson to O. O.
+                    Howard, October 12, 1868</title>
+        <title type="sort">freedmens bureau records ellen sanderson to o o howard, october 12 1868</title>
+        <author>Sanderson, Ellen</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">13</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1234</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501082</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: Ellen Sanderson to O. O. Howard, October
+                            12, 1868</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records ellen sanderson to o o howard, october 12 1868</title>
+            <author>Ellen Sanderson</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 33.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1868-10-12">1868-10-12</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Administration/Bureaucracy, Aid/Relief, Employment/Labor, Family,
+                        Health/Illness, Local Government, Slavery, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-06">June 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+                <item>Item proofread against the original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1234T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>The original letter, from Ohio, inquires after a woman and her children living in
+                    Augusta County whose husband lives in Ohio. The letter asks about the possibilty
+                    of the family coming to Ohio to be reunited. The attached endorsements describe
+                    the situation of Catharine Crawford White, and the possibility of procuring
+                    Bureau support for her transport.</p>
+            </div1>
+            <div1 type="section" id="wrapper">
+                <p>War <abbr expan="Department">Dept</abbr>, Bureau <abbr expan="Refugees">R</abbr>
+                    <abbr expan="Freedmen">F</abbr> &amp; <abbr expan="Abandoned">A</abbr>
+                    Lands<lb/>Washington <abbr expan="October">Oct</abbr> 16th
+                    1868.<lb/>Respectfully referred to <abbr expan="General">Genl</abbr>
+                    <hi rend="underline">O. Brown</hi>
+                    <abbr expan="Assistant Commissioner">Asst Comr</abbr>, <abbr expan="Virginia"
+                    >Va</abbr> for investigation and recommendation. The writer has been informed of
+                    this reference.<lb/>By order of<lb/><abbr expan="Major General">Maj. Genl</abbr>
+                    <hi rend="underline">O.O. Howard</hi><lb/>F.D. Seward <abbr
+                        expan="Acting Assistant Adjutant General">A.A.A.Genl.</abbr></p>
+
+                <p>Bureau <abbr expan="Refugees, Freedmen and Abandoned Lands">R.F. &amp;
+                        A.L.</abbr><lb/><abbr
+                        expan="Headquarters Assistant Commissioner, District of Virginia">Hd. Qrs.
+                        Asst. Comr. Dist. Va</abbr><lb/>Richmond, Va. <abbr expan="October"
+                    >Oct.</abbr> 19th/68<lb/>Respectfully referred to <hi rend="underline">John A.
+                        McDonnell</hi> Sub <abbr expan="Assistant Commissioner">Asst Comr</abbr> 9th
+                    Sub <abbr expan="District">Dist</abbr> for investigation and report.<lb/>By
+                    order of the <abbr expan="Assistant Commissioner">Asst Comr</abbr><lb/>Will A.
+                        Coulter<lb/><abbr expan="Brevet Captain, United States Army">Bvt. Capt.
+                    USA</abbr>, <abbr expan="Acting Assistant Adjutant General">A.A.A.Genl.</abbr></p>
+
+                <p>Bureau <abbr expan="Refugees, Freedmen and Abandoned Lands">R. F. &amp; A.
+                    L.</abbr><lb/>Head <abbr expan="Quarters">Qrs</abbr> 9th <abbr
+                        expan="Sub-District">S.D.</abbr>
+                    <abbr expan="Virginia">Va</abbr><lb/>Winchester, <abbr expan="October"
+                    >Oct</abbr> 21.68<lb/>Respectfully returned to Roswell Waldo <abbr
+                        expan="Assistant Sub Assistant Commissioner">A.S.A.C.</abbr> 4th Division
+                    for investigation and report<lb/>John A. McDonnell<lb/>Sub <abbr
+                        expan="Assistant Commissioner">Asst Comr</abbr></p>
+
+                <p>Bureau <abbr expan="Refugees, Freedmen and Abandoned Lands">R.F. and
+                    A.L.</abbr><lb/>4th Division, 9th Sub <abbr expan="District">Dist.</abbr>
+                    <abbr expan="Virginia">Va.</abbr><lb/>Stuanton, Va Oct 24 1868<lb/>Respectfully
+                    returned to <hi rend="underline">Jno A. McDonnell</hi> Sub <abbr
+                        expan="Assistant Commissioner">Asst Comr</abbr> 9th Sub <abbr
+                        expan="District">Dist</abbr> Va, with the following information viz:<lb/><hi
+                        rend="underline">Beverly White's</hi> wife, <hi rend="underline">Catharine
+                        Crawford White</hi> and her two (2) children, <hi rend="underline"
+                    >Jenny</hi> and <hi rend="underline">Hannah</hi>, aged respectively 15 and 7
+                    years, are at present living with their former Master, <hi rend="underline"
+                        >James W. Crawford</hi> near Mt. Meridian Augusta <abbr expan="County"
+                    >Co</abbr> Va. <hi rend="underline">Catharine</hi> is considered a good servant,
+                    but on account of her incumbrance, both children being entirely dependent, the
+                    elder a cripple and badly deformed, she could not, probably, secure another
+                    place in this neighborhood where she would be able to support her children by
+                    her labor, her only resource, and if <hi rend="underline">Mr. Crawford</hi>
+                    should discharge her, as he contemplates, in order to secure another servant
+                    without such incumbrance, she would be left entirely or at least partially
+                    dependent on the <hi rend="underline">Government</hi> for support. Her husband
+                    has promised to furnish her with sufficient funds to pay her <hi
+                        rend="underline">car fare</hi> to Springfield <abbr expan="Ohio">O.</abbr>
+                    but has not yet done so, if however, she should receive it, in my opinion, she
+                    right to retain the same to meet any exigency that might arise while enroute,
+                    for on account of her age, ignorance and inexperience in traveling she might
+                    meet with some unforseen trouble or delay enroute.<lb/>If the Bureau concludes
+                    to furnish her the necessary transportation, I would respectfully suggest that
+                    she be started by Stage from <hi rend="underline">Mt. Sidney</hi> to Winchester,
+                    thence by Railroad to Springfield via Columbus &amp; London.<lb/>Roswell
+                        Waldo<lb/><abbr expan="Assistant Sub Assistant Commissioner"
+                    >A.S.A.Comr</abbr><lb/>4th <abbr expan="Division">Div.</abbr> 9th Sub <abbr
+                        expan="District">Dist</abbr>
+                    <abbr expan="Virginia">Va</abbr>.</p>
+
+                <p><abbr expan="Headquarters, Assistant Commissioner">H'd Q'rs Asst
+                    Comr</abbr><lb/>Bureau of <abbr expan="Refugees, Freedmen and Abandoned Lands"
+                        >R.F. &amp; A.L.</abbr><lb/>Richmond, <abbr expan="Virginia">Va.</abbr>
+                    <abbr expan="October">Oct.</abbr> 29th 1868<lb/>Respectfully returned to <hi
+                        rend="underline">John A. McDonnell</hi> Sub <abbr
+                        expan="Assistant Commissioner">Asst Comr</abbr>, 9th Sub <abbr
+                        expan="District">Dist</abbr>. Does not Augusta County provide for its
+                    paupers? if so, why does Mr. <hi rend="underline">Waldo</hi>, <abbr
+                        expan="Assistant Sub Assistant Commissioner">A.S.A.C.</abbr> state that this
+                    family will become dependent on the Bureau, if they remain in that
+                    County?<lb/>By order of the <hi rend="underline">
+                        <abbr expan="Assistant Commissioner">Asst Comr</abbr>
+                    </hi><lb/>Will A. Coulter<lb/><abbr
+                        expan="Brevet Captain, United States Army, Acting Assistant Adjutant General"
+                        >Bvt. Capt. USA A.A.A.Genl.</abbr></p>
+
+                <p>Bureau <abbr expan="Refugees, Freedmen and Abandoned Lands">R.F. &amp; A.L.</abbr>
+                    <abbr expan="Headquarters">HdQrs</abbr> 9th Sub <abbr expan="District"
+                    >Dist.</abbr> Va<lb/>Winchester, <abbr expan="October">Oct.</abbr>
+                    31.68<lb/>Respectfully returned to <hi rend="underline">R. Waldo</hi>, <abbr
+                        expan="Assistant Sub Assistant Commissioner">A.S.A.Comr</abbr>, 4th <abbr
+                        expan="Division">Div.</abbr> for the explanation required by endorsement of
+                        <abbr expan="Assistant Commissioner">Asst. Comr.</abbr> of 29 inst.<lb/>John
+                    A. McDonnell<lb/>Sub <abbr expan="Assistant Commissioner">Asst Comr</abbr></p>
+
+                <p>Bureau <abbr expan="Refugees, Freedmen and Abandoned Lands">R.F. and
+                    A.L.</abbr><lb/>4th Division, 9th Sub <abbr expan="District">Dist.</abbr>
+                    <abbr expan="Virginia">Va.</abbr><lb/>Staunton, Va. Nov. 4 1868<lb/>Respectfully
+                    returned to Jno. A. McDonnell, Sub <abbr expan="Assistant Commissioner">Asst.
+                        Comr.</abbr> 9th Sub <abbr expan="District">Dist</abbr>.<lb/>Augusta County
+                        <hi rend="underline">does support an Institution</hi> for the <hi
+                        rend="underline">relief</hi> of its <hi rend="underline">paupers</hi>. But
+                    many suffering freedpeople are not inmates of the Institution that, perhaps
+                    should be. It is the class of person who are unable to provide for themselves,
+                    all the necessaries of life that apply to this office for aid. And as the Bureau
+                    has provided clothing for distribution among destitute freedpeople, of this
+                    Division, the same has been given these applicants. It was not the expectation
+                    that the within named family would become so indigent as to be dependent on the
+                    County for support if they remained here, that prompted me to make the statement
+                    contained in my endorsement of 24th ult. ("would become 'partially' dependent on
+                        <abbr expan="Government">Govt</abbr> for support") - but that <hi
+                        rend="underline">Catharine</hi>, if discharged by her present Employer,
+                    would be unable to support her dependent family without aid from some source
+                    &amp; as the Bureau is the resort of all freedpeople in distress it is
+                    reasonable to suppose she would come too, and impartiality in the administration
+                    of the duties of this office would require its incumbent to provide for this
+                    family, as well as others to the extent allowed &amp; granted by the Bureau.
+                    To this degree would this family become dependent on the Bureau for
+                    support.<lb/>Roswell Waldo<lb/><abbr
+                        expan="Assistant Sub Assistant Commissioner">A.S.A.Comr</abbr><lb/>4th <abbr
+                        expan="Division">Div.</abbr> 9th Sub <abbr expan="District">Dist.</abbr>
+                    <abbr expan="Virginia">Va</abbr></p>
+
+                <p><abbr expan="Headquarters, Assistant Commissioner, District of Virginia">H'd Q'rs
+                        Ass't Com'r Dist of Va.</abbr><lb/>Bureau of <abbr
+                        expan="Refugees, Freedmen and Abandoned Lands">R.F. &amp; A.
+                    L.</abbr><lb/>Richmond, Va. <abbr expan="November">Nov.</abbr> 9th
+                    1868<lb/>Respectfully returned to <abbr expan="Major General">Maj. Genl.</abbr>
+                    <hi rend="underline">O.O. Howard</hi>, <abbr expan="Commissioner">Comr</abbr>,
+                        <hi rend="underline">disapproved</hi>. It does not appear that the parties
+                    herein named, are dependent upon the Bureau for support, or liable to become so,
+                    for a considerable length of time.<lb/>O.Brown<lb/><abbr
+                        expan="Assistant Commissioner">Asst. Comr.</abbr></p>
+
+            </div1>
+        </front>
+
+        <body id="d5">
+            <div1 type="letter" id="d6">
+                <head>
+                    Post Office
+                    <name type="recipient"><abbr expan="Major General">Maj Genl</abbr> O.O.
+                        Howard<lb/>Commissioner Bureau <abbr
+                            expan="Refugees, Freedmen and Abandoned Lands">R. F. &amp; A.
+                        L.</abbr><lb/>Washington DC</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1868-10-12">October 12th 1868</date>
+                        <name type="place">Springfield, Ohio,</name>
+                    </dateline>
+                    <salute>Sir</salute>
+                </opener>
+
+                <p>One Beverly White, colored, living in this place for several years past, asks me
+                    to write you to know whether transportation could be furnished by the Bureau to
+                    his wife &amp; 2 children living at Mount Meridian Augusta County Virginia
+                    to this place. He left there seven years ago and now wants to get his family to
+                    this place, his home. Will you please advise me what the Bureau can do for him
+                    &amp; oblige</p>
+
+                <closer>
+                    <salute>Yours &amp;c</salute>
+                    <signed>Ellen Sanderson<lb/><abbr expan="Post Master">PM</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

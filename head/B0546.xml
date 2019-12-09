@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+
+<?dlps id="B0546"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B0546">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: W. Storer How to George
+                    Rutherford, November 24, 1865</title>
+        <title type="sort">freedmens bureau records w storer how to george rutherford, november 24 1865</title>
+        <author>How, W. Storer</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B0546</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500803</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: W. Storer How to George Rutherford,
+                            November 24, 1865</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records w storer how to george rutherford, november 24 1865</title>
+            <author>W. Storer How</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Bureau of Refugees, Freedmen, and
+                            Abandoned Lands, Record Group 105, Box E4302.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1865-11-24">1865-11-24</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Administration/Bureaucracy, Military Authority</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-07">July 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+                <item>Item checked against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B0546T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>How responds to an enquiry from the Quartermaster Department related to his
+                    service before becoming Superintendent of the 6th District.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient"><abbr expan="Brevet Brigadier General">Bt. Brig.
+                        Gen.</abbr> Geo. R. Rutherford<lb/>Office of the <abbr
+                            expan="Quartermaster General">QM Genl</abbr> of the Army<lb/>Washington,
+                        D.C.<lb/>Washington, D.C.</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1865-11-24"><abbr expan="November">Nov</abbr> 24th 1865</date>
+                        <name type="place">Staunton, <abbr expan="Virginia">Va.</abbr></name>
+                    </dateline>
+                    <salute>
+                        <abbr expan="General">Genl</abbr>
+                    </salute>
+                </opener>
+
+                <p>I am this day in receipt of your letter in relation to <abbr expan="General"
+                    >Gen</abbr> orders No. 51 Current Series which order I have not as yet received
+                    or read.</p>
+
+                <p>On the 30th day of September 1865 I had no Employees serving under me in the
+                        <abbr expan="Quartermaster Department">QM Dept</abbr> because I was then, as
+                    now on duty in the Bureau of Refugees, Freedmen and Abandoned Lands, as
+                    Superintendent of the Sixth District <abbr expan="Virginia">Va</abbr> and since
+                    the 1st of October 1863, I have neither employed Printers for a compensation nor
+                    paid any person for such services.</p>
+
+                <p>My Post Office address as previously reported by me to the Quarter Master General
+                    is <hi rend="underline">Winchester</hi>
+                    <abbr expan="Virginia">Va.</abbr>, and the direction of your communication to
+                    Staunton is the reason of this delay in replying to it.</p>
+
+                <closer>
+                    <salute>I am General &amp;c</salute>
+                    <signed>W Storer How<lb/><abbr expan="Captain">Capt</abbr> &amp;c</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

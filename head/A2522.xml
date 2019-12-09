@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2522"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A2522">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Jedediah Hotchkiss to Sara A. Hotchkiss, March
+     26, 1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county jedediah hotchkiss to sara a hotchkiss, march 26 1862</title>
+        <author>Hotchkiss, Jedediah</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Rider</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Rider</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A2522</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:502011</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Jedediah Hotchkiss to Sara A. Hotchkiss, March 26, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta county jedediah hotchkiss to sara a hotchkiss, march 26 1862</title>
+            <author>Jedediah Hotchkiss</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>2 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Jedediah Hotchkiss Collection, Reel 4, Manuscripts
+       Division, Library of Congress, Washington, D.C.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Congress, Washington, D. C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1862-03-27">1862-03-27</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Troop Movement, Military Authority, Military Strategy, Prisons/Prisoners, Women, National
+      Government, Battle Description, Death/Casualties, Family, Patriotism</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A2522T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Hotchkiss describes the Confederate army's movements, the women of Winchester, and relates
+     news of soldiers from Augusta County.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Mrs. Sara A. Hotchkiss <lb/> Churchville <lb/> Augusta<lb/> Va<lb/> Mar 27 1862</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1862-03-26">Wednesday March 26<hi rend="super">th</hi> 1862</date>
+      <name type="place">Camp Narrow Passage</name>
+     </dateline>
+     <salute>My <abbr expan="Dear">Dr.</abbr> Wife --</salute>
+    </opener>
+
+    <p>We were yesterday marched back from Mt. Jackson where we had been marched the day before at 5
+     P.M. 9 miles -- We are now at the same place we were before where the roads passes between two
+     streams of water on a narrow ridge -- It is thought Jackson will make a stand. <orig
+      reg="Ashby">Asby</orig> is fighting them every day -- one of their cavalry was just taken
+      <unclear>in</unclear> as a prisoner -- he is a <orig reg="Marylander">Marlander</orig> -- says
+     he is tired of the war -- thought it would only be against So. Carolina &amp; for a short
+     time. Our men get very weary &amp; I suppose these moves are to make them used to marching
+     -- The 5<hi rend="super">th</hi> Va <abbr expan="Regiment">Regt</abbr> -- (Augusta) is in a
+     sore condition having been marching every day &amp; fighting too. Gen. Jackson <abbr
+      expan="received">recd.</abbr> a letter today from Mrs. Lee saying that the Mayor &amp;
+     ladies of Winchester buried our dead. The loss on our side in the fight of Sunday was about 470
+     in killed, wounded &amp; prisoners. Our prisoners marched through Winchester waving their
+     hats &amp; shouting hurras for <abbr expan="Jefferson">Jeff.</abbr> Davis -- the ladies
+     cheering them too. It was reported that Ashley had killed 500 of them before Saturday night.</p>
+    <p> I see a good many of the Augusta people here, they have come down to look after friends in
+     the 5<hi rend="super">th</hi> as the first accounts that reached Staunton were very much
+     exaggerated Henry Robertson (the Dr's <abbr expan="brother">bro.</abbr>) is among the missing
+     -- Lt. Dale of <unclear>Dayle's</unclear> Co. <pb n="2"/> was killed. One fellow was saved by a
+     ball hitting his pocket knife &amp; <unclear>shivering</unclear> it into some 10 pieces --
+      <abbr expan="James">Jas.</abbr> Galt had to throw away his gun &amp; everything &amp;
+     tore through the fields -- The enemy's cavalry cannot jump fences or stone walls as ours does,
+     therefore many of our men escape even when cut off the West Augusta Guards lost one of their
+     pieces because a horse was shot &amp; they could not extricate it -- I am in great doubt
+     about our dear little Nelly &amp; spend much of the sleepless nights in thinking of her
+     &amp; your sorrowing situation --</p>
+    <p> I have just been detailed by Gen. Jackson to make a map of this country &amp; must go to
+     work at once -- I am unable to get a furlough now but hope I may soon &amp; that God in
+     Mercy has spared my beloved child &amp; thus consoled you in your affliction --</p>
+    <p> May God mercifully bless you</p>
+
+    <closer>
+     <salute>Truly your loving husband</salute>
+     <signed>Jed. Hotchkiss</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

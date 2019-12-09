@@ -1,0 +1,259 @@
+<?xml version="1.0"?>
+
+<?dlps id="B2020"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B2020">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: Thomas P. Jackson to R.
+                    M. Manly, October 17, 1867</title>
+        <title type="sort">freedmens bureau records thomas p jackson to r m manly, october 17 1867</title>
+        <author>Jackson, Thomas P.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">9</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B2020</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501135</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: Thomas P. Jackson to R. M. Manly, October
+                            17, 1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records thomas p jackson to r m manly, october 17 1867</title>
+            <author>Thomas P. Jackson</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Superintendent of Education for the State
+                            of Virginia, Bureau of Refugees, Freedmen and Abandoned Lands,
+                            1865-1869, Record Group 105, M1053, Roll 7.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-10-17">1867-10-17</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Administration/Bureaucracy, Aid/Relief, Education, Women, Violence/Crime,
+                        Church/Religious Activity</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-06">June 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+                <item>Item checked against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B2020T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Jackson writes to Manly about a conflict between the Bureau and its school with
+                    the Methodist Episcopal Church in Staunton. Jackson alleges that Frederick
+                    Tukey, the Bureau's former agent in Staunton forged a letter and made
+                    unspecified claims about the current condition of schools there. Jackson refers
+                    to Tukey's tenure as the "old regime" and urges Manly not to appoint any
+                    teachers associated with Tukey, including his wife. The letter also discusses in
+                    some detail the conflict with the church about the allocation of space for a
+                    school room.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <hi rend="underline">Confidential</hi>
+                    
+                    <name type="recipient"><abbr expan="Reverend">Rev.</abbr> R. M.
+                        Manly<lb/>Richmond</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-10-17"><abbr expan="October">Oct.</abbr> 17 1867</date>
+                        <name type="place">Staunton</name>
+                    </dateline>
+                    <salute>Dear Sir</salute>
+                </opener>
+
+                <p>A letter dated Staunton <abbr expan="October">Oct</abbr> 4/67 <hi
+                        rend="underline">purporting</hi> to be but <hi rend="underline">not</hi> in
+                        <hi rend="underline">E. Lawson's</hi> handwriting, forwarded by you to Mr.
+                    Whipple <abbr expan="October">Oct.</abbr> 8 has been sent here for <hi
+                        rend="underline">recognition</hi>. Some statements are palpably and some
+                    inferentially untrue and did it not reflect upon the present condition of
+                    schools and lead to a possible supposition that my application for aid in
+                    fitting up the room here was unnecessary, <del hand="h1">I will</del>
+                    <add hand="h1" place="inline">should not, as I <hi rend="underline"
+                    >must</hi></add> say the letter is written by Mr. Tukey and is only a
+                    continuation of the <unclear>undermining</unclear> operation which the schools
+                    here have had to contend against from the same source. In fact, "the house" was
+                    rented for school purposes at $25 per month because there was <hi
+                        rend="underline">no place</hi> in which to teach school as the church
+                    building spoken was <hi rend="underline">not even roofed in</hi>. Through the
+                    influence of Mr. Brackett, seconded by yourself the <abbr
+                        expan="Bureau of Refugees, Freedmen and Abandoned Lands"
+                    >B.R.F.&amp;A.L.</abbr> appropriated $300 in aid on the condition that the
+                    building aided should accomodate all scholars in Staunton.
+                    <unclear>Promises</unclear> were fairly made but when Mr. Bowser, the
+                        <unclear>co'd</unclear>
+                    <pb n="2"/>presiding elder came to Staunton he candidly told me that under no
+                    circumstances would he permit the use of the church upper room for school
+                    purposes, nor ever <add hand="h1" place="inline">give</add> an assurance of
+                    continued possession of the basement (which <hi rend="underline">only cost
+                    $150</hi> in addition to the contract) for school purposes if I paid over the
+                    $300 which I of course declined to do. The basement has not been <hi
+                        rend="underline">fitted up even yet</hi> and when the estimable ladies who
+                    have left, taught a <hi rend="underline">pay</hi> school <add hand="h1"
+                        place="inline">after the close of regular session</add> which of course was
+                    small <unclear>compared</unclear> with a <hi rend="underline">free</hi> school
+                    the room was unfit to accomodate any orderly school, but when school was talked
+                    of for the winter and I applied for the room the Trustees, induced I expect by
+                    the writer of the letter in question, asked $15 per month and would not <hi
+                        rend="underline">fix up for a school room</hi>. Feeling that after the
+                    church had <abbr expan="received">rec'd</abbr> $1,000 from the N. <abbr
+                        expan="Methodist Episcopal">M. E.</abbr> conference and repeated aid from
+                    the Bureau and Teachers, I proposed to expend $100 in fitting up the room to be
+                    occupied <hi rend="underline">rent free</hi>
+                    <hi rend="underline">for the season</hi> which they refused, and took no steps
+                    to fit up at all. The parents of the children began to complain bitterly, many
+                    claiming they had subscribed their money for a school house, not a church. Mr.
+                    Brackett came here and a meeting was called which I attended with him and laid
+                    the case so strongly before them that the <pb n="3"/>Trustees were shamed into
+                    doing something and agreed to give the room free if I would get them $100 to fit
+                    up, which thanks to you, I have obtained from the Bureau and I expect to have
+                    the room ready for permanent school on Monday <abbr expan="October">Oct.</abbr>
+                    21. The $60 alluded to was begged I believe in aid of the main building if used
+                    for a school but (as I with the $300) they properly refused to give it to a
+                    church who would not <hi rend="underline">encourage</hi> even a school. The
+                    conceit spoken of was got up at great labor by the Teachers and the money raised
+                    which was a mere trifle expended for <hi rend="underline">school</hi> but not
+                        <hi rend="underline">church</hi> purposes. The <hi rend="underline"
+                    >real</hi> writer of the Lawson letter did not even attend the concert nor has
+                    given a cent or even an hour labor in Sabbath school. The <hi rend="underline"
+                        >real object</hi> of the letter is not to aid the cause of education but to
+                    bring Mr. Scott here under <abbr expan="American Missionary Association">Am.
+                        Miss. Assn.</abbr> &amp; through him employ Mrs. Tukey and Miss Dunn as
+                    Teachers. To accomplish this "financial" desideratum every effort has been made
+                    and if fair means <pb n="4"/>were used or good would result I should gladly say
+                    "Take the work". We have now 112 scholars registered for Miss Rowells school a
+                    number she cannot possibly control but I cannot recommend that Mr. Scott or any
+                    one who would bring back the "old regime" be sent to aid her, as the <hi
+                        rend="underline">joint</hi> work would certainly prove unpleasant and so far
+                    unprofitable.</p>
+
+                <p>I fear my letter to you may offend Mr. Brackett and I trust it will be
+                    confidential <hi rend="underline">except</hi> in so far as it may affect your
+                    opinion of my application for aid, and even by inference reflect upon the
+                    active, conscientious and able management of Mr. Brackett or his teachers.</p>
+
+                <closer>
+                    <salute>Faithfully yours</salute>
+                    <signed>
+                        <hi rend="underline">Thos P. Jackson</hi>
+                    </signed>
+                    <seg type="postscript">Excuse my hurried letter, TPJ</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

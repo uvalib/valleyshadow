@@ -1,0 +1,377 @@
+<?xml version="1.0"?>
+
+<?dlps id="F4046"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F4046">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Thomas F. McCoy to A. L. Russell, October 3,
+     1862</title>
+        <title type="sort">franklin county thomas f mccoy to a l russell, october 3 1862</title>
+        <author>McCoy, Thomas F.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Desi Hopkins</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Desi Hopkins</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">20</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">F4046</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2002, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date>
+        <idno type="uva-pid">uva-lib:501597</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Franklin County: Thomas F. McCoy to A. L. Russell, October 3, 1862</title>
+            <title level="m"/>
+            <title type="sort">franklin county thomas f mccoy to a l russell, october 3 1862</title>
+            <author>Thomas F. McCoy</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>8 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Thomas F. McCoy to A. L. Russell, The Pennsylvania
+       Save the Flags Civil War Collection, 1861-1865, #0668, US Army Military History Institute,
+       Carlisle, Pennsylvania.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from US Army Military History Institute, Carlisle, Pennsylvania.</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1862-10-03">1862-10-03</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Battle Description, Death/Casualties, Military Authority, Military Strategy, Troop
+      Movement</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2005">Summer 2005</date>
+        <respStmt>
+          <resp/>
+          <name>Doug O'Reagan</name>
+        </respStmt>
+        <item>Proofread.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="F4046T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Thomas McCoy's detailed and extensive letter to Adjutant General Russell and Governor Curtin
+     describes his regiment's movements in northern Virginia leading up to the second battle of
+     Manassas of August, 1862 and describes his regiment's heroic participation in the battle.</p>
+   </div1>
+
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient"><abbr expan="General">Genl</abbr> A. L. Russell <lb/>
+      <abbr expan="Adjutant">Adjt</abbr>
+      <abbr expan="General">Genl</abbr> of <abbr expan="Pennsylvania">Penn<hi rend="super"
+      >a</hi></abbr></name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1862-10-03">Oct 3/62</date>
+      <name type="place">Head Quarters 107th <abbr expan="Regiment">Regt</abbr>
+       <abbr expan="Pennsylvania Volunteers">P. V.</abbr>
+       <lb/> Camp near Mercerville <abbr expan="Maryland">MD</abbr></name>
+     </dateline>
+     <salute>General</salute>
+    </opener>
+
+    <p>I have the honor to briefly present for you information &amp; for that of his Excellency
+     Governor Curtin, an account of the <orig reg="operation">opperation</orig> of the 107th
+     Regiment Pennsylvania Volunteers, from the period I assumed the command until it arrived at
+     Centreville on Sunday the 21st day of August, 1862.</p>
+
+    <p>I lost no time after receiving the Commission of his Excellency in proceeding to join the
+     Regiment, which I found in Camp at Cedar Mountain about seven miles South of Culpepper
+     Virginia. I found it organized into the Brigade, commanded by General A. Duryea, in the
+     Division commanded by General Ricketts in the 3<hi rend="super">d</hi> Army Corps commanded by
+      <abbr expan="Major General">Maj. Genl</abbr>
+     <unclear>Jhn</unclear> Pope. </p>
+
+    <p>It was late in the night of August 13th, 1862 that I succeeded after great labor and <orig
+      reg="diligent">dilligent</orig> search amongst the multitude of camps that lined the hills and
+      <orig reg="valleys">vallies</orig> of that region to find the Regiment. I found it under
+     marching orders, and assumed the command in the morning, and at once took up the line of march
+     for the Rapidan.</p>
+
+    <p>On the evening of the 17th we encamped on the outer line of our Army and near the Rapidan
+     beyond which it was known that the enemy was in very strong force. On the next day after the
+     usual inspections of the Sabbath &amp; the Guard mounting, we rested quietly in camp for a
+     few hours, when exciting intelligence was re- <pb n="2"/> ceived at Head Quarters of the
+     Division and followed by prompt orders for the march, which was soon taken up northward, and
+     continued far into the night, when a halt was ordered and the weary soldiers sunk upon the
+     ground in order of battle -- This rest although surrounded by none of the usual comforts, was
+     refreshing &amp; greatly needed, for the following days and nights taxed their energies and
+     strength still more thoroughly. Having attained the north bank of the Rappahannock, after being
+     a whole night &amp; day on the way, a day or two's rest were obtained with some fresh
+     supplies of rations.</p>
+
+    <p>Whilst at this point (the Rappahannock station) the enemy appeared on the 20th as was
+     supposed in force from the direction of Culpepper. There was some skirmishing. We had batteries
+     on both sides of the river. <abbr expan="General">Genl</abbr> Pope, took his position on a
+     little <unclear>eminence</unclear> in front of our Division, from which by signal flags he
+     formed his line of battle. The enemy did not advance, and our Army bivouacked in the order of
+     battle - the infantry drawn up in supporting columns, so as to be a sure &amp; convenient
+     support to the batteries. The morning of the 21st found us in the same order which with but
+     slight changes, was maintained during the day. The cannonading commenced about 10 oclock A.M.
+     and continued with intervals during the whole day, but it was principally north west of our
+     position, and with a different corps of our Army. During the 22nd most of the cannonading was
+     in about the same quarter with the addition of some on our <abbr expan="Regiment">Regt.</abbr>
+     The enemy however, having secured positions during the night, opened on the morning of the
+      23<hi rend="super">d</hi> with all their power directly on our point. This artillery battle
+     continued for three hours, almost unabated, and with considerable effect on both sides. The
+     enemy I think suffering considerably more than ourselves, as they advancing appeared more at a
+     disadvantage, and our Artillery was better served. <abbr expan="Lieutenant">Lieut.</abbr>
+     Godbold of <orig reg="Matthews'">Mathews</orig>
+     <abbr expan="Pennsylvania">Penn<hi rend="super">a</hi></abbr> battery lost <pb n="3"/> a limb
+     by the Explosion of a shell just a little to our right and front. A shell exploded almost in
+     the ranks of <abbr expan="Company">Co.</abbr> F of my Regiment, and fortunately only mortally
+     wounded one &amp; very slightly one or two others of that company. Many narrow escapes were
+     made during these three hours of Artillery battle. The soldiers stood it with a becoming
+     courage. After it I felt a greater degree of confidence in my Regiment. This was the first time
+     in which they had been very considerable length of time under fire.</p>
+
+    <p>There being a flood in the Rappahannock, and the temporary bridges having given way &amp;
+     here coming down threatening to carry off the Rail Road Bridge, the point our Division was
+     depending, our troops were under the necessity of evacuating the other side of the river, and
+     withdrawing to the north side which was done in good time &amp; in good order and with
+     little if any, loss on our side.</p>
+
+    <p>Soon we again took up the line of March (they were known to be flanking as in large force)
+     and in the direction of Warrenton, understood as being in the hands of the enemy. The march was
+     continued all day and up to about Eleven oclock at night, when we again bivouacked in a wood
+     and forbidden from having any fires. The enemy had evacuated Warrenton, or had been driven out
+     by our advance. We directed our march past the Town and towards the White Sulphur Springs about
+     four miles south west of Warrenton, and encamped about three miles from the latter place. All
+     day yesterday and <orig reg="today">to-day</orig> an Artillery fight was in progress several
+     miles to the west or north west of us, understood to be with the corps of Burnside or Sigel.
+     For two or three days McDowells Army corps kept possession of the region around about
+     Warrenton, the White Sulphur Springs, and Waterloo, during which our men were short of rations,
+     but making up the deficiency, so far as could be done by securing green corn, green apples,
+     &amp;c. </p>
+
+    <p>On the 27th we left our camp west of Warrenton, our <pb n="4"/> march being through that
+     place in the direction of Centreville but when arriving at a certain point we turned off to the
+     westward toward Haymarket and <unclear>know</unclear> in <unclear>face</unclear> Gap, through
+     which a day or two before Jackson had passed with a portion of his Army, and
+     <unclear>one</unclear> which he was expecting reinforcements. He arrived, it is believed in
+     time, to drive this (said to be Longstreets) force into and through the Gap or such parts of it
+     as had emerged from the Gap. It was soon apparent that the enemy was in the vicinity and that
+     there would be fighting. on passing through the village of Haymarket near two miles East of the
+     Gap, those Regiments having knapsacks were required to leave them at that point. We continued
+     to move forward, but with great caution. On arriving upon the point I was at once ordered with
+     the 107th to the support of <abbr expan="Captain">Capt</abbr> Thomsons <abbr
+      expan="Pennsylvania">(Pa)</abbr> battery on the right, and also to protect the Rail Road. At
+     this time the fight had commenced briskly. I continued in the duty first assigned me until it
+     was deemed proper to remove Thomsons battery, or that part of it, of which we formed the
+     immediate support to the left and to another part of the field where other infantry support was
+     convenient, when I was ordered forward to join the Brigade from which I had been temporarily
+     detatched. Coming up to the position then occupied by General Duryea, I was at once ordered by
+     him to march my Regiment to an eminence on our right and form line of battle along the crest of
+     the hill, which movement was promptly executed, the men manifesting a most courageous spirit.
+     Here we remained while the action lasted in support of <abbr expan="Captain">Capt.</abbr>
+     <orig reg="Matthews'">Mathews</orig> (<abbr expan="Pennsylvania">Pa</abbr>) battery.</p>
+
+    <p>Our force at this place and engaged in this action was that of Ricketts Division, only,
+     perhaps about 4000 men and I presume it was not intended or deemed safe, to remain between
+     Jackson &amp; Longstreet, with a force utterly inadequate to contend with either - and
+     besides it was understood that our orders had been filled and the purpose of the <pb n="5"/>
+     Expedition accomplished. In leaving this ground we retraced our steps to the village of
+     Haymarket in the night and thence to Gainsville, where we bivouacked for the remainder of the
+     night, and at day light of the 29th, continued on march, taking the road directly to <orig
+      reg="Manassas">Manasses</orig>, where we arrived during the day and found the place
+     unexpectedly in the possession of our troops. Our men being very much worn down by the almost
+     incessant marching, excitement, and the irregularity in obtaining rations, were greatly in need
+     of rest. As much time for this as possible was given, some two hours, and then the line of
+     march was taken for the battle field, the battle then raging with great fury near the old Bull
+     Run Battle ground. At the close of the day the Division arrived upon the ground, the battle
+     still going on and our troops with cheers driving the enemy back. We bivouacked in the field
+     while the balls &amp; shells of the enemy were flying over &amp; around us. Although
+     upon the battlefield, and upon the <del rend="none" hand="h1"/> of another in which it was known we were to
+     take a part, our men I believe rested well and slept soundly.</p>
+
+    <p>Soon after day light of the 30th, the Regiment was in line on the right of the Brigade, which
+     Brigade was on the right of the Division, the Division on the right of field, the 107th leaving
+     during the operations of the day, being on the extreme right. We moved forward to the conflict,
+     early in the morning. The firing of the skirmishers on the right had already begun, we were
+     formed in line of battle on the extreme right of the field. We advanced over a ridge obliquely
+     to the left, relieving the skirmishers on our point, and pushed forward to a position in the
+     little valley beyond the ridge, a position considerably nearer the enemy then any previously
+     occupied by any of our troops upon that part of the field.</p>
+
+    <p>Being in close proximity to the enemy whose sharp shooters were endeavoring to pick off our
+     officers &amp; men, I sent forward to <pb n="6"/> guard against suprise, several small
+     parties of skirmishers. The Regiments of our Brigade (97th, 104 &amp; 105th <abbr
+      expan="New York Volunteers">N.Y.V.</abbr>) on our left soon began to fire frequent <orig
+      reg="volleys">vollies</orig> - and this attracting the attention of the enemy, he turned the
+     fire of a concealed battery upon us. The range being close, it was soon discovered that the
+     fire would be, and indeed was being very effective, some in those Regiments &amp; in my own
+     were already wounded, together with <abbr expan="General">Genl</abbr> Duryea, commanding the
+     Brigade, his wound however being very slight. The General, now seeing that the position was an
+     unnecessarily exposed one, gave an order to fall back in order to have the advantage of more
+     favorable ground, as to have attempted to maintain this ground without a battery of our own to
+     reply to that of the <orig reg="enemy's">enemies</orig> would have been a useless sacrifice of
+     our brave men. The Regiments on our left hastily fell back, and in consequence of not receiving
+     the order for some time after, I maintained my position, but in receiving it, I marched my
+     Regiment back in good order and re-joined the Brigade. A new line was soon formed more in
+     prolongation of the general line of battle, and some time after without pressure from the
+     enemy, it was deemed expedient to retire temporarily a few hundred yards, to give room, as was
+     at the time supposed for our Artillery to <orig reg="operate">opperate</orig>, <abbr
+      expan="company">co.</abbr> A (<unclear>Doshumen</unclear>) occupying the former position as a
+     picket. The battle at this period appeared to have slackened by a partial cessation of fire on
+     both sides. Soon however we were again advanced to our former position, with the encouraging
+     word that the enemy was falling back! As we occupied the former ground the firing began to
+     increase, both Artillery and Musketry, principally on the left of our line. For hours it
+     increased in extent and volume. At about 5 oclock in the afternoon, the battle was appalling
+     and terrific in the extreme. Our lines were giving way in the left (our left) and <orig
+      reg="center">centre</orig>. Gradually the Regiments on the left of our Brigade fell back and
+     the enemy immediately in front in large force, with batteries advanced in close proximity, the
+     Regiments on our immediate left &amp; in our own Brig- <pb n="7"/> ade fell rapidly to the
+     rear, leaving my own Regiment the only one in position along the whole part of this part of the
+     field. The firing was very heavy and being rapidly concentrated against us. Having by this time
+     been flanked on both wings, our supports all gone, and in less that five minutes would have
+     been surrounded by overwhelming numbers, we moved back in the direction of the Regiments that
+      <orig reg="preceded">preceeded</orig> us under a most destructive fire of Artillery &amp;
+     Musketry, and at considerable loss in killed wounded and prisoners. Rallying the Regiment as
+     speedily as possible, yet under the guns of the advancing enemy, in the growing darkness, and
+     now meeting with the General of the Brigade, yet on the field although wounded, and with him at
+     our head took up the line of march for Centreville where we arrived at the dawn of the next
+     morning.</p>
+
+    <p>In reviewing the <orig reg="operations">opperations</orig> of the Regiment during the past
+     fifteen days (previous to August 31st 1862) eventful as they have been, of which the foregoing
+     is but a brief account, I am more impressed with its good conduct, and that it deserves well of
+     the country and the great Commonwealth from which it came. Leading the Brigade that first
+     opened the great battle early in the morning of August 30-1862, it has the satisfaction to know
+     that it was the <hi rend="underline">last</hi> of the whole Army engaged, to leave the line of
+     that battle at the close fo the day. Unfortunate as the contest of this day may have been to
+     the Army, and country, and deeply as we felt chagrined to have retired before the enemy, yet
+     the Regiment feels confidently assured that none of the misfortunes are or can be chargeable to
+     it, in any degree, as up tot he last moment and even long beyond any possibility of retrieving
+     the reverse, did it maintain the forward and honorable position it occupied.</p>
+
+    <p>For an account of the losses, as well as the names of the officers who took an honorable part
+     in these movements, I would refer you &amp; his Excellency the Governor to my official
+     report to <pb n="8"/>
+     <abbr expan="General">Genl</abbr> Duryea commanding the Brigade which I had the honor to
+     forward you.</p>
+
+    <p>The 107th Regiment, it affords me pleasure to record was under fire in the closing part of
+     the battle (being after dark) at "Cedar Mountain" August 9th, 1862, and was also in the line of
+     battle, (although not engaged), at Chantilly <abbr expan="September">Sept</abbr> 1st 1862, in
+     the former of which several were wounded, and should I receive reports of these <abbr
+      expan="operations">opperations</abbr> from <abbr expan="Lieutenant Colonel">Lt. Col.</abbr>
+      M<hi rend="super">c </hi>Allen, who was in command, I will take pleasure in forwarding them
+     for the information of his Excellency the Governor.</p>
+
+    <p>I herewith enclose you a copy of the report of <abbr expan="Captain">Capt.</abbr>
+     <unclear>J.</unclear> Mac Thompson, of the gallant conduct of the Regiment in the battle of
+     South Mountain &amp; Antietam, on the 14th and 17th days of September, 1862.</p>
+
+    <closer>
+     <salute>I am General very Respectfully Your <abbr expan="obedient">obt</abbr>
+      <abbr expan="servant">servt</abbr></salute>
+     <signed>T. F. McCoy <lb/>
+      <abbr expan="Colonel">Col.</abbr>
+      <unclear>Comdg</unclear> 107 <abbr expan="Pennsylvania Volunteers">P. V.</abbr></signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

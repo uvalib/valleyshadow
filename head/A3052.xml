@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+
+<?dlps id="A3052"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A3052">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Samuel F. Carson to Virginia Miller,
+                    April 10, 1865</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county samuel f carson to virginia miller, april 10 1865</title>
+        <author>Carson, Samuel F.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Museum of the Confederacy Staff</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Doug O'Reagan</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A3052</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502209</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Samuel F. Carson to Virginia Miller, April 10, 1865</title>
+            <title level="m"/>
+            <title type="sort">augusta county samuel f carson to virginia miller, april 10 1865</title>
+            <author>Samuel F. Carson</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 page</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Samuel F. Carson to Virginia
+                            Miller, April 10, 1865, Fort Delaware POW letters, Museum of the
+                            Confederacy</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1865-04-10">1865-04-10</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Prisons/Prisoners</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A3052T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Carson writes to Ms. Miller asking that she send food or clothing, though they
+                    are not close, now that he has been told that authorities will allow it
+                through.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Mrs. Virignia L. Miller<lb/>York<lb/>York County Pennsylvania
+                    <name type="recipient">Mrs V.L. Miller</name>
+                    <name type="place">Officers Barracks <abbr expan="Fort">Ft.</abbr>
+                        <abbr expan="Delaware">Del.</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1865-04-10">April 10th 65</date>
+                    </dateline>
+                    <salute>Dear Madam</salute>
+                </opener>
+
+                <p> We have received instructions this morning from the Federal authorities that we
+                    would be permitted to receive anything in the way of clothing or eatables that
+                    may be sent us by our friends- whilst it is true I have but little acquaintance
+                    with you I at the same time look upon you as a friend, and will be very thankful
+                    for anything you may send. I arrived at this place on the 13th of March from
+                    Hilton Head S.C. where six hundred of us had been confined since last <abbr
+                        expan="August">Aug</abbr>. I have heard nothing from home since my arrival
+                    here, consequently can give you no news from that quarter. The two McCutchins
+                    &amp; Henry Wright are still here. My respects to Mr. Miller.</p>
+
+                <closer>
+                    <salute>Yours in haste</salute>
+                    <signed><abbr expan="Samuel">Saml</abbr> F. Carson 1st <abbr expan="Lieutenant"
+                            >Lieut</abbr>
+                        <abbr expan="Company">Co</abbr> "D" 5th <abbr expan="Virginia">Va</abbr>
+                        <abbr expan="Infantry">In</abbr><lb/>Division 34</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

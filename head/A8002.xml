@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+
+<?dlps id="A8002"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A8002">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: John Watt to Alexander H. H. Stuart,
+                    December 3, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county john watt to alexander h h stuart, december 3 1861</title>
+        <author>Watt, John</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Andrew J. Torget</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Andrew J. Torget</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A8002</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502654</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: John Watt to Alexander H. H. Stuart, December 3, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta county john watt to alexander h h stuart, december 3 1861</title>
+            <author>John Watt</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 page</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: John Watt to Alexander H. H.
+                            Stuart, December 3, 1861, Papers of Alexander H. H. Stuart and the
+                            Related Stuart and Baldwin Families, 1776-1878, Accession #228-a, Box 3,
+                            Special Collections Department, University of Virginia Library,
+                            Charlottesville, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1861-12-03">1861-12-03</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>State Government, Family</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A8002T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Watt requests that Stuart send him information related to John Brown's raid,
+                    discusses Stuart's political activities, and sends greetings to Stuart's
+                family.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1861-12-03">Dec 3d 1861</date>
+                        <name type="place">Greenwood Depot Albemarle</name>
+                    </dateline>
+                    <salute>Hon A H H Stuart</salute>
+                </opener>
+
+                <p>My Dear Friend. You mentioned to me while I was at Staunton, that there was an
+                    appendix published in connection with your report about the raid of John Brown,
+                    containing extracts from the personal liberty bills passed by several of the
+                    Northern States. You said that it could be procured in Richmond. If you could
+                    lay your hands upon and send it to me at this place you would greatly oblige me.
+                    I have some curiousity to see those extracts, although I place implicit
+                    confidence in the <orig reg="consistency">conistny</orig> of your report. When I
+                    last saw you, I expected to have been in Richmond <orig reg="before">ere</orig>
+                    this, but were if I were there, I would not know very well how I could hunt up
+                    that same appendix.</p>
+                <p>Please excuse the liberty that I have taken in making this request. I
+                    congratulate you on the prospect of your being speedily released from your
+                    labors as a member of the convention[.] the post of honor I believe to be now a
+                    private station, otherwise I could wish to see your talents &amp; your
+                    fidelity employed in the service of your country. I hope you will enjoy yourself
+                    in the Society of your family &amp; I will always to myself the honor of
+                    calling on you, when I am in Staunton. I take a lively interest in the welfare
+                    of your children. Remember me to them when you see them. With sentiments of
+                    respect &amp; affection.</p>
+
+                <closer>
+                    <salute>Your friend</salute>
+                    <signed>John L. Watt</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

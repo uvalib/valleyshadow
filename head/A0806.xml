@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+
+<?dlps id="A0806"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+
+<!ENTITY garb6a SYSTEM "uva-lib:503023" NDATA uvaHighRes>
+<!ENTITY garb6b SYSTEM "uva-lib:503024" NDATA uvaHighRes>
+<!ENTITY garb6c SYSTEM "uva-lib:503025" NDATA uvaHighRes>
+<!ENTITY garb6d SYSTEM "uva-lib:503026" NDATA uvaHighRes>
+
+]>
+  
+<TEI.2 id="A0806">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Thomas Garber to Addie Garber, August 15, 1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county thomas garber to addie garber, august 15 1862</title>
+        <author>Garber, Thomas</author>
+        <editor> </editor>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Alice Carter</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Murrell</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A0806</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>copyright 1998, by the Rector and Visitors of the University of Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1998 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1998">1998</date>
+        <idno type="uva-pid">uva-lib:503022</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Thomas Garber to Addie Garber, August 15, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta county thomas garber to addie garber, august 15 1862</title>
+            <author>Thomas Garber</author>
+            <editor> </editor>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p> </p>
+          </editionStmt>
+          <extent>4 pages</extent>
+          <publicationStmt>
+            <publisher> </publisher>
+            <pubPlace> </pubPlace>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Garber Family Letters, Augusta County Historical
+       Society, Staunton, Virginia</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Augusta County Historical Society, Staunton, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1862-08-15">1862-08-15</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Battle Description, Enlistment, Family</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2000">Summer 2000</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Voorhees</name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A0806T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Thomas Garber tells his sister about the military company he has joined. </p>
+   </div1>
+  </front>
+  <body id="d4">
+
+   <div1 type="letter" id="d5">
+    <opener>
+
+     <pb n="1" entity="garb6a" pid="uva-lib:503023"/>
+     
+     <name type="recipient">Addie Garber</name>
+
+     <dateline>
+      <date value="1862-08-15">Aug 15th, 1862</date>
+      <name type="place">Camp Gordonsville</name>
+     </dateline>
+     <salute>Dear Sister,</salute>
+    </opener>
+
+    <p>I have wanted to write home but I have not had a chance I came up to Cousin John's for some
+     bread and while they are cooking it I thought I would write a few lines home we have been on
+     picket ever since Tuesday and just got <orig reg="off">of</orig> this morning. On Monday the
+     whole Brigade were drawn up in line of battle I was <orig reg="sure">shure</orig> we were going
+     to have a fight but the "Yanks" commenced to shell out and we left the field in double quick
+     time Gen. Robinson in the front I could see the Yankees very <pb n="2" entity="garb6b" pid="uva-lib:503024"/>
+      plainly they were about 1 mile off they had a great deal more men
+     than we did I counted six Regiments of them all mounted. You asked me what company I had
+     joined, I have joined Capt C J O'Ferral's from Warren County V<hi rend="super">a</hi> he has
+     some very nice men in his company. I am <orig reg="carrying">carring</orig> the colors for the
+     Regiment it is not as much trouble as I thought it was at first they only trouble is I have is
+     I cannot manage my horse very well. by the way tell Pa to see Col Frank about them spurs tell
+     him I am very much in need of a pair I have but one and that is a very mean one. Col. Frank
+     promised to have me a pair made at <pb n="3" entity="garb6c" pid="uva-lib:503025"/>
+      the state shops. I have seen Ash &amp; Mike several times but
+     have not seen Ned but once and then I passed while he was marching and I was caring a dispatch
+     to Gen. Jackson so I could not have much talk with him he was looking very well, how is Sister
+     Seal I hope she is not very sick give my love to her and tell her I will write to her soon give
+     my love to Pa, Ma Kate &amp; Nelly and all others who ask for me you must excuse me for not
+     writing <orig reg="sooner">soone</orig> but I have written a good many times and when I had
+     finished I would have to go some where and would put the letter in my pocket until it <pb n="4" entity="garb6d" pid="uva-lib:503026"/>
+      was spoiled it is getting dark so I must stop I have to go 9 miles
+     tonight so you must excuse me for not finishing this sheet.</p>
+
+    <closer>
+     <salute>Your Bro</salute>
+     <signed>Thos M Garber</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

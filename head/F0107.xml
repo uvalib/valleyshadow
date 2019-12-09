@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0107"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="F0107">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Lucius P. Mox to Jennie, April 27,
+                    1864</title>
+        <title type="sort">franklin county lucius p mox to jennie, april 27 1864</title>
+        <author>Mox, Lucius P. </author>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Sarah Richardson </name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Institute for Advanced Technology in the Humanities </publisher>
+                <publisher>University of Virginia </publisher>
+                <pubPlace>Charlottesville, Va. </pubPlace>
+                <idno type="VCDH">F0107 </idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1997 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved. </p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2 </p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1997 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1998">1998 </date>
+            <idno type="uva-pid">uva-lib:501248</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War </p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note> </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Lucius P. Mox to Jennie, April 27, 1864</title>
+            <title type="sort">franklin county lucius p mox to jennie, april 27 1864</title>
+            <author>Lucius P. Mox</author>
+            <respStmt>
+                            <resp> </resp>
+                            <name> </name>
+                        </respStmt>
+          </titleStmt>
+                    <publicationStmt>
+                        <publisher> </publisher>
+                        <pubPlace> </pubPlace>
+                        <date value=""> </date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p>Source copy consulted: Lucius P. Mox Papers, Archives of the U.S. Army
+                            Military History Institute, Carlisle Barracks, Pennsylvania.</p>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from U. S. Army Military History Institute, Carlisle Barracks, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1864-04-27">1864-04-27 </date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Troop Movement, Home Front, Women </term>
+                    <term>Regiment: 17th Pa. Cav. </term>
+                    <term>Company: B </term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value="2000">Summer 2000</date>
+                <respStmt>
+                    <resp/>
+                    <name>Amy Voorhees</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="F0107T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Mox describes recent troop movements and declares that he wants to get revenge on
+                    the rebels. He also says he wishes he could be home with Jennie.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Jennie</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1864-04-27">April 27th 1864</date>
+                        <name type="place">Camp Stoneman</name>
+                    </dateline>
+                    <salute>Dear Jennie</salute>
+                </opener>
+                <p>It has been so long since I heard from you but I believe I told you to direct
+                    your last to my Regiment so I could not expect to receive it here when I wrote
+                    last I expected to be sent to my <abbr expan="Regiment">Reg</abbr> - the next
+                    day but we were sent to Camp <unclear>Cadwalader</unclear> where we stayed until
+                    the 10<hi rend="super">th</hi> of April when we were sent to Alexandria and from
+                    there back to this place again we are encamped on a high bluff on the Maryland
+                    side of the Potomac and nearly half a mile from the river, we have a plain view
+                    of Alexandria, Fairfax, Arlington, Georgetown, Washington, the long bridge<pb
+                        n="2"/> and the navy yard besides almost innumerable camps on both sides of
+                    the river.</p>
+
+                <p>I have been well contented here and would be willing to stay till the close of
+                    the war but that is more than I have a right to expect we have everything <orig
+                        reg="very">verry</orig> nice we have good tents and shade trees planted
+                    among them, pretty uniforms and splended new Sabres as bright as steel can be
+                    made and several good Brass Bands playing every day with the booming of the big
+                    guns on the forts rendering this quite a military place, indeed, Jennie I am <hi
+                        rend="underline">quite</hi>
+                    <hi rend="underline">proud</hi> of my situation it is splendid. I just wish you
+                    could be here to see how nice soldiers can live there is a great contrast
+                    between this and what we will soon have to see. We will get our orders in a few
+                    days and when they are drilled we will go "to fill the vacant ranks of our
+                    brothers gone before."<pb n="3"/></p>
+
+                <p>I must confess I was a little sorry to leave Philadelphia it is the best place I
+                    ever found <hi rend="underline">in</hi>
+                    <hi rend="underline">some</hi>
+                    <hi rend="underline">respects</hi>. I mean but there are some more <hi
+                        rend="underline">virtuous</hi> places in the world (Sherman's dale for
+                    example) we are not bothered with many lady <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> about here but it is said that a brick building on a hill about
+                    two miles from here that was once the home of some <orig reg="aristocratic"
+                        >arristocratic</orig> rebel is now the residence of half a score of <orig
+                        reg="very">verry</orig> pretty young ladies: for my part I have not seen
+                    them so I will not pass my judgement upon them.</p>
+
+                <p>It is my business now to learn how to handle the instruments of death so that my
+                    life will not have to go as the price of my ignorance. I have a good sword and
+                    intend to make good use of it. The rebels have lately been commiting some
+                    horrible wholesale murders among our soldiers<pb n="4"/> and now "<hi
+                        rend="underline">revenge</hi>" shall be our motto. there <orig reg="are"
+                    >has</orig> more than forty thousand Yankee soldiers pass Washington this week
+                    and where they go there will be something down there has been an almost
+                    continual stream of soldiers crossing the long bridge for several days and they
+                    are not all over yet I think that from present appearances we will soon be able
+                    to write that lovely word <orig reg="peace">
+                        <hi rend="underline">pease</hi>
+                    </orig> with the heart blood of rebellion.</p>
+
+                <p>Now Jennie I hope you will excuse me for not being more interesting this time for
+                    I am a little inclined to be lazy this <orig reg="afternoon">after noon</orig>
+                    my tent mates are all out on guard and I am alone; the weather is very warm and
+                    the trees begin to look green. Indeed Jennie I really wished myself back in
+                    Perry County some of these pretty moonlit nights last week but I must quit and
+                    go to my supper. Give my love to all the rest of your family and believe me as
+                    ever</p>
+                <closer>
+
+                    <salute>Your affectionate friend, </salute>
+                    <signed>Lucius P. Mox<lb/>Camp Stoneman<lb/>1<hi rend="super">st</hi> Division
+                            2<hi rend="super">nd</hi> Brigade<lb/>Co. I 17<hi rend="super">th</hi>
+                        Pa Cav.<lb/>Washington </signed>
+                    <seg type="postscript">Tell me when you got the letters I sent you some time
+                        ago. L.P.M. </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

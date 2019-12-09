@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1023"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1023">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: John W. Jordan to John A.
+                    McDonnell, April 30, 1868</title>
+        <title type="sort">freedmens bureau records john w jordan to john a mcdonnell, april 30 1868</title>
+        <author>Jordan, John W.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1023</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500891</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: John W. Jordan to John A. McDonnell, April
+                            30, 1868</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records john w jordan to john a mcdonnell, april 30 1868</title>
+            <author>John W. Jordan</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 49.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1868-04-30">1868-04-30</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Employment/Labor, Race Relations, Legal System, Politics/Poiltical
+                        Attitudes, Community Values/Local Behavior, Education</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-05">May, 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1023T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Jordan files his first report as the Bureau's agent in Augusta and Highland
+                    counties. His initial observations reflect much of what Jackson reported in
+                    earlier reports, including the reluctance of freedmen to use the courts to
+                    settle claims against their employers. Jordan notes that there is surprisingly
+                    little drunkeness in his Division, and that the schools appear to be
+                    flourishing.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau of Refugees, Freedmen and Abandoned Lands,<lb/>Office 4th Division, 9th
+                    Sub-District, Virginia.
+                    <name type="recipient"><abbr expan="Captain">Capt</abbr>
+                        <abbr expan="John">Jno.</abbr> A. M<hi rend="super">c</hi>Donnell<lb/><abbr
+                            expan="Sub Assistant Commissioner">Sub Asst Comr</abbr><lb/><abbr
+                            expan="Bureau">B</abbr> of <abbr
+                            expan="Refugees, Freedmen and Abandoned Lands">R.F. &amp;
+                        A.L.</abbr><lb/>Winchester <abbr expan="Virginia">Va</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1868-04-30">April 30<hi rend="super">th</hi> 1868</date>
+                        <name type="place">Staunton, <abbr expan="Virginia">Va.</abbr></name>
+                    </dateline>
+                    <salute>
+                        <abbr expan="Captain">Capt</abbr>
+                    </salute>
+                </opener>
+
+                <p>In accordance with the requirements of Circular <abbr expan="Number">No.</abbr>
+                    VI from Head Quarters <abbr expan="Assistant Commissioner">Asst Comr</abbr>
+                    <abbr expan="Bureau of Refugees, Freedmen and Abandoned Lands">B of R.F.
+                        &amp; A.L.</abbr> Richmond <abbr expan="Virginia">Va.</abbr>
+                    <abbr expan="January">Jany</abbr> 29<hi rend="super">th</hi> 1866 I have the
+                    honor to report the following showing the condition of "Freedmen's" Affairs" in
+                    this above named Division at this date.</p>
+
+                <p>By reason of the fact that I have been here but a short time, and consequently
+                    not sufficiently acquainted with Freedmens affairs <hi rend="underline"
+                    >here</hi> to enable me to make satisfactory report this must necessarily be
+                    brief and confined to those facts only which have come under my personal <pb
+                        n="2"/>observation.</p>
+
+                <p>The Freedmen as a general thing seem to be employed and industrious and so far as
+                    my observations extend they seem anxious to secure honorable, permanent
+                    employment and no doubt would make much more rapid advancement in substantial
+                    prosperity than they do make if the same liberality characterized their
+                    employers treatment that is observable in the relations existing between the
+                    white employers and the white laborers. It is a remarkable fact that the white
+                    man expects to receive the labor of the colored man for about two-thirds of what
+                    he is willing to pay the white laborers for the same service.</p>
+
+                <p>The Colored people continue to rely upon the Bureau Officer for the settlement
+                    and adjudication of business between themselves as well as between the white and
+                    colored and seem to shrink from having their differences <pb n="3"/>settled by
+                    the Courts. This I think is attributable to the fact that the white man
+                    generally is not interested in the advancement of the freedmen and is not
+                    inclined to protect his interests or to do anything looking in the directions of
+                    a recognition of <hi rend="underline">their</hi> rights <orig reg="etc"
+                        >&amp;c</orig>.</p>
+
+                <p>Intemperance does not prevail to any serious extent amongst this class, in fact I
+                    am surprised to find such limited indulgence in strong drink when I remember
+                    that <orig reg="whiskey">whisky</orig> at least in this portion of the country
+                    is at any time within the reach of the poorest.</p>
+
+                <p>The colored people seem here to have an intelligent idea of their duties and
+                    relations to each other and daily show evidences of their appreciation of their
+                    new obligations and capacity to become a thrifty self-supporting and industrious
+                    population. They seem to <pb n="4"/>be <unclear>insensible</unclear> to the
+                    influences brought to bear upon them by which to poison their minds against
+                    Government and Government officers.</p>
+
+                <p>The School interests I am informed are in a flourishing condition and I am
+                    contemplating a tour through my Division for the purpose of developing this
+                    interest generally.</p>
+
+                <p>This report is necessarily brief by reason of the fact that I have only been here
+                    a few days, and am therefore unable to furnish a more extended statement.</p>
+
+                <closer>
+                    <salute>I am <abbr expan="Captain">Capt</abbr><lb/>Very Respectfully<lb/>Your
+                            <abbr expan="obedient">obt</abbr>
+                        <abbr expan="servant">servt</abbr></salute>
+                    <signed><abbr expan="John">Jno</abbr> W. Jordan<lb/><abbr
+                            expan="Assistant Sub Assistant Commissioner">A.S.A.Comr</abbr><lb/><abbr
+                            expan="Bureau of Refugees, Freedmen and Abandoned Lands">B of R.F.
+                            &amp; A.L.</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

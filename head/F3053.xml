@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+
+<?dlps id="F3053"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="F3053">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Samuel Christy to Family, July 10, 1864</title>
+        <title type="sort">franklin county samuel christy to family, july 10 1864</title>
+        <author>Christy, Samuel</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Murrell</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Murrell</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">F3053</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:501491</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Franklin County: Samuel Christy to Family, July 10, 1864</title>
+            <title level="m"/>
+            <title type="sort">franklin county samuel christy to family, july 10 1864</title>
+            <author>Samuel Christy</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>3 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Case File of Wesley Krunkleton, Approved Pension
+       Applications of Veterans Who Served in the Army and Navy Mainly in the Civil War and the War
+       with Spain, Record Group 15, National Archives and Records Administration, Washington,
+      D.C.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>We would like to thank Edwin S. Redkey, Lagrangeville, New York, for bringing these
+        letters to our attention.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1864-07-10">1864-07-10</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>African Americans, Family, Desertion/Leave</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001-07">July 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Murrell</name>
+        </respStmt>
+        <item>Proofread against original; corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="F3053T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Christy asks how the family is doing and says that there is talk of being allowed to return
+     home soon.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Family</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1864-07-10">July the 10 1864</date>
+      <name type="place">Morris Island S.C.</name>
+     </dateline>
+     <salute>My Dear <orig reg="friends">frends</orig></salute>
+    </opener>
+
+    <p>it is With the <orig reg="greatest">grates</orig> of <orig reg="pleasure">pleaser</orig> that
+     I take this opportunity to inform you that We <orig reg="are">ar</orig> all Well At present and
+     i hope <orig reg="these">thes</orig>
+     <orig reg="Few">Fu</orig>
+     <orig reg="lines">lins</orig> may find you all <orig reg="enjoying">in Joying</orig> the same
+     state of health <orig reg="they">thay</orig>
+     <orig reg="are">ar</orig> fighting all <orig reg="around">a round</orig> us But We Have not
+      <orig reg="been">bean</orig> fighting <orig reg="any">Enny</orig> since i Wrote to you <orig
+      reg="before">be Fore</orig> i hope i Will see you all <orig reg="Once">Wonce</orig> more <orig
+      reg="again">agane</orig> it is so <orig reg="Warm">Worm</orig> That We <orig reg="Can't">Cant</orig>
+     <orig reg="Hardly">Harty</orig> stand It We have not <orig reg="much">mutch</orig> to <orig
+      reg="Do">Due</orig> now <orig reg="there">thear</orig> is a <orig reg="great">grate</orig>
+     <unclear>tock</unclear> of us Coming Home soon now but i Can say How it Will Be yet but i Hope
+     it is so <orig reg="for">fore</orig> i Would like to see you a<del rend="none" hand="h1"/></p>
+
+    <p><orig reg="Dear">Dire</orig> Sister i Hope the Lord Will Soon Bring the Day That We shall
+     meet <orig reg="Again">A gane</orig> all the rest of the Boys is Well and send <orig
+      reg="their">thear</orig> love to you all <orig reg="please">pleas</orig> give my love to
+     Father and to Elizabeth And to all the rest of the <orig reg="Friends">Frends</orig> David and
+      <orig reg="George">Gorge</orig> is Well And sends <orig reg="their">thear</orig> love to you
+     all Give my love to <orig reg="Aunt">Ant</orig> mary and <orig reg="uncle">unkel</orig> Solomon
+     and to all the <orig reg="ladies">ladys</orig> and tell them to take Good Care of them
+      <unclear>sels</unclear> for i think i Will Be Home to <orig reg="See">Sea</orig> them Before
+     long <orig reg="please">pleas</orig> To Write Soon and let me <orig reg="know">now</orig> How
+      <unclear>tims</unclear> is <orig reg="about">a but</orig> Home i have not <orig reg="receive"
+      >reseve</orig>
+     <orig reg="no">now</orig>
+     <orig reg="answer">ancer</orig>
+     <orig reg="from">frum</orig> the last letter i Write When you Write <orig reg="again">a
+     gane</orig> i wish you Would let me <orig reg="know">now</orig> how <orig reg="uncle">unkel</orig>
+     <unclear>Antney</unclear> and His Wife is <orig reg="getting">giting</orig>
+     <orig reg="along">a long</orig> For i Has not <orig reg="heard">hird</orig>
+     <orig reg="from">frum</orig> Them since i left Home I often thought of Writing to Them and i
+     Did not <orig reg="know">now</orig>
+     <orig reg="Whether">Whither</orig>
+     <orig reg="they">thay</orig> Was living <orig reg="together">to Gether</orig> or not <orig
+      reg="please">pleas</orig> to Write Soon and let me <orig reg="know">now</orig>
+     <orig reg="Dear">Dire</orig> Sister i Would like to have your <orig reg="likeness"
+     >litnes</orig> to show to <orig reg="some">sum</orig> of my <orig reg="Comrades">Comrads</orig>
+     <orig reg="some">sum</orig> of the Boys has Rachel Mc<unclear>muling</unclear>
+     <orig reg="likeness">litnes</orig> and it is a pretty one well think i must bring my letter to
+     a Close this time <orig reg="nothing">nothen</orig> more at present but still </p>
+
+    <closer>
+     <salute>your affectionately Brother</salute>
+     <signed>Samuel A. Christey</signed>
+     <seg type="postscript"><orig reg="Direct">Derrect</orig> your letter to <orig reg="Morris"
+       >Moris</orig> Island South Carolina Co. J 54th Mass Regiment <name type="recipient">Mary J.
+        <orig reg="Demus">Demas</orig></name>
+     </seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

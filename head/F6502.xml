@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+
+<?dlps id="F6502"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="F6502">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Eliza R. Stouffer to Catherine and Amos Miller,
+     November 26, 1862</title>
+        <title type="sort">franklin county eliza r stouffer to catherine and amos miller, november 26 1862</title>
+        <author>Stouffer, Eliza R.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Edsel Burdge, Jr., Shippensburg, PA</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Jaime Henshaw</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">F6502</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:501630</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Franklin County: Eliza R. Stouffer to Catherine and Amos Miller, November 26, 1862</title>
+            <title level="m"/>
+            <title type="sort">franklin county eliza r stouffer to catherine and amos miller, november 26 1862</title>
+            <author>Eliza R. Stouffer</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>4 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: From the private collection of Margaret Binkley
+       DuVernet. Photocopies courtesy of the Reformed Mennonite Collection, Mennonite Historical
+       Association of the Cumberland Valley, Chambersburg, Pennsylvania.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>We would like to thank Edsel Burdge, Jr. of Shippensburg, PA, for bringing this letter to
+        our attention and for sharing with us his transcription.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from private collection</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1862-11-26">1862-11-26</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Home Front, Church/Religious Activity</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""> </date>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="F6502T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>In this letter to Catherine and Amos Miller, Eliza Stouffer describes the physical state of
+     those at home, a visit from Daniel Dash's family, and the importance of maintaining religious
+     faith.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+ 
+    <opener>
+     <dateline>
+      <date value="1862-11-26">Nov 26<hi rend="super">th</hi> 1862</date>
+      <name type="place">Chambersburg, Pa.</name>
+     </dateline>
+     <salute>Dear Children</salute>
+    </opener>
+
+    <p>After a long silence on my part, <orig reg="although">altho</orig> not through forgetfulness
+     as my mind has been often with you and would much rather speak to you, face to face then write,
+     but must at this time be content and thankful, for this <orig reg="privilege"
+     >previledge</orig>, We are all pretty well, with a few small ailments, Papa I think is in a
+     better way now than he has been for over a month, he could not get any thing to relieve him of
+     diarrhea, since Sunday he has taken <del hand="h1">taken</del> spirits of turpentine and it
+     made a change directly, so that we Think he will soon be quite well again Amos has a sore <orig
+      reg="carbuncle">carbencle</orig> on his Knee, so that, he walks quite lame, did not grind last
+     night, &amp; Emma has a sore finger something like fellon. Our men are thrashing with the
+     separater, The girls are washing, I just finished soap boiling had a big job of it. got nice
+     soap, (I feel pretty tired) Brother Martin <pb n="2"/>Hoover stopped with us, on monday took
+     dinner here, said you were all well, but Mother Miller, was not so well, hope she is well again
+     said he enjoyed his visit very much felt strenghened in Spirit, Our Neighbours and friends are
+     well as far as I Know, Abners too, he was just in, while I am writing, On Sunday John Frys were
+     here, we went with them to Joseph Ryders' Lizzie is quite well again, but looks pale her baby
+     is growing some, has not much suck for it, must feed it, In the evening <abbr expan="Daniel"
+      >Danl</abbr> Dashes family from <orig reg="Cincinnati">Cincinatie</orig> were here, they have
+     three children, had only the youngest one along, a little girl named Sallie, eight years old,
+     he looks well, and by all accounts is doing well Elizabeth Dash was also along, she said Molly
+     Laufman was very poorly, I thought I would go up to see her as soon as I get time, Phillip
+     Hoover was here on saturday evening for a few chickens, he is well, and looks hardy, yesterday
+     some of the Cumberland County men passed here (Several hundred) to Gettysburg<pb n="3"/> our
+     men said Phillip, was not along they were all from the lower end of Cumberland Co It is pretty
+     quiet now, about the rebels coming over here, last week, every few days there were new reports
+     of their coming, Uncle Daniel &amp; Jacob Lehman were down at <orig reg="Shippensburg"
+      >Shippenburg</orig> last Sunday the meeting was there, this Sunday coming it is at our
+     Schoolhouse, now I have written all that I can think of that might interest, and perhaps more,</p>
+
+    <p>will close but yet say a few words more concerning our eternal welfare which is of far more
+     value than all these passing events, Yet when I look to myself I have very little to say, and
+     feel that I need to be <orig reg="admonished">admonishd</orig> myself, rather than to admonish
+     others, and all the encouragement, I have for myself &amp; others is to be given up
+     rightly, and to be humble and nothing in our own estimation, So that Gods Spirit may work and
+     dictate for us<pb n="4"/> poor short sighted creatures, Oh that we might be given up as tools
+     in the Lords hands, and not choose for ourselves, For we must so often see that ours ways are
+     not his ways,</p>
+
+    <p>and we must acknowledge, when all goes according to the desires of the flesh that the Inner
+     man is weakened and the soul suffers loss, Oh when we look at the reality of our being here and
+     the uncertainty of things belonging to this life should we not be willing to forsake our all,
+     and alone cling to him who is mighty &amp; powerful, to save to the uttermost if we put our
+     trust in him, and why should we not, when there is no other to save from utter distruction,</p>
+
+    <p>No more at present, ever remaining your Mother</p>
+
+    <closer>
+     <salute>My love to you all Let us ever remember each other at the throne of grace</salute>
+     <signed/>
+     <seg type="postscript">
+      <name type="recipient">A &amp; C Miller</name>
+     </seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

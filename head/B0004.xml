@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+
+<?dlps id="B0004"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="B0004">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: R. M. Manly to Roswell
+                    Waldo, October 28, 1868</title>
+        <title type="sort">freedmens bureau records r m manly to roswell waldo, october 28 1868</title>
+        <author>Manly, R. M.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>HIUS 403 Students</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Peter Brownfeld</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B0004</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 1999, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:500369</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedman's Bureau Records: R. M. Manly to Roswell Waldo, October 28,
+                            1868.</title>
+            <title level="m"/>
+            <title type="sort">freedmans bureau records r m manly to roswell waldo, october 28 1868</title>
+            <author>R. M. Manly</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Bureau of Refugees, Freedmen, and
+                            Abandoned Lands, Record Group 105, Box E4269</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1868-10-28">1868-10-28</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Church/Religious Activity, Education</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2003-08">August 2003</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B0004T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>R. M. Manly asks Waldo to notify a Methodist congregation that while they can use
+                    their building for religious worship, the school that also uses the building
+                    must remain non-denominational.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau Refugees, Freedmen, and Abandoned Lands,<lb/>Office Superintendent of
+                    Education, District of Virginia,
+                    <name type="recipient">Roswell Waldo<lb/><abbr expan="Assistant">Asst.</abbr>
+                        Sub <abbr expan="Assistant">Asst.</abbr>
+                        <abbr expan="Commissioner">Com'r</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1868-10-28"><abbr expan="October">Oct.</abbr> 28 1868.</date>
+                        <name type="place">Richmond, <abbr expan="Virginia">Va.</abbr>,</name>
+                    </dateline>
+                    <salute>Dear Sir:</salute>
+                </opener>
+
+                <p>I am directed by the <abbr expan="Assistant">Asst.</abbr>
+                    <abbr expan="Commissioner">com'r</abbr> to write to you in reference to the
+                    school at Waynesboro, referred to by you in your communication to <abbr
+                        expan="Captain">Capt.</abbr> McDonnell of the 20th inst.</p>
+
+                <p>Referring to the original application of <abbr expan="Reverend">Rev.</abbr>
+                    <abbr expan="William">Wm.</abbr> C. Echols for aid in erecting that house I find
+                    that he expressly states, in so many words, that the building would be used as a
+                    house of worship for his church and as a school house "<hi rend="underline">for
+                        all children without distinction of sect</hi>." On these terms the grant of
+                    $150 was made. It appears therefore that the Methodist Church has the right <add
+                        hand="h1" place="inline">to</add> the use of the house for Religious worship
+                    and that the <hi rend="underline">Public has the right to it for school
+                    purposes</hi>. Please inform the church of this fact, and <del hand="h1"
+                    >inform</del> say to them that <add hand="h1" place="inline">the</add> Bureau
+                    expects they will do themselves no discredit and their people no harm by trying
+                    to make the school in any way denominational. Baptist and Methodist churches
+                    have in many instances been aided in precisely the above manner. </p>
+
+                <closer>
+                    <salute>Very <abbr expan="Respectfully">Respy</abbr></salute>
+                    <signed>R M Manly <abbr expan="Superintendent of Education">Sup. Ed.</abbr>
+                    </signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

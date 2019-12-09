@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2989"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A2989">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: William F. Brand to Amanda C. Armentrout,
+                    September 22, 1864</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta william f brand to amanda c armentrout, september 22 1864</title>
+        <author>Brand, William F.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Mary Elizabeth McCaskill</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">9</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A2989</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502159</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: William F. Brand to Amanda C. Armentrout, September 22, 1864</title>
+            <title level="m"/>
+            <title type="sort">augusta william f brand to amanda c armentrout, september 22 1864</title>
+            <author>William F. Brand</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William F. Brand Papers</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1864-09-22">1864-09-22</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Battle Description, Dealth/Casualties, Patriotism, Troop Movement</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A2989T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>William writes to Kate about the recent battle at Winchester, the death of
+                    General Rhodes and others, and troop movements.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1864-09-22">Sept 22nd /64</date>
+                        <name type="place">In line of Battle at Fishers Hill</name>
+                    </dateline>
+                    <salute>Dear Kate</salute>
+                </opener>
+
+                <p>I <orig reg="received">recieved</orig> your highly appreciated letter of the
+                    13th; by Abe the 20th. You can not imagine with what <orig reg="anxiety"
+                    >angsity</orig> I <orig reg="perused">berused</orig>
+                    <orig reg="over">ove</orig> its contents to find out how that absent one was
+                    getting along. I hope this may still find your health improving &amp;
+                    enjoying many blessings My health is very good &amp; hope it may <orig
+                        reg="continue">contin</orig> so. On the 19th we had one of the hardest
+                    Battles that was ever fought around Winchester or in the Valley of Va. And the
+                    worst of all I <orig reg="have">hov</orig> to <orig reg="acknowledge"
+                    >acknowlege</orig> we <orig reg="were">ware</orig> badly <orig reg="whipped"
+                        >whiped</orig>. Many brave Southerners <add hand="h1" place="inline">bit the
+                        dust</add>
+                    <orig reg="there">thare</orig> in our noble cause. By the mercies of a great
+                    &amp; good God I am still spared I cannot be <orig reg="too">to</orig>
+                    <orig reg="thankful">thankfull</orig> for the many <orig reg="special"
+                    >speccial</orig> providences that has protected me thus far. His loving kindness
+                    has been very <orig reg="great">grate</orig> towards me &amp; my prayer is
+                    that I may so walk as becometh one of his true followers. Our <abbr
+                        expan="Company">Comp</abbr> came out <pb n="2"/>very well I think, only one
+                    wounded, <abbr expan="William">Wm</abbr> Plunkett <orig reg="received"
+                    >recieved</orig> a flesh wound in the thigh, &amp; was lost in Winchester He
+                    was wounded just as we ware falling back into Winchester. Our defeat was I think
+                    caused by our Army being scattered. Our <orig reg="Division">Devision</orig> the
+                    day before went to <orig reg="Martinsburg">Martingsburg</orig>, <orig
+                        reg="driving">drving</orig> the Yankee <orig reg="Cavalry">cavelry</orig>
+                    from that <orig reg="place">plase</orig>. We fell back the same day to Bunkers
+                    Hill, twelve miles below Winchester &amp; <orig reg="Rhodes'">Roads</orig>
+                    Division was camped some ten miles below <orig reg="Winchester">Winchest</orig>
+                    &amp; before we could get to Winchester the other portion of the Army was
+                    nearly <orig reg="whipped">whipt</orig> &amp; at the same time <orig
+                        reg="they">thay</orig>
+                    <orig reg="were">ware</orig> trying to cut us of from Winchester. But we arrived
+                        <orig reg="there">thare</orig> in time to meet the <orig reg="heaviest"
+                        >heaveist</orig> onset of the Battle, &amp; succeeded in driving the
+                    enemy near a mile when <orig reg="every">evry</orig> thing lay quiet except
+                    skirmishing <orig reg="until">untill</orig> the middle of the <orig
+                        reg="evening">eavning</orig>. When the <orig reg="enemy's">enimies</orig>
+                    <orig reg="cavalry">cavelry</orig> drove our Cav. back <pb n="3"/>then making
+                    three or four desperate charges on the left flank of our lines driving them back
+                    in confusion which soon <orig reg="demoralized">demorolised</orig> the <orig
+                        reg="whole">hole</orig> army. We have to <orig reg="mourn">morn</orig> the
+                    loss of many brave men and officers. Maj. Gen. <orig reg="Rhodes">Roads</orig>
+                    was killed early in the <orig reg="engagement">engagment</orig> one among the
+                    best officers in our army Colonel Funk was mortally wounded through the bowels
+                    &amp; left at his home in Winchester I hope he may recover but it is <orig
+                        reg="doubtful">doubtfull</orig>. Maj. Newton was wounded in the ankle bone
+                    broken is on his way home. He acted very bravely in trying to rally the men. All
+                    say he <orig reg="covered">convered</orig> him self with glory. Capt J Bumgarner
+                    was killed also Lieut J. B. McGuffin My Cous, R. Brand was badly wounded one
+                    thigh broken the other a flesh wound had to leave him on the field his comp told
+                    me he <orig reg="begged">beged</orig> them to take him <orig reg="off">of</orig>
+                    the field, but the <orig reg="enemy">enimy</orig> was so close that they could
+                    not. All that tried to get off <orig reg="were">ware</orig> wounded &amp;
+                    killed but one <pb n="4"/>poor fellow I <orig reg="pity">pittie</orig> him
+                    &amp; hope he may be kindly cared for, Cous &amp; Koiner came out safe.
+                    We are now lying in line of Battle at Fishers Hill. Both <orig reg="cannon"
+                        >canon</orig> and musketry are loudly booming on our front. The <orig
+                        reg="enemy">enimy</orig> are trying to drive in our skirmishers. We may be
+                    closely engaged before two hours. We are strongly fortified &amp; have a
+                    commanding position I think by the blessing of God, we may be able to give them
+                    a sound thrashing I am fearful they may advance up the Page Valley &amp;
+                    cause us to fall back as we have only a small <orig reg="cavalry">cavelry</orig>
+                    force commanding it I hope you will not take the capture of Jake <orig reg="too"
+                        >to</orig> much to heart I <orig reg="can't">cant</orig> help but think he
+                    is not in as much danger as if he was <orig reg="here">hear</orig>. I hear the
+                    roar of <orig reg="cannon">canon</orig> now in the Page Valley. I was sorry that
+                    your cous, had a <orig reg="relapse">relaps</orig> of the fever hope she may
+                    soon recover her former health <orig reg="excuse">uxcuse</orig> me if I failed
+                    to answer anything in your letter I have not taken time to look over it May the
+                    blessing of a great &amp; good God be with you the news from yours as ever</p>
+
+                <closer>
+                    <salute>Good bye</salute>
+                    <signed/>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

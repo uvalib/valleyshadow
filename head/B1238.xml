@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1238"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1238">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: William J. Dews to O. O.
+                    Howard, May 20, 1866</title>
+        <title type="sort">freedmens bureau records william j dews to o o howard, may 20 1866</title>
+        <author>Dews, William J.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1238</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501086</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: William J. Dews to O. O. Howard, May 20,
+                            1866</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records william j dews to o o howard, may 20 1866</title>
+            <author>William J. Dews</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 13.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1866-05-20">1866-05-20</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Administration/Bureaucracy, Employment/Labor, Legal System, Patriotism,
+                        Politics/Political Attitudes</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-06">June 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+                <item>Item proofread against the original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1238T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Dews asks for remuneration for the services he has performed for the Bureau in
+                    Augusta County. His letter mentions his own loyalty to the Union cause, and the
+                    difficulties it has caused him. Dews actual position in Staunton, was as
+                    magistrate on the Freedmen's Courts, but attached endorsements to his letter
+                    indicate that he received very little money in fees from the court, and was paid
+                    by the Bureau at a clerk's salary.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Major General O Howard<lb/>Commissioner Bureau <abbr
+                            expan="Refugees,  Freedmen and Abandoned Lands">R.F. &amp; A.
+                        Lands</abbr><lb/>Washington, D.C.</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1866-05-20">May 20th 1866</date>
+                        <name type="place">Staunton, Augusta County, <abbr expan="Virginia">V<hi
+                            rend="super">a</hi>.</abbr></name>
+                    </dateline>
+                    <salute/>
+                </opener>
+
+                <p>I have the honor to respectfully request your attention to the following
+                    statement and request: Since the first of January of this year, I have been
+                    serving as agent on the part of the Freedmen, in the Bureau <abbr
+                        expan="Refugees, Freedmen">R.F.</abbr> &amp; <abbr expan="Abandoned"
+                    >A.</abbr> Lands, in this town. I consented to serve at the request of the <abbr
+                        expan="Assistant Superintendent">Asst. Supt.</abbr>, when it was not at all
+                    probable that another person could have been induced to occupy the position,
+                    owing to the noted disloyalty of the Citizens, and the prejudice existing
+                    against the <orig reg="existence">existance</orig> of the Bureau. I am a poor
+                    man and owing to the prejudice against me, on account of my known loyalty to the
+                    Government, and my connection with the Bureau, I have but exceedingly limited
+                    means to support myself.</p>
+
+                <p>Therefore I respectfully ask that you will use your influence and power, as Chief
+                    of the Bureau, with the view to accord to me remuneration, however moderate, for
+                    the service I have rendered to the Freedmen; every one of whom would cheerfully
+                    endorse this application if it was deemed necessary, and I do further assure you
+                    I should not have made this application but for my pecuniary embarrasment, as I
+                    served without expectation of pecuniary reward.</p>
+
+                <p>I am a returned refugee, an unconditional loyal man, and a Virginian. With
+                    reference to this application, allow me to refer you to Mr. F.S. Tukey, <abbr
+                        expan="Assistant Superintendent">Asst. Supt.</abbr> at this place.</p>
+
+                <closer>
+                    <salute>I am Sir, Your <abbr expan="obedient servant">obt. srvt.</abbr></salute>
+                    <signed>Wm J Dews</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

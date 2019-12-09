@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+
+<?dlps id="A7200"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]> 
+
+
+<TEI.2 id="A7200"> 
+<teiHeader type="migrated"> 
+
+    <fileDesc> 
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: E. Lawson to E. P. Smith, October 1, 1867</title>
+        <title type="sort">augusta county e lawson to e p smith, october 1 1867</title>
+        <author>Lawson, E.</author>
+        <editor/>
+        <respStmt> 
+          <resp>Creation of machine-readable version: </resp> 
+          <name>Bart Elmore</name> 
+          <resp>Conversion to TEI.2-conformant markup:</resp> 
+          <name>Bart Elmore</name> 
+        </respStmt>
+      </titleStmt> 
+
+      <extent>ca. 6.748 kilobytes </extent> 
+      <publicationStmt> 
+        <publisher>Virginia Center for Digital History</publisher> 
+        <pubPlace>Charlottesville, Virginia </pubPlace> 
+
+        <idno type="VCDH">A7200</idno> 
+
+        <!--
+<availability> 
+<p>Publicly accessible </p> 
+<p n="public">URL: http://valley.vcdh.virginia.edu/</p> 
+<p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the University of Virginia</p> 
+</availability>
+--> 
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date>
+        <idno type="uva-pid">uva-lib:500316</idno>
+      </publicationStmt> 
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt> 
+      <notesStmt>
+        <note/>
+      </notesStmt> 
+
+      <sourceDesc> 
+        <biblFull> 
+          <titleStmt>
+            <title>Augusta County: E. Lawson to E. P. Smith, October 1, 1867</title>
+            <title level="m"/>
+            <title type="sort">augusta county e lawson to e p smith, october 1 1867</title>
+            <author>E. Lawson</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt> 
+          <editionStmt>
+            <p/>
+          </editionStmt> 
+          <extent>3 pages</extent> 
+          <publicationStmt> 
+            <publisher/> 
+            <pubPlace/> 
+            <date value=""/> 
+            <idno type="callNo">Source copy consulted: E. Lawson to E. P. Smith, December 18, 1865, American Missionary Association Archives Collection, Microfilm 72, Alderman Library, University of Virginia, Charlottesville</idno>
+          </publicationStmt> 
+          <seriesStmt>
+            <p/>
+          </seriesStmt> 
+          <notesStmt>
+            <note/>
+          </notesStmt> 
+        </biblFull> 
+      </sourceDesc> 
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Alderman Library, University of Virginia</p>
+      </projectDesc>
+    </encodingDesc> 
+
+    <profileDesc> 
+      <creation>
+        <date value="1867-10-01">1867-10-01</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage> 
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass> 
+        <keywords> 
+          <term>African Americans, Education, Race Relations, Church/Religious Activity</term> 
+          <term>American Civil War</term>
+        </keywords> 
+      </textClass> 
+    </profileDesc> 
+
+    <revisionDesc> 
+      <change> 
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt> 
+        <item/> 
+      </change> 
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc> 
+  </teiHeader> 
+
+<text id="A7200T">
+<front id="d2">
+<div1 type="summary" id="d3">
+<p>Rev. E. Lawson, pastor of the Colored Methodist Episcopal Church in Staunton, begins this communication to AMA  administrator E. P. Smith by expressing his sadness over the removal of John Scott from his position with the AMA in Virginia.  The central purpose of Lawson's letter, however, is to explain why he and his congregation refused to allow the AMA to hold a school in the main body of their church.</p> 
+</div1> 
+
+</front> 
+
+<body id="d4">
+<div1 type="letter" id="d5">
+<head>
+<name type="recipient">Edw. P. Smith Esq.</name> 
+<name type="place">Staunton, Va.</name> 
+</head>
+
+<opener>
+<dateline>
+    <date value="1867-10-01">Oct 1<hi rend="super">st</hi>, 1867</date> 
+</dateline> 
+<salute>Dear Sir</salute> 
+</opener> 
+
+<p>Yours of the 26<hi rend="super">th</hi> <del rend="none" hand="h1"></del> is received and I am obliged to confess that not only myself but our entire colored population are much grieved at your decision and would most respectfully ask that you give our Petition serious thought and if possible reconsider your decision.  Mr Scott has a dear place in the hearts of all our people, and our hearts desire has been ever since he left here to have him returned, and it seems very hard to give him up.</p>
+	<p>You say that you hope that we shall find our Teachers such as we shall <unclear>love</unclear> and that we shall work happily together.  In reply to this permit me to say that we have been notified by Mr. Brackett that we should have no School here this Winter--simply because we have declined to allow the Schools to be held in the body of our new Church which we have just completed and which is plastered throughout, and to allow the School to go into it would ruin it in a very short time.  but we have a basement room 30 x 30 which was finished off on purpose for a<pb n="2"/> School room which we have ever been ready to throw open <hi rend="underline">free</hi> of all charge--but Mr. Brackett and the Teachers all refused to occupy this room as long as the free School was in session, and hired a room for which they paid $250 per year, but at the close of the session and when they found that neither the Association or Bureau would rent buildings for them they came back to us and wanted our basement in which to open a pay School, which we granted free of rent and in which they have been teaching for the last three months.</p>
+	<p>We have always endeavored to cooperate heartily with our Teachers and have great reason to be thankful to your Association for the aid we have received from you to educate our Children, but we confess that we did think that if the basement was good enough to teach a pay School in it is good enough to teach a free one in.  It is certainly a very comfortable room and far superior in all respects to the one which has been used for the last two Winters.  We have no disposition whatever to find fault but we do most earnestly pray that you will , before allowing our Schools to be cut off, give our case a fair investigation.  The most of our people here are Methodists, yet<pb n="3"/> there a good many of other denominations, but our Church is the only one that has ever had any place prepared for Schools and our doors here have been open free to all denominations. but we do not think it would be just to ourselves to allow the Schools to be held in the body of our house which we have just completed at so much cost and sacrifice, when we have ample room in the basement.</p>
+
+<p>Hoping to hear from you and learn that you have granted our humble Petition.
+</p>
+
+
+<closer>
+<salute>I am vey respectfully<lb/> Your Brother</salute> 
+<signed>E. Lawson<lb/>  preacher incharge</signed> 
+<seg type="postscript">P.S.<lb/> At a meeting of the Colored people held here on the 23 <del rend="none" hand="h1"></del> it was unanimously voted to petition your Association for Mr Scott's return.  E. L.</seg> 
+ 
+</closer> 
+</div1> 
+</body> 
+</text> 
+</TEI.2>

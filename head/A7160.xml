@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+
+<?dlps id="A7160"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]> 
+
+
+
+<TEI.2 id="A7160"> 
+<teiHeader type="migrated"> 
+
+    <fileDesc> 
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: John Scott to Henry Ward Beecher, May 5, 1869</title>
+        <title type="sort">augusta county john scott to henry ward beecher, may 5 1869</title>
+        <author>Scott, John</author>
+        <editor/>
+        <respStmt> 
+          <resp>Creation of machine-readable version: </resp> 
+          <name>Bart Elmore</name> 
+          <resp>Conversion to TEI.2-conformant markup:</resp> 
+          <name>Bart Elmore</name> 
+        </respStmt>
+      </titleStmt> 
+
+      <extent>ca. 7.096 kilobytes </extent> 
+      <publicationStmt> 
+        <publisher>Virginia Center for Digital History</publisher> 
+        <pubPlace>Charlottesville, Virginia </pubPlace> 
+
+        <idno type="VCDH">A7160</idno> 
+
+        <!--
+<availability> 
+<p>Publicly accessible </p> 
+<p n="public">URL: http://valley.vcdh.virginia.edu/</p> 
+<p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the University of Virginia</p> 
+</availability>
+--> 
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date>
+        <idno type="uva-pid">uva-lib:500276</idno>
+      </publicationStmt> 
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt> 
+      <notesStmt>
+        <note/>
+      </notesStmt> 
+
+      <sourceDesc> 
+        <biblFull> 
+          <titleStmt>
+            <title>Augusta County: John Scott to Henry Ward Beecher, May 5, 1869</title>
+            <title level="m"/>
+            <title type="sort">augusta county john scott to henry ward beecher, may 5 1869</title>
+            <author>John Scott</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt> 
+          <editionStmt>
+            <p/>
+          </editionStmt> 
+          <extent>3 pages</extent> 
+          <publicationStmt> 
+            <publisher/> 
+            <pubPlace/> 
+            <date value=""/> 
+            <idno type="callNo">Source copy consulted: John Scott to Henry Ward Beecher, May 5, 1869, American Missionary Association Archives Collection, Microfilm 72, Alderman Library, University of Virginia, Charlottesville</idno>
+          </publicationStmt> 
+          <seriesStmt>
+            <p/>
+          </seriesStmt> 
+          <notesStmt>
+            <note/>
+          </notesStmt> 
+        </biblFull> 
+      </sourceDesc> 
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Alderman Library, University of Virginia</p>
+      </projectDesc>
+    </encodingDesc> 
+
+    <profileDesc> 
+      <creation>
+        <date value="1869-05-05">1869-05-05</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage> 
+      <textClass> 
+        <keywords> 
+          <term>African Americans, Education, Church/Religious Activity</term> 
+          <term>American Civil War</term>
+        </keywords> 
+      </textClass> 
+    </profileDesc> 
+
+    <revisionDesc> 
+      <change> 
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt> 
+        <item/> 
+      </change> 
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc> 
+  </teiHeader> 
+
+<text id="A7160T">
+<front id="d2">
+<div1 type="summary" id="d3">
+<p>In a letter to Henry Ward Beecher, Scott explains the financial hardships that the colored Baptist church faces in Staunton and requests assistance.</p> 
+</div1> 
+<div1 type="figure" id="d4">
+<p>American Missionary Association letterhead</p> 
+</div1> 
+
+</front> 
+
+<body id="d5">
+<div1 type="letter" id="d6">
+<head>
+<name type="recipient">Rev Henry Ward Beecher</name> 
+<name type="place">Mission Home, Staunton Va</name> 
+</head>
+
+<opener>
+<dateline>
+    <date value="1869-05-05">May 5<hi rend="super">th</hi> 1869</date> 
+</dateline> 
+<salute>Dear Sir</salute> 
+</opener> 
+
+<p>I am requested by the pastor of the colored Baptist Church in this city, to make a statement of the wants of his people, in regard to a <hi rend="underline">House</hi> of <hi rend="underline">Worship</hi>.  And having been located at this place during the past year as missionary to the freedmen under the above Association, I am acquanited  with their condition and feel it my duty to aid them if I can.</p>
+	<p>The membership in this church numbers about 150, and the only place which they occupy as a church is a small log house, containing two rooms each nearly twelve feet square.</p>
+	<p>A large part of the congregation are of course obliged to remain at home or attend other churches  I meet with the Sabbath School nearly every Sabbath and there are always nearly as many about the door outside as in the building--to say nothing of those who know they can't get in if they come, and so don't come.  Even this hut they rent, of a man whose love for religion and negroes, is not sufficiently strong to make it certain that they can keep it for any great length of time</p>
+	<p>Their colored Methodist brethren have joined with them in purchasing a lot for a cemetery.  The cost of burying in the grounds of the whites was so much, that the friends of the deceased<pb n="2"/> often found it next to impossible to raise the money to bury their dead</p>
+	<p>The ground cost $12 00, and is to be paid for within a year.  With these obligations and wants and struggling for daily bread, these people are making a vigorous effort to build a church.</p>
+	<p>They have bought a good lot, for which they owe now about $400--having already without aid paid about one third the price for it.  They wisely plan not to put up the building until the ground is paid for, and for this they desire aid</p>
+	<p>They have also paid $400 unaided on the timber and there is about $150 now due.  During the past winter the timber has been drawn to the lot and piled, and is now waiting the carpenter  The building is to be about 40X70, and to contain a basement for a <hi rend="underline">school-room</hi>.  Nothing could be needed more</p>
+	<p>Last winter as Superintendent of schools I had to use my utmost endeavor to prevent the Methodists from turning the children of the Baptist denomination out of doors, not from any animosity but for want of room; and in order to accomplish this, three teachers, and 160 pupils were obliged to perform their school duties, in the same room, and that only about 35 ft square  It was too fatiguing to be repeated another year, and the erection of this building seems therefore as essential to the education of the children as to the religious instruction and worship of the people.</p>
+	<p>Relying upon God, their own energies, and the aid of the beneficent, they hope before winter comes again to accomplish their object.</p>
+	<p>There is some indication that they will receive some<pb n="3"/> aid from a Western church, but they will still need some 300 for the present purpose.  One half or even one third would, however greatly aid them, and without that aid, it is clear they can not carry on their work  I do not know that I ever knew a more urgent case of this kind.</p>
+
+<closer>
+<salute>Very Respectfully</salute> 
+<signed>John Scott</signed> 
+<seg type="postscript">Should money be sent (from your Church) it may be left with W. E. Whiting (Treasurer) American Missionary Association 53 John St N. Y.--for--Rev Henry Dickenson<lb/> Pastor Colored Baptist Church<lb/> Box 85 Staunton Va.<lb/>
+-- or it may be sent by check direct to Rev Henry Dickenson<lb/> Pastor Colored Baptist Church<lb/> Box 85 Staunton Va.
+</seg> 
+ 
+</closer> 
+</div1> 
+</body> 
+</text> 
+</TEI.2>

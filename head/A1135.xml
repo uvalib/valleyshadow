@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+
+<?dlps id="A1135"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A1135">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: John Wesley Armsworthy to E. J.
+                    Armsworthy, June 25, 1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county john wesley armsworthy to e j armsworthy, june 25 1863</title>
+        <author>Armsworthy, John Wesley</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Matt Speiser</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Matt Speiser</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A1135</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501937</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: John Wesley Armsworthy to E. J. Armsworthy, June 25,
+                            1863</title>
+            <title level="m"/>
+            <title type="sort">augusta county john wesley armsworthy to e j armsworthy, june 25 1863</title>
+            <author>John Wesley Armsworthy</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Originally provided by J. Bryant
+                            Smith, Jr Pt. Box 444 Mocksville, NC 27028</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from private collection</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1862-06-25">1862-06-25</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Family, Prisons/Prisoners, Troop Movement, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2005-07">July, 2005</date>
+                <respStmt>
+                    <resp/>
+                    <name>Kid W.</name>
+                </respStmt>
+                <item>Proofread against original.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A1135T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Armsworthy tells his wife about army life and specifically about recent
+                marching.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1863-06-25">June the 25th 1863</date>
+                        <name type="place"><orig reg="Staunton">Stanton</orig><abbr expan="Virginia">Va</abbr></name>
+                    </dateline>
+                    <salute>Dear Wife</salute>
+                </opener>
+
+                <p>I seat myself to drop you a few lines to let you know that I am well hoping these
+                    lines will come to hand in <orig reg="due">dew</orig> time &amp; find you
+                    all well. I am at <orig reg="Staunton">Stanton</orig>. Our <orig reg="Regiment"
+                        >Regment</orig> come from Winchester with 19 Hundred prisoners. We had a
+                    hard March from Winchester to <orig reg="Staunton">Stanton</orig>. It is 92
+                    miles they got on the cars for Richmond &amp; part of our <orig
+                        reg="Regiment">Regment</orig> went with them &amp; we are staying here
+                    till they come back. We will then start back to Winchester &amp; then on to
+                    Maryland I expect for our army is <orig reg="going">gong</orig> there now. There
+                    is prisoners coming our army is <orig reg="cutting">cuting</orig> a big swag at
+                    the present is the scale. <orig reg="Don't">Dont</orig> think we had a good time
+                    coming through the Valley. We could get milk &amp; butter, plenty milk, 5
+                    cents a quart &amp; butter 50 cents per pound. I spent money every day for
+                    mild. I cannot tell you how much was captured from the Yankees at Winchester
+                    &amp; <orig reg="Martinsburg">Martensburg</orig> but it was a great deal of
+                    property &amp; 5000 prisoners. I <orig reg="don't">dont</orig> know of <orig
+                        reg="anything">any thing</orig> strange to write that would <orig
+                        reg="interest">intrest</orig> you so I will close with but few lines. I have
+                    stood this March only my feet blister &amp; get very but they are getting
+                    better. I must close for the present hoping to see you this fall. Write soon
+                    &amp; Direct your letter as before. I may get them I have <abbr
+                        expan="received">Rec.</abbr> one letter from you since you heard I got back
+                    to my <orig reg="Regiment">Regment</orig>. I was glad to <orig reg="hear"
+                    >here</orig> you was all well.</p>
+
+                <closer>
+                    <salute>Your Husband far from home</salute>
+                    <signed><abbr expan="John Wesley">J. W.</abbr> Armsworthy</signed>
+                    <seg type="postscript">
+                        <name type="recipient">To E. J. Armsworthy</name>
+                    </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

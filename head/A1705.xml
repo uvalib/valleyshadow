@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+
+<?dlps id="A1705"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A1705">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: J. F. Coghill to Pappy, Ma and Mit,
+                    June 25, 1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county j f coghill to pappy, ma and mit june 25 1863</title>
+        <author>J. F. Coghill</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Ryan Fleenor</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Andrew Torget</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A1705</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501972</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: J. F. Coghill to Pappy, Ma and Mit, June 25, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta county j f coghill to pappy, ma and mit june 25 1863</title>
+            <author>J. F. Coghill</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 page</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: J. F. Coghill to "Pappy, Ma and
+                            Mit," Jonathan Fuller Coghill Papers, Southern Historical Collection,
+                            Special Collections, University of North Carolina</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Southern Historical Collection, Wilson Library, University of North Carolina</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1863-06-25">1863-06-25</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Battle Description, Camp Life, Death/Casualties, Family, Military
+                        Strategy, Patriotism, Troop Movement, State Government</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A1705T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>J. F. Coghill writes to his family about recent military movements and his
+                    experiences in the Confederate Army on the way to Maryland and Pennsylvania.
+                    Coghill comments directly on Chambersburg and the panic of the local citizens
+                    upon the arrival of Confederate troops.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1863-06-25">June the 25th 1863</date>
+                        <name type="place">Camp near Chambersburg Pennsylvania</name>
+                    </dateline>
+                    <salute>Dear Pappy Ma and Mit</salute>
+                </opener>
+
+                <p>I seat myself once more to write you a few more lines to let you know that I am
+                    well and <orig reg="hearty">harty</orig> and I hope that when those few lines
+                    reaches you they may find you all the same I haven't <orig reg="been writing"
+                        >writting</orig> to you all in a good while nor haven't heard from you since
+                    I left Culpepper and <orig reg="there">thare</orig> I wrote you a letter giving
+                    you all the news up to that time but after that time <orig reg="we">wee</orig>
+                    came very near having a fight <orig reg="there">thare</orig> but it turned out
+                    so see did not fight and then <orig reg="we">wee</orig> took up our line of
+                    march and marched to Berresville and <orig reg="there">thare</orig>
+                    <orig reg="we">wee</orig> found 1600 <orig reg="Yankees">Yankes</orig> and <orig
+                        reg="we">wee</orig> flanked <orig reg="there">their</orig> breastworks but
+                    when <orig reg="we">wee</orig> marched up to fight they <orig reg="were"
+                    >ware</orig> gone so <orig reg="we">wee</orig> did not get them but <orig
+                        reg="we">wee</orig> continued the march and <orig reg="we">wee</orig> soon
+                    got to Bunker's Hill <orig reg="where">whare</orig> General Jinkins had a fight
+                    killing two of the enemy and wounding 11 and took 16 prisioners and the Yankes
+                    wounded two of our men <orig reg="we">wee</orig> drove them to Martingsburg and
+                        <orig reg="we">wee</orig> rushed in <orig reg="there">there</orig> and run
+                    them out <orig reg="we">wee</orig> captured a piece of artillery and a good deal
+                    of provisions but they run so that <orig reg="we">wee</orig> did not get them so
+                    the next day <orig reg="we">wee</orig> marched and waded the Potomac and then we
+                    were in Williamsport Md and then <orig reg="we">wee</orig> came to Hagerstown
+                    and <orig reg="there">thare</orig>
+                    <orig reg="we">wee</orig> took up camp bud did not stay long <orig reg="there"
+                        >thare</orig> before <orig reg="we">wee</orig> started again and when <orig
+                        reg="we">wee</orig> got to Middleburg <orig reg="we">wee</orig>
+                    <orig reg="were">ware</orig> in Pennsylvania and the next town was named
+                    Greencastle and you may believe that the people was very near <orig reg="scared"
+                        >skerd</orig> to death but <orig reg="we">wee</orig> treated them with
+                    respect and yesterday <orig reg="we">wee</orig> marched through Chambersburg and
+                    it is a very nice place but in <orig reg="there">thare</orig> I found a good
+                    meny disbanded soldiers from the <orig reg="Yankee's">Yankes</orig> army the
+                    militia here is going to fight us I suppose but <orig reg="we">wee</orig> will
+                    not stop for them I <orig reg="reckoned">reckond</orig>
+                    <orig reg="we">wee</orig> will go to Harrisburg the capital of this state and
+                        <orig reg="there">thare</orig>
+                    <orig reg="we">wee</orig> will have to fight I guess but General Lee <orig
+                        reg="says">sais</orig> that he has got the <orig reg="Yankees">Yankes</orig>
+                    just <orig reg="where">whare</orig> he wants them it has been a grand move in
+                    our army Brother Fuller is gone out on skirmish so I have to close his letter.
+                        <abbr expan="Uncle">Un</abbr> Jimmy Stewart is well and and harty send <orig
+                        reg="word">werd</orig> to Aunt Mary that <abbr expan="Uncle">Un</abbr>
+                    Junuis is well and he has <abbr expan="not">n't</abbr> time to write. The
+                    militia is coming so I am in a hurry so you must excuse me for writing so bad. I
+                    will close for this time. Sister you must not be uneasy about us for we are all
+                    well and are doing well Give my love to all the friends. do write soon direct to
+                    Richmond</p>
+
+                <closer>
+                    <salute>from your brother</salute>
+                    <signed>J F Coghill</signed>
+                    <seg type="postscript">p.s. we must leave<lb/>[Note at bottom of transcription:
+                        "(This must have been finished by Grandpa's brother who was also in the
+                        army. There is a different handwriting at the end of the letter. Notice the
+                        wording of the letter also.)"]</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

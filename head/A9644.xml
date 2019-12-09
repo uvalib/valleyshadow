@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9644"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A9644">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: William Brand to Kate Armentrout, July 25,
+                    1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta william brand to kate armentrout, july 25 1862</title>
+        <author>Brand, William F.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Jaime Martinez</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A9644</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502806</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: William Brand to Kate Armentrout, July 25, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta william brand to kate armentrout, july 25 1862</title>
+            <author>William Brand</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William Brand Papers, Albert and
+                            Shirley Small Special Collections Library, University of Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1862-07-25">1862-07-25</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Church/Religious Activity, Desertion/Leave, Family</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2007-04-03">2007-04-03</date>
+                <respStmt>
+                    <resp>proofed</resp>
+                    <name>Josh Botts</name>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A9644T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>William sends Kate news of family and friends and mentions that his regiment
+                    finally has a chaplain. He also describes his unsuccessful trip to Augusta
+                    County to capture deserters, and clearly states his desire to marry Kate.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    9th letter<lb/>
+                    <name type="recipient">Miss Amanda C. Armentrout<lb/><orig reg="Greenville">Grenville</orig><lb/>Augusta County<lb/>Virginia</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1862-07-25">July 25th 1862</date>
+                        <name type="place"><orig reg="Camped">Campt</orig> Near Liberty Mills</name>
+                    </dateline>
+                    <salute>Dear Kate</salute>
+                </opener>
+
+                <p>I seat my self once more for the purpose of <orig reg="penning">pening</orig> you
+                    a <orig reg="few">fiew</orig> lines. I arrived safely in camp on the 21 and have
+                    been <orig reg="improving">improveing</orig> in health ever since. We have a
+                    very nice camp and the water is very good. Our <abbr expan="Company">Comp</abbr>
+                    numbers sixty odd at <orig reg="present">presant</orig>; more than we have had
+                        <orig reg="present">presant</orig> for some time past. I hope providence may
+                    smile on our armies and bless us with health. I found Brother John looking <orig
+                        reg="badly">badley</orig> again. I was fearful he was taking the fever but
+                    think he is somewhat better today. Charles has returned to the camp at last he
+                    was <pb n="2"/> to see grand ma. he says he had a <orig reg="great">grate</orig>
+                    deal of pleasure. I tried to shame him for treat<add hand="h1" place="inline"
+                        >ing</add> us all so <orig reg="badly">badley</orig> by not writing. he
+                    wrote home to day for the first time for the last six months I believe; We have
+                    to drill <orig reg="twice">twise</orig> a day. Mr. <abbr expan="Robert"
+                    >Robt</abbr> Taylor <orig reg="received">recieved</orig> his discharge to day
+                    being over thirty five years of age. he has been a good soldier and I am glad to
+                    see him get <orig reg="off">of</orig>
+                    <orig reg="honorably">honerably</orig>.</p>
+
+                <p>Our <abbr expan="Regiment">Regt.</abbr> has a Chaplain at last he is a Baptist
+                        <orig reg="there">thare</orig> was prayer meeting last night &amp; night
+                    before. I hope &amp; pray that his teachings may be a benefit to the <abbr
+                        expan="Regiment">Regt.</abbr> &amp; that many may give them selves over
+                    unto the true &amp; living God. Our Chaplains name is Wa<del hand="h1"
+                    >r</del>ters he is a very good preach<add hand="h1" place="inline">er</add>.</p>
+
+                <pb n="3"/>
+
+                <p>Well Kate I had a <orig reg="wonderful">wanderfull</orig> time <orig
+                        reg="Saturday">Sadurday</orig> night of the <unclear>19</unclear> hunting
+                    for deserters we all enjoyed our selves finely <orig reg="surrounding"
+                        >serrounding</orig> the houses &amp; charging <add hand="h1"
+                        place="inline">the</add> dogs. We arrested Frank Taylor &amp; brought
+                    him as far as Peter Hights; and left him in the charge of Isaac Vines &amp;
+                    George Hight <orig reg="until">untill</orig> I could go home &amp; return.
+                    About sun up he asked permission to go down to Mr Faubers, a half miles distant.
+                    Hight granted his request &amp; Vines went with him. He had not been <orig
+                        reg="there">thare</orig> long before he told Ike he wanted to go in <orig
+                        reg="another">annother</orig> room to see Mr Fauber who was sick Ike thought
+                    all was right &amp; let him go alone &amp; then he made his escape. Ike
+                    after looking around for him returned <orig reg="alone">aloan</orig>. I had been
+                    waiting nearly an hour. We all <orig reg="laughed">laughfed</orig> at Ike and
+                    told him he was a bad sentinel.</p>
+
+                <pb n="4"/>
+
+                <p>Well Kate I came away &amp; forgot my <orig reg="presents">presants</orig>
+                    but I hope and pray the day may not be very far distant when I may return
+                    &amp; <orig reg="receive">recieve</orig> from thee a richer &amp; nobler
+                    blessing thy hand &amp; heart. Oh dear Kate with out thee <orig reg="every"
+                        >evry</orig> thing would be dark &amp; dreary. I would rise up in the
+                    morning &amp; lie down at <add hand="h1" place="inline">night</add> with out
+                    having any one to whisper the breathings of a pure and <orig reg="humble"
+                    >umble</orig> heart. I must bring my letter to a close. Write soon. My prayer is
+                    that you may be <orig reg="blessed">blest</orig> with all the mercies of our
+                        <del rend="none" hand="h1"/> God.</p>
+
+                <closer>
+                    <salute>I remain your true and affectionate admirer</salute>
+                    <signed>W.F.B.</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

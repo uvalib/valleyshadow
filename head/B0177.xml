@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+
+<?dlps id="B0177"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B0177">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: J. N. Gentry to Frederick
+                    S. Tukey, September 14, 1867</title>
+        <title type="sort">freedmens bureau records j n gentry to frederick s tukey, september 14 1867</title>
+        <author>Gentry. J. N.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B0177</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500540</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: J. N. Gentry to Frederick S. Tukey,
+                            September 14, 1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records j n gentry to frederick s tukey, september 14 1867</title>
+            <author>J. N. Gentry</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Bureau of Refugees, Freedmen, and
+                            Abandoned Lands, Record Group 105, Box ****.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-09-24">1867-09-24</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Family, Property, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-05">May, 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B0177T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>J. N. Gentry writes to the Staunton Bureau Agent (although he addressed the
+                    letter to Frederick Tukey, Tukey had been replaced by Thomas Jackson in April
+                    1867), to state what he knows about a case in which two men claim to be married
+                    to the woman whom he employs.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Mr. Tukey<lb/>Staunton
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-09-24">24<hi rend="super">th</hi>
+                            <abbr expan="September">Sept</abbr> 1867</date>
+                        <name type="place">New Hope</name>
+                    </dateline>
+                    <salute>Dear Sir</salute>
+                </opener>
+
+                <p>Allen Rodes wishes me to write to you and state the circumstance concerning a
+                    matter that he will apply to you on and it is as follows as you will see by his
+                    papers in June 1866 he was Registered by <abbr expan="Lieutenant">Lt</abbr>
+                    Hooks as married to Ann Davis and has been living with her ever since and before
+                    as for some time as man and wife and on Sunday last a black man by the name of
+                    John <add hand="h1" place="inline">Cooper</add> came to my house (I having
+                    Allen's wife employed), and took his wife off claming her as his wife <del
+                        hand="h1">and</del> he having had her before as his wife but left her some
+                    six or seven years ago as I am informed and is now I understand claiming the
+                    property that Allen has gathered up since his marriage and will apply to you for
+                    an order for it and I think it nothing but fair that you should be informed on
+                        <orig reg="both">boath</orig> sides of the case before you act in the
+                    matter. I can say for Allen, as fair as I have <orig reg="seen">sean</orig> of
+                    him he is a <orig reg="truthful">truthfull</orig> honest man and will not state
+                        <orig reg="anything">any thing</orig> to you but what is true.</p>
+
+                <closer>
+                    <salute>Very Respectfully</salute>
+                    <signed>J. N. Gentry</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

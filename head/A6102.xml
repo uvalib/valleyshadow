@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+
+<?dlps id="A6102"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+<!ENTITY % MANUSCRIPT "INCLUDE">
+
+ 
+ <!ENTITY Smiley72 SYSTEM "uva-lib:503281" NDATA uvaHighRes> 
+ <!ENTITY Smiley72b SYSTEM "uva-lib:503282" NDATA uvaHighRes> 
+
+ ]>  
+  
+  
+<TEI.2 id="A6102">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Annie R. Berry to Thomas M. Smiley, [1861]</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county annie r berry to thomas m smiley, 1861</title>
+        <author>Berry, Annie R.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Alice McShane</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Jaime Henshaw</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A6102</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:503280</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Annie R. Berry to Thomas M. Smiley, [1861]</title>
+            <title level="m"/>
+            <title type="sort">augusta county annie r berry to thomas m smiley, 1861</title>
+            <author>Annie R. Berry</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>2 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Smiley Family Papers Accession #1807 Special
+       Collections Department, University of Virginia Library, Charlottesville, Virginia</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>An archivist or family member wrote "[1861]" at the top of the letter.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1861">1861</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Home Front, Enlistment, Patriotism</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001">Summer 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Jaime Henshaw</name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A6102T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>In this letter Annie R. Berry voices her opinion that everyone capable needs to fight against
+     the United States and sends her love to Thomas and several friends within his company.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <opener>
+     
+      <pb n="1"  entity="Smiley72" pid="uva-lib:503281"/>
+     
+     <dateline>
+      <date value="1861">Saturday <abbr expan="Morning">Morn</abbr></date>
+      <name type="place">At Home</name>
+     </dateline>
+     <salute>Cousin Thomas</salute>
+    </opener>
+
+    <p>As you have never written a line to me since you have been gone I will not have you say I
+     have never sent you a line How are you now? I hope if you have had the measles you have
+     recovered by this time You will <orig reg="please">pleas</orig> present my very best respects,
+      <orig reg="regards">regrards</orig> and love to Mr W.B. Olt. J. Lightner and J Inddarth with
+     many good wishes for them and yourself too I am sorry to see John Beard leave this morning; but
+     "tis time for every one to <unclear>be</unclear> up and doing and try and kill or drive those
+     rebels back that are now invading<pb n="2" entity="Smiley72b" pid="uva-lib:503282"/>
+     our soil I have nothing of importance to write as <unclear>
+      <abbr expan="Hannah">Han</abbr>
+     </unclear> has told you all the news. Give my love to Cousin Jimmie M<hi rend="super"
+     >c</hi>Cutchan and reserve a very <orig reg="large">lare</orig> portion for your own dear self.
+      <orig reg="Please">Plea</orig> write to me whenever you can.</p>
+
+    <closer>
+     <salute>From your attached Cousin</salute>
+     <signed>Annie R. Berry</signed>
+     <seg type="postscript">T. M. Smiley<lb/> Winchester<lb/> Virginia<lb/> Kindness of Ms
+     Hanger</seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

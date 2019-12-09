@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0664"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="F0664">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Samuel W. North to his brother,
+                    December 18, 1862</title>
+        <title type="sort">franklin county samuel w north to his brother, december 18 1862</title>
+        <author>North, Samuel W. </author>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Sally Henninger </name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Institute for Advanced Technology in the Humanities </publisher>
+                <publisher>University of Virginia </publisher>
+                <pubPlace>Charlottesville, Va. </pubPlace>
+                <idno type="VCDH">F0664</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1997 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved. </p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1997 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1997">1997 </date>
+            <idno type="uva-pid">uva-lib:501326</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War </p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note>
+                    <p>At least one page of the original is missing, starting after the first
+                    page.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Samuel W. North to His Father, December 18, 1862</title>
+            <title type="sort">franklin county samuel w north to his father, december 18 1862</title>
+            <author> </author>
+            <respStmt>
+                            <resp> </resp>
+                            <name> </name>
+                        </respStmt>
+          </titleStmt>
+                    <publicationStmt>
+                        <publisher> </publisher>
+                        <pubPlace> </pubPlace>
+                        <date value=""> </date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p>Source copy consulted: Samuel W. North Letters, Company C, 126th
+                            Pennsylvania Infantry, Civil War Miscellaneous Collection, Archives of
+                            the U.S. Military History Institute, Carlisle Barracks, Pennsylvania.
+                        </p>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from U. S. Army Military History Institute, Carlisle Barracks, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1862-12-18">1862-12-18 </date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Battle Description, Camp Life, Troop Movement</term>
+                    <term>Regiment: 126th Pa. </term>
+                    <term>Company: C </term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value="2000">Summer 2000</date>
+                <respStmt>
+                    <resp/>
+                    <name>Amy Voorhees</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="F0664T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>North discusses the fighting at Fredericksburg and gives a report of the dead
+                    there. He also mentions the pleasantries of camp life.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Brother</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1862-12-18">Dec 18<hi rend="super">th</hi> 1862 </date>
+                        <name type="place">Camp near <abbr expan="Fredericksburg">Fredksbg</abbr>
+                        </name>
+                    </dateline>
+                    <salute>Dear Brother </salute>
+                </opener>
+                <p>Yours of the 12<hi rend="super">th</hi> is at hand. I wrote a letter to mother in
+                        <orig reg="Fredericksburg">Fredricksburg</orig> on Sunday. it was just a
+                    scribble with a pencil it was to let her know that I was safe then. but I knew
+                    it was not all over for the shells were flying about pretty thick at the time.
+                    we were sitting behind a stone wall at a grave yard in charles st. <orig
+                        reg="yesterday">yester day</orig> I wrote to Sula but was in such a hurry
+                    that I could not write particulars. We have failed to drive the enemy from their
+                    entrenchments and have retired over on to this side of the river. on thursday
+                    morning we were ready to move. the bombardment commenced at daylight and we
+                    moved about the same time. we waited all day about a mile from the river. on
+                    friday morning we were moved out to our batteries on this side of the
+                    rappahannock but on Sat morning the troops commenced crossing and soon we heard
+                    the musketry mingle with the artillery it was most terrific. we crossed about
+                    three <orig reg="o'clock">oclock</orig> when we were going down this side the
+                    rebs threw shells at us but no one was hurt we crossed on the pontoon bridge and
+                    as soon as we were in town the artillery commenced <unclear>playing</unclear> at
+                    us but could not do us much damage as we were under the cover of the houses. the
+                    town was all ransacked books chairs and every kind of furniture <orig reg="were"
+                        >was</orig> lying in the Streets. we left our knapsacks in a store and moved
+                    out on the battlefield. We were moved out and drawn up in position in a meadow
+                    when a rebel officer on a white horse rode out in front of the fortifications
+                    and soon a cannon was<pb n="2"/>
+                    <del rend="none" hand="h1"/>
+                    <pb n="3"/> but we got back safe to our old camp and saved our knapsacks and
+                    tents most of us at least. I brought back all I took over and picked up a gum
+                    blanket. the streets were full of knapsacks as we came through Some of the boys
+                    got books and some other <unclear>things</unclear> Haze Boyd got <orig
+                        reg="Milton's">Miltons</orig> complete works lying in the Streets. there was
+                    abundance of flour fish pork and in short every thing but salt. the story of the
+                    South starving is all a Hoax. they had things just as plenty as we have at least
+                    in <orig reg="Fredericksburg">Fredricksburg</orig>. our soldiers helped
+                    themselves as well as they could there were some people living in the cellars
+                    Bruce and I went after water one night - it was not safe to go in daytime - when
+                    a lady came out of the house and asked us to get her some water. we filled her
+                    bucket and she said it would do till the next evening. I have heard of the
+                    horrors of the battle field but the reality is terrible. in the action and
+                        <unclear>existing</unclear> it is not realized but the thoughts and
+                    impressions seem to be <unclear>
+                        <orig reg="burned">burned</orig>
+                    </unclear> in my brain the still pale faces of the dead and the shrieks and
+                    groans of the wounded and dying, oh! it is <orig reg="awful">awfull</orig> I
+                    think our loss must be very severe I saw a great many dead men we could hardly
+                    step without tramping on them. I cannot praise our <abbr expan="Captain"
+                    >capt</abbr> too highly and the boys with but few exceptions did their duty
+                    nobly. I did not expect them to take that battery when we started but we tried.
+                    The Second Maine boys say we made the eleventh charge on it we failed but we
+                    done our duty it is said we lost nine commissioned killed and wounded in the
+                        <abbr expan="regiment">regt</abbr> and over one hundred men. I forgot to say
+                    that we heard of one of our missing boy - Fritz of the little cove he is in the
+                    hospital has been run over and is badly injured he makes Co. C.<hi rend="super"
+                        >s</hi> loss two killed and four badly wounded Capt Doebler of Co A is
+                    wounded in the arm. but I am sick and tired of this subject and have done now.
+                    Mother was anxious to know how we got along this cold weather we have a right
+                    cozy chimney and fire place in our tent and have made ourselves pretty
+                    comfortable and have not suffered any yet. Aunt Sade sent me a sleeping cap Aunt
+                    Kate sent Jacob one I want you to write often my love to all friends</p>
+
+                <closer>
+                    <salute>your brother </salute>
+                    <signed>S.W. North </signed>
+                    <seg type="postscript">tell pap that the other $27.00 are safe has not left here
+                        yet but it will be sent on Immediately tell him to write when he gets
+                    it</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

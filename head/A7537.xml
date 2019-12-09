@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+
+<?dlps id="A7537"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A7537">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: David H. Evans to Mary Anna Sibert,
+                    November 19, 1867</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county david h evans to mary anna sibert, november 19 1867</title>
+        <author>Evans, David H.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Andrew Witmer</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Andrew Witmer</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A7537</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502579</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: David H. Evans to Mary Anna Sibert, November 19, 1867</title>
+            <title level="m"/>
+            <title type="sort">augusta county david h evans to mary anna sibert, november 19 1867</title>
+            <author>David H. Evans</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: David H. Evans to Mary Anna
+                            Sibert, November 19, 1867, Evans-Sibert Family Papers, Accession 27770,
+                            Virginia State Library and Archives, Richmond, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Virginia State Library and Archives, Richmond, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-11-19">1867-11-19</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Family, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-12-29">December 29, 2004.</date>
+                <respStmt>
+                    <resp/>
+                    <name>Andre Fleche</name>
+                </respStmt>
+                <item>Proofread against original; changes made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A7537T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Evans expresses his passionate love for Sibert, continues their discussion about
+                    Christmas plans, and mentions the upcoming wedding of Sibert's sister.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Miss Mollie Sibert<lb/>Mount Solon<lb/>Augusta Co<lb/>Va</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-11-19">Nov 19th 1867</date>
+                        <name type="place">Staunton</name>
+                    </dateline>
+                    <salute>Miss Mollie</salute>
+                </opener>
+
+                <p>Your dear welcome letter of Friday came safely <del rend="none" hand="h1"/> from you <orig
+                        reg="another">a nother</orig> long week has <orig reg="passed">pased</orig>
+                    and a part of this a few more days and I will See your dear face if I live it
+                        <orig reg="seems">seames</orig> so long since I have seen you I can scarcely
+                        <orig reg="wait">wate</orig>
+                    <orig reg="until">untill</orig> Saturday comes Oh I do want to see you so much I
+                    love you with all my heart Soul I love you devotedly Oh I do love you I wish you
+                    could see my heart and read <orig reg="there">thear</orig> all I feel for you my
+                        <orig reg="sincere">sincer</orig> and unchanging affection for you. I think
+                    of you <orig reg="every">ever</orig> day of my life <orig reg="there"
+                    >thear</orig> is scarcely a hour that <orig reg="passes">pases</orig> over my<pb
+                        n="2"/>head that I <orig reg="don't">dont</orig> think of you.</p>
+
+                <p>I have not forgotten the invitation Rennie Extended to us to spend our Christmas
+                    with her we will <orig reg="certainly">sertanly</orig> go if we live &amp;
+                        <orig reg="nothing">nothin</orig> happens to prevent my Idea was to spend
+                    Christmas day with Rennie and start for Staunton the next day if it would <orig
+                        reg="suit">sute</orig> you we will make all <orig reg="arrangements"
+                        >rangement</orig> Saturday. Since I come home I heard that John Noon
+                    &amp; Miss Ada <unclear>are</unclear> to be Rennie's second
+                    <unclear>Waters</unclear> I like that <orig reg="arrangement">rangement</orig>
+                    very well. I ask John <orig reg="about">a bout</orig> it but he <orig
+                        reg="would">woud</orig>
+                    <orig reg="not">nt</orig> tell me if it was so or not. Magnus <abbr
+                        expan="received">Recd</abbr> a letter from your Pa last Saturday he was well
+                    he Stated in his letter that he would be in our City the first of this week
+                    Magnus &amp; your Ma are looking<pb n="3"/>for him <orig reg="today">to
+                    day</orig> he says he is very tired of the <orig reg="mountains"
+                    >Mountians</orig> I was over to see your Ma &amp; Ella Sunday your Ma is
+                    quite well but very anxious to get back home. Ella &amp; <orig reg="family"
+                        >famley</orig> are all well send love to you all give my love to Miss <del
+                        hand="h1"/> &amp; Ada I Send love and kiss to you I will be down
+                    Saturday if I live I love you with all my heart</p>
+
+                <p>God bless you goodbye</p>
+
+                <closer>
+                    <salute>Yours</salute>
+                    <signed>David H Evans</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

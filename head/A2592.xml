@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2592"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A2592">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Jedediah Hotchkiss to Nelson H. Hotchkiss,
+     January 24, 1864</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county jedediah hotchkiss to nelson h hotchkiss, january 24 1864</title>
+        <author>Hotchkiss, Jedediah</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Rider</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Rider</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A2592</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:502081</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Jedediah Hotchkiss to Nelson H. Hotchkiss, January 24, 1864</title>
+            <title level="m"/>
+            <title type="sort">augusta county jedediah hotchkiss to nelson h hotchkiss, january 24 1864</title>
+            <author>Jedediah Hotchkiss</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>1 page</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Jedediah Hotchkiss Collection, Reel 4, Manuscripts
+       Division, Library of Congress, Washington, D.C.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>The only original is a typed copy.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Congress, Washington, D. C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1864-01-24">1864-01-24</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Military Authority, Family, Women, Patriotism, African Americans, Slavery</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A2592T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Hotchkiss relates news from home to his brother, including information about the death of
+     their sister. He also discusses food prices, Confederate currency, and servant hiring.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Nelson H. Hotchkiss</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1864-01-24">Jan., 24th., 1864</date>
+      <name type="place">Home,</name>
+     </dateline>
+     <salute>My dear brother;-</salute>
+    </opener>
+
+    <p>I have not heard from you for a long time, <orig reg="though">tho'</orig> I have written, and
+     wrote last, but I know you expected me before now, and I was sure I should have been to see
+     you, but I am not my own master, as you very well know, for all of us in the army are entirely
+     subject to the wills of others. I got a furlough of 25 days the middle of December, and came
+     home and was constantly busy to provide for the wants of my family for the coming year,
+     intending to go back to your house, but the very day I got back to camp I was ordered to the
+     Valley for duty, and have my headquarters now in Staunton, though I shall spend most of my time
+     in the mountains.</p>
+    <p> But, oh my Brother, I have sad news to tell you, our sister Jenny is dead. She died after
+     the birth of a child that died also; thus we depart, one by one,- how sad the condition of our
+     poor parents, now living at the old home, by the bridge, to have one by one those that have
+     been their solace and support taken from them. Would God that we might be near to comfort them
+     in their declining years. It is a heavy blow, for Jenny was truly their only remaining
+     daughter. Heaven help them in their deep affliction.</p>
+    <p> Nancy McKune wrote to Sara, by flag of truce, and the letter came yesterday. She did not say
+     when Jenny died. Her daughter, Viola, is married to a <abbr expan="gentleman">gentm.</abbr> at
+     Port Jervis. Mrs. Comfort is very well. She says everything is <unclear>tight</unclear> and
+     people have hard times to get along.</p>
+    <p> I come out last night, go away in the morning. I have an office in Staunton; Breeze
+     Johnson's old office. If you can come over come there for the night. My men will be there if I
+     am not. I do not see that I can get the potatoes you bought for me, so you had better dispose
+     of them as best <pb n="2"/> you can, unless you can send us some to Staunton. It costs us a
+     great deal to live now, the currency has depreciated so much. I only look forward to the day
+     when it shall become worthless, then there will be an improvement. Independence must come
+     before long in spite of any impediments in currency, etc We must expect hard times, but we must
+     learn to endure them. My neighbors kindly sold me provisions at government prices, or I should
+     not have been able to support my family. We have 9 pigs, quite a windfull at such times as
+     these. Sara has been quite sick, had something like quinzy. She is not better. I sold the
+     animal I wanted you to keep to E. Geeing and bought another of Liehliter. Richard comes to us
+     the 15th of April. I shall feel much easier then, having some trusty one here. I got a girl of
+     Col Sterrett for Sara for $60. I hired William again for $300. Cy. wants you, if you come over,
+     to bring his things. He lives with Mr. Baylor, I think. Did you succeed in paying up your hire?
+     I shall try to come by your house when I return to the army if I can. I want to see you all
+     very much. Come over if you can and bring me 2 <abbr expan="bushels">bush.</abbr> of Sweet
+     Potatoes, dispose of the rest. Write to me to Staunton and let me know how you all are, and how
+     you are getting along.</p>
+    <p> My regards to Dr. Y. and family. </p>
+
+    <closer>
+     <salute>Your <abbr expan="Affectionate">Aff.</abbr> Brother,</salute>
+     <signed>Jed. Hotchkiss</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

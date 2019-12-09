@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+
+<?dlps id="B0001"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B0001">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: John W. Jordan to Ross C.
+                    Eakle, May 16, 1868</title>
+        <title type="sort">freedmens bureau records john w jordan to ross c eakle, may 16 1868</title>
+        <author>Jordan, John W.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>HIUS 403 Students</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Peter Brownfeld</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B0001</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 1999, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:500366</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: John W. Jordan to Ross C. Eakle, May 16,
+                            1868</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records john w jordan to ross c eakle, may 16 1868</title>
+            <author>John W. Jordan</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 page</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Bureau of Refugees, Freedmen, and
+                            Abandoned Lands, Record Group 105, Box E4269</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1868-05-16">1868-05-16</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Church/Religious Activity</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2003-08">August 2003</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B0001T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Jordan informs a congregation that they are to allow a group of freedmen to use
+                    their church for services, and asks them to not interfere.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Messrs Ross C. Eakle<lb/>And all whom it may
+                        concern<lb/>Mt. Sidney,<lb/>Augusta <abbr expan="County">Co</abbr>
+                        <abbr expan="Virginia">Va</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <address><addrLine>Bureau of Refugees, Freedmen, and Abandoned Lands,</addrLine><addrLine>Office 4th Division, 9th Sub-District, Virignia</addrLine></address>
+                        <date value="1868-05-16">May 16, 1868</date>
+                        <name type="place">Staunton, <abbr expan="Virginia">Va.</abbr>,</name>
+                    </dateline>
+                    <salute>
+                        <abbr expan="Gentlemen">Gent</abbr>
+                    </salute>
+                </opener>
+
+                <p>You are respectfully requested to give to the <abbr expan="Reverend">Rev.</abbr>
+                    Mr. King the use of the <abbr expan="Methodist Episcopal">M. E.</abbr> Church at
+                    the above named point for religious services on Sunday May 17, 1868 at 3:30 P.M.</p>
+
+                <p>It is earnestly hoped that no demonstrations will be made interfering with the
+                    peace and good order of the neighborhood tomorrow.</p>
+
+                <closer>
+                    <salute>Respectfully<lb/>Your <abbr expan="obedient">obd.</abbr>
+                        <abbr expan="servant">svt</abbr></salute>
+                    <signed><abbr expan="John">Jno</abbr> W. Jordan<lb/><abbr expan="Assistant">Asa</abbr>
+                        <abbr expan="Commissioner">Coms</abbr> &amp;c</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

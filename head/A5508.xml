@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+
+<?dlps id="A5508"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A5508">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: E.H. Wills to John Howard McCue,
+                    March 26, 1857</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county e h wills to john howard mccue, march 26 1857</title>
+        <author>Wills, E.H.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Virginia Center for Digital History Staff</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Amanda Mushal</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A5508</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502359</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: E.H. Wills to John Howard McCue, March 26, 1857</title>
+            <title level="m"/>
+            <title type="sort">augusta county e h wills to john howard mccue, march 26 1857</title>
+            <author>E.H. Wills</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: E.H. Wills to John Howard McCue,
+                            26 March 1857, McCue Family Papers, Accession Number 4406, Special
+                            Collections, Alderman Library, University of Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1857-03-26">1857-03-26</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Slavery, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A5508T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>E.H. Wills writes to her son John Howard McCue asking him to look for her slave
+                    Wilson, who has run away and may leave the immediate neighborhood.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1857-03-26">March 26<hi rend="super">th</hi><hi rend="underline">57</hi></date>
+                        <name type="place">Pleasant Grove</name>
+                    </dateline>
+                    <salute>Dear John</salute>
+                </opener>
+
+                <p>I write this evening, to inform you that Wilson has run off, and may possibly be
+                    about Staunton or somewhere in Augusta. There has been depradations committed
+                    here from time to time, and the overseer found out <orig reg="today">to
+                    day</orig> that several fine fat shoats had just been taken and wanted to know
+                    something about the disposition of them, and at dinner time told all the
+                    servants to go to the stable and he would have an examination; all went but
+                    Wilson, and we did not know what had become of him until we found he had broken
+                    open the cabin where his clothes were and taken them off. You know he is such a
+                    sly negro that he may have more in his head than we know of. You can have an eye
+                    to it, as he may attempt to go farther than this neighborhood</p>
+                <pb n="2"/>
+
+                <p>You know he was once taken up in Augusta and has so many acquaintances that he
+                    may be harbored without its being known that he <del hand="h1">has</del> run
+                    away, or <orig reg="perhaps">perhapse</orig> may aim for a free state. It is
+                    late and I must send this off <orig reg="tonight">to night</orig>. All are well
+                    and send love to you all. Write often.</p>
+
+                <closer>
+                    <salute>Your Mother</salute>
+                    <signed>E.H. Wills</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

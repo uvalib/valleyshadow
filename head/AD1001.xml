@@ -1,0 +1,2190 @@
+<?xml version="1.0"?>
+
+<?dlps id="AD1001"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+ 
+<TEI.2 id="AD1001">  
+<teiHeader type="migrated">  
+ 
+    <fileDesc>  
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Diary of Michael Reid Hanger (1861)</title>
+        <title type="sort">augusta county diary of michael reid hanger 1861</title>
+        <author>Hanger, Michael Reid </author>
+        <editor/>
+        <respStmt>  
+          <resp>Creation of machine-readable version: </resp>  
+          <name>Valley Staff</name>  
+          <resp>Conversion to TEI.2-conformant markup:</resp>  
+          <name>Amy Murrell</name>  
+        </respStmt>
+      </titleStmt>  
+ 
+      <extent>
+        <num type="kilobytes">ca. 132 kilobytes</num>
+      </extent>  
+      <publicationStmt>  
+        <publisher>Virginia Center for Digital History</publisher>  
+        <pubPlace>Charlottesville, Virginia </pubPlace>  
+ 
+        <idno type="VCDH">AD1001</idno>  
+ 
+        <!--
+<availability>  
+<p>Publicly accessible </p>  
+<p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>  
+<p>copyright 1998, by the Rector and Visitors of the University of Virginia</p>  
+</availability>
+-->  
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1998 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1998">1998</date>  
+        <idno type="uva-pid">uva-lib:500328</idno>
+      </publicationStmt>  
+      <seriesStmt> 
+        <p>Valley of the Shadow</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>  
+      <notesStmt>
+        <note/>
+      </notesStmt>  
+ 
+ 
+      <sourceDesc>   
+        <biblFull>  
+          <titleStmt>
+            <title>Diary of Michael Reid Hanger</title>
+            <title level="m"/>
+            <title type="sort">diary of michael reid hanger</title>
+            <author>Michael Reid Hanger</author>
+            <editor/>
+            <respStmt>
+              <resp>e.g. Translator</resp>
+              <name>Robert Driver</name>
+            </respStmt>
+          </titleStmt>  
+          <editionStmt> 
+            <p> </p> 
+          </editionStmt>  
+          <extent> pages</extent>  
+          <publicationStmt>  
+            <publisher> </publisher>  
+            <pubPlace> </pubPlace>  
+            <date value=""> </date>  
+            <idno type="callNo">Source copy consulted: Michael Reid Hanger Diary, Augusta County Historical Society, Staunton, Virginia</idno>  
+          </publicationStmt>  
+          <seriesStmt>
+            <p>Valley of the Shadow: Two Communities in the American Civil War</p>
+          </seriesStmt>  
+          <notesStmt> 
+            <note>
+              <p>Unless otherwise noted, all comments are Mr. Driver's.  We are 
+indebted to Ray and Cindy Ledgerwood of Pullman, Washington, for making this diary 
+available.  Harold Howard of Lynchburg, realizing it would be of local interest, sent us a 
+copy of this valuable manuscript.</p>
+            </note>
+          </notesStmt>  
+        </biblFull>  
+      </sourceDesc>  
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Augusta County Historical Society, Staunton, Virginia</p>
+      </projectDesc>
+    </encodingDesc>  
+ 
+    <profileDesc>  
+      <creation>
+        <dateRange from="1861-04-18" to="1861-10-30">1861-04-18 - 1861-10-30</dateRange>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>  
+      <textClass>  
+        <keywords>  
+          <term>
+Battle Description, Camp Life, Church/Religious Activity, Enlistment, Death/Casualties, 
+Prisons/Prisoners, Troop Movement, Women
+</term>  
+          <term>American Civil War</term>
+        </keywords>  
+      </textClass>  
+    </profileDesc>  
+ 
+    <revisionDesc>  
+      <change>  
+        <date value=""> </date>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>  
+        <item/>  
+      </change>  
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>  
+  </teiHeader>  
+ 
+<text id="AD1001T"> 
+ 
+<front id="d2"> 
+<div1 id="AD1001bio" type="bio"> 
+<head>Biography 
+<!-- <ref>AD1001bio</ref> -->
+</head> 
+
+<p>Michael Reid Hanger was born in Staunton, Virginia on May 10, 
+1840.  He worked as a carpenter in Lexington, Virginia, in 1860, and  
+enlisted there in the "Rockbridge Rifles" on April 18, 1861, in 
+response to Governor John Letcher's call for volunteers to defend 
+Virginia.  During the war the Rifles became part of the 4th and 5th
+Virginia Infantry.  In this diary Hanger describes in very detailed daily
+entries the movement of the Rifles in the Valley and in central Virginia.
+</p></div1> 
+ 
+<div1 id="AD1001int" type="introduction"> 
+<head type="main">Introduction 
+<!-- <ref>AD1001int</ref> -->
+</head> 
+
+
+ <!-- <ref>Church/Religious Activity, Enlistment</ref> --> 
+<p>The "Rifles," 103 strong, assembled in front of the courthouse in 
+Lexington on April 18th to be sworn in.  The new soldiers had drawn 
+their arms and equipment from the state arsenal at the V.M.I. </p> 
+ 
+<p>A reporter for the <hi rend="italic">Lexington Gazette</hi> described the 
+ceremony:</p> 
+ 
+<p>"When all was ready, after bidding adieu to friends and relatives, 
+the Rifles were formed in front of the Court House, where Rev. Mr. 
+Tebbs<ref n="1" target="hanger1">[1]</ref>and the venerable Dr. 
+McFarland<ref n="2" target="hanger2">[2]</ref>stood prepared to call 
+upon the Lords of Hosts for his protecting care under the trying 
+circumstances in which they were soon to be placed.  All heads were 
+uncovered while the men of God appealed to the God of battle, to bless 
+those who had left their wives and children, fathers and mothers, 
+brothers and sisters, to go forth in defense of rights bestowed upon 
+us by our fathers of the revolution, and to protect and defend them 
+from those who instigated by folly and wickedness, would deprive us of 
+our dearly prized institutions.  All hearts were softened, all eyes 
+were moistened by the tear of sorrow for the necessitation of the 
+case.  Every soldier was determined, if need be, to stand to the last, 
+and die in a cause so just and a service so honorable."</p> 
+ 
+<p>Another added:  "The pomp and circumstances of glorious war were 
+present when on that bright spring morning [this] company, with colors 
+flying and martial music, took up the line of march from Lexington to 
+Harpers Ferry.  His [Elisha F. Paxton's]<ref n="3" target="hanger3">[3]</ref>young wife 
+with sad forebodings, wept until her handkerchief was wet with tears.  In their last fond 
+embrace he took this from her hand and as a reminder of her love carried it on 
+many a bloody battlefield.</p> 
+ 
+<p>Cadet A. C. S. Greenwood wrote: ". . . the Rifle Company 
+started today at one o'clock they passed the institute and [we] 
+saluted them. . . ."</p> 
+ 
+<p>Young Hanger begins his diary: </p> 
+
+</div1> 
+</front> 
+ 
+<body id="d5"> 
+
+ 
+<div1 id="AD10011861" type="part" n="1861"> 
+<head>1861
+<!-- <ref>AD10011861</ref> -->
+</head> 
+ 
+<div2 type="section" n="1861-04" id="d7"> 
+<head>April 1861
+ <!-- <ref>Troop Movement, Women</ref> --> 
+</head> 
+ 
+<div3 type="entry" n="1861-04-18" id="d8"> 
+<head>the April 18 1861</head> 
+<p>We left Lexingtom at 1 oclock PM in stages [sic] - hacks - Waggons 
+We got to Fairfield at sunset I took supper at Mr. 
+McCormicks <ref n="4" target="hanger4">[4]</ref>went on to midway &amp;  
+there the whole Company got Supper at 9 PM Mr. Varner <ref n="5" target="hanger5">[5]</ref>[,] Marston 
+<ref n="6" target="hanger6">[6]</ref>[,] Middleton <ref n="7" target="hanger7">[7]</ref> &amp; 
+myself eat at Mr Dr Hameltons <ref n="8" target="hanger8">[8]</ref> then we preseeded to 
+Greensvill got there at 2 oclock AM.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-04-19" id="d9"> 
+<head>the April 19</head> 
+<p>we got to Staunton this morning put up at the Va House got 
+breakfast and Asbury McCluerer <ref n="9" target="hanger9">[9]</ref> &amp; my self went to see 
+some ladies came back at 10 oclock AM.  Wm. Hartigan <ref n="10"
+target="hanger10">[10]</ref> Samuel Charlton <ref n="11" target="hanger11">[11]</ref> &amp; 
+my self went and taken dinner at 
+Lieut Staffords <ref n="12" target="hanger12">[12]</ref> went 
+back to the Hotel and in A few moments we started out was Escorted out 
+of town with the band of musick &amp; we all got aboard of stages hacks 
+and prseeded to Mt Sidney got there at dark.   Sargent 
+Campbell <ref n="13" target="hanger13">[13]</ref>  John 
+Middleton  Marston  Reilly <ref n="14" target="hanger14">[14]</ref> &amp;  John Edmondson 
+<ref n="15" target="hanger15">[15]</ref> &amp; my self stayed at Mr. ______es the 
+rest stayed in different places.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-04-20" id="d10"> 
+<head>the April 20th</head> 
+<p>We left Mt Sidney this morning for Harrisonburg had quite a nice 
+time of it all day got to Mount Crawford at 12 AM the Rockbridge 
+Cavalry<ref n="16" target="hanger16">[16]</ref> was there I saw my 
+Brother John <ref n="17" target="hanger17">[17]</ref> &amp; many 
+others that I knew--we went on got to Harrisonburg at 4pm marched into 
+the Court House &amp; then we devided our for different places for to stay 
+all night Mr. Varner  Bailey <ref n="18" target="hanger18">[18]</ref>  Burtons <ref n="19"
+target="hanger19">[19]</ref> &amp; my self went to  Mr 
+Effingers <ref n="20" target="hanger20">[20]</ref> A wealthey merchant 
+and was treated verry kindley after supper Mr. Reilly &amp; 
+myself went to call upon some ladies we got Acquainted with two 
+Misses Vanpelts <ref n="21" target="hanger21">[21]</ref> and 
+Misses Smith <ref n="22" target="hanger22">[22]</ref> Mr. 
+Fonshill <ref n="23" target="hanger23">[23]</ref> came in and we had A 
+good time generally.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-04-21" id="d11"> 
+<head>April the 21st</head> 
+<p>Beautifull morning this Mr. Fonshill 
+Reilly &amp; myself went to take leave of our lady 
+Acquaintences they were so verry Agreeable that I hated verry much to 
+part with them though we bid them <hi rend="italic">Adieu</hi> and took the coach for 
+Mt Jackson <ref n="24" target="hanger24">[24]</ref></p> 
+ 
+<p>had a pleasant time all day Reached Mt Jackson at sun set 
+Mr. Tanquary <ref n="25" target="hanger25">[25]</ref> had made 
+arrangements for our staying all night.  We stayed in the ________ 
+[Mr. Farrah's and Mr. Walters] Hotels and had verry good 
+entertainment</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-04-22" id="d12"> 
+<head>April 22nd</head> 
+<p>At 8 o'clock this morning we took the Cars, and came on to 
+Strasburg for [from] here we walked to Winchester, a distance of 18 
+miles.  We here stoped at the Taylor House, and staid all night and in 
+morning took the Harpers Ferry and Winchester R.R..  Passed by edge of 
+Charlstown [sic], and came on to the Ferry.  We quartered in the 
+Armory, amongst machinery.  We remained here for a week or so, and 
+then went on the Maryland Heights, and staid 1 day and a night, and 
+got a pretty good ducking.  We then came back to the Armory, staid 
+there about 1 week, and then moved to Bolivar. staid there week or so, 
+and then went to Va Heights, we here knocked up some old shandies and 
+went to cutting down trees and cleaning up generally.  burning brush 
+&amp;c.  We cleared off about 30 acres of land and built one Block house. 
+We were in one of the greatest Hail storms I ever saw.  The stones 
+were as large as partridge eggs the ground was covered, an inch deep. 
+it cut our shanties down and left us in the storm.  We staid here 10 
+days and then came back to Bolivar.  The next place we went to was 
+Martinsburg on the B. &amp; O. R.R.  We had a glorious time here, though 
+it was a great Union place. the ladies sent us everything we could 
+wish, and presented us with thousands of Bouquets.  We spent a very 
+happy time here certain.  We were here about 1 week and started back 
+to Ferry, and burned a bridge (Opequon) on the B. &amp; O. R>R> about 2 
+1/2 miles from Martinsburg.  We came back to Bolivar, but didn't tarry 
+long.  We were in Martinsburg during election.  We were quartered in 
+Grantham Hall).  We again started and went to Shepherds-town, from 
+there to the Neck or (Shepherd's Bend,) about 5 miles from the town. 
+We saw some of the enemy, with red caps and blue uniform.  I shot at 
+one of them, and all say I certainly killed him.  We were quartered in 
+an old barn all night.  The next day we moved back about 1 mile to 
+Mr. Chapman's house.  I was then ordered to go on Picquet. to Dam No. 
+4.  We soon got orders to move.  We all came back to Shepherd's town 
+joined the Regt. [5th Va. Infantry] and that night.  came to 
+Charlestown.  about 11 o'clock that night, and camped in the 
+Fairgrounds.  Early the next morning we started to Wonchester, and got 
+there about 9 o'clock at night and camped in the Fairgrounds.  the 2nd 
+day we were ordered to march to Martinsburg, but hearing of the enemy 
+crossing the [Potomac] River, and overtaking Col. 
+Johnston<ref n="26" target="hanger26">[26]</ref> with 6 or 8 Regts at 
+Bunker's Hill.  we halted and there formed 1 line of battle.  As we 
+heard nothing of the enemy, we returned together with the other Regts 
+to Winchester.  We here staid all night, and the next eveneing started 
+again for Martinsburg.  We traveled that evening 14 miles, and as the 
+Companies were very much fatigued &amp; c, we camped for the night at 
+Bucklestown, alias, Darksville [Darkesville] 6 miles from 
+Martinsburg.  We camped all night out side the town a piece.  In the 
+morning came on through Martinsburg 4 miles below, on the road and 
+here camped (Camp Stevens)<ref n="27" target="hanger27">[27]</ref></p> 
+</div3> 
+</div2> 
+ 
+<div2 type="section" n="1861-06" id="d13"> 
+<head>June 1861
+ <!-- <ref>Camp Life, Church/Religious Activity, Troop Movement</ref> --> 
+</head> 
+ 
+<div3 type="entry" n="1861-06-23" id="d14"> 
+<head>Camp Stevens June 23rd Sunday 1861</head> 
+<p>Was to hear Rev Dr Pendleton <ref n="28" target="hanger28">[28]</ref> preach this 
+morning at his quarters, in the evening heard Rev Mr Goul <ref n="29" 
+target="hanger29">[29]</ref> preach at our quarters.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-06-24" id="d15"> 
+<head>June 24th Monday</head> 
+<p>Still here at Camp 4 miles from town.  We resumed Bat" [Battalion] 
+and Co" [Company] Drills this morning.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-06-25" id="d16"> 
+<head>June 25th Tuesday</head> 
+<p>Beautiful day.  Our baggage was sent to us from Winchester.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-06-26" id="d17"> 
+<head>June 26th Wednesday</head> 
+<p>Cloudy this morning, looks like rain.  Jim Holley is talking of 
+going home today.  5 o'clock, we had a considerable shower this 
+evening, and the wind blew very hard.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-06-27" id="d18"> 
+<head>June 27th Thursday</head> 
+<p>Fine morning.  One of Kirkpatrick's <ref n="30" target="hanger30">[30]</ref> men was 
+shot today, whilst on Pcquet 
+guard at the river.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-06-28" id="d19"> 
+<head>June 28th Friday</head> 
+<p>Had Battalion drill this morning as [usua[l] {corner torn} Fine 
+pleasent day.  Very warm.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-06-29" id="d20"> 
+<head>June 29th Saturday</head> 
+<p>There were only 15 men out on drill this morning at 10. o'clock.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-06-30" id="d21"> 
+<head>June 30th Sunday</head> 
+<p>No battalion drill this morning.  Cloudy this morning, looks like 
+rain.  Cleaned our guns this morning for Inspection.  11 o'clock it is 
+now raining right hard.  We have to lay in our blanket rag houses. 
+Pay roll was called this morning.</p> 
+</div3> 
+</div2> 
+ 
+<div2 type="section" n="1861-07" id="d22"> 
+<head>July 1861
+ <!-- <ref>Battle Description, Camp Life, Death/Casualties, Troop Movement</ref> --> 
+</head> 
+ 
+<div3 type="entry" n="1861-07-01" id="d23"> 
+<head>July 1st Monday</head> 
+<p>Still cloudy. and I think we will have more rain today.  Messrs 
+Laird <ref n="31" target="hanger31">[31]</ref> and 
+Bougher <ref n="32" target="hanger32">[32]</ref> got Furloughs to 
+go home to day until the 16th.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-02" id="d24"> 
+<head>July 2nd Tuesday</head> 
+<p>Whilst eating our breakfast this morning we received orders, to 
+pack up &amp;c. and be ready to move in 10 minutes.  The West Augusta 
+Guards<ref n="33" target="hanger33">[33]</ref> were put in front, our Co. 
+next, for skirmish.  When we got about 2 miles from Camp, we were 
+halted.  The Augusta Guards went crossed the fence, and demployed 
+along a fence running perpendicularly to the road.  Our regimnet (the 
+5th). Then formed into Platoons, and from platoons into a square 
+[picture of a square] in the road.  The fire was opened by the Augusta 
+guards, we (our Co) was then ordered to jump the fence and deploy a 
+long with and in rear of W. A. G.'s.  the remainder of the Regt. 
+pressed on in the road and commenced firing.  In deploying my three 
+Companions were McCampbell  
+<ref n="34" target="hanger34">[34]</ref>,  A. C. McClure,  
+<ref n="35" target="hanger35">[35]</ref>, and McCoun  
+<ref n="36" target="hanger36">[36]</ref>. we all kept up a constant firing.  In 
+a short time the enemy began to give way, running &amp;c.  We were still 
+firing into them, we advanced then fell back.  We repulsed them 3 
+times, at last they rallied their forces, and commenced to advance we 
+then gave way.   Capt. Pendleton then opened of one of his 
+6 pound cannon on them, but they still continued to advance, the 
+Artillery then also gave way, we retreated on back, to withn 3 miles 
+of Martinsburg, we here took our respective positions again to meet 
+them. but they didn't come on , and we got orders to move on again, So 
+we came on to martinsburg. and camped for the night at the big Spring 
+2 1/2 miles from town.  In our Co. only 2 were wounded.   Mr 
+McNamara <ref n="37" target="hanger37">[37]</ref>, who was shot in 
+left arm ball glanced and cut his breast considerably  Mr. Arthur 
+McCluer <ref n="38" target="hanger38">[38]</ref> got a slight wound on 
+the head from a spent grape shot, it is just a mere sckrah [scratch]. 
+In the W. A. G.s,  Jack Doyle  
+<ref n="39" target="hanger39">[39]</ref> received a slight wound from explosion 
+of a shell.  One of Capt. Doyl's  
+<ref n="40" target="hanger40">[40]</ref> men was killed, and one Continental 
+<ref n="41" target="hanger41">[41]</ref> under Capt. Avis  
+<ref n="42" target="hanger42">[42]</ref> from Winchester.  Balls flew in every 
+direction, the shell passed over our heads, and fell about 50 paces in 
+the rear and exploded, the balls were whiselling in the trees above us 
+in a hurry It is thought that the enemy numbered about 10,000. 
+against us of about 380 men.  Col. Jackson <ref n="43" target="hanger43">[43]</ref> says, 
+we did most capitally.  Stewarts 
+<ref n="44" target="hanger44">[44]</ref> Cavalry brought in 40 prisoners 
+this morning to martinsburg.  9 more were brought in whilst at Big 
+Spring.  One was a Surgeon in Northern army, one Lieut, a cavalry man, 
+and 6 others, privates.  I suppose, we had the post of honor in the 
+retreat (the rear).</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-03" id="d25"> 
+<head>July 3rd Wednesday</head> 
+<p>We camped here last night at the Spring 2 1/2 miles from 
+Martinsburg.  We were waiting for reinforcements under 
+Johnson [sic], from Winchester We came on from the Spring 
+back to Bucklestown, alias Darksville, and here met Col Johnston and 
+his force numbering I think about 12,000 men.  We camped in the same 
+place we did before.  Col Johnston's camp is on the end of town 
+towards Winchester his forces have now moved above us next to 
+Martinsburg, in the fields and have divided up into different 
+Companies in different fields, and have taken their positions, and I 
+suppose will camp there the night.  We understand that the Yankees are 
+in Martinsburg, there are about 10,000 of them.  We took every thing 
+we could carry easily out of our knapsacks, they were talking of 
+burning them, but L. M. Booker <ref n="45" target="hanger45">[45]</ref> is going to take 
+charge of them, and 
+send them to Winchester.   Capt. Middleton <ref n="46" target="hanger46">[46]</ref> Came 
+here today.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-04" id="d26"> 
+<head>July 4th Thursday</head> 
+<p>We stayed here again last night, We are now drawn up in line we 
+don't know which way we are going, thogh I suppose towards 
+Martinsburg.  2 O'clock we have not moved yet, still here.  We drew 
+rations this morning for 3 days. and are now cooking 1 days.  
+6 1/2 o'clock we had battallion drill and Dress parade this 
+evening, we will stay here tonight again.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-06" id="d27"> 
+<head>July 6th Saturday</head> 
+<p>We had a little rain about 7 o'clock this morning, still cloudy. 5 o'clock our 
+Picquet were driven in this morning. We are now drawn up in line of battle here 
+Pendleton's battery on our left, we remained in line of battle for an hour or 
+two, and finding that the Yankess were not coming, we retired from the field, 
+and went to cooking supper.  Col. Johnston reviewed us whilst in  
+line of battle.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-05" id="d28"> 
+<head>July 5th Friday</head> 
+<p>I made a slight mistake here. This ought to have come before the above.  
+6 o'clock got up this morning at 3 o'clock. and got breakfast. and packed our 
+blankets. and put them in the wagon, and sent it off towards Winchester 8. 
+o'clock. 2 more prisoners were brought in just now. 9 o'clock 3 more were 
+brought in. they have all been sent to Winchester.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-07" id="d29"> 
+<head>July 7th Sunday</head> 
+<p>9. o'clock, we are now drawn up and I think we are going to Winchester, though 
+it is hard to tell. It is very warm this morning. ll o'clock. we are now at 
+Bunkers Hill resting and wattering. 6 o'clock were are now quartered for the 
+night, in the woods, 5 miles from Wincester, we are all very tired and very 
+much fatigued. We left behind us beautiful fields of wheat, already cut and 
+shocked which I suppose will all be destroyed by the enemy. As we passed along 
+to day Sunday. the people were not in their harvest fields cutting wheat, every 
+thing is left to the mercy of the enemy.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-08" id="d30"> 
+<head>July 8th Monday</head> 
+<p>6 o'clock. Fine morning. I suppose we will go on to day. 10. o'clock we have 
+moved our Camp about 1 1/4 miles towards Winchester in the woods. We have water 
+to carry about 1/2 mile. 6 o'clock we have battallion drill this evening. We are 
+camped about 100 yds from Harpers Ferry and Winchester R. R.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-09" id="d31"> 
+<head>July 9th Tuesday</head> 
+<p>8 o'clock, It is a very warm morning and we have Company drill at 10, 3 o'clock 
+John Edmondson brought us our baggage &amp;c He went to Winchester  
+and opened all 
+our baggage, and brought us some of our things, all mixed up to gether half of 
+the men got none of their things.  Capt. Middleton  came with them  
+and brought us 
+some of our tents, and we are putting them up. 5 o'clock It is raining very 
+hard now, and we have to stay in our tents we have only 2. we will have hard 
+times to night I expect. 9.o'clock we got orders whist retiring to our bed to 
+pack up every thing but what we were sleeping on, and put them in the wagon. 
+after that to draw rations and cook it that night for the next day.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-10" id="d32"> 
+<head>July 10th Wednesday</head> 
+<p>7 o'clock. We will start in a few minutes I guess, We are going towards 
+Winchester 12 o'clock. We are now near Winchester The Militia are throwing up 
+breastworks here about 1/4 mile from town, and our cooks 
+(McClure  Campbell  
+ Mullen <ref n="47" target="hanger47">[47]</ref> and 
+Charlton S.) went to cooking 4 o'clock we had a very hard rain 
+this evening. I was very damp and cool last night.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-11" id="d33"> 
+<head>July 11th Thursday</head> 
+<p>9 o'clock. It looks like rain again. Thought the sun came out beautifully this 
+morning. The Rockbridge Artillery go a very large piece of cannon yesterday 
+evening. </p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-12" id="d34"> 
+<head>July 12th Friday</head> 
+<p>Fine day. The Richmond (Thomas) Artillery came here today. Messrs 
+Deaver<ref n="48" target="hanger48">[48]</ref>, 
+Rollins<ref n="49" target="hanger49">[49]</ref>,  
+Caffrey<ref n="50" target="hanger50">[50]</ref>, Lewis<ref n="51"
+target="hanger51">[51]</ref>, and Charles 
+Tanquary<ref n="52" target="hanger52">[52]</ref> are all  
+here now.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-13" id="d35"> 
+<head>July 13th Saturday</head> 
+<p>moved our tents on a line with the others 5. o'clock, We were this evening 
+transfered to the 4th Regt Va. Vols.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-14" id="d36"> 
+<head>July 14th Sunday</head> 
+<p>No battallion drill at 6 or Company drill at 10  We have been laying in our 
+tents all day Mr. Laird of our Co returned today we had Dress  
+parade this evening.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-15" id="d37"> 
+<head>July 15th Sunday</head> 
+<p>5. o'clock we were reviewed by Gen Jackson<ref n="53" target="hanger53">[53]</ref> 
+today. after that, had drill and 
+Dress parade 8 o'clock. (night). we were ordered out went to Headquarters, in 
+the yard around the house. halted stacked arms, we were then orded to lay down, 
+and keep perfectly quiet, so as to surprise the enemy if they attacked the 
+house. 2 or 3 men wer detailed to go after our blankets, some of the Regts were 
+ordered to tear down some old houses near here. to get axes, cut down the brush 
+and trees &amp;c. We were in the yard about an hour, were then ordered to go 
+to our quarters, which we did without being distured any more.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-16" id="d38"> 
+<head>July 16th Tuesday</head> 
+<p>Cloudy, I think it will rain shortly. We understand that the Yankees are coming 
+on, they drove our Cavalry in, they are now at Darksville.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-17" id="d39"> 
+<head>July 17th Wednesday</head> 
+<p>No drill this evening. Dress parade pleasant day, warm.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-18" id="d40"> 
+<head>July 18th Thursday</head> 
+<p>ordered to pack up and be in readiness to move. 11 o'clock not moved yet. 3 
+o'clock we are now on our way to Manassas Junction. 9. o'clock (night) we have 
+to cross the Shenandoah river, we have to wade, the sick were put across in 
+boats. The Artillery men rode across on their Caissons and Limber boxes. We 
+then crossed the Blue Ridge, and got to a little town (Paris) at the foot of the 
+mountain about 1.o'clock.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-19" id="d41"> 
+<head>July 19th Friday</head> 
+<p>We took up line of march again this morning at 4. o'clock, giving us only about 
+2 hours rest we came on to Pidmont [sic] Station<ref n="54" target="hanger54">[54]</ref>. 
+got here about 6.o'clock. we 
+remained here until about 2 o'clock when we took the cars for the Junction. When 
+we had gotten about 2 miles from Winchester, a general order was read 
+"That Gen Patterson<ref n="55" target="hanger55">[55]</ref>, was marching by way of 
+Harper's Ferry, and was going on to Manassas 
+Junction. and that they were right there now and that we were going to 
+reinforce Beauregard<ref n="56" target="hanger56">[56]</ref>. It took us about 6 hours to 
+cross the Shenandoah river. It is a forced march and we have to get there as soon as 
+possible. we got to the Junction about 4. o'clock this evening. we will remain here at the 
+Junction to night I guess.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-20" id="d42"> 
+<head>July 20th Friday</head> 
+<p>We moved down about 4 miles towards Centreville to camp this morning. 2 o'clock 
+we were drawn up in line of battle in a corn field near here. We can easily see 
+the Camps of the Enemy across the hills.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-21" id="d43"> 
+<head>July 21st Sunday</head> 
+<p>5 O'clock A.M. we can hear the cannon firing from the hills in front, and a 
+little below us, The Yankees are endeavoring to draw un in that direction. The 
+Junction is strongly fortifiyed, with breastworks and entrenchments around in 
+every possible direction. 8 o'clock they are now fighting in a hurry above here 
+about 2 miles. we are moving briskly in that direction.. The enemy still 
+Cannonading below.. Actium is our Countersight and and Sumpter [sic] our 
+Watchword. our Regt the 4th was ordered to different places at 1 o'clock PM we 
+was ordered on the field our Regt and the 27th was drawen up behind 8 peaces 
+of Artilery<ref n="57" target="hanger57">[57]</ref> and was ordered to lay low  
+we lay there for 3 1/2 hours had several 
+men killed there. then we was ordered to rais and fire and charge bayonetts. 
+There was an Awfull fire kept up The yankees had flanked round on our left had 
+planted six peaces of Artilery &amp; had A cross fire on us when we we charged 
+the yankees fell back and we captured their artilery The ground was covered 
+with dead &amp; wounded George Chapin 
+<ref n="58" target="hanger58">[58]</ref> and myself was togather when 
+Miller<ref n="59" target="hanger59">[59]</ref> was 
+wounded I was struck with A peace of shell and was helped of the field by 
+John Donald 
+<ref n="60" target="hanger60">[60]</ref> &amp; John Middleton  When we got to  
+the fence in the rear it was Capt. Letcher 
+<ref n="61" target="hanger61">[61]</ref> who got Mr John Laird.s horse for  
+me to ride to the camp A distance 
+of 3 miles aide camp [aide-de-camp] Marchell 
+<ref n="62" target="hanger62">[62]</ref> came to camp with Me 
+General Jackson came in at dark Mr Right 
+<ref n="63" target="hanger63">[63]</ref> of our Company got him something 
+to eat and 
+gave him some of our Boys blanketts to sleep on The company did not all get 
+to camp tonight Leiut Paxton came in None of our officers was  
+hurt all come up safe We lost in the R[ockbridge] Rifles.  Fred 
+Davidson<ref n="64" target="hanger64">[64]</ref> and Asbery 
+McClurer, Wounded, 
+Bourger<ref n="65" target="hanger65">[65]</ref> 
+Neff<ref n="66" target="hanger66">[66]</ref> Rollins 
+Moody<ref n="67" target="hanger67">[67]</ref> Press 
+Davidson<ref n="68" target="hanger68">[68]</ref> Miller. 
+Northern<ref n="69" target="hanger69">[69]</ref>. 
+Parks<ref n="70" target="hanger70">[70]</ref>. 
+Rahle [Reilly].  Wallace Ruff 
+<ref n="71" target="hanger71">[71]</ref>. In the Artillery (Rockbridge) None killed,  
+wounded, Jack Jordan<ref n="72" target="hanger72">[72]</ref>,  
+Brockenbrough<ref n="73" target="hanger73">[73]</ref>, and 
+Singleton<ref n="74" target="hanger74">[74]</ref></p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-22" id="d44"> 
+<head>July 22nd Monday</head> 
+<p>It is now raining very hard, and has been all night. the wounded on the battle 
+field must have suffered greatly last night. It is a very muddy and disagreeable 
+day. A great many more forces came to the Junction today I went to the battle 
+feild to help bury the dead the Awfulls scene I evir witnessed In my life 
+hundreds of dead &amp; wounded on the feild yet the yankees sent in a flag of truce 
+and got some of thier wounded.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-23" id="d45"> 
+<head>July 23rd Tuesday</head> 
+<p>The sun came out beautifully to day It is very pleasant today. The Artillery 
+brought in the Captured Cannon &amp;c today.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-24" id="d46"> 
+<head>July 24th Wednesday</head> 
+<p>Nothing of importance going on today.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-25" id="d47"> 
+<head>July 25th Thursday</head> 
+<p>Fine morning very pleasant.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-26" id="d48"> 
+<head>July 26th Friday</head> 
+<p>All has bin quiet to day.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-27" id="d49"> 
+<head>July 27th Saturday</head> 
+<p>Cloudy today I think we will have rain shortly. 4 o'clock. we were ordered to 
+pack up &amp;c. 5 o'clock. we have moved our brigade Camp. about 1/2 mile towards the 
+battle field. near an old house. we have gotten our tents again 
+McCampbell came 
+back to our Co. again from being detailed with the Artillery.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-28" id="d50"> 
+<head>July 28th Sunday</head> 
+<p>Foggy this morning. This day was appointed by the Confederate Congress as a 
+general Thanksgiving day. No duty to day except guard duty, lO.o'clock the sun 
+came out beautifully this morning. 4 o clock it is very cloudy now and 
+thundering very hard we will have a shower shortly. 6 o'clock we had a great 
+storm. It thundered and lightened in a hurry. We kept dry though in our tents, 
+we had dinner and supper together today.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-29" id="d51"> 
+<head>July 29th Monday</head> 
+<p>Drill at 7.A.M. It is raining a little Co. drill at 10 o'clock. We had a 
+considerable shower about 8 this evening.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-30" id="d52"> 
+<head>July 30th Tuesday</head> 
+<p>None of us got breakfast in time to drill this morning. We drilled at 10 It is 
+very warm to day. 2 Rifledcannon and 2 Caisons passed here just now for the 
+Rockbridge Artillery.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-07-31" id="d53"> 
+<head>July 31st Wednesday</head> 
+<p>Fine morning. I think it will be very warm to day. we had no breakfast at our 
+Company. This morning Some of them eat this morning's bread last night, We 
+were put into Messes this evening.</p> 
+</div3> 
+</div2> 
+ 
+<div2 type="section" n="1861-08" id="d54"> 
+<head>August 1861
+ <!-- <ref>Troop Movement</ref> --> 
+</head> 
+ 
+<div3 type="entry" n="1861-08-01" id="d55"> 
+<head>August 1st Thursday</head> 
+<p>It is raining very hard and has been all morning. It looks like it would rain 
+all day. We will have no duty to attend to today 3 o'clock we are ordered to 
+cook every thing and be ready to march at 5 o'clock in the morning. 
+Turpin<ref n="75" target="hanger75">[75]</ref> came 
+here today, and he intends, going home tomorrow to stay.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-02" id="d56"> 
+<head>August 2nd Friday</head> 
+<p>Got up early this morning, packed blankets &amp;C. struck tents and got ready to 
+move. We came on to Centreville and camped about 1 mile from the town towards 
+Fairfax C.H. (Camp Harman) This the camp in which the Yankees camped before 
+the battle of the 21st July, Their old brush tents and still here. we have very 
+good water here though a great distance to carry it.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-03" id="d57"> 
+<head>Aug. 3rd Saturday</head> 
+<p>Fine morning. Lieut Paxton came back from Lexington last night he brought 3 
+new recruits with him, and Seal<ref n="76" target="hanger76">[76]</ref>. Adams<ref n="77"
+target="hanger77">[77]</ref>. Champ<ref n="78" target="hanger78">[78]</ref>. James 
+Smith<ref n="79" target="hanger79">[79]</ref>. Radford<ref n="80"
+target="hanger80">[80]</ref>We had Dress perade at 5 o'clock.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-04" id="d58"> 
+<head>Aug. 4th Sunday</head> 
+<p>This will be a warm day I think Had Dress perade at 5. It was read out that 
+the Rockbridge Rifle Co. was transferred to the 27th Regt Our Company didn't 
+go to Dress perade. This is great dissatisfaction in the Co. [over the 
+transfer].</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-05" id="d59"> 
+<head>Aug. 5th Monday</head> 
+<p>A fine. though very warm day. We have struck our tents, and packed our baggage. 
+We are going to move over to the 27th Regt. 11. O'clock we have moved over and 
+have pitched our tents, and are now clearing away the brush &amp;c and 
+burning it.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-06" id="d60"> 
+<head>Aug 6th Tuesday</head> 
+<p>Fine morning, had drill this morning Capt Letcher is now acting Colonel of 27th 
+He does capitally.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-07" id="d61"> 
+<head>Aug. 7th Wednesday</head> 
+<p>Warm day. had drills as usual today.  
+Nothing of importance going on today.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-08" id="d62"> 
+<head>8th Thursday</head> 
+<p>Warm day. Had drills at 7 and 10 this morning. Lieut 
+Paxton is on special duty at Headquarters.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-09" id="d63"> 
+<head>Aug. 9th Friday</head> 
+<p>It is a cloudy morning. It looks like rain, They are paying off the 5th Regt 
+today. At battallion drill they make two Co"s of ours. We are ordered to be in 
+readiness to move without baggage At 10. o'clock. Prince Louis Napoleion passed 
+here yesterday He is now at Centreville We are going to Centreville to pass 
+review before him. We went to town and passed the review, It was a great 
+Military display certain. We had a great thunderstorm this eve". there was no 5 
+o'clock drill</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-10" id="d64"> 
+<head>Aug. 10th Saturday</head> 
+<p>Fine morning. It was very foggy this morn but the sun came out and it is now 
+very warm. We received our pay this morning, we got $42.00. It is clouding up 
+again. I think we will have more rain. We had no drill this eve. but Dress 
+perade.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-11" id="d65"> 
+<head>Aug. 11th Sunday</head> 
+<p>The sun came out beautifully this morning. but now (7 o'clock) it is getting 
+cloudy. We had a great shower last night it drove several of our boys out of 
+their tents</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-12" id="d66"> 
+<head>Aug. 12th Monday</head> 
+<p>This is a damp morning, still cloudy Lieut Edmondson 
+<ref n="81" target="hanger81">[81]</ref> (now acting Capt) got 2 
+more tents for some of our men this morning. Nothing going on to 
+day</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-13" id="d67"> 
+<head>Aug. 13th Tuesday</head> 
+<p>we had a considerable rain this morning about 7 o'clock. It is still cloudy, 
+though the sun comes out occasionally. It is windy and cool this 
+evening. Chas Rollins came back last night. We drew rations of Potatoes 
+today.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-14" id="d68"> 
+<head>Aug 14th Wednesday</head> 
+<p>It is cloudy and cold this morning Loker 
+<ref n="82" target="hanger82">[82]</ref> came here today, he looks very well. 
+We heard cannonading towards Leesburg, and Fairfax C. H. this morning 
+Jim Holley <ref n="83" target="hanger83">[83]</ref> is talking of  
+going home tomorrow</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-15" id="d69"> 
+<head>Aug 15th Thursday</head> 
+<p>Fine morning. Jim Holley hasn't gone yet. 9 o'clock Jim has now 
+gone. Had drills this morning. 11 o'clock we hear cannonading in the same direction as 
+before. Cloudy now.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-16" id="d70"> 
+<head>Aug 16th Friday</head> 
+<p>Pleasant day. S. McCampbell went to the Junction to day.  
+It commenced raining about 12 o'clock today and has kept up all evening  
+it is very disagreeable.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-17" id="d71"> 
+<head>Aug 17th Saturday</head> 
+<p>Still cloudy and windy. Mr. Thomas Deaver, got a discharge today from the Gov. 
+No drill today too rainy.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-18" id="d72"> 
+<head>Aug 18th Sunday</head> 
+<p>we have now been in service 4 months. It is still damp and cloudy.  
+There was no drill at 6. this morn. still cloudy and very disagreeable. No drills this eve 
+Nothing going on to day, unusual</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-19" id="d73"> 
+<head>Aug. 19th Monday</head> 
+<p>We had a very hard rain last night. We have no drills this bad weather. It is 
+very muddy. and disagreeable weather, too muddy for drilling purposes 
+&amp; </p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-20" id="d74"> 
+<head>Aug. 20th Tuesday</head> 
+<p>It is still cloudy and damp yet we will have more rain yet. 6 o'clock (in the 
+evening). it has now cleared off beautifully. 8. o'clock this is a beautiful moonlight 
+night.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-21" id="d75"> 
+<head>Aug 21st Wednesday</head> 
+<p>This is a fine beautiful morning perfectly clear. We didn't have any drill 
+before. breakfast. I suppose it was on account of being too muddy. We had drill 
+at 10. o'clock. The Staunton Band <ref n="84" target="hanger84">[84]</ref>  
+is here now. These are beautiful moonlight night now</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-22" id="d76"> 
+<head>Aug 22nd Thursday</head> 
+<p>we had a little rain this morining still windy and cloudy. 
+Wallace Ruff came back last night The sun comes out occasionally but goes back again. 
+Our Quartermaster  [Sgt. Henry T.] (Campbell) had to draw Crackers,  
+we also drew potatoes again</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-23" id="d77"> 
+<head>Aug 23rd Friday</head> 
+<p>We got orders last night about 9 o'clock. to fall in with guns and 
+accoutrements. we did so. our guns were inspected, and the No. of Cartridges 
+taken. it then commenced to rain, and we were ordered to disperse, &amp;c. We got 
+orders, to day to put our guns in order &amp; c. We got orders to fall in, and leave 
+every thing but our Canteens Haversack &amp;c. behind. the sick were left to cook. 
+and sent it on. Our Brigade then formed, and marched to Fairfax C. H. We got 
+here about 7. We went a little yon side of the town We were halted we were 
+then ordered to march back, All the force about C. H. has moved farther down 
+towards Alexandria. They had a little skirmish below there, they drove the 
+Yankees back a piece. When we got back  Jim Holley  had come with boxes Ac for 
+our Co.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-24" id="d78"> 
+<head>Aug 24th Saturday</head> 
+<p>This is a fine clear morning, though windy and cool.  Jim Holley 
+ brought a great many boxes with him. One for me also We had a fine time last night 
+eating &amp;c.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-25" id="d79"> 
+<head>Aug. 25th Sunday</head> 
+<p>Fine day. We are ordered out again today. We formed, marched down about 2 miles 
+towards Fairfax C. H. about face and marched back again</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-26" id="d80"> 
+<head>Aug. 26th Monday</head> 
+<p>Fine morning. We had Co drill at 10. o'clock. and battallion drill at 5 It was 
+read out at Dress perade that  Lieut Edmondson  was appointed Adjutant of 27th 
+Regt. and that there was to be a regular price paid for things brought there by 
+hucksters for sale. It was also read out that we should have Reveille at 5. A.M. 
+breakfast at 7. sick call at <unclear></unclear> o'clock. We have 4 drills a day.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-27" id="d81"> 
+<head>Aug. 27th Tuesday</head> 
+<p>Cloudy today. We had a little mist or rain several times today. We drilled 3 
+times today. We had no battallion drill on account of rain.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-28" id="d82"> 
+<head>Aug 28th Wednesday</head> 
+<p>we were ordered this morning at 5 to pack up, get breakfast and be ready to 
+march as soon as possible. Cloudy morning. 9 o'clock are now about 1/2 mile from 
+C.H. resting and waiting for orders We heard that the Picquets had a little 
+skirmish with the Yankees yesterday, below C.H. Killed 4 Yankees and took 8 
+prisoners. Our men drove them from a hill there. (Nason's) and took possession 
+of it. Washington City, and Alexandria can be seen from it after resting and 
+waiting here near CH for about 2 hours. We were ordered to about face and 
+return to our camp again. It has been raining almost the whole day.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-29" id="d83"> 
+<head>Aug. 29th Thursday</head> 
+<p>Still raining, and I think will continue all day. We have orders to draw and 
+cook 1 days rations and have our Canteens filled with water. 1 o clock we have 
+not yet gotten any further orders. 3 o'clock it has now stoped raining and 
+cleared off a little. 7 o'clock no orders yet.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-30" id="d84"> 
+<head>Aug. 30th Friday</head> 
+<p>Fine morning, the sun came out beautifully. We got orders to clean up our 
+quarters for Inspection. We had no dress perade to day</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-08-31" id="d85"> 
+<head>Aug. 31st Saturday</head> 
+<p>A clear and beautifuly morning we were ordered this morning to pack every thing 
+portable up put on our knapsacks Ac. we were then formed, marched out in the 
+field for Inspection and Muster roll, call, we then went to our quarters, and 
+after dinner, got orders to pack every thing up, and strike tents. We then moved 
+out of the woods into the field, pitched tents &amp;c. we are now fixed up again</p> 
+</div3> 
+</div2> 
+ 
+<div2 type="section" n="1861-09" id="d86"> 
+<head>September 1861
+ <!-- <ref>Battle Description, Troop Movement</ref> --> 
+</head> 
+ 
+<div3 type="entry" n="1861-09-01" id="d87"> 
+<head>Sept 1st Sunday</head>  
+<p>Fine morning, though a little cloudy and cool Ordered to fall in with 
+knapsacks, guns &amp;c for inspection. We have had no drills yet, we had dress 
+perade.Jim Holley goes home again tomorrow</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-09-02" id="d88"> 
+<head>Sept 2nd Monday</head> 
+<p>Fine morning. Jim hasn't gone, 12 o'clock he will go to the Junction this eve 
+We had battalion drill at 8. Co. drill from 11. to 12. It is very warm to day. 
+The Officers are all making off their pay rolls.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-09-03" id="d89"> 
+<head>Sept 3rd Tuesday</head> 
+<p>Pleasant morning very warm to day. Our Company got permission from Capt 
+Letcher to go to the Creek and take a bath &amp;c. We didn't have any drill until 5 
+3 o'clock. Lynch, <ref n="85" target="hanger85">[85]</ref> who left us 
+at Winchester, came here today.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-09-04" id="d90"> 
+<head>Sept 4th Wednesday</head> 
+<p>It rained a little, though very little this morning, early. But the sun came out 
+and it is now very pleasant. I am beginning to think that we will have some 
+creapers in camp shortly. We had no drill at 2 battallion drill and dress 
+perade at 5. We have Tatoo at 8 1/2 o'clock. and Taps at 9. o'c. The drum is 
+beating Tatoo now.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-09-05" id="d91"> 
+<head>Sept. 5th Thursday</head> 
+<p>We had a considerable shower last night. about 2 o'clock. 7 o'clock It is very 
+cool, cloudy, and windy. I think we will have more rain to day. 8 o'clock we 
+were ordered to fall in for battalion drill, we marched out to the field, Maj 
+Grigsby <ref n="86" target="hanger86">[86]</ref>, then ordered us to break for our quarters, 
+it was raining too hard 10. O'clock, no drill still raining, very muddy and 
+disagreeable.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-09-06" id="d92"> 
+<head>Sept. 6th Friday</head> 
+<p>Very foggy this morning. I think it will clear off today. we had our usual 
+drills. Col Massie <ref n="87" target="hanger87">[87]</ref> has gotten back. he was at our 
+quarters this eve Northern has also gotten back. also</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-09-07" id="d93"> 
+<head>Sept. 7th Saturday</head> 
+<p>Very foggy this morning. we were ordered to strike tents, and let our baggage 
+&amp;c dry and air. At 10 o'clock Lieut Lewis marched us down to the spring and 
+back. that was all the drilling we had then. We have now to clean our guns for 
+inspection tomorrow.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-09-08" id="d94"> 
+<head>Sept. 8th Sunday</head> 
+<p>Fine morning though cool and windy. Head inspection this morning. Mrs Gen 
+Jackson <ref n="88" target="hanger88">[88]</ref> came here today. Bishop Johns <ref n="89"
+target="hanger89">[89]</ref> preached at Headquarters 
+this eve". Had dress perade as usual</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-09-09" id="d95"> 
+<head>Sept. 9th Monday</head> 
+<p>We heard that Jim Holley had gotten to the Junction yesterday. 
+Tuck Thomas <ref n="90" target="hanger90">[90]</ref> and Crawford <ref n="91"
+target="hanger91">[91]</ref> went up to help him down with the boxes Ac. The Sergt. 
+is calling for us to fall in for battallion drill Jim came this eve with the boxes &amp;c.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-09-10" id="d96"> 
+<head>Sept. 10th Tuesday</head> 
+<p>We got permission to take another wash. A beautiful morning. we will have no 
+duty to perform until 5.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-09-11" id="d97"> 
+<head>Sept. 11th Wednesday</head> 
+<p>A very pleasant day, drills as usual to day. Gordan <ref n="92"
+target="hanger92">[92]</ref> &amp; McCampbell got permission to go to Centreville to day. 
+It commenced raining very hard about 3 o'clock this evening. It rained as hard as I ever 
+saw it.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-09-12" id="d98"> 
+<head>Sept. 12th Thursday</head> 
+<p>It was too muddy for drill at 8. we had the other drills though. It is a very 
+fine day overhead. Nothing unusual going on today.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-09-13" id="d99"> 
+<head>Sept. 13th Friday</head> 
+<p>It is very warm to day. We went out on battallion drill, and Just made a "right 
+wheel by Companies" and then a left in to line wheel. Capt Letcher then gave us orders to 
+appear on perade at 10 1/2, for review. we were then marched to our respective camps. 
+Genls Johnston. and Jackson reviewed us we were out about 1% hours we all had a very 
+pleasant time last night. It was a beautiful moonlight night</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-09-14" id="d100"> 
+<head>Sept. 14th Saturday</head> 
+<p>A beautiful day, warm, and, pleasant..We got orders just now to strike tents and 
+let our blankets &amp;c, air and dry. We had no drills to day. Capt Letcher went up 
+to the Junction to day. This is a beautiful moonlight night. clear. and mellow 
+like.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-09-15" id="d101"> 
+<head>Sept. 15th Sunday</head> 
+<p>Very warm and pleasant morning, We had review as usual at 8. o'clock Dress 
+perade at 6 1/2 o'clock. We got orders to pack every thing up &amp;c. and be ready to 
+move by 8 o'clock in morning We are going towards Fairfax C.H. We are going to 
+move our Camp there. Mr Norgrove <ref n="93" target="hanger93">[93]</ref> came here this 
+evening</p> 
+</div3> 
+     
+<div3 type="entry" n="1861-09-16" id="d102"> 
+<head>Sept. 16th Monday</head> 
+<p>It is a little cool and cloudy, though a capital day for travelling we are 
+fixing up our things now and getting ready to march. At 8 we all fell in and 
+moved off as wer came on, we heard tremondous cannonading in direction of C.H. 
+we came on within 2 miles of C.H. and turned in to the right about a mile. we 
+are here halted to camp we are about 1 mile from CH. and not far from Fairfax 
+Station. The Station is now our Post Office. We are camped here on a high hill. 
+a very bad place for water. Worse than Camp "Harman". Jim Holley 
+is talking of going home again. he is talking of not coming back again.</p> 
+</div3> 
+ 
+<milestone unit="section" n="Camp Fairfax"/> 
+ 
+<div3 type="entry" n="1861-09-17" id="d103"> 
+<head>Sept. 17th Tuesday</head> 
+<p>Very foggy this morning. Jim Holly started home this morning. We had a 
+tremendous Thunderstorm this evening about 4 o'clock. The sun came out 
+afterwards beautifully. The rain got in our tents and was about to wash us 
+away.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-09-18" id="d104"> 
+<head>Sept. 18th Wednesday</head> 
+<p>Very foggy.this morning. we all went out and cleared off a piece of ground here 
+in the woods. we had dress perade this evening (not uncommon.)</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-09-19" id="d105"> 
+<head>Sept. l9th Thursday</head> 
+<p>It is a little cloudy this morning. There was Company drill from 11 to 12. We 
+had drill also from 3. to 5. and dress perade. Nothing going on to day uncommon</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-09-20" id="d106"> 
+<head>Sept. 20th Friday</head> 
+<p>Little foggy. We are getting breakfast now. we had drill from 10 to 11. and it 
+was almost intolerable warm. we had as usual drill from 2. to 3</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-09-21" id="d107"> 
+<head>Sept. 21st Saturday</head> 
+<p>Pleasant day. We had battalion drill at 9 o'clock this morning. we will have no 
+other drills today we have to police our quarters now. We have some great game 
+of Quoits here. Capt Letcher and Lieut Lewis, take an active part in it. 6 
+o'clock. It is now raining very hard.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-09-22" id="d108"> 
+<head>Sept. 22nd Sunday</head> 
+<p>Very windy, and cloudy today. The wind came near blowing our tents, we didn't 
+have review this morning 4 o'clock. We now hear great Canonading. below the C.H. 
+One of our Picquet was killed down below the C. H.. He was buried this evening. 
+Sergt Boude <ref n="94" target="hanger94">[94]</ref> has just called for us to fall in for dress 
+perade</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-09-23" id="d109"> 
+<head>Sept. 23rd Monday</head> 
+<p>Pleasant day drills as usual today. We had a little disturbance last night over 
+at the Wheeling Company <ref n="95" target="hanger95">[95]</ref>. Kothing worth 
+mentioning transpired today.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-09-24" id="d110"> 
+<head>Sept. 24th Tuesday</head> 
+<p>One of the Lieuts in the Alaghaney Co. <ref n="96" target="hanger96">[96]</ref> who 
+was taken prisoner at Manassas fight of 21st July, escaped from Washington. and got here 
+safe last night. He tells 
+wonderful stories of his narrow escapes &amp;c. It is a little cloudy and cool 
+today. We had our usual drill today. The 4th Reg came back off Piquet this 
+evening</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-09-25" id="d111"> 
+<head>Sept. 25th Wednesday</head> 
+<p>Fine day. It was very cool last night. Loker came to camp again from Hospital., 
+We will have go down on Picquet tomorrow I expect, down towards Mason's and 
+Kunson's Hills. Yes we have to go to morrow.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-09-26" id="d112"> 
+<head>Sept. 26th Thursday</head> 
+<p>We are now making preperations to start on Picquet. We came on through Fairfax 
+C.H. and are now resting and watering at a Pump about 4 miles from C.H. Capt 
+Letcher is in command so far. It is very warm travelling today. We started off 
+this morning in great glee as usual. 2 o'clock we are now on Mason's Hill, We 
+Can plainly see the Theological seminary near Alexandria. The river is in plain 
+view. We can see 3 schooners floating beautifully on the waters oh! how 
+beautiful is the view I cannot describe it. Magnificent, Picturesque. grand We can see for 
+miles, away across the blue waters of the Potomac, into the 
+land of the Yankee The waters lay as placid as eve. We can see the flags 
+flying in the Camps of the enemy. We can see their breastworks. and 
+entrenchments. &amp;c. We can see the smoke issuing from the Yankee Camps. As the 
+scene is too magnificent for me to describe. Ill pass on, we soon got orders to 
+go to Munson's Hill When we had gotten here, Were were again ordered to return 
+to Mason's Hill. Which we did. We got there about 6 o'clock in the evening. We 
+were then put on Picquet.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-09-27" id="d113"> 
+<head>Sept. 27th Friday</head> 
+<p>It commenced to rain last night about 8 o'clock. and has been raining ever 
+since, It is now day break. We can hear the Yankee drums beating Reveille. We 
+can occasionally hear the repeat of agun. The Picquet firing at one another. The 
+Yankees drums have been beating all morning. We can plainly see the Yankees. on 
+guard. They wave a white hankercheif at us. They have white flags waving. We 
+can see them moving about in every direction. It is raining now very hard 
+We have to keep under shelter the best way we can. we are all waiting for 
+breakfast now, The Yankees keep waveing their flags, for us to meet them half 
+way, to have a talk &amp;c. Laird and McCluer went and met 
+2 or 3 of them. One of them said he had a brother in one of the Va Regts his name was 
+Butt. When we 
+were releived we went to our quarters on the hill It did rain terribly, and the 
+wind blew awfully, we had to cook in all the rain and wind. 10't o'clock (night) 
+we were ordered to get ready to get a way from there as quiet as possible, the 
+wind blew. It was a perfect hericane. Cold ("good gracious", we marched off. and 
+about 12 o'clock. (at night) got to Anadale [Annandale]. (a little village about 
+a miles west of the Hill.) We here made some fires. There was the greatest 
+excitement, I ever saw. the enemy was advancing it was thought, Munson's Hill was 
+also evacuated great excitement prevails. All our Picquet hadn't gotten in yet 
+The Wheeling Co. was left behind. It was thought they were taken prisoners, We 
+remained here for orders &amp;c until 3 o'clock. the following morning.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-09-28" id="d114"> 
+<head>Sept. 28th Saturday</head> 
+<p>We (Our Company) got orders this morning about 3. o'clock, to go back to 
+Mason's Hill, and see about the Wheeling Company and if they were taken prisoners to 
+rescue them at the risk or cost of our lives. We went in advance 
+of an other Co. We had also a battery behind us. Which Col Preston <ref n="97"
+target="hanger97">[97]</ref> said should protect us. We all moved back. every person 
+we met said the Yankees were at the 
+Hill. and were advancing. We moved on, determined to see them out, if we died in 
+the attempt. We sliped along a little piece and then would halt awhile and 
+listen. Then move forward again a piece and so. on. till we got to the Hill, 
+without seeing or hearing any thing of our men (Wheeling) So we concluded we 
+would go down, where they were posted, the Moon was shining beautifully, and 
+reflected upon our bayenets &amp;c. We sliped along cautiously We at last got to the 
+post. "Merabile dictu." They were all there on their posts, and knew 
+nothing of us leaving the Hill &amp;c. We got them and came on back. much rejoiced. 
+It seems our Sergt Major, was afraid to go to their posts and releive them 
+after the Regts left the Hill. The forces in this part of the Country are all 
+falling back. towards the C.H. We, all. came on apiece towards the C.H. and 
+halted about 2 miles from Anandale There we went into a field and got breakfast 
+&amp;c. we will remain here all day I guess. We hear the Yankees are at Munson's 
+and Mason's Hills.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-09-29" id="d115"> 
+<head>Sept. 29th Sunday</head> 
+<p>We stayed here last night. near Anadale. It is difficult to get any thing to eat 
+here. Captain White's Cavalry Co. <ref n="98" target="hanger98">[98]</ref> passed here just 
+now going to Anadale. The 
+Yankees havn't gotten there yet. One of our men was shot last night. We hear 
+wonderful stories of the Yankees advancing &amp;c we were put on Picquet, this 
+evening We expect the Yankees to make their appearance every minute.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-09-30" id="d116"> 
+<head>Sept. 30th Monday</head> 
+<p>We were releived off Picquet, this morning by the Monroe Guards <ref n="99"
+target="hanger99">[99]</ref>. The Yankees are 
+still advancing slowly. 3 o'clock. they have a balloon 
+<ref n="100" target="hanger100">[100]</ref> up now trying to find our 
+position. We can see the balloon very plainly. It is about Falls Church we 
+think. It looks beautiful. We can see the basket with two men in it. It stands 
+in one place. It has again gone down. Jim Holly came back Sunday and brought 
+some things for us</p> 
+</div3> 
+</div2> 
+ 
+<div2 type="section" n="1861-10" id="d117"> 
+<head>October 1861
+ <!-- <ref>
+Battle Description, Camp Life, Death/Casualties, Troop Movement</ref> --> 
+</head> 
+ 
+<div3 type="entry" n="1861-10-01" id="d118"> 
+<head>Oct. 1st Tuesday</head> 
+<p>Fine morning. thought it was very cool last night. The balloon made its 
+appearance again this morning, in the same place. We are still here near Anadale 
+and about 4 miles from Fairfax C.H. It is time we were releived. We can see the 
+blackest kind of smoke rising towards Mason's ... <unclear></unclear>tunson's Hills. We are all 
+looking at it now. The Yankees are burning houses, and every thing as they 
+come. They are now about 1 mile from Anandale. It has been very warm all 
+morning. It is clouding up now 12 o'clock) We have nothing to eat here but corn 
+and Potatoes. 5 o'clock. We moved down under the hill, to conceal ourselves. The 
+grass is very high here. We have hard time cooking here</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-02" id="d119"> 
+<head>Oct. 2nd Wednesday</head> 
+<p>Very very foggy this morning. We are all getting breakfast now, Press. Davis 
+[President Jefferson Davis] is at the CH., and has been for some time. I hope we 
+will be releived today, so we can go back to our camp near C.H. 8 o'clock. it 
+has been raining almost the whole morning Major Grigsby, gave us orders this 
+morning to get dinner, and be ready to move. I think our Releif has come and we 
+are going to camp at last 12 o'clock. not raining but still cloudy There is some 
+talk of us going to Western Virginia. but I suppose it's all a hoax. <ref n="101"
+target="hanger101">[101]</ref> We have 
+great times here roasting corn. Thought it is getting most too hard. We will 
+start shortly for our Camp.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-03" id="d120"> 
+<head>Oct. 3rd Thursday</head> 
+<p>Foggy again this morning. We started yesterday about 5 o'clock (eve) and got 
+here about 6 o'clock. We came in a hurry. It has [been] very warm all day. we 
+have fixed up again in our camp.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-04" id="d121"> 
+<head>Oct. 4th Friday</head> 
+<p>Fine morning. pleasant. John Donald and Jerry Rilley got their discharges to go 
+home. they started this evening Capt Letcher is promoted to Lieut Col in some 
+Regt. Our Co. wants to go with him. we have up a paper to the affect, and all 
+have signed it. The Capt is going to Richmond shortly. We will have to elect a 
+Capt now.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-05" id="d122"> 
+<head>Oct. 5th Saturday</head> 
+<p>Pleasant day. we have no flour this morning, have to draw corn meal Laird was 
+sent to Greenbrier County to see about some deserters. 8 o'clock we received 
+orders to pack up every thing except what we realy need put them together by 
+the time the wagon comes around. They are going to send them to the Junction. 
+The wagon was packed and sent off to the Station. Wright &amp; Northern were the 
+guard. 5 o'clock The Sergt called to us to fall in, that Capt Letcher was going to tell us 
+goodbye. Which we did, the Capt commenced at the head of the Ranks, 
+and shook hands with all of us. He cried like a child. He is going to Richmond 
+first I believe</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-06" id="d123"> 
+<head>Oct. 6th Sunday</head> 
+<p>We understand that about 30,000 of the enemy crossed the river at the mouth of 
+Aquitink [Accotink] Creek. night before last, They are having a bread oven built 
+at the Station, Mr Waltz <ref n="102" target="hanger102">[102]</ref> is going to bake for our 
+brigade, We had inspection at 
+9 this morning. Sheltmans <ref n="103" target="hanger103">[103]</ref> gun took the premium. 
+thought it was hard to decide 
+between his and McCouns [McCown's]. It is a little windy to day. The 4th Regt 
+started again on Picquet today There was peaching [preaching] at Headquarter's 
+in a barn this evening.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-07" id="d124"> 
+<head>Oct. 7th Monday</head> 
+<p>Cloudy this morning, I think we will have some rain shortly. There was 
+inspection this morning, Drill at 2. P.M. after drill, had an election, as 
+follows.</p> 
+<p> 
+J. K. Edmondson - Cap't<lb/> 
+ 
+P. C. Boude ---- 2nd Lieut<lb/> 
+ 
+G. W. Chapin ---- 1st Sergt<lb/> 
+ 
+A. W. Varner ---- 2n <lb/> 
+ 
+McCampbell ------ 3rd <lb/> 
+ 
+Campbell ------- 4th <lb/> 
+ 
+Gordan -------- 1st Corp<lb/> 
+ 
+Mullen -------- 2nd <lb/> 
+ 
+Davis --------- 3rd <lb/> 
+ 
+Rollins -------- 4th <lb/></p> 
+ 
+<p>We had a great shower this evening, It will be very disagreeable to night.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-08" id="d125"> 
+<head>Oct 8th Tuesday</head> 
+<p>We had a tremondous storm last night. The guard was releived last night. Cloudy, 
+and cool to day, I will be cold tonight</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-09" id="d126"> 
+<head>Oct 9th Wednesday</head> 
+<p>It was very cold last night, and is still so this morning. The result of our 
+Election was read out on dress perade this evening, 2 o'clock still cloudy. and 
+cool. Nothing of importance transpired.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-10" id="d127"> 
+<head>October" 10th Thursday</head> 
+<p>Cool today. Had battallion drill at 9 o'clock. 2. o'clock our Company and the 
+Monroe Guards joined together and we had a battallion drill, single ranks 
+formed into Companies we had a capital drill certain, 4 o'clock there is a very 
+heavy mist or rain falling now. Tuck. Thomas is going to Harpers Ferry. to see 
+about some clothes. which our Company left there.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-11" id="d128"> 
+<head>Oct. 11th Friday</head> 
+<p>Pleasant morning. though a little foggy Drill as usual at 9. It is a ldttle 
+windy now. The whole brigade is out in the field now they are passing in 
+review, or something. Gen Beauregard Johnston and an English Gen. are all over 
+in the field reviewing</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-12" id="d129"> 
+<head>Oct. 12th Saturday</head> 
+<p>It commenced to rain last night about 10 o'clock. and rained all night very 
+hard, We all got pretty wet. It was also very windy. The sun came out this 
+morning. though it was very cold It is reported. that tomorrow is the 
+appointedKfor a great battle here They got a barrel of whiskey today for us 
+soldiers. I suppose they will commence giving it out in the morning.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-13" id="d130"> 
+<head>Oct. 13th Sunday</head> 
+<p>It is windy and cool. Campbell gave us our gigger this 
+morning. Last night was a beautiful night. we had review at 9. Dr 
+Pendleton preaches over at a barn near Headquarters at 4 o'clock. 
+It was a very pleasant evening not withstanding the wind. We all feel lazy 
+today. Had dress perade as ususal. </p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-14" id="d131"> 
+<head>Oct. 14th Monday</head> 
+<p>Fine pleasant morningw we had battallion drill as usual, We drill at Pendleton's 
+Battery this evening at 2 o'clock. We went over went through the drill, came 
+back and went on battallion drill. We went through 2 or 3 movements, when Col 
+Echols <ref n="104" target="hanger104">[104]</ref> received a dispatch. We  
+were then ordered in. and ordered to pack up and 
+be ready to move, (on Pisquet again I suppose) about 5 o'clock. the order was 
+countermanded, the order was we didn't go till morning.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-15" id="d132"> 
+<head>Oct. 15th Tuesday</head> 
+<p>we cooked our bread last night, we got up this morning about 3, o'clock. and 
+packed up and got breakfast. We have just packed the wagon. We will start 
+directly. this is a beautiful morning. We came on to the Toll gate. where we 
+camped before and turned off to the right by the spring, we came on the road 
+about 1 mile, from the main road, we releived the 5th Regt" 3 or 4 of the front 
+Companies. went on Picquet, immediatly after we got there, As we wer3 6th Co. we 
+didn't have to go first. We have Capital water here, and a creek running along 
+by our camp. we have made brush huts, Our Mess has finished our hut. ("Cabin 
+home"). We heard considerable firing down about Anandale this morning. 
+McCampbell Hartigan. S.A. Gordan and myself concluded we would go over to the 
+Turnip patch. We got some Turnips &amp;c as as we came back. we stoped at a 
+beautiful spring. there a while, and talked about things generally, Sandy and 
+myself went up to the house near there and tryed to get some brandy. but it 
+wouldn't go. We had a very pleasant time there at the Spring</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-16" id="d133"> 
+<head>Oct. 16th Wednesday</head> 
+<p>Got orders this morning. to draw off Picquet get breakfast as early as 
+possible. and be ready to move back. We started and Came over to the 
+"Braddock Road" came on about 3 or 4 miles. Col Echols here 
+received a dispatch. to send back 4 companies, to Aquitinck Creek. (A 
+creek where we came into the Braddock Road) Consequently. The Wheeling 
+Co., our Co., Aleghany Co. and Greenbrier Co. 
+<ref n="105" target="hanger105">[105]</ref> had to about face and come back. We came 
+back to the Creek. There are breastworks all along the creek. it's well 
+fortifyed, We (Our Co) was put behind these breastworks. some of the other 
+Companies have gone further on Our guns are all loadened Maj 
+Grigsby is in Command of us. We are concealing ourselves behind the 
+breastworks, we are in the entrenchments. It is cloudy today, I think it 
+well rain before night. All our blankets &amp;c are back in the wagons All our 
+Picquet have been drawn in all around about this part of the Country, Some 
+of our men were sent back to camp near C H. to take down tents and move 
+things generally. </p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-17" id="d134"> 
+<head>Oct. 17th Tuesday</head> 
+<p>We got orders yesterday evening (after we had fixed for the night) to go back 
+and Join the rest of the Command. it was Just getting dark. We came on to  
+where 
+we had left the Regt. but they had moved on about 1 mile. Supper was ready for 
+us when we got there. We ate supper, and immediately moved on again to within 2 
+or 3 miles of Centreville. When we go orders to go back about 1 mile, to a 
+small creek, we came on back, and, our Company and 1 or 2 others had to go on 
+Picquet. It was very dark. and we were almost broken down. We were certainly 
+tired. We were releived this morning at 12 We came to Camp at Creek. fixed up 
+to start again on another tramp We are now packing the wagon now we 
+understand that our troops are burning us all the public buildings about the 
+Station [Fairfax Station]. and elsewhere. Most all of our forces have fallen 
+back to Centreville. It is now rainings we started to go towards Centreville. 
+met the 3rd Alabama Regt it releived us here. We got orders immediately to go 
+over to the Turnpike (main road to C.H.). we were ordered to keep perfectly 
+quiet. We started. and it commenced to rain very hard, we had and awful time., 
+it was so dark we could almost cut it with an knife we came out in the main 
+road about 2 1/2 miles below Centreville, and came on the road towards the C.H. 
+about 1 mile we stoped on a hill here It rained on us all the time. after we 
+got some large fires built, we didn't get much sleep, too wet and disagreeable 
+We got plenty to eat though. disagreeable disagreeable.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-18" id="d135"> 
+<head>Oct. 18th Friday</head> 
+<p>Still cloudy. We have got marching orders again. We marched to the left of the 
+hill about 2 mile. here we were halted. We sat here till about 4 o'clock this 
+evening. We then came to about face. Came back about 1 mile, halted in the 
+woods. Col rode in a field near. and ordered the Capts of each Company to come 
+too. When they came back. they ordered us all to stack arms, take of[f] 
+accoutrements &amp;c we then marched out in the field on the hill, and went to 
+making a breastwork out of rails &amp;c. when we came back we were ordered to go 
+to cooking every thing we had, and then to pack up every thing, and be ready 
+for action at any moment. to sleep in rear of our guns. 6 o'clock P.M. It has 
+cleared off now.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-19" id="d136"> 
+<head>Oct. l9th Saturday</head> 
+<p>Very foggy this morning. we were not disturbed last night. we have had nothing 
+to do to day. we had a little rain about 2 this evening.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-20" id="d137"> 
+<head>Oct. 20th Sunday</head> 
+<p>Windy to day. Our Company has orders to go on Picquet today, 10. o'clock. we are 
+now on Picquet, in the Alexandria and Winchester Road Leesburg road &amp;c. We hear 
+heavy firing out to the right of us, The Countersign is = Inkerman, We have the 
+same old signal. Halt any one, throw up the left arm, he whom you halt must 
+then take off his hat or cap. and pass it down below his face. If he fails to 
+do this "Fire". this is the day signal.) The night signal is the sentinel strikes 
+his leg 2 or three times with his hand. the person whom he halts. has to cough 
+2 or 3 times or clear his throat, if he fails to do this. "Fire" at him. We were 
+releived about 11. o'clock today. We came on to Centreville, we got here about 3 
+o'clock P.M. Joe Neff. Kahle <ref n="106" target="hanger106">[106]</ref>. and H. Smith 
+<ref n="107" target="hanger107">[107]</ref> were here Bill Kahle gave us a treat 
+this evening. Our forces are fortifying here in a hurry.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-21" id="d138"> 
+<head>Oct. 21st Monday</head> 
+<p>Cloudy and a little windy. Our Messes were rearranged yesterday. The 
+noncommissioned officers are heads of the different messes now. we had nothing 
+but dress perade today</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-22" id="d139"> 
+<head>Oct. 22nd Tuesday</head> 
+<p>Raining this morning. very disagreeable We have a hard time cooking in the 
+rain. It rained all day. we had no duty to day. except Retreat</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-23" id="d140"> 
+<head>Oct. 23rd Wednesday</head> 
+<p>Cold, very, this morning. the wind blows very hard. Had dress perade at 5 
+o'clock. Grisby is now elected Lieut Col. and Paxton is appointed Major of 27th 
+Regt. (ours)K</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-24" id="d141"> 
+<head>Oct. 24th Thursday</head> 
+<p>Cold morning. Had an election for 2nd and 1st Lieuts. consequent of Paxtons 
+promotion. Boude was Elected 1st Lieut Chapin 2nd Gillock <ref n="108"
+target="hanger108">[108]</ref> 4th Sergt in 
+Campbell's place (resigned)Northern, Orderly [lst Sergeant]. Had Company drill 
+at 3.P.M.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-25" id="d142"> 
+<head>Oct. 25th Friday</head> 
+<p>This was a beautiful morning early. but now. 10 o'clock, it looks like snow. 
+Chas. Cizer <ref n="109" target="hanger109">[109]</ref> came back yesterday from Hospital 
+Dr Graham <ref n="110" target="hanger110">[110]</ref> (old man) was at our 
+camp to day</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-26" id="d143"> 
+<head>Oct. 26th Saturday</head> 
+<p>The sun came out beautifully this morning but now (9 o'clock) it is very cloudy. 
+looks very much like rain. Rev. Dr. White <ref n="111" target="hanger111">[111]</ref>. came 
+to this camp to day. The Co. is 
+out on battallion drill now. We have just got orders to strike tents to dry our 
+baggade &amp;c There are several Good Bands near us here, they play beautifully. 
+Nothing new</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-27" id="d144"> 
+<head>Oct. 27th Sunday</head> 
+<p>Fine cool windy morning. Dr. White preached at our Col's tent at 10. after 
+preaching . Gordan McCampbell and myself took a walk up the road a piece. got 
+some persimmons &amp;c when we got back Jim Holly had gotten back from Lex. with 
+George Johnston <ref n="112" target="hanger112">[112]</ref>. Dr White preached at 4th Regt 
+this evening.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-28" id="d145"> 
+<head>Oct. 28th Monday</head> 
+<p>Awful cold to day. Drills as usual. Have to clean up quarters today. Nothing new 
+today.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-29" id="d146"> 
+<head>Oct. 29th Tuesday</head> 
+<p>We got orders to strike tents today to air the ground, dry cloths &amp;c. Drills as 
+usual nothing new.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1861-10-30" id="d147"> 
+<head>Oct. 30th Wednesday</head> 
+<p>Gov. Letcher <ref n="113" target="hanger113">[113]</ref> came here today. 
+It is very pleasant. though a little windy we had 
+review to day. The Gov" brought some flags with him. which he is going to 
+present to the Va Regts this evening <unclear></unclear> o'clock we had a grand presentation 
+this eve. The Gov presented flags to all the Va Regts</p> 
+</div3> 
+</div2> 
+</div1> 
+</body> 
+ 
+<back id="d148"> 
+ 
+<div1 id="AD1001conc" type="conclusion"> 
+<head>Conclusion
+<!-- <ref>AD1001conc</ref> -->
+</head> 
+<p>Hanger's diary ends abruptly here. The remaining pages have been torn out of 
+his small notebook, and may have continued the diary. Hanger was wounded at 
+Gaines Mill on June 27, 1862. In March of 1863 he transferred to Company C, 5th 
+Virginia Infantry, an Augusta County unit, the "Mountain Rifles". He was wounded 
+in the head and leg at Chancellorsville in May of 1863. While on leave he 
+married Naomi Francis McCormick in Lexington on March 12-, 1864. Hanger returned 
+to duty and was captured with most of his regiment at Spotsylvania Court House 
+in May, 1864. He was fortunate enough to be exchanged in November of the same 
+year. During December of 1864 he deserted to the Union forces at Clarksburg, 
+West Virginia. Hanger took the oath of allegiance and was released. a ther his 
+bride accompanied hiS is unknown. His wife is believed to have died early in 
+life and he remarried in Fayetteville, Arkansas. Hanger later moved to Dayton, 
+Columbia County, Washington. He died there on May 16, 1918 and is buried in the 
+Dayton City cemetery.</p> 
+</div1> 
+ 
+<div1 id="AD1001note" type="notes"> 
+<head>Notes 
+<!-- <ref>AD1001note</ref> -->
+</head> 
+ <note place="end" n="1" id="hanger1"><seg type="note-symbol">{1}</seg><p> F. C. Tebbs, a Methodist Minister in Lexington.</p></note> 
+<note place="end" n="2" id="hanger2"><seg type="note-symbol">{2}</seg><p> Francis McFarland, the minister at Bethel Presbyterian Church in 
+Augusta County.</p></note> 
+<note place="end" n="3" id="hanger3"><seg type="note-symbol">{3}</seg><p> Elisha Franklin Paxton (1823-5/3/63). A Rockbridge native and 
+a graduate of Washington College, Yale and the University of Virginia Law School. He 
+was a lawyer, farmer and President of the Bank of Rockbridge. He was the 1st 
+Lieutenant of the company when they left Lexington. He was commended at Bull 
+Run for gallantry on the field, in bearing the colors of a Georgia regiment, 
+whose standard bearer had been shot down "...advanced before the regiment, 
+waving his hat, was the first to plant our banner upon their battery." In 
+August Paxton served as Aide de-camp to General "Stonewall" Jackson. In 
+August, 1862 he was appoint Major and Quartermaster on Jackson's staff, 
+although his duties involved those of the Assistant Adjutant General. With 
+Jackson's urging he was promoted to Rrigadier General on 1 November, 1862 
+and placed in command of the "Stonewall Brigade." Paxton was killed at 
+Chancellorsville on 3 May, 1863 at the head of the "Stonewall Brigade," 
+leading a charge.</p></note> 
+<note place="end" n="4" id="hanger4"><seg type="note-symbol">{4}</seg><p> Probably James E. McCormick (1819-1893), a farmer who 
+resided near Fairfield.</p></note> 
+<note place="end" n="5" id="hanger5"><seg type="note-symbol">{5}</seg><p> Andrew Wallace Varner (1831-l910). A Lexington native and a 
+carpenter and cabinetmaker. He was elected 2nd Lieutenant of the Rifles in April, 1862. 
+Varner was shot through the leg and lost an arm at Gettysburg on 7 July, 
+1863. Taken prisoner, he remained in Federal prisons until the end of the 
+war, despite the loss of his arm. Varner returned to Lexington and worked as 
+a coachmaker, undertaker and furniture manufacturer with his brother, 
+Charles Van Buren Varner (1838-1907) who also served in the company.</p></note> 
+<note place="end" n="6" id="hanger6"><seg type="note-symbol">{6}</seg><p> Joseph H. R. Marston (circa 1841- ) A native of Maryland, 
+Marston was working as a clerk in a Lexington business when the war began. He was 
+later-captured at Gettysburg. After 13 months in prison Marston took the oath of 
+allegiance and was released in January, 1855. He listed his residence as 
+Baltimore, Md.</p></note> 
+<note place="end" n="7" id="hanger7"><seg type="note-symbol">{7}</seg><p> John William Middleton (1835-1907). Mildleton was born in 
+Harrisonburg and was listed as a "Gentleman", residing in Lexington when he enlisted. He 
+was wounded in the elbow and captured at Gettysburg and sat out the rest of 
+the war in prison. Middleton returned to Rockbridge and farmed in the Kerr's 
+Creek area. later in life he moved to Tennessee.</p></note> 
+<note place="end" n="8" id="hanger8"><seg type="note-symbol">{8}</seg><p> Dr. Alfred J. Hamilton (1830-1865). He resided at Midway, on 
+the border of Rockbridge and Augusta counties, as he is listed in both counties on the 
+1860 census. Hamilton served as a Surgeon in the Confederate army. He died 
+soon after the war.</p></note> 
+<note place="end" n="9" id="hanger9"><seg type="note-symbol">{9}</seg><p> Asbury C. McClure (1840-1861). A native of Fauquier County, 
+he was a 21 year old carpenter when he enlisted. Killed at Bull Run 21 July, 1861. "fell 
+in th first charge made by the Regiment, shot through the breast... ."</p></note> 
+<note place="end" n="10" id="hanger10"><seg type="note-symbol">{10}</seg><p> William Piper Hartigan (1837-1902). A Lexington native and a 
+cabinetmaker, Hartigan enlisted in the 1st Rockbridge Dragoons the same day 
+the Rifles were enrolled. He was captured on the retreat from Gettysburg and 
+spent most of the next two years in prison. Hartigan returned to Lexington, 
+where he worked aB a mechanic and cabinetmaker. His brother, John Wesley 
+Hartigan (1835-1863) was a member of the Rifles at this time. His other 
+brothers James A. (1875-1863), Robert M. (1848-1927) and Walter Dougas 
+Hartigan (1843-1895), later served in the company.</p></note> 
+<note place="end" n="11" id="hanger11"><seg type="note-symbol">{11}</seg><p>Unidentified.</p></note> 
+<note place="end" n="12" id="hanger12"><seg type="note-symbol">{12}</seg><p> Lieutenant John F. Stafford (1827-1867), was a Staunton 
+merchant who had enlisted in the "Staunton Rifles", Company G, 5th Virginia 
+Infantry.</p></note> 
+<note place="end" n="13" id="hanger13"><seg type="note-symbol">{13}</seg><p>Unidentified.</p></note> 
+<note place="end" n="14" id="hanger14"><seg type="note-symbol">{14}</seg><p> Daniel McGuire Reilly (1840-1916) An Irishman who was a 
+jeweler and silversmith in Lesington. He survived the war and returned to his trade in 
+Lexington until his death.</p></note> 
+<note place="end" n="15" id="hanger15"><seg type="note-symbol">{15}</seg><p> John S. Edmondson (1842-1861). Another Lexington 
+carpenter, he died of diptheria in Lexington on 29 August. 1861 age 19 years and 2 
+months.</p></note> 
+<note place="end" n="16" id="hanger16"><seg type="note-symbol">{16}</seg><p> The 1st Rockbridge Dragoons, under Captain Mathew X. 
+White, Jr., had been sworn in and departed Lexington the same day as the Rifles. This 
+company had been organized as part of the militia at Fancy Hill in 1859. 
+They became Company C. 1st Virginia Cavalry under J. E. B. Stuart.</p></note> 
+<note place="end" n="17" id="hanger17"><seg type="note-symbol">{17}</seg><p> John B. Hanger (1836-1861) A farmer in Augusta County in 
+1860, he had apparently moved to Rockbridge. Hanger was wounded in the foot at Bull 
+Run on 21 3uly, 1861. He died from hls wound and diptheria on 9 September, 
+1861.</p></note> 
+<note place="end" n="18" id="hanger18"><seg type="note-symbol">{18}</seg><p> George Washington Bailey, Jr. (lS39-1901). A carpenter 
+working in his native county of Rockbridge, Bailey served throughout the war, 
+surrendering at Appomattox Court House on 9 April, 1865. He moved to Sherando in 
+Augusta County after the war.</p></note> 
+<note place="end" n="19" id="hanger19"><seg type="note-symbol">{19}</seg><p> Unidentified.</p></note> 
+<note place="end" n="20" id="hanger20"><seg type="note-symbol">{20}</seg><p> George W. Effinger (1822-1892), a Harrisonburg 
+merchant.</p></note> 
+<note place="end" n="21" id="hanger21"><seg type="note-symbol">{21}</seg><p> Unidentified.</p></note> 
+<note place="end" n="22" id="hanger22"><seg type="note-symbol">{22}</seg><p> Unidentified.</p></note> 
+<note place="end" n="23" id="hanger23"><seg type="note-symbol">{23}</seg><p>Jacob H. Fonshill (1836- ). A 25 year old saddler when he 
+enlisted in Lexington, he was ordered discharged by the Secretary of War on 15 December, 
+1861, presumably to resume his occupation.</p></note> 
+<note place="end" n="24" id="hanger24"><seg type="note-symbol">{24}</seg><p>Before departing the company was presented a flag by the ladies 
+of Harrisonburg.  Robert H. Campbell described the banner as  
+representing the "Confederate States, with a star for Virginia in the 
+center."</p></note> 
+<note place="end" n="25" id="hanger25"><seg type="note-symbol">{25}</seg><p> Alfred B. Tanquary (1823-1883). He was a tinner in Lexington 
+and a native of Frederick County. Tanquary was discharged for disease of the heart 
+in December, 1861. He served as a member of the Lexington Patrol and 
+manufactured wool in Lexington during the war. After the war he turned to 
+making tobacco and then was a merchant in Lexington.</p></note> 
+<note place="end" n="26" id="hanger26"><seg type="note-symbol">{26}</seg><p> General Joseph E. Johnston (1807-1891) For some reason 
+Hanger refers to him as "Colonel."</p></note> 
+<note place="end" n="27" id="hanger27"><seg type="note-symbol">{27}</seg><p> Here Hanger failed to write in his diary for a considerable 
+period and later brought it up to date about June 23rd.  For some reason his 
+spelling became much improved</p></note> 
+<note place="end" n="28" id="hanger28"><seg type="note-symbol">{28}</seg><p> Captain William Nelson Pendleton of the 1st Rockbridge 
+Artillery (1809-1883). A West Point graduate, he became a teacher and then an Episcopal 
+minister after a brief military career. He was the pastor of Grace Episcopal 
+Church in Lexington when the war began. Pendleton often preached to his 
+company, and his sermons always drew crowds of soldiers from other units. He 
+was promoted Colonel and Chief of Artillery under Joseph E. Johnston on 19 
+July, 1861, but commanded the Rockbridge Artillery at Bull Run. He was later 
+promoted Brigadier General and commanded the artillery of the Army of 
+Northern Virginia. Pendleton returned to Lexington after the war. He was often mistaken 
+for Robert E. Lee.</p></note> 
+<note place="end" n="29" id="hanger29"><seg type="note-symbol">{29}</seg><p> Unidentified.</p></note> 
+<note place="end" n="30" id="hanger30"><seg type="note-symbol">{30}</seg><p> Unidentified.</p></note> 
+<note place="end" n="31" id="hanger31"><seg type="note-symbol">{31}</seg><p> David Edward Laird (1832-18'30). A Rockbridge native and a 
+graduate of Washington College, Laird was teaching in Atlanta, Georgia when the war 
+began. He hurried home and enlisted on April 28, 1861. Laird transferred to 
+the 1st Rockbridge Dragoons in 1862 because of leg problems. He farmed at 
+Riverside after the war and taught school in Lexington and Fancy Hill until 
+his death.</p></note> 
+<note place="end" n="32" id="hanger32"><seg type="note-symbol">{32}</seg><p> Edward Nicholas Boogher (1831-1923). He moved from 
+Frederick County, Maryland to Lexington in 1850 and was clerking in a local firm when 
+the war began. He apparently only served a short time, as he is not listed on the 
+muster rolls until 1862. In March, 1867, he was exempt because of his work 
+in a foundry and again in 1864 as a manufacturer of iron utensils and 
+detailed to make shells at Vesuvius. Boogher reenlisted or was conscripted 
+back into the Rifles by October, 1864, as he was issued clothing in November 
+and December, 1864. He returned to Lexington after the war and was a 
+successful carpenter and builder.</p></note> 
+<note place="end" n="33" id="hanger33"><seg type="note-symbol">{33}</seg><p> The West Augusta Guard was organized in Staunton on April 
+17, 1861, as Company L, 5th Virginia Infantry, under Captain James Hurley Waters 
+(1828-1913). In November, 1861 the unit was converted to artillery. The West 
+Augusta Guard continued to serve in the Virginia Militia and National Guard 
+until World War II.</p></note> 
+<note place="end" n="34" id="hanger34"><seg type="note-symbol">{34}</seg><p> Samuel John Nelson McCampbell (1837-1909). A Rockbridge 
+native who had attended Washington College, McCampbell was a dentist in Lexington 
+when the war began. He was wounded in the mouth and throat at Chancellorsville and 
+captured in the Valley in 1864, and spent the last months of the war in 
+prison. He returned to Lexington and resumed his career as a dentist.</p></note> 
+<note place="end" n="35" id="hanger35"><seg type="note-symbol">{35}</seg><p> See footnote 9.</p></note> 
+<note place="end" n="36" id="hanger36"><seg type="note-symbol">{36}</seg><p> Robert McDowell McCown (1843-1901). A Lexington native, 
+McCown was working as a saddler when he enlisted. He transferred to the 1st Rockbridge 
+Dragoons in 1862 and served as a courier at Stonewall Jackson's 
+headquarters. After the war he continued as a saddler and harness maker in 
+Collierstown.</p></note> 
+<note place="end" n="37" id="hanger37"><seg type="note-symbol">{37}</seg><p> Lawrence McNamara (1843- ). He was an 18 year old laborer 
+when he enlisted. He served faithfully until deserting to the enemy at Centreville 
+on 1 September, 1862.</p></note> 
+<note place="end" n="38" id="hanger38"><seg type="note-symbol">{38}</seg><p> Arthur David McClurer (1839-1862). A Rockbridge native who 
+had attended Washington College, he was farming near Lexington when he enlisted. 
+tIcClurer was appointed Color Sergeant on November 20, 1861, a post of both 
+honor and danger. He was mortally wounded at Malvern Hill on July 1, 1862.</p></note> 
+<note place="end" n="39" id="hanger39"><seg type="note-symbol">{39}</seg><p> John Merritt "Jack" Doyle (1845-1920). Although born in 
+Carrolton, Green County, Illinois, he had resided in Virginia nearly all his life. He was a 
+carpenter in Staunton when he enlisted. He was wounded in the neck and leg, 
+and the first man in the 5th Virginia Infantry to be shot. He was again 
+wounded in the leg at 2nd Manassas and detailed to gather conscipts and 
+deserters in 1863. He later reenlisted in Company D, 62nd Virginia Infantry. 
+He was working as a Clerk and Saleman in Greenville in 1920.</p></note> 
+<note place="end" n="40" id="hanger40"><seg type="note-symbol">{40}</seg><p> Robert Lewis Doyle (1812-1864). An Augusta County native, 
+Doyle had attended Washington College, and was a lawyer in Staunton. He raised the 
+"Mountain Guard", Company C, 5th Virgina Infantry. He was not reelected in 
+1862 but was appointed Lieutenant Colonel of the 62nd Virginia Infantry in 
+September, 1862. He resigned in November, 1863, because of failing health 
+and to become Commonwealth's Attorney of Augusta County. He raised Company 
+B, Harper's Augusta County Reserves in April, 1864. Doyle was wounded in the 
+battle of Piedmont on June 5, 1864, while trying to rally his men. "His men 
+placed him under a tree - shot and bayoneted after his capture." Father of 
+John M. Doyle.</p></note> 
+<note place="end" n="41" id="hanger41"><seg type="note-symbol">{41}</seg><p> The "Continental Morgan Guards," Company K, 5th Virginia 
+Infantry, were raised in Frederick County by Captain John Avis (1818-1883).</p></note> 
+<note place="end" n="42" id="hanger42"><seg type="note-symbol">{42}</seg><p> The "Continental Morgan Guards," Company K, 5th Virginia 
+Infantry, were raised in Frederick County by Captain John Avis (1818-1883).</p></note> 
+<note place="end" n="43" id="hanger43"><seg type="note-symbol">{43}</seg><p> Brigadier General Thomas Johnathan "Stonewall" Jackson 
+(1824-1863). He had been promoted on June 17, 1861 but Hanger still referred to his as 
+"Colonel". The battle of Hainesville was Jackson's first combat of the war.</p></note> 
+<note place="end" n="44" id="hanger44"><seg type="note-symbol">{44}</seg><p> Lieutenant Colonel James Ewell Brown "Jeb"  
+Stuart (1833-1864). He was commanding elements of the 1st Virginia Cavalry at this time. 
+The "Valley 
+Rangers," from Augusta County, under Captain William Patrick (1822-1862), 
+with Stuart, captured most of a company from the 15th Pennslyvania Infantry.</p></note> 
+<note place="end" n="45" id="hanger45"><seg type="note-symbol">{45}</seg><p> Unidentifed.</p></note> 
+<note place="end" n="46" id="hanger46"><seg type="note-symbol">{46}</seg><p> John C. Middleton (1810-1867). A blacksmith and the Mayor 
+of Lexington in 1860. The "Captain" probably refers to a militia rank.</p></note> 
+<note place="end" n="47" id="hanger47"><seg type="note-symbol">{47}</seg><p> Thomas Bradley Mullen (1839-1885). A native of Franklin 
+County, Pennsylvania, Mullen had moved with his parents to Rockbridge County in 
+1847. Like his father, he was a foundry worker. Mullen was wounded at Mine 
+Run and captured at Spotslyvania Court House and spent to rest of the war in 
+Ft. Delaware. Returning to Lexington, he was a foundry and machine shop 
+owner and operator until his death.</p></note> 
+<note place="end" n="48" id="hanger48"><seg type="note-symbol">{48}</seg><p> Thomas Henry Deaver (1828-1906). He was shoemaker in 
+Lexington who later enlisted in the company but was soon discharged by order of 
+Governor Letcher to make shoes for the Confederacy. Deaver continued his occupation in 
+Lexington after the war.</p></note> 
+<note place="end" n="49" id="hanger49"><seg type="note-symbol">{49}</seg><p> Either Charles A. Rollins (1842- ) or his father, William H. 
+Rollins (1814-1863), Charles A. Rollins was another Pennslyvanian who was a printer 
+in Lexington. He served in the Rifles and was wounded at Bull Run and Mine 
+Run and captured at Spotsylvania Court House. He resided in Florida after 
+the war. William H. Rollings later enlisted in the "Liberty Hall Volunteers" 
+and was captured at Gettysburg and died of disease at Fort Delaware.</p></note> 
+<note place="end" n="50" id="hanger50"><seg type="note-symbol">{50}</seg><p> Thomas Caffrey (1823- ). He was a matress maker in 
+Lexington during the war.</p></note> 
+<note place="end" n="51" id="hanger51"><seg type="note-symbol">{51}</seg><p> Either William W. Lewis (1831-1890) or his father. William 
+W. Lewis was native of Lexington and a merchant when the war began. He was appointed 
+Adjutant of the 27th Virginia Infantry in 1862 until retiring for disability 
+in 1864. He returned to Lexington after the war. Lewis later moved to West 
+Virginia and then to Texas.</p></note> 
+<note place="end" n="52" id="hanger52"><seg type="note-symbol">{52}</seg><p> Charles W. Tanquary (1846-1863). The younger brother 
+Andrew B. Tanquary of the Rifles. He died of typhoid pneumonia before his 18th 
+birthday.</p></note> 
+<note place="end" n="53" id="hanger53"><seg type="note-symbol">{53}</seg><p> Jackson was promoted to Brigadier General on June 17, 
+1861.</p></note> 
+<note place="end" n="54" id="hanger54"><seg type="note-symbol">{54}</seg><p> Piedmont Station on the Manassas Gap Railroad. Now Salem, 
+Va.</p></note> 
+<note place="end" n="55" id="hanger55"><seg type="note-symbol">{55}</seg><p> General Robert Patterson who had commanded the Union 
+forces in the Valley and the troops Jackson and his men had engaged at Hainesville on July 
+2. 1861.</p></note> 
+<note place="end" n="56" id="hanger56"><seg type="note-symbol">{56}</seg><p> General P. T. G. Beauregard who commanded the Confederate 
+forces around Manassas Junction.</p></note> 
+<note place="end" n="57" id="hanger57"><seg type="note-symbol">{57}</seg><p> Four of these guns belonged to the Rockbridge 
+Artillery.</p></note> 
+<note place="end" n="58" id="hanger58"><seg type="note-symbol">{58}</seg><p> George W. Chapin (1844-1863). He was a 16 year old clerk in 
+Lexington when he enlisted. Despite his youth he was elected Sergeant and later Second 
+Lieutenant in the Rifles. He declined reelection and enlisted as a Private 
+in the Liberty Hall Volunteers. He was wounded at Chancellorsville but 
+returned in time Mine Run, November 27, 1863.</p></note> 
+<note place="end" n="59" id="hanger59"><seg type="note-symbol">{59}</seg><p> Adam W. Miller (1831- ). Miller,a carpenter by trade, enlisted 
+in the company while they were in Harrisonburg. His wounds caused him to be 
+discharged a few months later. He apparently reenlisted in the Rifles in 
+1864. He came to Rockbridge County some time after the war and farmed in the 
+Denmark area. Miller entered to Old Soldier's Home in Richmond in December, 
+1898 but left after several weeks.</p></note> 
+<note place="end" n="60" id="hanger60"><seg type="note-symbol">{60}</seg><p> John A. Donald (1839-1894). Donald was a shoemaker in 
+Lexington when reenlisted. He was discharged in October because of the need for 
+shoemakers. He reenlisted in the company in 1864 and was captured in Rockbridge County 
+during Hunter's raid and spent the rest of the war in Camp Chase, Ohio. He 
+continued his trade in the Natural Bridge District until his death.</p></note> 
+<note place="end" n="61" id="hanger61"><seg type="note-symbol">{61}</seg><p> Captain Samuel Houston Letcher (1828-1868). Letcher was a 
+Rockbridge native who had graduated was the Washington College Law School in 1850. 
+He was a lawyer and newspaper editor in Lexington when the war began. Letcher 
+was promoted to Lieutenant Colonel and assigned to the 58th Virginia 
+Infantry. He resigned in 1862. Letcher resumed his career as a newspaper 
+editor until his death.</p></note> 
+<note place="end" n="62" id="hanger62"><seg type="note-symbol">{62}</seg><p> James W. Matchett, Jr., (1840-1912). He was apparently a 
+volunteer aide-de-camp on Jackson's staff. Matchett was exempt in Rockbridge County in 
+March, 1862 for defective vision, which may explain why he is not listed as 
+a Confederate soldier. He was a farmer in Rockbridge after the war.</p></note> 
+<note place="end" n="63" id="hanger63"><seg type="note-symbol">{63}</seg><p> William G. Wright (1817-1904) One of the oldest members of 
+the Rifles. Wright was born in Rockbridge County and a tailor by trade. He was 
+discharged for overage after one year's service. Wright worked in the 
+Clothing Department for the Confederate army in Richmond until the end of 
+the war. He returned to Lexington and resumed his trade and later expanded 
+his buslness to include selling sewing machines.</p></note> 
+<note place="end" n="64" id="hanger64"><seg type="note-symbol">{64}</seg><p> Frederick Davidson (1836-1861). A Lexington native who had 
+attended Washington College and the University of Virginia. His dying request was 
+that he be buried on the battlefield at the Lewis house. His last words were 
+"Tell my mother I died for a glorious cause." His remains were later removed 
+to Stonewall Jackson cemetery.</p></note> 
+<note place="end" n="65" id="hanger65"><seg type="note-symbol">{65}</seg><p> David Guthrie Bowyer (1837-1898). A native of 
+Charlottesville, he had come to Lexington in the 1850's and was a painter. His skull was 
+fractured, one leg was shattered and he had a wound in his right side. He was 
+discharged from the hospital a few months later. He returned to Lexington 
+and resumed his trade after the war.</p></note> 
+<note place="end" n="66" id="hanger66"><seg type="note-symbol">{66}</seg><p> Joel L. Neff (1828-1898) Neff was working as a stonecutter in 
+the county when the war began. His wounded hand kept him out of action for several 
+months. He later enlisted in the cavalry, was captured during Hunter's raid 
+and spent the last year of the war in Camp Chase, Ohio. After the war he 
+returned to Rockbridge and resumed his trade. Neff moved to Jamestown, Ohio 
+in 1888.</p></note> 
+<note place="end" n="67" id="hanger67"><seg type="note-symbol">{67}</seg><p> John E. Moody (1828- ). A native of Chesterfield County and a 
+coachmaker by trade, Moody had enlisted in Harpers Ferry. His shoulder wound caused 
+him to be discharged in 1862.</p></note> 
+<note place="end" n="68" id="hanger68"><seg type="note-symbol">{68}</seg><p> Preston A. Davidson (1842-1914). He was a student at 
+Washington College when the war began. A native of Indianapolis, Indiana, he was the 
+son of one of the Davidson family originally from Rockbridge County. The wound in his 
+right shoulder caused anchylosis of the joint and he was discharged in 1862. 
+Davidson farmed in Rockbridge for a number of years before returning to 
+Indiana.</p></note> 
+<note place="end" n="69" id="hanger69"><seg type="note-symbol">{69}</seg><p> Edward Y. Northern (1833-1894). Northern was a tailor in 
+Lexington when he enlisted. His wounds must have been minor, as he returned to duty and 
+was promoted to 1st Sergeant in October, 1861. He was elected 2nd Lieutenant in 
+the Rifles in 1862 and served to the end of the war. He returned to 
+Lexington after the war.</p></note> 
+<note place="end" n="70" id="hanger70"><seg type="note-symbol">{70}</seg><p> Joshua Parks, Jr. (1836-1861). A Lexington native, Parks was 
+a plasterer and mason before he enlisted. His wound was apparently minor as he 
+returned to duty and was killed at Honeywood Mills Dam or Dam No. 5 in 
+Morgan County on 19 December, 1861. Stonewall Jackson was attempting to 
+destroy the dams on the upper Potomac river to prevent the water flowing 
+into the vital Cheasapeake and Ohio Canal.</p></note> 
+ 
+<note place="end" n="71" id="hanger71"><seg type="note-symbol">{71}</seg><p> Samuel Wallace Ruff (1843-1884). A native of Lexington, Ruff 
+had no occupation on the 1860 census and gave none when he enlisted. His wound was 
+apparently minor as he was back on duty in October. He served faithfully 
+until after Gettysburg when he deserted to join the Page Cavalry. Following 
+the war he farmed in the Natural Bridge area.</p></note> 
+<note place="end" n="72" id="hanger72"><seg type="note-symbol">{72}</seg><p> John W. "Jack" Jordon, Jr. (1839-1871). A Rockbridge native, 
+he was managing a hotel when he enlisted. His wound was minor, as he was present a 
+month later. He was promoted rapidly up through the ranks to 2nd Lieutenant 
+in May of 1863, reportedly because of his ability to manage horses in 
+difficult situations. Jordan received a slight wound in the arm at 
+Gettysburg, but never left the battery. He surrendered at Appomattox Court 
+House. After the war he was involved in railroad construction.</p></note> 
+<note place="end" n="73" id="hanger73"><seg type="note-symbol">{73}</seg><p> John Bowyer Brockenbrough (1836-1901). A native of 
+Lexington, Bowyer had attended Washington College and graduated from the University of 
+Virginia and the Washington College Law School. He was a lawyer in Lexington and one 
+of the organizers of the Rockbridge Artillery. He received a slight wound in 
+the foot. He resigned in August of 1861. In 1862 he was elected Captain of 
+the Baltimore Artillery. Brockenbrough was wounded in the arm at 
+Fredericksburg in December, 1862, while serving as a gunner, although he was 
+on the staff of General Taliferro. Promoted to Najor of Artillery in 1863 
+but he retired in 1864. Brockenbrough was a lawyer in Lynchburg until 1886 
+when he was appointed special agent for the Department of the Interior by 
+President Cleveland. He moved to Baltimore in 1900.</p></note> 
+<note place="end" n="74" id="hanger74"><seg type="note-symbol">{74}</seg><p> William Francis Singleton of Kentucky. He was a student at the 
+University of Virginia when the war began. His wound was in the arm but he 
+was back on duty by August. Singleton was wounded and captured at Port 
+Republic. Following his exchange in 1863 he joined Morgan's Kentucky 
+cavalry.</p></note> 
+<note place="end" n="75" id="hanger75"><seg type="note-symbol">{75}</seg><p> Richard C. "Sergeant" Turpin (1815-1880) A native of Henrico 
+County, Turpin moved to Le:rington in 1856 and was employed as a coach painter. He 
+was absent from the company as a hospital steward in Winchester. He was 
+discharged in December for an old fracture of his left leg. Turpin served in 
+the Lexington Patrol and as Captain in the Rockbridge Senior Reserves. He 
+returned to his occupation after the war but later was a bartender in 
+Lexington.</p></note> 
+<note place="end" n="76" id="hanger76"><seg type="note-symbol">{76}</seg><p> Morgan Francis Seal (1829-1881). Seal served in the company 
+only a month before being discharged and sent to Richmond to make harness for the 
+Confederacy. He returned to Lexington after the war as a harness maker.</p></note> 
+<note place="end" n="77" id="hanger77"><seg type="note-symbol">{77}</seg><p> Charles A. Adams (1830-1909) A native of Williamsburg, 
+Adams came to Lexington in 1852 and was employed as a tailor. He was discharged in 
+1862 to be the tailor for the V. M. I. Adams was captured during Hunter's raid and 
+sent to Camp Chase, Ohio. He returned to Lexington and served as the tailor 
+for the V.M.I. for over 50 years.</p></note> 
+<note place="end" n="78" id="hanger78"><seg type="note-symbol">{78}</seg><p> Andrew Jackson Champe (1818-1896) A Craig County native, 
+Champe came to Lexington in 1852 as a bricklayer. He was discharged for rheumatism in 
+1862 and served in the Lexington Patrol and the Rockbridge Senior Reserves. He 
+resumed his career as a brick mason and later manufactured brick in 
+Lexington.</p></note> 
+<note place="end" n="79" id="hanger79"><seg type="note-symbol">{79}</seg><p> James W. Smith (1825- ). Smith was a shoemaker by trade and 
+reportedly deserted in 1862. However, he was exempt as a shoemaker in Lexington in 
+1864.</p></note> 
+<note place="end" n="80" id="hanger80"><seg type="note-symbol">{80}</seg><p> Calvin Radford (1827- ). Radford was a coach maker in 
+Lexington. He was soon discharged because of his skills and assigned to government 
+work. He returned to Lexington after the war.</p></note> 
+<note place="end" n="81" id="hanger81"><seg type="note-symbol">{81}</seg><p> James Kerr Edmondson (1832-1898). He was born near Buena 
+Vista and attended Washington College. Edmondson was the Town Sergeant of Lexington 
+from 1853-1860 and was Clerk of the City Court of Lexington in 1861. He 
+enlisted as a private but was soon elected 2nd Lieutenant. In August he was 
+appointed Adjutant of the 27th Virginia, but returned to the Rifles in 
+October as their Captain. Edmondson rose to Lieutenant Colonel of the 27th 
+in July of 1862 and was promoted Colonel in November of the same year. 
+Edmondson was wounded severely at Chancellorsville in the breast and lost 
+his left arm at the shoulder. He resigned later in the year and served as 
+the Provost Marshal of Lexington until the end of the war. In addition to 
+his military duties he served as the County Clerk from 1864-64 and for 4 
+years after the war. He served as treasurer of Washington College from 
+1865-1868. Edmondson graduated from Washington College in 1870 B. L. and as 
+a lawyer was almost immediately appointed a Judge in the county. He also 
+served as the Mayor of Lexington for 9 years and as a trustee for Washington 
+College. Edmondson found time to serve in the Virginia legislature from 
+1870-1880.</p></note> 
+<note place="end" n="82" id="hanger82"><seg type="note-symbol">{82}</seg><p> William H. Loker (1837- ). Loker spent most of his military 
+career absent sick or absent without leave. He transferred to the 12th Virginia 
+Cavalry in 1863 but soon deserted that unit.</p></note> 
+<note place="end" n="83" id="hanger83"><seg type="note-symbol">{83}</seg><p> James Holly (1828- ) Holly was married in Rockbridge County 
+in 1850 but does not appear on the 1860 census. He was traveling back and forth from 
+Rockbridge County bringing boxes of food, mail and other items to the 
+troops.</p></note> 
+<note place="end" n="84" id="hanger84"><seg type="note-symbol">{84}</seg><p> The Staunton Mountain Sax Horn Band or Turner's Silver 
+Cornet Band. Formed in 1855 with 14 members, the band performed at many civic, 
+politican and military functions. They had played for the Rockbridge Rifles when they 
+departed Staunton for Harrisonburg. The band, depleted by a number of its 
+members serving in the 5th Virginia Infantry, was only visiting the troops 
+at this time. On April 1, 1862 Stonewall Jackson authorized the 5th Virginia 
+Infantry to have a band. 14 men, including 8 former members, made up the 
+regimental band. The bandsmen were not without military duties, as they 
+acted as stretcher bearers for the wounded and took casualties as a result. 
+When Jackson's troops crossed the Potomac into Maryland in September, 1862, 
+the band played "Maryland, My Maryland" as the men waded the river. In 1863 
+the bandsmen were officially designated the "Stonewall Brigade Band" and 
+served to the end of the war. This organization still exists in the city of 
+Staunton.</p></note> 
+<note place="end" n="85" id="hanger85"><seg type="note-symbol">{85}</seg><p> Eugene Lynch (1835-1863). A shoemaker by trade, he spent 
+much of his military career detailed to make shoes for the troops. He was found murdered 
+in Richmond on July 12. 1863.</p></note> 
+<note place="end" n="86" id="hanger86"><seg type="note-symbol">{86}</seg><p> Andrew Jackson Grigsby (1819-1895) A native of Rockbridge 
+County, Grigsby had attended Washington College before serving in the Mexican War. 
+He moved to Missouri for a short time, but was teaching school in the 
+Lexington District of Rockbridge County in 1860. Grigsby was living in Giles 
+County when the war began. He was appointed Major of the 27th Virginia in 
+June, 1861, promoted to Lieutenant Colonel in October and Colonel in May of 
+1862. Grigsby was wounded at Malvern Hill on July 1, 1862. He returned to 
+duty and resigned, along with several other officers when Major Elijah F. 
+Paxton was promoted to Brigadier over the other senior officers in the 
+Stonewall Brigade. He served with the Kentucky troops briefly and in the 
+Confederate House of Representatives from Kentucky as its Speaker 1863-64, 
+and as Counsel in France 1864-65. He farmed in Albemarle County until his 
+death.</p></note> 
+<note place="end" n="87" id="hanger87"><seg type="note-symbol">{87}</seg><p> James Woods Massie (1826-1872) An Augusta County native, 
+he had graduated from the V. M. I. in 1849 and the Washington College Law School in 
+1851. Massie was a lawyer in Lexington, represented to county in the 
+Virginia legislature 1858-59 and Colonel in the militia. Hewas appointed 
+Lieutenant Colonel of the 51st Virginia Infantry in July, 1861. He 
+apparently was serving with Stonewall Jackson at this time. He commanded the 
+51st Virginia in the battle of Ft Donelson, Tennessee but was not reelected 
+in May, 1862 Massie returned to the V. M. I. as professor of mathematics 
+until 1871.</p></note> 
+<note place="end" n="88" id="hanger88"><seg type="note-symbol">{88}</seg><p> Mary Anna Morrison Jackson (1831-?)</p></note> 
+<note place="end" n="89" id="hanger89"><seg type="note-symbol">{89}</seg><p> Bishop EO Johns</p></note> 
+<note place="end" n="90" id="hanger90"><seg type="note-symbol">{90}</seg><p> James S. Thomas (1840-1863) A Bedford County native, he 
+was working as a clerk in Lexington when he enlisted Thomas was wounded at Port 
+Republic and Kearneysville. Promoted to Sergeant Major of the regiment, he was killed at 
+Gettysburg on July 3, 1863.</p></note> 
+<note place="end" n="91" id="hanger91"><seg type="note-symbol">{91}</seg><p> Henry Crawford (1829- ) Crawford was working as a carpenter 
+in the Glenwood District of the county when he enlisted. He was wounded at 2nd 
+fanassas and Fisher's Hill. Crawford returned to his trade in the Natural 
+Bridge area after the war.</p></note> 
+<note place="end" n="92" id="hanger92"><seg type="note-symbol">{92}</seg><p> Samuel A. Gordon (1839- ) Gordon was a clerk in Lexington 
+before the war. He was captured near Spotsylvania Court House on May 20, 1864. He 
+was released from the Elmira, New York prisoner of war camp on June 30, 1865. He 
+apparently died on his way home, as he is listed as "dying in service" on 
+all postwar rosters.</p></note> 
+<note place="end" n="93" id="hanger93"><seg type="note-symbol">{93}</seg><p> Henry Norgrove (1814-1881) A native of Berkshire near 
+Oxford, England, Norgrove immigrated to Richmond and moved to Charlottesville before 
+coming to Lexington in 1837. He was a tailor and clothes merchant. One of his sons, 
+Edward W. Norgrove (1843-1863) was serving in the Rifles. He was mortally 
+wounded at Chancellorsville His other son William H. Norgrove (1840-1863) 
+served as a Lieutenant in the Botetourt Artillery and died of wounds 
+received at Port Gibson, Mississippi in May, 1863. Henry served in the 
+Lexington Patrol during the war. He continued his tailoring career in 
+Lexington until his death.</p></note> 
+<note place="end" n="94" id="hanger94"><seg type="note-symbol">{94}</seg><p> John Clinton Boude (1833-1896) Boude, a Clarke County 
+native and a cabinetmaker, moved to Rockbridge County in 1855. He was soon promoted 
+2nd Lieutenant and later 1st Lieutenant and Captain. Boude was wounded at 2nd 
+Manassas and lost his left leg at Chancellorsville. He served as the 
+Enrolling Officer in Lexington until the end of the war. Boude also served 
+as Clerk of the County Court from 1864-1888. He graduated from Washington 
+College in 1870 B. L. and practiced law in Lexington. Boude was the owner of 
+the "Rockbridge Citizen" newspaper and served on the town council.</p></note> 
+<note place="end" n="95" id="hanger95"><seg type="note-symbol">{95}</seg><p> The "Shriver Grays" were organized by Captain Daniel X 
+Shriver from the best families of Wheeling. They secretly left Wheeling on the last boat not 
+requiring military inspection. This company was never able to obtain many 
+recruits or conscripts and dwindled away to a few survivors by the end of 
+the war.</p></note> 
+<note place="end" n="96" id="hanger96"><seg type="note-symbol">{96}</seg><p> There were three companies from Alleghany County in the 
+regiment The "Alleghany Roughs" under Captain Thompson McAllister, the "Hiberians" 
+under Captain Harry H. Robertson and the "Alleghany Rifles" led by Captain Lewis 
+P. Holloway.</p></note> 
+<note place="end" n="97" id="hanger97"><seg type="note-symbol">{97}</seg><p> Colonel John Thomas Lewis Preston (1811-1890) A Lexington 
+native, Preston attended Washington College and the University of Virginia. He was 
+one of the founders of the Virginia Military Institute and was an instructor 
+there from 1839-1861. He led the Cadets to Richmond in April, 1861, where 
+they were assigned as drillmasters for the new regiments flocking to the 
+capital of the Confederacy. Preston was appointed Lieutenant Colonel of the 
+9th Virginia Infantry on 7 July, 1861. He as assigned to Jackson's staff 
+officially as Assistant Adjutant General in October. Preston was ordered 
+back to the V. M I. in December, 1861, where he served until 1882.</p></note> 
+<note place="end" n="98" id="hanger98"><seg type="note-symbol">{98}</seg><p> Captain Mathew X. White Jr.'s 1st Rockbridge Dragoons, now 
+Company C, 1st Virginia Cavalry.</p></note> 
+<note place="end" n="99" id="hanger99"><seg type="note-symbol">{99}</seg><p> Company D. From Monroe County, now West Virginia, where 
+they were organized in May, 1861.</p></note> 
+<note place="end" n="100" id="hanger100"><seg type="note-symbol">{100}</seg><p> Insert corrected text.</p></note> 
+<note place="end" n="101" id="hanger101"><seg type="note-symbol">{101}</seg><p> The rumor proved to be true. Jackson was assigned to 
+command the Valley District and he managed to get the Stonewall Brlsade and the 
+Rockbridge Artillery assigned to the Valley in November, 1861.</p></note> 
+<note place="end" n="102" id="hanger102"><seg type="note-symbol">{102}</seg><p> William Frederick Walz (1835-1908) A native of Germany, 
+Walz came to the United States at age 14. He was a baker in Lexington when the war 
+began. He is listed as having deserted in December, 1862, however, he was probably 
+discharged as a foreigner, since he served in the Lexington Patrol and was 
+examined by the Conscript Officer in Lexington in February, 1864 He is 
+listed as a baker and confectioneer in Lexington in 1872, but was a milliner 
+and saloon owner by 1880.</p></note> 
+<note place="end" n="103" id="hanger103"><seg type="note-symbol">{103}</seg><p> Mathew R. Sheltman (1835-1895) Sheltman was farming in 
+the <unclear></unclear>the District of Rockbridge County when the war began. He served faithfully 
+throughout the war and was paroled at Staunton in May, 1865 He returned to 
+farming in the county after the war.</p></note> 
+<note place="end" n="104" id="hanger104"><seg type="note-symbol">{104}</seg><p> Colonel John W. Echols (1833-1896) Echols was a native of 
+Lynchburg and a graduate of Washington College. He attended the V. M. I. briefly and 
+graduated from Harvard Law School. Echols was Gommonwealth's Attorney of 
+Monroe County when the war started. He was promoted MaJor of the regiment in 
+May and Colonel in October. Echols was wounded at Kernstown in March, 1862 
+and was promoted to Brigadier General a month later. He commanded a brigade 
+in southwest Virginia and later at New Market and Cold Harbor. Promoted to 
+Major General, he was placed in command of Western Virginia in March, 1865. 
+He surrendered with Johnston's army in North Carolina. Following the war he 
+was an attorney in Staunton and served in the Virginia legislature. After 
+serving as president of the Valley Bank, he was elected president of the C &amp; 
+0 Railroad and moved to Louisville. Kentucky. He died in Staunton and is 
+buried there.</p></note> 
+<note place="end" n="105" id="hanger105"><seg type="note-symbol">{105}</seg><p> Company F, the "Greenbrier Sharpshooters" under Captain 
+Gabriel C. Smith.</p></note> 
+<note place="end" n="106" id="hanger106"><seg type="note-symbol">{106}</seg><p> William Henry Harrison Kahle (1837-1863). A Lexington 
+cabinetmaker, "Bill" Kahle had been wounded at Bull Run on July 21st. He was killed at 
+Gettysburg on July 3, 1863.</p></note> 
+<note place="end" n="107" id="hanger107"><seg type="note-symbol">{107}</seg><p> Henry D. Smith (1832- ). Smith was the butcher for the V. M. 
+I. and was a new recruit for the Rifles. He surrendered at Appomattox Court House on 
+April 9 1865.</p></note> 
+<note place="end" n="108" id="hanger108"><seg type="note-symbol">{108}</seg><p> James William Gillock (1843-19l6) A Lexington native, 
+Gillock rose quickly through the ranks to 1st Lieutenant in 1862. He was captured at 
+Gettysburg and spent the rest of the war in various federal prisons Gillock 
+returned to Lexington and served as the military storekeeper for the V. M. 
+I. for 44 years.</p></note> 
+<note place="end" n="109" id="hanger109"><seg type="note-symbol">{109}</seg><p> Charles W. Sizer (1840- ) Sizer was working as a mason 
+before his enlistment. Wounded in the abdomen at Gettysburg, he was captured at 
+Fairfield, Pennslyvania. Federal records show him as a deserter, who was 
+sent to Ft. Delaware and took the oath and Joined the 3rd Maryland Cavalry, 
+U. S. Confederate records show him hospitalized at Orange Court House from 
+19 September-20 October 1863, then no further record.</p></note> 
+<note place="end" n="110" id="hanger110"><seg type="note-symbol">{110}</seg><p> Probably Dr. Alexander Graham from Rockbridge County, 
+who later served in the Virginia Legislature.</p></note> 
+<note place="end" n="111" id="hanger111"><seg type="note-symbol">{111}</seg><p> Dr. William S. White, pastor of the Lexington Presbyterian 
+Church.</p></note> 
+<note place="end" n="112" id="hanger112"><seg type="note-symbol">{112}</seg><p> Possibly refering to George W. Johnson of Company F, 27th 
+Virginia Infantry.</p></note> 
+<note place="end" n="113" id="hanger113"><seg type="note-symbol">{113}</seg><p> Governor John Letcher (1813-1884). A Lexington lawyer and 
+Virginia's "War Governor."</p></note> 
+</div1> 
+</back> 
+</text> 
+</TEI.2> 
+ 
+ 

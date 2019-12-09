@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+
+<?dlps id="A6002"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A6002">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Henry H. Dedrick to Mary E. A. Dedrick , October
+     20, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county henry h dedrick to mary e a dedrick , october 20 1861</title>
+        <author>Dedrick, Henry H. </author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Diane B. Jacob, Virginia Military Institute</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Alice McShane</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A6002</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:502365</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Henry H. Dedrick to Mary E. A. Dedrick , October 20, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta county henry h dedrick to mary e a dedrick , october 20 1861</title>
+            <author>Henry H. Dedrick</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>1 page</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Henry H. Dedrick Papers, Manusript #0332, Virginia
+       Military Institute Archives, Lexington, Virginia.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>The original of this letter was badly damaged and difficult to read.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Virginia Military Institute Archives, Lexington, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1861-10-20">1861-10-20</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Camp Life, Church/Religious Activity, Family</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001-07">July 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Murrell</name>
+        </respStmt>
+        <item>Tagging checked; final corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A6002T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Dedrick writes a personal letter to his wife (the bottom half of which is illegible). On the
+     reverse is a personal letter from Hiram Coyner to his brother and sister via Mrs. Dedrick.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Mary E.A. Dedrick </name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1861-10-20">October the 20 1861</date>
+     </dateline>
+     <salute>Dear Wife</salute>
+    </opener>
+
+    <p>I have <del rend="none" hand="h1"/> your most affectionate letter. I will send you a few more lines to
+     let you know that I got it. I had wrote a letter and sealed it up and I tore it open again.
+     Dear wife I was glad to hear from you. You don't know how much good it done me when I got it. I
+     received it with....</p>
+   </div1>
+
+   <div1 type="letter" id="d6">
+    <head>
+     <name type="recipient">Brother and Sister</name>
+     <name type="place"/>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1861-10-20">October the 20 1861</date>
+     </dateline>
+     <salute>Dear brother and sister</salute>
+    </opener>
+
+    <p>I have an opportunity to send you a few lines to let you know that I am well at present, and
+     I hope these few lines may find you all enjoying the same state of health. As I have an
+     opportunity to send you a few lines in with H. H. Dedrick letter I thought I would do so, as I
+     have sent two or three to my wife and I have got no answer yet I thought I would try it in his
+     and see what is the matter. Give my love to aunt Rebecca and Amanda and all of my inquiring
+     friends. We have good preaching here and prayer meeting regular. As it is getting dark I have
+     to close my few lines and so nothing more at present but remember your affectionate brother
+     until death</p>
+    <p>Hiram Coyner to brother and sister. I want you to write to me</p>
+    <p>Lissa you will please hand this to John or Beck &amp; oblige Hiram Coyner</p>
+
+    <closer>
+     <salute/>
+     <signed/>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

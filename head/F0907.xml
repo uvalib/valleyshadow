@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0907"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="F0907">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Francis Pleasants to Harriet
+                    McElheney, May 10, 1865</title>
+        <title type="sort">franklin county francis pleasants to harriet mcelheney, may 10 1865</title>
+        <author>Pleasants, Francis</author>
+        <editor> </editor>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amy Murrell</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Amy Murrell</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F0907</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>copyright 1998, by the Rector and Visitors of the University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1998 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1998">1998</date>
+            <idno type="uva-pid">uva-lib:501374</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note>
+                    <p>This transcription was taken directly from a typescript and a photocopy of
+                        the original.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Francis Pleasants to Harriet McElheney, May 10, 1865</title>
+            <title level="m"/>
+            <title type="sort">franklin county francis pleasants to harriet mcelheney, may 10 1865</title>
+            <author>Francis Pleasants</author>
+            <editor> </editor>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p> </p>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher> </publisher>
+                        <pubPlace> </pubPlace>
+                        <date value=""> </date>
+                        <idno type="callNo">Source copy consulted: Sylvester McElheney Papers,
+                            Archives of the U.S. Army Military History Institute, Carlisle Barracks,
+                            Pennsylvania. </idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from U. S. Army Military History Institute, Carlisle Barracks, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1865-05-10">1865-05-10</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Church/Religious Activity, Death/Casualties, Medicine/Hospitals</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2000">Summer 2000</date>
+                <respStmt>
+                    <resp/>
+                    <name>Amy Voorhees</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F0907T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Pleasants describes Sylvester McElheney's last days before dying in a
+                    Philadelphia hospital. McElheney's mental capacity suffered at the end, and
+                    Pleasants reassures Harriet McElheney that the hospital staff treated him very
+                    kindly.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <name type="recipient">Harriet McElheney</name>
+                    <dateline>
+                        <date value="1865-05-10">May 10<hi rend="super">th</hi>/ 1865</date>
+                        <name type="place">Germantown</name>
+                    </dateline>
+                    <salute>Mrs. McElheney - <lb/> Dear Madam,</salute>
+                </opener>
+
+                <p>Your favor of the 1<hi rend="super">st</hi> inst has been received, the answer to
+                    it has been delayed on account of my waiting for the Chaplain to find out the
+                    name of the Priest who was with your husband in his last moments, but the
+                    Chaplain having so much to attend to has neglected doing so until I feared you
+                    would wonder why I had not answered your letter. Why my letter was so long
+                    delayed is a mystery to me - and how we wondered why you did not come to him -
+                        <orig reg="though">tho'</orig> my friend it would have been but little
+                    satisfaction for you to have been here as he would not have known you, he being
+                    out of his mind for<pb n="2"/> three or four days. The first day his mind
+                    wandered, I thought perhaps I could recall <del hand="h1">his mond</del> it by
+                    taking a pen and paper sitting beside him and letting him <hi rend="underline"
+                    >know</hi> I was writing to you - He knew me, I told him what I was writing
+                    &amp;c - he remarked, "tell her I left Philadelphia and--" I interrupted him
+                    by saying he was still in Philadelphia, then he told me he was with you all - I
+                    pretended he was, said, "were they all well and were they glad to see you?"
+                    "yes, indeed" "and were the little children glad?" he smiled &amp; said "I
+                    bet they were," smiled again when I made mention you, said the little ones had
+                    grown, it having been eight months since he saw them - said "the old woman was
+                    sick" any of your friends ill?</p>
+
+                <p>The wound was a severe one, it being near the left thigh, and discharged a great
+                    deal of matter all the time.</p>
+                <pb n="3"/>
+
+                <p>When the Priest saw him he did not know <orig reg="anyone">any one</orig> so that
+                    I think he cannot tell you any more than myself as I was with him most of any
+                    with the exception of his nurses who were soldiers, but <hi rend="underline"
+                        >very</hi>
+                    <hi rend="underline">very</hi> kind to him, uncommonly so.</p>
+
+                <p>I do not think he was conscious of his situation as he kept telling us he was
+                    better all the time - I did not think, it best to tell him of his situation as
+                    we expected you every hour and wanted you to be the one, as I assure you it is a
+                    very painful thing to tell an entire stranger that he is dying - The hospital
+                    has closed all patients having been removed from there yesterday - perhaps by
+                    dropping a line to the Chaplain he will find out about the Priest as he will
+                    have more time to attend to the matter now - his address is 410 North 11<hi
+                        rend="super">th</hi> St - It was really very kind in him to get the priest -
+                    as it<pb n="4"/> is the first time in my recollection his doing so - but he
+                    remarked to me he pitied him so much.</p>
+
+                <p>I have written to you all the particulars I know of, of your husband and <orig
+                        reg="though">tho'</orig> severe the trial it is to you, yet it may be a
+                    dispensation sent you from on high, for your good - I remain in much sympathy.</p>
+
+                <closer>
+                    <salute>Your friend</salute>
+                    <signed>Francis Pleasants<lb/> Germantown<lb/> Philadelphia</signed>
+                    <seg type="postscript">You must excuse the haste in which this is written, but
+                        have so many letters to write at this time -</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

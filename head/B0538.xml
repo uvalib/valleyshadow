@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+
+<?dlps id="B0538"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B0538">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: W. Storer How to Orlando
+                    Brown, November 6, 1865</title>
+        <title type="sort">freedmens bureau records w storer how to orlando brown, november 6 1865</title>
+        <author>How, W. Storer</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B0538</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500797</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: W. Storer How to Orlando Brown, November
+                            6, 1865</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records w storer how to orlando brown, november 6 1865</title>
+            <author>W. Storer How</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Bureau of Refugees, Freedmen, and
+                            Abandoned Lands, Record Group 105, Box E4302.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1865-11-06">1865-11-06</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Health/Illness, Administration/Bureaucracy</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-07">July 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+                <item>Item checked against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B0538T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>How files a brief report on the need for medical services among poor blacks in
+                    Staunton and Lexington, and suggests how doctors may be employed to meet the
+                    medical needs of the communities.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <abbr expan="Bureau">Bu.</abbr> &amp;c
+                    <name type="recipient"><abbr expan="Colonel">Col.</abbr> O. Brown<lb/><abbr
+                            expan="Assistant Commissioner">Asst. Comr.</abbr><lb/>Richmond, <abbr
+                            expan="Virginia">Va</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1865-11-06"><abbr expan="November">Nov</abbr> 6th 1865</date>
+                        <name type="place">Winchester, <abbr expan="Virginia">Va</abbr></name>
+                    </dateline>
+                    <salute>Colonel</salute>
+                </opener>
+
+                <p>In relation to medicines and medical treatment for the destitute freedmen in the
+                    district I have the honor to report that there are yet comparatively few cases
+                    requiring such <del hand="h1">support</del> assistance, but where they do occur
+                    it is difficult to meet them, as I am without definite instructions upon the
+                    subject and do not feel authorized to pay for single visits or make contracts by
+                    the month.</p>
+
+                <p>I understand from Dr. ----- who visited Staunton in September by order of Dr.
+                        <unclear>Lamenter</unclear> that contracts would probably be made with local
+                    physicians and so I have remained in expectancy.</p>
+
+                <p>In Staunton and in Lexington the services of physicians have been needed and
+                    given, and I have directed that moderate bills may be made out and sent to me to
+                    be forwarded for approval.</p>
+
+                <p>No other instances have been reported to me, and I respectfully suggest that the
+                    method might be adopted with advantage until it shall be found too expensive or
+                    liable to abuse.</p>
+
+                <closer>
+                    <salute>I am &amp;c</salute>
+                    <signed><abbr expan="W. Storer How">W.S.H.</abbr>
+                        <abbr expan="Captain">Capt</abbr> &amp;c</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

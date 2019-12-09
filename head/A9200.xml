@@ -1,0 +1,246 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9200"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A9200">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: J. W. Campbell to Virginia G.
+                    McCormick, December 14, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county j w campbell to virginia g mccormick, december 14 1861</title>
+        <author>Campbell, J.W.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Elizabeth Ladner</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A9200</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502085</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: J. W. Campbell to Virginia G. McCormick, December 14,
+                            1861</title>
+            <title level="m"/>
+            <title type="sort">augusta county j w campbell to virginia g mccormick, december 14 1861</title>
+            <author>J. W. Campbell</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Enos Ott Papers, Private
+                            Collection of Gail Ott</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from private collection</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1861-12-14">1861-12-14</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Battle Description, Camp Life, Death/Casualties</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A9200T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>In this letter to his cousin Virginia (also Enos's sister-in-law), J. W. writes
+                    of his experiences in battle, mentioning the death of Captain Anderson and the
+                    wounds of Jemmie Hanger and Jake Cox.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Paid 5 cents<lb/>Miss Virginia G. McCormick<lb/>Greenville Augusta Co Va
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1861-12-14">December 14, 1861</date>
+                    </dateline>
+                    <salute><orig reg="Dear">Dare</orig> cousin</salute>
+                </opener>
+
+                <p>I received my box the 12 I was <orig reg="very">vary</orig> glad to <orig
+                        reg="get">git</orig> it I <orig reg="would">wood</orig> of <orig
+                        reg="written">ritten</orig> yesterday but yesterday morning before sun up
+                        <orig reg="the">they</orig> yankees came on <orig reg="us">ous</orig>
+                    <orig reg="They">thay</orig> had <orig reg="us">ous</orig>
+                    <orig reg="very">vary</orig>
+                    <orig reg="near">neir</orig>
+                    <orig reg="surrounded">serrounded</orig>
+                    <orig reg="There">the</orig> was three 1000 yankees and about 14,100 of our men
+                        <orig reg="We">wey</orig> had <orig reg="two">tow</orig> fights the yankees
+                        <orig reg="divided">devied</orig> and went <orig reg="two">tow</orig> ways
+                    our Regiment was in the ditches I was in <orig reg="front">frount</orig> of the
+                    battle the <orig reg="whole">hole</orig> time the yankees had the <orig
+                        reg="advantage">advantedg</orig> of our men <orig reg="they">thay</orig> got
+                    in the tree tops behind logs and behind stumps so that we <orig reg="could"
+                    >cood</orig> not see them when <add hand="h1" place="inline">
+                        <orig reg="we">wey</orig>
+                    </add>
+                    <orig reg="would">wod</orig> look over the bank <orig reg="they">thay</orig>
+                    <orig reg="would">wod</orig> shoot at <orig reg="us">ous</orig> I was <orig
+                        reg="very">vary</orig>
+                    <orig reg="near">neare</orig> give out when i got to the ditches it was the
+                    first time I had <orig reg="been">ben</orig> out <orig reg="any">eny</orig>
+                    distance for <orig reg="some">soum</orig> time I had <add hand="h1"
+                        place="inline">no</add>
+                    <orig reg="orders">ordes</orig> to go but I went and took good <orig reg="aim"
+                        >ame</orig> at the yankees but I <orig reg="can't">cat</orig> say that I
+                        <orig reg="killed">kiled</orig>
+                    <orig reg="any">eny</orig> the balls fell like <orig reg="hail">hale</orig> the
+                    yankees <orig reg="killed">kiled</orig> a good <orig reg="many">meny</orig> of
+                        <add hand="h1" place="inline">our</add>
+                    <orig reg="officers">oficers</orig>
+                    <orig reg="They">thay</orig>
+                    <orig reg="killed">kiled</orig><pb n="2"/><abbr expan="Captain">Cap't</abbr>
+                    <orig reg="Anderson">andison</orig> close at me <orig reg="There">the</orig> is
+                    a good many <orig reg="killed">kiled</orig> on both sides <orig reg="There"
+                    >the</orig> is more yankees <orig reg="killed">kiled</orig>
+                    <orig reg="than">then</orig> is on our side but I <orig reg="can't">
+                        <abbr expan="cannot">cant</abbr>
+                    </orig> tell how <orig reg="many">meny</orig> is lost on our side we <orig
+                        reg="fought">faugh</orig>
+                    <del hand="h1">from</del> a bout 6 <orig reg="hours">hors</orig> and <orig
+                        reg="half">hafe</orig>
+                    <orig reg="There">the</orig>
+                    <del hand="h1">ut</del> is none of our company <orig reg="hurt">hirt</orig>
+                    Jemmie Hanger is a little better this morning he had a bad <orig reg="chill"
+                        >chil</orig> last night Jake Cox is <orig reg="complaining"
+                    >complaying</orig> the rest of the boys is well <orig reg="except">exsept</orig>
+                    bad <orig reg="colds">cols</orig>
+                    <del hand="h1">I am a</del> I feel better this morning <orig reg="than"
+                    >then</orig> I have felt for some time I have had <orig reg="something"
+                    >southing</orig> like the <orig reg="neuralgia">neuralsia</orig> in my head I am
+                        <orig reg="very">vary</orig> well <orig reg="pleased">please</orig> with my
+                    shirts and pants I <orig reg="can't">
+                        <abbr expan="cannot">cant</abbr>
+                    </orig> tell <orig reg="whether">wether</orig> we will come to Staunton or not
+                        <orig reg="They're">thery</orig> still <orig reg="talking">tawking</orig>
+                    about it <orig reg="Please">plees</orig> let father have those <orig reg="shoes"
+                        >shoos</orig> that I <orig reg="drew">drue</orig> in Staunton they are <orig
+                        reg="too">tow</orig> large for me if <orig reg="there">the</orig> is <orig
+                        reg="any">eny</orig>
+                    <orig reg="passing">pasing</orig> to <orig reg="Midway">midway</orig>
+                    <orig reg="please">plese</orig> send them to Mr <orig reg="Nelson's"
+                    >nelson</orig> store I drew a <orig reg="pair">paire</orig> of <orig reg="shoes"
+                        >shoos</orig> the <orig reg="shoes">shoos</orig> is good that I brought from
+                    home nothing more at present <orig reg="only">oly</orig> remain your
+                    affectionate Cousin until death</p>
+
+                <closer>
+                    <salute/>
+                    <signed>J W Campbell</signed>
+                    <seg type="postscript">
+                        <name type="recipient">Virginia G MC</name>
+                    </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

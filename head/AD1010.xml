@@ -1,0 +1,3862 @@
+<?xml version="1.0"?>
+
+<?dlps id="AD1010"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="AD1010"> 
+<teiHeader type="migrated"> 
+
+    <fileDesc> 
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Diary of James M. Cadwallander (1864-1865)</title>
+        <title type="sort">augusta county diary of james m cadwallander 1864 1865</title>
+        <author>Cadwallander, James M.</author>
+        <editor/>
+        <respStmt> 
+          <resp>Creation of machine-readable version: </resp> 
+          <name>Elizabeth Crocker</name> 
+          <resp>Conversion to TEI.2-conformant markup:</resp> 
+          <name>Elizabeth Crocker</name> 
+        </respStmt>
+      </titleStmt> 
+
+      <extent>
+        <num type="kilobytes"> 80 kilobytes</num>
+      </extent> 
+      <publicationStmt> 
+        <publisher>Virginia Center for Digital History</publisher> 
+        <pubPlace>Charlottesville, Virginia </pubPlace> 
+
+        <idno type="VCDH">AD1010</idno> 
+
+        <!--
+<availability> 
+<p>Publicly accessible </p> 
+<p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p> 
+<p>copyright 1998, by the Rector and Visitors of the University of 
+Virginia</p> 
+</availability>
+--> 
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1998 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1998">1998</date> 
+        <idno type="uva-pid">uva-lib:500332</idno>
+      </publicationStmt> 
+      <seriesStmt> 
+        <p>Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt> 
+      <notesStmt>
+        <note/>
+      </notesStmt> 
+
+      <sourceDesc> 
+        <biblFull> 
+          <titleStmt>
+            <title>Diary of James M. Cadwallander</title>
+            <title level="m"> </title>
+            <title type="sort">diary of james m cadwallander</title>
+            <author>James M. Cadwallander</author>
+            <editor/>
+            <respStmt>
+              <resp>e.g. Translator</resp>
+              <name>Ben Ritter</name>
+            </respStmt>
+          </titleStmt> 
+          <editionStmt> 
+            <p> </p> 
+          </editionStmt> 
+          <extent>pages</extent> 
+          <publicationStmt> 
+            <publisher/> 
+            <pubPlace/> 
+            <date value=""/> 
+            <idno type="callNo">Source copy consulted: Collections of the
+Fredericksburg National Battlefield, Fredericksburg, Virginia</idno> 
+          </publicationStmt> 
+          <seriesStmt>
+            <p>Valley of the Shadow: Two Communities in the American Civil War</p>
+          </seriesStmt> 
+          <notesStmt> 
+            <note/>
+          </notesStmt> 
+        </biblFull> 
+      </sourceDesc> 
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Fredericksburg and Spotsylvania National Battlefield Park</p>
+      </projectDesc>
+    </encodingDesc> 
+
+    <profileDesc> 
+      <creation>
+        <dateRange to="1864-02-01" from="1865-03-14">1864-02-01; 1865-03-14</dateRange>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage> 
+      <textClass> 
+        <keywords> 
+          <term>
+Arts/Leisure, Battle Description, Camp Life, Medicine/Hospitals, Prisons/Prisoners, Troop 
+Movement, Women
+</term> 
+          <term>American Civil War</term>
+        </keywords> 
+      </textClass> 
+    </profileDesc> 
+
+    <revisionDesc> 
+      <change> 
+        <date value=""> </date>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt> 
+        <item/> 
+      </change> 
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc> 
+  </teiHeader> 
+
+<text id="AD1010T">
+
+<front id="d2">
+<div1 id="AD1010bio" type="bio">
+<head>Biography
+<!-- <ref>AD1010bio</ref> -->
+</head>
+<p>This diary documents the movement of the 1st Virginia Cavalry, in
+which several hundred Augusta County men served.  It reports on the
+ regiment's movement through Virginia and includes discussion of
+ engagements at Chancellorsville, Petersburg, and Winchester.  It also
+ details the ways in which the regiment's soldiers passed their leisure 
+time in camp.</p> </div1> 
+</front>
+
+<body id="d4">
+
+
+<div1 id="AD10101864" type="part" n="1864">
+<head>1864
+<!-- <ref>AD10101864</ref> -->
+</head>
+
+<div2 type="section" n="1864-02" id="d6">
+<head>February 1864
+ <!-- <ref> Camp Life, Troop Movement</ref> --> 
+</head>
+
+<div3 type="entry" n="1864-02-01" id="d7">
+<head>1 Feb. 1864 (Mon.)</head>
+<p>There was 300 Yankees went up the valley this morning. they had a 
+piece of artillery,turned off at Strasburg and went towards 
+Wardensville.</p></div3>
+
+<div3 type="entry" n="1864-02-02" id="d8">
+<head>2 Feb. 1864 (Tue.)</head> 
+<p>Tom Billy and Buck and myself went to George Hassie's and had a gay 
+time of it, didant get back untill near night.</p></div3>
+
+<div3 type="entry" n="1864-02-03" id="d9">
+<head>3 Feb. 1864(Wed.)</head> 
+<p>Milt Steele and Buck are up Milt came out to see if we had gone and 
+Back came up to let me know that wee wouldant go untill in the 
+morning.</p></div3>
+
+<div3 type="entry" n="1864-02-04" id="d10">
+<head>4 Feb 1864. (Thur)</head>
+<p> The Boys came by. Wee all started for the army, went hard to leave.  
+Wee stayed 3 miles above Edinburg at Mr. Lantz.  Bill 
+nothing.</p></div3>
+
+<div3 type="entry" n="1864-02-05" id="d11">
+<head>5 Feb.1864 (Fri.)</head> 
+<p>Wee went to Newmarket.  Stayed all night at Mr. Henkle's 2 (?) miles 
+west of town.  Bill 1.50 cnts.</p></div3>
+
+<div3 type="entry" n="1864-02-06" id="d12">
+<head>6 Feb. 1864 (Sat.)</head> 
+<p>Wee went up to Harrisonburg today, stayed all night at Mr.(   ) (?). 
+Bill4.00.</p></div3>
+
+<div3 type="entry" n="1864-02-07" id="d13">
+<head>7 Feb. 1864 (Sun)</head>
+<p>Wee turned off the pike one mile above Harrisonburg. 
+Stayed the night with Doctor Kemper. Bill 3.00</p></div3>
+
+<div3 type="entry" n="1864-02-08" id="d14">
+<head>8 Feb. 1864</head>
+<p>Crossed the mountains todav. Stayed all night at Mr. (Noppin's) near 
+White Hall. Bill 4.00</p></div3>
+
+<div3 type="entry" n="1864-02-09" id="d15">
+<head>9 Feb. 1864 (Tue.)</head>
+<p>We got into camp. Boys all well and glad to see us. took dinner with 
+?ash and hen Dinges.</p></div3>
+
+<div3 type="entry" n="1864-02-10" id="d16">
+<head>10 Feb. 1864 (Mon.)</head> 
+<p>Lieut. Trussel got to Camp today, reported the Yanks being in 
+Winchester.</p></div3>
+
+<div3 type="entry" n="1864-02-11" id="d17">
+<head>11 Feb. 1864 (Thu.)</head> 
+<p>Got orders to cook up 3 days rations, expect to leave in the morning 
+for Orange. I must go to bed.</p>
+</div3>
+
+<div3 type="entry" n="1864-02-12" id="d18">
+<head>12 Feb. 1864 (Fri.)</head>
+<p>Took up the line of march and went into camp 2 miles below 
+Barbersvillee.  Am now sitting around the fire.</p></div3>
+
+<div3 type="entry" n="1864-02-13" id="d19">
+<head>13 Feb. 1864 (Sat.)</head>
+<p>Took up the line of march and went into camp 2 miles side of Orange. 
+Had a game of ball this evening.</p></div3>
+
+<div3 type="entry" n="1864-02-14" id="d20">
+<head>14 Feb. 1864 (Sun.)</head>
+<p>Still in Camp, very windy, fire broke out in camp compelled some of 
+the Boys to move their tents. Col. Morgan is just (  ).</p></div3>
+
+<div3 type="entry" n="1864-02-15" id="d21">
+<head>15 Feb. 1864 (Mon.)</head> 
+<p>Snowing very hard, disagreeable, building winter houses. I wrote 2 
+letters this evening, one home and the other to 
+(W.E.)</p></div3>
+
+<div3 type="entry" n="1864-02-16" id="d22">
+<head>16 Feb. 1864 (Tue.)</head>
+<p>Very windy and cold, was at work at our chimney today. Wee drawed 3 days 
+rations to go on picket in the morning on the Robison Rivere I am now 
+thinking of going to bed.</p></div3>
+
+<div3 type="entry" n="1864-02-17" id="d23">
+<head>17 Feb. 1864 (Wed.)</head>
+<p>Started on picket duty this morning dredful cold, got to the picket 
+post about 2 o'clock in the evening, no Yanke in(sight). </p></div3>
+
+<div3 type="entry" n="1864-02-18" id="d24">
+<head>18 Feb. 1864 (Thu.)</head> 
+
+<p>Still on picket, very cold, went cross the River and got our 
+suppers, Buck, John Walters and myself, nothing extra. Bill (  ).</p>
+</div3>
+
+<div3 type="entry" n="1864-02-19" id="d25">
+<head>19 Feb. 1864 (Fri.)</head>
+<p>Still on picket, moderated some went over the River and got (Our) 
+some dinners, Buck, John Walters and myself. $5.00</p></div3>
+
+<div3 type="entry" n="1864-02-20" id="d26">
+<head>20 Feb. 1864 (Sat.)</head>
+<p>Was relieved today by Seckond Regiment, was very glad to get to Camp once 
+more.</p></div3>
+
+<div3 type="entry" n="1864-02-21" id="d27">
+<head>21 Feb. 1864 (Sun.)</head>
+<p>Was hard at work all day on our winter hut, Wee are living quite 
+comfortable now.</p></div3>
+
+<div3 type="entry" n="1864-02-22" id="d28">
+<head>22 Feb 1864 (Mon)</head>
+<p>Went out on review today, was reviewed by Gen. Fitshugh Lee. Wee are 
+now getting supper.</p></div3>
+
+<div3 type="entry" n="1864-02-23" id="d29">
+<head>23 Feb. 1864 (Tue.)</head>
+<p>Still in Camp quite plesent, had a game of ball this morning. I wrote 
+a letter to John this morning.</p></div3>
+
+<div3 type="entry" n="1864-02-24" id="d30">
+<head>24 Feb. 1864 (Wed.)</head>
+<p>Still laying around in Camp quite plesent.  C. D. Bucher put in for a 
+furlough this morning.</p></div3>
+
+<div3 type="entry" n="1864-02-25" id="d31">
+<head>25 Feb. 1864 (Thu.)</head>
+<p>Still in Campo quite plesent, had a game of ball this morning, had 
+dress parade this evening.</p></div3>
+
+<div3 type="entry" n="1864-02-26" id="d32">
+<head>26 Feb. 1864 (Fri.)</head>
+<p>Went down to see the Band Boys today, had a nice time of it, took 
+dinner with John Blaker</p></div3>
+
+<div3 type="entry" n="1864-02-27" id="d33">
+<head>27 Feb. 1864 (Sat.) </head>
+<p>Alls quiet in Camp today, had dress paraid this evening.</p></div3>
+
+<div3 type="entry" n="1864-02-28" id="d34">
+<head>28 Feb. 1864 (Sun.) </head>
+<p>Got orders to cook up 2 days rations and be ready to move at moments 
+notice.</p></div3>
+
+<div3 type="entry" n="1864-02-29" id="d35">
+<head>29 Feb 1864 (Mon.)</head>
+<p>Moved back on the flank good 8 miles above Sumerset and stayed there 
+until 1 O'clock, heavy canonading in the direction of Charlottesville 
+we moved in that direction and from there on the road to Standardsville, 
+traveled all night.</p></div3>
+</div2>
+
+<div2 type="section" n="1864-03" id="d36">
+<head>March 1864
+ <!-- <ref> Camp Life, Women</ref> --> 
+</head>
+
+<div3 type="entry" n="1864-03-01" id="d37">
+<head>1 March 1864 (Tue.)</head>
+<p>Came in contact with the Yankees but wee were compelled to fall 
+back. David Stickely and Mack Ritenour taken prisoners, William Jones 
+wounded.</p></div3>
+
+<div3 type="entry" n="1864-03-02" id="d38">
+<head>2 March 1864 (Wed)</head>
+<p>Returned to Camp, ordered to prepare 2 days rations. moved in the 
+direction of Fredericksburg, camped near Vandiersville 
+(Verdiersville).</p></div3>
+
+<div3 type="entry" n="1864-03-03" id="d39">
+<head>3 March 1864 (Thu.)</head>
+<p>At daylight started and went to Chancellorsville, I was detailed as a 
+curier, had a good post at Mr. Oldridge's.</p></div3>
+
+<div3 type="entry" n="1864-03-04" id="d40">
+<head>4 March 1864 (Fri.)</head>
+<p>Still at our post, the Yankees crossed over but soon went back, had a 
+good deal of riding to do carrying dispatches.</p></div3>
+
+<div3 type="entry" n="1864-03-05" id="d41">
+<head>5 March 1864 (Sat.)</head>
+<p>Started to Camp soon in the morning, got to camp about 7 o'clock that 
+evening.</p></div3>
+
+<div3 type="entry" n="1864-03-06" id="d42">
+<head>6 March 1864 (Sun.)</head>
+<p>In Camp today. Bucher got his furlough.  Mr. Newman came 
+camp.</p></div3>
+
+<div3 type="entry" n="1864-03-07" id="d43">
+<head>7 March 1864 (Mon.)</head>
+<p>Still in Camp, I wrote a letter home today, expect to send it by 
+Bucher when he goes, had the toothache very bad. Co. F. got in this 
+evening.</p></div3>
+
+<div3 type="entry" n="1864-03-08" id="d44">
+<head>8 March 1864 (Tue.)</head>
+<p> Still in Camp, rained untill 12 o'clock can claired off.
+Wrote 2 letters today expect to send them away in the morniag by Camil
+when he goes.</p></div3>
+
+<div3 type="entry" n="1864-03-09" id="d45">
+<head>9 March 1864 (wed.)</head>
+<p>Still in Camp. i went down to Orange with Camil when he started for 
+home, gave him my letters.</p></div3>
+
+<div3 type="entry" n="1864-03-10" id="d46">
+<head>10 March 1864 (Thu.)</head>
+<p>Still in Camp, rained very hard all day, under marching orders, 
+report is the Yanks are trying to cross the Robison River.</p></div3>
+
+<div3 type="entry" n="1864-03-11" id="d47">
+<head>11 March 1864 (Fri.)</head>
+<p> Still in Camp, raining hard and thundering, claired off in the 
+evening. Mr. Johnson came down to our camp this evening.</p></div3>
+
+<div3 type="entry" n="1864-03-12" id="d48">
+<head>12 March 1864 (Sat.)</head>
+<p>Still in Camp. Mr. Johnson and Mr. Newman left this morning for home. 
+Wee had a game of town ball this evening.</p></div3>
+
+<div3 type="entry" n="1864-03-13" id="d49">
+<head>13 March 1864 (Sun.) </head>
+<p>Still laying around in Camp, got a letter from John, he is well. 
+Wesley Bucher came up to see us out of the old camp. Chassers very 
+plesent.</p></div3>
+
+<div3 type="entry" n="1864-03-14" id="d50">
+<head>14 March 1864 (Mon.)</head>
+<p>Milt Steele and myself went down to town, seen George Gordan, got 
+back before sundown.</p></div3>
+
+<div3 type="entry" n="1864-03-15" id="d51">
+<head>15 March 1864 (Tue.)</head> 
+<p>Still in Camp, answred John's letter this morning, drilled twice 
+today. Ned Waller got to camp, he has been exchanged.</p></div3>
+
+<div3 type="entry" n="1864-03-16" id="d52">
+<head>16 March 1864 (Wed.)</head>
+<p>Still in Camp. Clair and warm, went over and got my cloathes that I 
+washed, had Company drill in the evening.</p></div3>
+
+<div3 type="entry" n="1864-03-17" id="d53">
+<head>17 March 1864 (Thu.)</head>
+<p>Still in Camp. Clair, had a game of town ball this morning and 
+drilled this evening horseback.</p></div3>
+
+<div3 type="entry" n="1864-03-18" id="d54">
+<head>18 March 1864 (Fri.)</head>
+<p>All quiet drilled twice today. Drew rations today, flour, coffee, 
+rice, bacon.</p></div3>
+
+<div3 type="entry" n="1864-03-19" id="d55">
+<head>19 March 1864 (Sat.)</head>
+<p>Still in Camp, quite plesent, drilled twice today, Charles Landon got 
+here this evening.</p></div3>
+
+<div3 type="entry" n="1864-03-20" id="d56">
+<head>20 March 1864 (Sun.)</head>
+<p>Still in Camp quite plesent, nothing going on. Charles London is 
+still here.</p></div3>
+
+<div3 type="entry" n="1864-03-21" id="d57">
+<head>21 March 1864 (Mon.)</head>
+<p>Got orders to cook up 3 days rations to go on picket on the Robison 
+River, turned very cold.</p></div3>
+
+<div3 type="entry" n="1864-03-22" id="d58">
+<head>22 March 1864 (Tue.)</head>
+<p>Started on picket this morning, turned very cold, commenced snowing 
+in the evening and snowed on till morning, hard to stand 3 hours with out any 
+fire, had a hard time, the snow was 9 inches deep.</p></div3>
+
+<div3 type="entry" n="1864-03-23" id="d59">
+<head>23 March 1864 (Wed.)</head>
+<p>Still on picket, heard no news from the Yanks yet, moderated some, 
+Tom Billy went over to Mrs. Carpenter and got &amp; cake of corn bread, We are 
+now eating around the fire. Buck is on post.</p></div3>
+
+<div3 type="entry" n="1864-03-24" id="d60">
+<head>24 March 1864 (Thu.)</head>
+<p>Still on picket, quite plesnt, the snow is nearly gone, Milt and 
+myself went over to Mrs. Carpenter's and got our bread, the Ladies 
+played on the piano for us, the Yanks made there appearance on the 
+opposite side of the River.</p></div3>
+
+<div3 type="entry" n="1864-03-25" id="d61">
+<head>25 March 1864 (Fri.)</head>
+<p>Was relieved today by the second Regt. returned to camp in the 
+evening, rained very hard until about 9 o'clock that night, heard In camp that 
+Boyers was to be shot today.</p></div3>
+
+<div3 type="entry" n="1864-03-26" id="d62">
+<head>26 March 1864 (Sat.)</head>
+<p>In Camp, nothing going on, got a letter from Bell today, was glad to 
+hear from him, weather is quite blustery. I am now thinking about 
+retiring.</p></div3>
+
+<div3 type="entry" n="1864-03-27" id="d63">
+<head>27 March 1864 (Sun.)</head>
+<p>Quite plesent, had preaching this morning in Camp, Charley Lamdon got 
+back and started for his company. Bob Bucher come up to see us, took dinner 
+with us.</p></div3>
+
+<div3 type="entry" n="1864-03-28" id="d64">
+<head>28 March 1864 (Mon.)</head>
+<p>Quite plesant, Bob McLed and myself went to a house to got our 
+cloathes washed. had drill on horseback in the morning and a foot in the 
+evening.</p></div3>
+
+<div3 type="entry" n="1864-03-29" id="d65">
+<head>29 March 1864 (Tue.)</head>
+<p>Still in Camp, reined very hard all day and night.Times is very dull 
+in Camp. George Ritenour went to Orange C. House, got very wet coming 
+back, thats all.</p></div3>
+
+<div3 type="entry" n="1864-03-30" id="d66">
+<head>30 March 1864 (Wed.)</head>
+<p>Still in Camp very cloudy and cold. Mr. Cross came down to see John, 
+brought him a box from  home.</p></div3>
+
+<div3 type="entry" n="1864-03-31" id="d67">
+<head>31 March 1864 (Thu.)</head>
+<p>I wrote a letter home. I want to send it by George Ritenour when he 
+goes, he expects to start in the morning, him and Ned Walter. Buck went 
+down and got our cloathes that wee had washed at a house, nothing going 
+(  ) hadant arq drill on the account of itbeing very mudy and Col. 
+Morgan went away.</p></div3>
+</div2>
+
+<div2 type="section" n="1864-04" id="d68">
+<head>April 1864
+ <!-- <ref> Camp Life, Women</ref> --> 
+</head>
+
+<div3 type="entry" n="1864-04-01" id="d69">
+<head>1 April 1864 (Fri.)</head>
+<p>In Camp, Clair, George Ritneour started for the Valley this
+morning him and Ned Walter.</p></div3>
+
+<div3 type="entry" n="1864-04-02" id="d70">
+<head>2 April 1864 (Sat.)</head>
+<p>Still in camp, rained all day, nothing going on, very dull in Camp 
+of a rainy day.</p></div3>
+
+<div3 type="entry" n="1864-04-03" id="d71">
+<head>3 April 1864 (Sun.)</head>
+<p>Went down Town and had 2 Teeth pulled, one broke off, gave me much 
+pain</p></div3>
+
+<div3 type="entry" n="1864-04-04" id="d72">
+<head>4 April 1864 (Mon.)</head>
+<p>Still in Camp, rained very hard all day. I wrote a letter to 
+Fisher and sent Josha a April letter. my Jaw very sore.</p></div3>
+
+<div3 type="entry" n="1864-04-05" id="d73">
+<head>5 April 1864 (Tue.)</head>
+<p>Still raining. Stuart Steele left this morning for the Valley. I 
+sent my letters by him.</p></div3>
+
+
+<div3 type="entry" n="1864-04-06" id="d74">
+<head>6 April 1864 (Wed.)</head>
+<p>Still in camp. rained most an day, nothing going on. Tom Bill 
+Massie and Milt Steele went on picket.</p></div3>
+
+<div3 type="entry" n="1864-04-07" id="d75">
+<head>7 April 1864 (Thu.)</head>
+<p>Still in Camp,, quite plesant got a letter from John, he is well. 
+Bucher got in about sundown.  Brought me 2 letters.</p></div3>
+
+<div3 type="entry" n="1864-04-08" id="d76">
+<head>8 April 1864 (Fri.)</head>
+<p>Still in camp quite plesant, had preaching in the morning and the 
+evening, heard a very good sermon.</p></div3>
+
+<div3 type="entry" n="1864-04-09" id="d77">
+<head>9 April 1864 (Sat.)</head> 
+<p>Still in camp, rained very hard all day, the boys got in off picket, 
+got very wet coming to canp.</p></div3>
+
+<div3 type="entry" n="1864-04-10" id="d78">
+<head>10 April 1864 (Wed.) </head>
+<p>Still in camp, quite plesant in the morning but commenced to rain in 
+the evening, very wet in cemp. Some of us are going to 
+Fredericksburg.</p></div3>
+
+<div3 type="entry" n="1864-04-11" id="d79">
+<head>11 April 1864</head>
+<p>Still in camp, quite plesant.  Milt Steele and John Cross went to 
+Orange, had inspection this evening.</p></div3>
+
+<div3 type="entry" n="1864-04-12" id="d80">
+<head>12 April 1864 (Tue.)</head>
+<p>Still in camp on gard today.  I wrote a letter to John this morning, 
+expect to send it by mail in the morning.</p></div3>
+
+<div3 type="entry" n="1864-04-13" id="d81">
+<head>13 April 1864 (Wed.)</head>
+<p>Still in camp, very plesant, had drill in the evening and dress 
+parade.</p></div3>
+
+<div3 type="entry" n="1864-04-14" id="d82">
+<head>14 April 1864 (Thu.)</head>
+<p>Still in camp, Clair and plesant. had drill in the morning and dress 
+parade in the evening.</p></div3>
+
+<div3 type="entry" n="1864-04-15" id="d83">
+<head>15 April 1864 (Fri.)</head> 
+<p>Still in camp. cloudy and rained most all day (illegible)</p></div3>
+
+<div3 type="entry" n="1864-04-16" id="d84">
+<head>16 April 1864 (Sat.)</head> 
+<p>Still in camp, cloudy rained part of the day. George Ritenour got
+in this evening.</p></div3>
+
+<div3 type="entry" n="1864-04-17" id="d85">
+<head>17 April 1864 (Sun)</head> 
+<p>Still in camp, clair and plesant, quite plesant.</p></div3>
+
+<div3 type="entry" n="1864-04-18" id="d86">
+<head>18 April 1864 (Mon.)</head>
+<p>Still in camp, clair and plesant, nothing going on.</p></div3>
+
+<div3 type="entry" n="1864-04-19" id="d87">
+<head>19 April 1864 (Tue.)</head> 
+<p>Still in camp, Bucher went down to the Stonewall Brigade. Bud 
+Pifer got in this morning off furlough.</p></div3>
+
+<div3 type="entry" n="1864-04-20" id="d88">
+<head>20 April 1864 (Wed.)</head> 
+<p>Still in camp. had skirmish drill in the morning and evening 
+drawed rations to go on picket.</p></div3>
+
+<div3 type="entry" n="1864-04-21" id="d89">
+<head>21 April 1864 (Thu)</head>
+<p>Started on picket. Tom B. Massie and myself was detailed as 
+curiers to go to the Robison Ford.</p></div3>
+
+<div3 type="entry" n="1864-04-22" id="d90">
+<head>22 April 1864 (Fri.)</head>
+<p>On post having a easy time of it, got acquainted with a young Lady 
+by the name of Miss Bell Newman.</p></div3>
+
+<div3 type="entry" n="1864-04-23" id="d91">
+<head>23 April 1864 (Sat.)</head>
+<p>Went down to Mr. Newman's, got my dinner and some bread 
+baked.</p></div3>
+
+<div3 type="entry" n="1864-04-24" id="d92">
+<head>24 April 1864 (Sun.)</head> 
+<p>Returned to camp, got in about 3 o'clock. 2 of the Artillery Boys 
+came down to see us.</p></div3>
+
+<div3 type="entry" n="1864-04-25" id="d93">
+<head>25 April 1864 (Mon.)</head>
+<p>Bon Smith, Lieut. Trussel and myself whent. to see the Artillery 
+Boys.</p></div3>
+
+<div3 type="entry" n="1864-04-26" id="d94">
+<head>26 April 1864 (Tue.)</head>
+<p>Left winter quarters started to Fredericksburg. Camped 8 miles 
+this side of Chancellorsville.</p></div3>
+
+<div3 type="entry" n="1864-04-27" id="d95">
+<head>27 April 1864 (Wed.)</head>
+<p>Took up the line of march passed through Fredericksburg went in
+camp near Hamilton's Crossing.</p></div3>
+
+<div3 type="entry" n="1864-04-28" id="d96">
+<head>28 April 1864 (Thu.)</head>
+<p>On interior gard, got a letter from Bell was glad to here
+M. E. B. had returned home.</p></div3>
+
+<div3 type="entry" n="1864-04-29" id="d97">
+<head>29 April 1864 (Fri)</head>
+<p>in Camp, took the horse out to graize 9 heard some cannonading in the 
+direction of Robison River.</p></div3>
+
+<div3 type="entry" n="1864-04-30" id="d98">
+<head>30 April 1864 (Sat.)</head>
+<p>Had Squadron drill in the morning and dress parade in the  evening. 
+William Renner, Alph Young and myself went fishing late in the evening. 
+got back about 11 o'clock that night, did not catch any fish worth 
+speaking of.</p></div3>
+</div2>
+
+<div2 type="section" n="1864-05" id="d99">
+<head>May 1864
+ <!-- <ref> Arts/Leisure, Battle Description, Camp Life, Troop Movement</ref> --> 
+</head>
+
+<div3 type="entry" n="1864-05-01" id="d100">
+<head>1 May 1864 (Sun.)</head>
+<p>Had preaching in Camp. I couldant attend an the account of having 
+to take out the horses to graize.</p></div3>
+
+<div3 type="entry" n="1864-05-02" id="d101">
+<head>2 May 1864 (Mon.)</head>
+<p>Henry Cox, William Wise and myself went fishing, had very heavy
+rain in the evening.</p></div3>
+
+<div3 type="entry" n="1864-05-03" id="d102">
+<head>3 May 1864 (Tue.)</head>
+<p>Went out to graize, turned very cold and windy, Tom B. Massie and
+Milt Steele put in a furlough to go home after fresh horses.</p></div3>
+
+<div3 type="entry" n="1864-05-04" id="d103">
+<head>4 May (Wed.)</head>
+<p>Got orders to leave camp, the report is the Yankees are at
+Chancellorsville, the company went on picket on the Spotsylvania and 
+Fredericksburg road.</p></div3>
+
+<div3 type="entry" n="1864-05-05" id="d104">
+<head>5 May 1864 (Thu.)</head>
+<p>Joined the brigade at Spottsylvania Cort House, moved off in the 
+direction of Chancellorsville, Lomax Brigade came in contact with the 
+Yanks some fighting, loss smal1.</p></div3>
+
+<div3 type="entry" n="1864-05-06" id="d105">
+<head>6 May 1864 (Fri.)</head>
+<p>Very heavy canonading and musketry in the direction of 
+Vandariesville. Our Brigade had some fighting to do, loss is light.</p></div3>
+
+<div3 type="entry" n="1864-05-07" id="d106">
+<head>7 May 1864 (Sat.)</head> 
+<p>Dismounted and went into fight had very hard fighting, fought 
+until sundown, had one man wounded in the hip. our lose is tolerable 
+heavy.</p></div3>
+
+<div3 type="entry" n="1864-05-08" id="d107">
+<head>8 May 1864 (Sun.)</head>
+<p>Moved out of Camp dismounted and went into the fight, had very 
+heavy fighting, vas relieved by Longstreet.</p></div3>
+
+<div3 type="entry" n="1864-05-09" id="d108">
+<head>9 May 1864 (Mon.)</head> 
+<p>Was ordered down to Spottsylvania, went into the fight, had 
+desperate fight. wee had one man wounded, Green Huff.</p></div3>
+
+<div3 type="entry" n="1864-05-10" id="d109">
+<head>10 May 1864 (Tue.)</head>
+<p>A large body or Yankee cavalry started in the direction of
+Richmond, Wee are now in persuit of them.</p></div3>
+
+<div3 type="entry" n="1864-05-11" id="d110">
+<head>11 May 1864 (Wed.)</head>
+<p>Come up with the Yanks about 10 miles this side of Richmond, had a 
+very hard fight, I was on picket.  Gon. Stuart was wounded. 
+</p></div3>
+
+<div3 type="entry" n="1864-05-12" id="d111">
+<head>12 May 1864 (Thu.)</head>
+<p>Marched nearly all night and rairled very hard, at day light went
+into the fight. wee had to fall back. Col. Randolph of the 4th was 
+killed.</p></div3>
+
+<div3 type="entry" n="1864-05-13" id="d112">
+<head>13 May 1864 (Fri.)</head>
+<p>Moved down the road and went into camp about 4 miles of Cole 
+Harbor, Wee heard that Gen. Stuart was dead.</p></div3>
+
+<div3 type="entry" n="1864-05-14" id="d113">
+<head>14 May 1864 (Sat.)</head>
+<p>I was detailed to go on gard near Camp at a man's a house by the 
+name of Mr. Cluck (?). He boarded me while on gard.</p></div3>
+
+<div3 type="entry" n="1864-05-15" id="d114">
+<head>15 May 1864 (Sun.)</head>
+<p>Took up the line of march this morning went into Camp 7 miles below 
+Richmond on Chickahomnany River, Rea Dinges, John Cross got into 
+Camp.</p></div3>
+
+<div3 type="entry" n="1864-05-16" id="d115">
+<head>16 May 1864 (Mon.) </head>
+<p>Left Camp this morning passed by the old battle ground of the 7 pines 
+got on the James City road about 5 miles from Richmond and went into 
+camp.</p></div3>
+
+<div3 type="entry" n="1864-05-17" id="d116">
+<head>17 May 1864 (Tue.)</head>
+<p>Moved out of Camp this morning to a clover field in sight of 
+Richmond, graized all day, went into camp that night.</p></div3>
+
+<div3 type="entry" n="1864-05-18" id="d117">
+<head>18 May 1864 (Wed.)</head>
+<p>Went out this morning to graize, stade there till late and was 
+ordered back to the Chickakammany River and went into Camp where wee 
+camped on monday, the 16, had several showers of rain today.
+</p></div3>
+
+<div3 type="entry" n="1864-05-19" id="d118">
+<head>19 May 1864 (Thu.)</head>
+<p>I wrote 2 letters, one home and the other to M.E.B. We got orders
+to move about sundown. traveled very late that night, went to Hanover 
+Cort House.</p></div3>
+
+<div3 type="entry" n="1864-05-20" id="d119">
+<head>20 May 1864 (Fri.)</head>
+<p>Left Hanover Cort House moved back in the direction of Atlee's 
+Station the Yanks destroyed the road wee moved back to Hanover C.H. 
+</p></div3>
+
+<div3 type="entry" n="1864-05-21" id="d120">
+<head>21 May 1864 (Sat.)</head>
+<p>Left Hanover Cort House and moved in the dirmytion Of Hanover 
+Junction. went into camp on Gen. Wickham's farm. Graized our 
+horses.</p></div3>
+
+<div3 type="entry" n="1864-05-22" id="d121">
+<head>22 May 1864 (Sun.)</head>
+<p>Went out to graize our horses on Gen. Wickham's Clover Field, very 
+warm, moved up to Atlee's Station.</p></div3>
+
+<div3 type="entry" n="1864-05-23" id="d122">
+<head>23 May 1864 (Mon.)</head>
+<p>A detail was made from the division to go on a scout, traveled all
+that night, wee had 15 men from our company</p></div3>
+
+<div3 type="entry" n="1864-05-24" id="d123">
+<head>24 May 1864 (Tue.)</head>
+<p>Came up with the Yanks at Kannals Landing had a desperate fight 
+with them John Cross was wounded, wee suffered severely, fell back to 
+Charles City Cort House.</p></div3>
+
+<div3 type="entry" n="1864-05-25" id="d124">
+<head>25 May 1864 (Wed.)</head>
+<p>Moved out of camp this morning marched all day went into camp,
+about 8 miles from Richmond on the Charles City road.</p></div3>
+
+<div3 type="entry" n="1864-05-26" id="d125">
+<head>26 May 1864 (Thu.) </head>
+<p>Left Camp this morning passed in sight of Richmond went into Camp 
+at Atlee's Station.</p></div3>
+
+<div3 type="entry" n="1864-05-27" id="d126">
+<head>27 May 1864 (Fri.)</head>
+<p>Left Camp this morning went in the direction of Hanover Station 
+our company went on picket at ash Gake crossing left there in the 
+night.</p></div3>
+
+<div3 type="entry" n="1864-05-28" id="d127">
+<head>28 May 1864 (Sat.)</head>
+<p>Left Camp this morning, went 3 miles below Atlee's Station 
+attacked the Yanks, had a very heavy fight.</p></div3>
+
+<div3 type="entry" n="1864-05-29" id="d128">
+<head>29 May 1864 (San.)</head>
+<p>Seen Read Hudson, had a long talk together, wee were moving all day. Seen 
+Joe Carter, went into camp near Atlee's S.</p></div3>
+
+<div3 type="entry" n="1864-05-30" id="d129">
+<head>30 May 1864 (Mon.)</head>
+<p>Moved out of camp this morning, the infantry were throwing up
+breastworks near Atlee's Station, wee moved out and graized our 
+horses</p></div3>
+
+<div3 type="entry" n="1864-05-31" id="d130">
+<head>31 May 1864 (Tue.)</head>
+<p>Moved out of camp, went down to Cole Harbor, had a fight, I was 
+No. 2 so I held horses for the first time since the fighting 
+commenced, one man by the name of Stoutweldon missing no what become 
+of him.</p></div3>
+</div2>
+
+<div2 type="section" n="1864-06" id="d131">
+<head>June 1864
+ <!-- <ref> Camp Life, Troop Movement</ref> --> 
+</head>
+
+<div3 type="entry" n="1864-06-01" id="d132">
+<head>1 June 1864 (Wed.)</head>
+<p>Moved out of camp this morning and graized our horses. Cannonading 
+along the line.</p></div3>
+
+<div3 type="entry" n="1864-06-02" id="d133">
+<head>2 June 1864 (Thu.)</head> 
+<p>Left camp soon this morning, went down in the breastworks, stayed 
+untill in the evening and was relieved by Breckenridges.</p></div3>
+
+<div3 type="entry" n="1864-06-03" id="d134">
+<head>3 June 1864 (Fri.)</head>
+<p>Went into camp near bottons bridges stade all night, rained part of 
+the  night.</p></div3>
+
+<div3 type="entry" n="1864-06-04" id="d135">
+<head>4 June 1864 (Sat.)</head>
+<p>Stade untill in the evening and moved down to Savage Station on 
+Railroad rained some, worked on the breastworks.</p></div3>
+
+<div3 type="entry" n="1864-06-05" id="d136">
+<head>5 June 1864 (Sun.)</head>
+<p>Left camp this evening moved down to White Oak swamp, ben Dinges went 
+away on horse detail.</p></div3>
+
+<div3 type="entry" n="1864-06-06" id="d137">
+<head>6 June 1864 (Mon.)</head>
+<p>Went on picket this mornimg on the Chickhommany.</p></div3>
+
+<div3 type="entry" n="1864-06-07" id="d138">
+<head>7 June 1864 (Tue.)</head> 
+<p>Was relleved this morning by 2nd Regiment returned to 
+camp.</p></div3>
+
+<div3 type="entry" n="1864-06-08" id="d139">
+<head>8 June 1864 (Wed.)</head>
+<p>Laid in Camp all day. nothing going on some ?</p></div3>
+
+<div3 type="entry" n="1864-06-09" id="d140">
+<head>9 June 1864 (Thu.)</head>
+<p>Left Camp this morning about 2 o'clock started in the direction of 
+Charlottesville.</p></div3>
+
+<div3 type="entry" n="1864-06-10" id="d141">
+<head>10 June 1864 (Fri.)</head>
+<p>Left Camp this morning and moved down near Louisa Court House and 
+went into camp.</p></div3>
+
+<div3 type="entry" n="1864-06-11" id="d142">
+<head>11 June 1864 (Sat.)</head>
+<p>Left Camp this morning, came in contact with the Yanks about Louisa 
+C. Ho. Had some fighting, went into camp.</p></div3>
+
+<div3 type="entry" n="1864-06-12" id="d143">
+<head>12 June 1864 (Sun.)</head>
+<p>Left Camp this mornimg, went to Green Spring Valley. attacked the 
+Yanks,had a desperate fight with then on the railroad.</p></div3>
+
+<div3 type="entry" n="1864-06-13" id="d144">
+<head>13 June 1864 (Mon.)</head>
+<p>Was on picket last night, want over to the battlefield this morning
+there loss was very heavy. Lomax Brigade charged them drove them back.
+Wee left the field and marched to Frederiak Hall, went in camp.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-14" id="d145">
+
+<head>14 June 1864 (Tue.)</head>
+
+<p>Graised our horses today near Frederick Hall. Sem Cross &amp; Milt Steele 
+
+got to the company today.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-15" id="d146">
+
+<head>15 June 1864 (Wed.)</head>
+
+<p>Graised our horses this moorning wee are now on the road from 
+
+Frederick Hall to the Telegraph rd.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-16" id="d147">
+
+<head>16 June 1864 (Thu.)</head>
+
+<p>Moved out of Camp this morning and traveled in the direction of 
+
+Hanover 
+
+C. House, went in camp.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-17" id="d148">
+
+<head>17 June 1864 (Fri.)</head>
+
+<p>Left camp this morning traveled all day the Brigade graized I went on 
+
+a scout. I was detailed went down to the Matiponi traveled all night. 
+
+</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-18" id="d149">
+
+<head>18 June 1864 (Sat.)</head>
+
+<p>Started to join the Regt. stopped to graize got some onions  from an 
+
+old lady on the road, caught up with the Regt. about 5 
+
+o'clock.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-19" id="d150">
+
+<head>19 June 1864(Sun.)</head>
+
+<p>Left Camp started in the direction of the White House, went in Camp 
+
+bout 
+
+10 miles from the White House.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-20" id="d151">
+
+<head>20 June 1864 (Mon.)</head>
+
+<p>Moved out of Camp about 2 this morning, attacked the Yanks at the 
+
+White House, heavy Canonading, went in Camp at night.</p></div3>
+
+
+
+
+
+<div3 type="entry" n="1864-06-21" id="d152">
+
+<head>21 June 1864 (Tue.)</head>
+
+<p>Moved out of Camp this morning, passed by St. Peter's Church where 
+
+Gen. George Washington was married, followed the Yanks, wee had to 
+
+dismount but did not get in the fight. In camp 10 m. of 
+
+Richmond.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-22" id="d153">
+
+<head>22 June 1864 (Wed.)</head>
+
+<p>Went into Cemp near Medow station, went out and graised our horses 
+
+very
+
+warm.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-23" id="d154">
+
+<head>23 June 1864 (Thu.)</head>
+
+<p>Left Camp about 12 o'clock last night, marched down to Harrison's 
+
+Landing 
+
+and went in camp for the night.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-24" id="d155">
+
+<head>24 June 1864 (Fri.)</head>
+
+<p>Was detailed this morning to go on picket, myself and 6 others, near 
+
+Salem Church, drove the Yanks back.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-25" id="d156">
+
+<head>25 June 1864 (Sat.)</head>
+
+<p>Got to the Regt. this morning was glad to here that none of the Boys 
+got hurt, moved back towards Richmond.</p>
+</div3>
+
+
+
+<div3 type="entry" n="1864-06-26" id="d157">
+
+<head>26 June 1864 (Sun.)</head>
+
+<p>Left Camp moved on toward Richmond, went in camp 9 miles below 
+Richmond on the James R.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-27" id="d158">
+
+<head>27 June 1864 (Mon.)</head>
+
+<p>In Camp, went out to graize along the James R. went in washing, 
+
+several 
+
+boats passed.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-28" id="d159">
+
+<head>28 June 1864 (Tue.)</head>
+
+<p>Got orders to move at 1 oclock, moved across the James River, went in 
+
+Camp 6 miles this side of Petersburg.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-29" id="d160">
+
+<head>29 June 1864 (Wed.)</head>
+
+<p>Left Camp passed through Petersburg got after old Wilson's Raiding 
+
+party, 
+
+captured 12 peaces of Artillery.</p></div3>
+
+
+
+<div3 type="entry" n="1864-06-30" id="d161">
+
+<head>30 June 1864 (Thu.)</head>
+
+<p>Left Camp near Stony Creek, marched to Jarratts Station, went in camp 
+
+for 
+
+the night. I was on gard last night garding the captured wagons and 
+
+prisoners, had a good detail of it. Jarratts Station is on the Weldon 
+
+and
+
+Petersburg Railroad, very warm and dusty, don't talk.</p></div3>
+
+</div2>
+
+
+<div2 type="section" n="1864-07" id="d162">
+<head>July 1864
+ <!-- <ref> Camp Life</ref> --> 
+</head>
+
+
+
+<div3 type="entry" n="1864-07-01" id="d163">
+
+<head>1 July 1864 (Fri.)</head>
+
+<p>Left Camp moved off on the road leading to Dinwiddie Cort 
+
+House.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-02" id="d164">
+
+<head>2 July 1864 (Sat.)</head>
+
+<p>Moved out of camp this morning, stopt and graized our horses, went in 
+
+camp 2 miles from Dinwiddle C. H.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-03" id="d165">
+
+<head>3 July 1864 (Sun.)</head>
+
+<p>Moved out of Camp, went through Dinwiddie Cort House. I wrote a 
+
+letter 
+
+home, went in camp.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-04" id="d166">
+
+<head>4 July 1864 (Mon.) </head>
+
+<p>Remained in camp all day some cannonading is still heard in the 
+
+direction of Petersburg very hot and dry.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-05" id="d167">
+
+<head>5 July 1864 (Tue.)</head>
+
+<p>Still in Camp nothing going on in Camp. Cannonading is still heard in 
+
+the
+
+direction of Petersburg.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-06" id="d168">
+
+<head>6 July 1864 (Wed.)</head>
+
+<p>In Camp nothing going on, very warm cannonading is still heard at 
+
+Petersburg.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-07" id="d169">
+
+<head>7 July 1864 (Thu.)</head>
+
+<p>In Camp I was detailed to go out after oats for the Regt.  Wee
+
+had to cut them wee got about enough to feed the wagon 
+
+horses.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-08" id="d170">
+
+<head>8 July 1864 (Fri.)</head>
+
+<p>Still in Camp at the same place very warm and dusty, I was in 
+
+bathing.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-09" id="d171">
+
+<head>9 July 1864 (Sat.)</head>
+
+<p>In Camp George Ritenour and Harry Grimes started for home this 
+
+morning.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-10" id="d172">
+
+<head>10 July 1864 (Sun.)</head>
+
+<p>Went down below Reemes Station too support a picket near the 
+
+(plan..?) 
+
+road.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-11" id="d173">
+
+<head>11 July 1864 (Mon.)</head>
+
+<p>Returned to camp this morning. Buchers horse got hurt by a snag in 
+
+the
+
+breast. Went back on picket the Yankees advanced with the intention of 
+
+distroying the railroad butwore driven back, we had some fighting to 
+
+do.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-12" id="d174">
+
+<head>12 July 1864 (Tue.)</head>
+
+<p>I stood 4 hours last night, heard canonading at Petersburg all night, my 
+
+horse got sick this morning, I had to go to camp, Alph Young got to camp 
+
+this evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-14" id="d175">
+<head>14 July 1864 (Thu.)</head>
+
+<p>
+In camp this morning, the company got in about 9 o'clock this evening,
+nothing going on in Camp.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-15" id="d176">
+<head>15 July 1864 (Fri.)</head>
+
+<p>
+Wee drill and have dress parade twice a day very warm and 
+
+dusty.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-16" id="d177">
+
+<head>16 July 1864 (Sat.)</head>
+
+<p>Lieut. Rosenbarger started for home this morning. I wrote a
+
+letter to ------- and one to Bill.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-17" id="d178">
+
+<head>17 July 1864 (Sun.)</head>
+
+<p>Sergt. Pipher and Ben Smith started for home this morning. I sent my 
+
+letters by them.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-18" id="d179">
+
+<head>18 July 1864 (Mon.)</head>
+
+<p>In camp drilled and had dress parade twice today.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-19" id="d180">
+
+<head>19 July 1864 (Tue.)</head>
+
+<p>In Camp, drilled and had dress parade in the morning, in the evening 
+
+wee 
+
+had Brigade review.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-20" id="d181">
+
+<head>20 July 1864 (Wed.)</head>
+
+<p>Was put on gard today for missing roll call, had a very easy time of 
+
+it.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-21" id="d182">
+
+<head>21 July 1864 (Thu.)</head>
+
+<p>Came off gard this morning and went out to graize. Wee had a very 
+
+fine 
+
+rain last Tuesday.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-22" id="d183">
+
+<head>22 July 1864 (Fri.)</head>
+
+<p>In Camp. nothing going on. wee still have to drill 2 a 
+
+day.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-23" id="d184">
+
+<head>23 July 1864 (Sat.)</head>
+
+<p>My regular time came this morning to go on gard went off post half 
+
+past 2 
+
+o'clock.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-24" id="d185">
+
+<head>24 July 1864 (Sun.)</head>
+
+<p>was relieved this morning at half past 7 o'clock, had preaching today 
+
+by 
+
+the Chapland of the 3 Regt.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-25" id="d186">
+
+<head>25 July 1864 (Mon.)</head>
+
+<p>Long and Montgomery got to the company today, nothing of importance 
+
+occurred today.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-26" id="d187">
+
+<head>26 July 1864 (Tue.)</head>
+
+<p>Thomas Beaty and his father got down today.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-27" id="d188">
+
+<head>27 July 1864 (Wed.)</head>
+
+<p>Still in Camp quite dull, still cannonading is still heard at 
+
+Petersburg, 
+
+was detailed to go on gard about 2 miles from camp at a cornfield.
+
+</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-28" id="d189">
+
+<head>28 July 1864 (Thu.)</head>
+
+<p>Still on gards had a mess of corn yesterday. went up to the house to 
+
+got 
+
+my cloathes washed.</p></div3>
+
+
+
+
+
+<div3 type="entry" n="1864-07-29" id="d190">
+
+<head>29 July 1864 (Fri.)</head>
+
+<p>Was releived this morning, the Brigade moved towards the James River.
+
+Crossed the River late in the evening wee are now on the north 
+
+side.</p></div3>
+
+
+
+<div3 type="entry" n="1864-07-30" id="d191">
+
+<head>30 July 1864 (Sat.)</head>
+
+<p>Moved down the River towards Charles City and came back and went in 
+the same Camp.</p>
+</div3>
+
+<div3 type="entry" n="1864-07-31" id="d192">
+<head>31 July 1864 (Sun.)</head>
+
+<p>laid in camp untill late in the evening, got orders to move, was 
+
+moved back on the south side of the River, wee traveled unil late in the 
+
+night, and went in camp about 6 miles from Petersburg very tired and sleepy. 
+
+Wee heard today of one of our Batteries being blowed up by the 
+
+Yanks.</p></div3>
+
+</div2>
+
+
+<div2 type="section" n="1864-08" id="d193">
+<head>August 1864
+ <!-- <ref> Camp Life, Troop Movement</ref> --> 
+</head>
+
+<div3 type="entry" n="1864-08-01" id="d194">
+<head>1 Aug. 1864 (Mon.)</head>
+
+<p>Left Camp this morning about 8 o'clock passed through the edge of 
+
+Petersburg, got to the old camp where wee left on friday the 
+
+29.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-02" id="d195">
+
+<head>2 Aug. 1864 (Tue.)</head>
+
+<p>Laid in Camp all day, nothing going on very warm.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-03" id="d196">
+
+<head>3 Aug. 1864 (Wed.)</head>
+
+<p>I went out of camp this morning to got my Cloathes washed, took 2 
+
+peaces 
+
+for Billy Jones.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-04" id="d197">
+
+<head>4 Aug. 1864 (Thu.)</head>
+
+<p>Went to graize this morning, Bucher and Adderson Reyner's detail came 
+
+in, 
+
+I am now going to write.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-05" id="d198">
+
+<head>5 Aug. 1864 (Fri.)</head>
+
+<p>Got orders to move, passed through Petersburg, went in camp, about 1 
+
+o'clock to night where wee stade the night of the 31 when wee went over. 
+
+Got 
+
+a letter todayt was struck with astonishment when I. T. E.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-06" id="d199">
+
+<head>6 Aug. 1864 (Sat.)</head> 
+
+<p>Left Camp this morning, traveled untill evening, went in camp near 
+
+Manchester on the opposite side of the River from Richmond, very strong 
+
+talk 
+
+of going to the Valley</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-07" id="d200">
+
+<head>7 Aug. 1864 (Sun.)</head>
+
+<p>Passed through Richmond this morning, got on the telegraph road, 
+
+passed by where Gen. Stuart was killed, muTt into amp at Ashland. Ben 
+
+Smith got to the company.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-08" id="d201">
+
+<head>8 Aug. 1864 (Mon.) </head>
+
+<p>Left Camp this morning, got on the Louisa Cort House road and went in
+
+camp at Beverdam Station.</p></div3>
+
+
+
+
+
+<div3 type="entry" n="1864-08-09" id="d202">
+
+<head>9 Aug. 1864 (tue.)</head>
+
+<p>Moved out of Camp this morning on our way to the Valley as we all 
+
+suppose.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-10" id="d203">
+
+<head>10 Aug. 1864 (Wed.)</head>
+
+<p>Went in camp near the Rappidan River. I was on gard at the Col.'s 
+
+Headquarters.</p></div3>
+
+
+
+
+
+<div3 type="entry" n="1864-08-11" id="d204">
+
+<head>11 Aug. 1864 (Thu.)</head>
+
+<p>Moved out of camp, crossed the River at summerville ford, passed thru 
+
+Culpeper, the brigade went in camp near the town. our company went on 
+
+picket on the Hazel River about 10 miles from Culpeper.</p></div3>
+
+
+
+
+
+<div3 type="entry" n="1864-08-12" id="d205">
+
+<head>12 Aug. 1864 (Fri.)</head>
+
+<p>CoLUlus Bucher started home this morning. I didant get to send any 
+
+letters, the Brigade moved off about sundown, wee were releived and 
+
+followed after, went in camp where the Brigade(?) were 
+
+camped.</p></div3>
+
+
+
+
+
+<div3 type="entry" n="1864-08-13" id="d206">
+
+<head>13 Aug. 1864 (Sat.)</head>
+
+<p>Left Camp this morning, moved to the Blueridge, went in Camp near 
+
+Sandyhook, the Boys were in a good humor.</p></div3>
+
+
+
+
+
+<div3 type="entry" n="1864-08-14" id="d207">
+
+<head>14 Aug. 1864 (Sun.)</head>
+
+<p>Moved out of camp this morning crossed the Ridge, passed through 
+
+Frontroil, went in camp near the River, went in washing.</p></div3>
+
+
+
+
+
+<div3 type="entry" n="1864-08-15" id="d208">
+
+<head>15 Aug. 1864 (Mon.)</head> 
+
+<p>Still in camp went in bathing in the morning.</p></div3>
+
+
+
+
+
+
+
+<div3 type="entry" n="1864-08-16" id="d209">
+
+<head>16 Aug. 1864 (Tue.) </head>
+
+<p>Left camp this evening, crossed the River attacked the Yanks,drove 
+
+them back</p></div3>
+
+
+
+
+
+<div3 type="entry" n="1864-08-17" id="d210">
+
+<head>17 Aug. 1864 (Wed.)</head> 
+
+<p>Move on two day and went in camp at Alfred Parkins mill, I went home.</p>
+</div3>
+
+
+
+<div3 type="entry" n="1864-08-18" id="d211">
+
+<head>18 Aug. 1864 (Thu.)</head>
+
+<p>At home this morning was glad to see them all, went down to see Buck,
+
+rained part of the day.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-19" id="d212">
+
+<head>19 Aug. 1864 (Fri.)</head>
+
+<p>Left home this morning, went down by Mr. Stark's got my fill of cidar 
+
+and 
+
+left, joined the Brigade below Wimchester.</p></div3>
+
+
+
+
+
+<div3 type="entry" n="1864-08-20" id="d213">
+
+<head>20 Aug. 1864 (Sat.)</head>
+
+<p>Bill Massie and myself went to Winchester this morning, seem some of 
+
+the (?)</p></div3>
+
+
+
+
+
+<div3 type="entry" n="1864-08-21" id="d214">
+
+<head>21 Aug. 1864 (Sun.)</head>
+
+<p>Moved out of camp this morning atacked the Yankees near the
+
+(?) Spout Springs. drove them 5 miles below Berryville.(?) of
+
+Comp, A was wounded.</p></div3>
+
+
+
+
+
+<div3 type="entry" n="1864-08-22" id="d215">
+
+<head>22 Aug. 1864 (Mon.)</head>
+
+<p>Left camp this morning moved down near Charlestown,, went in camp 
+
+nothing 
+
+of interest acoured, Alph Young &amp; I went down to Mr, 
+
+Snider(?)</p></div3>
+
+
+
+
+
+<div3 type="entry" n="1864-08-23" id="d216">
+
+<head>23 Aug 1864 (Tue.)</head>
+
+<p>Left Mr. Snyder's about 2 o'clock, joined the Brigade above 
+
+Charlestown,
+
+had a gay time.</p></div3>
+
+
+
+
+
+<div3 type="entry" n="1864-08-24" id="d217">
+
+<head>24 Aug. 1864 (Wed.)</head>
+
+<p>Laid in camp all day. Sam Corse come in from home. Some cannonading 
+
+in 
+
+the direction of Harpers Ferry.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-25" id="d218">
+
+<head>25 Aug. 1864 (Thu.)</head>
+
+<p>Left camp this morning, passed through Martensburg, went in camp at 
+
+Hainesville.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-26" id="d219">
+
+<head>26 Aug. 1864 (Fri.)</head>
+
+<p>Moved out of Camp went on towards Williamsport, started the Yanks at 
+
+Falling Waters, run them to the River.</p></div3>
+
+
+
+
+
+<div3 type="entry" n="1864-08-27" id="d220">
+
+<head>27 Aug. 1864 (Sat.)</head>
+
+<p>Army sting, moved up on Charlestown and Smithfield pike in camp near 
+
+Smithfield.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-28" id="d221">
+
+<head>28 Aug. 1864 (Sun.)</head>
+
+<p>Passed through Smithfield today, the Yankees advanced, we had (some?) 
+
+Skirmising. Henry Cox of my Company slightly wounded on the leg, went in 
+
+camp on the Opequon.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-29" id="d222">
+
+<head>29 Aug. 1864 (Mon.)</head>
+
+<p>Went down two the picket post this morning, was relieved by the 
+
+Second 
+
+Regt.in the evening. Early drove the Yankees back below Smithfield, wee 
+
+went 
+
+in camp near Brucetown.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-30" id="d223">
+
+<head>30 Aug. 1864 (Tue.)</head>
+
+<p>Remained in camp all day, put in a detail to go after a Horse, all 
+
+quiet in Camp.</p></div3>
+
+
+
+<div3 type="entry" n="1864-08-31" id="d224">
+
+<head>31 Aug. 1864 (Wed.)</head>
+
+<p>Remained in camp all day, most of the Boys went home on a French 
+
+furlough, nothing going on the Yanks are down about 
+
+Smithfield.</p></div3>
+
+</div2>
+
+
+
+<div2 type="section" n="1864-09" id="d225">
+<head>September 1864
+ <!-- <ref> Battle Description, Camp Life, Prisons/Prisoners, Troop Movement
+</ref> --> 
+</head>
+
+
+
+<div3 type="entry" n="1864-09-01" id="d226">
+
+<head>1 Sept. 1864 (Thu.)</head>
+
+<p>Left camp this morning, passed by Jordans Springs, and the Burnt 
+
+Factory and came out on the Winchester and Berryville Road. Some 
+
+skirmish fighting, went in camp 2 m. below Winchester.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-02" id="d227">
+
+<head>2 Sept. 1864 (Fri.)</head>
+
+<p>I couldant wate any longer, started home, went by Mr. Watsons and by 
+
+John 
+
+Falters. got home about 2 o'clock.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-03" id="d228">
+
+<head>3 Sept. 1864 (Sat.)</head>
+
+<p>The Yankee Cavalry (       ), some skirmishing.  Alph Young stayed 
+
+all night</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-04" id="d229">
+
+<head>4 Sept 1864 (Sun.)</head>
+
+<p>Alph and myself went to town (     ) most all the Boys, I had
+
+a good time that night with the g.</p></div3>
+
+
+
+
+
+<div3 type="entry" n="1864-09-05" id="d230">
+
+<head>5 Sept 1864 (Mon.)</head>
+
+<p>At home this morning went over to see Mr. Hawkins. Our Cavalry passed
+
+down to Winchester.</p></div3>
+
+
+
+
+
+<div3 type="entry" n="1864-09-06" id="d231">
+
+<head>6 Sept 1864 (Tue.)</head>
+
+<p>Rained all day, I was down at Mr. Starke.</p></div3>
+
+
+
+
+
+<div3 type="entry" n="1864-09-07" id="d232">
+
+<head>7 Sept 1864 (Wed.)</head>
+<p> Left for the Army, met the Regt. at Slabtown. 
+
+Came out to Newtown. I got my detail and came home.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-08" id="d233">
+
+<head>8 Sept 1864 (Thu.)</head>
+
+<p>At home, went hunting in the evening, shot 3 squirrels. John was home 
+
+this evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-09" id="d234">
+
+<head>9 Sept. 1864 (Fri.)</head>
+
+<p>Went over to Mr. Templers got back in the evening, made 
+
+Applebutter.</p></div3>
+
+
+
+
+
+<div3 type="entry" n="1864-09-10" id="d235">
+
+<head>10 Sept. 1864 (Sat.)</head>
+
+<p>Went to town &amp; took dinner with Mr. Rogers.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-11" id="d236">
+
+<head>11 Sept. 1864 (Sun.)</head>
+
+<p>Went down to John Pelters in the morning came back and went over to 
+
+town, 
+
+T. Billy and myself.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-12" id="d237">
+
+<head>12 Sept. 1864 (Mon.)</head>
+
+<p>At home, our Brigade is still incamped at Kernstown.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-13" id="d238">
+
+<head>13 Sept. 1864 (Tue.)</head>
+
+<p>Just having a good time at home.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-14" id="d239">
+
+<head>14 Sept. 1864 (Wed.)</head>
+
+<p>Went over to Mr. Tremblers had a nice time.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-15" id="d240">
+
+<head>15 Sept. 1864 (Thu.)</head>
+
+<p>At home went hunting.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-16" id="d241">
+
+<head>16 Sept. 1864 (Fri.)</head>
+
+<p>Mr. Fisher came up this morning, went over to Mr. Templers in the 
+
+evening 
+
+and went to town that night with F.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-17" id="d242">
+
+<head>17 Sept. 1864 (Sat.)</head>
+
+<p>Fisher and I went up to Mr. Coburns and spent the day. I stade all 
+
+night 
+
+at home.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-18" id="d243">
+
+<head>18 Sept. 1864</head>
+<p> (Sun.) went over to town, took Sergt. Rup to Mr. 
+
+Geb. and gave him a knock down to Miss no.</p></div3>
+
+
+
+
+
+<div3 type="entry" n="1864-09-19" id="d244">
+
+<head>19 Sept 1864 (Mon.)</head>
+
+<p>Joined my Company at Newtown. The fight came off at Winchester, wee 
+
+had
+
+to fall back. I went by home. Capt. and I traveled. all 
+
+night.</p></div3>
+
+
+
+
+
+<div3 type="entry" n="1864-09-20" id="d245">
+
+<head>20 Sept. 1864 (Tue.)</head>
+
+<p>Got breakfast at Mrs. Rosenbergers this mor traveled and stade all 
+
+night
+
+with Mrs Swartz. Our army at Fishers Hill.</p></div3>
+
+
+
+
+
+<div3 type="entry" n="1864-09-21" id="d246">
+
+<head>21 Sept 1864 (Wed.)</head>
+
+<p>Came up as far as Woodstock there the Capt. left me, I came on as far 
+
+as
+
+Mr. Impsbylere, stade all night.</p></div3>
+
+
+
+
+
+<div3 type="entry" n="1864-09-22" id="d247">
+
+<head>22 Sept. 1864 (Thu.)</head>
+
+<p>Left there this morning, come on as far as Newmarket and stade all 
+
+night with Mrs Kips. I will leave old Buck with them.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-23" id="d248">
+
+<head>23 Sept. 1864 (Fri.)</head> 
+<p>Left Mr. Kips this morning, the Yanks 
+
+are advancing &amp; I had to take my horse on. Stoped all night vith Mr.
+
+Myers.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-24" id="d249">
+
+<head>24 Sept. 1864 (Sat.)</head>
+
+<p>(            )night, report is the Yanks are advancing.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-25" id="d250">
+
+<head>25 Sept. 1864 (Sun.)</head>
+
+<p>Stade all day at Mrs Folls, the Yanks are as far up as 
+
+Harrisonburg.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-26" id="d251">
+
+<head>26 sept. 1864 (Mon.)</head>
+
+<p>I started to join my command, got to Bridgewater and heard that the 
+
+Yanks had got above us.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-27" id="d252">
+
+<head>27 Sept. 1864 (Tue.)</head>
+
+<p>P. P. and I went on a scout, the Yanks got after us and picked me 
+
+up. I am now a prisoner at Harrisonburg.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-28" id="d253">
+
+<head>28 Sept. 1864 (Wed.)</head>
+
+<p>Left Harrisonburg for Winchester, traveled 25 miles, very tired, 
+
+went in
+
+camp at Mim's Botoms. (Meem's)</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-29" id="d254">
+
+<head>29 Sept. 1864 (Thu.)</head>
+
+<p>Left camp marched to Fishers Hill and went in camp, very 
+
+tired.</p></div3>
+
+
+
+<div3 type="entry" n="1864-09-30" id="d255">
+
+<head>30 Sept. 1864 (Fri.)</head>
+
+<p>Left camp marched to Winchester, put us in the Cort House. Bell came 
+
+in to see me.</p></div3></div2>
+
+
+<div2 type="section" n="1864-10" id="d256">
+<head>October 1864
+ <!-- <ref> Prisons/Prisoners</ref> --> 
+</head>
+
+<div3 type="entry" n="1864-10-01" id="d257">
+<head>1 Oct. 1864 (Sat.)</head>
+
+<p>Left Winchester, marched to Martensburg, took the cars there and 
+
+went to 
+
+Harpers Ferry.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-02" id="d258">
+
+<head>2 Oct. 1864 (Sun.)</head>
+
+<p>Stade at the Fary until sundown, took the cars and got to
+
+Baltimore about dayling.</p></div3>
+
+	
+
+<div3 type="entry" n="1864-10-03" id="d259">
+
+<head>3 Oct. 1864 (Mon.)</head>
+
+<p>Kept us in Fort McHenry until near night and then took the
+
+Boat for Point Lookkout</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-04" id="d260">
+
+<head>4 Oct. 1864 (Tue.)</head> 
+
+<p>Arrived there at daylight. Found myself in prison once more,
+
+dont like it so well.</p></div3>
+
+	
+
+<div3 type="entry" n="1864-10-05" id="d261">
+
+<head>5 Oct. 1864 (Wed.)</head>
+
+<p>Went round to see Thomas Ogden talked over old times.</p></div3>
+
+	
+
+<div3 type="entry" n="1864-10-06" id="d262">
+
+<head>6 Oct. 1864 (Thu.)</head>
+
+<p>Getting better acquainted, found Sergt. Conrad of Carpenter's
+
+Battery here.</p></div3>
+
+<div3 type="entry" n="1864-10-07" id="d263">
+
+<head>7 Oct. 1864 (Fri.)</head>
+
+<p>I wrote a letter home today, got the blues to kill.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-08" id="d264">
+
+<head>8 Oct. 1864 (Sat.)</head>
+
+<p>I mailed my letter this morning,, some shots fired, reported that 
+
+Gen. Butler was killed.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-09" id="d265">
+
+<head>9 Oct. 1864 (Sun.)</head>
+
+<p>Very cold today, drawed a blanket, had to lay in bed to keep warm 
+
+</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-10" id="d266">
+
+<head>10 Oct. 1864 (Mon.)</head>
+
+<p>The some old thing over again. I am tired.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-11" id="d267">
+
+<head>11 Oct. 1864 (Tue.)</head>
+
+<p>Nothing of interest occured today worth noting down.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-12" id="d268">
+
+<head>12 Oct. 1864 (Wed.)</head>
+
+<p>Turned very cold today. I went up to see Amos Guard.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-13" id="d269">
+
+<head>13 Oct. 1864 (Thu.)</head>
+
+<p>Moderated some today, went out on the Bay and seen the boats
+
+passing.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-14" id="d270">
+
+<head>14 Oct. 1864 (Fri.)</head>
+
+<p>Some talk of and Exchange going on, revived my spirits 
+
+some.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-15" id="d271">
+
+<head>15 Oct. 1864 (Sat.)</head>
+
+<p>(         ) money.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-16" id="d272">
+
+<head>16 Oct. 1864 (Sun.)</head> 
+
+<p>Had inspection today, quite plesent, feel quite lonesome.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-17" id="d273">
+
+<head>17 Oct. 1864 (Mon.)</head>
+
+<p>I wrote a letter to Miss Sarah C. Grove, went out on the Bay and got 
+
+a snack to eat.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-18" id="d274">
+
+<head>18 Oct. 1864 (Tue.)</head>
+
+<p>Mailed my letter this morning, quite plesent.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-19" id="d275">
+
+<head>19 Oct. 1864 (Wed.)</head>
+
+<p>Secretary Staunton visited our Camp today, I seen the old 
+
+Bird.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-20" id="d276">
+
+<head>20 Oct. 1864 (Thu.)</head>
+
+<p>Wee took down all the tents to sun the ground, quite 
+
+plesent.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-21" id="d277">
+
+<head>21 Oct. 1864 (Fri.)</head>
+
+<p>A lot of new prisoners came in today, 3 from my Regt.</p></div3> 
+
+
+
+<div3 type="entry" n="1864-10-22" id="d278">
+
+<head>22 Oct. 1864 (Sat.)</head>
+
+<p>Quite plesent, went up and spent the day with John Bay.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-23" id="d279">
+
+<head>23 Oct. 1864 (Sun)</head>
+
+<p>Turned very cold, got no rations today untill near night.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-24" id="d280">
+
+<head>24 Oct. 1864 (Mon.)</head>
+
+<p>All the men that were sick went out today, expect to be 
+
+exchanged.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-25" id="d281">
+
+<head>25 Oct. 1864 (Tue.)</head>
+
+<p>Nothing going on of interest, quite plesent, getting very 
+
+tired.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-26" id="d282">
+
+<head>26 Oct. 1864 (Wed.)</head>
+
+<p>Daniel B. Danner and myself washed our cloathes today.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-27" id="d283">
+
+<head>27 Oct. 1864 (Thu.)</head>
+
+<p>Clair untill evening and then Clowed up and rained.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-28" id="d284">
+
+<head>28 Oct. 1864 (Fri.)</head>
+
+<p>Nothing going on in camp quite dull.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-29" id="d285">
+
+<head>29 Oct. 1864 (Sat.)</head>
+
+<p>Went out on the Bay to fish, didant catch any. hard up for 
+
+grub.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-30" id="d286">
+
+<head>30 Oct. 1864 (Sun.)</head>
+
+<p>Had inspection today, Major Brady inspected us.</p></div3>
+
+
+
+<div3 type="entry" n="1864-10-31" id="d287">
+
+<head>31 Oct. 1864 (Mon.)</head>
+
+<p>About 900 prisoners came in today from Petersburg, report of a heavy 
+
+fight they had on last friday. they say wee took 2 lines of there 
+
+brestworks, the slaughter was heavy on boath sides.</p></div3>
+
+</div2>
+
+
+
+<div2 type="section" n="1864-11" id="d288">
+<head>November 1864
+ <!-- <ref> Prisons/Prisoners
+</ref> --> 
+</head>
+
+
+
+<div3 type="entry" n="1864-11-01" id="d289">
+
+<head>1 Nov. 1864 (Tue.)</head>
+
+<p>The first day of November, turned quite cold and havant any wood to 
+
+make any fire.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-02" id="d290">
+
+<head>2 Nov. 1864 (Wed.)</head>
+
+<p>Cold this morning and still have no wood, traded of 2 rings, one 
+
+forJones md the other for Eisenberg.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-03" id="d291">
+
+<head>3 Nov. 1864 (Thu.)</head>
+
+<p>Rained all day very disagreeable in camp.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-04" id="d292">
+
+<head>4 Nov. 1864 (Fri.)</head>
+
+<p>Claired off this morning turned very cold.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-05" id="d293">
+
+<head>5 Nov. 1864 (Sat.)</head>
+
+<p>The same old thing over, getting tired of looking for a letter, 
+
+rained some today.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-06" id="d294">
+
+<head>6 Nov. 1864 (Sun.)</head>
+
+<p>Had inspection today, some of the Boys drawed blankets.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-07" id="d295">
+
+<head>7 Nov. 1864 (Mon.)</head>
+
+<p>Moderated some, had some rain this evenng. Jack Pay got a
+
+letter from Shephardstown.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-08" id="d296">
+
+<head>8 Nov. 1864 (Tue.)</head>
+
+<p>A great day in Yankeedom the election comes off today.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-09" id="d297">
+
+<head>9 Nov. 1864 (Wed.)</head>
+
+<p></p></div3>
+
+
+
+<div3 type="entry" n="1864-11-10" id="d298">
+
+<head>10 Nov. 1864 (Thu.)</head>
+
+<p>Nothing going on except some shots fired by Artillery.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-11" id="d299">
+
+<head>11 Nov. 1864 (Fri.)</head>
+
+<p>Was fishing today caught 40 fish had a good mess, got a letter from 
+
+S. E. Grove.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-12" id="d300">
+
+<head>12 Nov. 1864 (Sat.)</head>
+
+<p>Was out fishing today, 6 prisoners got here from 
+
+Petersburg.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-13" id="d301">
+
+<head>13 Nov. 1864 (Sun.)</head>
+
+<p>Had inspection todaye turned very cold. Wrote 2 letters one to John 
+
+McBee and Sarah E. Grove.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-14" id="d302">
+
+<head>14 Nov. 1864 (Mon.)</head>
+
+<p>Turned very cold. I mailed my letters this morning, drawed wood 
+
+today. I
+
+took out the Barrel.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-15" id="d303">
+
+<head>15 Nov. 1864 (Tue.)</head>
+
+<p>Very cold today. I wrote to Bell, mailed ny letters this morning.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-16" id="d304">
+
+<head>16 Nov. 1864 (Wed.)</head>
+
+<p>Was very sick last night had a chill and fever and the back door 
+
+trots,very cold today.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-17" id="d305">
+
+<head>17 Nov. 1864 (Thu.)</head>
+
+<p> Feel much better today but feel quite week in the nees.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-18" id="d306">
+
+<head>18 Nov. 1864 (Fri.)</head>
+
+<p>Feel quite well today, was suprised to see John come in to this 
+
+prisom. </p></div3>
+
+
+
+<div3 type="entry" n="1864-11-19" id="d307">
+
+<head>19 Nov. 1864 (Sat.)</head>
+
+<p>Talked over matters at home today, got someting good to eat 
+
+today</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-20" id="d308">
+
+<head>20 Nov. 1864 (Sun.)</head>
+
+<p>Rained all day. Wote to Bell. quite dull in camp.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-21" id="d309">
+
+<head>21 Nov. 1864 (Mon.)</head>
+
+<p>Rained all day, times is quite dull in camp.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-22" id="d310">
+
+<head>22 Nov. 1864 (Tue.)</head>
+
+<p>Turned very cold today, had some snow, having a hard time of it. 
+
+</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-23" id="d311">
+
+<head>23 Nov. 1864 (Wed.)</head>
+
+<p>Very cold today, had to go without any fire, wee drawed out out soup 
+
+from another Cook house.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-24" id="d312">
+
+<head>24 Nov. 1864 (Thu.)</head>
+
+<p>Had inspection today, moderated some, tride to draw pair of shoes but
+
+couldant come it.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-25" id="d313">
+
+<head>25 Nov. 1864 (Fri.)</head>
+
+<p>Turned quite warm, got my boards to make my bunk.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-26" id="d314">
+
+<head>26 Nov. 1864 (Sat.)</head>
+
+<p>Went to the concert John &amp; I, the performance was very good, made my
+
+bunk.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-27" id="d315">
+
+<head>27 Nov. 1864 (Sun.)</head>
+
+<p>Had inspection this morning/</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-28" id="d316">
+
+<head>28 Nov. 1864 (Mon.)</head>
+
+<p>Quite plesent bad inspection this morning, drawed blankets, feel 
+
+quite
+
+well.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-29" id="d317">
+
+<head>29 Nov. 1864 (Tue.)</head>
+
+<p>Got a letter from John W. McBee, he sent me 2 dols, makes me feel 
+
+quite 
+
+well.</p></div3>
+
+
+
+<div3 type="entry" n="1864-11-30" id="d318">
+
+<head>30 Nov. 1864 (Wed.)</head>
+
+<p>Very plesent this morning, had to take down our tents to sun the
+
+ground. The sun makes me feel quite lazy, nothing going on in camp. This 
+
+is the last day of November and it is quite plesent.</p></div3>
+
+</div2>
+
+
+<div2 type="section" n="1864-12" id="d319">
+<head>December 1864
+ <!-- <ref> 
+Medicine/Hospitals, Prisons/Prisoners
+</ref> --> 
+</head>
+
+
+
+<div3 type="entry" n="1864-12-01" id="d320">
+
+<head>1 Dec. 1864 (Thu.) </head>
+
+<p>Wrote to John Will today. Got a letter from Cousin Ella Gross this 
+
+evening.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-02" id="d321">
+
+<head>2 Dec. 1864 (Fri.)</head>
+
+<p>Nothing going on in campl, very warm.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-03" id="d322">
+
+<head>3 Dec. 1864 (Sat.)</head>
+
+<p>Turned something colder this morning.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-04" id="d323">
+
+<head>4 Dec. 1864 (Sun.)</head>
+
+<p>I answered Cousin Ellies letter this evening, had 
+
+inspection.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-05" id="d324">
+
+<head>5 Dec. 1864 (Mon.)</head>
+
+<p> Quite blustery today, mailed my letter this morning.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-06" id="d325">
+
+<head>6 Dec. 1864 (Tue.)</head>
+
+<p>Took down our tents to sun the ground. John is not so well 
+
+today.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-07" id="d326">
+
+<head>7 Dec. 1864 (Wed.)</head>
+
+<p>John is quite unwell today, had a heavy fever.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-08" id="d327">
+
+<head>8 Dec. 1864 (Thu.)</head>
+
+<p>John is no better, he went to the hospital. I went with him very cold 
+
+today.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-09" id="d328">
+
+<head>9 Dec. 1864 (Fri.)</head>
+
+<p>Very cold. Had a very heavy rain last night.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-10" id="d329">
+
+<head>10 Dec. 1864 (Sat.)</head>
+
+<p>Went over to the hospital to see John, he dont seem to be any 
+
+better.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-11" id="d330">
+
+<head>11 Dec. 1864 (Sun.)</head>
+
+<p>Rained some today, very disagreeable, went over to the Hospital to 
+
+see John, he dont seem to be any better.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-12" id="d331">
+
+<head>12 Dec. 1864 (Mon.)</head>
+
+<p> Dredful cold today couldant get to see John, 
+
+hadant any fire.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-13" id="d332">
+
+<head>13 Dec. 1864 (Tue.)</head>
+
+<p>Went over to see John he seems to be something better.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-14" id="d333">
+
+<head>14 Dec. 1864 (Wed.)</head>
+
+<p>Moderated some today, couldant got to see John.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-15" id="d334">
+
+<head>15 Dec- 1864 (Thu.)</head>
+
+<p>Went over to see John he is looking something better, turned very 
+
+cold.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-16" id="d335">
+
+<head>16 Dec. 1864 (Fri.)</head>
+
+<p>Very cold today, I couldant got over to see John.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-17" id="d336">
+
+<head>17 Dec. 1864 (Sat.)</head>
+
+<p>Went over to see John be is something better, went to the concert got 
+
+a letter from S. E. G.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-18" id="d337">
+
+<head>18 Dec. 1864 (Sun.)</head>
+
+<p>Had inspection this morning, quite cold.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-19" id="d338">
+
+<head>19 Dec. 1864 (Mon.)</head>
+
+<p>Very disagreeable today. I have a very bad cold, didnt get to see 
+
+John on account of Wilson mending my pants.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-20" id="d339">
+
+<head>20 Dec. 1864 (Tue.)</head>
+
+<p>Very Cold today, went over to see John, found him something better 
+
+answered Cousin Ella.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-21" id="d340">
+
+<head>21 Dec. 1864 (Wed.)</head>
+
+<p>Very disagreeable rained most all day. I have a very bad cold with a 
+
+headache.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-22" id="d341">
+
+<head>22 Dec. 1864 (Thu.)</head>
+
+<p>Dredful cold today, suffering for the want of cloathes, looking for a 
+
+letter from John W. McBee.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-23" id="d342">
+
+<head>23 Dec. 1864 (Fri.)</head>
+
+<p>Very cold today. fixed a new door to our tent, heard from John he is 
+
+doing well.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-24" id="d343">
+
+<head>24 Dec. 1864 (Sat.)</head>
+
+<p>Feel very bad today. Went over to see John. he is much 
+
+better.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-25" id="d344">
+
+<head>25 Dec. 1864 (Sun.)</head>
+
+<p>some pride beef for treakfast, this morning, had inspection.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-26" id="d345">
+
+<head>26 Dec. 1864 (Mon.)</head>
+
+<p>Very disagreeable today, went to the Doctor and got 3 (thathartic?)
+
+pills, dont feel so well.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-27" id="d346">
+
+<head>27 Dec. 1864 (Tue.)</head>
+
+<p>Feel very bad today, went to see John. He gave me 2 Letters to 
+
+mail.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-28" id="d347">
+
+<head>28 Dec. 1864 (Wed.)</head>
+
+<p>John came over to the Sutlers today, mailed my letters, feel very 
+
+unwell.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-29" id="d348">
+
+<head>29 Dec. 1864 (Tue.)</head>
+
+<p>Very cold today, feel something better. Seen John, he in doing very 
+
+well, drawed crackers.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-30" id="d349">
+
+<head>30 Dec. 1864 (Fri.)</head>
+
+<p>Feel something better today, had a talk with John at the Gard 
+
+house.</p></div3>
+
+
+
+<div3 type="entry" n="1864-12-31" id="d350">
+
+<head>31 Dec. 1864 (Sat.)</head>
+
+<p>Well this is the last day of the old year and here I am yet a 
+
+Prisoner. Got up this morning and made my breakfast on stewed Crackers. 
+
+Very cold snowed for the first time this year.</p>
+
+
+<p>This old year has left me here<lb/>
+
+To suffer with the rest<lb/>
+
+But in sixty five I'll contrive <lb/>
+
+To do something for the best.</p>
+
+
+
+<p>What will be you will all see<lb/>
+
+Before the year rolls around<lb/>
+
+For I dont intend that this Bull Pen<lb/>
+
+Shal hold me in its bounds.</p>
+
+
+
+<p>Now boys I say to one and all<lb/>
+
+What proffit will wee gain<lb/>
+
+To suffer here a prison life<lb/>
+
+When at home wee mightt remain</p>
+
+
+
+<p>The names of my mess mates at Point Look, Md.<lb/>
+
+Saml P. Vkgner	Auga Va.	H. L. Hammack	Auga Va.<lb/>
+
+T. G. WIlson	Va. 	J. W. Jones	Va.<lb/>
+
+L. King	N.C.	W. Thaget	N.C.<lb/>
+
+Jas. Holdsclaw	N.C.	Jno. Lisenbery	Tenn.<lb/>
+
+Jno. Cathey	Tenn.	L.H. Law	S. C.<lb/>
+
+S. Thatch	N.C.</p></div3>
+
+</div2>
+
+</div1>
+
+
+<div1 id="AD10101865" type="part" n="1865">
+<head>1865
+<!-- <ref>AD10101865</ref> -->
+</head>
+
+
+<div2 type="section" n="1865-01" id="d352">
+<head>January 1865
+ <!-- <ref> 
+Prisons/Prisoners
+</ref> --> 
+</head>
+
+
+<div3 type="entry" n="1865-01-01" id="d353">
+
+<head>1 Jan. 1865 (Sun.)</head>
+
+<p>Dredful cold today and still at Point Lookout, (Md.?) Crckers stopt 
+
+today.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-02" id="d354">
+
+<head>2 Jan. 1863 (Mon.)</head>
+
+<p>John was discharged from the Hospital today, he came in the tent with 
+
+me to stay.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-03" id="d355">
+
+<head>3 Jan. 1865 (Tue.)</head>
+
+<p>Charles Rogers got to camp this morning a prisoner, was darn glad to 
+
+see him in this place. Snowed this evening.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-04" id="d356">
+
+<head>4 Jan. 1865 (Wed.)</head>
+
+<p>Got up this morning, found the snow bout 3 inches deep, had a a long 
+
+talk with Charley Rogers.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-05" id="d357">
+
+<head>5 Jan. 1865</head>
+
+<p>Rogers awe up to our tents</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-06" id="d358">
+
+<head>6 Jan. 1865 (Fri.)</head>
+
+<p>Turned something colder today, drawed me a pair of shoes.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-07" id="d359">
+
+<head>7 Jan. 1865 (Sat.)</head>
+
+<p>Turned very cold, mailed Johns latter that he sent to 
+
+Martinsburg.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-08" id="d360">
+
+<head>8 Jan, 1865 (Sun.)</head>
+
+<p>Very cold today, had inspection, Moderated some in the 
+
+evening.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-09" id="d361">
+
+<head>9 Jan. 1865 (Mon.)</head>
+
+<p>Very plesent today, nothing going on in camp, some talk of an 
+
+exchange.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-10" id="d362">
+
+<head>10 Jan. 1865 (Tue.)</head> 
+
+<p>Rained today, very disagreeable. still drawing pickled 
+
+Beef.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-11" id="d363">
+
+<head>11 Jan. 1865 (Wed.)</head>
+
+<p>Turned very cold today, very dull in camp.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-12" id="d364">
+
+<head>12 Jan. 1865 (Thu.)</head>
+
+<p>Moderated and got quite warm, feel very well today.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-13" id="d365">
+
+<head>13 Jan. 1865 (Fri.)</head>
+
+<p>Very plesent today. John Ray come down to my tent, some talk of and 
+
+exchange.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-14" id="d366">
+
+<head>14 Jan. 1865 (Sat.)</head>
+
+<p>Very cold today, no news in camp.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-15" id="d367">
+
+<head>15 Jan. 1865 (Sun.)</head>
+
+<p>Moderated some, had inspection today.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-16" id="d368">
+
+<head>16 Jan. 1865 (Mon.)</head>
+
+<p>Clair and cold today, quite lonesome in camp.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-17" id="d369">
+
+<head>17 Jan. 1865 (Tue.)</head>
+
+<p>Very cold today with snow. bout 300 went off on exchange, 2 from my
+
+tent, Thaget and Jno. Cathy.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-18" id="d370">
+
+<head>18 Jan. 1865 (Wed.)</head>
+
+<p>Dredful cold today and no fire to set by.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-19" id="d371">
+
+<head>19 Jan. 1865 (Thu.)</head>
+
+<p>Got 2 letters from home for the first (time) wrote to S.E.G.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-20" id="d372">
+
+<head>20 Jan. 1865 (Fri.)</head>
+
+<p>Mailed our letters this morning. I got a letter from Bell 
+
+today.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-21" id="d373">
+
+<head>21 Jan. 1865 (Sat.)</head>
+
+<p>Very disagreeable today rained and sleeted all day, my name is on 
+
+listing? for Book and letter, could not got out to get it today. planked 
+
+beef.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-22" id="d374">
+
+<head>22 Jan. 1865 (Sun.)</head>
+
+<p>Went out and got my Book and letter. Book called for $2.00 it was 
+
+from John W. McBee.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-23" id="d375">
+
+<head>23 Jan. 1865 (Mon.)</head>
+
+<p>Still raining, very disagreeable today, still talk of exchanging. 650 
+
+prisoners came in from Fort Fisher.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-24" id="d376">
+
+<head>24 Jan. 1865 (Tue.)</head>
+
+<p>Claired off and turned very cold, hadant any fire to set by, wee got 
+
+3 new prisoners in our tent.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-25" id="d377">
+
+<head>25 Jan. 1865 (Wed.)</head>
+
+<p>Very cold today. very large Dixie mail in this week, went round and 
+
+got a pair to eat.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-26" id="d378">
+
+<head>26 Jan. 1865 (Thu.)</head>
+
+<p>Very cold today, times is very dull in camp.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-27" id="d379">
+
+<head>27 Jan. 1865 (Fri.)</head>
+
+<p>James Cadvallaider debt to C. D. Bucher $20. Today is the coldest 
+
+weeve had this winter.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-28" id="d380">
+
+<head>28 Jan. 1865 (Sat.)</head>
+
+<p>Something warmer this morning. No news in camp.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-30" id="d381">
+
+<head>30 Jan. 1865 (Mon.)</head>
+
+<p>Moderated some today, havant any fire.</p></div3>
+
+
+
+<div3 type="entry" n="1865-01-31" id="d382">
+
+<head>31 Jan. 1865 (Tue.)</head>
+
+<p>The last day of January brings no news from home.</p></div3>
+
+</div2>
+
+
+<div2 type="section" n="1865-02" id="d383">
+<head>February 1865
+ <!-- <ref> 
+Prisons/Prisoners
+</ref> --> 
+</head>
+
+
+<div3 type="entry" n="1865-02-01" id="d384">
+
+<head>1 Feb. 1865 (Wed.)</head>
+
+<p>The 1 of February brings us a very plesent day.</p></div3>
+
+
+
+<div3 type="entry" n="1865-02-02" id="d385">
+
+<head>2 Feb. 1865 (Thu.)</head>
+
+<p>Brought in some blockade runners this morning captured at Fort 
+
+Fisher, flanked a ration of poark this morning, drawed wood today, 
+
+turning colder.</p></div3>
+
+
+
+<div3 type="entry" n="1865-02-03" id="d386">
+
+<head>3 Feb. 1865 (Fri.)</head>
+
+<p>Turned quite cold today, had more rain in the evening with sleet, 
+
+very disagreeable under foot. Waiting very patiently to here from home.
+
+Drawed beef this morning, tride to flank a ration but was seen by one of 
+
+the cooks.</p></div3>
+
+
+
+<div3 type="entry" n="1865-02-04" id="d387">
+
+<head>4 Feb. 1865 (Sat.)</head>
+
+<p>Check out some 500 men today on exchange they say it is a
+
+regular exchange, I went out to help put up some tents.</p></div3>
+
+
+
+<div3 type="entry" n="1865-02-05" id="d388">
+
+<head>5 Feb. 1865 (Sun.)</head>
+
+<p>Called for more men today, going out all day, the men are in fine 
+
+spirits. Called for men of five states, Missourians, Tenn, Loues, Ark, 
+
+Miss.</p></div3>
+
+
+
+<div3 type="entry" n="1865-02-06" id="d389">
+
+<head>6 Feb. 1865 (Mon.)</head>
+
+<p>Still calling for more men, some went out today, took good many
+
+Boys, John was taken sick last night, had a heavy chill and fever, 
+
+consolidated the company more.</p></div3>
+
+
+
+<div3 type="entry" n="1865-02-07" id="d390">
+
+<head>7 Feb. 1865 (Tue.)</head>
+
+<p>Dredful cold today, snowed and sleeted all day, some flew men
+
+went out today.</p></div3>
+
+
+
+<div3 type="entry" n="1865-02-08" id="d391">
+
+<head>8 Feb. 1865 (Wed.)</head>
+
+<p>Turned quite plesent this morning, John is something better this 
+
+morning. They are all in the other Pen yet.</p></div3>
+
+
+
+<div3 type="entry" n="1865-02-09" id="d392">
+
+<head>9 Feb. 1865 (Thu.)</head>
+
+<p>Turned cold today, nothing going on this 
+
+morning. John is very unwell this morning, sent out a note to Major 
+
+Brady.</p></div3>
+
+
+
+<div3 type="entry" n="1865-02-10" id="d393">
+
+<head>10 Feb. 1865 (Fri.)</head>
+
+<p>Dredful cold today, nothing going on in camp.</p></div3>
+
+
+
+<div3 type="entry" n="1865-02-11" id="d394">
+
+<head>11 Feb. 1865 (Sat.)</head>
+
+<p>Dredful cold today, wind blowed very hard all day, had to go to bed 
+
+to keep warm. John is a good deal better.</p></div3>
+
+
+
+<div3 type="entry" n="1865-02-12" id="d395">
+
+<head>12 Feb. 1865 (Sun.)</head>
+
+<p>Still cold and no fire, very near froze out, nothing going on in the 
+
+Bull Pen, draved Mackeres fish today, eat very well.</p></div3>
+
+
+
+<div3 type="entry" n="1865-02-13" id="d396">
+
+<head>13 Feb. 1865 (Mon.)</head>
+
+<p>Drawed codfish this morningo dont like them but cant do any better 
+
+but eat them.</p></div3>
+
+
+
+<div3 type="entry" n="1865-02-14" id="d397">
+
+<head>14 Feb. 1865 (Tue.)</head>
+
+<p>Drawed more codfish today, they say they have 10 days rations on 
+
+hand, havant herd from home yet. would like very much to get a 
+
+letter.</p></div3>
+
+
+
+<div3 type="entry" n="1865-02-15" id="d398">
+
+<head>15 Feb. 1865 (Wed.)</head>
+
+<p>Still drawing codfish, getting very tired of them, rained all day 
+
+very disagreeable in camp today, still some flew men going out, begin to 
+
+miss them when wee go to the tables for grub.</p></div3>
+
+
+
+<div3 type="entry" n="1865-02-16" id="d399">
+
+<head>16 Feb. 1865 (Thu.)</head>
+
+<p>Very disagreeable today, very large box list, came out today for 
+
+tobacco got a letter from Bell today, glad to here from home.</p></div3>
+
+
+<div3 type="entry" n="1865-02-17" id="d400">
+
+<head>17 Feb. 1865 (Fri.)</head>
+
+<p>Gettysburg, Amos Guard and billy Funkhouser of my company went out, 
+
+was glad to see them get off, would like very much to of went 
+
+long.</p></div3>
+
+
+
+<div3 type="entry" n="1865-02-18" id="d401">
+
+<head>18 Feb. 1865 (Sat.)</head>
+
+<p>The Paroled Prisoners started South this morning, sent 160 back in 
+
+the Bull Pen, talked of sending more away Monday, claired off quite 
+
+cold.</p></div3>
+
+
+
+<div3 type="entry" n="1865-02-19" id="d402">
+
+<head>19 Feb. 1865 (Sun.)</head>
+
+<p> Nothing occured today, went up to the 
+
+Cookhouse and got a fry of liver, had a good supper.</p></div3>
+
+
+
+<div3 type="entry" n="1865-02-20" id="d403">
+
+<head>20 Feb. 1865 (Mon.)</head>
+
+<p>Moderated some today, a lot more of Prisoners went out today they 
+
+were captured in 1863, quite a stur in camp.</p></div3>
+
+
+
+<div3 type="entry" n="1865-02-21" id="d404">
+
+<head>2l Feb. 1865 (Tue.)</head>
+
+<p>Went down to the commissary to see Charley Rogers, got a piece of 
+
+pork, he is having a good time of it, getting plenty to eat.</p></div3>
+
+
+
+<div3 type="entry" n="1865-02-22" id="d405">
+
+<head>22 Feb. 1865 (Wed.)</head>
+
+<p>Quite plesent this morning, 36 shots fired this morning, turned cold 
+
+in the evening.</p></div3>
+
+
+
+<div3 type="entry" n="1865-02-23" id="d406">
+
+<head>23 Feb. 1865 (Thu.)</head>
+
+<p>Clowed up and commenced raining in the morning and rained all day, 
+
+very disagreeable in camp, the boat left with the exchanged Prisoners 
+
+morning, spent the evening with John Ray.</p></div3>
+
+
+
+<div3 type="entry" n="1865-02-24" id="d407">
+
+<head>24 Feb. 1865 (Fri.)</head>
+
+<p>Turned quite cold today, nothing going on in camp. Went up to the 
+
+cookhouse, stade by the fire all evening, some talk of the exchange 
+
+Playing out.</p></div3>
+
+
+
+<div3 type="entry" n="1865-02-25" id="d408">
+
+<head>25 Feb. 1865 (Sat.)</head>
+
+<p>Orders ware this morning for all Prisoners of War to report at the 
+
+gates, called for Prisoners captured up the the 1st of May 1864, rained 
+
+all day.</p></div3>
+
+
+
+<div3 type="entry" n="1865-02-26" id="d409">
+
+<head>26 Feb. 1865 (Sun.)</head>
+
+<p>Orders ware this morning for all Prisoners to report at the gate 
+
+called out up to the first of September, took out good many.</p></div3>
+
+
+
+<div3 type="entry" n="1865-02-27" id="d410">
+
+<head>27 Feb. 1865 (Mon.)</head>
+
+<p>Quite plesent today. Called out more men on exchange, called on up to 
+
+the lat of September, 1864, answered Bells letter this 
+
+morning.</p></div3>
+
+
+
+<div3 type="entry" n="1865-02-28" id="d411">
+
+<head>28 Feb. 1865 (Tue.)</head>
+
+<p>Nothing going on in camp, called out some flew men today quite 
+
+cold.</p></div3>
+
+</div2>
+
+
+<div2 type="section" n="1865-03" id="d412">
+<head>March 1865
+ <!-- <ref> Prisons/Prisoners</ref> --> 
+</head>
+
+
+<div3 type="entry" n="1865-03-01" id="d413">
+
+<head>1 March 1865 (Wed.)</head>
+
+<p>The first day of March brings us rain, went out on detail today on 
+
+the warf, brought in some corn and 10cts worth of potatoes.</p></div3>
+
+
+
+<div3 type="entry" n="1865-03-02" id="d414">
+
+<head>2 March 1865 (Thu.)</head>
+
+<p>Moved in Crackerbox house. Boiled our corn and made homany, took Mr. 
+
+Ruff a plate full. he gave me some greece. Went out again today got some 
+
+potatoes but wee ware surched and took them from us.</p></div3>
+
+
+
+<div3 type="entry" n="1865-03-03" id="d415">
+
+<head>3 March 1865 (Fri.)</head>
+
+<p>John went out on detail, didant get anything got a letter from John 
+
+McBee got $3.00.</p></div3>
+
+
+
+<div3 type="entry" n="1865-03-04" id="d416">
+
+<head>4 March 1865 (Sat.)</head>
+
+<p>Got letter from Bell today. Went up and shaved several of the Boys at 
+
+the Cookhouse, got a plate of meat, living much better now.</p></div3>
+
+
+
+<div3 type="entry" n="1865-03-05" id="d417">
+
+<head>5 March 1865 (Sun.)</head>
+
+<p>Nothing going on in camp, quite cold, drawed fish this evening, 
+
+notice for all citizens whose homes are in Rebble Lines to report to the 
+
+gate in the morning.</p></div3>
+
+
+
+<div3 type="entry" n="1865-03-06" id="d418">
+
+<head>6 March 1865 (Mon.)</head>
+
+<p>Went out on the warf detail, gidant get anything, the Citizens ware 
+
+paroled and sent back In camp.</p></div3>
+
+
+
+<div3 type="entry" n="1865-03-07" id="d419">
+
+<head>7 March 1865 (Tue.)</head>
+
+<p>Went to work and and made a ring, times seem quite dull in camp, went 
+
+up to the cookhouse, Mr. Ruff gave me 2 fish, wee are still in hopes of 
+
+getting out.</p></div3>
+
+
+
+<div3 type="entry" n="1865-03-08" id="d420">
+
+<head>8 March 1865 (Wed.)</head>
+
+<p>Quite plesent today, nothing going on in camp, clowded up and rained 
+
+some in the evening, drawed fish today, getting tired of fish 
+
+rations.</p></div3>
+
+
+
+<div3 type="entry" n="1865-03-09" id="d421">
+
+<head>9 March 1865 (Thu.)</head>
+
+<p>Turned cold today, nothing going on in camp, some talk of the 
+
+exchange playing out.</p></div3>
+
+
+
+<div3 type="entry" n="1865-03-10" id="d422">
+
+<head>10 March 1865 (Fri.)</head>
+
+<p>Quite cold today, everything seemed dull in camp, herd that they are 
+
+1300 prisoners on thore way bero from Erleys Army.</p></div3>
+
+
+
+<div3 type="entry" n="1865-03-11" id="d423">
+
+<head>11 March 1865 (Sat.)</head>
+
+<p>Went up to the cookhouse and Shaved the Boys, get a nice fry
+
+of liver, doing well in the way of something to eat now.
+
+Prisoners went on bord the boat this evening.</p></div3>
+
+
+
+<div3 type="entry" n="1865-03-12" id="d424">
+
+<head>12 March 1865 (Sun.)</head>
+
+<p>Quite plesent this morning, made another call this morning up to the 
+
+19th of Sept. good many went out.</p></div3>
+
+
+
+<div3 type="entry" n="1865-03-13" id="d425">
+
+<head>13 March 1865 (Mon.)</head>
+
+<p>Very plesent this morning, Got a posiah In the Cookhouse doing Bully. 
+
+Got a letter from Lester Bell was glad to here from home.</p></div3>
+
+
+
+<div3 type="entry" n="1865-03-14" id="d426">
+
+<head>14 March 1863 (Tue.)</head>
+
+<p>Quite plesent this morning. Answered Bells letter, nothing going on
+
+in camp, hard that the Boys left the other Pen this morning for 
+
+Dixie.</p></div3>
+
+
+
+</div2>
+
+</div1>
+
+</body>
+
+</text>
+</TEI.2>

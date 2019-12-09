@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2580"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A2580">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Jedediah Hotchkiss to Nelson H. Hotchkiss, June
+     4, 1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county jedediah hotchkiss to nelson h hotchkiss, june 4 1862</title>
+        <author>Hotchkiss, Jedediah</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Rider</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Rider</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A2580</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:502069</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Jedediah Hotchkiss to Nelson H. Hotchkiss, June 4, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta county jedediah hotchkiss to nelson h hotchkiss, june 4 1862</title>
+            <author>Jedediah Hotchkiss</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>1 page</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Jedediah Hotchkiss Collection, Reel 4, Manuscripts
+       Division, Library of Congress, Washington, D.C.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>Only original available is a typed copy.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Congress, Washington, D. C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1862-06-04">1862-06-04</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Death/Casualties, National Government, Enlistment, Military Authority, Patriotism,
+      Church/Religious Authority, Slavery, African Americans, Battle Description</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A2580T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Hotchkiss writes to his brother to ask him to hire someone to help Hotchkiss' wife on the
+     farm. He also relates news about the army, including the exploits of General Ashby.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Nelson H. Hotchkiss</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1862-06-04">June 4th., 1862</date>
+      <name type="place">New Market, Va.</name>
+     </dateline>
+     <salute>My <abbr expan="dear">dr.</abbr>
+      <abbr expan="Brother">Bro.</abbr></salute>
+    </opener>
+
+    <p>I have been so busy of late that I have not had time to write but a few lines about our
+     Winchester victory, which you have all heard of. We made a terrible sensation throughout the
+     North, Lincoln called for all the militia of the whole country to go to Washington to defend
+     the capital, and they are rushing as fast as possible to defend Washington as they say. Old Abe
+     ordered Fremont, Shields, Banks, and McDowell to strike after us, therefore, after securing our
+     spoils, stores of the most valuable kind, arms etc., we have moved back for new combinations,
+     to be followed by new results, no doubt. We are confident of success whenever our General sees
+     fit to strike a blow, under the blessing of Providence, which follows his prayers and his
+     exertions. I hope you are all getting along well and in comparative quiet, away as you are from
+     the constant dangers, the daily and mighty toils and labors of contending armies. May God
+     enable us to keep the foe away from our homes with his ruthless and despoiling hand. I am every
+     day more and more impressed with the belief that of all human evils war is the greatest, the
+     most degrading and horrible, - one from which all engaged in it long to be <hi rend="underline"
+      >delivered</hi>. Misery and suffering all around them, suffering and anxiety at home.- Nothing
+     but the preservation of our dearest rights could ever induce me to have anything to do with it,
+     but we must fight out our destiny, come weal, come woe, and leave those that war does not sweep
+     away to prove whether blood has been shed for good or for evil.</p>
+    <p> We are having a tremendous rain, flooding everything, but it falls most heavily upon our
+     enemy just now, by the blessing of a kind Providence, for they are compelled to take by ways
+     and pursue us over unbridged rivers, and in the mean time we will rest and prepare to strike
+     again. <pb n="2"/>
+    </p>
+    <p> Nelson, I wish you would hire some one, for me, to <hi rend="underline">work</hi> and <hi
+      rend="underline">completely</hi> make my garden and send the bill, if necessary and I will pay
+     it. My wife says she has not been able to get it well made, and I do not wish her to weary
+     herself and make herself sick trying to work it.-- Do attend to this for me at once_ and have
+     it well done, and I will be very thankful.</p>
+    <p> I wish you would also buy, if ours is gone or scarce, 10 or 15 bushels of corn and send it
+     to Sara for her use as she may wish.- I do not ask any of these things in complaint, but I
+     cannot see to having it done, and I ask you to do it for me.- I long for war to end that I may
+     go to my home in peace and stay there, content with any lot Providence may bestow.</p>
+    <p> Yesterday the gallant Gen. Ashby, (for he is now a General) being attacked when alone by
+     some 50 Yankee Cavalry, collected some straggling soldiers of ours and charged on them and
+     killed some 25 and put the rest to flight, capturing horses, saddles, pistols etc., etc. I have
+     some things I purchased for you in Winchester. When I can get a chance I will send them to you.
+     I was sorry that I had not a chance to buy and send many things, but I had not. There are many
+     things there to sell. Love and good wishes to all. </p>
+
+    <closer>
+     <salute>Your <abbr expan="affectionate">aff.</abbr>
+      <abbr expan="brother">bro.</abbr></salute>
+     <signed>Jed. Hotchkiss</signed>
+     <seg type="postscript">Write to me.</seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

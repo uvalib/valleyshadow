@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0635"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F0635">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Josiah Bloss to His Sister, September 26, 1863</title>
+        <title type="sort">franklin county josiah bloss to his sister, september 26 1863</title>
+        <author>Josiah Bloss</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Voorhees</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Voorhees</name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. <num type="kilobytes">6</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">F0635</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:501299</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Franklin County: Josiah Bloss to His Sister, September 26, 1863</title>
+            <title level="m"/>
+            <title type="sort">franklin county josiah bloss to his sister, september 26 1863</title>
+            <author>Josiah Bloss</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>3 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Pennsylvania Archives, Bloss Family Collection,
+       1862-1910, Folder 1</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Pennsylvania Archives</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1863-09-26">1863-09-26</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Camp Life, Prisons/Prisoners, Troop Movement</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001">Fall 2001 </date>
+        <respStmt>
+          <resp/>
+          <name>Desi Hopkins</name>
+        </respStmt>
+        <item>Proofread against original; corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="F0635T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Bloss writes his sister of his Brigade's success in defeating the rebels and capturing food
+     and goods.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">His Sister</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1863-09-26">Sept 26th 1863</date>
+      <name type="place">Stevensburg Va Camp of the 17th Pa Cavalry</name>
+     </dateline>
+     <salute>Dear Sister,</salute>
+    </opener>
+
+    <p>I take the <orig reg="pleasure">pleashure</orig> to <orig reg="address">adress</orig> you
+     with a few lines hoping to find <orig reg="you">yous</orig> all well. I am well and in good
+     health at the present. we had quite a <orig reg="jolly">joly</orig> time with the rebels this
+     week. our Brigade captured a lot of rebels and two thousand Pounds of <orig reg="tobacco"
+      >tobacko</orig> and 25 <orig reg="barrel">barels</orig> of whiskey. the <orig reg="tobacco"
+      >tobacko</orig> and whiskey was <orig reg="all">al</orig> given to us for our good fighting
+     and well behavior through our fighting since the<pb n="2"/>
+     <orig reg="invasion">invation</orig> of Pennsylvania: our cavalry has <orig reg="whipped"
+     >whipt</orig> the rebel Cavalry in every engagement since the Battle of <orig
+      reg="Chancellorsville">Chancellersville</orig> and a good part of <orig reg="their"
+     >there</orig> infantry along with <orig reg="their">there</orig> cavalry.</p>
+
+    <p>our company was on picket at the mouth of the <orig reg="Rapidan">Rappaden</orig> and we
+     captured 250 turkeys &amp; geese I had 9 turkeys which gave me as much as me &amp; my
+     horse could carry. we also had plenty of cabbage &amp; potatoes. we lived well during the
+     last week with our turkeys potatoes cabbage and whiskey.</p>
+
+    <p>I dreamed last night that we was fighting the rebels in abington and in newton township and I
+     thought I seen mother as we was coming back. if I ever get home I can tell you many a tale of
+     our fighting in woods from<pb n="3"/> hands and feet along the <orig reg="Rapidan"
+     >rappaden</orig> river at <orig reg="racoon">rackoon</orig> ford and we <orig reg="kept"
+     >keept</orig> the rebels on the <orig reg="opposite">oposit</orig> side for four days until our
+     infantry came up to us and <orig reg="relieved">releived</orig> us. we had our horses <orig
+      reg="all">al</orig> tied up in the woods during the time of 4 days. we have just received two
+     months pay and here is ten dollars at the present &amp; I will send some in my next.</p>
+
+
+    <closer>
+     <salute>So Good Bye<lb/>from your Brother</salute>
+     <signed>Josiah Bloss</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

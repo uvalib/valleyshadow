@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+
+<?dlps id="A6005"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A6005">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Henry H. Dedrick to Mary E. A. Dedrick, January
+     9, 1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county henry h dedrick to mary e a dedrick, january 9 1862</title>
+        <author>Dedrick, Henry H.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Diane B. Jacob, Virginia Military Institute</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Alice McShane</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A6005</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:502368</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Henry H. Dedrick to Mary E. A. Dedrick, January 9, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta county henry h dedrick to mary e a dedrick, january 9 1862</title>
+            <author>Henry H. Dedrick</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>1 page</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Henry H. Dedrick Papers, Manuscript #0332, Virginia
+       Military Institute Archives, Lexington, Virginia.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Virginia Military Institute Archives, Lexington, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1862-01-09">1862-01-09</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Camp Life, Death/Casualties, Family, Prisons/Prisoners</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001-07">July 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Murrell</name>
+        </respStmt>
+        <item>Tagging checked; final corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A6005T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Dedrick writes about friends in the guard house, illness in camp, and his assignment to a
+     work detail making clapboards. He also tells his wife that he received food packages.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Mary E.A. Dedrick</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1862-01-09">January the 9 1862</date>
+      <name type="place">Camp Alleghany Tip Top</name>
+     </dateline>
+     <salute>Dear Wife</salute>
+    </opener>
+
+    <p>I take this opportunity this morning as I have time to inform you that I am well at present
+     and I hope when these few lines comes to hand that they may find you and your sweet little boy
+     enjoying good health and all of my friends the same.</p>
+    <p>We have a great deal of sickness here at this time. James Lewis is very low with the
+     erysipelas. He had the sore throat in the first place, he is very low. His face and head is
+     swollen up, that his eyes was nearly shut and his face is <orig reg="as">a s</orig> black on
+     one side as it can be, but he is a little better this morning, but I hardly think he will get
+     over it. William Offlighter is not very well at this time. All the rest of the creek boys is
+     well.</p>
+    <p>Hiram Coyner &amp; Wright is out of the guard house. They only was in the guard house 12
+     days. They did not punish them any but kept them in the guard house at night and made them work
+     in the day under a guard. Little Tommy Offlighter sends his love to you all. He has been well.
+     We have bad weather here, we had some snow this week and it is raining here this morning and it
+     is very foggy too, but it is not as cold here as I thought it would be out here in the
+     mountain.</p>
+    <p>Jan 12.</p>
+    <p>Dear Lizza I will send you a few more lines. I wrote some of this a few days ago and I have
+     been at work on a regular detail. We have to walk five miles morning and evening. We are making
+     clapboards. I don't have to stand picket or do any other duty as long as I am on a regular
+     detail.</p>
+    <p>It is very warm this morning. We are all well this morning. Mr. Lewis is better. Mr. Grass
+     has been very sick, he has been sick two or three weeks but he is on the mend. Dear Lizza I
+     received the you sent by Dr. Drummons yesterday and all the rest of the things which was ten
+     apples and twenty cakes and the sausage and the hickory nuts that you put in my pants pocket.
+     Tell mother and Amanda and Carry that I am much obliged to them for their kindness and I got
+     the bottle of whiskey. James McDaniel give it to me but did not tell me who sent it to me, but
+     I think you sent it to me. I was very glad to get them and also I am much obliged to you for
+     them. I have not seen Dr. yet. I had no chance. Mr. McDaniel <unclear>said</unclear> to me last
+     night if I wanted to send you a letter that I had better writelast night, but I didn't have no
+     candle. I send my pants back. I will tell more the next letter as I have no time. Give my love
+     to all. Nothing more but reamin you affectionate husband until death</p>
+
+    <closer>
+     <salute>Henry H. Dedrick To his Dear Wife, Good by, write soon </salute>
+     <signed/>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

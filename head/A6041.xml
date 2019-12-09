@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+
+<?dlps id="A6041"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+<!ENTITY % MANUSCRIPT "INCLUDE">
+
+ 
+ <!ENTITY Smiley13 SYSTEM "uva-lib:503119" NDATA uvaHighRes> 
+ <!ENTITY Smiley13b SYSTEM "uva-lib:503120" NDATA uvaHighRes> 
+ <!ENTITY Smiley13c SYSTEM "uva-lib:503121" NDATA uvaHighRes> 
+
+ ]>  
+  
+  
+<TEI.2 id="A6041">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: J. C. McKerry to Thomas M. Smiley, August 17,
+     1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county j c mckerry to thomas m smiley, august 17 1862</title>
+        <author>McKerry, J. C.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Jaime Henshaw</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Alice McShane</name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A6041</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:503118</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: J. C. McKerry to Thomas M. Smiley, August 17, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta county j c mckerry to thomas m smiley, august 17 1862</title>
+            <author>J. C. McKerry</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>1 page</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Smiley Family Papers Accession #1807 Special
+       Collections Department, University of Virginia, Charlottesville, Virginia</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1862-08-17">1862-08-17</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Church/Religious Activities, Death/Casualties, Homefront, Miiltary Authority</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001">Summer 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Jaime Henshaw</name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A6041T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>McKerry writes about news at home such as illnesses. He dismisses the rumor he is getting
+     married. The Jack he refers to in letter is Stonewall Jackson.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Thomas M. Smiley</name>
+    </head>
+
+    <opener>
+  
+      <pb n="1" entity="Smiley13" pid="uva-lib:503119"/>
+  
+     <dateline>
+      <date value="1862-08-17">August 17<hi rend="super">th</hi> 1862</date>
+      <name type="place"><orig reg="Augusta">Augustas</orig><abbr expan="County">Coty.</abbr></name>
+     </dateline>
+     <salute>Dear Friend</salute>
+    </opener>
+
+    <p>it is with <orig reg="much">mutch</orig> pleasure that I <orig reg="embrace">imbrace</orig>
+     the <orig reg="present">presant</orig> opportunity of answering your most <orig reg="welcome"
+      >wellcom</orig> letter that I <abbr expan="received">recd</abbr> on the 15 instant I was glad
+     to <orig reg="hear">here</orig> that you was well and <orig reg="getting">geting</orig>
+     <orig reg="along">a long</orig> well. I had rather <orig reg="Come">Cum</orig> to the
+     Conclusion that you had forgotten your <orig reg="promise">promis</orig>
+     <orig reg="about">a bout</orig> writing but I believe that you <orig reg="are">air</orig> a man
+     of truth. what has <orig reg="become">becum</orig> of Jas Mc I <orig reg="have">hav</orig> not
+      <orig reg="heard">hird</orig> from him <orig reg="since">sence</orig> he left. I would be glad
+     to <orig reg="hear">here</orig> from you all <orig reg="often">oftan</orig>. Well Thomas I
+     Suppose you was in the last battle that <hi rend="underline">Jack</hi> had with the yankees how
+     did you <orig reg="come">com</orig> out was you <orig reg="hurt">hirt</orig> or not<pb n="2" entity="Smiley13b" pid="uva-lib:503120"/>
+    I <orig reg="have">hav</orig> had no Correct news from the <orig
+      reg="Company">Companey</orig>
+     <orig reg="Since">Sence</orig> the Battle. I <orig reg="heard">hird</orig> that Baylor and
+     Bowers was killed I am truly Sorry that it is too true I <orig reg="heard">hird</orig> that
+      <orig reg="there">the</orig> was <orig reg="Some">Sum</orig> three or four wounded but Could
+     not learn who <orig reg="they">the</orig>
+     <orig reg="were">wair</orig> except <unclear>John Gabboit</unclear>
+     <orig reg="there">the</orig> is so <orig reg="many">meny</orig> reports going that we cant tell
+     what is Correct. you Say that you <orig reg="heard">hird</orig> that I am to be married this
+     fall I think Sir you <orig reg="have">hav</orig>
+     <orig reg="been">bene</orig> misinformed about that matter but I <orig reg="only">unly</orig>
+     hope it may be true if it Should be the case I <orig reg="certainly">Sirtenly</orig> will take
+     Pleasure in Sending you <orig reg="Some">Sum</orig> of the Cake but I fear that <orig
+      reg="there">the</orig> is no <orig reg="Such">Sutch</orig> good luck as that the Girls all
+     want to wait <orig reg="until">untile</orig> the war is over if that be the Case I dont think
+     that I will Stand <orig reg="much">mutch</orig> chance. Well Thomas I dont think I <orig
+      reg="have">hav</orig>
+     <orig reg="any">eny</orig> news to tell you at this time <orig reg="there">the</orig> is a
+      <orig reg="great">grate</orig> deal of Sickness in the <orig reg="neighborhood"
+     >naborhood</orig> you Can <orig reg="hear">here</orig> of a <orig reg="death">deth</orig> most
+     <orig reg="every">evry</orig> day<pb n="3" entity="Smiley13c" pid="uva-lib:503121"/>
+      I was at Church <orig reg="today">to day</orig> Saw your Father
+     and Sister <orig reg="they">thay</orig>
+     <orig reg="were">wair</orig> well I tell you I Saw <orig reg="Some">Sum</orig>
+     <orig reg="mighty">mite</orig> Pretty Girls John R Berys <orig reg="have">hav</orig>
+     <orig reg="gone">gon</orig> to the springs. I want to <orig reg="go">goe</orig> a day or <orig
+      reg="two">too</orig>
+     <orig reg="if">ef</orig> I Can wish you was here to <orig reg="go">goe</orig> with me Billey is
+      <orig reg="getting">geting</orig> along <orig reg="tolerable">tolarble</orig> well he has a
+      <orig reg="very">verry</orig> bad Cold and <orig reg="Cough">Cuf</orig> but his wound is doing
+      <orig reg="very">verry</orig> well he Cant <orig reg="bear">bair</orig>
+     <orig reg="any">eny</orig>
+     <orig reg="weight">waight</orig> on it yet Billy Lucas Billy Fulton Jas Brown is here this
+      <orig reg="evening">eavning</orig> to See him. I will <orig reg="have">hav</orig> to Stop
+      <orig reg="Scribbling">Scribling</orig> for this time hope you will excuse all mistakes <orig
+      reg="Please">Pleas</orig> write <orig reg="soon">sune</orig> and give me all the news Give my
+     best Love to all the boys and <orig reg="reserve">resirve</orig> a <orig reg="large"
+     >larg</orig> portion for your Self. I remain your <orig reg="sincere">sincear</orig> friend</p>
+
+    <closer>
+     <salute>I remain your <orig reg="sincere">sincear</orig> friend</salute>
+     <signed>J.C. McKerry</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1001"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="B1001">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: George T. Cook to J. H.
+                    Remington, May 31, 1866</title>
+        <title type="sort">freedmens bureau records george t cook to j h remington, may 31 1866</title>
+        <author>Cook, George T.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1001</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500869</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: George T. Cook to J. H. Remington, May 31,
+                            1866</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records george t cook to j h remington, may 31 1866</title>
+            <author>George T. Cook</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 44.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1866-05-31">1866-05-31</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Aid/Relief</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-05">May, 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1001T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Cook's monthly report discusses rations to the poor, the registration of married
+                    couples and their children, and problems encountered by free blacks in the court
+                    system.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau of <abbr expan="Refugees, Freedmen and Abandoned Lands">R. F. &amp;
+                        A.L.</abbr><lb/>Office of <abbr expan="Assistant">Asst</abbr>
+                    <abbr expan="Superintendent">Supt</abbr>
+                    <abbr expan="Sub-District">Sub-Dist</abbr> B
+                    <name type="recipient">Brevet Major J. H. Remington<lb/>Superintendent</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1866-05-31">May 31<hi rend="super">st</hi> 1866</date>
+                        <name type="place">Staunton <abbr expan="Virginia">Va</abbr></name>
+                    </dateline>
+                    <salute>Sir:</salute>
+                </opener>
+
+                <p>I have the honor to make report of Bureau affairs in compliance with Circular
+                    from <abbr expan="Headquarters">H<hi rend="super">d</hi>Qrs</abbr> Sixth <abbr
+                        expan="District">Dist</abbr>
+                    <abbr expan="Virginia">Va.</abbr></p>
+
+                <p>Augusta County.</p>
+
+                <p>In this County I am informed by my predecessor the freedmen are as a rule working
+                    steadily, during the month rations have been issued to sixteen (16) persons -
+                    mostly women and children.</p>
+
+                <p>Complaints of various kinds have been entered upon the books but mostly for small
+                    sums of money.</p>
+
+                <p>Highland County</p>
+
+                <p>I have not visited as yet but learn that the freed people do not number more than
+                    one hundred (100) person in the County - have received no complaints from them.</p>
+
+                <p>Rockingham County</p>
+
+                <p>has never had an agent of the Bureau for any <pb n="2"/>length of time - the
+                    better class of whites are inclined to treat the freedmen fairly and are I think
+                    willing to give them opportunities to improve and have subscribed quite freely
+                    toward building them a church - but there are a large number bitterly opposed to
+                    them. I had two or three cases of assault brought to my notice by freedmen about
+                    the middle of the month and referred them to Civil Magistrates but have received
+                    no notice to attend trials - some freedmen complained that they were often
+                    threatened with violence if they went to the "Bureau" - I do not apprehend that
+                    much can be done for them under the present restrictions of the "Bureau."</p>
+
+                <p>I have registered in compliance with Circular <abbr expan="number">No</abbr> 11
+                        <abbr expan="Headquarters">H<hi rend="super">d</hi>Qrs</abbr>
+                    <abbr expan="Assistant">Asst</abbr>
+                    <abbr expan="Commissioner">Com<hi rend="super">r</hi></abbr> - in the County of
+                    Rockingham one hundred and fourteen couples with their Children and since coming
+                    to this County one hundred and seventy (170) couples <add hand="h1"
+                        place="inline">additional</add> enclosed please find a blank form which I
+                    filled and gave out in both instances as an incentive to them to come forward
+                    and also to make it easier to find their names in future if required - It has
+                    been suggested to me that by putting a <unclear>Rev.</unclear> Stamp on, it
+                    would be a legal instrument for them to retain and with which in case of the
+                    husbands death the widow could claim property <pb n="3"/>I think the idea worthy
+                    of mention but do not feel at liberty to take such a course without authority.</p>
+
+                <closer>
+                    <salute>I have the honor to be Sir,<lb/>Very Respectfully<lb/>Your Obedient
+                        Servant</salute>
+                    <signed><abbr expan="George">Geo.</abbr> T. Cook<lb/>1st <abbr
+                            expan="Lieutenant">Lt</abbr> and <abbr expan="Assistant">Asst.</abbr>
+                        <abbr expan="Superintendent">Supt.</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

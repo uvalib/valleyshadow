@@ -1,0 +1,254 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1014"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1014">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: Thomas P. Jackson to
+                    Orlando Brown, July 31, 1867</title>
+        <title type="sort">freedmens bureau records thomas p jackson to orlando brown, july 31 1867</title>
+        <author>Jackson, Thomas P.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">9</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1014</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500882</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: Thomas P. Jackson to Orlando Brown, July
+                            31, 1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records thomas p jackson to orlando brown, july 31 1867</title>
+            <author>Thomas P. Jackson</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 47.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-07-31">1867-07-31</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Aid/Relief, Community Values/Local Behavior, Employment/Labor, Legal
+                        System, Politics/Political Attitudes, Race Relations, Health/Illness</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-05">May, 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1014T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Jackson writes that while the condition of most freedmen in Augusta County is
+                    tolerable for the present, more support will be needed as winter approaches.
+                    Jackson renews his request for a medical requisition, but also mentions the need
+                    to try to reunite the familes of the aged and orphaned. His report also
+                    discusses temperance and the political attitudes in the county.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau <abbr expan="Refugees, Freedmen and Abandoned Lands">R. F. &amp; A.
+                        L.</abbr><lb/>Office 4 <abbr expan="Division">Div.</abbr> 9 <abbr
+                            expan="Sub-District">S Dist</abbr>
+                    <abbr expan="Virginia">Va</abbr>
+                    <name type="recipient"><abbr expan="Brigadier">Brig.</abbr>
+                        <abbr expan="General">Genl.</abbr>
+                        <abbr expan="Orlando">O.</abbr> Brown<lb/><abbr
+                            expan="Assistant Commissioner">Asst. Comr</abbr> (Bureau <abbr
+                            expan="Refugees, Freedmen and Abandoned Lands">R. F. &amp; A.
+                        L.</abbr>)<lb/>Richmond (Through <abbr expan="Headquarters">H<hi
+                                rend="super">d</hi>Qrs</abbr> 9th <abbr expan="Sub-District">S.
+                            Dist.</abbr>
+                        <abbr expan="Virginia">Va</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-07-31">July 31/1867</date>
+                        <name type="place">Staunton <abbr expan="Virginia">Va</abbr></name>
+                    </dateline>
+                    <salute>General</salute>
+                </opener>
+
+                <p>In compliance with the requirements of <abbr expan="Circular Order">C.O.</abbr>
+                    <abbr expan="Number">No</abbr> 6 S. 1866 (<abbr
+                        expan="Bureau of Refugees, Freedmen and Abandoned Lands">B.R.F. &amp;
+                        A.L.</abbr>) I have the honor to report on the conditions of Bureau Affairs
+                    in 4th <abbr expan="Division">Div</abbr> 9 <abbr expan="Sub-District"
+                    >S.Dist.</abbr> that since date of my last report there is no change in the
+                    general condition of Freedmen. The amelioration and elevation of their condition
+                    is progressing favorably, slowly it is true but perhaps all the more surely.</p>
+
+                <p>Employment continues abundant, much of the crop not yet being housed and
+                    threshing of that already saved, pretty general. So far as has been brought to
+                    my notice the farmers have paid <hi rend="underline">harvest</hi> wages promptly
+                    and in cases of disagreement under old contract where the amount involved is
+                    within the jurisdiction of magistrates I can obtain prompt settlement, but with
+                    the larger claims of which I have several I can make very little progress as the
+                    Freedmen are too poor to sue in the courts in form of law and contend with their
+                    richer debtors.</p>
+
+                <p>The physical condition of the aged, sickly and orphan colored persons is much
+                    alleviated by fine weather and abundance of vegetable food and although there
+                    are cases of need they are within reach of the local <pb n="2"/>authorities and
+                    I do not expect to have to draw any rations until the Fall of the year unless
+                    sickness becomes prevalent. Having by ample notice prepared the persons who have
+                    hitherto been assisted for a suspension of Bureau aid, I hear few complaints on
+                    account of the stoppage of issue of Rations.</p>
+
+                <p>The political relations between white and colored present no change in this
+                    Division. The whites say little except occasional individual threats, being at
+                    last satisfied it is useless to continue the endeavor to make the Freedmen
+                    believe they are their "best friends" and the large majority of white over
+                    colored voters registered 3,484 <abbr expan="white">W.</abbr> &amp; 1,206
+                        <abbr expan="colored">C.</abbr> = 2,248 White majority in Augusta <abbr
+                        expan="County">Co.</abbr> and a still greater proportionate majority in
+                    Highland <abbr expan="County">Co.</abbr> makes them more indifferent, as they
+                    think they can easily out-vote them at the Polls. The conduct of the Freedmen is
+                    most praiseworthy and I do not anticipate any collision in case of an election.
+                    In reference to Circular <abbr expan="Number">No.</abbr> 14 <abbr
+                        expan="Headquarters">H<hi rend="super">d</hi>Qrs</abbr>
+                    <abbr expan="Assistant">Asst.</abbr>
+                    <abbr expan="Commissioner">Comr</abbr>
+                    <abbr expan="Virginia">Va</abbr> July <abbr expan="10, 1867">10/67</abbr> I
+                    respectfully refer to my Report of Bureau Affairs forwarded June <abbr
+                        expan="3, 1867">3/67</abbr> "If a copy of the Constitution and By-Laws of
+                    the Central (Lincoln Temperance) Society at Washington can be furnished to me, I
+                    have no doubt branch organizations can be established here" As yet I have not
+                    received such copy of Constitution &amp;c Drunkenness is more prevalent
+                    among white than colored people in both counties and with but two exceptions
+                    white men <pb n="3"/>are the keepers of the drinking places.</p>
+
+                <p>I regret that some provision cannot be made to furnish medicine for poor Freedmen
+                    here. Sickness is most common in families where poverty exists and although Dr.
+                    C. R. Harris continues to prescribe gratis for the needy poor colored people, as
+                    I have reported in previous months, he cannot furnish medicine also and in some
+                    pressing cases I have had to pay for prescriptions out of my own pocket. A
+                    trifling appropriation by the Bureau would do much good and if this cannot be
+                    made with a small assortment of medicine be furnished to me on requisition?</p>
+
+                <p>The aged and orphan colored people will need much attention through the coming
+                    winter and I know nothing which will tend more to alleviate their condition than
+                    affording facilities for the reunion of familes most of the needy old colored
+                    people in this county having been deprived of their natural supporters by the
+                    sale of their now adult chilren to other States.</p>
+
+                <closer>
+                    <salute>I have the honor to be, General,<lb/><abbr expan="Your obedient servant"
+                            >Yr obt servt</abbr></salute>
+                    <signed><hi rend="underline">Tho<hi rend="super">s</hi> P
+                    Jackson</hi><lb/>Agent</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9637"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="A9637">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: William Brand to Kate Armentrout, October
+                    4, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta william brand to kate armentrout, october 4 1861</title>
+        <author>Brand, William F.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Jaime Martinez</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A9637</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502799</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: William Brand to Kate Armentrout, October 4, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta william brand to kate armentrout, october 4 1861</title>
+            <author>William Brand</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William Brand Papers, Albert and
+                            Shirley Small Special Collections Library, University of Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1861-10-04">1861-10-04</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Troop Movement, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2007-04-03">2007-04-03</date>
+                <respStmt>
+                    <resp>proofed</resp>
+                    <name>Josh Botts</name>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A9637T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>William responds to Kate's charge that he is trifling with her by also professing
+                    his love to a Miss Hiss. He also described his week on picket duty within sight
+                    of Washington.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1861-10-04"><abbr expan="October">Oct.</abbr> 4th 1861</date>
+                        <name type="place"><orig reg="Camped">Campt</orig> Near Fairfax <abbr expan="Court House">C.H.</abbr></name>
+                    </dateline>
+                    <salute>Dear Kate</salute>
+                </opener>
+
+                <p>I have taken the <orig reg="present">presant</orig> opportunity of <del hand="h1"
+                        >writing</del> time, to write you a <orig reg="few">fiew</orig> lines for
+                    the purpose of answering your last letter which I <orig reg="received"
+                    >recieved</orig> a <orig reg="few">fiew</orig> days since. You wrote as if I was
+                    trifling with your good nature. I would rather fall in the cause of our country
+                    than to blindfold you in any way. You <orig reg="were">ware</orig> mistaken in
+                    seeing a letter of mine to Miss Hiss as you stated. I <orig reg="recollect"
+                        >recolect</orig> well at the last of my letter to her I had.- <hi
+                        rend="underline">from your</hi> devoted friend and if you <orig reg="don't"
+                        >do'nt</orig> believe me I only ask you to look at it again none <pb n="2"/>
+                    but Sam Fitch <orig reg="knew">new</orig> my motive in writing her that letter
+                    it was for his <orig reg="benefit">benifit</orig> she had lost confidence in
+                    him, on account of some lies that had been told on him about her. <orig
+                        reg="She">Shee</orig> wrote to me stating that I was in <orig reg="Sam's"
+                        >Sams</orig>
+                    <orig reg="presence">presance</orig> when he talked about her. She said that if
+                    the things <orig reg="were">ware</orig> true she was done with Sam for ever. It
+                    was all a lie that some of his <orig reg="enemies">enimies</orig> had
+                        <unclear>made</unclear> on him, through <orig reg="Sam's">Sams</orig>
+                    persuasion I tried to write a forcible letter for I <orig reg="knew">new</orig>
+                    that Sam still loved her. &amp; I am <orig reg="certain">sertain</orig> that
+                    she once loved him. I suppose if she was my devoted lover I would have written
+                    to her since <orig reg="which">wich</orig> I have never done. Very <orig
+                        reg="probably">proberably</orig> this will <pb n="3"/> be hard to believe
+                        <orig reg="but">put</orig> it is <orig reg="even">eaven</orig> so; your
+                    advice is good but in no way. I <orig reg="don't">do'nt</orig> think that I have
+                    tried to fool any one &amp; God forbid that I should. I have had <del
+                        hand="h1"/> blues ever since I <orig reg="received">recieved</orig>
+                    <del rend="none" hand="h1"/> letter. I used to think that <del rend="none" hand="h1"/> nature was <orig
+                        reg="too">to</orig> strong to <del rend="none" hand="h1"/> be subject unto grief but
+                    alas it is far from it.</p>
+
+                <p><orig reg="There">Thare</orig> are no news of importance to write. Our <orig
+                        reg="regiment">regament</orig> was on <orig reg="picket">piket</orig> last
+                    week. I could see the dome of the <orig reg="Capitol">Capital</orig> in
+                    Washington City on masons hill I could see vessels going up and down the Potomac
+                    at Alexandria. I could see the Yankee fortifications to the right of Alexandria.
+                    I <orig reg="couldn't">couldent</orig> get to look through <pb n="4"/> the spy
+                    glass. <abbr expan="Captain">Capt</abbr> said he could see the Yankees working
+                    on the breastworks. <abbr expan="Captain">Capt</abbr> counted eighteen pieces of
+                        <orig reg="cannon">canon</orig> on one of <orig reg="their">thare</orig>
+                    earth work entrenchments. I was the first one to discover after <del rend="none" hand="h1"/>
+                    <orig reg="were">ware</orig> put on post a large balloon up in the direction of
+                    Washington that had <orig reg="climbed">climed</orig> a large white oak tree for
+                    the purpose of getting a good view of the country <orig reg="there">thare</orig>
+                    was some shooting <orig reg="every">evry</orig> day that we <orig reg="were"
+                        >ware</orig>
+                    <orig reg="there">thare</orig>; we could hear the Yankee <orig reg="drums"
+                        >drumbs</orig> beating <orig reg="every">evry</orig> night the last two or
+                    three days it was very rainy weather. We had <orig reg="plenty">blenty</orig> of
+                        <orig reg="roasting">rosting</orig> ears while we <orig reg="were"
+                    >ware</orig> at Pagets tavern <orig reg="there">thare</orig> was a large field
+                    of Yankee corn close. We had to fall back about three miles before our time was
+                    out as the Yankees <orig reg="were">ware</orig> advancing but I believe it was
+                    done to draw them on. Nothing more but remain your affectionately. Write soon</p>
+
+                <closer>
+                    <salute>yours &amp;c,</salute>
+                    <signed>W.F.B.</signed>
+                    <seg type="postscript"><pb n="1"/>My health is very good &amp; hope this
+                        will find you enjoying the same blessing. It is my desire that this letter
+                        should be kept secret as it might make <orig reg="enemies">enimies</orig>
+                        someday. Write soon nothing more from your <orig reg="humble">umble</orig>
+                        friend W.F.B.</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

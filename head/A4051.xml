@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+
+<?dlps id="A4051"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A4051">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Jedediah Hotchkiss to Sara A. Hotchkiss, August
+     30, 1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county jedediah hotchkiss to sara a hotchkiss, august 30 1863</title>
+        <author>Hotchkiss, Jedediah</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Lara Diefenderfer</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Rider</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">9</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A4051</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:502250</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Jedediah Hotchkiss to Sara A. Hotchkiss, August 30, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta county jedediah hotchkiss to sara a hotchkiss, august 30 1863</title>
+            <author>Jedediah Hotchkiss</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>4 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Jedediah Hotchkiss Collection, Reel 4, Manuscripts
+       Division, Library of Congress, Washington, D. C.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Congress, Washington, D. C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1863-08-30">1863-08-30</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Desertion/Leave, Church/Religious Activity, Camp Life, Arts/Leisure, Military Authority,
+      Women, Home Front</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A4051T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Hotchkiss writes to his wife, describing a Sunday in camp, the sermon, and music and dancing
+     entertainment. He gives his wife his thoughts on education/religious training for the
+    children.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Sara A. Hotchkiss</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1863-08-30">Aug. 30<hi rend="underline">
+        <hi rend="super">th</hi>
+      </hi> 1863</date>
+      <name type="place"><abbr expan="Head Quarters">Hd. Qrs.</abbr> 2<hi rend="underline">
+       <hi rend="super">nd</hi>
+      </hi> Corps Orange <abbr expan="Court House">C.H.</abbr></name>
+     </dateline>
+     <salute>My Darling Wife:</salute>
+    </opener>
+
+    <p>I have not heard from you but once since the one joyful day I spent at home &amp; feel
+     uneasy at your unusual delay, but think the excitement that has been in the Valley may have
+     prevented, in fact unfitted you, for anything but care for the passing hour -- I suppose the
+     danger of an invasion of our quiet home has passed away &amp; I thank God for it, &amp;
+     you are saved from the presence of our cruel enemy. It is Sunday morning, we have had a sermon,
+     a morning lesson, from Habakkuk &amp; all but myself have gone over to the churches, I
+     remain to attend to anything that may need attention, but all is quiet &amp; in war we are
+     almost in profound peace -- in fact too much of ordinary life is becoming a part of our camp
+     life, and the tendency to amusements is far to prevalent for<pb n="2"/>times like these. But
+     there are two sides to this question &amp; much philosophy &amp; some Scripture in the
+     song "Let the wide world wag as it will, We'll be gay &amp; happy still" &amp; the text
+     "There is a time for all things" &amp; "There is nothing better than for a man to eat
+     &amp; drink &amp; enjoy the good of his labor". The Fast day was well &amp;
+     solemnly observed, but yesterday there was a gay picnic, with music &amp; dancing, at Gen.
+     Johnson's <abbr expan="Head Quarters">Hd. Qrs.</abbr> -- to which all the officers of the
+     Division &amp; the Corps <abbr expan="Head Quarters">Hd. Qrs.</abbr> were invited, all but
+     two or three went from here -- I did not feel like going -could not think so much gaiety right,
+     though I am fond of rational amusements &amp; like the <hi rend="underline">cheerful</hi>
+     phase of things. I have been very busy &amp; have much to do just now, as the surveys of
+     the country, from the parties in the field are coming in &amp; I am making copies so we may
+     have a set of accurate maps for our use &amp; this long rest is a perfect harvest time for
+     business, &amp; I cannot <hi rend="underline">now</hi> see my leaving time, but shall
+     obtain it before the winter that I may<pb n="3"/>prepare for it for you, &amp; have things
+     comfortable fixed up -- (D. V.) Mr. Lacy <abbr expan="received">recd</abbr> a few days ago a
+     box of the nice English Bibles &amp; Testaments procured by Dr. Haze &amp; I got a set
+     of the Gospels, four pretty little volumes, in flexible black covers, beautifully printed, for
+     Nelly, as she is learning the Scriptures, they are very pretty every way &amp; then the
+     dear child can have the satisfaction of learning a whole volume -- I shall send them when I can
+     safely &amp; I have another set which I shall keep a volume of at a time to read, but send
+     the others to you, in charge for my darling little Anna, whenever she shall begin to learn the
+     Scriptures &amp; I have a nice Nonpareil Testament for My Dear Little Wife, which I think
+     she will like, it is small &amp; plain, clearly printed &amp; has a soft &amp;
+     pleasant cover &amp; I think will add a new pleasure to the reading of the Sacred Volume
+     she loves so well --<pb n="4"/>The weather has been quite cold for several days &amp; I
+     slept cold last night for the first time in a long while, but such is a soldier's life. I have
+     a copy of the Life of Jackson, which I wish to send to you though it is not very good &amp;
+     not very entertaining to us that have read the living Man -- yet it has in it much to interest
+     others -- Gen. Lee is still in Richmond, maturing something I suppose &amp; the cool
+     weather will invite to action &amp; soon the horrid carnage of the battle will disquiet the
+     eye &amp; sicken the heart. "O when will man cease to do evil? &amp; when, O Lord! will
+     Thy kingdom come &amp; Thy will be done on earth as in Heaven -- I heard Harman wish to go
+     home <orig reg="today">to-day</orig> &amp; infer that his wife is in an <hi
+      rend="underline">interesting</hi> condition -- Mrs. Ewell is still here, but do not think her
+     presence is very good for the Old gent -- so says the Dr -- the "bold, bad man" as our Capt.
+     Johnson says --</p>
+    <p> I have no news my Dear -- my letter is very dull &amp; I am rather stupid myself so this
+     letter will only be like opening the door &amp; looking at you, or rather letting you look
+     at me &amp; then bowing myself out. Write to me, my Love, if only a little &amp; asking
+     for "Heavenly blessings without Number" for all my little home circle, I will say good- bye </p>
+
+    <closer>
+     <salute>Your <abbr expan="affectionate">aff</abbr> husband</salute>
+     <signed>Jed. Hotchkiss</signed>
+     <seg type="postscript">How is Allie's health now -- have you heard? I shall send you money this
+      week. Yours of the 28<hi rend="super">th</hi> came last night -- good -- first rate &amp;
+      I hope my 2 last are with you -- I have not heard of my slippers or letter - - Send Nelly to
+      the school if it will relieve you -- but I believe there will be little saved &amp; if we
+      can educate them as we set out -- But I do not want you to have all the burden of it</seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

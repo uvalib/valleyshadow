@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+
+<?dlps id="F8021"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F8021">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Simon Cameron to Alexander K.
+                    McClure, August 1, 1860</title>
+        <title type="sort">franklin county simon cameron to alexander k mcclure, august 1 1860</title>
+        <author>Cameron, Simon</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Lauren Sklaroff</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Andrew J. Torget</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F8021</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501659</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Simon Cameron to Alexander K. McClure, August 1,
+                            1860</title>
+            <title level="m"/>
+            <title type="sort">franklin county simon cameron to alexander k mcclure, august 1 1860</title>
+            <author>Simon Cameron</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Simon Cameron to Alexander K.
+                            McClure, 1 August 1860, Library of Congress, Simon Cameron Papers, Reel
+                            5, Frame 4279</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Congress, Washington, D. C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1860-08-01">1860-08-01</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>State Government, National Government</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F8021T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Cameron tries to explain his campaign contributions.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Reply to<lb/><abbr expan="Alexander">A.</abbr> K. McClure
+                    <hi rend="underline">Copy of reply</hi>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1860-08-01"><abbr expan="August">Aug.</abbr> 1, 1860</date>
+                        <name type="place">
+                            <unclear>Lochial</unclear>
+                        </name>
+                    </dateline>
+                    <salute>Dear Sir</salute>
+                </opener>
+
+                <p>I have your letter of yesterday, and can only say that I have been
+                    misrepresented, as usual, and that you have been imposed upon. Have you seen
+                        <abbr expan="Colonel">Col.</abbr> Curtin? All I have consented to do, was in
+                    accordance with his views, his knowledge &amp; his approbation.</p>
+                <p>I was called on by local gentlemen of the "republican club" of the city and asked
+                    and asked to object <del rend="none" hand="h1"/> in organizing for the campaign which I
+                    consented to do only on condition that we should in no manner interfere with you
+                    or your committee.</p>
+                <p>So for have <unclear>infecting</unclear> to get <unclear>fired</unclear> from the
+                        national<pb n="2"/>committee one of the <unclear>express</unclear>
+                    conditions made by me was that we should express all offers of aid in money or
+                    otherwise from persons outside the state.</p>
+                <p>It is time I heard from all <unclear>sides</unclear> in <abbr
+                        expan="Philadelphia">Phila</abbr> that you had given up the hope of
+                    obtaining friends, and that you had said you would not again call your committee
+                    together. I regret <unclear>foilcars</unclear> and was willing to forgo my own
+                    comfort and neglect my own business to <del rend="none" hand="h1"/> you and others, in
+                        <unclear>victory</unclear> harmony, and to bring about such a victory as we
+                    may all be proud of.</p>
+                <p>I can only account for your misapprehension of my <unclear>vices</unclear> by
+                    believing that you have not <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/>.</p>
+                <pb n="3"/>
+                <p>I have <unclear>planned</unclear> to be in <abbr expan="Philadelphia"
+                    >Phila</abbr> Tuesday next, when I will be the gentlemen whom I proved to act
+                    with and will also have a <unclear>frank</unclear> and cordial conversation with
+                    you. I desire, however that you will write Mr. Curtin to be present, and will
+                    not consent to be misunderstood by him.</p>
+
+                <closer>
+                    <salute>Vly <del rend="none" hand="h1"/></salute>
+                    <signed/>
+                    <seg type="postscript">
+                        <name type="recipient"><abbr expan="Colonel">Col.</abbr>
+                            <abbr expan="Alexander">A</abbr> K McClure</name>
+                    </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

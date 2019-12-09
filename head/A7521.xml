@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+
+<?dlps id="A7521"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]> 
+
+
+<TEI.2 id="A7521">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: William L. Evans to David H. Evans,
+                    September 11, 1867</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county william l evans to david h evans, september 11 1867</title>
+        <author>Evans, William L.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Andrew Witmer</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Andrew Witmer</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A7521</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502563</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: William L. Evans to David H. Evans, September 11,
+                            1867</title>
+            <title level="m"/>
+            <title type="sort">augusta county william l evans to david h evans, september 11 1867</title>
+            <author>William L. Evans</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William L. Evans to David H.
+                            Evans, September 11, 1867, Evans-Sibert Family Papers, Accession 27770,
+                            Virginia State Library and Archives, Richmond, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Virginia State Library and Archives, Richmond, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-09-11">1867-09-11</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Economy, Family, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-12-28">December 28, 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Andre Fleche</name>
+                </respStmt>
+                <item>Proofread against original; changes made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A7521T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Evans writes to his brother about the prospects for opening a store in
+                Staunton.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="business">H. Evans &amp; Bro.<lb/>Wholesale Dealers
+                        in<lb/>Tobacco, Cigars, Snuffs, Papers, &amp;c.</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <address><addrLine>No. 102 1/2 Main Street,</addrLine><addrLine> One Door North of the Taylor Hotel,</addrLine>
+            <addrLine><name type="place">Winchester, Va.</name></addrLine></address>
+                        <date value="1867-09-11">Sept. 11, 1867</date>
+                    </dateline>
+                    <salute>Dear Bro.</salute>
+                </opener>
+
+                <p>Your letter is to hand I was glad to hear from you and to hear you were all well
+                    at Staunton I dont know but One Cigar Maker that is now Out of work in town
+                    Except the Ones you named you did not <unclear>name</unclear> and that is Charly
+                    March who is a good workman and I suppose will come up if you
+                    <unclear>want</unclear> him.</p>
+
+                <p>I Could not come to Staunton unless you could give me the assurance I could do
+                    well. If John would give us the store and rent us the Room and Sell us the Stock
+                    on time I would then be willing to come and devote my whole time to the interest
+                    of the business, but it would not do for me to leave a Situation for an
+                    uncertain one. I Want to try and go to Martinsburg if I can raise the means<pb
+                        n="2"/>as I am certain a man could do well there by <orig reg="strict"
+                        >strick</orig> attention to business, but if John will let us have the Store
+                    in Staunton I would come <del rend="none" hand="h1"/> You talk to him and get his views on
+                    the Subject. Suppose we give him Half the profits of the concern-- we to attend
+                    to all the business. You do that and write to me as Soon as You do it and let me
+                    know what he Says.</p>
+
+                <p>Tell Elva &amp; Mary Lizzie I would be glad to hear from them and will Prize
+                    the Photographs Highly I will look for them next week. Write Soon Love to all
+                    all are well. business is good Our town is lively</p>
+
+                <closer>
+                    <salute>Yours Truly</salute>
+                    <signed>Wm. L. Evans</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2976"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A2976">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: William F. Brand to Amanda C. Armentrout,
+                    January 2, 1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta william f brand to amanda c armentrout, january 2 1863</title>
+        <author>Brand, William F.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Mary Elizabeth McCaskill</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A2976</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502146</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: William F. Brand to Amanda C. Armentrout, January 2, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta william f brand to amanda c armentrout, january 2 1863</title>
+            <author>William F. Brand</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William F. Brand Papers</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1863-01-02">1863-01-02</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Home Front</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A2976T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>William writes to Kate of camp life giving specific information on his messmates
+                    and the health of friends in the army.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Miss A. Kate Armentrout<lb/>Greenville<lb/>Augusta County<lb/>Virginia
+                    <name type="recipient">Miss A. Kate Armentrout</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1863-01-02">Jan 2th 1863</date>
+                        <name type="place">Camp Winder</name>
+                    </dateline>
+                    <salute>My Dear Friend</salute>
+                </opener>
+
+                <p>It is with pleasure that I again seat myself to drop you a <orig reg="few"
+                    >fiew</orig> lines I arrived safely in camp Monday last. I was very glad to see
+                    the boys and <orig reg="they">thay</orig> seemed glad to see me with them again
+                    My health has been very good since I left home I thought Saturday night in
+                    Staunton was one of the <orig reg="loneliest">lonliest</orig> nights that I ever
+                    spent I had a very nice time coming down on the cars I had very little or no
+                    trouble with the box for Jake he would make me eat a meal or two with him for
+                    fetching it down to him I mess with Christ Abe Trotter Lightner Abury &amp;
+                    Bretton <orig reg="there">thare</orig> is some talk of <pb n="2"/>us forming a
+                    new mess I suppose you have <orig reg="heard">hurd</orig> of our victory in
+                        <orig reg="Tennessee">Tenasee</orig> I think the picture of our <orig
+                        reg="Confederacy">confederacys</orig> is <orig reg="brightening"
+                    >brightning</orig> and I hope before long we will be a free and <orig
+                        reg="independent">independant</orig> people the army is in the very best of
+                    Spirits the boys are mostly speculating as soon as Plunkett brings a load the
+                    boys buy him out &amp; then sell at a small profit I believe Abe has made
+                    twenty Dollars today. Well <orig reg="they">thay</orig> had one on <orig
+                        reg="guard">gard</orig> last new years night the boys all said if <orig
+                        reg="they">thay</orig> had have been in my place thay would have <orig
+                        reg="stayed">staid</orig>
+                    <orig reg="until">untill</orig> after <orig reg="New Year">newyear</orig> I am
+                    very well <orig reg="satisfied">sadisfied</orig> that I have got back to the
+                    company We have a very nice camp <pb n="3"/>and I hope we may stay <orig
+                        reg="here">hear</orig> for some time we are in eight miles of Ginnie Station
+                    We have plenty of wood <orig reg="but">put</orig> the water is not very good, I
+                    was very much obliged to you for the fine pickle you sent me to eat on my
+                    departure from Greenville. You ought to have seen me part with Hattie I know you
+                    would have sent me a larger pickle. I found Cous, Jimmie looking rather badly he
+                    has not been well for some time I gave him the apple as you requested with your
+                        <orig reg="sympathies">simpathies</orig> in his late <orig reg="distress"
+                        >distresses</orig>. I found Bros, Charles &amp; John well and <orig
+                        reg="hearty">harty</orig> I have taken a very bad cold since I returned to
+                    camp put hope it will soon <orig reg="wear">ware</orig> off I have been very
+                        <orig reg="cheerful">cheerfull</orig> ever since I <pb n="4"/>got to camp
+                        <orig reg="there">thare</orig> is no news of importance to write I expect we
+                    will <orig reg="have to">hafto</orig> go on picket tomorrow The boys are mostly
+                    all well Curg is looking splendid. John Meeks <orig reg="arrived"
+                    >arrieved</orig> in camp today our Company No. over forty for duty I would have
+                    written <orig reg="sooner">soon</orig> but we had to <orig reg="move"
+                    >moove</orig> and then build us bunks oh kate how often I think of you, and wish
+                    for the time when I may be your true and constant companion you are constantly
+                    with me in my dreams be <orig reg="cheerful">cheefull</orig> my Kate for by the
+                    will of providence I will soon return write soon as I am <orig reg="always"
+                        >allway</orig> glad to hear from you <orig reg="goodbye">good by</orig> my
+                    one dear Kate as it is almost dark</p>
+
+                <closer>
+                    <salute>from your true and affectionate friend</salute>
+                    <signed>Willie Boy</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

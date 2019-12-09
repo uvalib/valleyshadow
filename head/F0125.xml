@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0125"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F0125">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: L.E. Bentz to Peter Boyer and Cyrus Engle, July
+     26, 1865</title>
+        <title type="sort">franklin county l e bentz to peter boyer and cyrus engle, july 26 1865</title>
+        <author>L.E. Bentz</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Voorhees</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Voorhees</name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. <num type="kilobytes">6</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">F0125</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:501265</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note>
+          <p>Transcription from photocopy.</p>
+        </note>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Franklin County: L.E. Bentz to Peter Boyer and Cyrus Engle, July 26, 1865</title>
+            <title level="m"/>
+            <title type="sort">franklin county l e bentz to peter boyer and cyrus engle, july 26 1865</title>
+            <author>L.E. Bentz</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>4 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: USMHI, Carlisle, PA</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from U. S. Army Military History Institute, Carlisle Barracks, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1865-07-26">1865-07-26</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Camp Life, Home Front</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""> </date>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="F0125T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>A friend writes to Peter Boyer and Cyrus Engle about the work he is doing at home and when
+     they might be discharged.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Peter Boyer and Cyrus Engle</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1865-07-26">July 26th 1865</date>
+      <name type="place">Brickersville, Pa</name>
+     </dateline>
+     <salute>Peter &amp; Cyrus,</salute>
+    </opener>
+
+    <p>Once more I take pleasure in writing to you to inform you that I am at Present in good health
+     and am a free Citizen and sincerely wish you could be the same. I am at home about a week now
+     and am working as good as ever I have been binding Oats and hauling home the same and more I am
+     raking one of the furnace fields for the half. There was a beer party at Moses Letters last
+     Saturday but I was not there. <pb n="2"/> I have seen both your parents and spoke to them and
+      <orig reg="Peter's">Peters</orig> father got a letter a few days ago I think if you go to work
+     and make application for your discharge you may be able to get it, go to work thus tell the
+     Colonel or <orig reg="whoever">who ever</orig> is in command of you and tell him that according
+     to an order issued all troops whose times of service expire before the 1<hi rend="super"
+     >st</hi> of January 1866 are to be discharge and your time is up on the 16<hi rend="super"
+     >th</hi> of Oct 1865, and I actually believe that you will be discharged.</p>
+
+    <p>
+     <pb n="3"/> I have not much or any news. everything appears very dull a good many or most all
+     the boys that have been gone are back except those one year new which are still at Staunton
+      V<hi rend="super">a</hi> and <orig reg="don't">dont</orig> know how soon they will be mustered
+     out I have been to see some of my old duck and they do it as good as they ever did, there are
+     any amount of young gals here at present. Tomorrow there will be a wedding M<hi rend="super"
+     >r</hi> Eckert is going to marry Harriet Matthews. <pb n="4"/> There will be a party in
+     Brickersville tonight and a <orig reg="picnic">Pic Nic</orig> at Jesse
+     <unclear>Runabeckers</unclear> on Saturday we have plenty of ways to spend the five cents we
+     brought home I think I shall go to Illinois again before very long I wish that you could come
+     back before I go I do very much wish to see you both I wish you all the luck and hope you can
+     soon return home, I am well and hope you are the same,</p>
+
+
+    <closer>
+     <salute>I am as ever your Friend</salute>
+     <signed>L.E. Bentz</signed>
+     <seg type="postscript">
+      <name type="recipient">to Peter Boyer &amp; Cyrus Engle</name>
+     </seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

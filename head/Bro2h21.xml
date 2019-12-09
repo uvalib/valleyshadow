@@ -1,0 +1,596 @@
+<?xml version="1.0"?>
+
+<?dlps id="Bro2h21"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY Bro2h211 SYSTEM "uva-lib:502914" NDATA uvaHighRes>
+<!ENTITY Bro2h212 SYSTEM "uva-lib:502915" NDATA uvaHighRes>
+<!ENTITY Bro2h213 SYSTEM "uva-lib:502916" NDATA uvaHighRes>
+<!ENTITY Bro2h214 SYSTEM "uva-lib:502917" NDATA uvaHighRes>
+<!ENTITY Bro2h215 SYSTEM "uva-lib:502918" NDATA uvaHighRes>
+<!ENTITY Bro2h216 SYSTEM "uva-lib:502919" NDATA uvaHighRes>
+]>
+<TEI.2 id="Bro2h21">
+<teiHeader type="migrated">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Letter to Emmet Brooks
+</title>
+        <title>[a machine-readable transcription]
+</title>
+        <title type="sort">letter to emmet brooks</title>
+        <author>Brooks Collection: Brooks, Charles
+</author>
+        <respStmt>
+          <resp>Creation of machine-readable version:
+</resp>
+          <name>Molly Campbell, Benjamin Knowles, Rawley Vaughan and Kate von Ter Stegge, HIUS 403, The University of Virginia
+</name>
+          <resp>Creation of digital images:
+</resp>
+          <name>Molly Campbell, Benjamin Knowles, Rawley Vaughan and Kate von Ter Stegge, HIUS 403, The University of Virginia
+</name>
+          <resp>Conversion to TEI.2-conformant markup:
+</resp>
+          <name>University of Virginia Library Electronic Text Center.
+</name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. 20 kilobytes
+</extent>
+      <publicationStmt>
+        <publisher>University of Virginia Library.
+</publisher>
+        <pubPlace>Charlottesville, Virginia
+</pubPlace>
+        <idno type="ETC">Modern English, Bro2h21
+</idno>
+        <!--
+<availability>
+<p>Publicly accessible
+</p>
+<p n="public">URL: http://etext.lib.virginia.edu/modeng/modengB.browse.html
+</p>
+<p>Publicly accessible
+</p>
+<p n="public">URL: http://cti.itc.Virginia.EDU/~ela/auhome/contents.html
+</p>
+<p n="public">URL: http://cti.itc.virginia.edu/~ela/auhome/bookcoll.html
+</p>
+<p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/
+</p>
+<p>copyright 2000, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2000 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1998">1998
+</date>
+        <idno type="uva-pid">uva-lib:500213</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>
+</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note>
+          <p>Images of the manuscript have been included. This electronic text is a faithful transcription of the original manuscript. We have included SGML tags which allow the reader to view a modernized version of the text in which the punctuation and the spelling have been regularized.
+</p>
+        </note>
+        <note>
+          <p>This text was created as part of Professors Edward L. Ayers and William G. Thomas III's HIUS 403: Digital History of the American Civil War, Fall 1997, University of Virginia.
+</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Letter to Emmet Brooks
+</title>
+            <title level="u">
+</title>
+            <title type="sort">letter to emmet brooks</title>
+            <author>Charles Brooks
+</author>
+            <respStmt>
+              <resp>
+</resp>
+              <name>
+</name>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p>
+</p>
+          </editionStmt>
+          <extent>4 pp.
+</extent>
+          <publicationStmt>
+            <publisher>
+</publisher>
+            <pubPlace>
+</pubPlace>
+            <idno type="callNo">Manuscript copy consulted: Private collection of Andrew Brooks Booker, Waynesboro Va.
+</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p>
+</p>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>
+</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Prepared for the University of Virginia Library Electronic Text Center.
+</p>
+        <p>Used with permission from private collection</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Original lineation has been maintained.
+</p>
+        <p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs.
+</p>
+        <p>Some keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.
+</p>
+      </editorialDecl>
+      <refsDecl>
+        <p>
+</p>
+      </refsDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings
+</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date value="1862-08-21">1862 August 21
+</date>
+      </creation>
+      <langUsage>
+        <language id="eng">English
+</language>
+      </langUsage>
+	     <handList>
+		      <hand id="h1"/>
+	     </handList>
+      <textClass>
+        <keywords>
+          <term>nonfiction
+</term>
+          <term>prose
+</term>
+          <term>masculine
+</term>
+          <term>American Civil War
+</term>
+          <term>Fourth Virginia Infantry
+</term>
+          <term>Company I
+</term>
+
+          <term>American Civil War</term>
+        </keywords>
+        <keywords>
+          <term>LCSH
+</term>
+        </keywords>
+        <keywords>
+          <term>
+</term>
+          <term>
+</term>
+          <term type="format">8 bit color; 150 dpi
+</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date value="1998-04">April 1998
+</date>
+        <respStmt>
+          <resp>corrector
+</resp>
+          <name>Carolyn Fay and Lisa Spiro, Electronic Text Center
+</name>
+        </respStmt>
+        <item>Added TEI header and tags, corrected transcription errors, standardized punctuation and spelling for the modernized version, and added informational notes.
+</item>
+      </change>
+      <change>
+        <date value="2005-06">June 2005</date>
+        <respStmt>
+          <resp>corrector</resp>
+          <name>John Ivor Carlson</name>
+        </respStmt>
+        <item>Converted sgml to xml.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+<text id="d1">
+
+
+<front id="d2">
+<div1 type="summary" n="1" id="d3">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>.pp</extent>
+<date value="1862-08-21">August 21, 1862</date>
+
+<title>Charles Brooks to Emmet Brooks, August 21, 1862
+</title>
+</bibl>
+</head>
+<p>Charles Brooks tells about his regiment's movements and
+participation in skirmishes in the days leading up to the Second Battle
+of Manassas.  He also describes various attempts by soldiers to
+leave the service.</p>
+</div1>
+</front>
+
+<body id="d4">
+	<div1 type="figure" id="d5">
+<figure rend="block" entity="Bro2h211" pid="uva-lib:502914">
+<figDesc>Manuscript Civil War letter from Charles Brooks to Emmet
+Brooks, dated August 21, 1862. Image of recto contains pages 1 and 4,
+originally folded in half.</figDesc>
+</figure>
+
+<figure rend="block" entity="Bro2h212" pid="uva-lib:502915">
+<figDesc>Manuscript Civil War letter from Charles Brooks to Emmet
+Brooks, dated August 21, 1862. Image of verso contains pages 2 and 3,
+originally folded in half.</figDesc>
+</figure>		
+</div1>
+<div1 type="letter" n="1862-August-21" id="d6">
+<pb n="1" entity="Bro2h213" pid="uva-lib:502916"/>
+<opener>
+<dateline><date value="1862-08-21">August 21st 1862</date></dateline>
+<salute>Dear <orig reg="Emmet,">Emmet</orig></salute>
+</opener>
+
+<p>You may think I have <orig reg="delayed">de<lb/>
+layed</orig> writing too long, but it has been<lb/>
+caused partly by my waiting to get a letter<lb/>
+from home, not having received one since<lb/>
+your brief note of 11th informing me of <name type="person">
+<orig reg="Andrew's">An<lb/>
+drew's</orig></name> return.<ref n="1" target="n1">[1]</ref>
+Our stay in camp after<lb/>
+the fight was but brief.  Marched again<lb/>
+on 16th to a point five miles beyond<lb/>
+Orange <abbr expan="Court House,">C.H.,</abbr> and in sight of the
+Yankee Camp<lb/>
+and remained there four
+days drawing and<lb/>
+cooking rations almost every day so as to<lb/>
+keep three days provisions on hand.<lb/>
+Yesterday we again took up the line of<lb/>
+march and advanced towards the enemy,<lb/>
+our route being to the right of the railroad,<lb/>
+and encamped near a little town called<lb/>
+Stephensburg.  This morning <del hand="h1">morning</del> we took<lb/>
+an early start&mdash;crossed the Rail<lb/>
+Road at Brandy Station and are now within two<lb/>
+miles of the <name><orig reg="Rappahannock">Rappihannock</orig></name>.
+The enemy are<lb/>
+on the further bank for the purpose of<lb/>
+preventing or retarding our advance, and<lb/>
+considerable cannonading has been going<lb/>
+on across the stream.  The Yankees <orig reg="retreated">retrea<lb/>
+ted</orig> from <name type="place">Culpeper
+<abbr expan="Court House">C.H.</abbr></name> yesterday
+<orig reg="leaving">lea<lb/>
+ving</orig> twelve hundred wounded men.
+
+<pb n="2" entity="Bro2h214" pid="uva-lib:502917"/>
+
+A cavalry skirmish occurred yesterday, in<lb/>
+which sixty prisoners were taken and the<lb/>
+Yankees routed.  Most of the dwelling <orig reg="houses">hou<lb/>
+ses</orig> along the road have been deserted by<lb/>
+the whites and left to the fate of war.<lb/>
+The country down here is generally flat<lb/>
+and poor, but in the neighborhood of <name type="place"><orig reg="Orange">
+Or<lb/>
+ange</orig> <abbr expan="Court House">C.H.</abbr></name> are many splendid
+fields of<lb/>
+corn, which continually tempt<lb/>
+the soldier to trespass.  Our cavalry and some <orig reg="artillery">artil<lb/>
+lery</orig> have succeeded in crossing the river<unclear>.</unclear><lb/>
+Our cavalry have just captured twenty<lb/>
+five Yankees and two Ambulances. <name type="person">
+<abbr expan="General">Gen</abbr><lb/>
+Lee</name> is here in command. <name type="person">
+<abbr expan="General">Gen</abbr> Stuart</name> and his Cavalry are
+here.<ref n="2" target="n2">[2]</ref>
+
+</p><p>
+
+I sent to Waynesboro last week by <name type="person">
+<orig reg="Mr. Davidson">Mr Da<lb/>
+vidson</orig></name> <del hand="h1">$2006</del> $206.00;
+$94.00 for <name type="person">Andrew</name><lb/>
+and the remainder for myself.  You take your<lb/>
+pay out of it, and as I am not getting<lb/>
+home very fast will have to make the<lb/>
+trade in pants we spoke of, which<lb/>
+will leave me in your debt&mdash;$21.00. I<lb/>
+would like to have the pants by the<lb/>
+first chance you have of sending them.<lb/>
+<name type="person">Mr. Hill</name> declines going in as a
+substitute<ref n="3" target="n3">[3]</ref><lb/>
+and I have heard nothing more of the<lb/>
+man of <abbr expan="Second Regiment">2nd Regt.</abbr>;
+<orig reg="don't">dont</orig> think he has ever<lb/>
+returned. Saw <name type="person">James White</name>
+<ref n="4" target="n4">[4]</ref>
+a few days<lb/>
+ago; said <name type="person">Andrew</name> was looking quite thin
+
+<pb n="3" entity="Bro2h215" pid="uva-lib:502918"/>
+
+having been reduced by scanty fare.  I sent<lb/>
+the little sword I spoke of to <name type="place">Waynesboro</name><lb/>
+by <name type="person">Harry Arnall</name>, who is discharged.
+Please<lb/>
+say in your next <add place="inline" hand="h1" n="editor">letter</add> whether you got the
+money;<lb/>
+disliking to carry it&mdash;I thought best to<lb/>
+send it even by indirect means.  On <orig reg="Monday">Mon<lb/>
+day</orig> <orig reg="all">All</orig> our wagons were taken from us<lb/>
+except enough to have cooking <orig reg="utensils">utencils</orig><lb/>
+and officers baggage and our mess <orig reg="boxes">box<lb/>
+es</orig> thrown out and bags substituted. So<lb/>
+we have to tote our little all on our<lb/>
+backs, which with gun cartridge box<lb/>
+and haversack containing three days<lb/>
+rations is quite burdensome.<ref n="5" target="n5">[5]</ref> Four or<lb/>
+five boys broke down yesterday. <name type="person">Tom<lb/>
+<orig reg="White,">White</orig></name> <name type="person">
+<orig reg="John">Jno</orig></name>
+and <name type="person">Henry <orig reg="Myers">Myres</orig></name> are
+in a very<lb/>
+fair way of getting transfers <del hand="h1">of</del> to <orig reg="Cavalry">Cav<lb/>
+alry.</orig><ref n="6" target="n6">[6]</ref>
+I forgot to say that <name type="person">James White</name><lb/>
+told me that there were two men in his<lb/>
+company who would probably be discharged<lb/>
+who might be got as substitutes.<lb/>
+I will soon need a hat and would like<lb/>
+to have a pocket-ink stand and <orig reg="pen">penn</orig> holder<lb/>
+if <del hand="h1">they</del> this can be bought.  Will also take one<lb/>
+of your homemade pocket books if you<lb/>
+<del hand="h1">can m</del> have an extra one or
+can <orig reg="conveniently">convenient<lb/>
+ly</orig> make one. <name type="person">Andrew</name> had better have<lb/>
+his knapsack as small as possible, they can be drawn here.
+
+<pb n="4" entity="Bro2h216" pid="uva-lib:502919"/>
+
+Suppose I may think of this as <name type="person">Aunt<lb/>
+Mary's</name><ref n="7" target="n7">[7]</ref> bridal day, if so, may it be an<lb/>
+era of happiness in her life.
+</p>
+</div1><div1 type="letter" n="1862-August-22" id="d7">
+
+<opener>
+<dateline><date value="1862-08-22"><orig reg="Friday, August 22, 1862">Friday 22nd</orig></date>
+</dateline>
+<salute>Dear <orig reg="Ma,">Ma.</orig></salute>
+</opener>
+
+<p>Got your long looked for letter<lb/>
+this morning.  Tell <name type="person">Andrew</name> and
+<name type="person">Mary</name> I wish<lb/>
+they were as good at writing as promising. We<lb/>
+are still near the <name type="place"><orig
+reg="Rappahannock">Rappinock</orig></name>, not crossed
+yet<unclear>.</unclear><lb/>
+A considerable amount of cannonading has been<lb/>
+going on and some picket firing. Hoped the <orig reg="Yankees">Yan<lb/>
+kees</orig> leave last night. How much <unclear>more</unclear> pleasant<lb/>
+it would be to be tasting <name type="person">Aunt <orig reg="Mary's">Ma<lb/>
+ry's</orig></name> wedding cake then eating hard crackers<lb/>
+and listening at the whistling of <del hand="h1">that</del> cannon<lb/>
+balls, but it is all for the best.
+<name type="person"><abbr expan="General">Gen</abbr>
+<orig reg="Longstreet">Long<lb/>
+street</orig></name> is on another road.<ref n="8" target="n8">[8]</ref>
+I <orig reg="don't">dont</orig> think<lb/>
+there will be much <del rend="none" hand="h1"></del> <add place="inline" hand="h1">fighting</add> just now.<lb/>
+Would be very glad if <name type="person">Andrew</name>
+could change his<lb/>
+branch of service or get a substitute. Three<lb/>
+men were shot last Monday as deserters.<ref n="9" target="n9">[9]</ref><lb/>
+One by the name of <name type="person">Andrew G. Riddle</name> of
+<name type="place">Augusta</name><lb/>
+and an other, <name type="person">Mr. Layman</name>, most probably a
+<unclear></unclear><lb/>
+<name type="place">Waynesboro</name>.
+</p>
+<closer><salute>Love to all at home<lb/>
+and at <name type="person">Uncle Ben's
+<ref n="10" target="n10">[10]</ref></name>
+Your affectionate Son,</salute> <signed>Charles</signed>
+</closer>
+</div1>
+</body>
+
+<back id="d8">
+<div1 type="notes" id="d9">
+<head>Notes</head>
+
+<note n="1" id="n1" place="end"><seg type="note-symbol">[1]</seg><p> Charles refers to Andrew's release from Federal prison
+on August 5, 1862, as part of a prisoner exchange. He had been captured at
+Kernstown on March 23, 1862 (Robertson, <hi rend="italic">Fourth Virginia Infantry</hi>, 41).</p></note>
+
+<note n="2" id="n2" place="end"><seg type="note-symbol">[2]</seg><p> The events Charles describes are those leading up to the
+the Second Battle of Manassas, which began on August 28, 1862. At the
+time of this letter, Jackson's brigades had just fought the Federals at
+Cedar Mountain on August 8, during which General Winder was fatally
+wounded. Colonel Ronald took command of the Stonewall Brigade while
+Lieutenant Colonel Gardner took over the 4th Va Infantry. On the 10th of
+August, Jackson moved his men to Gordonsville, where they rested for five
+days, as Charles indicates. Late on the 15th, the men moved through
+Orange Court House and set up camp near Pigsah Church where they
+remained until the 19th. For the next two days, they marched in the rain
+across the Rapidan River and across the Bull Run Mountains, setting up
+the flanking movement which Jackson and Lee hoped would trap Pope's army
+and allow them to seize the Federal supply base at Manassas Junction.
+Although victory at Second Manassas was claimed by the Confederates,
+their losses were considerable: the Stonewall Brigade suffered over four
+hundred casualties. By the end of the fighting, the 4th Va Infantry's ranks had
+been reduced to one hundred (<hi rend="italic">The Stonewall Brigade</hi>, 138-152 and <hi rend="italic">Fourth
+Virginia Infantry</hi>, 16-19).</p></note>
+
+<note n="3" id="n3" place="end"><seg type="note-symbol">[3]</seg><p> The First Conscription Act allowed a conscripted
+(drafted) man to hire a substitute to serve his term. This
+provision produced much division and tension between the poor and the wealthy.
+Often, a substitute would desert a day after appearing in camp, then
+agree to substitute for someone else. The First Conscription Act also allowed
+each soldier who enlisted for three years to take a sixty day furlough
+each year (Current, vol. 1, 396-99).
+</p></note>
+<note n="4" id="n4" place="end"><seg type="note-symbol">[4]</seg><p> James J. White, or "Old Zeus" to his students, was a
+professor of Classics at Washington College from 1852-1893. He was
+commissioned as a Captain when Company I was organized on June 2,
+1861, but he resigned on September 6 of that same year due to illness.
+He returned to teaching at Washington College
+(Bean 11; Robertson 1, 80). However, White's
+correspondence of 1862 shows that he wanted to return to the service:
+enrollment at Washington College was down, as only those boys who were
+both exempt from service and could afford the tuition were able to
+attend. White indicates in his March 20, 1862 letter to Colonel Reid
+that he was seeking a staff appointment with General Jackson. It is
+possible that he received some kind of temporary command, which would
+explain his presence in the Jackson Brigade in the summer of 1862
+(Turner, 87-96).</p></note>
+
+<note n="5" id="n5" place="end"><seg type="note-symbol">[5]</seg><p> From August 19 to August 24, as Jackson's army moved
+northeast across the Rapidan River, the wagons carrying food and
+supplies were mired miles behind the troops (Robertson, <hi rend="italic">The Stonewall Brigade</hi>,
+141).</p></note>
+
+<note n="6" id="n6" place="end"><seg type="note-symbol">[6]</seg><p> Thomas Spottswood White was born in Charlottesville,
+Va in 1845. He joined the 4th Va Infantry, Company I in March of 1862,
+but transferred to the 1st Va Calvary on February 4, 1863. John and
+Henry Myers both enlisted in Company I in 1861. They were both
+transferred to the First Virginia Cavalry on September 20, 1862
+(Robertson, <hi rend="italic">4th Virginia Infantry</hi>, 65, 80).</p></note>
+
+<note n="7" id="n7" place="end"><seg type="note-symbol">[7]</seg><p> "Aunt Mary" may refer to Eleanor's younger sister Mary
+Stuart, born in 1828.  According to the Augusta County 1860 Census data,
+she lived on property adjacent to the Brooks family.</p></note>
+
+<note n="8" id="n8" place="end"><seg type="note-symbol">[8]</seg><p> General Longstreet's units joined Jackson's brigades on
+August 29 (Robertson, <hi rend="italic">The Stonewall Brigade</hi>, 148).</p></note>
+
+<note n="9" id="n9" place="end"><seg type="note-symbol">[9]</seg><p> On August 18, Jackson had four deserters brought into
+camp to be shot in front of the entire division. The men were
+blindfolded and told to kneel in front of an open grave. The rifle balls
+drove their bodies into the pit, and all of the troops were marched past
+the grave, driving home the consequences of desertion (Robertson, <hi rend="italic">The Stonewall
+Brigade</hi>, 141). James Andrew Riddel of Augusta County, a private in
+the 5th Va Infantry, Company A, was one of the men
+executed. It is interesting that Charles notes this incident right
+after expressing his wish that Andrew put in for a substitute; three
+months later, Andrew would desert.</p></note>
+
+<note n="10" id="n10" place="end"><seg type="note-symbol">[10]</seg><p> "Uncle Ben" is probably Eleanor's brother, born in
+1820. The Augusta County 1860 census data shows that Benjamin Stuart
+lived next
+door to the Brooks in the same dwelling as Mary and Martha Stuart.</p></note>
+
+</div1>
+<div1 type="bibliography" id="d10">
+<list>
+<head>Works Cited</head>
+
+<item>Bean, W. G. <hi rend="italic">The Liberty Hall Volunteers: Stonewall's College Boys.</hi>
+Charlottesville: The University of Virginia Press, 1964.
+</item><item>
+"The Civil War Artillery Page"
+http://www.lib.uchicago.edu/~cjt1/artillery.html.
+Chuck Ten Brink.
+Visited April, 1998
+</item><item>
+Crenshaw, Ollinger. <hi rend="italic">General Lee's College: The Rise and Growth of Washington
+and Lee University.</hi>  NY: Random House, 1969.
+</item><item>
+Denney, Robert E. <hi rend="italic">The Civil War Years: A Day-by-Day Chronicle
+of the Life of a Nation.</hi> NY: Sterling Publishing Co, Inc., 1992. </item><item>
+
+Driver, Robert. J.  <hi rend="italic">52nd Virginia Infantry.</hi> Lynchburg, Va: H. E. Howard,
+1986. </item><item>
+
+Lankford, Nelson D. "Alexander Robinson Boteler." <hi rend="italic">Encylopedia of the
+Confederacy.</hi> Ed. Richard N. Current.  NY: Simon &amp; Schuster,
+1993. I: 197-8. </item><item>
+
+McMurry, Richard. M. "Joseph E. Johnston." <hi rend="italic">Encylopedia of the
+Confederacy.</hi> Ed. Richard N. Current.  NY: Simon &amp; Schuster,
+1993. II: 859-61. </item><item>
+
+McPherson, James M. <hi rend="italic">The Atlas of the Civil War.</hi> New York: Macmillan,
+1994.</item><item>
+
+Robertson, James. <hi rend="italic">4th Virginia Infantry.</hi> Lynchburg, Va.: H.E. Howard, 1982.
+</item><item>
+&mdash;. <hi rend="italic">The Stonewall Brigade.</hi> Baton Rouge: Louisiana State University
+Press, 1963.</item><item>
+
+Sublett, Charles W. <hi rend="italic">57th Virginia Infantry.</hi> Lynchburg, Va.: H. E. Howard,
+1985.</item><item>
+
+Turner, Charles W. <hi rend="italic">Old Zeus: Life and Letters (1860-'62)
+of James J. White (Professor of Greek at Washington College 1852-1893,
+Captain of the Liberty Hall Volunteers 1861-'62)</hi>. Verona, VA:
+McClure Printing Company, Inc., 1983.
+</item><item>
+Wallace, Lee A. <hi rend="italic">5th Virginia Infantry.</hi> Lynchburg, Va.: H. E. Howard,
+1988.
+</item>
+</list>
+</div1>
+
+
+</back>
+</text>
+</TEI.2>
+

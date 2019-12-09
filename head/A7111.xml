@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+
+<?dlps id="A7111"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>  
+
+
+<TEI.2 id="A7111"> 
+<teiHeader type="migrated"> 
+
+    <fileDesc> 
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: John Scott to Samuel Hunt, February 3, 1866</title>
+        <title type="sort">augusta county john scott to samuel hunt, february 3 1866</title>
+        <author>Scott, John</author>
+        <editor/>
+        <respStmt> 
+          <resp>Creation of machine-readable version: </resp> 
+          <name>Bart Elmore</name> 
+          <resp>Conversion to TEI.2-conformant markup:</resp> 
+          <name>Bart Elmore</name> 
+        </respStmt>
+      </titleStmt> 
+
+      <extent>ca. 4.953 kilobytes </extent> 
+      <publicationStmt> 
+        <publisher>Virginia Center for Digital History</publisher> 
+        <pubPlace>Charlottesville, Virginia </pubPlace> 
+
+        <idno type="VCDH">A7111</idno> 
+
+        <!--
+<availability> 
+<p>Publicly accessible </p> 
+<p n="public">URL: http://valley.vcdh.virginia.edu/</p> 
+<p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the University of Virginia</p> 
+</availability>
+--> 
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date>
+        <idno type="uva-pid">uva-lib:500227</idno>
+      </publicationStmt> 
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt> 
+      <notesStmt>
+        <note/>
+      </notesStmt> 
+
+      <sourceDesc> 
+        <biblFull> 
+          <titleStmt>
+            <title>Augusta County: John Scott to Samuel Hunt, February 3, 1866</title>
+            <title level="m"/>
+            <title type="sort">augusta county john scott to samuel hunt, february 3 1866</title>
+            <author>John Scott</author>
+          </titleStmt> 
+          <editionStmt>
+            <p/>
+          </editionStmt> 
+          <extent>3 pages</extent> 
+          <publicationStmt> 
+            <publisher/> 
+            <pubPlace/> 
+            <date value=""/> 
+            <idno type="callNo">Source copy consulted: John Scott to Samuel Hunt, February 3, 1866, American Missionary Association Archives Collection, Microfilm 72, Alderman Library, University of Virginia, Charlottesville</idno>
+          </publicationStmt> 
+
+        </biblFull> 
+      </sourceDesc> 
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Alderman Library, University of Virginia</p>
+      </projectDesc>
+    </encodingDesc> 
+
+    <profileDesc> 
+      <creation>
+        <date value="1866-02-03">1866-02-03</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage> 
+      <textClass> 
+        <keywords> 
+          <term>African Americans, Education, Women</term> 
+          <term>American Civil War</term>
+        </keywords> 
+      </textClass> 
+    </profileDesc> 
+
+    <revisionDesc> 
+      <change> 
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt> 
+        <item/> 
+      </change> 
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc> 
+  </teiHeader> 
+
+<text id="A7111T">
+<front id="d2">
+<div1 type="summary" id="d3">
+<p>Scott provides a brief and informal report concerning the schools in Staunton.  Highlighting the success of the AMA's educational mission in  Staunton, Scott argues that the Association needs to acquire more classrooms.</p> 
+</div1> 
+ 
+</front> 
+
+<body id="d4">
+<div1 type="letter" id="d5">
+<head>
+<name type="recipient">Rev. S. Hunt</name> 
+<name type="place">Staunton Va</name> 
+</head>
+
+<opener>
+<dateline>
+    <date value="1866-02-03">Feb. 3<hi rend="super">rd</hi> 1866</date> 
+</dateline> 
+<salute>Dear Sir</salute> 
+</opener> 
+
+<p>As I have so recently written you I shall make my report very brief  The schools are all prospering; but I have nothing of note to tell you in regard to any of them.</p>
+	<p>I think that instead of the children growing more unattentive to their books as they become accustomed to study that the reverse is true; The more they learn the more they like to learn.</p>
+	<p>Our great trouble is in regard to suitable rooms<pb n="2"/> for the different schools</p>
+	<p>These small rooms are packed so full that it is extremely inconvenient for teachers to work to advantage, and worse than that, there being no ventilation the air becomes extremely foul and I tremble for the health of the teachers, and insist on their walking much in the open air  We have one vacant room in the building and the steady increase of numbers in each of the schools has bought the aggregate amt. Up to 434 and day schools to 224 with an average of 147 which would give 450 pupils to 5 teachers each and when Mr Coan comes I shall ask him to consider<pb n="3"/> the propriety of having another teacher sent to this place permanently, as 45 scholars are enough for these small rooms</p>
+	<p>Our S Schools has increased since we received the question books and the divisions among the people have somewhat subsided, (through much reasoning)  Last Sunday we numbered 140 scholars and 7 teachers whereas we used to have only 25 or 40 in all</p>
+	<p>The Lord is helping us</p>
+
+<closer>
+<salute>Respectfully</salute> 
+<signed>John Scott</signed> 
+
+</closer> 
+</div1> 
+</body> 
+</text> 
+</TEI.2>

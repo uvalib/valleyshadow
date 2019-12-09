@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+
+<?dlps id="A0203"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="A0203">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: A. F. Kinney to Alfred Chapman, April 1, 1869</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county a f kinney to alfred chapman, april 1 1869</title>
+        <author>Kinney, A. F.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Julie Beagle</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Julie Beagle</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A0203</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:501799</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: A. F. Kinney to Alfred Chapman, April 1, 1869</title>
+            <title level="m"/>
+            <title type="sort">augusta county a f kinney to alfred chapman, april 1 1869</title>
+            <author>A. F. Kinney</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>2 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Alfred Chapman Papers #1545, Southern Historical
+       Collection, Wilson Library, University of North Carolina at Chapel Hill</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Southern Historical Collection, Wilson Library, University of North Carolina at Chapel Hill</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1869-04-01">1869-04-01</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Agriculture</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2002-07">July 2002 </date>
+        <respStmt>
+          <resp/>
+          <name>Desi Hopkins</name>
+        </respStmt>
+        <item>Original consulted; corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A0203T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>A. F. Kinney writes Alfred Chapman regarding shipping flour and fish by rail.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <opener>
+     <dateline>
+      <date value="1869-04-01">April 1<hi rend="super">st</hi> 1869</date>
+      <name type="place">Staunton</name>
+     </dateline>
+     <salute>My Dear Sir</salute>
+    </opener>
+
+    <p>I received your <del rend="none" hand="h1"/> of the 29th <del rend="none" hand="h1"/> + on yesterday saw Mr. Bucher
+     in regard to the flour. He says that he will ship it to day + I told him to come to the Bank +
+     draw a draft on you + I would give him the money for it at once, which is perfectly
+     satisfactory to him. He says he will change you $9<hi rend="super">00</hi> but that it will be
+     a very superior article of <hi rend="underline">Extra</hi> flour- Extra flour is selling out of
+     the <orig reg="wagon">waggon</orig> at 8<hi rend="super">25</hi> to 8<hi rend="super">50</hi>.
+     I understand however that there is a great deal of indifferent flour brought in. I had been
+     thinking of writing to you on the subject of fish when I received your letter.</p>
+    <p>I wish you would send me <pb n="2"/>about 8 pair nice shad by next Saturday's train. If you
+     can get some of the men on the train to agree to deliver the box to the Pat Woodward baggage
+     master on Central Road he will bring it up to me, but if you find any difficulty or have any
+     doubt about their getting here on that day, just put them in the express, the fish we get here
+     from the husksters are all so old + stale, they are not fit to eat. I want these fish for
+     myself + friends. if you can put in some kind of <hi rend="underline">pan</hi> fish for
+     breakfast I would be glad. Let me hear from you on the subject</p>
+
+    <p>You have never said anything about the flour I sent you. How did it turn out?</p>
+    <p>With much love to Cousin Mary + the rest of the family, I am</p>
+
+    <closer>
+     <salute>Yours Truly</salute>
+     <signed>A F Kinney</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

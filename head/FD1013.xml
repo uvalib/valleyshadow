@@ -1,0 +1,1551 @@
+<?xml version="1.0"?>
+
+<?dlps id="FD1013"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+
+
+
+]> 
+
+<TEI.2 id="FD1013"> 
+<teiHeader type="migrated"> 
+
+    <fileDesc> 
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Diary of Jonah Yoder (1863)</title>
+        <title type="sort">franklin county diary of jonah yoder 1863</title>
+        <author>Yoder, Jonah</author>
+        <editor/>
+        <respStmt> 
+          <resp>Creation of machine-readable version: </resp> 
+          <name>Elizabeth Crocker</name> 
+          <resp>Conversion to TEI.2-conformant markup:</resp> 
+          <name>Elizabeth Crocker</name> 
+        </respStmt>
+      </titleStmt> 
+
+      <extent>
+        <num type="kilobytes"> 31 kilobytes</num>
+      </extent> 
+      <publicationStmt> 
+        <publisher>Virginia Center for Digital History</publisher> 
+        <pubPlace>Charlottesville, Virginia </pubPlace> 
+
+        <idno type="VCDH">FD1013</idno> 
+
+        <!--
+<availability> 
+<p>Publicly accessible </p> 
+<p n="public">URL:
+http://jefferson.village.virginia.edu/vshadow2/</p> 
+<p>copyright 1998, by the Rector and Visitors of the
+University of 
+Virginia</p> 
+</availability>
+--> 
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1998 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1998">1998</date> 
+        <idno type="uva-pid">uva-lib:500351</idno>
+      </publicationStmt> 
+      <seriesStmt> 
+        <p>Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt> 
+      <notesStmt>
+        <note/>
+      </notesStmt> 
+
+      <sourceDesc> 
+        <biblFull> 
+          <titleStmt>
+            <title>Diary of Jonah Yoder</title>
+            <title level="m"> </title>
+            <title type="sort">diary of jonah yoder</title>
+            <author>Jonah Yoder</author>
+            <editor/>
+            <respStmt>
+              <resp>e.g. Translator</resp>
+              <name/>
+            </respStmt>
+          </titleStmt> 
+          <editionStmt> 
+            <p> </p> 
+          </editionStmt> 
+          <extent>pages</extent> 
+          <publicationStmt> 
+            <publisher/> 
+            <pubPlace/> 
+            <date value=""/> 
+            <idno type="callNo">Source copy consulted: Jonah Yoder Papers, Ronald D. Boyer Collection, U. S. Army Military History Institute, Carlisle Barracks, Pennsylvania</idno> 
+          </publicationStmt> 
+          <seriesStmt>
+            <p>Valley of the Shadow: Two Communities in the American Civil War</p>
+          </seriesStmt> 
+          <notesStmt> 
+            <note/>
+          </notesStmt> 
+        </biblFull> 
+      </sourceDesc> 
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from U. S. Army Military History Institute, Carlisle Barracks, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc> 
+
+    <profileDesc> 
+      <creation>
+        <dateRange from="1863-05-10" to="1863-09-05">1863-05-10; 1863-09-05</dateRange>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage> 
+      <textClass> 
+        <keywords> 
+          <term>
+Battle Description, Camp Life, Death/Casualties,
+Medicine/Hospitals, Prisons/Prisoners, 
+Troop Movement
+</term> 
+          <term>American Civil War</term>
+        </keywords> 
+      </textClass> 
+    </profileDesc> 
+
+    <revisionDesc> 
+      <change> 
+        <date value="2001">Fall 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Desi Hopkins</name>
+        </respStmt> 
+        <item>Proofread against original; corrections made.</item> 
+      </change> 
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc> 
+  </teiHeader> 
+
+
+
+<text id="FD1013T">
+
+<front id="d2">
+<div1 id="FD1013bio" type="bio">
+<head>Biography
+<!-- <ref>FD1013bio</ref> -->
+</head>
+<p>Jonah Yoder fought in the cavalry of the 16th Pennsylvania
+Regiment.  His 
+diary begins at camp at Potomac Roads and follows his
+regiment's 
+movement throughout Northern Virginia in 1863.</p>
+</div1>
+</front>
+
+<body id="d4">
+
+
+<div1 id="FD10131863" type="part" n="1863">
+<head>1863
+<!-- <ref>FD10131863</ref> -->
+</head>
+
+<div2 type="section" n="1863-05" id="d6">
+<head>May  1863
+ <!-- <ref>Camp Life, Death/Casualties
+</ref> --> 
+</head>
+
+<div3 type="entry" n="1863-05-10" id="d7">
+<head>May the 10, 1863</head>
+
+<p>This day is <orig reg="pleasant">plesant</orig> this
+afternoon about <orig reg="two">twoe</orig> oclock we signed
+the pay roll 
+and about five oclock we got our pay paid by <orig
+reg="Major">majer</orig>Potter.</p></div3>
+
+
+
+<div3 type="entry" n="1863-05-11" id="d8">
+<head>Monday the 11</head>
+
+<p>This day is plesant This morning I started to the one <orig
+reg="hundred">hunderd</orig> and twenty six 
+regiment and got back this afternoon</p></div3>
+
+
+
+<div3 type="entry" n="1863-05-12" id="d9">
+<head>Tuesday the 12</head>
+
+<p>This day is plesant and I was detailed to help to dind the
+<orig reg="Major's">majers</orig> 
+quarters</p></div3>
+
+<div3 type="entry" n="1863-05-13" id="d10">
+<head>Wednesday the 13</head>
+
+<p>This day is plesant and very warm</p></div3>
+
+
+<div3 type="entry" n="1863-05-14" id="d11">
+
+<head>Thursday the 14</head>
+
+<p>This morning is cloudy and raining this afternoon we had a
+thunder 
+shower and I was detached for <orig reg="guard">gaurd</orig></p></div3>
+
+
+<div3 type="entry" n="1863-05-15" id="d12">
+
+<head>Friday the 15</head>
+
+<p>This morning is clear and Crambargrer and me started to
+take a 
+walk</p></div3>
+
+<div3 type="entry" n="1863-05-16" id="d13">
+
+<head>Saturday the 16</head>
+
+<p>This morning is very plesant This <orig
+reg="evening">evning</orig> there was a man buried of 
+company L He died this morning of the <unclear>tnyfuires
+fevar</unclear> his name was Soliman Humparly</p></div3>
+
+
+<div3 type="entry" n="1863-05-17" id="d14">
+
+<head>Sunday the 17</head>
+
+<p>This day was plesant we had preaching by the chaplain of
+the first Pa 
+cavalry the Chaplain was from 
+
+<orig reg="Lancaster">Lainster</orig> County his name is hardy
+heabe and at four oclock there was 
+inspection</p></div3>
+
+
+
+<div3 type="entry" n="1863-05-18" id="d15">
+
+<head>Monday the 18</head>
+
+<p>This day is plesant this afternoon we moved our camp about
+<orig reg="two">towe</orig> hundred rods from the old one
+into an <orig reg="open">opan</orig> feild</p></div3>
+
+
+<div3 type="entry" n="1863-05-19" id="d16">
+
+<head>Tuesday the 19</head>
+
+<p>This day is plesent and I was detailed to fix up the
+adjatant quarters and the balance of the day I run
+about</p></div3>
+
+
+
+<div3 type="entry" n="1863-05-20" id="d17">
+
+<head>Wednesday the 20</head>
+
+<p>This day is plesant our Leut <orig
+reg="Colonel">cornal</orig> has resignd and one of our
+<orig reg="majors">majers</orig> and, I was on <orig
+reg="guard">gaurd</orig></p></div3>
+
+
+<div3 type="entry" n="1863-05-21" id="d18">
+
+<head>Thursday the 21</head>
+
+<p>This day is plesant This evning I went to the <orig
+reg="railroad">railrod</orig> to help to load a <orig
+reg="couple">cuple</orig> of wagons with grain</p></div3>
+
+
+<div3 type="entry" n="1863-05-22" id="d19">
+
+<head>Friday the 22</head>
+
+<p>This day is plesant and this morning about six oclock we
+left camp to go on  
+picket and going along we <orig reg="passed">pased</orig>
+a store, said The Parerson Store, and had our reserve close
+by.</p></div3>
+
+
+
+<div3 type="entry" n="1863-05-23" id="d20">
+
+<head>Saturday the 23</head>
+
+<p>This day is plesant This day still on picket and about 2
+oclock A.M. there was ten men and <orig
+reg="Sergeant">sergant</orig> went out on a
+scout</p></div3>
+
+
+
+<div3 type="entry" n="1863-05-24" id="d21">
+
+<head>Sunday the 24</head>
+
+<p>This day is plesant and still on picket at nine oclock they
+was a 5 of us went from the main reserve and went out, out in
+the field to stand post and <orig reg="patrol">partroll</orig> we partrolled past the monture house to the log church on
+the <orig reg="opposite">opisate</orig> side of the creek
+and about five forks we was ordered to drag in our any go to
+camp we got to camp about 1 A.M.</p></div3>
+
+<div3 type="entry" n="1863-05-25" id="d22">
+
+<head>Monday the 25</head>
+
+<p>This day has been misting and raining all day we left about
+seven oclock 
+A.M. to march we went on to the bartwood farm then we fed our
+horses then we went about a mile beyond the log church there
+we <orig reg="remained">remanded</orig> for the
+night</p></div3>
+
+
+
+<div3 type="entry" n="1863-05-26" id="d23">
+
+<head>Tuesday the 26</head>
+
+<p>This morning is plesant we took up our line of march at six
+A.M. we 
+marched on to belton station there we camped for the
+night</p></div3>
+
+
+<div3 type="entry" n="1863-05-27" id="d24">
+
+<head>Wednesday the 27</head>
+
+<p>This day is plesant we took up our line of march at five
+A.M.to march back to deep run we went by <orig
+reg="Morrisville">morisville</orig> we camped at deep run on
+picket about 11 oclock A.M. and there was some of us went down
+in spiner ford to picket</p></div3>
+
+
+
+<div3 type="entry" n="1863-05-28" id="d25">
+
+<head>Thursday the 28</head>
+
+<p>This is plesant and on picket and the rebels are still
+moving about on the of the river but how much force they have
+I dont know</p></div3>
+
+
+
+<div3 type="entry" n="1863-05-29" id="d26">
+
+<head>Friday the 29</head>
+
+<p>This day is plesant and still on picket</p></div3>
+
+
+
+<div3 type="entry" n="1863-05-30" id="d27">
+
+<head>Saturday the 30</head>
+
+<p>This day is plesant and this afternoon we was relieved of
+picket by the third Pa sy and we was ordered back to deep run
+</p></div3>
+
+
+
+<div3 type="entry" n="1863-05-31" id="d28">
+
+<head>Sunday the 31</head>
+
+<p>This morning is plesant and at five oclock we left deep run
+and went 
+through <orig reg="Morrisville">morisville</orig> and went on
+to <orig reg="Catlett">cattlet</orig> station and from their
+we went on to licking creek there we encamped
+then</p></div3></div2>
+
+
+<div2 type="section" n="1863-06" id="d29">
+<head>June  1863
+ <!-- <ref>Camp Life, Troop Movement
+</ref> --> 
+</head>
+
+
+
+<div3 type="entry" n="1863-06-01" id="d30">
+
+<head>Monday the 1 June</head>
+
+<p>This day is plesant this afternoon we moved our camp about
+<orig reg="ten">tane</orig> hundred yards from where we
+encamped the first place </p></div3>
+
+
+<div3 type="entry" n="1863-06-02" id="d31">
+
+<head>Tuesday the 2</head>
+
+<p>This day is plesant.  To day williams M. Appelbaurgh was
+promoted to 
+<orig reg="Sergeant">sergant</orig> major and F. Dgarmon
+was promoted to regimental quarter master <orig
+reg="Sergeant">sergant</orig> to fill M. Appelbaurgs
+place</p></div3> 
+
+
+<div3 type="entry" n="1863-06-03" id="d32">
+
+<head>Wednesday the 3</head>
+
+<p>This day is plesant this afternoon our old horses were and
+saddles were 
+<orig reg="condemned">condamed</orig></p></div3>
+
+
+
+<div3 type="entry" n="1863-06-04" id="d33">
+
+<head>Thursday the 4</head>
+
+<p>This day is plesant This afternoon we drawed
+sabers.</p></div3>
+
+
+
+<div3 type="entry" n="1863-06-05" id="d34">
+
+<head>Friday the 5</head>
+
+<p>This day is plesant today they was a detachment to go out
+<orig reg="dismounted">dismonted</orig> to 
+sulpher springs to suport the <orig reg="battery">batrey</orig> <orig reg="where">wheir</orig> the mounted men went <orig reg="across">acris</orig> the river to start out the
+rebels.</p></div3>
+
+
+
+<div3 type="entry" n="1863-06-06" id="d35">
+
+<head>Saturday the 6</head>
+
+<p>This morning is plesant and this morning we started to go
+along with the 
+<orig reg="battery">batery</orig> and about six oclock
+this evening we started to go back we came back to <orig
+reg="Fayetteville">Fayettville</orig> there we <orig
+reg="stayed">staid</orig> 
+there for the night</p></div3>
+
+
+
+<div3 type="entry" n="1863-06-07" id="d36">
+
+<head>Sunday the 7</head>
+
+<p>This morning is plesant this morning we left <orig
+reg="Fayetteville">Fayettville</orig> for camp and got there
+about twelve oclock</p></div3>
+
+
+<div3 type="entry" n="1863-06-08" id="d37">
+
+<head>Monday the 8</head>
+
+<p>This morning is plesant this afternoon about three oclock
+we got orders to 
+march we went as far as marisville ther we stoped for the
+night</p></div3>
+
+
+
+<div3 type="entry" n="1863-06-09" id="d38">
+
+<head>Tuesday the 9</head>
+
+<p>This morning we plesant we took up our line of march about
+five oclock for 
+<unclear>ladgs</unclear> ford and the <orig
+reg="cavalry">caverly</orig> went across our regiment
+stand on this side and had a small fight they was a good many
+wounded and our men took a great many prisoners</p></div3>
+
+
+<div3 type="entry" n="1863-06-10" id="d39">
+
+<head>Wednesday the 10</head>
+
+<p>This day is plesant this afternoon we left hely ford for
+the old camp we went around by bealton we got to camp about
+eleven oclock at night</p></div3>
+
+<div3 type="entry" n="1863-06-11" id="d40">
+<head>Thursday the 11</head>
+
+<p>This day is plesant and near noon in the old camp again at
+licking 
+creek</p></div3>
+
+<div3 type="entry" n="1863-06-12" id="d41">
+<head>Friday the 12</head>
+
+<p>This day is plesant and to day our captain got his <orig
+reg="commission">comision</orig> for <orig reg="Lieutenant
+Colonel">leutenant cornal</orig> of our regiment and they 
+was three cheers for him from every man in the
+regiment</p></div3> 
+
+<div3 type="entry" n="1863-06-13" id="d42">
+<head>Saturday the 13</head>
+
+<p>This day is plesant and they was a lot of <orig
+reg="artillery">artilery</orig> and <orig
+reg="infantry">infintry</orig> went by here 
+towards Alexandria</p></div3>
+
+
+
+<div3 type="entry" n="1863-06-14" id="d43">
+
+<head>Sunday the 14</head>
+
+<p>This morning we went back to warington Junction encamped
+for the 
+night</p></div3>
+
+
+
+<div3 type="entry" n="1863-06-15" id="d44">
+
+<head>Monday the 15</head>
+
+<p>This day is plesant and we left warington Junction about
+towe oclock P.M. 
+and went by callot station and bristo and thare we came on
+this side of <orig reg="Manassas">manas</orig> Junction and
+stayed there 
+for the night</p></div3>
+
+
+
+<div3 type="entry" n="1863-06-16" id="d45">
+
+<head>Tuesday the 16</head>
+
+<p>This day is plesant we are still laying about towe miles of
+the Junction we 
+drawed some rations and forage</p></div3>
+
+
+
+<div3 type="entry" n="1863-06-17" id="d46">
+
+<head>Wednesday the 17</head>
+
+<p>This day is plesant and we took up our line of march and
+went on to 
+<orig reg="Centerville">centervill</orig> there the
+mounted men went of to the left and those that had bad horses
+that were condemed where 
+sent on to Alexandria we went by fairfax court house and about
+towe mile on this side of the court we encamped for the
+night</p></div3>
+
+
+
+<div3 type="entry" n="1863-06-18" id="d47">
+
+<head>Thursday the 18</head>
+
+<p>This morning is plesant and we took up our line of march
+for Alexandria we 
+got there about <orig reg="ten">tane</orig> oclock we encamped
+on the banks of the potomac about a mile of the town and this
+evening we had a shower</p></div3>
+
+
+
+<div3 type="entry" n="1863-06-19" id="d48">
+
+<head>Friday the 19</head>
+
+<p>This day has been drisling and raining all day and we where
+still laying in 
+the dismounted camp</p></div3>
+
+
+
+<div3 type="entry" n="1863-06-20" id="d49">
+
+<head>Saturday the 20</head>
+
+<p>This morning is plesant and they was a lot of us detached
+to go for horses we went to the landing and got on a boat and
+went across to washington to get horses but there was none
+there we lay there about towe houres than we came back to
+alexandria and drawed horses there and went back to camp and
+than all those that had horses started for to join the
+regiment we went within <orig reg="two">towe</orig> 
+mile of fairfax there we encamped for the night</p></div3>
+
+
+
+<div3 type="entry" n="1863-06-21" id="d50">
+
+<head>Sunday the 21</head>
+
+<p>This day is plesant and we took up our line of march for
+sniders creek 
+where our force where enjoyed we pased through alide and went
+through <orig reg="Middleburg">midleburg</orig> and we
+encamped about a mile on the other side of the town for the
+night</p></div3>
+
+
+
+<div3 type="entry" n="1863-06-22" id="d51">
+
+<head>Monday the 22</head>
+
+<p>This day is plesant this day our force fell back on this
+side of <orig reg="Middleburg">midleburg</orig> to take a
+knew position the rebels folowed them up as far as the town
+there they stoped</p></div3>
+
+
+
+<div3 type="entry" n="1863-06-23" id="d52">
+
+<head>Tuesday the 23</head>
+
+<p>This day is plesant This morning our regiment out on picket
+about <orig reg="two">towe</orig> mile 
+of camp</p></div3>
+
+
+
+<div3 type="entry" n="1863-06-24" id="d53">
+
+<head>Wednesday the 24</head>
+
+<p>This day is plesant this morning we was releived by our
+first <orig reg="New Jersey">new Jersy</orig> and we went
+back to camp at dover mills</p></div3>
+
+
+
+<div3 type="entry" n="1863-06-25" id="d54">
+
+<head>Thursday the 25</head>
+
+<p>This morning we turned over our extra <orig
+reg="baggage">bagage</orig> and our shelters tents and
+this afternoon it comenced raining</p></div3>
+
+
+
+<div3 type="entry" n="1863-06-26" id="d55">
+
+<head>Friday the 26</head>
+
+<p>This day is plesant this morning our force left dover Mills
+and went on to 
+this side of the goose creek 
+
+and encamped there for to night</p></div3>
+
+
+
+<div3 type="entry" n="1863-06-27" id="d56">
+
+<head>Saturday the 27</head>
+
+<p>This day is clody we left goose creek at towe P.M. went on
+to the river 
+edwards fery there our regiment went up towards leesburg about
+towe mile crossed the <orig reg="ferry">fery</orig> to <orig
+reg="guard">gaurd</orig> the rear untill our train crosed over
+and our regiment crossed over at eight P.M. and than we drawd
+forage there and than we went on to barnesville and got their
+at six A.M. and than we stoped their to get something to eat 
+</p></div3>
+
+<div3 type="entry" n="1863-06-28" id="d57">
+<head>Sunday the 28</head>
+
+<p>This day is plesant and we lay at barnsville untill towe
+P.M. than we started 
+and <orig reg="passed">posed</orig> Aeurchdlbert 
+mount chappell and than we pased a small <orig
+reg="village">villiage</orig> called fayetsville and strem
+
+we crosed the Monaceey 
+river and than we crosed the baltimore and ohio railroads and
+encamped near 
+<orig reg="Frederick">fredrick</orig> city for the
+night</p></div3>
+
+
+
+<div3 type="entry" n="1863-06-29" id="d58">
+<head>Monday the 29</head>
+
+<p>This morning it is raining and at ten A.M. we took up our
+march and went 
+through the city and crosed 
+the monnacy river and went on to new mincer and encamped their
+for the 
+night</p></div3>
+
+
+
+<div3 type="entry" n="1863-06-30" id="d59">
+<head>Tuesday the 30</head>
+
+<p>This day is plesant we took up our line of march at eight
+A.M. and went to 
+<orig reg="Westminster">west minsterd</orig> there we 
+stoped to get our diner and than we marched through the town
+and went on to 
+<orig reg="Manchester">menchester</orig> there we 
+encamped there for the night</p></div3></div2>
+
+
+
+<div2 type="section" n="1863-07" id="d60">
+<head>July 1863
+ <!-- <ref>
+Battle Description, Death/Casualties, Medicine/Hospitals,
+Prisons/ Prisoners, Troop 
+Movement
+</ref> --> 
+</head>
+
+<div3 type="entry" n="1863-07-01" id="d61">
+<head>July the 1</head>
+
+<p>This morning is plesant at seven a.m. we took up our line
+of march and went 
+on to <orig reg="Homers">homors</orig> Junction 
+where the rebels <orig reg="destroyed">destroid</orig>
+some of our cars and tore up the railroad and there we got
+some forage for our horses and than we went on to <orig
+reg="Jefferson">Jeferson</orig> and from there we went on to
+hanover we pased through the town between twelve and one
+oclock and than went up for the night in a wheat field for the
+night</p></div3>
+
+
+
+<div3 type="entry" n="1863-07-02" id="d62">
+
+<head>Thursday the 2</head>
+
+<p>This day is plesant we took up our line of march seven A.M.
+and went on to 
+sherlysburg and than we went to bush town and went on to about
+five mile fo <orig reg="Gettysburg">gettesburg</orig>
+there we stopped to fix our diner and about three P.M. the was
+hevy firing in the direction of <orig
+reg="Gettysburg">gettesburg</orig> it was continued till about
+eight oclock than the firing was ceased</p></div3>
+
+
+
+<div3 type="entry" n="1863-07-03" id="d63">
+
+<head>Friday the 3</head>
+
+<p>This day is plesant This morning the canonading was <orig
+reg="commenced">comenced</orig> again about 
+four P.M. our squadron was <orig reg="deployed">deplowed</orig> as <orig reg="skirmishers">sermishers</orig> and they
+was very <orig reg="heavy">hevy</orig> firing with canon
+and musketry and about five oclock the firing was ceased and
+we was taken of the <orig reg="skirmish">sermish</orig>
+about eight oclock</p></div3>
+
+
+
+<div3 type="entry" n="1863-07-04" id="d64">
+
+<head>Saturday the 4</head>
+
+<p>This day it is cloudy and our regiment went out on a scout
+and this 
+afternoon it comenced raining and rained all day and and
+captured a rebel hospital with about twenty five wounded
+rebels and went on to huntsville and than we came
+back</p></div3>
+
+
+
+<div3 type="entry" n="1863-07-05" id="d65">
+
+<head>Sunday the 5</head>
+
+<p>This day is plesant and we went out on a picket and our
+regiment was <orig reg="withdrawn">with drowen</orig>
+about eleven oclock 
+and than we started for chambersburg we wemt through
+gettysburg and over 
+the battle ground and the dead where laying thick and than we
+went on to cashtown and than we went on through the gap to
+<orig reg="Caledonia">caldona</orig> furnace wich the rebels
+burned last friday and encamped there for the 
+night</p></div3>
+
+<div3 type="entry" n="1863-07-06" id="d66">
+<head>Monday the 6</head>
+
+<p>This morning is cloudy we took up our line of march at
+seven A.M. we went 
+through green wood and 
+on to fayettsville and we went on to <orig reg="New
+Franklin">knew franklin</orig> there our regiment turned 
+to come back to <orig reg="Caledonia">caletone</orig> furnace
+there we encamped for the night</p></div3>
+
+
+
+<div3 type="entry" n="1863-07-07" id="d67">
+<head>Tuesday the 7</head>
+
+<p>This day is plesant There was a man of <abbr
+expan="Company">comp</abbr> G shot by <orig
+reg="accident">acdent</orig> of one of <abbr
+expan="Company">comp</abbr> C and we left the furnace at seven
+oclock we went on by greenwood and <orig
+reg="Fayettesville">fayettsville</orig> and frankstown and
+pasing there there we 
+encamped there for the night</p></div3>
+
+<div3 type="entry" n="1863-07-08" id="d68">
+<head>Wednesday the 8</head>
+
+<p>This morning it is cloudy and raining and thay was a detail
+made to go to 
+<orig reg="Pottsville">pote mille</orig> for forage and than 
+we went on to maymesburg there we joined the regiment and than
+they stoped 
+to feed and than started to 
+cross the mountain went to the top of the mountain to a place
+called the 
+Vramon and than we turned to our 
+left and went out along the mountain and encamped on the top
+of the 
+mountain for the night</p></div3>
+
+
+
+<div3 type="entry" n="1863-07-09" id="d69">
+<head>Thursday the 9</head>
+
+<p>This day is plesant This morning at seven oclock we took up
+our line of 
+march and went by boosrville 
+and Magestown there we stoped to get our <orig
+reg="dinner">diner</orig> and than we went on to 
+<orig reg="Middletown">midletown</orig> and encamped there for
+
+the night in a wheat <orig reg="field">feild</orig></p></div3>
+
+<div3 type="entry" n="1863-07-10" id="d70">
+<head>Friday the 10</head>
+
+<p>This day is plesant this morning we moved our camp about a
+half a mile 
+back of town and than they was 
+one squadron of our regiment went out on picket about <orig
+reg="two">towe</orig> mile south of 
+town</p></div3>
+
+
+
+<div3 type="entry" n="1863-07-11" id="d71">
+<head>Saturday the 11</head>
+
+<p>This day is plesant this afternoon we was taken in off of
+picket to march to 
+<orig reg="Boonsboro">boomesboro</orig> we got there 
+about ten oclock and encamped there</p></div3>
+
+
+
+<div3 type="entry" n="1863-07-12" id="d72">
+<head>Sunday the 12</head>
+
+<p>This morning it is plesant this afternoon we had a small
+thunder 
+shower</p></div3>
+
+<div3 type="entry" n="1863-07-13" id="d73">
+<head>Monday the 13</head>
+
+<p>This morning it is cloudy and raining we moved our camp
+about towe mile 
+rods from where we lay out of the mud</p></div3>
+
+
+
+<div3 type="entry" n="1863-07-14" id="d74">
+<head>Tuesday the 14</head>
+
+<p>This day is cloudy we took up our line of march at eight
+A.M. we pased a 
+<orig reg="church">curch</orig> called emanuel curch 
+and went on along the west side of the myroland highth and
+crosed the 
+Potomac at <orig reg="Harpers Ferry">harpers fery</orig>
+and went up 
+along <orig reg="Shenandoah">shanadoa</orig> river to the
+<orig reg="Bolivar Heights">baliver hights</orig> there we
+encamped for the night  
+the rebels are about eight miles 
+of this place our men <orig reg="shelled">sheled</orig>
+them out of this place from the fortification on 
+the maryland heights</p></div3>
+
+
+
+<div3 type="entry" n="1863-07-15" id="d75">
+
+<head>Wednesday the 15</head>
+
+<p>This day is plesant we took up our line of march at seven
+A.M. for <orig reg="Shepherdstown">shepards 
+town</orig> we captured eight prisoners tue ambulance and
+twelve horses at <orig reg="Shepherdstown">shepards
+town</orig> and at our regiment went on beyond the town on a
+scout and returned to <orig reg="Shepherdstown">shepards
+town</orig> in the evening and went on picket on the left of
+town</p></div3>
+
+
+
+<div3 type="entry" n="1863-07-16" id="d76">
+
+<head>Thursday the 16</head>
+
+<p>This day is plesant This morning we was releived by the
+tenth <orig reg="New York">knew york</orig> <abbr
+expan="Regiment">reg </abbr>and than we went o the right of
+the town and stoped to get our diners and feed our horses and
+about the time some of us had got our diners the rebels came
+in contact with our picket and than we had to saddle and get
+out and about one oclock the <orig reg="battle">batle</orig> was opened and our regiment was on the <orig
+reg="skirmish">serimish</orig> line and about six oclock
+the firing the 
+firing was ceased we got to men wounded one was John Bailur
+and <abbr expan="Sergeant">serg</abbr> James Ylekenady and
+about twelve oclock we was with drawen and started for <orig
+reg="Harpers Ferry"></orig>harpersfery</p></div3>
+
+
+
+<div3 type="entry" n="1863-07-17" id="d77">
+
+<head>Friday the 17 1863</head>
+
+<p>This morning is cloudy and raining and we fell back to
+<orig reg="Harpers Ferry">harpersfery</orig> and encamped
+there for the <orig reg="present">presant</orig></p></div3>
+
+
+
+<div3 type="entry" n="1863-07-18" id="d78">
+
+<head>Saturday the 18</head>
+
+<p>This day is plesant we are still in camp</p></div3>
+
+
+
+<div3 type="entry" n="1863-07-19" id="d79">
+
+<head>Sunday the 19</head>
+
+<p>This day is plesant This morning is plesant and all those
+that had condemed 
+horses started to get knew ones we crosed the river at <orig
+reg="Harpers Ferry">harpersfery</orig> and went down along the
+to knoxville 
+there we got the horses to us that had very bad ones we did
+not take many of them they were worse than the ones we had
+from there we went to berlin there we crosed the river and
+went to Powerystown there we 
+encamped for the night</p></div3>
+
+
+
+<div3 type="entry" n="1863-07-20" id="d80">
+
+<head>Monday the 20, 1863</head>
+
+<p>This day is plesant we took up our line of march at seven
+A.M. and pased 
+through <orig reg="Leesburg">leeysburg</orig> and went on for
+goose creek and encamped there for the night</p></div3>
+
+
+<div3 type="entry" n="1863-07-21" id="d81">
+
+<head>Tuesday the 21</head>
+
+<p>This day is plesant we took up our line of march at seven
+oclock A.M. and 
+crosed the goose creek and went by centerville and crosed the
+bull run and encamped about a mile on this 
+side of the bull run for the night</p></div3>
+
+
+
+<div3 type="entry" n="1863-07-22" id="d82">
+
+<head>Wednesday the 22</head>
+
+<p>This day is plesant we took up our line of march at seven
+A.M. and went by 
+<orig reg="Manassas">manass</orig> Junction and went on to
+bristo station and encamped there</p></div3>
+
+
+
+<div3 type="entry" n="1863-07-23" id="d83">
+
+<head>Thursday the 23</head>
+
+<p>This day is plesant we are still <unclear>beying</unclear>
+in camp at bristo station </p></div3>
+
+
+
+<div3 type="entry" n="1863-07-24" id="d84">
+
+<head>Friday the 24-1863</head>
+
+<p>This day is plesant we left bristo at seven A.M. and went
+along the railroad 
+to <orig reg="Catlett">catlet</orig> station and went on to
+warington Junction there our squadron went up along the <orig
+reg="Warrenton">warenton </orig> branch of the railroad to
+turky run there capt. Alexandria took a part of the squadron
+and want on to <orig reg="Warrenton">warenton</orig> and than
+we, we returned to turkey run to picket and than the fourth
+Pa. and <orig reg="stayed">staid</orig> here there untill
+morning</p> </div3> 
+
+
+
+<div3 type="entry" n="1863-07-25" id="d85">
+
+<head>Saturday the 25</head>
+
+<p>This day is plesant This morning we went back to <orig
+reg="Warrenton">warington</orig> to join the 
+regiment and staid there untill four P.M. and than we went to
+bealton and encamped for the night</p></div3>
+
+
+
+<div3 type="entry" n="1863-07-26" id="d86">
+
+<head>Sunday the 26, 1863</head>
+
+<p>This morning is plesant this afternoon they was seven of
+our company went 
+out on picket about a mile and a half from camp and was <orig
+reg="relieved">releived</orig> again in the evening by the
+tenth NY. 
+and went back to camp</p></div3>
+
+
+
+<div3 type="entry" n="1863-07-27" id="d87">
+
+<head>Monday the 27, 1863</head>
+
+<p>Camped at bealton This day is plesant this day laying in
+camp there is 
+<orig reg="infantry">infintry</orig> marching by here they 
+are going to put up the railroad bridge at the <orig
+reg="Rappahannock">rapahanock</orig> station</p></div3>
+
+
+
+<div3 type="entry" n="1863-07-28" id="d88">
+
+<head>Tuesday the 28</head>
+
+<p>This day is plesant our regiment is still in camp This
+afternoon they was fifteen prisoners brought in by the scouts
+nine hundred and this evening they was a heavy thunder
+gust</p></div3>
+
+
+
+<div3 type="entry" n="1863-07-29" id="d89">
+
+<head>Wednesday the 29</head>
+
+<p>This day is cloudy we left camp at ten A.M. and went
+towards <orig reg="Warrenton">warenton</orig> and encamped
+about <orig reg="two">towe</orig> of the town for the
+night</p></div3>
+
+
+
+<div3 type="entry" n="1863-07-30" id="d90">
+
+<head>Thursday the 30</head>
+
+<p>This morning at ten A.M. oclock we took up our line of
+march and the 
+<orig reg="Rappannock">raphanock</orig> river at the <orig
+reg="Weatherby">wather bee</orig> ford and went on to
+aenasvile and than our regiment on towards <orig
+reg="crossroad">crosrod</orig> to picket and it rained very
+heavy</p></div3>
+
+
+
+<div3 type="entry" n="1863-07-31" id="d91">
+
+<head>Friday the 31</head>
+
+<p>This morning is plesant after the rain and still laying in
+the 
+reserve</p></div3></div2>
+
+
+
+<div2 type="section" n="1863-08" id="d92">
+<head>August 1863
+ <!-- <ref>Camp Life, Troop Movement
+</ref> --> 
+</head>
+
+
+
+<div3 type="entry" n="1863-08-01" id="d93">
+
+<head>Saturday the 1 of August 1863</head>
+
+<p>This day is plesant they was three rebels came in our line
+to give them selfs 
+up and than we was <orig reg="relieved"></orig> by the 1 maine
+and than we went back to anasville there we 
+encamped</p></div3>
+
+
+
+
+
+<div3 type="entry" n="1863-08-02" id="d94">
+
+<head>Sunday the 2</head>
+
+<p>Camp at anasville This morning is plesant and we are still
+laying in camp 
+and this evening we had dress parade and inspection of
+arms</p></div3>
+
+
+
+<div3 type="entry" n="1863-08-03" id="d95">
+
+<head>Monday the 3</head>
+
+<p>This morning is plesant today I was detailed to tend to the
+captain horse and 
+pack mule</p></div3>
+
+
+
+<div3 type="entry" n="1863-08-04" id="d96">
+
+<head>Tuesday the 4 </head>
+
+<p>This morning is cloudy and still laying in camp and they
+was <orig reg="two">towe</orig> squadron 
+of our regiment went out on scout and at ten A.M. they mule
+train started for <orig reg="Warrenton">waranton</orig> for
+forage and there was a heavy Thunder 
+shower we got to <orig reg="Warrenton">waranton</orig> at six
+P.M. and lay there all night</p></div3>
+
+
+
+<div3 type="entry" n="1863-08-05" id="d97">
+
+<head>Wednesday the 5</head>
+
+<p>This morning is plesant and about ten A.M. we pack up and
+started for 
+Amosville and got there at five P.M.</p></div3>
+
+
+
+<div3 type="entry" n="1863-08-06" id="d98">
+
+<head>Thursday the 6</head>
+
+<p>This morning is plesant and still in camp and at ten A.M.
+we moved camp 
+about a <orig reg="quarter">quater</orig> of a mile into a
+place where there is more wood and fixed up our
+tents</p></div3>
+
+
+
+<div3 type="entry" n="1863-08-07" id="d99">
+
+<head>Friday the 7 - 1863</head>
+
+<p>This morning is plesant and we received orders to pack up
+to march we went by Inporom and Newport within a mile of
+Sulpher Springs and we had a thunder shower</p></div3>
+
+
+
+<div3 type="entry" n="1863-08-08" id="d100">
+
+<head>Saturday the 8, 1863</head>
+
+<p>This morning is plesant and still laying in camp there was 
+inspection</p></div3>
+
+
+
+<div3 type="entry" n="1863-08-09" id="d101">
+
+<head>Sunday the 9, 1863</head>
+
+<p>This morning is plesant and still laying camp and our
+squadron went out to 
+escort a <orig reg="battery">batery</orig> to <orig
+reg="Colonel">Carnal</orig> Randolph <abbr
+expan="company">co.</abbr> head quarters</p></div3>
+
+
+
+<div3 type="entry" n="1863-08-10" id="d102">
+
+<head>Monday the 10, 1863</head>
+
+<p>This morning is plesant and still laying in camp and I went
+out to the picket 
+reserve with some rations 
+
+for the company and today we got our <orig
+reg="new">knew</orig> <orig reg="recruit">recrute</orig> his
+name is Benjiman McWilliams from monture county</p></div3> 
+
+
+
+<div3 type="entry" n="1863-08-11" id="d103">
+
+<head>Thuesday the 11, 1863</head>
+
+<p>this morning is plesant and still laying in camp and I went
+out to the picket 
+reserve with forage</p></div3>
+
+
+
+<div3 type="entry" n="1863-08-12" id="d104">
+
+<head>Wednesday the 12, 1863</head>
+
+<p>This morning is plesant and still laying in camp</p></div3>
+
+
+
+ <div3 type="entry" n="1863-08-13" id="d105">
+
+<head>Thursday the 13</head>
+
+<p>This morning is plesant and still laying in camp and about
+ten oclock our 
+regiment was <orig reg="relieved">releived</orig> and than we
+moved camp about a half mile and it <orig
+reg="commenced">comenced</orig> raining</p></div3>
+
+
+
+<div3 type="entry" n="1863-08-14" id="d106">
+
+<head>Friday the 14</head>
+
+<p>This morning is cloudy but not raining and still laying in
+camp</p></div3>
+
+
+
+<div3 type="entry" n="1863-08-15" id="d107">
+
+<head>Saturday the 15</head>
+
+<p>This morning is plesant and we received orders to pack up
+to be <orig reg="ready">redy</orig> to 
+march at eight A.M. we crosed 
+
+the <orig reg="Rappahannock">Raphamock </orig>river at sulpher
+springs and took the <orig reg="Warrenton">Warenton</orig>
+road and pased through <orig reg="Warrenton">Warenton</orig>
+and went 
+on within a mile of <orig reg="Catlett Station">catlet
+station</orig> and encamped there for the night </p></div3>
+
+
+
+<div3 type="entry" n="1863-08-16" id="d108">
+
+<head>Sunday the 16</head>
+
+<p>This morning is plesant and we cleaned of ground for to
+encamp upon</p></div3>
+
+
+
+<div3 type="entry" n="1863-08-17" id="d109">
+
+<head>Monday the 17 </head>
+
+<p>This morning is plesant and our regiment was ordered out to
+scout all that 
+had horses had to go</p></div3>
+
+
+
+<div3 type="entry" n="1863-08-18" id="d110">
+
+<head>Tuesday the 18</head>
+
+<p>This morning is plesant and our regiment returned this
+evening</p></div3>
+
+
+
+<div3 type="entry" n="1863-08-19" id="d111">
+
+<head>Wednesday the 19, 1863</head>
+
+<p>This morning is plesant and still laying in camp</p></div3>
+
+
+
+<div3 type="entry" n="1863-08-20" id="d112">
+
+<head>Thursday the 20</head>
+
+<p>This day is plesant still laying in camp and this afternoon
+the pay master 
+came and we signed the pay rolls</p></div3>
+
+
+
+<div3 type="entry" n="1863-08-21" id="d113">
+
+<head>Friday the 21, 1863</head>
+
+<p>This morning is plesant and still laying in camp and to day
+we payed us and 
+than our regiment went to picket at haymarket</p></div3>
+
+
+
+<div3 type="entry" n="1863-08-22" id="d114">
+
+<head>Saturday the 22</head>
+
+<p>This morning is plesant and still laying in camp and this
+afternoon I went 
+out with the pack mule with rations</p></div3>
+
+
+
+<div3 type="entry" n="1863-08-23" id="d115">
+
+<head>Sunday the 23</head>
+
+<p>This morning is plesant and still laying in camp and our
+regiment was 
+releived by the first maine and returned to camp</p></div3>
+
+
+
+<div3 type="entry" n="1863-08-24" id="d116">
+
+<head>Monday the 24</head>
+
+<p>This morning is plesant we was ordered to pack up to march
+at eight A.M. we 
+went by <orig reg="Warrenton">warenton</orig> and crosed the
+river and went to the old camp and put up our
+quarters</p></div3>
+
+
+
+<div3 type="entry" n="1863-08-25" id="d117">
+
+<head>Thuesday the 25</head>
+
+<p>This day in the old camp again and this afternoon we had a
+thunder 
+<orig reg="shower">shure</orig></p></div3>
+
+
+
+<div3 type="entry" n="1863-08-26" id="d118">
+
+<head>Wednesday the 26</head>
+
+<p>This day is plesant and our regiment received orders to get
+ready to go on a 
+litle march they went out to 
+<orig reg="Amosville">amsvill</orig> there they had a small
+<orig reg="skirmish">sermish</orig> with the <orig
+reg="rebels">rebils</orig> and then returned to 
+camp</p></div3>
+
+
+
+<div3 type="entry" n="1863-08-27" id="d119">
+
+<head>Thursday the 27</head>
+
+<p>This day is plesant and still laying in camp and we had
+inspection of 
+arms</p></div3>
+
+
+
+<div3 type="entry" n="1863-08-28" id="d120">
+
+<head>Friday the 28</head>
+
+<p>This morning we was ordered to pack up to go on picket we
+<orig reg="relieved">relived</orig> the first maine</p></div3>
+
+
+
+<div3 type="entry" n="1863-08-29" id="d121">
+
+<head>Saturday the 29</head>
+
+<p>This day is plesant and still on picket</p></div3>
+
+
+
+<div3 type="entry" n="1863-08-30" id="d122">
+
+<head>Sunday the 30</head>
+
+<p>This day is plesant and still on picket we was <orig
+reg="relieved">relived</orig> by the fourth Pa and returned to
+camp</p></div3>
+
+
+
+<div3 type="entry" n="1863-08-31" id="d123">
+
+<head>Monday the 31</head>
+
+<p>This day is plesant and we was mustered for two <orig
+reg="months">mouths</orig> 
+pay</p></div3></div2>
+
+
+
+<div2 type="section" n="1863-09" id="d124">
+<head>September 1863
+ <!-- <ref>Camp Life, Prisons/Prisoners, Troop Movement
+</ref> --> 
+</head>
+
+
+
+<div3 type="entry" n="1863-09-01" id="d125">
+
+<head>September Thuesday the 1</head>
+
+<p>This day is plesant and still laying in camp at sulpher
+springs</p></div3>
+
+
+
+<div3 type="entry" n="1863-09-02" id="d126">
+<head>Wednesday the 2</head>
+
+<p>This day is plesant and we received orders to get ready to
+go on a scout we 
+went out by amosville and than we went on to sandy hook and
+from there we came back by <orig reg="Flint">plint</orig> hill
+and came on to <orig reg="Amosville">ansville</orig> there we
+put up for the might, took four prisoners</p></div3>
+
+
+
+<div3 type="entry" n="1863-09-03" id="d127">
+<head> Thursday the 3</head>
+
+<p>This day is plesant and we returned to camp</p></div3>
+
+
+
+<div3 type="entry" n="1863-09-04" id="d128">
+<head>Friday the 4</head>
+
+<p>This morning is plesant and at eight we left camp for
+picket we went out by 
+<orig reg="Jefferson">Jiferson</orig></p></div3>
+
+
+
+<div3 type="entry" n="1863-09-05" id="d129">
+
+<head>Saturday the 5</head>
+
+<p>this day is plesant and still on picket to day was four
+rebels came into our lines</p>
+</div3>
+
+</div2>
+</div1>
+
+</body>
+</text>
+</TEI.2>

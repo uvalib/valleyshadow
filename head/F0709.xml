@@ -1,0 +1,427 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0709"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY % MANUSCRIPT "INCLUDE"> 
+
+<!ENTITY BitDon3a SYSTEM "uva-lib:502966" NDATA uvaHighRes>
+<!ENTITY BitDon3b SYSTEM "uva-lib:502967" NDATA uvaHighRes>
+<!ENTITY BitDon3c SYSTEM "uva-lib:502968" NDATA uvaHighRes>
+ ]>  
+ <TEI.2 id="F0709">  
+ <teiHeader type="migrated">  
+    <fileDesc>  
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Thad Donely to Henry A. Bitner, January 20, 1863</title>
+        <title type="sort">franklin county thad donely to henry a bitner, january 20 1863</title>
+        <author>Donely, Thad</author>
+        <respStmt>  
+          <resp>Creation of machine-readable version:   
+ </resp>   
+          <name>Anne Rubin, Valley of the Shadow project, Institute for Advanced Technology in the Humanities, University of Virginia  
+ </name>   
+          <resp>Creation of digital images:   
+ </resp>   
+          <name>Anne Rubin, Valley of the Shadow project, Institute for Advanced Technology in the Humanities, University of Virginia  
+ </name>   
+          <resp>Conversion to TEI.2-conformant markup:   
+ </resp>   
+          <name>University of Virginia Library Electronic Text Center.  
+ </name>   
+        </respStmt>
+      </titleStmt>   
+      <extent>ca. <num type="kilobytes">12</num> kilobytes</extent>  
+      <publicationStmt>  
+        <publisher>University of Virginia Library  
+ </publisher>   
+        <pubPlace>Charlottesville, Virginia  
+ </pubPlace>   
+        <idno type="VCDH">F0709</idno>   
+        <!--
+ <availability>    
+ <p>URL: http://etext.lib.virginia.edu/modeng/modengB.browse.html  
+ </p>     
+ <p>URL: http://jefferson.village.Virginia.EDU/vshadow2/  
+ </p>   
+ </availability>
+-->   
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1998 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1998">1998  
+ </date>   
+        <idno type="uva-pid">uva-lib:501353</idno>
+      </publicationStmt>   
+      <seriesStmt>  
+        <p>  
+ </p>   
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>   
+      <notesStmt>  
+        <note>
+          <p>Images of the manuscript have been included. This electronic text is a faithful transcription of the original manuscript. We have included SGML tags which allow the reader to view a modernized version of the text in which the punctuation and the spelling have been regularized.</p>
+        </note>   
+        <note>  
+ </note>   
+      </notesStmt>   
+      <sourceDesc>  
+        <biblFull>  
+          <titleStmt>
+            <title>Franklin County: Thad Donely to Henry A. Bitner, January 20, 
+ 1863</title>
+            <title level="u">  
+ </title>
+            <title type="sort">franklin county thad donely to henry a bitner, january 20 1863</title>
+            <author>Thad Donely</author>
+            <respStmt>  
+              <resp>  
+ </resp>   
+              <name>  
+ </name>   
+            </respStmt>
+          </titleStmt>   
+          <editionStmt>  
+            <p>  
+ </p>   
+          </editionStmt>   
+          <extent>  
+ </extent>   
+          <publicationStmt>  
+            <publisher>  
+ </publisher>   
+            <pubPlace>  
+ </pubPlace>   
+            <date value="">  
+ </date>   
+            <idno type="callno">Manuscript copy consulted: University of Virginia, Alderman Library, Special Collections MSS 11395  
+ </idno>   
+          </publicationStmt>   
+          <seriesStmt>  
+            <p>  
+ </p>   
+          </seriesStmt>   
+          <notesStmt>  
+            <note>
+              <p>Donely added two postscripts to this letter, writing the first upside down in the upper margin of page 1, the second upside down in the lower margin of page 1. To make the text coherent, we have transcribed these postscripts at the end of each letter.</p>
+            </note>   
+          </notesStmt>   
+        </biblFull>   
+      </sourceDesc>   
+    </fileDesc>   
+    <encodingDesc>  
+      <projectDesc>  
+        <p>Prepared for the University of Virginia Library Electronic Text Center.  
+ </p>   
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>   
+      <editorialDecl>  
+        <p>Original lineation has been maintained.  
+ </p>   
+        <p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs.  
+ </p>   
+        <p>Some keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.  
+ </p>   
+      </editorialDecl>   
+      <refsDecl>  
+        <p>  
+ </p>   
+      </refsDecl>   
+      <classDecl>  
+        <taxonomy>  
+          <bibl>  
+            <title>Library of Congress Subject Headings  
+ </title>   
+          </bibl>   
+        </taxonomy>   
+      </classDecl>   
+    </encodingDesc>   
+    <profileDesc>  
+      <creation>  
+        <date value="1863-01-20">1863-01-20  
+ </date>   
+      </creation>   
+      <langUsage>  
+        <language id="eng">English  
+ </language>   
+      </langUsage>   
+      <textClass>  
+        <keywords>  
+          <term>nonfiction  
+ </term>   
+          <term>prose  
+ </term>   
+          <term>masculine  
+ </term>   
+          <term>American Civil War; Special Collections  
+ </term>   
+          <term>130th Pa.  
+ </term>  
+          <term>Company D  
+ </term>  
+          <term>Franklin County 
+ </term> 
+          <term>Camp Life 
+ </term> 
+          <term>Troop Movement 
+ </term> 
+          <term>American Civil War</term> 
+        </keywords>   
+        <keywords>  
+          <term>LCSH  
+ </term>   
+        </keywords>   
+        <keywords>  
+          <term>  
+ </term>   
+          <term>  
+ </term>   
+          <term type="format">72 dpi; 24-bit color  
+ </term>   
+        </keywords>   
+      </textClass>   
+    </profileDesc>   
+    <revisionDesc>  
+      <change>  
+        <date value="1998-05">May 1998  
+ </date>   
+        <respStmt>  
+          <resp>corrector  
+ </resp>   
+          <name>Lisa Spiro and Carolyn Fay  
+ </name>   
+        </respStmt>   
+        <item>Added TEI header and tags, corrected transcription errors, and standardized punctuation and spelling for the modernized version.  
+ </item>   
+      </change>   
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>   
+ </teiHeader>   
+ <text id="F0709T">  
+   
+ <body id="d2">  
+  <!-- <page n=1><ID>BitDon31</ID> -->   
+ <div1 type="letter" id="d3">  
+ <opener>  
+ 
+   
+  
+ <pb n="3" entity="BitDon3a" pid="uva-lib:502966"/>  
+ 
+   
+ <dateline>  
+ <name type="place">Camp Near Falmouth</name>  
+ <date value="1863-01-20"><abbr expan="January">Jan.</abbr> 20 1863  
+ </date>  
+ </dateline>  
+ <salute>  
+ Dear Friend  
+ </salute>  
+ </opener>  
+ <p>  
+ It is with pleasure <lb/>  
+ that I take up my pencil to write <lb/>  
+ you a few line to let you <orig reg="know">no</orig> <lb/>  
+ that I am well and I get <orig reg="along">a <lb/>  
+ long</orig> fine but today is very cold.  <lb/>  
+ I was out on picket night <lb/>  
+ before last and was rather <orig reg="astonished">as- <lb/>   
+ tonished</orig> <orig reg="when">wne</orig> I   
+ <orig reg="came">cam</orig> in to get   
+ <lb/>  
+ a letter and such a fine lot of papers <lb/>  
+ it came very handy   
+ <lb/>  
+ and I am very much obliged <lb/>  
+ to <orig reg="you.  There">you  their</orig> is not any thing <lb/>  
+ that would have suited me   
+ <lb/>  
+ <orig reg="better">beter</orig>   
+ at this <orig reg="time.  Your">time your</orig> letter   
+ <lb/>  
+ gave me great satisfaction   
+ <lb/>  
+ and I am glad that the <orig reg="singing">sing</orig> <lb/>  
+  is <orig reg="getting">geting</orig>   
+ along so <orig reg="well.  There">well their</orig>  
+ <lb/>  
+ has been no snow here since   
+   
+  <!-- </page> -->  <!-- <page n=2><ID>BitDon32</ID> -->   
+   
+   
+ <pb n="2"  entity="BitDon3b" pid="uva-lib:502967"/>  
+
+   
+ I came out but it has been hit by <unclear>time</unclear> and   
+   
+ <lb/>  
+ cold but with the shelter <orig reg="we">whe</orig>   
+  have <orig reg="we">whe</orig> get along right    
+ <lb/>  
+ <orig reg="well. A">well a</orig>  
+   
+  few days ago <orig reg="we">whe</orig> had   
+   
+ inspection of the <orig reg="whole">hole</orig>   
+ <lb/>  
+ Corp it was a fine <orig reg="sight.  Today">sight to day</orig>   
+ <orig reg="there">their</orig> was Division   
+ <lb/>  
+ Drill which was <orig reg="fine.  There">fine their</orig>  
+   
+  is <orig reg="a move">amove</orig> at   
+ the <orig reg="present">presant</orig>  
+ <lb/>  
+ and at this time they are moving by thousands towards   
+ <lb/>  
+ the <name type="place"><orig reg="Rappahannock">Rappahack</orig>  
+ River</name> and <orig reg="we">whe</orig> are at this   
+ time <orig reg="furnished">furnish</orig> <lb/>  
+ with 3 Day <orig reg="Rations">Rasions</orig> and 60 rounds of  
+ cartridge to move   
+ <lb/>  
+ at an <orig reg="early">airely</orig> hour   
+ <orig reg="tomorrow">to morrow</orig> morning and before 48 hours <lb/>  
+ more <orig reg="there">their</orig> may be a very   
+ heavy Battle <orig reg="fought. The">fought the</orig> Men are  
+ <lb/>  
+ <orig reg="somewhat">some what</orig>  
+ Depressed in spirits owing to the last defeat at   
+ <lb/>  
+ the River but yet they will <orig reg="go.  I">go  I</orig> think   
+ I shall be <unclear>along</unclear><lb/>  
+ nothing <orig reg="happening">happing</orig>   
+ more than I <orig reg="know.  It">no it</orig> may be the last   
+ <lb/>  
+ letter I shall write to  
+ you but <orig reg="we">but whe</orig>   
+ hope for   
+ <lb/>  
+ the best if <orig reg="there">their</orig>   
+ is a fight and I shall do my duty   
+ <lb/>  
+ if I <orig reg="know">no</orig>   
+ <orig reg="how.  There">how their</orig> <orig reg="is">I</orig>   
+ much that I could   
+ write  
+ at <orig reg="present">presant</orig><lb/>  
+ But I have not the time as the orders for to march just   
+ <lb/>  
+ came in a few minutes ago and I shall  
+ write home yet today   
+ <lb/>  
+ and I shall close hoping that you will excuse me for <lb/>  
+ this time and my mistake hoping that you will write soon   
+ <lb/>  
+ to me and  
+ remember me to your Parent and all   
+ <lb/>  
+ inquiring <orig reg="friends">friend</orig> and I ever Remain  
+ </p>   
+ <closer><salute>Your Humble Servant</salute>  
+ <signed><name type="person">Thad Donely</name></signed>  
+   
+  <!-- </page> -->  <!-- <page n=3><ID>BitDon33</ID> -->   
+   
+   
+ <pb n="3"  entity="BitDon3c" pid="uva-lib:502968"/>  
+ 
+   
+ <seg type="postscript">  
+ My <orig reg="kindest">kindes</orig> regards to all the young   
+ <lb/>  
+ folk at singing and if any of them  
+ <orig reg="feel">feal</orig>   
+ <lb/>  
+ Disposed to drop me a few lines I will   
+ <lb/>  
+ be happy to answer and tell all I   
+ <orig reg="know">no</orig> of   
+ <lb/>  
+ old <unclear><orig reg="Virginia">Varigin</orig></unclear>   
+ and of <orig reg="war.  The">war the</orig> vast amount   
+ <lb/>  
+ of men and gun on the move today looks   
+ <lb/>  
+ as though <orig reg="we">whe</orig> could get   
+ <orig reg="across although">a cross all though</orig>  
+ <lb/>  
+  they are <orig reg="well">will</orig> fortified.  
+   
+ Yours Truly <lb/>   
+ <name>Thad D</name>  
+ </seg>  
+   
+ <seg type="postscript">  
+ <orig reg="Please accept">Pleas except</orig>   
+ my   
+ <lb/>  
+ <orig reg="thanks">thank</orig> for the paper   
+ <lb/>  
+ you sent me and all that I can   
+ <lb/>  
+ wish is that I will be able to <orig reg="write more">rit mor</orig>  
+ <lb/>  
+ to you in the future.    
+ </seg>  
+ <seg type="postscript">  
+ <orig reg="Address as usually">Adrss as usualy</orig><lb/>  
+ My Dinner  
+ is  
+ ready and I <orig reg="must">mus</orig> eat.    
+ </seg>  
+   
+ <seg type="postscript">  
+ I will inclose you a card <lb/>  
+ that was <orig reg="got">go</orig>   
+ in <name type="place"><orig reg="Fredericksburg">Fredricks <lb/>  
+ burg</orig></name> at the last fight<ref n="1" target="n1">[1]</ref>  
+ </seg>  
+ <seg type="postscript">  
+ I inclose some <orig reg="tobacco">tobaco</orig>   
+ seed<ref n="2" target="n2">[2]</ref>  
+   
+ </seg>  
+   
+ </closer>  
+ </div1>  
+  <!-- </page> -->   
+ </body>  
+ <back id="d4">  
+ <div1 type="notes" id="d5"><head>Notes</head>  
+   
+  <note n="1" id="n1" place="foot"><seg type="note-symbol"><hi rend="super">[1]</hi></seg><p> This postscript was written upside down in the upper  <lb/>
+ margin of page 1.</p> 
+   
+ </note>  
+   
+  <note n="2" id="n2" place="foot"><seg type="note-symbol"><hi rend="super">[2]</hi></seg><p> This postscript was written down in the lower margin <lb/> 
+ of page 1.  </p>
+   
+ </note>  
+ </div1>  
+ </back>  
+   
+ </text>  
+ </TEI.2>  
+   
+ 

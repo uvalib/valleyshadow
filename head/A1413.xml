@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+
+<?dlps id="A1413"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A1413">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: Washington Hilleary and D. D. Morrall to
+                    John Letcher, August 7, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta washington hilleary and d d morrall to john letcher, august 7 1861</title>
+        <author>Hilleary, Washington</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Kid W.</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Kid W.</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A1413</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501952</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: Washington Hilleary and D. D. Morrall to John Letcher,
+                            August 7, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta washington hilleary and d d morrall to john letcher, august 7 1861</title>
+            <author>Washington Hilleary and D. D. Morrall</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: John Letcher Papers, The Virginia
+                            Historical Society</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Virginia Historical Society, Richmond Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1861-08-07">1861-08-07</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Death/Casualties, Military Authority, Patriotism, Prisons/Prisoners, State
+                        Government</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2005">Summer 2005</date>
+                <respStmt>
+                    <resp/>
+                    <name>Doug O'Reagan</name>
+                </respStmt>
+                <item>Proofread.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A1413T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Having been accused of aiding Federal troops, Dr. Hilleary writes to Gov. Letcher
+                    and asks for a speedy hearing so that he might clear his name.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">To <abbr expan="Excellency">
+                            <unclear>Exec<hi rend="super">ncy</hi></unclear>
+                        </abbr>
+                        <abbr expan="Governor">Gov<hi rend="super">n</hi></abbr>
+                        <abbr expan="John">J</abbr> Letcher</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1861-08-07"><abbr expan="August">Au<hi rend="super">gt</hi></abbr> 7 <unclear><hi rend="super">th</hi></unclear> 1861</date>
+                        <name type="place">Staunton</name>
+                    </dateline>
+                    <salute>Dear Sir</salute>
+                </opener>
+
+                <p>I was <orig reg="arrested">arested</orig> and brought to this place by the order
+                    of <abbr expan="Colonel">C<hi rend="super">ol</hi></abbr> Jackson a man
+                        <unclear>unnow</unclear> to me on a charge of conducting the <orig
+                        reg="Federal">Federall</orig> troops to the top of <unclear>Rich</unclear>
+                    <orig reg="Mountain">mountain</orig> the charge is <orig reg="false">Fals</orig>
+                    and <orig reg="I">i</orig> have called on <abbr expan="Colonel">Col</abbr>
+                    Jackson to give me a Fair and <abbr expan="honorable">Honerabl</abbr> hearing on
+                    trial and <add hand="h1" place="inline">would</add>
+                    <orig reg="prove">proove</orig> to him and the <orig reg="whole">
+                        <unclear>holle</unclear>
+                    </orig>
+                    <orig reg="Confederacy">ConFederacy</orig> that <orig reg="I">i</orig> am
+                    innocent of Such a charge and <orig reg="I">i</orig> will prove also that no
+                        <orig reg="man">mon</orig> that <orig reg="claims">clames</orig> to be a
+                    Southern man that has done more than <orig reg="I">i</orig> have to promote the
+                    cause of <add hand="h1" place="inline">th<unclear>e</unclear></add> South me and
+                    my Family <orig reg="sir">Ser</orig>
+                    <orig reg="I">i</orig> am <del rend="none" hand="h1"/> the Federal troops and can you or any
+                    other man <unclear>then</unclear> For one moment that <orig reg="I">i</orig>
+                    would leave my home and all <add hand="h1" place="inline">to</add> the <orig
+                        reg="mercy">mercey</orig> of a <unclear>banded</unclear> Enemy and then
+                        <unclear>aide</unclear> them in the destruction of the army and my <orig
+                        reg="property">propety</orig> and all that <orig reg="I">i</orig> had why
+                        <orig reg="sir">ser</orig> it is <orig reg="preposterous">proposterus</orig>
+                    to think of therefore <orig reg="I">i</orig> wish you would order <abbr
+                        expan="Colonel">Col</abbr> Jackson to give me a hearing and let me acquit
+                        <orig reg="myself">my self</orig>
+                    <orig reg="honorably">honerabl</orig> and let the Falsehood <orig reg="fall"
+                        >Foll</orig> on the one that <pb n="2"/> the one that <orig
+                        reg="perpetrated">perpotrated</orig> it <orig reg="I">i</orig> have been
+                        <orig reg="here">hear</orig> For nearly three week From my <orig
+                        reg="family">Famely</orig> and <orig reg="I">i</orig> am anxious to <add
+                        hand="h1" place="inline">go</add> back to them at the Springs <orig reg="I"
+                        >i</orig> never left the army <orig reg="until">untell</orig> the day of the
+                    battle and the retreat and brought From <orig reg="therr">there</orig> in a
+                    buggy <abbr expan="Captain">cap<hi rend="super">t</hi></abbr> W Ervin he was
+                    very much crippled From a Fall in the camp and <orig reg="I">i</orig>
+                    <orig reg="carried">carred</orig> him home near the warm Springs</p>
+
+                <p>I am not in <orig reg="prison">prisson</orig> but brought <orig reg="here"
+                    >hear</orig> and turned loose to run at camp but that do not S<del rend="none" hand="h1"/>
+                    me <orig reg="I">i</orig> will not leave <orig reg="until">untell</orig>
+                    <orig reg="I">i</orig> get Satisfaction <orig reg="I">i</orig> can prove my
+                    Standing in life and now Sixty Five years of a<del rend="none" hand="h1"/> have <orig
+                        reg="faded">Feded</orig> different Stations of office in life and there has
+                    never been the least thing few of me before Your <orig reg="immediate">omedeate</orig>
+                    <orig reg="attention">attenteon</orig> to this will <orig reg="greatly">grately</orig>
+                    <orig reg="oblige">oblege</orig> a Friend</p>
+
+                <closer>
+                    <salute/>
+                    <signed>D<hi rend="super">r</hi> Washington Hilleary</signed>
+                    <seg type="postscript"><orig reg="Governor">Gov.</orig> John Letcher ,<lb/> I am
+                        acquainted with D<hi rend="super">r</hi> Hilliary, and I feel satisfied that
+                        he is a True Southern man, I saw him at Huttonsville, at the time of <abbr
+                            expan="Colonel">Co<hi rend="super">l</hi>.</abbr> Scotts <orig
+                            reg="retreat">retriat</orig> with a sick man in his <pb n="3"/>
+                        carriage, I also saw him at <unclear>Greenbur</unclear> with the same
+                        Gentleman, I <del hand="h1">am</del> feel Confident and recommend that he
+                        should at once be released from arrest. -<lb/> Very <orig reg="Respectfully"
+                            >Respectfuly</orig><lb/> D. D. Morrall</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+
+<?dlps id="B0173"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B0173">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: J. L. Clark to Thomas P.
+                    Jackson, July 8, 1867</title>
+        <title type="sort">freedmens bureau records j l clark to thomas p jackson, july 8 1867</title>
+        <author>Clark, J. L.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B0173</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500536</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: J. L. Clark to Thomas P. Jackson, July 8,
+                            1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records j l clark to thomas p jackson, july 8 1867</title>
+            <author>J. L. Clark</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Bureau of Refugees, Freedmen, and
+                            Abandoned Lands, Record Group 105, Box 4270.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-07-08">1867-07-08</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Church/Religious Activity, Property, Race Relations</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-05">May, 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B0173T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Clark, the minister of an African Methodist Church in Staunton, makes a statement
+                    to Jackson about an unspecified complaint that had been made about his
+                    congregation's occupancy of the church building.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Mr. <abbr expan="Thomas">Tho<hi rend="super"
+                        >s</hi>.</abbr> P. Jackson<lb/>Agent Bureau <abbr
+                            expan="Refugees, Freedmen and Abandoned Lands">R. F. &amp; A
+                        L</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-07-08">July <abbr expan="8, 1867">8/67</abbr></date>
+                        <name type="place">Staunton, <abbr expan="Virginia">Va</abbr></name>
+                    </dateline>
+                    <salute>Sir</salute>
+                </opener>
+
+                <p>In response to your note of July 2<hi rend="super">d</hi> I beg leave
+                    respectfully to say, I am the preacher in charge of the Methodist congregation
+                    now in the use and occupancy of the church edifice to which you refer. The same
+                    congregation who built the church and who for more than fifty years have
+                    worshipped in it and other churches which in that time have stood upon the same
+                    spot.</p>
+
+                <p>The title of church property is by the law of Virginia held by trustees for the
+                    benefit and use of the local Religious congregation. The building has for many
+                    years been held by such trustees approved by the current court of Augusta <pb
+                        n="2"/>County under the law of the state. It is with the consent and by the
+                    authority of these trustees that our congregation hold and uses the property.</p>
+
+                <p>There are three congregations of Methodists in Staunton, one composed entirely of
+                    White persons, the other two exclusively of <orig reg="colored">collored</orig>
+                    persons. As each of these congregations has its own separate place of worship, I
+                    am unable to understand how the use and occupancy of our church edifice has
+                    become the subject of discussion &amp; inquiry by those you represent.</p>
+
+                <p>As I have stated we are and always have been in the peaceful possession of this
+                    property, and if any complaints or <unclear>---cutations</unclear> has been made
+                    in denegration of our right to such <pb n="3"/>possession, I submit very
+                    respectfully that it is proper that we shall be informed of its source and its
+                    character. So that we may be enabled to meet it promptly and distinctly. As soon
+                    as I have the points to which I am expected to respond I will take pleasure in
+                    laying before you such information as will enable you to make a just and and proper disposition of the whole subject of your inquiry.</p>
+
+                <closer>
+                    <salute>I am Sir, very Respectfully<lb/>Your <abbr expan="Obedient">Obt.</abbr>
+                        <abbr expan="Servant">Sevt</abbr></salute>
+                    <signed>J. S. Clark</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

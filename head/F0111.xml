@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0111"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="F0111">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Catherine A. Crum to her lover,
+                    February 3, 1865</title>
+        <title type="sort">franklin county catherine a crum to her lover, february 3 1865</title>
+        <author>Crum, Catherine A </author>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Matthew Kelly </name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Institute for Advanced Technology in the Humanities </publisher>
+                <publisher>University of Virginia </publisher>
+                <pubPlace>Charlottesville, Va. </pubPlace>
+                <idno type="VCDH">F0111 </idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1997 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved. </p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2 </p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1997 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1998">1998 </date>
+            <idno type="uva-pid">uva-lib:501252</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War </p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note>
+                    <p>Transcription from Photocopy. It is noted on the back of the photocopy that
+                        this letter belongs in the Mox collection, but we are not sure this is
+                        correct.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Catherine A. Crum to her lover, February 3, 1865</title>
+            <title type="sort">franklin county catherine a crum to her lover, february 3 1865</title>
+            <author>Catherine A. Crum</author>
+            <respStmt>
+                            <resp> </resp>
+                            <name> </name>
+                        </respStmt>
+          </titleStmt>
+                    <publicationStmt>
+                        <publisher> </publisher>
+                        <pubPlace> </pubPlace>
+                        <date value=""> </date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p>Source copy consulted: Peter Boyer Letters, Archives of the U.S. Army
+                            Military History Institute, Carlisle Barracks, Pennsylvania. </p>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from U. S. Army Military History Institute, Carlisle Barracks, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1865-02-03">1865-02-03 </date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Home Front, Women, Family </term>
+                    <term>Regiment: none </term>
+                    <term>Company: none </term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value="2000">Summer 2000</date>
+                <respStmt>
+                    <resp/>
+                    <name>Amy Voorhees</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="F0111T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Crum writes to her lover about the latest stories from home.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">her lover</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1865-02-03">Februray 3, 1865</date>
+                        <name type="place">Franklin County, PA</name>
+                    </dateline>
+                    <salute>Dear Lover</salute>
+                </opener>
+
+                <p>It is with greatest pleasure that I seat myself this morning to pen you a few
+                        <del rend="none" hand="h1"/> to let you <orig reg="know">no</orig> that I am in
+                    tolerable good health at this time and <orig reg="hoping">hopeing</orig> these
+                    few imperfect lines May find you in Considerable good health I received your
+                    Dear kind letter the 23 inst on the 30 of last Month it was A long time of
+                    coming to me you had stated in your letter that my letter <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> coming to you i <orig reg="wrote">rote</orig> it on the <del
+                        hand="h1"/> and took it to the office on the 12 i then they left it lay it
+                    while before they Mailed it but i told <unclear>hoopes</unclear> they <orig
+                        reg="shouldn't">shoulden not</orig>
+                    <orig reg="leave">leve</orig> the letter lay so long before they them Mail
+                        them.<pb n="2"/>
+                    <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> Tell you that <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> and Emanda had <del rend="none" hand="h1"/> here two weeks <orig reg="ago"
+                        >A go</orig> and Elijah <del rend="none" hand="h1"/> that you had your arm <del
+                        hand="h1"/> severely by rowling <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> forts but wether it <del rend="none" hand="h1"/> i do not no i could
+                    hardely believe it or else you would have told me A bout it i was sorry when i
+                    herd it i Dont no where else she herd it she would not tell me she told me that
+                    the girls tells her evry thing about you i must now change my <del rend="none" hand="h1"/>
+                    or <del rend="none" hand="h1"/> you will get tired reading such stuff now i Must <del
+                        hand="h1"/> you A sketch A bout the wether here now we have had very cold
+                    wether for the last two weeks it was Cold enough to frese the horns of A muley
+                        <del rend="none" hand="h1"/> we have had the best sleighing<pb n="3"/>the last week that
+                    we have had for some years i never saw <del rend="none" hand="h1"/> sleighs going as i did
+                    ther has <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> they war just runing Day and <del rend="none" hand="h1"/> i must tell you
+                    that the <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> to make A nother Draft on <del rend="none" hand="h1"/> of the Month you May
+                    be glad <del rend="none" hand="h1"/>you Aint in it fer it will take verry near all the boys
+                    in our towns <del rend="none" hand="h1"/> i was sorry when i herd that you was expecting a
+                    battle there with the rebs i just wish the rebs would <del rend="none" hand="h1"/> up so the
+                    war would be over before the <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> up until they <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> bload up i do wish the war was ended and you was at home and
+                    then we would have the fun of going to Millerstown i would like to go out there
+                    to see how times is out there i suppose you would like to go too<pb n="4"/>to
+                    have some fun i hope <del rend="none" hand="h1"/> have some fun two i would rite <del
+                        hand="h1"/> to you but i am sush A poor <del rend="none" hand="h1"/> to rite letters i
+                    Dont want you <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> to any person for <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> wether the people <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> rite i Dont care wether <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> rite so well but still i can love you with all my heart and
+                    soul well i think i must Bring my few remarks to A close some more at present
+                    but still remain your affectionate friend <del rend="none" hand="h1"/> wont forget you as
+                    long as i live <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> at present <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> if you please <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> comes to hand</p>
+
+                <closer>
+                    <salute>None</salute>
+                    <signed>Catherine A. Crum </signed>
+                    <seg type="postscript">
+                        <name type="recipient"> Eli H Crum </name>
+                    </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0046"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="F0046">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Bob Taggart to Captain John
+                    Taggart, December 21, 1861</title>
+        <title type="sort">franklin county bob taggart to captain john taggart, december 21 1861</title>
+        <author>Taggart, Bob </author>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amy Murrell </name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">5</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Institute for Advanced Technology in the Humanities </publisher>
+                <publisher>University of Virginia </publisher>
+                <pubPlace>Charlottesville, Va. </pubPlace>
+                <idno type="VCDH">F0046</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1997 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved. </p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1997 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1997">1997 </date>
+            <idno type="uva-pid">uva-lib:501221</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War </p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note> </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Bob Taggart to Captain John Taggart, December 21,
+                            1861</title>
+            <title type="sort">franklin county bob taggart to captain john taggart, december 21 1861</title>
+            <author>Bob Taggart</author>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <publicationStmt>
+                        <publisher> </publisher>
+                        <pubPlace> </pubPlace>
+                        <date value=""> </date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p>Source copy consulted: Taggart Letters, Microfilm MG-132, Civil War
+                            Material, Misc. Diaries and Letters, Pennsylvania Historical and Museum
+                            Commission, Harrisburg, Pennsylvania. </p>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Pennsylvania Historical and Museum Commission, Harrisburg, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1861-12-21">1861-12-21 </date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Battle Description </term>
+                    <term>Regiment: 9th Pa. Res. </term>
+                    <term>Company: </term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value="2000">Summer 2000</date>
+                <respStmt>
+                    <resp/>
+                    <name>Amy Voorhees</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="F0046T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Taggart describes a recent skirmish with Confederate forces in which eighteen
+                    members of his regiment were wounded, including two captains. </p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Captain John Taggart, 9th Penn. Reserve Infantry </name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1861-12-21">Dec. 21<hi rend="super">d</hi> 1861 </date>
+                        <name type="place">Camp Pierpont </name>
+                    </dateline>
+                    <salute>Dear John </salute>
+                </opener>
+                <p>I suppose the Telegraph has given you notice of a skirmish in which our Brigade
+                    was engaged. Well its all over now, and the <hi rend="underline">got</hi> off
+                    remarkably well. Captains <unclear>Galway</unclear> &amp; Dick are both
+                    wounded in the legs -- not dangerously. Two of our men, one in <abbr
+                        expan="Company">Co</abbr> E, &amp; 1 in <abbr expan="Company">Co</abbr>
+                    H. were killed and about sixteen or eighteen wounded. The 9<hi rend="super"
+                    >th</hi> was in advance and came near being surrounded, but the boys fought like
+                        <del rend="none" hand="h1"/>. The Rebels loss is estimated at between one &amp; two
+                    hundred together with a number of prisoners, quite an amount <pb/> of forage
+                    &amp; equipments. One of <abbr expan="Company">Co.</abbr> C. after getting
+                    his canteen, clothes, &amp; thigh -- the latter but little -- <unclear>
+                        <orig reg="fired">fired</orig>
+                    </unclear>, with a bullet, nabbed the fellow and made him fork over all his
+                    equipments and $80, Southern money. He gave me the enclosed which I send on to
+                    you, and see that you don't get on <hi rend="underline">too big a spree with
+                    it</hi>. It will be apt to hold good -- for nothing as long as the war last at
+                    least -- </p>
+
+                <p><abbr expan="Lieutenant">Lieut</abbr> Barbour left here yesterday to <abbr
+                        expan="Pittsburgh">Pitt</abbr>. He just left in time to miss the fun.</p>
+
+                <p>My love to family &amp; respects to <orig reg="inquiring">enquiring</orig>
+                    friends. A Merry Christmas to you all</p>
+
+                <closer>
+                    <salute>Your Affectionate <abbr expan="Brother">Brot</abbr>
+                    </salute>
+                    <signed>Bob </signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

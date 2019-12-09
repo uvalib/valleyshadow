@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9640"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A9640">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta: William Brand to Kate Armentrout, January 10, 1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta william brand to kate armentrout, january 10 1862</title>
+        <author>Brand, William F.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Jaime Martinez</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Jaime Martinez</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A9640</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2002, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date>
+        <idno type="uva-pid">uva-lib:502802</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta: William Brand to Kate Armentrout, January 10, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta william brand to kate armentrout, january 10 1862</title>
+            <author>William Brand</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>4 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: William Brand Papers, Albert and Shirley Small
+       Special Collections Library, University of Virginia</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1862-01-10">1862-01-10</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Desertion/Leave, Family, Medicine/Hospitals, Military Authority, Patriotism,
+      Prisons/Prisoners, Troop Movement</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2007-04-03">2007-04-03</date>
+        <respStmt>
+          <resp>proofed</resp>
+          <name>Josh Botts</name>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A9640T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>William describes the recent movements of the 5th Virginia Regiment throughout the Shenandoah
+     Valley, saying that he encountered many Unionists in the town of Bath. He also tells Kate that
+     many of the men in the regiment are sick due to the cold and wet weather.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     Eleventh letter<lb/>
+     <name type="recipient">Miss Amanda C Armentrout<lb/>Lacy Springs<lb/>Rockingham <abbr
+      expan="County">Co</abbr>
+      <abbr expan="Virginia">Va</abbr></name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1862-01-10"><abbr expan="January">Jan.</abbr> 10th <abbr expan="1862">'62</abbr></date>
+      <name type="place">Camp Sleepy Creek</name>
+     </dateline>
+     <salute>Dear Kate</salute>
+    </opener>
+
+    <p>It is with pleasure that I seat my self to drop you a <orig reg="few">fiew</orig> lines to
+     let you hear from me. I <orig reg="received">recieved</orig> your note by Mr Vines. It was
+      <orig reg="too">to</orig> late as I had written the day before no doubt you have <orig
+      reg="received">recieved</orig> it before this time. My health is very good &amp; hope
+      <orig reg="these">theese</orig>
+     <orig reg="few">fiew</orig> lines may find you enjoying the same. We have been <pb n="2"/> on a
+     very hard march ever since New years' day we first marched on Bath in Morgan County took 8 or
+     10 Prisoners two <orig reg="pieces">peases</orig> of <orig reg="cannon">canon</orig> it is the
+     hardest trip we ever <orig reg="were">ware</orig> on. The snow was from 4 to 6 inches deep
+     &amp; very cold. The roads became a perfect cake of ice the horses <orig reg="were"
+     >ware</orig> continually falling down &amp; the same with the men. The <orig reg="Militia"
+      >Malitia</orig> done some <orig reg="beautiful">beautifull</orig>
+     <orig reg="running">runing</orig>. Bath is a beautiful little town the <pb n="3"/>
+     <orig reg="citizens">citasons</orig> are mostly Unionists. Bath is better known as the <orig
+      reg="Berkeley">Burkley</orig> springs it is situated between two mountains. We are now in 25
+     miles of Winchester &amp; are <orig reg="camped">campt</orig> on the
+     <unclear>Runney</unclear> road. I do not know what the <abbr expan="General's">Gen.</abbr>
+     intentions are if we are kept in this mountainous Country long one fourth of the army will be
+     in the hospital for <orig reg="there">thare</orig> are loads going <orig reg="every"
+     >evry</orig> day five of our <abbr expan="Company">Com</abbr> has <orig reg="gone">gon</orig>
+     to the hospital <pb n="4"/> &amp; as many sick in Camp. I <orig reg="received"
+     >recieved</orig> the cheese you sent me (many thanks to the <unclear>dona</unclear>.) I told
+      <abbr expan="James Vines">JV</abbr>
+     <orig reg="where">whare</orig> to direct his letters to you &amp; will inform Mr <abbr
+      expan="Lightner">Ligt.</abbr> when I see him. <abbr expan="Lieutenant">Lieut</abbr> Wilson
+     leaves for home in the morning excuse this short letter as I am on <orig reg="guard"
+     >gard</orig> to night also bad writing &amp; <orig reg="mistakes">misstakes</orig>. Write
+     soon as I am always glad to hear from you.</p>
+
+    <closer>
+     <salute>Yours truly,</salute>
+     <signed>W.F.B.</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

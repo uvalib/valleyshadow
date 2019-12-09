@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0042"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="F0042">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Bob Taggart to Captain John
+                    Taggart, July 26, 1861</title>
+        <title type="sort">franklin county bob taggart to captain john taggart, july 26 1861</title>
+        <author>Taggart, Bob </author>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amy Murrell </name>
+                </respStmt>
+      </titleStmt>
+      <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Institute for Advanced Technology in the Humanities </publisher>
+                <publisher>University of Virginia </publisher>
+                <pubPlace>Charlottesville, Va. </pubPlace>
+                <idno type="VCDH">F0042</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1997 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved. </p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1997 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1997">1997 </date>
+            <idno type="uva-pid">uva-lib:501217</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War </p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note>
+                    <p>Letterhead: This letter was written on stationery that pictures a man holding
+                        the United States Flag with the words "Defend It!" written beneath.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Bob Taggart to Captain John Taggart, July 26, 1861</title>
+            <title type="sort">franklin county bob taggart to captain john taggart, july 26 1861</title>
+            <author>Bob Taggart</author>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <publicationStmt>
+                        <publisher> </publisher>
+                        <pubPlace> </pubPlace>
+                        <date value=""> </date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p>Source copy consulted: Taggart Letters, Microfilm MG-132, Civil War
+                            Material, Misc. Diaries and Letters, Pennsylvania Historical and Museum
+                            Commission, Harrisburg, Pennsylvania. </p>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Pennsylvania Historical and Museum Commission, Harrisburg, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1861-07-26">1861-07-26 </date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Enlistment, Patriotism, Troop Movement </term>
+                    <term>Regiment: 9th Pa. Res. </term>
+                    <term>Company: </term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value="2000">Summer 2000</date>
+                <respStmt>
+                    <resp/>
+                    <name>Amy Voorhees</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="F0042T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Taggart tells his brother about getting used to camp life.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Captain John Taggart, 9th Penn. Reserve Infantry</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1861-07-26">26 July 1861 </date>
+                        <name type="place">Camp Graham </name>
+                    </dateline>
+                    <salute>
+                        <hi rend="underline">Dear John</hi>
+                    </salute>
+                </opener>
+                <p>My last letter to Mary was mailed from the Capitol building, in Washington. When
+                    I had nearly finished it, I was ordered to report immediately at Camp and to be
+                    ready to start in one hour and a half. It was four hours thereafter before every
+                    thing was ready, and the word "forward" given. The boys were all very anxious to
+                    know their destination, but of this they were all as ignorant as myself until
+                    after a march of three miles, under a very hot sun, we were called to halt in
+                    front of this place, which was formerly occupied as a Camp, and called "Graham,"
+                    by a <abbr expan="New York">N.Y.</abbr> regiment. Camp Graham is sit-<pb n="2"
+                    />uated on an <unclear>eminence</unclear> called "The <unclear>Vidian</unclear>
+                    Height" about three miles <abbr expan="North">N.</abbr> of the Capitol; and
+                    being principally destitute of trees, is admirably adapted for receiving the
+                    searching rays of the sun, during the entire day. We are surrounded on all sides
+                    though, by woods, where we can resort during the day to rest. <abbr
+                        expan="Colonel">Col.</abbr>
+                    <orig reg="Hays">Hay's</orig> and quite a number of other Pennsylvania
+                    regiments, together with a part of Sickles Brigade, are all quartered around us
+                    within a <orig reg="circle">sircle</orig> of two miles. Since leaving Pittsburgh
+                    we have fared resonably well, although not in a manner to be compared to the
+                    time spent in Camp Wilkins or Wright. The boys who grumbled so much in those
+                    places bear up admirably under the change, suffering all the unavoidable
+                    inconveniences of the "changing <pb n="3"/> wind" with commendable good nature.
+                    During our journey we were unmolested by the secessionists, although between
+                    Cokeysville, and this, there are numbers of them. It is said by folks in the
+                    vicinity, that we came through Baltimore with greater demonstrations of national
+                    devotion, and less annoyance, than any regiment that preceded us. Along the
+                    entire route from one depot to the other, a distance of perhaps two miles, we
+                    marched with flying colors to the tunes of "Yankee Doodle" "Hail Columbia" "Star
+                    Spangled Banner" and such like national music, without meeting with any serious
+                    interruption. Occasionally, some of the spectators, secure in their distance
+                    from our boys, would indulge in almost inaudible hisses and groans,<pb n="4"/>
+                    but never without the intended disparagement being returned and generally
+                    without much regard to <del rend="none" hand="h1"/>gance of language. </p>
+
+                <p><abbr expan="Lieutenant">Lieut.</abbr> Barber arrived here on Saturday evening
+                    and handed me my watch; also a box containing a revolver and all necessary
+                    "fixings" for which handsome and, -- under present circumstances, -- very useful
+                    present. I am indebted to that natural regard on your part for my welfare; of
+                    which I have received so many indoubted evidences. I am indeed very grateful to
+                    you for this and the many other favors I have received at your hand, and promise
+                    to use the article when necessity demands for the purpose for which it was
+                    intended. Such articles in regular battle are not<pb n="5"/>much used; but I am
+                    informed by a number of the N.Y. <unclear>Zouaves</unclear>, and others, who
+                    were engaged in the recent "<orig reg="Bull">Bull's</orig> run" affair, that
+                    they proved the means of saving quite a number of the wounded from being
+                    murdered. They say the <orig reg="secessionists">secessioninst</orig> have no
+                    mercy on the <orig reg="wounded">wounded</orig>, but <orig reg="whenever">when
+                        ever</orig> they pass on the field or elsewhere, one who cannot take himself
+                    away, they instantly bayonet him. The game is now being played as a general
+                    thing on both sides. </p>
+
+                <p>Yesterday our regiment was mustered into the U.S. service. I was acting "Corporal
+                    of the guard" during the day, and was not mustered with the rest, but suppose I
+                    will be today. We have no idea when we will move from this; but the
+                        impression<pb n="6"/> seems to prevail, that there will be no forward
+                    movement on the part of any of our troops for two or three weeks. There are many
+                    secessionists in and about this place, but they have to keep so decidedly quiet
+                    that they do us but little harm. Not having got a wink of sleep last night, I
+                    must now try and take a little. Give my love to Father Mary Lill Sam Lize Bill
+                        <abbr expan="William">Wm</abbr> L. and Charley. My kindest regards to
+                    enquiring friend and believe me</p>
+
+                <closer>
+                    <salute>In Affectionate Remembrance<lb/>Your Brother </salute>
+                    <signed>Bob </signed>
+                    <seg type="postscript">P.S. My health is very good. </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

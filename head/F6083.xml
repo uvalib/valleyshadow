@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+
+<?dlps id="F6083"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F6083">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Benjamin S. Schneck to Margaretta
+                    S. Keller, September 24, 1862</title>
+        <title type="sort">franklin county benjamin s schneck to margaretta s keller, september 24 1862</title>
+        <author>Schneck, Benjamin S.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">5</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F6083</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501626</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Benjamin S. Schneck to Margaretta S. Keller,
+                            September 24, 1862</title>
+            <title level="m"/>
+            <title type="sort">franklin county benjamin s schneck to margaretta s keller, september 24 1862</title>
+            <author>Benjamin S. Schneck</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Benjamin S Schneck Papers,
+                            Vertical File #77, Kittochtinny Historical Society, Chambersburg,
+                            Pennsylvania</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Kittochtinny Historical Society, Chambersburg, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1862-09-24">1862-09-24</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Battle Description, Death/Casualties, Family</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2003-01">January 2003</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F6083T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Schneck's letter describes the wounded soldiers of a battle, and asks how to get
+                    in touch with his sister's son, Daniel.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+            
+
+                <opener>
+                    <dateline>
+                        <date value="1862-09-24">Wednesday Night Sep. 24. 1862</date>
+                        <name type="place">Chambersburg</name>
+                    </dateline>
+                    <salute>My dear Sister:</salute>
+                </opener>
+
+                <p>I have just returned the second time from the Battlefield -- was there during the
+                    fearful battle of <hi rend="underline">Wednesday</hi> when I remained for two
+                    days and nights (with Mr. Bausman) waiting on the wounded in the Farmhouses
+                    around. It was an unexpected sight and experience. On Monday (of this week)
+                        <abbr expan="Reverend">Revd</abbr> Mr. <unclear>Gutilius</unclear> (like
+                    hundreds of others) was here. Since Saturday unable to get on to look after
+                    relatives + friends, the cars not being permitted to take civilians. He had a
+                    son, nephews and others after whom he was to see, and as he was very anxious, I
+                    took him over + returned (with him) last Evening, he having the pleasure of
+                    seeing his son and nephews safe, <abbr expan="although">altho</abbr> they were
+                    in the thickest of the battle (the <hi rend="underline">Penns Reserves</hi>). I
+                    thought it <hi rend="underline">possible </hi><abbr expan="though">tho</abbr>
+                    not <hi rend="underline">probable</hi> that Daniel was there. So I went around
+                    from Regiment to Regiment in which there was Centre County men -- but found him
+                    not. Hence I suppose he is near Washington and you have doubtless heard from
+                    him. I will be glad to hear from you in what <hi rend="underline">Company</hi> +
+                        <hi rend="underline">Regiment</hi> he is.</p>
+
+                <p>We have already a great many wounded here + more are to come tonight. Our Ladies
+                    are engaged almost day + night getting up beds and nursing them. Rebecca is
+                    almost worn out.</p>
+
+                <p>Our united love from us all.</p>
+
+                <closer>
+                    <salute>Your Affectionate brother</salute>
+                    <signed>B. S. Schneck</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

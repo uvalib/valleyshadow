@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+
+<?dlps id="F3002"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="F3002">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: David A. Demus to Mary Jane Demus, November 28,
+     1864</title>
+        <title type="sort">franklin county david a demus to mary jane demus, november 28 1864</title>
+        <author>Demus, David A.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Murrell</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Murrell</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">F3002</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:501440</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Franklin County: David A. Demus to Mary Jane Demus, November 28, 1864</title>
+            <title level="m"/>
+            <title type="sort">franklin county david a demus to mary jane demus, november 28 1864</title>
+            <author>David A. Demus</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>2 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Case File of Wesley Krunkleton, Approved Pension
+       Applications of Veterans Who Served in the Army and Navy Mainly in the Civil War and the War
+       with Spain, Record Group 15, National Archives and Records Administration, Washington,
+      D.C.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>We would like to thank Edwin S. Redkey, Lagrangeville, New York, for bringing these
+        letters to our attention.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1864-11-28">1864-11-28</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>African Americans, Family, Camp Life</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001-07">July 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Murrell</name>
+        </respStmt>
+        <item>Proofread against original; corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="F3002T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Demus comments on the value of his wife's letters and informs her that he has arrived in
+     Hilton Head, South Carolina.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Mary Jane Demus</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1864-11-28">November the 28th 1864</date>
+      <name type="place">hilton head south <orig reg="Carolina">Carlina</orig></name>
+     </dateline>
+     <salute><orig reg="My">Miy</orig> Dear Wife</salute>
+    </opener>
+
+    <p> i <orig reg="take">tak</orig>
+     <orig reg="my">mi</orig> pen in hand to inform you that i am Well at present and i hope <orig
+      reg="When">Whean</orig>
+     <orig reg="these">thes</orig>
+     <orig reg="few">fru</orig> lines reach you <orig reg="they">tha</orig>
+     <orig reg="may">ma</orig> find you Well and i hope that you <unclear>inJoys</unclear>
+     <orig reg="yourself">yor Celf</orig> Well on <orig reg="your">yor</orig> visit and i
+      <unclear>lad</unclear>
+     <orig reg="three">thee</orig> Days in <unclear>gork</unclear>
+     <orig reg="before">be for</orig> i got <orig reg="off">of</orig> and all the
+     <unclear>firdes</unclear> i <orig reg="have">heave</orig> got is to hilton head and i <orig
+      reg="Can't">Cant</orig> tell <orig reg="When">Whean</orig> i Will get to the <orig
+      reg="regiment">redgment</orig> and <orig reg="there">thear</orig> is <orig reg="no">now</orig>
+     <orig reg="boats">boates</orig> going <orig reg="away">a way</orig>
+     <orig reg="for">fer</orig>
+     <orig reg="some">som</orig>
+     <orig reg="time">tim</orig> but i <orig reg="Just">Jest</orig> got <orig reg="here">hear</orig>
+     <orig reg="today">to Day</orig> and i <orig reg="thought">thot</orig> i <orig reg="Would">Wod</orig>
+     <orig reg="write">rit</orig> and let you <orig reg="know">now</orig> that i got out safe and i
+     feel <orig reg="very">verry</orig> Well <orig reg="only">onely</orig> it is <orig reg="very"
+      >verry</orig> hot <orig reg="here">hear</orig> but i hope that you Will <orig reg="excuse"
+      >excus</orig> this this bad <orig reg="writing">riten</orig>
+     <orig reg="for">fer</orig> i <orig reg="have">heave</orig> nothing to <orig reg="write"
+     >rite</orig> on but i <orig reg="Just">Jest</orig>
+     <orig reg="hold">holde</orig> the paper in <orig reg="my">mi</orig> hand and move it as i <orig
+      reg="write">rit</orig> but i <orig reg="Wanted">Wonted</orig> to <orig reg="write">rit</orig>
+     so bad that i <orig reg="just">jest</orig>
+     <orig reg="wrote">rote</orig> as i <orig reg="Could">Cod</orig> i <orig reg="thought"
+     >thot</orig> i <orig reg="Would">Wod</orig>
+     <orig reg="write">rit</orig> but i shall <orig reg="write">rite</orig> a fool letter in a few
+     Days <orig reg="When">Whean</orig> i get home and Can set <orig reg="down">donn</orig> and
+      <orig reg="write">rite</orig> i so hope that you Will give <orig reg="my">mi</orig> love to
+     all the <orig reg="inquiring">inquirens</orig>
+     <orig reg="friends">frends</orig> and <orig reg="my">mi</orig> best love to <orig
+      reg="yourself">yor Celf</orig> a <orig reg="my">mi</orig> Dear <orig reg="when">Whean</orig> i
+      <orig reg="feel">feal</orig> so bad <orig reg="Why">Wiy</orig> i <orig reg="Just">Jest</orig>
+     look at Dear <orig reg="little">littel</orig> face a how happy i <orig reg="feel">feal</orig>
+     but a how sorry i <orig reg="Was">Wos</orig>
+     <orig reg="When">Whean</orig> i had to part With you but if i had a <orig reg="known"
+     >now</orig> that it <orig reg="Would">Wod</orig> go so hard With me <orig reg="for">fer</orig>
+     to leave you <orig reg="Why">Wiy</orig> i <orig reg="Would">Wod</orig> not a <orig reg="Come"
+      >Cum</orig>
+     <orig reg="home">hom</orig> till i <orig reg="Could">Cod</orig> a <orig reg="Come">Cum</orig>
+     to stay but the time Will <orig reg="soon">son</orig> run <orig reg="around">a rond</orig> but
+     if i live to get <orig reg="home">hom</orig>
+     <orig reg="again">a gan</orig>
+     <orig reg="Why">Wiy</orig> all the <orig reg="people">peapel</orig> in the state <orig
+      reg="Won't">Wont</orig> get me a to go <orig reg="again">a gane</orig> but i hope that you
+     Will <orig reg="write">rite</orig>
+     <orig reg="some">som</orig> lovely letters to me so i Can set <orig reg="down">donn</orig> a
+     read them With the <orig reg="greatest">grates</orig> of <orig reg="pleasure">pleser</orig> a
+      <orig reg="my">mi</orig> Dear how sorry i feel that i <orig reg="Can't">Cant</orig> set <orig
+      reg="down">don</orig> and <orig reg="write">rit</orig> a full letter nothing <orig reg="more"
+      >mor</orig> at present but still <orig reg="remain">remane</orig>
+    </p>
+
+    <closer>
+     <salute><orig reg="your">yor</orig> Dear <orig reg="husband">husben</orig></salute>
+     <signed><orig reg="David">Daivd</orig> A Demus</signed>
+     <seg type="postscript">Direct <orig reg="your">yor</orig> letter to morris <orig reg="island"
+       >iland</orig>
+      <name type="recipient"><orig reg="Mary">Marry</orig> Jane Demus</name>
+     </seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

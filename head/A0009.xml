@@ -1,0 +1,258 @@
+<?xml version="1.0"?>
+
+<?dlps id="A0009"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A0009">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: A. D. Dunlop to His Mother, June 15,
+                    1860</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county a d dunlop to his mother, june 15 1860</title>
+        <author>Dunlap, A. D.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Sarah Parnes</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Susanna Michele Lee</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca.<num type="kilobytes">9</num> kilobytes </extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A0009</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501784</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: A. D. Dunlop to His Mother, June 15, 1860</title>
+            <title level="m"/>
+            <title type="sort">augusta county a d dunlop to his mother, june 15 1860</title>
+            <author>A. D. Dunlop</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Dunlop Family Correspondence, 2nd
+                            83:g, 6th 13:A, Perkins Library, Duke University, Durham, North
+                        Carolina</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Special Collections Department, William R. Perkins Library, Duke University, Durham, North Carolina</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1860-06-15">1860-06-15</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Agriculture, Home Front, Death/Casualties</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A0009T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>A. D. Dunlap tells his mother about the crops, his living expenses, and his daily
+                    activities. Dunlap plans to build a house and mentions his intended.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1860-06-15">June 15 1860</date>
+                    </dateline>
+                    <salute><orig reg="Dear">Dire</orig> Mother</salute>
+                </opener>
+
+                <p>In <orig reg="haste">hast</orig> I take my pen in hand to write you a few lines
+                    to let you all know that we <orig reg="are">ar</orig> well <orig reg="and"
+                    >an</orig> hoping these few lines may find you all the same news of <orig
+                        reg="interest">interrest</orig> is scarce <orig reg="her">here</orig> at
+                    present. The weather is very hot at this time here we <orig reg="have">hav</orig>
+                    <orig reg="been">ben</orig>
+                    <orig reg="blessed">blesed</orig> with plenty of <orig reg="rain">rane</orig>
+                    now for the last 8 weeks corn looks well <orig reg="and">an</orig>
+                    <orig reg="some">som</orig>
+                    <orig reg="again">a gane</orig> looks bad <orig reg="wheat">wheet</orig>
+                    <orig reg="there">thare</orig> wont be any worth <unclear>nomin</unclear>
+                    <orig reg="and">an</orig> oats is very short <orig reg="there">thare</orig> has
+                        <orig reg="been">ben</orig>
+                    <orig reg="several">sevrel</orig> storms here in the last 2 weeks <orig
+                        reg="and">an</orig>
+                    <orig reg="hail">hall</orig> plenty <orig reg="and">an</orig>
+                    <orig reg="done">don</orig> a heap of <orig reg="damage">damige</orig>
+                    <orig reg="there">thare</orig> was one man killed 15 miles from here another
+                    town of Clinton <orig reg="by">bi</orig>
+                    <orig reg="lightening">litngning</orig> his name was Ashby he was in a horse
+                    stable at the time Mother times is hard here <orig reg="and">an</orig> I expect
+                    will <pb n="2"/> be harder before they get <orig reg="better">beter</orig> the
+                    fruit is scarce <orig reg="there">thare</orig> is plenty of <orig reg="peaches"
+                        >peache</orig> in some <orig reg="places">plases</orig>
+                    <orig reg="and">an</orig>
+                    <orig reg="some">som</orig> few <orig reg="apples">apels</orig></p>
+
+                <p>..well.. Mother I must tell you that I am <orig reg="going">gowing</orig> to
+                    change my <orig reg="way">wa</orig> of living this <orig reg="fall">foul</orig>
+                    if nothing <orig reg="happens">hapins</orig>
+                    <orig reg="and">an</orig> I <orig reg="would">wold</orig> like to <orig
+                        reg="hear">hare</orig> what you will say to it I <orig reg="have">hav</orig>
+                    got tired living this <orig reg="way">wa</orig> for it costs <orig reg="too"
+                    >to</orig> much to <orig reg="live">liv</orig>
+                    <orig reg="alone">a lon</orig> in this country <orig reg="we">wee</orig>
+                    <orig reg="are">ar</orig> paying two dollars <orig reg="and">an</orig> a half a
+                        <orig reg="piece">pese</orig> a week <orig reg="and">an</orig> we <orig
+                        reg="have">hav</orig> to furnish our <unclear>own</unclear> bed <orig
+                        reg="and">an</orig> pay for our <orig reg="washing">washin</orig>
+                    <orig reg="besides">be sids</orig> I <orig reg="have">hav</orig>
+                    <orig reg="some">som</orig> notion to <orig reg="build">bild</orig> a house this
+                    summer I <orig reg="aint">ant</orig>
+                    <orig reg="certain">sertin</orig> whether I will or not we <orig reg="have">hav</orig>
+                    <orig reg="about">a bout</orig> twelve hundred dollars
+                    <unclear>standing</unclear> out here <orig reg="and">an</orig> still hoc as much
+                    up we both can do I is working <orig reg="and">an</orig> on wagons <orig
+                        reg="pretty">porty</orig> much all the time he is work at one now we earn
+                        <orig reg="about">a bout</orig>
+                    <pb n="3"/> one hundred <orig reg="and">an</orig> twenty dollars per month but
+                    mother I've the <orig reg="everlasting">averlastin</orig> chills we <orig
+                        reg="can't">cant</orig> get rid <orig reg="of">or</orig> them they <orig
+                        reg="give">giv</orig> him <orig reg="and">an</orig> I thunder <orig
+                        reg="sometimes">som times</orig> but <orig reg="don't">dont</orig> last long</p>
+
+                <p>well Mother I <orig reg="traded">treded</orig>
+                    <orig reg="horses">horsis</orig> this morning <orig reg="and">an</orig> got a
+                    fine mare worth 200:00 I will cut a dash I <orig reg="reckon">recon</orig>
+                    <orig reg="and">an</orig> there is <orig reg="two">to</orig> bed <orig
+                        reg="dance">dans</orig> here <orig reg="tonight">to knigh</orig> I expect be
+                    there with my <orig reg="intended">in Tended</orig> but I <orig reg="can't">cant</orig>
+                    <del rend="none" hand="h1"/> you all know that the <orig reg="health">helth</orig> or the
+                    country is very good at present except the chills <orig reg="and">an</orig> that
+                    we <orig reg="don't">dont</orig> call sickness here <orig reg="Mother"
+                    >Mothe</orig> I <orig reg="have">hav</orig>
+                    <orig reg="some">som</orig> money <orig reg="and">an</orig> you <orig
+                        reg="shall">shal</orig>
+                    <orig reg="have">hav</orig> it well <orig reg="dear">Dire</orig>
+                    <abbr expan="Mother">Mot</abbr> I will close for this time I <orig reg="have"
+                        >hav</orig>
+                    <pb n="4"/>
+                    <orig reg="wrote">wrot</orig> all the news that I <orig reg="have">hav</orig>
+                    <orig reg="and">an</orig>
+                    <orig reg="have">hav</orig> not <orig reg="rote">wrote</orig> much <orig
+                        reg="neither">nether</orig>
+                    <orig reg="yes">yess</orig>
+                    <orig reg="there">thare</orig> is to be several <orig reg="barbecues"
+                    >barbacues</orig> round here <orig reg="the">th</orig> 4 of July <orig reg="and"
+                        >an</orig> one on the 14 I wont know whether I shal be at any or not</p>
+
+                <p>no more <orig reg="give">giv</orig> my best respects all <orig reg="and">an</orig>
+                    <orig reg="especially">espocly</orig> uncle Jim I tell him I wont be <orig
+                        reg="like">lik</orig> him <orig reg="lone">lon</orig>
+                    <orig reg="and">an</orig> old <orig reg="bachelor">bachler</orig> all my life
+                    tell sister Nan to look out <orig reg="and">an</orig> Mag the same</p>
+
+                <closer>
+                    <salute>no more at present but remain <orig reg="your">youre</orig> most <orig
+                            reg="dearest">direst</orig> son</salute>
+                    <signed>A. D. Dunlop</signed>
+                    <seg type="postscript">write soon to me and dont <orig reg="forget">for
+                        get</orig> me</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

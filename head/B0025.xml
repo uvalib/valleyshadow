@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+
+<?dlps id="B0025"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B0025">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: F. M. Bird to Thomas P.
+                    Jackson, October 28, 1867</title>
+        <title type="sort">freedmens bureau records f m bird to thomas p jackson, october 28 1867</title>
+        <author>Bird, F. M.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>HIUS 403 Students</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Peter Brownfeld</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B0025</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 1999, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:500390</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: F. M. Bird to Thomas P. Jackson, October
+                            28, 1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records f m bird to thomas p jackson, october 28 1867</title>
+            <author>F. M. Bird</author>
+            <editor/>
+            <respStmt>
+                            <resp>e.g. Translator</resp>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Bureau of Refugees, Freedmen, and
+                            Abandoned Lands, Record Group 105, Box E4269</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-10-28">1867-10-28</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Legal System, Patriotism, Politics/Political Attitudes, Violence/Crime,
+                        Military Authority</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2003-08">August 2003</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B0025T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Bird's letter to Jackson asks for protection for him and other men who fought for
+                    the Union during the war. Bird, a resident of Highland County, describes threats
+                    and attacks against him by men still loyal to the Confederacy.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient"><abbr expan="Captain">Capt</abbr> Jackson</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-10-28"><abbr expan="October">Oct</abbr> 28 1867</date>
+                        <name type="place">Monterey<lb/>Highland <abbr expan="County">Co.</abbr>
+                            <abbr expan="Virginia">Va.</abbr></name>
+                    </dateline>
+                    <salute>Dear Sir</salute>
+                </opener>
+
+                <p>I will State to you that since I was at your office in Staunton I have returned
+                    to my house in Highland and have gotten into a right Serious difficulty which I
+                    will State. Some of the facts. My Brother and Myself were <orig reg="attacked"
+                        >attacted</orig> on the road by Some Rebels who threw Rocks at us and
+                    pursued us to the house and Commenced an <orig reg="attack">attact</orig> upon
+                    us there. They <orig reg="broke">buroke</orig>
+                    <orig reg="open">upen</orig> windows threw rocks into the house. They kept up
+                    the <orig reg="attack">attact</orig> for some time hurraying for Rebels and
+                    Cursing yankees. My Brother was badly injured from being struck in the face with
+                    a Stone. One other man and Myself were Slightly injured the
+                    <unclear>dips</unclear>: an other union mans house was Stoned the Same night we
+                    got a warrant and had one man by the name of Ratcliff <orig reg="arrested"
+                        >arested</orig> he said the Reason why we were treated So was because we
+                    were claimed Radicals he gave <orig reg="bail">bale</orig> for his appearance at
+                    Court but I have no <orig reg="idea">Idah</orig> that he will be punished and
+                    him and others I understand have been making Threats against union men. I wish
+                    to know of you if we Cant get some protection by the Military. I think after
+                    having Soldiered for the Union I <orig reg="deserve">diserve</orig> protection
+                    in it. I wish you to write to me <orig reg="immediately">imediately</orig> and
+                    let me Know what to do. I Think that I am well able to prove that David <orig
+                        reg="Hicks">hicks</orig> was engaged in this thing the man that you saved
+                    from punishment last summer he is now Threatening union men.</p>
+
+                <pb n="2"/>
+
+                <p>I am able to prove to you that <del hand="h1">the</del> he is nor never has been
+                    a loyal man and Charges against him is Correct and he never was employed by the
+                    government and I advise you to let the civil law have <orig reg="its">it</orig>
+                    affect upon him. I am able to Substantiate what I have Said in this letter by
+                    Reliable men. Please write <orig reg="immediately">imidiately</orig> and let me
+                    know what to do </p>
+
+                <closer>
+                    <salute>yours truly</salute>
+                    <signed>F.M. Bird</signed>
+                    <seg type="postscript">Please Keep This Private</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1068"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1068">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: John A. McDonnell to
+                    Orlando Brown, May 7, 1867</title>
+        <title type="sort">freedmens bureau records john a mcdonnell to orlando brown, may 7 1867</title>
+        <author>McDonnell, John A.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1068</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500937</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: John A. McDonnell to Orlando Brown, May 7,
+                            1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records john a mcdonnell to orlando brown, may 7 1867</title>
+            <author>John A. McDonnell</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 26.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-05-07">1867-05-07</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Administration/Bureaucracy, Aid/Relief</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-07">July 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+                <item>Item checked against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1068T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>McDonnell reports to Brown about the need in Staunton for rations and clothing to
+                    distribute to the poor. McDonnell writes that he has instructed Jackson to make
+                    the proper application for such supplies.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau of Refugees, Freedmen and Abandoned Lands,<lb/>Head Quarters 9th District
+                    <del hand="h1">Department of the Potomac,</del>
+                    <add hand="h1" place="inline">Va></add>
+                    <name type="recipient"><abbr expan="Brevet Brigadier General">Bt. Brig.
+                        Gen.</abbr> O. Brown<lb/><abbr expan="Assistant Commissioner">Asst.
+                        Comr</abbr><lb/>Richmond, <abbr expan="Virginia">Va</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-05-07">May 7th 1867</date>
+                        <name type="place">Winchester, <abbr expan="Virginia">Va.</abbr></name>
+                    </dateline>
+                    <salute>General</salute>
+                </opener>
+
+                <p>I have the honor to acknowledge the receipt of your communication of 6th inst.
+                    (No 351), and to make the following report.</p>
+
+                <p>When I was at Staunton, the last of April, Mr Jackson informed me that the
+                    authorities were <hi rend="underline">willing</hi> to support their own poor,
+                    but that their means were inadequate. Concerning the want of clothing, I
+                    respectfully refer to enclosed copy of a letter received from Mr Tukey in March
+                    last, which is the only communication referring to clothing ever received from
+                    that Sub-District. No application for a supply has ever been made to me by
+                    either Mr Jackson or his predecessor. In regard to Rations: I have the honor to
+                    report that the office of the agent at Staunton was furnished with a copy of
+                    Circular No 32, from your <pb n="2"/>Head Quarters, series of 1866, but that no
+                    Estimate, as therein required, has been received at this office for that Sub
+                    District since the month of January last.</p>
+
+                <p>Mr Jackson has been directed to make application for such supplies of Food and
+                    clothing as are necessary to prevent suffering.</p>
+
+                <closer>
+                    <salute>Very respectfully, General<lb/>Your <abbr expan="Obedient">Obedt</abbr>
+                        <abbr expan="Servant">Servt</abbr></salute>
+                    <signed>John A. McDonnell<lb/><abbr expan="Captain, Veterans' Reserve Corps"
+                            >Capt V.R.C.</abbr><lb/><abbr expan="Sub Assistant Commissioner">Sub.
+                            Asst. Comr.</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

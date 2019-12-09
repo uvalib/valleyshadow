@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+
+<?dlps id="A6301"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A6301">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: David H. Evans to Mary Anna Sibert,
+                    May 12, 1868</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county david h evans to mary anna sibert, may 12 1868</title>
+        <author>Evans, David H.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Andre Fleche</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Andre Fleche</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A6301</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502488</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: David H. Evans to Mary Anna Sibert, May 12, 1868</title>
+            <title level="m"/>
+            <title type="sort">augusta county david h evans to mary anna sibert, may 12 1868</title>
+            <author>David H. Evans</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: David H. Evans to Mary Anna
+                            Sibert, May 12, 1868, Evans-Sibert Family Papers, Accession 27770,
+                            Virginia State Library and Archives, Richmond, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Virginia State Library and Archives, Richmond, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1868-05-12">1868-05-12</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Family, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A6301T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Evans admits his behavior has caused Sibert pain in the past but reaffirms his
+                    love for her. He also discusses family news and future trip plans.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1868-05-12">May 12 1868</date>
+                        <name type="place">Staunton</name>
+                    </dateline>
+                    <salute>My dear Mollie</salute>
+                </opener>
+
+                <p>Your dear &amp; welcome letter of the 7th came safely to hand I was truly
+                    glad to <orig reg="hear">here</orig> of your good health Ham Ella &amp;
+                        <orig reg="family">familey</orig> left us Yesterday I hope they reached home
+                    safely I was truly glad they had Such fine <orig reg="weather">wether</orig> for
+                    traveling. Tell Ella I will take good care of her dear Magnus while she is
+                    absent. Magnus &amp; <orig reg="myself">my self</orig> will be down next
+                    Saturday if we live you need not look for us <orig reg="before">be fore</orig>
+                    Dark for it will be <orig reg="impossible">Imposible</orig> for me <pb n="2"/>
+                    to get <orig reg="away">a way</orig>
+                    <orig reg="before">be fore</orig> late in the Evening I wish I could <orig
+                        reg="start">Starte</orig> early in the Morning so I could Spend Some time
+                    with you as it is I will not have long to to Stay No you have never as yet gave
+                    me pain in any way whatever nor have I ever doubted for one moment your Sincere
+                    love for me. I know that I have <orig reg="been">bin</orig> the cause of making
+                    your heart Sad on more <orig reg="than">then</orig> one occasion &amp; have
+                    made you <orig reg="doubt">dut</orig> my love. it is true I have <orig
+                        reg="been">bin</orig> cold &amp; Silent when with you. I have <orig
+                        reg="no doubt">Nodout</orig> given you just cause for <orig reg="doubting"
+                        >douting</orig> my love the old Saying is that action Speaks <orig
+                        reg="louder">lowder</orig>
+                    <pb n="3"/>
+                    <orig reg="than">then</orig> words but it is not so in my case for I love you
+                    &amp; I never have ceased to love you for one moment let the past go
+                    &amp; in the future I hope &amp; pray that I may never be the cause of
+                    given you trouble or Sorrow in this life or cast the Shadow of one Cloud over
+                    your dear face. I love you deeply truly &amp; devotedly I would like you to
+                    read my heart &amp; see in truth I love you with unchanging devotion of Soul
+                    give my love to your Ma &amp; Pa love to all I Send love &amp; a loving
+                    Kiss to to you I love you more &amp; more <orig reg="every">ever</orig> day
+                    my life God bless Excuse this it was written in Haste</p>
+
+                <closer>
+                    <salute>Yours</salute>
+                    <signed>D H Evans</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+
+<?dlps id="A1423"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A1423">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: John N. Hite to Unknown, May 30, 1864</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta john n hite to unknown, may 30 1864</title>
+        <author>Hite, John N.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Kid W.</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Kid W.</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca.<num type="kilobytes">7</num> kilobytes </extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A1423</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501962</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: John N. Hite to Unknown, May 30, 1864</title>
+            <title level="m"/>
+            <title type="sort">augusta john n hite to unknown, may 30 1864</title>
+            <author>John N. Hite</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Eleanor S. Brockenbrough Library,
+                            The Museum of the Confederacy, Richmond, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Museum of the Confederacy, Richmond Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1864-05-30">1864-05-30</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Family, Prisons/Prisoners</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2005">Summer 2005</date>
+                <respStmt>
+                    <resp/>
+                    <name>Doug O'Reagan</name>
+                </respStmt>
+                <item>Proofread.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A1423T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Hite writes to a cousin, reporting his health and news from home. He requests
+                    monetary aid from his cousin.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1864-05-30">May 30<hi rend="underline">
+                                <hi rend="super">th</hi>
+                        </hi> 1864</date>
+                        <name type="place"><orig reg="Prisoners'">Prisoners</orig> Camp <orig
+                            reg="Point Lookout">Pointlookout</orig>
+                            <abbr expan="Maryland">M<hi rend="underline">
+                                <hi rend="super">d</hi>
+                            </hi></abbr></name>
+                    </dateline>
+                    <salute>Dear Cousin</salute>
+                </opener>
+
+                <p>I take this opportunity to write to you a few lines You let you know that I am in
+                        <orig reg="tolerable">tolerbly</orig> health at this time and hope that
+                    those few lines may find you all enjoying good health all the folks at home were
+                    well the last I <orig reg="heard">herd</orig> of your fathers family was all
+                    well the last time I <orig reg="heard">herd</orig> from home It has <orig
+                        reg="been">bin</orig> a long time since I have <orig reg="heard">herd</orig>
+                    from you I would be very glad to hear from you and you may have a very good idea
+                    of my situation at this time and would be very much benefited by you if you be
+                    so kind as to send me some money as I am in want of some assistance at the <orig
+                        reg="present">preasant</orig> time and shall be more than obliged to you I
+                    will have to close this as I have not room to write you more. <orig reg="Please"
+                        >pleas</orig> write to me soon and direct to me prisoner of war com-I. 10
+                        <hi rend="super">
+                        <hi rend="underline">th</hi>
+                    </hi> division <orig reg="Point Lookout">point lookout</orig> Maryland. In care
+                    of Major Weymoth.</p>
+
+                <closer>
+                    <salute>Yours most truly</salute>
+                    <signed>John N. Hite</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

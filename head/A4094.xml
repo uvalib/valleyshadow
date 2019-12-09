@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+
+<?dlps id="A4094"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A4094">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Jedediah Hotchkiss to Sara A. Hotchkiss,
+     September 3, 1864</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county jedediah hotchkiss to sara a hotchkiss, september 3 1864</title>
+        <author>Hotchkiss, Jedediah</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Lara Diefenderfer</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Rider</name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A4094</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:502289</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Jedediah Hotchkiss to Sara A. Hotchkiss, September 3, 1864</title>
+            <title level="m"/>
+            <title type="sort">augusta county jedediah hotchkiss to sara a hotchkiss, september 3 1864</title>
+            <author>Jedediah Hotchkiss</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>4 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Jedediah Hotchkiss Collection, Reel 4, Manuscripts
+       Division, Library of Congress, Washington, D. C.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Congress, Washington, D. C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1864-09-03">1864-09-03</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Home Front, Troop Movement, Military Strategy, Military Authority, National Government,
+      Battle Description, Camp Life, Agriculture</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A4094T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Hotchkiss relates to his wife the latest troop movements and skirmishes. He also discusses
+     the coming presidential election in the North, particularly the McClellan ticket and its
+     implications for peace.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Sara A. Hotchkiss</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1864-09-03">Sept. 3<hi rend="underline"> <hi rend="super">rd</hi> </hi> 1864 --</date>
+      <name type="place"><abbr expan="Head Quarters Valley District">Hd. Qrs. V. D.</abbr> Stephenson's Depot</name>
+     </dateline>
+     <salute>My Dear Sara:</salute>
+    </opener>
+
+    <p>Yours of the 27<hi rend="underline">
+      <hi rend="super">th</hi>
+     </hi> came to hand in two days -- the first <hi rend="underline">late</hi> news I have had from
+     you in a long time -- so you know it must have been very welcome -- the more so that it
+     contained good news -- that is news of your good health &amp; spiritis &amp;amp; the
+     good rains &amp;amp; prospects of something to eat &amp;c. We are constantly moving
+     about, as usual; yesterday we moved from Bunker's Hill towards Charlestown, intending to attack
+     the enemy, Averill found we were moving &amp; drove in our cavalry Vaughn's Brigade, which
+     offered but little resistance to him &amp; then ran away leaving some 14 wagons in his
+     hands &amp; compelling us to return from our movement to look after him -- we drove him
+     away &amp; recaptured some of the wagons -- We came back here for the night -- had a
+      very<pb n="2"/> long march -- Today we move again, back to Bunker's Hill &amp; then after
+     the Yankees again. It is said part of the Yankee troops have gone to City Point -- if so we
+     shall give them a staggering blow -- We cannot rely upon our cavalry to hold points &amp;
+     that makes it very difficult for us to move rapidly as we have to guard our trains constantly
+     We learn by the late papers that McClellan &amp; Pendleton are the nominees of the Chicago
+     Convention -- I have not seen the Platform -- but think it must be a peace one -- Pendleton is
+     a southern man in principle &amp; it is thought he will be for peace -- everything
+     indicates a strong peace movement in the North &amp; they may succeed in electing their
+     candidates The nights are getting quite cold, but the days are very pleasant. I will write to
+     Mr. Geeding about the horse -- should like to know what he will <pb n="3"/>give -- he knows
+     what horses sell for now -- Ask him?</p>
+    <p>Sept. 5<hi rend="underline">
+      <hi rend="super">th</hi>
+     </hi> -- I did not finish my letter before we were started off to join Gen. Anderson who had
+     gon to Berryville &amp; there met &amp; defeated the advance of the Yankees towards
+     Winchester -- whipping a corps with a division -- We went down to aid him &amp; found the
+     Yanks had entrenched themselves strongly so we did not attack them, but the defeat Anderson
+     gave them caused their cavalry to come back from a raid they had started way up the Valley, so
+     our object was accomplished -- Yesterday we came back to <orig reg="Stephenson's"
+     >Stephensons</orig> where we now are, in time to join our Cavalry in a fight they were having
+     with Averill &amp; we drove him back several miles, until dark stopped the pursuit -- One
+     of Alfred Wilson's sons was wounded in the fight, not <orig reg="severely">severly</orig>
+     though -- we had several of the Cavalry killed &amp; wounded -- They behaved well <pb n="4"
+     />It rained very hard last night &amp; today it is very moist -- We are being smoked by
+     camp fires &amp; lounging round to pass the day -- I think the rain will do much good --
+     making the ground fit for plowing. I suppose McClellan will be elected as nearly all the Army
+     of the Potomac goes for him -- Pendleton, the nominee for Vice Pres., is a man with strong
+     Southern feelings &amp; a peace man, it is said -- Evidently the Peace &amp; War men
+     have made a compromise matter of the nominations &amp; will all be for peace if the signs
+     of the times are as much in our favor as they are now. We are very well assured of the fall of
+     Atlanta, since the Yanks have official <orig reg="dispatches">despatches</orig> announcing it,
+     but we are full of hope that even good may come from temporary ill &amp; that Hood has not
+     given up the place but for good &amp; sufficient reasons -- I am in excellent health --
+     Hope to hear from you today again -- it seems a long time between your letters - Love to the
+     children &amp; blessings for you from our Merciful Heavenly Father -- Write often My Sweet
+     one -- </p>
+
+    <closer>
+     <salute>Your <abbr expan="Affectionate">Aff.</abbr> husband</salute>
+     <signed>Jed. Hotchkiss</signed>
+     <seg type="postscript">P.S. I send you, by mail, the May Iss. of Harper's Magazine --</seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

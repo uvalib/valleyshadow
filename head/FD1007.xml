@@ -1,0 +1,429 @@
+<?xml version="1.0"?>
+
+<?dlps id="FD1007"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+ 
+<TEI.2 id="FD1007">  
+<teiHeader type="migrated">  
+ 
+    <fileDesc>  
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Diary of Samuel Cormany (1863)</title>
+        <title type="sort">franklin county diary of samuel cormany 1863</title>
+        <author>Cormany, Samuel</author>
+        <editor/>
+        <respStmt>  
+          <resp>Creation of machine-readable version: </resp>  
+          <name>Valley Staff</name>  
+          <resp>Conversion to TEI.2-conformant markup:</resp>  
+          <name>Amy Murrell</name>  
+        </respStmt>
+      </titleStmt>  
+ 
+      <extent>
+        <num type="kilobytes"> 17 kilobytes</num>
+      </extent>  
+      <publicationStmt>  
+        <publisher>Virginia Center for Digital History</publisher>  
+        <pubPlace>Charlottesville, Virginia </pubPlace>  
+ 
+        <idno type="VCDH">FD1007</idno>  
+ 
+        <!--
+<availability>  
+<p>Publicly accessible </p>  
+<p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>  
+<p>copyright 1998, by the Rector and Visitors of the University of Virginia</p>  
+</availability>
+-->  
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1998 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1998">1998</date>  
+        <idno type="uva-pid">uva-lib:500348</idno>
+      </publicationStmt>  
+      <seriesStmt>
+        <p>Valley of the Shadow:  Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>  
+      <notesStmt>
+        <note/>
+      </notesStmt>   
+ 
+      <sourceDesc>   
+        <biblFull>  
+          <titleStmt>
+            <title>Samuel Cormany Diary</title>
+            <title level="m"/>
+            <title type="sort">samuel cormany diary</title>
+            <author>Samuel Cormany</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>  
+          <editionStmt>
+            <p/>
+          </editionStmt>  
+          <extent>5 pages</extent>  
+          <publicationStmt>  
+            <publisher/>  
+            <pubPlace/>  
+            <date value=""/>  
+            <idno type="callNo">Source copy consulted: James C. Mohr, editor, and Robert E. Winslow III, assistant editor, The Cormany Diaries: A Northern Family in the Civil War (Pittsburgh: University of Pittsburgh Press, 1982)</idno>  
+          </publicationStmt>  
+          <seriesStmt>
+            <p>Valley of the Shadow:  Two Communities in the American Civil War</p>
+          </seriesStmt>  
+          <notesStmt>
+            <note/>
+          </notesStmt>  
+        </biblFull>  
+      </sourceDesc>  
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Published Source</p>
+      </projectDesc>
+    </encodingDesc>  
+ 
+    <profileDesc>  
+      <creation>
+        <dateRange from="1863-06-30" to="1863-07-06">1863-06-30 - 1863-07-06</dateRange>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>  
+      <textClass>  
+        <keywords>  
+          <term>
+Battle Description, Death/Casualties, Family, 
+Home front, Patriotism, Troop Movement, Women
+</term>  
+          <term>American Civil War</term>
+        </keywords>  
+      </textClass>  
+    </profileDesc>  
+ 
+    <revisionDesc>  
+      <change>  
+        <date value="2003-03">March 2003</date>
+        <respStmt>
+          <resp/>
+          <name>Susanna Michele Lee</name>
+        </respStmt>  
+        <item>Proofread for typographical errors; corrections made.</item>  
+      </change>  
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>  
+  </teiHeader>  
+ 
+<text id="FD1007T"> 
+ 
+<front id="d2"> 
+<div1 id="FD1007bio" type="bio"> 
+<head>Biography
+<!-- <ref>FD1007bio</ref> -->
+</head> 
+<p>Samuel Cormany enlisted in the Union Army not long after moving to Chambersburg from Canada with his wife, Rachel.  His diary provides a graphic account of a soldier's participation in the battle of Gettysburg.  Samuel survived the war, and afterwards he and his wife moved to Missouri to live on a farm.</p> 
+</div1> 
+</front> 
+ 
+<body id="d4"> 
+
+ 
+<div1 id="FD10071863" type="part" n="1863"> 
+<head>1863
+<!-- <ref>FD10071863</ref> -->
+</head> 
+ 
+<div2 type="section" n="1863-06" id="d6"> 
+<head>June 1863
+ <!-- <ref>Patriotism, Women, Troop Movement</ref> --> 
+</head> 
+ 
+<div3 type="entry" n="1863-06-30" id="d7"> 
+<head>June 30, 1863</head> 
+<p>Tuesday. We moved out early to within a few miles of Westminster
+and drew up in line for battle--our advance moved on--and the <abbr
+expan="Regiment">Reg't</abbr> supported--met little resistance in
+taking the City--Took 8 prisoners.</p> 
+ 
+<p>The Regiment halted close to the City--We got some eatables-- The
+people were ecstatic to see our troops driving out and following up
+the "Johnies." They did all in their power for us--The <abbr
+expan="Rebels">Rebs</abbr> had acted awful meanly--Took everything
+like hats, boots, shoes, clothing &amp;c--The streets and fence
+corners were strewn with their discarded old ones. Some of them, yes
+many, were almost able to join in the march, being so full of
+lice<ref n="1" target="scormany1">[1]</ref>--Soon we were called on to
+muster for pay--still near town--and at noon took up the march
+Manchester--I never saw more cherries, ripe and ripening, and better
+crops then are to be seen hereabouts--<abbr
+expan="Lieutenant">Lieut</abbr> Barnes &amp; I got a fine supper at
+Mr. Bingamins--Fine ladies about. Exultant on our arrival, and almost
+worshipped us as their protectors- i.e., our soldiers--For the night
+we picketed and laid ready--I stood Post two hours--</p> 
+</div3> 
+</div2> 
+ 
+<div2 type="section" n="1863-07" id="d8"> 
+<head>July 1863
+<!-- <ref>Battle Description, Death/Casualties, Home front,
+Family</ref> --> 
+</head> 
+ 
+<div3 type="entry" n="1863-07-01" id="d9"> 
+<head>July 1, 1863</head> 
+<p>Wednesday. I had a fine chicken breakfast--and a feast of other
+good things. Took up march for Hanover. Very fine rich country--and
+such fine water--Settlers are Old Style People. Many <orig
+reg="Dunkers">Dunkerds</orig>. We were given any amount to eat all
+along the way--The <abbr expan="Rebels">Rebs</abbr> who had passed
+this way acted very meanly--All around--demanding setters to pay
+money to exempt horses from  being taken and barns and houses from
+being burned--One old  man said he paid $100 to exempt 2 horses--
+another paid $23 to save  his horse--Still another--$100 to save his
+barn. We found this hideous thing to be quite common<ref n="2"
+target="scormany2">[2]</ref>--We struck Hanover at dark. Found N.C.
+R. R. badly torn up<ref n="3" target="scormany3">[3]</ref>--During the
+day we heard heavy <orig reg="cannonading">canonading</orig>--and
+later musketry firing--in the direction of Gettysburg. Rumor was,
+"Theres a Battle on at Gettysburg" and was not hard to believe--Some
+of our Cavalry had fought desperately here today, early--Charging
+into the enemy's rear and flanks-- Killed some 30 <abbr
+expan="rebels">rebs</abbr> and hustled large forces on their way. So
+they had to abandon their dead and some of their wounded<ref n="4"
+target="scormany4">[4]</ref>--We lay on arms in a field for the
+night--we were well fed, but awfully tired and sleepy--A shower of
+rain failed to awaken me--I was lying in a furrow, an old furrow. I
+partially awakened in the night feeling coolish on my lower side--but
+didn't fully awake. In the morning I discovered that water had run
+down the furrow--and I had "dam'd" it somewhat and so was pretty wet
+from below, while my poncho had kept me dry from the top--</p> 
+</div3> 
+ 
+<div3 type="entry" n="1863-07-02" id="d10"> 
+<head>July 2, 1863</head> 
+<p>Thursday. More or less Picket firing all night--We were aroused
+early, and inspection showed a lot of our horses too lame and used up
+for good action--So first, our good mounts were formed for moving
+out, and were soon off--with the Brigade and took <abbr
+expan="Rebel">Reb.</abbr> <abbr expan="General">Genl.</abbr> <orig
+reg="Stuart">Steward</orig> by surprise on the Deardorf Farm--on
+right and rear of the army line--where <orig
+reg="Stuart">Steward</orig> was expected to at least annoy the rear
+of <abbr expan="General">Genl</abbr> <orig reg="Meade">Mead</orig>--
+But our boys charged him--and after severe fighting dealt him an
+inglorious defeat and later in the day came in and lay on arms in the
+rear of <orig reg="Meades">Meads</orig> right--While our mounted men
+were paying attention to <abbr expan="General">Genl</abbr> <orig
+reg="Stuart">Steward</orig>, we fellows had our horses cared for and
+were marched down to the right of the main line--to occupy a gap and
+do Sharpshooting--at long range, with our Carbines--we soon attracted
+attention, and later an occasional shell fell conspicuously close--
+but far enough to the rear of us so we suffered no serious harm.
+Towards noon firing became more general and in almost all directions-
+-and we were ordered to our horses--and joined our returned heroes,
+and lay in readiness for any emergency--The general battle <orig
+reg="increased">increaced</orig> in energy--and occasional
+fierceness--and by 2 P.M. the <orig
+reg="cannonading">canonading</orig> was most terrific and continued
+til 5 P.M. and was interspersed with musketry--and Charge--yells and
+everything that goes to making up the indescribable battle of the
+best men on Earth, seemingly in the Fight to the Finish--At dark, our
+<abbr expan="Cavalry Brigade">Cav Brig</abbr>--2nd <abbr
+expan="Brigade">Brig</abbr> 2" <abbr expan="Division">Div</abbr>--was
+moved to the left--many wounded came in--Taken as a whole from all
+one can see from one point--it seems as <abbr
+expan="though">tho</abbr> our men--The Union Army--is rather
+overpowered and worsted<ref n="5" target="scormany5">[5]</ref>--Lay on
+arms to rest-- Little chance to feed and eat.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1863-07-03" id="d11"> 
+<head>July 3,1863</head> 
+<p>Friday. <orig reg="Cannonading">Canonading</orig> commenced early-
+-and battle was on again in full intensity at 10 <abbr
+expan="o'clock">ock</abbr> we were ordered to the Front and Center,
+but immediately removed to the right of the Center--had some
+skirmishing. Pretty lively--Our squadron almost ran into a Rebel
+Battery with a Brigade of Cavalry maneuvering in the woods. They
+didn't want to see us, but moved left-ward and we held the woods all
+P-M.--All seemed rather quiet for several hours--From 1 1/2 til 4
+P.M- there was the heaviest <orig reg="cannonading">canonading</orig>
+I ever have heard--One constant roar with rising and falling
+inflections<ref n="6" target="scormany6">[6]</ref>--</p>
+
+<p>Our Boys opened 54 guns at the same  time on the Rebel lines and
+works from a little conical hill, <orig
+reg="Cemetery">Cemetary</orig> Ridge. We were picketing in the rear
+and on the right of it--Many shells came our way--some really quite
+near--But it is wonderful how few really made our acquaintance.</p>  
+</div3> 
+ 
+<div3 type="entry" n="1863-07-04" id="d12"> 
+<head>July 4, 1863</head> 
+<p> Saturday. The great battle closed and quieted with the closing
+day--Some firing at various points--</p> 
+ 
+<p>Our <abbr expan="Regiment">Regt</abbr> layed on arms with Pickets
+out--on the ground where we had put in most of the day--Rather
+expecting attack momentarily--Rained furiously during the night--We
+had fed, eaten, and were standing "to horse" when about 6 <abbr
+expan="o'clock">ock</abbr> NEWS CAME--"The <abbr
+expan="Rebels">Rebs</abbr> are falling back!" and "Our Forces are
+following them" and our <abbr expan="Regiment">Regt</abbr> went out
+towards Hunterstown reconnoitering. We found some confederates who
+had straggled, or were foraging, not knowing yet what had happened
+and was taking place--Of course, our Boys took them in--Making a
+little detour I captured two. <abbr expan="Sergeant">Sergt.</abbr>
+Major J. T. Richardson and Private Cox 9th <abbr expan="Virginia
+Cavalry">Va Cav</abbr>--disarming them and bringing them in--I
+guarded them--while the <abbr expan="Regiment">Regt</abbr> gathered
+in some others--P.M. Captain Hughes came along and paroled them--and
+we were ordered to camp near Hanover--where we first lay on arriving
+near Gettysburg-- Evening awfully muddy and disagreeable--I saw much
+of the destructiveness of the Johnies today--</p> 
+</div3> 
+ 
+<div3 type="entry" n="1863-07-05" id="d13"> 
+<head>July 5, 1863</head> 
+<p> Sunday. Rained awfully during the night. I got very wet--</p> 
+ 
+<p> Early we took up the march for Chambersburg<ref n="7"
+target="scormany7">[7]</ref>--Crossing the battlefield--<orig
+reg="Cemetery">Cemitary</orig> Hill--The Great Wheat Field Farm,
+Seminary ridge--and other places where dead men, horses, smashed
+artillery, were strewn in utter confusion, the Blue and The Grey
+mixed--Their bodies so bloated--distorted--discolored on account of
+decomposition having set in--that they were utterly unrecognizable,
+save by clothing, or things in their pockets--The scene simply
+beggars description--Reaching the west side of the Field of Carnage--
+we virtually charged most of the way for 10 miles--to Cashtown--
+Frequently in sight of the Rebel rear guard--taking in prisoners--in
+bunches--We captured some 1,500 wounded men, and 300 stragglers--we
+went as far as Goodyears Springs, where we rested <unclear></unclear>
+for the night. (I had to guard a <abbr expan="Rebel">Reb</abbr> all
+night.)</p> 
+</div3> 
+   
+<div3 type="entry" n="1863-07-06" id="d14"> 
+<head>July 6, 1863</head> 
+<p>Monday. Had a good breakfast. Turned my prisoner over to others We
+took up the march--via Fayeteville for Quincy-- I told <abbr
+expan="Corporal">Corp.</abbr> Metz I intended going on--To
+Chambersburg--To see wife and Baby--and would report in the morning
+again. He understood and I slipped away--and was soon making time for
+home--I got a fine "10 oclock piece" at Heintzelmans--on approaching
+Chambersburg I was assured there were still squads of <abbr
+expan="rebels">rebs</abbr> about town--Near town I was met by town
+folk inquiring about the battle. I was the first "blue coat" they had
+seen--and the first to bring direct news of the Enemy's defeat--as
+communications had been cut. As I struck the edge of town, I was told
+"The Rebel rear-guard had just left the Diamond." So I ventured out
+2nd Street and ventured to strike Main near where Darling and Pussy
+lodged--and behold They were at the door--had been watching the <abbr
+expan="Rebel">Reb</abbr> Rear leaving town--and Oh! The surprise and
+delight thus to meet after the awful battle they had been listening
+to for passing days--My horse was very soon stabled. My Cavalry
+outfit covered with hay--and myself in my <orig
+reg="citizens">citazens</orig> clothes--So should any final "rear"
+come along, I would not be discovered--To attempt to describe my joy
+and feelings at meeting and greeting my dear little family must prove
+a failure--We spent the P.M and evening very sweetly and pleasantly,
+but only we had a few too many inquiring callers.</p> 
+</div3> 
+</div2> 
+</div1> 
+ 
+</body> 
+ 
+<back id="d15"> 
+<div1 id="FD1007notes" type="notes"> 
+<head>Notes
+<!-- <ref>FD1007note</ref> -->
+</head> 
+
+<note n="1" place="end" id="scormany1"><seg type="note-symbol">{1}</seg><p> Many sources agree that the people of
+Maryland and Pennsylvania were repelled by the appearance of the
+ragged, unkempt, and poorly supplied Confederates.</p></note> 
+ 
+<note n="2" place="end" id="scormany2"><seg type="note-symbol">{2}</seg><p> See Rachel's diary for numerous
+references to this same practice in and around
+Chambersburg.</p></note> 
+ 
+<note n="3" place="end" id="scormany3"><seg type="note-symbol">{3}</seg><p> The Northern Central Railroad, which ran
+north from Baltimore to York, Pa., included a spur line through
+Hanover to Gettysburg.</p></note> 
+ 
+<note n="4" place="end" id="scormany4"><seg type="note-symbol">{4}</seg><p> Stuart's main cavalry force had made a
+long loop below, around, and now almost back through the Union army.
+Just as he was about to reunite with the main Confederate army, Union
+cavalry under Brig. Gen. Judson Kilpatrick engaged his troops and
+forced them to make another long circular detour, during which they
+were again attacked, and Stuart himself was nearly captured. This
+forced Lee to suffer a last critical day without the bulk of his
+cavalry.</p></note> 
+ 
+<note n="5" place="end" id="scormany5"><seg type="note-symbol">{5}</seg><p> Cormany fought most of the second day at
+Gettysburg beside infantry forces on the right wing of the Union
+position. Two Confederate brigades had temporarily reached the top of
+Cemetery Hill, and Southern troops were entrenched for renewed attack
+at the base of Culp's Hill. The Confederates very nearly turned the
+Union right flank, but Confederate commanders, deprived of cavalry
+reconnaissance never fully realized how much they had weakened the
+Union line in Cormany's area. Consequently, though battered, even
+beaten, Union defenders remained at the end of the day basically
+where their commanders had placed them. Glenn Tucker, <hi
+rend="italic">High Tide at Gettysburg: The Campaign in
+Pennsylvania</hi> (Indianapolis, 1958), pp. 282-306. Samuel's name
+appears on the Pennsylvania monument at Gettysburg.</p></note> 
+ 
+<note n="6" place="end" id="scormany6"><seg type="note-symbol">{6}</seg><p> The Battle of Gettysburg reached a climax
+on July 3, when a Confederate effort to break the center of the Union
+line failed disastrously. That effort, which featured the massive
+infantry offensive known as Pickett's Charge, began with what still
+remains the largest artillery duel ever waged in North America. The
+sound of that duel, reverberating through the valleys of south
+central Pennsylvania and northern Maryland and back and forth among
+layered air inversions, was said to have been audible 140 miles away.
+Jack McLaughlin, <hi rend="italic">Gettysburg: The Long
+Encampment</hi> (New York, 1963), p. 136. Later, Union field
+gunners played a crucial role in repelling the infantry offensive and
+inflicted heavy casualties on the retreating Confederates after their
+attack had been turned.</p></note> 
+ 
+<note n="7" place="end" id="scormany7"><seg type="note-symbol">{7}</seg><p> When Lee decided to retreat, he divided
+his forces into two main columns. The first headed west through
+Cashtown, Greenwood, and Fayetteville to Chambersburg, where they
+would turn south down the Cumberland Valley. The other proceeded
+directly southwest from Gettysburg toward Hagerstown. The 16th
+Pennsylvania pursued the first of those columns in the direction of
+their own home town. </p></note> 
+
+</div1> 
+</back> 
+</text> 
+</TEI.2>

@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+
+<?dlps id="A3001"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A3001"> 
+<teiHeader type="migrated"> 
+
+    <fileDesc> 
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Samuel Franklin Carson to Annie Harris, August 6, xxxx</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county samuel franklin carson to annie harris, august 6 xxxx</title>
+        <author>Carson, Samuel Franklin</author>
+        <editor/>
+        <respStmt> 
+          <resp>Creation of machine-readable version: </resp> 
+          <name>Doug O'Reagan</name> 
+          <resp>Conversion to TEI.2-conformant markup:</resp> 
+          <name>Doug O'Reagan</name> 
+        </respStmt>
+      </titleStmt> 
+
+      <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+      <publicationStmt> 
+        <publisher>Virginia Center for Digital History</publisher> 
+        <pubPlace>Charlottesville, Virginia </pubPlace> 
+
+        <idno type="VCDH">A3001</idno> 
+
+        <!--
+<availability> 
+<p>Publicly accessible </p> 
+<p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p> 
+<p>Text and images (c) copyright 2002, by the Rector and Visitors of the University of Virginia</p> 
+</availability>
+--> 
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date> 
+        <idno type="uva-pid">uva-lib:502161</idno>
+      </publicationStmt> 
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt> 
+      <notesStmt>
+        <note/>
+      </notesStmt> 
+
+      <sourceDesc> 
+        <biblFull> 
+          <titleStmt>
+            <title>Augusta County: Samuel Franklin Carson to Annie Harris, August 6, xxxx</title>
+            <title level="m"/>
+            <title type="sort">augusta county samuel franklin carson to annie harris, august 6 xxxx</title>
+            <author>Samuel Franklin Carson</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt> 
+          <editionStmt>
+            <p/>
+          </editionStmt> 
+          <extent>2 pages</extent> 
+          <publicationStmt> 
+            <publisher/> 
+            <pubPlace/> 
+            <date value=""/> 
+            <idno type="callNo">Source copy consulted: Samuel Franklin Carson to Annie Harris, August 6, xxxx, Nellie Harris private collection</idno>
+          </publicationStmt> 
+          <seriesStmt>
+            <p/>
+          </seriesStmt> 
+          <notesStmt>
+            <note/>
+          </notesStmt> 
+        </biblFull> 
+      </sourceDesc> 
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from private collection</p>
+      </projectDesc>
+    </encodingDesc> 
+
+    <profileDesc> 
+      <creation>
+        <date value="-08-06">08-06</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage> 
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass> 
+        <keywords> 
+          <term>Camp Life, Death/Casualties, Military Authority</term> 
+          <term>American Civil War</term>
+        </keywords> 
+      </textClass> 
+    </profileDesc> 
+
+    <revisionDesc> 
+      <change> 
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt> 
+        <item/> 
+      </change> 
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc> 
+  </teiHeader> 
+
+<text id="A3001T">
+<front id="d2">
+<div1 type="summary" id="d3">
+<p>Frank (Samuel Franklin Carson) writes to his lady friend Annie in response to her recent letter accusing him of having forgotten her because he so rarely writes. He remarks that paper is scarce but camp conditions are good, including the men's health. He laments that he has heard that his family's health at home is much worse.</p> 
+</div1> 
+</front> 
+
+<body id="d4">
+<div1 type="letter" id="d5">
+<opener>
+<dateline>
+<date value="-08-06">August 6th</date> 
+    <name type="place">Camp near Centresville</name> 
+</dateline> 
+<salute>My dear Annie,</salute> 
+</opener> 
+
+<p>I have just finished reading your welcome &amp; highly esteemed letter, which believe me was a source of much pleasure in me. You said in yours that you had come to the conclusion that I had forgotten you from the fact that you had not received a letter for so long from me. Now I must say in all candor that this is exactly my notion about you. for I full confident that you were due me two letters at least. But I shall not fall out with you about that. As you may not have gotten them. Well I must tell you we have had some very hard times since our battle, in the way of living some times entirely out of meat &amp; bread &amp; laying in an old field where the sun was hot enough to cook an egg &amp; nothing but muddy creek water to drink half the time. But I am happy to say that we are <orig reg="faring">fareing</orig> much better now. We are in a nice grove &amp; have very good water yet we have to go almost a half mile for it but that is nothing to what it is sometime.<pb n="2"/>Well I must give you all the news I can on this half sheet as paper is very scarce. We are now about 9 miles from the junction toward Halifax Courthouse - how long we will be permitted to stay I am unable to say <hi rend="underline">n</hi>ow. I have no idea of where our next move will be to, <unclear>unless</unclear> it be to Washington, however it does not become <add hand="h1" place="inline">me</add> to say anything that <del hand="h1">might</del>I don't know. One think I feel very confident of &amp; that is that I dont think we will have another attack at this point soon. I must hasten on as I <add hand="h1" place="inline">have</add> <del rend="none" hand="h1"/> other letters to answer this evening. One to your Cousins Annie &amp; Hannah &amp; one to Cousin Hollie &amp; Sallie Harris. So you see I'll be Right busy. But one thing is <add hand="h1" place="inline">in</add> my favor. I haven't but one &amp; half sheet to write on &amp; it wont take long to do that. I dont know what we will do now. we cant get any thing of the kind here at all. I hope you will not <unclear>quit</unclear> if you should not get an answer to your next. I will <unclear>certainly</unclear> write every opportunity <del rend="none" hand="h1"/>. <del rend="none" hand="h1"/> before one with a great long fall on waiting to your Cousin Annie. he looks so sour that sugar would hardly melt in his mouth. Enough of that. John &amp; Sam Thompson are both well. The health of our boys is pretty good, with the exception of two or three cases <del rend="none" hand="h1"/> of fever, one of measles &amp; 1 mumps, none dangerous however. I had thought of getting a furlough this week, but they have shut right down on giving them however I hope it will not be long till I can get one.</p>
+
+<closer>
+<salute>Yours devotedly, in haste</salute> 
+<signed>Frank</signed> 
+<seg type="postscript">
+P.S. Please don't show this miserably written thing to <hi rend="underline">any one</hi>.</seg>  
+</closer> 
+</div1> 
+</body> 
+</text> 
+</TEI.2>

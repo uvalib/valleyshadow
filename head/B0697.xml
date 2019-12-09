@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+
+<?dlps id="B0697"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B0697">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: Roswell Waldo to John
+                    Bell, November 2, 1868</title>
+        <title type="sort">freedmens bureau records roswell waldo to john bell, november 2 1868</title>
+        <author>Waldo, Roswell</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Kid W.</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Kid W.</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B0697</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500831</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: Roswell Waldo to John Bell, November 2,
+                            1868</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records roswell waldo to john bell, november 2 1868</title>
+            <author>Roswell Waldo</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Bureau of Refugees, Freedmen, and
+                            Abandoned Lands, Record Group 105, Box E4265.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1868-11-03">1868-11-03</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Property</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2005-10">October 2005</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Item proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B0697T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Bell is asked to state what he knows about a dispute between Nicholas Cozzens and
+                    Frederick Cary regarding Cozzen's occupation of a piece of land owned by
+                Bell.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau <abbr expan="Refugees, Freedmen and Abandoned Lands">RF and AL</abbr> 4th
+                    <abbr expan="Division">Div</abbr> 9 <abbr expan="Sub-District">Sub
+                        Dist</abbr>
+                    <name type="recipient"><abbr expan="John">Jno</abbr>Bell <abbr expan="Esquire"
+                            >Esq</abbr><lb/>Waynesboro <abbr expan="Virginia">Va</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1868-11-03"><abbr expan="November">Nov</abbr> 3 1868</date>
+                        <name type="place">Staunton, <abbr expan="Virginia">Va</abbr></name>
+                    </dateline>
+                    <salute>Sir - </salute>
+                </opener>
+
+                <p>Nicholas Cozzens (colored) who has possession of 1<hi rend="super">1/2</hi> acres
+                    of land with loghouse thereon adjoining your property near Waynesboro, Complains
+                    to this office that while one <abbr expan="Frederick">Fred<hi rend="super"
+                        >k</hi></abbr> Cary agreed to allow him (Cozzens) to live on said property
+                    during his life time on the consideration that the cleaning up of the same
+                    should be considered sufficient <unclear>remuneration</unclear> for much of the
+                    same, the said <abbr expan="Frederick">Fred<hi rend="super">k</hi></abbr> Cary
+                    now charges Cozzens $36<hi rend="super">
+                        <hi rend="underline">00</hi>
+                    </hi> for one years rent of said property in direct violation of his contract
+                        <unclear>&amp; further</unclear> threatens executions against him
+                    (Cozzens) unless it be paid. Cozzens further states that you claim to be the
+                    rightful owner of the property on which he lives. - You are therefore
+                    respectfully requested to file in this office without unnecessary delay, your
+                    statement of the matter <unclear>setting</unclear> forth the Cause on which you
+                    base your <del rend="none" hand="h1"/></p>
+
+                <closer>
+                    <salute>Very respectfully</salute>
+                    <signed>Roswell Waldo <abbr expan="Assistant Sub Assistant Commissioner">ASA
+                            Comr</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

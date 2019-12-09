@@ -1,0 +1,3067 @@
+<?xml version="1.0"?>
+
+<?dlps id="EmeDiar"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+  
+<!ENTITY EmeDiar1 SYSTEM "uva-lib:503326" NDATA uvaHighRes>  
+<!ENTITY EmeDiar2 SYSTEM "uva-lib:503327" NDATA uvaHighRes>  
+<!ENTITY EmeDiar3 SYSTEM "uva-lib:503328" NDATA uvaHighRes>  
+<!ENTITY EmeDiar4 SYSTEM "uva-lib:503329" NDATA uvaHighRes>  
+<!ENTITY EmeDiar5 SYSTEM "uva-lib:503330" NDATA uvaHighRes>  
+<!ENTITY EmeDiar6 SYSTEM "uva-lib:503331" NDATA uvaHighRes>  
+<!ENTITY EmeDiar7 SYSTEM "uva-lib:503332" NDATA uvaHighRes>  
+<!ENTITY EmeDiar8 SYSTEM "uva-lib:503333" NDATA uvaHighRes>  
+<!ENTITY EmeDiar9 SYSTEM "uva-lib:503334" NDATA uvaHighRes>  
+<!ENTITY EmeDiar10 SYSTEM "uva-lib:503335" NDATA uvaHighRes>  
+<!ENTITY EmeDiar11 SYSTEM "uva-lib:503336" NDATA uvaHighRes>  
+<!ENTITY EmeDiar12 SYSTEM "uva-lib:503337" NDATA uvaHighRes>  
+<!ENTITY EmeDiar13 SYSTEM "uva-lib:503338" NDATA uvaHighRes>  
+<!ENTITY EmeDiar14 SYSTEM "uva-lib:503339" NDATA uvaHighRes>  
+<!ENTITY EmeDiar15 SYSTEM "uva-lib:503340" NDATA uvaHighRes>  
+<!ENTITY EmeDiar16 SYSTEM "uva-lib:503341" NDATA uvaHighRes>  
+<!ENTITY EmeDiar17 SYSTEM "uva-lib:503342" NDATA uvaHighRes>  
+<!ENTITY EmeDiar18 SYSTEM "uva-lib:503343" NDATA uvaHighRes>  
+<!ENTITY EmeDiar19 SYSTEM "uva-lib:503344" NDATA uvaHighRes>  
+<!ENTITY EmeDiar20 SYSTEM "uva-lib:503345" NDATA uvaHighRes>  
+<!ENTITY EmeDiar21 SYSTEM "uva-lib:503346" NDATA uvaHighRes>  
+<!ENTITY EmeDiar22 SYSTEM "uva-lib:503347" NDATA uvaHighRes>  
+<!ENTITY EmeDiar23 SYSTEM "uva-lib:503348" NDATA uvaHighRes>  
+<!ENTITY EmeDiar24 SYSTEM "uva-lib:503349" NDATA uvaHighRes>  
+<!ENTITY EmeDiar25 SYSTEM "uva-lib:503350" NDATA uvaHighRes>  
+<!ENTITY EmeDiar26 SYSTEM "uva-lib:503351" NDATA uvaHighRes>  
+<!ENTITY EmeDiar27 SYSTEM "uva-lib:503352" NDATA uvaHighRes>  
+<!ENTITY EmeDiar28 SYSTEM "uva-lib:503353" NDATA uvaHighRes>  
+<!ENTITY EmeDiar29 SYSTEM "uva-lib:503354" NDATA uvaHighRes>  
+<!ENTITY EmeDiar30 SYSTEM "uva-lib:503355" NDATA uvaHighRes>  
+<!ENTITY EmeDiar31 SYSTEM "uva-lib:503356" NDATA uvaHighRes>  
+<!ENTITY EmeDiar32 SYSTEM "uva-lib:503357" NDATA uvaHighRes>  
+<!ENTITY EmeDiar33 SYSTEM "uva-lib:503358" NDATA uvaHighRes>  
+<!ENTITY EmeDiar34 SYSTEM "uva-lib:503359" NDATA uvaHighRes>  
+<!ENTITY EmeDiar35 SYSTEM "uva-lib:503360" NDATA uvaHighRes>  
+<!ENTITY EmeDiar36 SYSTEM "uva-lib:503361" NDATA uvaHighRes>  
+<!ENTITY EmeDiar37 SYSTEM "uva-lib:503362" NDATA uvaHighRes>  
+<!ENTITY EmeDiar38 SYSTEM "uva-lib:503363" NDATA uvaHighRes>  
+<!ENTITY EmeDiar39 SYSTEM "uva-lib:503364" NDATA uvaHighRes>  
+<!ENTITY EmeDiar40 SYSTEM "uva-lib:503365" NDATA uvaHighRes>  
+<!ENTITY EmeDiar41 SYSTEM "uva-lib:503366" NDATA uvaHighRes>  
+<!ENTITY EmeDiar42 SYSTEM "uva-lib:503367" NDATA uvaHighRes>  
+<!ENTITY EmeDiar43 SYSTEM "uva-lib:503368" NDATA uvaHighRes>  
+<!ENTITY EmeDiar44 SYSTEM "uva-lib:503369" NDATA uvaHighRes>  
+<!ENTITY EmeDiar45 SYSTEM "uva-lib:503370" NDATA uvaHighRes>  
+<!ENTITY EmeDiar46 SYSTEM "uva-lib:503371" NDATA uvaHighRes>  
+<!ENTITY EmeDiar47 SYSTEM "uva-lib:503372" NDATA uvaHighRes>  
+<!ENTITY EmeDiar48 SYSTEM "uva-lib:503373" NDATA uvaHighRes>  
+<!ENTITY EmeDiar49 SYSTEM "uva-lib:503374" NDATA uvaHighRes>  
+<!ENTITY EmeDiar50 SYSTEM "uva-lib:503375" NDATA uvaHighRes>  
+<!ENTITY EmeDiar51 SYSTEM "uva-lib:503376" NDATA uvaHighRes>  
+<!ENTITY EmeDiar52 SYSTEM "uva-lib:503377" NDATA uvaHighRes>  
+  
+ 
+]>  
+<TEI.2 id="EmeDiar">  
+<teiHeader type="migrated">  
+    <fileDesc>  
+      <titleStmt>
+        <title type="main">Augusta County: Diary of Nancy Emerson (1862-1864)</title>
+        <title>[a machine-readable transcription]  </title>
+        <title type="sort">augusta county diary of nancy emerson 1862 1864</title>
+        <author>Emerson, Nancy </author>
+        <respStmt>  
+          <resp>Creation of machine-readable version:  </resp>   
+          <name>Anne Rubin, University of Virginia, Institute for Advanced Technology in the Humanities  
+</name>   
+  
+          <resp>Conversion to TEI.2-conformant markup:   
+</resp>   
+          <name>Text prepared by the 1997-98 J. Wallace Sieg Graduate Fellow Lisa Spiro 
+for the University of Virginia Library Electronic Text Center.
+</name>   
+        </respStmt>
+      </titleStmt>   
+ 
+ 
+      <extent>
+        <num type="kilobytes"> 85  kilobytes </num>  
+      </extent>   
+      <publicationStmt>  
+        <publisher>University of Virginia Library.  
+</publisher>   
+        <pubPlace>Charlottesville, Va.  
+</pubPlace>   
+        <idno type="ETC">EmeDiar</idno>   
+        <!--
+<availability>  
+<p>Publicly-accessible  
+</p>   
+<p n="public">URL: http://etext.lib.virginia.edu/modeng/modengE.browse.html  
+</p>   
+ <p>Text and images &#xA9; Copyright 1994 by The Rector and Visitors of The University of Virginia. All rights reserved.  
+</p>   
+<p>  
+</p>   
+</availability>
+-->   
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1994 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1994">1994  
+</date>   
+        <idno type="uva-pid">uva-lib:500343</idno>
+      </publicationStmt>   
+      <seriesStmt>  
+        <p>  
+</p>   
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>   
+      <notesStmt>  
+        <note>
+          <p>Page images of the manuscript have been included.  </p>
+        </note>   
+        <note>
+          <p>Page 38 is missing, so it has not been transcribed or included 
+as an image.  </p>
+        </note>   
+      </notesStmt>   
+      <sourceDesc>  
+        <biblFull>  
+          <titleStmt>
+            <title>The Diary of Nancy Emerson</title>
+            <title type="sort">diary of nancy emerson</title>
+            <author>Nancy Emerson  
+</author>
+            <respStmt>  
+              <resp>  
+</resp>   
+              <name>  
+</name>   
+            </respStmt>
+          </titleStmt>   
+          <editionStmt>  
+            <p>  
+</p>   
+          </editionStmt>   
+          <extent>  
+</extent>   
+          <publicationStmt>  
+            <publisher>unpublished work  
+</publisher>   
+            <pubPlace>  
+</pubPlace>   
+            <date value="">  
+</date>   
+            <idno type="VCDH">Print copy consulted: Nancy Emerson Diary, Accession # 9381, Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</idno>   
+          </publicationStmt>   
+          <seriesStmt>  
+            <p>  
+</p>   
+          </seriesStmt>   
+          <notesStmt>  
+            <note>
+              <p>Gift of Mrs William T. Snodgrass.  </p>
+            </note>   
+            <note>  
+</note>   
+          </notesStmt>   
+        </biblFull>   
+      </sourceDesc>   
+    </fileDesc>   
+    <encodingDesc>  
+      <projectDesc>  
+        <p>Prepared for IATH and the University of Virginia Library Electronic Text Center.  
+</p>   
+        <p>Used with permission from Private Collection</p>
+      </projectDesc>   
+      <editorialDecl>  
+        <p>All quotation marks retained as data.  
+</p>   
+        <p>The original lineation has been maintained. 
+</p>   
+        <p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs.  
+</p>   
+        <p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.  
+</p>   
+      </editorialDecl>   
+      <refsDecl>  
+        <p>  
+</p>   
+      </refsDecl>   
+      <classDecl>  
+        <taxonomy>  
+          <bibl>  
+            <title>Library of Congress Subject Headings  
+</title>   
+          </bibl>   
+        </taxonomy>   
+      </classDecl>   
+    </encodingDesc>   
+    <profileDesc>  
+      <creation>  
+        <dateRange from="1860" to="1864">1860-1864</dateRange>   
+      </creation> 
+ 
+      <langUsage>  
+        <language id="eng" usage="main">English  
+</language>   
+      </langUsage>  
+      <handList>
+        <hand id="h1"/>
+        <hand id="h2"/>
+      </handList> 
+      <textClass>  
+        <keywords>  
+          <term>non-fiction </term>   
+          <term>prose </term> 
+          <term>feminine</term> 
+          <term>American Civil War</term> 
+          <term>Battle Description, Death/Casualties, Church/Religious Activity, 
+National Government, Patriotism, Family, Slavery, Home front, Prisons/Prisoners,
+African Americans, Medicine/Hospitals, Women, Troop Movement</term>
+        </keywords>   
+        <keywords>  
+          <term>LCSH  </term>   
+        </keywords>   
+        <keywords>  
+          <term type="artist">  
+</term>   
+          <term type="visual work">  
+</term>   
+          <term type="format">  
+</term>   
+        </keywords>   
+      </textClass>   
+    </profileDesc>   
+    <revisionDesc>  
+      <change> 
+ 
+        <date value="1998-07">July 1998</date> 
+        <respStmt> 
+          <resp> 
+</resp> 
+          <name>Carolyn Fay and Lisa Spiro, Electronic Text Center</name> 
+        </respStmt> 
+        <item>Updated TEI tags; corrected transcription; added informational 
+notes.</item> 
+      </change> 
+      <change>  
+        <date value="1996-11">November 1996  
+</date>   
+        <respStmt>  
+          <resp>  
+</resp>   
+          <name>Catherine Tousignant, Electronic Text Center  
+</name>   
+        </respStmt>   
+        <item>Updated header.  
+</item>   
+      </change>   
+      <change>  
+        <date value="1994-07">July 1994  
+</date>   
+        <respStmt>  
+          <resp>corrector  
+</resp>   
+          <name>Anne Rubin  
+</name>   
+        </respStmt>   
+        <item>Transcribed and proofread against the original.  
+</item>   
+      </change>   
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>   
+  </teiHeader>   
+ 
+<text id="EmeDiarT">  
+<body id="d2">  
+
+ 
+<div1 id="EmeDia1862" type="part" n="1862">  
+<head>Memoranda of Events, Thoughts &amp;c <add hand="h2" place="inline">1862</add> 
+<!-- <ref>EmeDia1862</ref> -->
+</head> 
+<pb n="1" entity="EmeDiar1" pid="uva-lib:503326"/>  
+
+ 
+<div2 type="entry" n="1862-05" id="d4"> 
+
+ <!-- <ref> Battle Description</ref> --> 
+  <head>Battle Description, [May] 1862</head>
+  
+<p>The last <abbr expan="Sabbath">Sab.</abbr>  
+in May, <name type="person">Jackson</name> was fighting in<lb/> 
+<name type="placename">Winchester</name>,  
+the first in <abbr expan="June">Jn.</abbr> was the battle of  
+<name type="placename">Seven Pines</name><lb/>  
+near 
+<name type="placename">Richmond</name>, which <del hand="h1" rend="line-through">  
+on J</del> commenced on  
+<abbr expan="Saturday">Sat.</abbr>  A <orig reg="sacramental">sac<lb/> 
+ramental</orig> meeting was in progress 
+in this place at the<lb/>  
+same time.  Preaching by <name type="person">Mr. Harris</name>. 
+The second <abbr expan="Sabbath">Sab.</abbr><lb/>  
+in June, <name type="person">Jackson</name> <add hand="h1" place="supralinear">or rather 
+<name type="person">Ewell</name></add> was fighting at  
+<name type="placename">Port Republic</name> with<lb/> 
+<del hand="h1" rend="line-through">Shields</del><add hand="h1" place="supralinear"> 
+<name type="person">Fremont</name></add>.   
+ 
+The firing was heard here all day by many, a<lb/> 
+distance of 33 m.  The next day firing was heard for some<lb/>  
+hours -- an 
+engagement between <name type="person">Jackson</name> &amp;  
+<name type="person">Shields</name>.</p> 
+
+</div2>  
+  
+ 
+<div2 type="entry" n="1862-06-08" id="d5">
+<head>June 8, 1862
+ <!-- <ref> Battle Description, Death/Casualties, Church/Religious Activity, 
+National Government</ref> --> 
+</head> 
+<opener> 
+<dateline> 
+ <date value="1862-06-08"> 
+<abbr expan="June 8, Sabbath">Jn 8, Sab</abbr></date> 
+</dateline> 
+</opener> 
+ 
+<p>In the evening, <name type="person"> 
+<abbr expan="Brother">Br. L.</abbr></name><ref n="1" target="n1">[1]</ref> 
+ was present at  
+the funeral<lb/>  
+of <name type="person">Mr. Berry</name>'s son,   
+who was killed the preceding <abbr expan="Monday">Mon</abbr><lb/>  
+at <name type="placename">Port R.</name>  The first time the body  
+was sent for, it<lb/>  
+could not be obtained, because the infamous  
+<name type="person"><orig reg="Fremont">Fre<lb/> 
+mont</orig></name> was <unclear reason="dark splotches"></unclear> 
+<ref n="2" target="n2">[2]</ref> 
+ 
+<pb n="2" entity="EmeDiar2" pid="uva-lib:503327"/> 
+ 
+ 
+ 
+is reading the burial service.</p>  
+ 
+<p>Sometime in May, <name type="person">Cousin S.</name> &amp;  
+<name type="person">Ellen</name> went  
+with<lb/>  
+<name type="person">Mrs. Dickson</name> to the  
+camp to see her husband.</p>  
+ 
+ 
+ 
+</div2>  
+ 
+<div2 type="entry" n="1862-06-23" id="d6">  
+<head>June 23, 1862
+ <!-- <ref> </ref> --> 
+</head> 
+<opener> 
+<dateline> 
+ <date value="1862-06-23">Jn. 23</date> 
+</dateline> 
+</opener>  
+ 
+<p>Went with <name>C. -S.</name> to see <name>B. D.</name> a boy who was 
+<lb/> 
+wounded at <name type="placename">Port <abbr expan="Royal">R.</abbr></name>   
+His brother brought him home  
+<lb/> after several days, but 
+his wound was not dressed  
+<lb/> 
+until the tenth day.  It is thought he may 
+recover.</p> 
+ 
+</div2>  
+  
+<div2 type="entry" n="1862-06-30" id="d7">  
+<head>June 30, 1862
+ <!-- <ref> </ref> --> 
+</head> 
+ 
+<opener> 
+<dateline> 
+ <date value="1862-06-30">Sab Jn. 30</date>  
+</dateline> 
+</opener> 
+ 
+<p>Firing has been heard in the vicinity  
+<lb/> 
+of <abbr expan="Richmond">R.</abbr> for several days, &amp;  
+intense anxiety has been  
+<lb/> 
+felt to learn the result. Tidings was <abbr expan="brought">bro't</abbr> to  
+church  
+<lb/> 
+that our armies <orig reg="have">hav</orig> been victorious thus far,  
+that many <lb/> 
+prisoners, &amp; cannon had been taken--heavy loss on both  
+<lb/> 
+sides.  
+Public thanks were offered for their deliverance.   
+<lb/> 
+Our help is in God  
+&amp; in him alone.  The battle still 
+<lb/> 
+rages <add hand="h1" place="supralinear"> &amp;  
+continues to do so for a week.</add> </p>  
+ 
+ 
+  
+ 
+  
+<pb n="3" entity="EmeDiar3" pid="uva-lib:503328"/> 
+  
+<p>to pick strawberries.  Very heavy firing especially in the <lb/> 
+evening.  <name><abbr expan="Brother Luther"> 
+Br. L</abbr></name> started to C in the morning on business.  
+</p>  
+</div2>  
+ 
+<div2 type="entry" n="1862" id="d8">  
+<head>Tuesday, n.d. 1862
+ <!-- <ref> </ref> --> 
+</head> 
+ 
+<opener> 
+<dateline> 
+<date value="1862">Tues.</date>  
+</dateline> 
+</opener>  
+<p><name>Mr. Wright</name>, a neighbor who has four sons in the  
+<lb/> 
+army, one of them now a  
+prisoner, passed by.  To the  
+<lb/> 
+usual inquiry "What news?" he pulled out  
+of his pocket a  
+<lb/> 
+copy of the telegrams he had copied in S. reaching to 
+<lb/>  
+<abbr expan="Monday">Mon</abbr>.  
+<orig reg="midnight"> 
+<add hand="h1" place="supralinear">mid</add>night</orig>. <name>McClellan</name> has  
+been driven from his <orig reg="entrenchments">in 
+<lb/> 
+trenchments</orig>,  
+is in <unclear>so local</unclear> across <name type="placename"> 
+White Oak Swamp</name> to  
+<lb/> 
+<name type="placename">James river</name>.  
+<name>Stuart</name> took  
+3000 prisoners yesterday.  A S. J.  
+<lb/> 
+brigade (2300) have laid down their  
+arms.  <name><abbr expan="McClellan">McC</abbr></name>has  
+<lb/> 
+destroyed vast quantities of stores, &amp; the opinion is  
+that  
+<lb/> 
+the whole army will be <del hand="h1">demoralized</del> "demolished."  
+<lb/> 
+This news afforded great  
+relief, as it had been feared that  
+<lb/> 
+<name>Halleck</name> would come on with 100,000  
+men as rumor 
+<lb/> 
+said he would by <abbr expan="Sabbath">Sab.</abbr>  
+eve while our men <add hand="h1" place="supralinear">(By command)</add> could  
+not  
+<lb/> 
+get over till <abbr expan="Tuesday">Tues.</abbr>  <unclear> [illeg.] 
+<lb/> 
+</unclear> 
+ enemy.  Being partially deaf, I </p>  
+ 
+ 
+  
+<pb n="4" entity="EmeDiar4" pid="uva-lib:503329"/> 
+<p> 
+ 
+</p> 
+<p>have seldom been able to hear it before, but heard it  
+<lb/> 
+several  
+times on this occasion.  <name>Sister <abbr expan="Catharine">C.</abbr></name>  
+counted 25 <orig reg="reports">re<lb/> 
+ports</orig> in one minute by  
+the watch.</p>  
+</div2>  
+  
+<div2 type="entry" n="1862" id="d9">  
+<head>Wednesday, n.d. 1862
+ <!-- <ref> </ref> --> 
+</head> 
+ 
+<opener> 
+<dateline> 
+<date value="1862">Wed.</date>  
+</dateline> 
+</opener>  
+<p>A steady rain.  A week today since the <orig reg="fighting">fight<lb/> 
+ing</orig> commenced.  
+Battles inevitably bring rain.  We <lb/> 
+got a Whig<ref n="3" target="n3">[3]</ref>  
+<add hand="h1" place="supralinear">of Fri.</add>  
+<abbr expan="yesterday">yes.</abbr> &amp; devoured  
+it eagerly, but got little  
+<lb/> 
+about the battle as they are not permitted  
+to publish  
+<lb/> 
+yet.  Heard that some Louisianians advanced to  
+<lb/> 
+the charge  
+with the name of <name>Butler</name> as their war  
+<lb/> 
+cry, fought  
+desperately.  <name>Butler</name>  
+&amp; <name>Hunter</name> &amp; <name>Wool</name>! 
+<lb/> 
+  Noble triumvirate.<ref n="4" target="n4">[4]</ref>  
+<name>Lincoln</name> &amp; <name>Seward</name> &amp; <name>Greely</name>,  
+<orig reg="tiumvirate">tri <lb/> 
+umvirate</orig> No 2.  <hi rend="underline"> 
+<name>Greely</name></hi> it may be, the most deeply  
+<lb/> 
+stained of  
+the whole.  <name>Butler</name> is the best man for  
+<lb/> 
+our cause within the limits of  
+the S. C. He has  
+<lb/> 
+given a union to the Southern heart, and a nerve<lb/> 
+ to  
+the Southern cause as one that none among ourselves  
+<lb/> 
+could possibly  
+have done.  They thought they</p>  
+ 
+  
+<pb n="5" entity="EmeDiar5" pid="uva-lib:503330"/> 
+ 
+<p>were united &amp; in earnest, before his reign came,  
+<lb/> 
+but there's a  
+difference since.  <name>Lincoln</name>  
+<del hand="h1">did</del> 
+<orig reg="performed">per 
+<lb/> 
+formed</orig> a similar operation for us at the  
+<orig reg="commencement">commence 
+<lb/> 
+ment</orig> of the struggle by his proclamation for 75,000  
+<lb/> 
+men,  
+insulted Va. almost to a man &amp; drove her out  
+<lb/> 
+of the Union as by a  
+thunderbolt.</p>  
+ 
+ 
+</div2>  
+  
+<div2 type="entry" n="1862" id="d10">  
+<head>Thursday, n.d. 1862
+ <!-- <ref> </ref> --> 
+</head> 
+<opener> 
+<dateline> 
+<date value="1862">Thurs.</date>  
+</dateline> 
+</opener> 
+ 
+<p>No prayer meeting yet.  Got a Whig this morning, &amp; <lb/> 
+devoured it as usual.  News encouraging.  The  
+<abbr expan="English Parliament">Eng Par.</abbr>  
+<lb/> 
+are loud in  
+their denunciation of <name>Butler</name>.  A Montreal  
+<lb/> 
+paper also speaks in terms  
+of <unclear>unease and</unclear> 
+ reprobation  
+<lb/> 
+says <abbr expan="New Orleans">N. O.</abbr> 
+ will yet take frightful vengeance for these<lb/>  
+bitter wrongs.</p>  
+</div2>  
+  
+<div2 type="entry" n="1862-07-04" id="d11">  
+<head>July 4, 1862
+ <!-- <ref> Patriotism, Church/Religious Activity, Death/Casualties</ref> --> 
+</head> 
+ 
+<opener> 
+<dateline> 
+ <date value="1862-07-04">Fri. July 4.</date>  
+</dateline> 
+</opener> 
+ 
+<p>What are the people in Yankeedom thinking  
+<lb/> 
+of today?  Perhaps  
+however they have not got the truth yet  
+<lb/> 
+&amp; are still hugging the  
+delusion that Richmond will soon  
+<lb/> 
+be theirs.  <name type="person"> 
+<abbr expan="McClellan">McC</abbr></name> will get up a battle  
+of falsehoods as  
+<lb/> 
+usual, but truth will out sometime, &amp; how astounding  
+ 
+  
+<pb n="6" entity="EmeDiar6" pid="uva-lib:503331"/> 
+
+ 
+<del hand="h1">have seldom been able to hear it before, but heard it <lb/> 
+five or six times on this occasion.  Sister <abbr expan="Catharine">C.</abbr> 
+counted <lb/> 25 times in one <abbr expan="minute">min</abbr> by the watch 
+</del> 
+
+<lb/> 
+
+when it comes.  Pity, pity, that the Northern  
+<lb/> 
+people should have been made the dupes of such  
+<lb/> 
+a set of knaves.  I seldom think of  
+it without <orig reg="remembering">re 
+<lb/> 
+membering</orig> the lying spirit which was permitted to  
+<lb/> 
+take  
+posession of <name type="person">Ahab's</name> prophets, that he might be  
+<lb/> 
+persuaded to go to R-- &amp; 
+fall.  This judgment from God <lb/> 
+ 
+has fallen upon the North because of  
+their declension  
+<lb/> 
+from him.  Its effects, <add hand="h1" place="supralinear">it is true,</add> 
+ have come upon  
+us, &amp; more  
+<lb/> 
+heavily thus far <add hand="h1" place="supralinear">than upon them,</add> 
+ but the end is not yet.  
+We too have  
+<lb/> 
+cause for deep humiliation, but we shall achieve  
+<lb/> 
+our  
+independence, &amp; if guided aright, shall fulfill a 
+<lb/>  
+ 
+high destiny &amp; be far  
+more prosperous than ever before.  
+<lb/> 
+ Never for one moment since this  
+struggle 
+<orig reg="commenced,">com<lb/>menced,</orig>  
+has my mind wavered as to the final result.</p>  
+ 
+  
+<pb n="7" entity="EmeDiar7" pid="uva-lib:503332"/> 
+ 
+  
+<p>Never could I for one moment believe that a righteous  
+<lb/> 
+God would  
+suffer us to be trodden down as the mud  
+<lb/> 
+of the streets, whatever our  
+cruel and insolent invaders  
+<lb/> 
+might threaten.  Too many prayers have  
+been <abbr expan="ascending">ascend 
+<lb/> 
+ing</abbr> to heavens night &amp; day for such an event to come to  
+<lb/> 
+pass.  Retribution may  
+<del hand="h1">be</del>  
+possibly be delayed a short time  
+<lb/> 
+but it will  
+most assuredly come.  The violent dealing of  
+<lb/> 
+the wicked will <unclear>acrue</unclear>  
+down upon his own head.  May  
+<lb/> 
+heaven lighten the blow, &amp; turn the  
+hearts of both <orig reg="nations">na<lb/> 
+tions</orig> to him &amp; to one another.</p>  
+</div2>  
+  
+<div2 type="entry" n="1862-07-06" id="d12">  
+<head>July 6, 1862
+ <!-- <ref> </ref> --> 
+</head> 
+ 
+ 
+<opener> 
+<dateline> 
+ <date value="1862-07-06">Sab. July 6</date>  
+</dateline> 
+</opener> 
+ 
+<p>About this time the funeral of <name><abbr expan="William">Wm.</abbr> H. Randolph</name> 
+<lb/>took place.  He lies  in the centre of the grave yard by  
+<lb/> 
+the side of his young wife.  Was killed in the <name type="battle">battles  
+of Richmond</name>. Not long after was the funeral of  
+<name>Mrs.  <lb/> 
+ Buchanan</name>.  
+<date value="08-11"><abbr expan="August">Aug</abbr> 11<hi rend="super">th</hi></date>  
+was the funeral of <name>George  
+ Baylor</name> 
+<lb/> 
+ killed at the battle of Cedar Run in his 20th year,  
+<lb/> 
+so young, &amp; such a universal favorite.</p>  
+ 
+ 
+  
+<pb n="8" entity="EmeDiar8" pid="uva-lib:503333"/> 
+</div2>   
+<div2 type="entry" n="1862-12-29" id="d13">  
+<head>December 29, 1862
+ <!-- <ref> Battle Description, Family, Death/Casualties</ref> --> 
+</head> 
+ 
+<opener> 
+<dateline> 
+ <date value="1862-12-29">Dec. 29</date>  
+</dateline> 
+</opener> 
+ 
+<p>A long hiatus.  Couldn't help it. So many  
+<lb/> 
+things to occupy the  
+attention.  It would be in vain  
+<lb/> 
+<add hand="h1" place="supralinear">to attempt</add> to enumerate the multitudes  
+of events which have <orig reg="transpired">trans <lb/> 
+pired</orig> since the last date.  The 29th &amp; 30th of  
+<abbr expan="August">Aug.</abbr> 
+ the  
+<lb/> 
+<name type="battle">second battle of Manassas</name> took place.  At this  
+battle  
+<lb/> 
+<name><abbr expan="Colonel William">Col.  
+Wm.</abbr> Baylor</name> was killed, leaving a heartbroken  
+<lb/> 
+wife &amp; mother &amp; sister to  
+mourn his loss, but they  
+<lb/> 
+have hope in his death.  <name>James  
+Gabert</name> was  
+also killed  
+<lb/> 
+at this battle.  His brother <name>John</name> was wounded before  
+<lb/> 
+but  
+died after, &amp; was brought home to be buried.   
+<lb/> 
+<name>L Kerr</name> another neighbor  
+of ours died the 14th <abbr expan="September">Sept.</abbr>  
+<lb/> 
+of typhoid fever.  Before this on the  
+10th, little <name>Emily  
+<lb/> 
+Baylor</name> died of diptheria.  On the  
+20th, <name>David B.</name>  
+died of  
+<lb/> 
+the same disease at the age of twelve.  Thus two <add hand="h1" place="supralinear"> 
+or rather six,</add> 
+ died <lb/> 
+out of three families, two from each.  Fifteen new graves <lb/> 
+<lb/> 
+have been added to our grave yard during this year.   
+<lb/> 
+A <name>Mrs.  
+Wright</name> living  
+with her two of three <unclear>illeg.</unclear> 
+ went 
+<lb/> 
+ to S. to see her son who was wounded,  
+took the small 
+  
+<pb n="9" entity="EmeDiar9" pid="uva-lib:503334"/> 
+ 
+pox, &amp; she &amp; her husband died.  The son  
+<lb/> 
+of another neighbor came  
+from the army with it,  
+<lb/> 
+&amp; nearly all the family took it.  One, an  
+infant  
+<lb/> 
+died.  Another neighbor who visited them, took it, &amp; died.  
+ 
+ 
+ 
+ 
+<pb n="10" entity="EmeDiar10" pid="uva-lib:503335"/> 
+</p>  
+</div2>  
+</div1>   
+<div1 id="EmeDia1863" type="part" n="1863">  
+<head>1863
+<!-- <ref>EmeDia1863</ref> -->
+</head>  
+  
+<div2 type="entry" n="1863-01-01" id="d15">  
+<head>January 1, 1863
+ <!-- <ref> Church/Religious Activity, National Government</ref> --> 
+</head> 
+ 
+<opener> 
+<dateline>  
+ <date value="1863-01-01">Jan 1, 1863</date>  
+</dateline> 
+</opener>  
+<p>  
+When has a year departed so crowded  
+<lb/> 
+with events, &amp; <hi rend="underline">such</hi> events as  
+the last.  How many  
+<lb/> 
+battles have we fought, &amp; how has God blessed our <lb/> 
+armies with victory.  Blessed be the Lord who has  
+<lb/> 
+not given us as a  
+prey to their teeth.  As a nation,  
+<lb/> 
+we have in a measure acknowledged  
+God, &amp; he has  
+<lb/> 
+appeared for us most wonderfully, on one occasion  
+<lb/> 
+giving  
+us two great victories in one day; one at <name type="placename"><orig>Rich<lb/> 
+mond</orig></name> in <name type="placename">Kentucky,</name> &amp; the  
+other I think at <name type="placename">Leesburg</name><lb/>  
+in <name type="placename"><abbr expan="Virginia.">Va.</abbr></name> 
+  Our President, who is a plain,  
+simple, <orig reg="consistent">con<lb/> 
+sistent</orig> Christian, as appears, a member of the <orig reg="Episcopal"> 
+Epis<lb/> 
+copal</orig> church, has appointed days of special  
+<lb/> 
+prayer on three occasions, when  
+our cause seemed <lb/> 
+ dark, our prospect rather, &amp; in every case, the <orig reg="answer">an<lb/> 
+swer</orig>  
+was manifest.  After the two victories in  
+<lb/> 
+one day, a day of  
+thanksgiving was appointed <lb/> 
+&amp; generally &amp; joyfully observed.  It was  
+stated in  
+ 
+  
+<pb n="11" entity="EmeDiar11" pid="uva-lib:503336"/> 
+  
+the <abbr expan="Central">C.</abbr> Presbyterian, that services were held in the  
+<lb/> 
+churches,  
+business generally suspended, &amp; the city had  
+<lb/> 
+the air of a quiet  
+Sabbath.  Three out of four daily  
+<lb/> 
+papers closed their offices.</p>  
+<p>We have cause for gratitude more than<lb/> we can express, that we have  
+civil <add hand="h1" place="supralinear">&amp;</add> 
+ military leaders <lb/> 
+who acknowledge God.  The <abbr expan="President">Pres.</abbr> and vice  
+<abbr expan="President">Pres.</abbr> <name>Stephens</name>,  
+<lb/> 
+the commander in chief of our armies,  
+<name>Robert E. Lee</name> <lb/> 
+who is said to be a Christian of the same stamp as  
+<lb/> 
+<name>Davis</name>,  
+<name>Stonewall  
+Jackson</name>, who is an elder in the  
+<lb/> 
+<abbr expan="Presbyterian Church">Pres. ch</abbr> 
+ in Lexington, his brother in  
+law, <name>Gen D. H.  
+<lb/> 
+Hill</name>, &amp; others.  <name>Gen. Jackson</name> sent a special  
+<orig reg="request">re <lb/>quest</orig> to  
+the churches some time since for their <lb/> 
+prayers.  He writes in the Whig  
+<add hand="h1" place="supralinear">&amp; other papers</add> 
+ in <abbr expan="November">Nov.</abbr> 
+ called upon <lb/> 
+the ladies every where to unite in  
+<unclear>a torrent</unclear> of  
+<lb/> 
+prayer for <hi rend="underline">peace</hi>  
+either singly or socially on the <lb/>  
+first of <abbr expan="December">Dec.</abbr> 
+ at 12 o'clock.  I know not how far it  
+<lb/> 
+was observed, but  
+have no doubt wherever known 
+ 
+ 
+ 
+ 
+  
+<pb n="12" entity="EmeDiar12" pid="uva-lib:503337"/> 
+</p>  
+</div2>   
+
+<div2 type="entry" n="1863-01-08" id="d16">  
+<head>January 8, 1863
+ <!-- <ref> Slavery, National Government, Church/Religious Activity</ref> --> 
+</head> 
+<opener> 
+<dateline> 
+ 
+ <date value="1863-01-08">Jan. 8,</date>  
+</dateline> 
+</opener> 
+ 
+<p>The first of <abbr expan="January">Jan</abbr> 
+ has come &amp; gone, &amp; <name><orig reg="Lincoln's">Lin <lb/> 
+coln's</orig></name> proclamation has  
+brought no desolation.   
+<lb/> 
+What awful disappointment will be experienced 
+<lb/> by  
+our friends the abolitionists.  Never was  
+<lb/> 
+a more quiet and orderly  
+Christmas &amp; New Years.   
+<lb/> 
+Even <name>Sister <abbr expan="Catharine">C.</abbr></name>  
+who is so <del hand="h1">illeg.</del> timid,  
+<hi rend="underline">forgot</hi><lb/> 
+ to be afraid!  I do not forget it, but a little  
+<orig reg="circumstance">cir<lb/>cumstance</orig>  
+may show how much I was terrified.   
+<lb/> 
+<name><abbr expan="Brother Luther">Bro. L.</abbr></name> having been  
+to <name type="placename">Charlottesville,</name>  
+<name>Cousin S</name> 
+<lb/> 
+ went <add hand="h1" place="supralinear">to S.</add>  
+for him, &amp; did not get home  
+till late.  I  
+<lb/> 
+sat up for them, and having occasion to visit my  
+<lb/> 
+chambers, went repeatedly in the dark, &amp; near <orig reg="midnight">mid<lb/>night</orig>.  
+ Indeed, never  
+since have I been in this state  
+<lb/> 
+have I felt any reluctance to visiting  
+any part of  
+<lb/> 
+the house in the dark either here or in Highland.</p>  
+<p>This whole agitation about slavery <abbr expan="which">wh.</abbr> 
+<lb/> has prevailed at the S.  
+these years, is the most  
+ 
+  
+<pb n="13" entity="EmeDiar13" pid="uva-lib:503338"/> 
+  
+monstrous humbug ever got up since the flood.   
+<lb/> 
+I am <add hand="h1" place="supralinear">if  
+possible</add> a thousand times better satisfied of the  
+<orig reg="propriety">pro 
+<lb/> 
+riety</orig> of  
+slavery than I was before the war.   
+<lb/> 
+I believe this violent abolition  
+spirit grows out of <orig reg="attempting">attempt<lb/> 
+ing</orig> to be wise above what is written, &amp; it  
+shows  
+<lb/> 
+itself out where it is carried out, by leading those  
+<lb/> 
+possessed  
+with it to throw away the bible.  It is  
+<lb/> 
+my full belief that the  
+infatuation which has <orig reg="preciptated">pre 
+<lb/> 
+cipitated</orig> the North into this war, is a  
+judgment  
+<lb/> 
+from God upon them for their deep declension from  
+<lb/> 
+him  
+manifested <add hand="h1" place="supralinear">among other ways</add> 
+ by their fanaticism and every other  
+<lb/> 
+ism.  
+The fear of the Lord had <del hand="h1">so</del> nearly <unclear>ford where</unclear> 
+ the  
+<lb/> 
+land, <add hand="h1" place="supralinear">as there is season  
+to fear</add> &amp; therefore this whirlwind had suffered to burst  
+<lb/> 
+upon them.  
+It has spent much of its force upon  
+<lb/> 
+<hi rend="underline">us</hi> thus far, but if this is the  
+end of the matter, I  
+<lb/> 
+have miscalculated this eclipse altogether.  
+Both  
+<lb/> 
+nations may have to make a long sojurn in  
+ 
+  
+<pb n="14" entity="EmeDiar14" pid="uva-lib:503339"/> 
+  
+the wilderness before they reach the land of Canaan.</p>  
+</div2>  
+<div2 type="entry" n="1863-03-06" id="d17">  
+<head>March 6, 1863
+ <!-- <ref> Church/Religious Activity, Home front, Patriotism</ref> --> 
+</head> 
+ 
+<opener> 
+<dateline> 
+ <date value="1863-03-06">Mh. 6,</date>  
+</dateline> 
+</opener> 
+ 
+<p>Have written but little for a long time on <orig reg="account">ac 
+<lb/> 
+count</orig> of  
+indisposition.  Am staying in bed from  
+<lb/> 
+influenza, but must try to  
+write a little about <name> 
+<abbr expan="Bishop">Bp.</abbr>  
+<lb/> 
+Meade</name>.  He died within a few months, had been <lb/>  
+bishop of the diocese of  
+<name type="placename"><abbr expan="Virginia">Va.</abbr></name>  
+more than 30 <abbr expan="year">yrs</abbr>.   
+<name>Sister  
+<lb/> 
+<abbr expan="Catharine">C.</abbr></name>  
+had known  
+him for her childhood, &amp; says he  
+<lb/> 
+was one of the most excellent &amp; 
+devoted of the <orig reg="episcopal">epis<lb/> 
+copal</orig> clergy which is saying not a little in her  
+<orig reg="opinion">opin<lb/> 
+ion</orig>.  <name>Bishop <abbr expan="Meade">M.</abbr></name>  
+used often to come to her aunt's where  
+<lb/> 
+she spent  
+much of her time when a child, &amp; she <orig reg="describes">des- 
+<lb/> 
+cribes</orig> him as one of the  
+meekest &amp; most Godly of men.   
+<lb/> 
+Not many years since, he attended a  
+confirmation  
+<lb/> 
+in <name type="placename">Staunton,</name>  
+<name>Sister <abbr expan="Catharine">C.</abbr></name>  
+happened to be present and told me <lb/>  
+on her return how solemn &amp; searching his  
+<lb/> 
+address was.  He lived near  
+Winchester had <orig reg="embellished">em<lb/> 
+belished</orig> his place with the finest fruits &amp; <orig reg="flower">flow<lb/> 
+ers</orig>,  
+ 
+  
+<pb n="15" entity="EmeDiar15" pid="uva-lib:503340"/> 
+  
+&amp; there was his wife's grave.  Just before his  
+<lb/> 
+death, he was  
+called to Richmond to consecrate  
+<lb/> 
+<name>bishop Wilmer</name>.  This finished he was  
+attacked with  
+<lb/> 
+disease which speedily removed him to his home  
+<lb/> 
+above.  
+On his deathbed he called for <name><abbr expan="Bishop">Bp</abbr> 
+ Johns</name> who 
+<lb/>
+was as a son to him, &amp; 
+gave him his opinion of the  
+<lb/> 
+war.  He told him the cause in which we  
+are <orig reg="engaged">en<lb/>gaged</orig>  
+is a <hi rend="underline">holy</hi> cause-- but I will leave the space.  
+<lb/> 
+ I  
+can get the printed account. (Cannot obtain it.)</p>  
+<p>One bitter pang his Heavenly Father  
+<lb/> 
+kindly spared him, the  
+knowledge <hi rend="underline">that his beautiful  
+<lb/> 
+home had been desecrated &amp; desolated  
+by the ruthless <lb/> 
+Yankees.</hi> I say <hi rend="underline">Yankees</hi> because that is the  
+universal  
+<lb/> 
+appellation given <unclear>here</unclear> to the whole nation.</p>  
+ 
+ 
+ 
+  
+<pb n="16" entity="EmeDiar16" pid="uva-lib:503341"/> 
+  
+  
+<p>Owing to the inflation of our economy, produced in  
+<lb/> 
+ 
+part by the  
+abundant issue of treasury notes, our  
+<lb/> 
+business affairs are involved in  
+much perplexity.  Every  
+<lb/> 
+article is from two or three time its usual <lb/> 
+value.  Corn is 3,25 a bushel, flour 20 or 25 dollars  
+<lb/> 
+a barrel, pork  
+30, a hundred, butter from one to two  
+<lb/> 
+dollars a pd in R.  Those who  
+have much to sell  
+<lb/> 
+make great profits, but those who have all to buy  
+<lb/> 
+and little to sell like ourselves, are in danger of faring  
+<lb/> 
+hardly.  
+Providence has kindly provided for us <orig reg="however">how 
+<lb/> 
+ever</orig>.  We had some stores on  
+hand of sugar, <orig reg="molasses">molas<lb/> 
+ses</orig>, coffee, clothing, shoes &amp;c.  Some lady not  
+far off  
+<lb/> 
+lately bought two calico dresses for 50 dollars apiece, but  
+<lb/> 
+we  
+have had to buy nothing, &amp; as to bread stuff,  
+<lb/> 
+some of my brother's  
+people, have sold to him  
+<lb/> 
+at the old prices.</p>  
+ 
+  
+<pb n="17" entity="EmeDiar17" pid="uva-lib:503342"/> 
+<p> 
+  
+It is a hard case that my money is beyond my  
+<lb/> 
+reach in this time of  
+need.  I have no claim upon  
+<lb/> 
+this family, do not even teach the  
+children since <name><orig reg="Cousin">Cous<lb/> 
+ 
+in</orig> S.</name> commenced his school, &amp; 
+<name>Sister <abbr expan="Catharine">C.</abbr></name> often tells  
+me  
+<lb/> 
+she wishes me to do nothing but what I find <orig reg="necessary">neces 
+<lb/> 
+sary</orig> for  
+exercise.  Still I have ever been treated with  
+<lb/> 
+the utmost kindness, &amp; 
+assured of a home as long as  
+<lb/> 
+they have one.</p>  
+<p>We have much to be grateful for.  For months  
+<lb/> 
+we were under frequent  
+apprehensions that the Yankees  
+<lb/> 
+would come in &amp; get posession of the  
+Valley, but the  
+<lb/> 
+Lord mercifully preserved us from the danger, &amp; has <lb/>  
+delivered us from the fear.  In our circumstances it  
+<lb/> 
+would probably  
+have been death to some of us.  How  
+<lb/> 
+many pleasant homes have these  
+barbarians <orig reg="desolated">des<lb/> 
+ 
+olated</orig>, strewing the gardens with fragments of  
+<lb/> 
+glass &amp; 
+china, filling the air with feathers from  
+ 
+  
+<pb n="18" entity="EmeDiar18" pid="uva-lib:503343"/> 
+ 
+  
+the beds, hewing up for wood, or <hi rend="underline">boxing them up  
+<lb/> 
+to send  
+home</hi> How many churches have they polluted,  
+<lb/> 
+how many graves  
+desecrated.  How have they soaked  
+<lb/> 
+our soil with the blood of our  
+noblest &amp; best &amp; then  
+<lb/> 
+to cap the climax of injury &amp; insult, talk of  
+<hi rend="underline"><orig reg="reconstructing">recon 
+<lb/> 
+structing</orig> the union</hi> May the righteous Lord  
+<lb/> 
+plead our cause  
+against an ungodly nation, as  
+<lb/> 
+he has done already, glory to his name.  
+Render  
+<lb/> 
+not to them their deserts O Lord.  The Lord be gracious  
+<lb/> 
+to all  
+there as well as here who have shown me <orig reg="kindness"> 
+kind<lb/>ness</orig> 
+or wished me well, &amp; 
+reward them a thousand 
+<lb/> 
+fold, &amp; if any of them are polluted with their  
+guilt,  
+<lb/> 
+cleanse them &amp; deliver them from the doom that  
+<lb/> 
+hangs over that  
+land.  A just God will visit sooner  
+<lb/> 
+or later, &amp; there will be no escape  
+but by deep repentance.   
+<lb/> 
+I cherish the cheering conviction however,  
+that most if not  
+<lb/> 
+all of <del hand="h1">them</del> 
+<add hand="h1" place="supralinear">my friends</add> are clear from this guilt.</p>  
+<p>We hear a good deal of late about the S. W.  
+ 
+  
+<pb n="19" entity="EmeDiar19" pid="uva-lib:503344"/> 
+ 
+  
+backing out from the war.  Wish they would make haste &amp; do it, 
+<lb/> 
+ &amp; 
+send us some of their corn &amp; bacon.  We are bound to have  
+<lb/> 
+<name type="placename">Missouri</name>,  
+<name type="placename">Kentucky</name> &amp; <name type="placename"> 
+Maryland</name> with us.  The  
+ 
+S. W. will  
+<lb/> 
+make a treaty of peace &amp; 
+commerce with us, &amp; the rest  
+<lb/> 
+may go to grass (speaking after the  
+manner of men,) or  
+<lb/> 
+wherever else they can find pasture.  The government  
+at W.  
+<lb/> 
+seems to have become awfully corrupt, &amp; will probably be  
+<lb/> 
+removed  
+in some way which time will reveal.  There is a  
+<lb/> 
+piece in the Whig from  
+the London Times about <hi rend="underline">Lincoln  
+<lb/> 
+the Last</hi> in which he is set  
+forth about right.</p>  
+</div2>  
+<div2 type="entry" n="1863-03-11" id="d18">  
+<head>March 11, 1863
+ <!-- <ref> Prisons/Prisoners, Medicine/Hospitals</ref> --> 
+</head> 
+ 
+<opener> 
+<dateline> 
+ <date value="1863-03-11"><abbr expan="March">Mh.</abbr> 11,</date>  
+</dateline> 
+</opener> 
+ 
+<p>A young man from the neighborhood, not half  
+<lb/> 
+a mile distant indeed,  
+was taken by the Yankees a few  
+<lb/> 
+months since, &amp; has not returned.  They  
+look for him  
+<lb/> 
+daily as prisoners have been exchanged, but he comes  
+not.   
+<lb/> 
+Hope it will not be with him as with <name>Willie Hite</name>,  
+another  
+<lb/> 
+young  
+man <del hand="h1">from</del> living a few miles from us, who had  
+<lb/> 
+been taken, &amp; reached home  
+only to die from the <orig reg="hardships"> 
+hard<lb/>ships</orig> he had experienced.</p>  
+ 
+  
+<pb n="20" entity="EmeDiar20" pid="uva-lib:503345"/> 
+<p>  
+  
+<name>James Holladay</name>, <name>Sister  
+<abbr expan="Catharine">C</abbr></name>'s nephew, was a similar  
+<lb/> 
+instance.  He was  
+in <name type="placename">Williamsburg</name> sick when that place  
+<lb/> 
+was taken, attempted to escape,  
+but fell from exhaustion  
+<lb/> 
+&amp; was taken by them.  He was taken to  
+Washington first,  
+<lb/> 
+says he had no special reason to complain of his  
+<orig reg="treatment">treat<lb/> 
+ment</orig> there.  Many things were sent in by the secession  
+<lb/> 
+ladies.  
+He was soon removed however to <name type="placename"> 
+<abbr expan="Fort">Ft.</abbr> Delaware,</name><lb/> where he was treated in  
+the most inhuman manner,  
+<lb/> 
+had nothing but a <add hand="h1" place="supralinear">narrow</add> board,  
+<add hand="h1" place="supralinear">or rather  
+two, one overlapping the other,</add> a sort of shelf to lie on, a little  
+<lb/> 
+piece of fat meat &amp; bread twice a day, &amp; was cursed  
+<lb/> 
+&amp; kicked about by  
+the officers, some of them Dutch,  
+<lb/> 
+with their thick boots, especially  
+those who were sick &amp; could not  
+<lb/> 
+work.  He was there four or five  
+months, his mother  
+<lb/> 
+the meantime not knowing whether he was dead or  
+alive.   
+<lb/> 
+An exchange of prisoners was finally effected, &amp; he was<lb/>  
+brought home to die, lived two or three weeks after his  
+<lb/> 
+return.  He  
+was a most amiable, unselfish youth,  
+<lb/> 
+wholly devoted to his mother. 
+ 
+ 
+  
+<pb n="21" entity="EmeDiar21" pid="uva-lib:503346"/> 
+</p>  
+</div2>   
+<div2 type="entry" n="1863-06-26" id="d19">  
+<head>June 26, 1863
+ <!-- <ref> African Americans, Church/Religious Activity, Prisons/Prisoners</ref> --> 
+</head> 
+<opener> 
+<dateline> 
+ <date value="1863-06-26">June 26</date>  
+ 
+</dateline> 
+</opener> 
+<p>We have glorious news from <name>Milroy's</name>  
+<lb/> 
+army.  <del hand="h1">The</del> We have taken  
+<add hand="h1" place="supralinear"><name type="placename">Winchester</name>  
+&amp;</add> several thousand prisoners  
+<lb/> 
+&amp; stores without number.  The old brute  
+himself <orig reg="narrowly">nar 
+<lb/> 
+rowly</orig> escaped.  There is such a good story in the  
+<lb/> 
+Whig I  
+must copy it.  It is told in a letter from a lady  
+<lb/> 
+in <name type="placename">Winchester</name>.  She  
+says God only knows what we have  
+<lb/> 
+had to bear from the Federals, &amp; then  
+proceeds to speak  
+<lb/> 
+among other things of an old negro who was kept  
+<lb/> 
+on  
+nothing but water for three days because he  
+<orig reg="refused">re<lb/>fused</orig> 
+ to work &amp; said he  
+was "secesh."  The fourth  
+<lb/> 
+day an officer went to him with the inquiry  
+"Are  
+<lb/> 
+you secesh yet?"  His reply was "<hi rend="underline"> 
+Bless de Lord,  
+<lb/> 
+Massa, I is  
+secesh yet.</hi>" He was then set to  
+<lb/> 
+splitting wood with iron balls  
+attached to his  
+<lb/> 
+hands &amp; feet.  This Lady's brother was at the  
+<lb/> 
+guard  
+house &amp; saw him. The officer was cursing  
+<lb/> him &amp; saying he ought to have iron balls on his  
+ 
+  
+<pb n="22" entity="EmeDiar22" pid="uva-lib:503347"/> 
+
+  
+neck &amp; arms.  The old fellow went on splitting  
+<lb/> 
+saying "Bless de  
+Lord, massa, any where you can  
+<lb/> 
+put 'em.  You can kill de body but you  
+can't  
+<lb/> 
+kill de soul, &amp; when dat gets to heaven,  
+<hi rend="underline">it will  
+<lb/> 
+be secesh  
+yet.</hi>" Noble fellow.  It does one good to  
+<lb/> 
+hear such instances.  I  
+do not know how I would  
+<lb/> 
+stand the starving process <add hand="h1" place="supralinear">myself</add>,  
+but think I  
+would  
+<lb/> 
+have to be right hungry before I would give in.   
+<lb/> 
+She adds that  
+her brother called to the officer  
+<lb/> 
+saying, "Hallo Grant, is that what  
+you call <del hand="h1">fre</del> <add hand="h1" place="supralinear">freedom</add>."</p>  
+</div2>  
+ 
+</div1>  
+  
+<div1 id="EmeDia1864" type="part" n="1864">  
+<head>1864
+<!-- <ref>EmeDia1864</ref> -->
+</head>  
+  
+<pb n="23" entity="EmeDiar23" pid="uva-lib:503348"/> 
+  
+  
+<div2 type="entry" n="1864-07-08" id="d21">  
+<head>July 8, 1864
+ <!-- <ref> Medicine/Hospitals, Family</ref> --> 
+</head> 
+<opener> 
+<dateline> 
+ 
+ <date value="1864-07-08">July 8, 1864</date>  
+</dateline> 
+</opener> 
+ 
+<p>Long time has elapsed since the <orig reg="foregoing">fore 
+<lb/> 
+going</orig> was written, &amp; 
+innumerable have been the events  
+<lb/> 
+which have transpired in the  
+interval.  The most <orig reg="important">im 
+<lb/> 
+portant</orig> of these to me are two severe illnesses  
+which  
+<lb/> 
+have occured since last  
+<abbr expan="October">Oct</abbr>.  A few particulars of these  
+<lb/> 
+I will  
+note down, as I write for the information of my  
+<lb/> 
+northern friends,  
+should any of them have the <orig reg="curiosity">curios 
+<lb/> 
+ity</orig> to read this journal, &amp; leave  
+herewith the request<lb/> 
+ that it may be forwarded to them at some future  
+time  
+<lb/>if it 
+should  not be in my power to do it myself.</p>  
+<p>The attacks spoken of bore symptoms of typhoid  
+<lb/> 
+pneumonia at first,  
+&amp; the fever in each attack continued  
+<lb/> 
+many days, especially the  
+quickness of the pulse,  
+<lb/> 
+ranging from 120 to 125.  This was attended &amp; 
+<orig reg="suceeded">suc<lb/>eeded</orig>  
+by extreme prostration so that many of my  
+<lb/> 
+friends apprehended  
+that I would never be able to arise.   
+<lb/> 
+By the blessing of God, however,  
+upon the close attention  
+ 
+  
+<pb n="24" entity="EmeDiar24" pid="uva-lib:503349"/> 
+ 
+of my physicians &amp; the most careful nursing, I was at  
+<lb/> 
+length  
+restored, though confined to my my bed the second  
+<lb/> 
+time nearly three  
+months.  I cannot at all do justice  
+<lb/> 
+to my feelings here without  
+speaking particularly of  
+<lb/> 
+<name>Sister <abbr expan="Catharine">C.</abbr></name>'s  
+kindness in watching over me with <lb/>  
+the tenderest care by day &amp; by night through both these  
+<lb/> 
+illnesses.  
+<add hand="h1" place="supralinear">Much more might be added did not my limits forbid. 
+</add>  I must be indulged  
+in describing my little  
+<lb/> 
+bed, set under the windows by the side of  
+hers, &amp; at  
+<lb/> 
+right angles with it, in here for the last eight or nine  
+<lb/> 
+months, I have slept by night &amp; lain often a great  
+<lb/> 
+part of the day.</p>  
+<p>Some of the neighbors sat up with me a few  
+<lb/> 
+nights, but for the most  
+part, <name>Eva</name> attended upon  
+<lb/> 
+me, sleeping in the same room &amp; bringing me  
+<orig reg="nourishment">nour<lb/> 
+ 
+ishment</orig> at bedtime &amp; at midnight &amp; soon in the  
+<lb/> 
+morning.  If she  
+got worn out, <name>Sister C</name>. in spite  
+<lb/> 
+of all my persuasions, would do it  
+herself.</p>  
+<p>For weeks during the second illness, I took no  
+ 
+  
+<pb n="25" entity="EmeDiar25" pid="uva-lib:503350"/> 
+  
+solid food &amp; very little of anything.  The doctor however  
+<lb/> 
+said I  
+must eat often, &amp; after I began to get an appetite  
+<lb/> 
+I did not fail to  
+profit by his suggestion, for my <orig reg="stomach">stom 
+<lb/> 
+ach</orig> felt like a shrivelled scroll  
+if I did not eat very  
+<lb/> 
+frequently.  No one would <add hand="h1" place="supralinear">have</add> 
+ supposed I could  
+lose  
+<lb/> 
+much flesh, but I did, &amp; when able to a rise from  
+<lb/> 
+my bed, looked  
+like a walking skeleton.  By a kind  
+<lb/> 
+Providence, we had a small  
+quantity of cocoa  
+<lb/> 
+on hand.  This suited me pretty well, which was <lb/> 
+fortunate as I could not take tea &amp; coffee.  I was  
+<lb/> 
+kept constantly  
+supplied with chicken soup, which  
+<lb/> 
+with porridge &amp; a little bread &amp; 
+butter formed a <orig reg="sufficient">suf<lb/>ficient</orig> variety.   
+But enough on this head.</p>  
+</div2>  
+<div2 type="entry" n="1864-07-09" id="d22">  
+<head>July 9, 1864
+ <!-- <ref> Family, Home front, Medicine/Hospitals,
+Patriotism, Troop Movement, Women</ref> --> 
+</head> 
+ 
+<opener> 
+<dateline> 
+ <date value="1864-07-09">July 9</date>  
+</dateline> 
+</opener> 
+<p>One thing I omitted to mention, a severe cough  
+<lb/> 
+a thing very unusual  
+for me.  It hung on for many  
+<lb/> 
+weeks, &amp; indeed is not entirely cured  
+yet.  This cough  
+<lb/> 
+seemed a sort of epidemic.  Within the last year, it  
+has <lb/> 
+prevailed extensively, has been so violent &amp; long  
+continued, 
+ 
+ 
+  
+<pb n="26" entity="EmeDiar26" pid="uva-lib:503351"/> 
+ 
+
+  
+ that many have insisted it was the whooping  
+<lb/> 
+cough, even  
+those who have <add hand="h1" place="supralinear">had</add> that already.</p>  
+<p>I was taken the second time, the last of <abbr expan="February">Feb</abbr>. 
+<lb/>  Have recovered so as  
+to be able to go about the house  
+<lb/> 
+but not so as to go to church or to  
+visit abroad, &amp; feel  
+<lb/> 
+still very weak so that it often requires a  
+painful  
+<lb/> 
+effort to get about.  During this time, <name>Sister  
+<abbr expan="Catharine">C.</abbr></name> has  
+<lb/> 
+been  
+sick two or three times.  Once she had <orig reg="inflammation">inflam 
+<lb/> 
+ation</orig> of the stomach &amp; 
+was threatened with apoplexy  
+<lb/> 
+but was mercifully spared to us.  
+<name>Eva</name> was  
+sick &amp;  
+<lb/> 
+laid up for some time, &amp; she got over done.  One of  
+<lb/> 
+the  
+neighbors lent us a little chap to wait on me.   
+<lb/> 
+<name>Josie</name> was sick a long  
+time too, though not at the  
+<lb/> 
+same time with his mother.</p>  
+<p>Our friends at the North have probably  
+<lb/> 
+been thinking <add hand="h1" place="supralinear">some</add>  
+about us  
+of late, hearing that the <orig reg="Yankees">Yan 
+<lb/>kees</orig> have taken  
+<name type="placename">Staunton</name>, though  
+<hi rend="underline">what</hi> they have  
+<lb/> 
+thought is beyond my power to divine, ignorant  
+as we  
+  
+<pb n="27" entity="EmeDiar27" pid="uva-lib:503352"/> 
+
+  
+are of each others feelings.  <name>Sister  
+<abbr expan="Catharine">C.</abbr></name> &amp; I very often  
+<lb/> 
+talk of  
+them, wonder how they fare <add hand="h1" place="supralinear"> 
+&amp; what they think of us,</add> whether they set  
+us down  
+<lb/> 
+for incorrigible rebels against "the best government in  
+<lb/> 
+the  
+world," always winding up however by arguing  
+<lb/> 
+that we do not &amp; cannot  
+believe they favor this <orig reg="unjust">un 
+<lb/> just</orig> &amp; abominable war, though such strange  
+things  
+<lb/> 
+happen these days that nothing ought to astonish us.</p>  
+<p>But I commenced with the intention of <orig reg="telling">tell 
+<lb/> 
+ing</orig> a story about some  
+Yankee raiders.  We have  
+<lb/> 
+often had alarms about their coming but have <lb/>  
+been preserved by a kind Providence until this season.   
+<lb/> 
+Not long  
+since, they favored us with two visits  
+<add hand="h1" place="supralinear">(on June 9 &amp; 10th)</add> which  
+<lb/> 
+will  
+not soon be forgotten in these parts.  The first day,  
+<lb/> 
+they came in  
+from the West, across the mountain.  A  
+<lb/> 
+party of 40 or 50 perhaps, came  
+riding up, dismounted  
+<lb/> 
+&amp; rushed in.  "Have you got any whiskey" said  
+they,  
+<lb/> 
+"got any flour?  got any bacon?" <add hand="h1" place="supralinear"> 
+with plenty of oaths</add> "Come on  
+boys," says  
+<lb/> 
+one, "we'll find it all"  With that, they pushed rudely  
+ 
+  
+<pb n="28" entity="EmeDiar28" pid="uva-lib:503353"/> 
+ 
+  
+by <name>Sister <abbr expan="Catharine">C.</abbr> 
+</name> who was terribly alarmed, &amp; had been  
+<lb/> 
+from the first  
+news of their coming, &amp; spread <orig reg="themselves">them<lb/> 
+selves</orig> nearly all over the house.  
+Finding their way  
+<lb/> 
+to a fine barrel of flour which a neighbor had given  
+<lb/> 
+us, they proceeded to fill their sacks &amp; pillow cases,  
+<lb/> 
+scattering a  
+large percent on the floor, till it was  
+<lb/> 
+nearly exhausted.  The last  
+one told us, on our <orig reg="remonstrating"> 
+remon<lb/>strating</orig>,  
+to hide the rest.</p>  
+<p>Some went upstairs, opened every trunk &amp;  
+<lb/> 
+drawer &amp; tossed things  
+upside down or on the floor,  
+<lb/> 
+even my nice bonnets, pretending to be  
+looking for<lb/>
+arms.  They stole <name>Cousin Samuel</name>'s gold sleeve  
+buttons  
+<lb/> 
+&amp; 
+pin (a present to him) his best shirt, a good coat,  
+<lb/> 
+&amp; pair of shoes.  
+The shoes, it being nearly impossible  
+<lb/> 
+to get shoes these days, he  
+afterwards persuaded the<lb/>
+fellow to <hi rend="underline">sell</hi> him back for an Ohio ten  
+dollar note,  
+<lb/> 
+as good as gold to him.  He could with a much  
+<lb/> 
+better  
+appetite doubtless have knocked him down,  
+ 
+  
+<pb n="29" entity="EmeDiar29" pid="uva-lib:503354"/> 
+ 
+  
+but there was no choice in the matter.</p>  
+<p>We did not say anything to provoke them, but  
+<lb/> 
+did not disguise our  
+sentiments.  They went peeping  
+<lb/> 
+under the beds, looking for rebels as  
+they said.   
+<lb/> 
+<name>Baxter</name> told them there were no rebels here (meaning  
+<lb/> 
+rebel  
+soldiers) <name>Cate</name> spoke &amp; said  
+<hi rend="underline">We are all rebels.</hi><lb/>  
+<name>Ellen</name> spoke &amp; 
+said "Yes <name>Baxter</name>, I am a rebel."  The  
+<orig reg="Yankee">Yan<lb/>kee</orig>  
+looked <add hand="h1" place="supralinear">up</add> from her  
+drawer, which he <add hand="h1" place="supralinear">was</add> searching just<lb/>
+then, &amp; said "That's right."  
+<name>Cate</name>  
+then said, "I am a rebel  
+<lb/> 
+too &amp; I <hi rend="underline">glory</hi> in it."  When  
+<name>Sister <abbr expan="Catharine">C.</abbr></name>  
+remonstrated with  
+<lb/> 
+them about taking the shoes, asking them why they <lb/> 
+injured innocent persons who had taken no part  
+<lb/> 
+in the war, one of them  
+replied, "You need not tell me  
+<lb/> 
+that, I know all the people along here  
+have sons in  
+<lb/> 
+the army."  She then pointed to B &amp; said "That is my <lb/> 
+only son."  <name>Ellen</name> then said, "I have no brothers in the  
+<lb/> 
+army, I wish from my heart I had."  He then said,  
+<lb/> 
+"Now Sis, I don't wish you had  
+brothers in the  
+ 
+  
+<pb n="30" entity="EmeDiar30" pid="uva-lib:503355"/> 
+ 
+  
+in the army.  I wouldn't like to kill one of your  
+<lb/> 
+brothers.  I got  
+some corn here," (pointing to his  
+<lb/> 
+plunder) An officer rode up after the  
+rest had gone  
+<lb/> 
+having the appearance of a gentleman, &amp; asked civilly  
+<lb/> 
+if  
+he could get some flour.  <name>Sister  
+<abbr expan="Catharine">C.</abbr></name>  
+telling <add hand="h1" place="supralinear">him</add> how they  
+<lb/> 
+had stripped  
+us of nearly every thing they could find,  
+<lb/> 
+said he could go &amp; see what  
+they had left, &amp; help  
+<lb/> 
+himself.  He said no, he never had searched a<lb/>  
+house &amp; never would, &amp; it was a shame they should 
+<add hand="h1" place="supralinear">do so.</add></p>  
+<p>That night they camped <del hand="h1">away</del>  
+a mile or two<lb/>  
+ 
+ 
+ 
+from us, extending along the  
+road two or three  
+<lb/> 
+ 
+miles, &amp; got a fine supper from the farms around  
+them.   
+<lb/> 
+<name>Sister <abbr expan="Catharine">C.</abbr> 
+</name> was afraid to undress, but lay down quite  
+<lb/> 
+exhausted  
+two or three hours in the night.  <name>Ellen</name>  
+<lb/> 
+kept watch the first part of  
+the night, &amp; <name>Cousin S.</name>  
+<lb/> 
+the last.  E soon called to him, "I hear  
+footsteps."   
+<lb/> 
+He went out &amp; saw some coming up the road  
+<lb/> 
+with a torch.  
+Thinking they might be coming  
+ 
+  
+<pb n="31" entity="EmeDiar31" pid="uva-lib:503356"/> 
+
+  
+to burn the house, he came to our door, saying we  
+<lb/> 
+had better have  
+something ready to throw around  
+<lb/> 
+us if we should be called out for any  
+reason <add hand="h1" place="supralinear">taking care not to alarm us</add>.   
+But  
+<lb/> 
+our fears were groundless.  
+They started off in the  
+<lb/> 
+night for Staunton where there were several  
+<orig reg="thousand">thou<lb/> 
+sand</orig> of them.   
+Our visitors belonged to <name>Averill</name>'s  
+<add hand="h1" place="supralinear">command</add>.</p>  
+</div2>  
+<div2 type="entry" n="1864-07-13" id="d23">  
+<head>July 13, 1864
+ <!-- <ref> Women, Home front, African Americans</ref> --> 
+</head> 
+<opener> 
+<dateline> 
+ <date value="1864-07-13">July 13,</date>  
+</dateline> 
+</opener> 
+<p>They told us that <name>Crook's</name> men were a great  
+<lb/> 
+deal worse than they, &amp; 
+that was true, but they were  
+<lb/> 
+bad enough &amp; worse at some other places  
+than with  
+<lb/> 
+us.  At one of our neighbors,  
+ 
+<add hand="h1" place="supralinear"><name>Mr. H.</name></add> they took every thing 
+<lb/>  
+they had to eat, all the pillow cases &amp; sheets but  
+<lb/> 
+what were on the  
+beds, &amp; the towels &amp; some of the ladies  
+<lb/> 
+stockings.  One of them made  
+up a bundle of ladies  
+<lb/> 
+clothing to take, but his comrade shamed him out  
+of it.  
+<lb/> 
+ They then poured out their molasses, scattered their  
+<lb/> 
+preserves  
+&amp; sugar &amp; other things about the floor, &amp;  
+<lb/> 
+mixed them all together &amp; 
+destroyed things generally  
+ 
+  
+<pb n="32" entity="EmeDiar32" pid="uva-lib:503357"/> 
+
+  
+The ladies there are very amiable &amp; genteel in their  
+<add hand="h1" place="supralinear">appearance</add>  
+<lb/> 
+which makes it the more strange.  Their visitors as well  
+<lb/> 
+as ours  
+however had taken a drop too much.  This <orig reg="gentleman">gen 
+<lb/> 
+tleman</orig> had kept some  
+things for sale of late, had  
+<lb/> 
+a quantity of tobacco &amp; some other things  
+on hand, all  
+<lb/> 
+which they took to the amount of several thousand  
+dollars.</p>  
+<p>At another neighbors, they took all of their  
+<lb/> 
+meat (some 30 pieces  
+of bacon) &amp; nearly everything  
+<lb/> 
+else they had to eat, all their horses  
+(4) &amp; <orig reg="persuaded"> 
+persuad<lb/>ed</orig> off their two negro men.  One of these  
+was <orig reg="afterwards">af- 
+<lb/> 
+terwards</orig>  
+seen by one of our men crying to come  
+<lb/> 
+back, but was watched so closely  
+that he could not  
+<lb/> 
+escape.  No wonder he cried.  He has been twice  
+<lb/> 
+on  
+the brink of the grave with pneumonia, &amp; was  
+<lb/> 
+nursed by his mistress as  
+tenderly as if he had  
+<lb/> 
+been a brother, &amp; she was always kind to him,  
+his <orig reg="master">mas 
+<lb/> 
+ter</orig> also.  He will not find such treatment anywhere  
+<add hand="h1" place="supralinear">else  
+</add> 
+  
+<pb n="33" entity="EmeDiar33" pid="uva-lib:503358"/> 
+ 
+  
+The Yankees (I give them this appellation <orig reg="because">be 
+<lb/> 
+cause</orig> every body else  
+does) took off all the negro men  
+<lb/> 
+&amp; boys they could, as well as all the  
+horses, told the  
+<lb/> 
+women they would take <hi rend="underline">them</hi> next time they  
+came.   
+<lb/> 
+Many sent their horses to the woods.  Some of these  
+<lb/> 
+were found  
+&amp; captured.  People here do their farming  
+<lb/> 
+with horses instead of oxen,  
+&amp; it is an immense loss  
+<lb/> 
+to have them &amp; the servants swept off to  
+such an extent,  
+<lb/> 
+just as harvest is about to begin too.  Many sent  
+<lb/> 
+off  
+their servants in one direction &amp; another, some of whom  
+<lb/> 
+were overtaken  
+&amp; captured &amp; others escaped.</p>  
+<p>The lady before mentioned has told me since  
+<lb/> 
+that no tongue can tell  
+her feelings the day the Yankees  
+<lb/> 
+were there.  In the first place, they  
+fired on her little  
+<lb/> 
+son &amp; another boy several times, as they sat on  
+the  
+<lb/> 
+fence watching their approach, &amp; afterwards pretended  
+<lb/> 
+that they  
+took them for confederate soldiers from their  
+<lb/> 
+being dressed in gray.  
+Then her husband &amp; oldest son  
+ 
+  
+<pb n="34" entity="EmeDiar34" pid="uva-lib:503359"/> 
+ 
+  
+were hid in the bushes in the garden, &amp; she was in  
+<lb/> 
+momentary fear  
+of their being discovered &amp; fired upon.   
+<lb/> 
+The men &amp; boys always kept  
+out of the way, as they  
+<lb/> 
+were sometimes taken off, &amp; did not know what  
+<orig reg="treatment">treat 
+<lb/> 
+ment</orig> they might receive, &amp; thus the women were left  
+<lb/> 
+to shift for  
+themselves as best they could.  Another  
+<lb/> 
+of our neighbors was fired  
+upon several times until  
+<lb/> 
+he either dropped or lay down, it was not  
+known  
+<lb/> 
+which.  They said it was because he ran, but he  
+<lb/> 
+was passing  
+between their pickets &amp; ours, who were  
+<lb/> 
+firing at each other, &amp; was  
+obliged to run.  We heard  
+<lb/> 
+of the circumstance, &amp; were very uneasy, but  
+he <orig reg="providentially">prov 
+<lb/>identially</orig> escaped injury.  They always fire upon  
+<lb/> 
+those who run  
+from them.</p>  
+</div2>  
+  
+<div2 type="entry" n="1864-07-15" id="d24">  
+<head>July 15, 1864
+ <!-- <ref> Home front, Family, African Americans</ref> --> 
+</head> 
+<opener> 
+<dateline> 
+ <date value="1864-07-15">July 15,</date>  
+</dateline> 
+</opener> 
+ 
+<p>Those who left their houses fared worse than  
+<lb/> 
+others, at least their  
+houses did.  The wife of a worthy  
+<lb/> 
+miller living near us, became so  
+much alarmed that  
+ 
+  
+<pb n="35" entity="EmeDiar35" pid="uva-lib:503360"/> 
+ 
+  
+went with her little children to a neighbors'.  They  
+<lb/> 
+stripped her  
+house completely, destroying <orig reg="everything">every<lb/>thing</orig>,  
+left nothing but a straw bed  
+&amp; one sheet.  It  
+<lb/> 
+was a hard case, for it was with difficulty that Mr.  
+H.  
+<lb/> 
+with his large family, could get along before.  Another  
+<lb/> 
+lady who  
+was alone, was so much frightened by a  
+<lb/> 
+drunken soldier who came in,  
+that she left the house.<lb/>
+The Yankees destroyed every thing there  
+too.</p>  
+<p>We were better off than most in having <name>Cousin  
+<lb/> 
+S</name> with us.  We feared  
+they would take him, but they  
+<lb/> 
+only inquired if he was a soldier, &amp; 
+when told that  
+<lb/> 
+he was a teacher, did not molest him.  He had a  
+<lb/> 
+large  
+school (upwards of 40) &amp; had refused many more  
+<lb/> 
+applications.  It was nearly  
+out at that time, &amp; was  
+<lb/> 
+closed abruptly because parents liked to stay at home  
+<lb/> 
+&amp; keep their children with them.  He was the  
+<lb/> 
+chief man in hiding our  
+things.  I know not <orig reg="what">wha<add hand="h1" n="editor" place="inline">t</add></orig> 
+ 
+  
+<pb n="36" entity="EmeDiar36" pid="uva-lib:503361"/> 
+  
+  
+we should have done without him.  Some hid their  
+<lb/> 
+things &amp; had them  
+discovered but we were more <orig reg="fortunate">for<lb/> 
+tunate</orig>.  (Some were betrayed by their  
+servants) Some  
+<lb/> 
+hid nothing, thinking they would not be disturbed but  
+<lb/> 
+found themselves woefully mistaken.  Others thought  
+<lb/> 
+they might be  
+worse dealt <add hand="h1" place="supralinear">with</add> if they hid anything.</p>  
+<p>A lady near <name type="placename">Staunton</name> a little time since  
+<lb/> 
+had two Yankee officers  
+come to take tea with her.   
+<lb/> 
+She was strong "secesh," but she got them  
+a good <orig reg="supper">sup<lb/> 
+per</orig>.  It was served up in very plain dishes.  They  
+<orig reg="perceived">per<lb/>ceived</orig>  
+that she was wealthy, &amp; inquired if she had not  
+<lb/> 
+hid her plate &amp;c.  She  
+told them she had.  They  
+<lb/> 
+asked <hi rend="underline">where</hi>.  She told them in the ash heap.  
+They  
+<lb/> 
+said "That is not a good place.  It is the first place <lb/>  
+searched."  They then very kindly &amp; politely showed  
+<lb/> 
+her a good place  
+(in their opinion) She followed their  
+<lb/> 
+advice &amp; saved her things.  In  
+another instance, some  
+<lb/> 
+Yankee officers politely showed a lady where to  
+hide her  
+ 
+  
+<pb n="37" entity="EmeDiar37" pid="uva-lib:503362"/> 
+
+  
+her <del hand="h1">illeg.</del> silver &amp;c.  The soldiers came &amp;  
+searched in vain.   
+<lb/> 
+Just as they  
+were going away, a little black chap  
+<lb/> 
+who had followed them around says  
+to them in a  
+<lb/> 
+tone of triumph, "Ah you did not find Missis things  
+<lb/> 
+hid  
+inside the ____"  They went &amp; found &amp; took them.</p>  
+<p>Very early on the morning of June 7th, 
+<lb/> 
+ knowing that the Yankees  
+were coming (the night  
+<lb/> 
+had been mostly spent in preparing for them)  
+<name><abbr expan="Brother Luther">Br.  
+<lb/> 
+L</abbr></name> had taken <name>Eva</name> &amp; <name>John</name>,  
+the horse &amp; rockaway, &amp;  
+<lb/> 
+started out he  
+knew not whither exactly, perhaps  
+<lb/> 
+to <name type="placename">Eastern <abbr expan="Virginia">Va</abbr></name>.  He wanted to be  
+guided by circumstances.   
+<lb/> 
+We had been in a great quandry as to what <lb/>  
+course was best for him to pursue.  If he went  
+<lb/> 
+abroad, he might fall  
+into the hands of the Yankees.   
+<lb/> 
+If he <orig reg="stayed">staid</orig> at home, they would  
+probably take him,  
+<lb/> 
+having such a spite against preachers &amp; especially<lb/>  
+as he has written &amp; spoken so freely, that his <orig reg="sentiments">sen 
+<lb/> 
+timents</orig> are  
+generally known.  They might insist upon <ref n="5" target="n5">[5]</ref> 
+ 
+ </p> 
+ 
+</div2>  
+<pb n="39" entity="EmeDiar39" pid="uva-lib:503364"/> 
+<div2 type="entry" n="1864-07-16" id="d25">  
+<head>July 16, 1864
+ <!-- <ref> Family, Home front, Tropop Movement</ref> --> 
+</head> 
+<opener> 
+<dateline> 
+ <date value="1864-07-16">July 16,</date>  
+</dateline> 
+</opener> 
+ 
+  
+ 
+<p>It was finally concluded to ship the whole  
+<lb/> 
+cargo, &amp; let them go &amp; 
+seek their fortune.  <name>Eva</name> had been  
+<lb/> 
+right sick, threatened with  
+pneumonia, but when the  
+<lb/> 
+time came, she was very anxious to go &amp; 
+thought  
+<lb/> 
+she was able.  So she wrapped up well, took a strong  
+<lb/> 
+dose of  
+coffee, &amp; set off.  We heard nothing from them  
+<lb/> 
+for <del hand="h1">illeg.</del> <add hand="h1" place="supralinear">a</add> 
+ week.  Then word  
+came that they had been  
+<lb/> 
+seen riding behind a train of wagons which  
+they  
+<lb/> 
+could not pass, &amp; that those wagons were afterwards  
+<lb/> 
+captured. So  
+that there was little doubt they were  
+<lb/> 
+taken too.  <name>Sister <abbr expan="Catharine">C.</abbr></name> was in  
+such a state from anxiety,  
+<lb/> 
+loss of sleep &amp; fatigue, for she &amp; the  
+children had had  
+<lb/> 
+all <name>Eva</name>'s work to do, that this news brought on  
+<del hand="h1">spa</del> 
+<lb/> 
+spasms such as she used to have.  A note was now  
+<lb/> 
+brought in from a  
+friend, saying that <name>Mr. E.</name> was seen  
+<lb/> 
+at such a time in <abbr expan="Eastern Virginia">E. Va.</abbr> 
+ beyond  
+the reach of the  
+<lb/> 
+Yankees, &amp; was therefore safe.  There might be some  
+<lb/> 
+mistake about this, but we tried to believe it &amp; rest upon it.  
+ 
+  
+<pb n="40" entity="EmeDiar40" pid="uva-lib:503365"/> 
+ 
+  
+<del hand="h1">illeg.</del> In a few days, we got a letter from  
+<name>brother <abbr expan="Luther">L. 
+</abbr></name> saying  
+<lb/> 
+that he hoped  
+to get home soon, &amp; so he did.</p>  
+<p>It seems he wandered around for several  
+<lb/> 
+days, &amp; then went over to  
+<name type="placename"><abbr expan="Eastern Virginia">E. Va</abbr></name>,  
+to <name type="placename">Amherst County</name>  
+<lb/> 
+where he taught school on first coming to  
+<name type="placename"><abbr expan="Virginia">Va.</abbr></name> 
+ but  
+<lb/> 
+here he was not safe.  In a day or two, news came  
+<lb/> 
+that the  
+Yankees were coming, &amp; were just upon them,  
+<lb/> 
+He mounted his horse &amp; 
+made for the woods, his  
+<lb/> 
+host also, taking their servants with them.  
+They  
+<lb/> 
+barely escaped, for in five minutes from the first alarm, 
+<lb/> 
+ the  
+Yankees were in the house.  The fugitives  
+<lb/> 
+<del hand="h1"> illeg.</del> slept in the woods three  
+nights, which was  
+<lb/> 
+no benefit to <name>Eva</name> in her weak state.  She has not  
+been  
+<lb/> 
+well since her return, but has lingered along <orig reg="sometimes">some 
+<lb/> 
+times</orig> better &amp; 
+then worse, &amp; is now under the doctor's  
+<add hand="h1" place="supralinear">care</add>.   
+<lb/> 
+The Yankees took  
+from this plantation several <orig reg="hundred">hun<lb/> 
+dred</orig> weight of bacon (nearly all there  
+was) a <orig reg="hundred">hun<lb/> 
+ 
+dred</orig> bushels of corn, a quantity of flour, oats &amp;c. &amp;  
+<add hand="h1" place="supralinear">all  
+the horses.</add> 
+ 
+ 
+  
+<pb n="41" entity="EmeDiar41" pid="uva-lib:503366"/> 
+</p>  
+</div2>   
+<div2 type="entry" n="1864-07-19" id="d26">  
+<head>July 19, 1864
+ <!-- <ref> Home front, Women</ref> --> 
+</head> 
+<opener> 
+<dateline> 
+ <date value="1864-07-19">July 19</date> 
+</dateline> 
+</opener>  
+<p>I have been anticipating. On the 10th of  
+<lb/> 
+June we received another  
+visit from our invaders, at  
+<lb/> 
+least, several thousand of them passed our  
+house  
+<lb/> 
+on their way from  
+<name type="placename">Staunton</name> to  
+<name type="placename">Lexington</name>.  <name>Sister C.</name>  
+<lb/> 
+requested  
+one of them who was gentlemanly in his  
+<orig reg="appearance">ap<lb/>pearance,</orig> to guard us, &amp; he  
+did so.  They were four  
+<lb/> 
+hours in passing.  None of them came in but  
+the  
+<lb/> 
+guard.  Some went in the spring house however, &amp;  
+<lb/> 
+helped themselves  
+to milk, &amp; one went off with a large  
+<lb/> 
+panfull in each hand.  
+<name>Ellen</name>  
+called after him to  
+<lb/> 
+"Bring back those pans," but he only laughed &amp; 
+went on.  
+<lb/> 
+ Another who had been taking a cool draught from  
+<lb/> 
+a pan, came  
+out with his chin covered &amp; some on  
+ 
+the  
+<lb/> 
+end of his nose, like a cat  
+from the cream pot.  E.  
+<lb/> 
+accosted him with "<hi rend="underline">Ar'nt you ashamed</hi>?"  
+putting on  
+<lb/> 
+as much emphasis as she well could, &amp; adding,  
+<lb/> 
+"Who do you  
+think is going to drink that milk, 
+<lb/> 
+ after you have put your nose in  
+it!"  The fellow made no reply  
+<lb/> 
+but walked off.</p>  
+ 
+  
+<pb n="42" entity="EmeDiar42" pid="uva-lib:503367"/> 
+  
+  
+<p>I did not see much of them, <name>Sister C.</name> prefering  
+<lb/> 
+to have me stay  
+home in our room.  I was just getting  
+<lb/> 
+able to walk about.  They did  
+not find the way down  
+<lb/> 
+there at all.  The room was built over after we  
+came  
+<lb/> 
+here, &amp; they might have thought that the door  
+<orig reg="leading">lead 
+<lb/> 
+ing</orig> into it, led  
+out of doors.  I did not feel afraid of  
+<lb/> 
+them in the least, but did not  
+have opportunity to  
+<lb/> 
+say much to them.</p>  
+<p>Volumes might be written, &amp; doubtless  
+<lb/> 
+will be, according them  
+heroic achievements, but  
+<lb/> 
+I must cut my story short.  They burnt a bridge 
+<lb/> 
+a very large distillary &amp; some other buildings in 
+<lb/> 
+S. <name><abbr expan="Governor">Gov.</abbr>  
+Letcher</name>'s house, the military institute in  
+<lb/> 
+Lexington, &amp; some of the mills about the country.   
+<lb/> 
+My brother had a  
+barrel of flour, four bushel of  
+<lb/> 
+wheat &amp; eight of corn at a mill a few  
+miles <orig reg="distant">dis 
+<lb/> 
+tant</orig> from us, all which they took, a great loss  
+<lb/> 
+in these  
+times for a poor preacher.  It was the  
+ 
+  
+<pb n="43" entity="EmeDiar43" pid="uva-lib:503368"/> 
+
+  
+whole of wheat he received this year from the people  
+<lb/> 
+at Walker's  
+Creek, where he supplies one fourth of his <add hand="h1" place="supralinear">time</add>. 
+<lb/> 
+  I forgot to say that  
+they took from us, a very large  
+<lb/> 
+ham of bacon, two large rolls of  
+butter &amp; whatever  
+<lb/> 
+else they could lay their hands on, at the first  
+visit.</p>  
+</div2>  
+<div2 type="entry" n="1864-07-20" id="d27">  
+<head>July 20, 1864
+ <!-- <ref> Women, Home front</ref> --> 
+</head> 
+ 
+<opener> 
+<dateline> 
+ <date value="1864-07-20">July 20,</date>  
+</dateline> 
+</opener> 
+<p>One thing which happened at a neighbor's  
+<lb/> 
+is too good to omit.  A  
+fellow went into their spring  
+<lb/> 
+house, helped himself to what he liked,  
+&amp; finally  
+<lb/> 
+lighted upon a jar of <hi rend="underline">tar</hi>.   
+ 
+He asked what it was.   
+<lb/> 
+A  
+daughter of the family, the only person at home,  
+<lb/> 
+told him it was  
+<hi rend="underline">blackberry jelly</hi>.  He took it, &amp;  
+<lb/> 
+made off.  She called after  
+him to know if he would  
+<lb/> 
+have some cream with it.  With that he put his 
+<lb/>  
+fingers in it, &amp; began to suck them, then threw 
+<lb/> 
+ down the jar &amp; went  
+off cursing with all his might.   
+<lb/> 
+His captain coming up just then,  
+asked the girl  
+<lb/> 
+what that fellow was cursing so for.  When told,  
+<lb/> 
+he  
+said he thought the Yankees were sharper than that. 
+ 
+ 
+  
+<pb n="44" entity="EmeDiar44" pid="uva-lib:503369"/> 
+</p>  
+</div2>   
+<div2 type="entry" n="1864-07-21" id="d28">  
+<head>July 21, 1864
+ <!-- <ref> Home front, Troop Movement</ref> --> 
+</head> 
+ 
+<opener> 
+<dateline> 
+ <date value="1864-07-21">July 21,</date>  
+</dateline> 
+</opener> 
+ 
+<p>It is doubtful whether this irruption  
+<lb/> 
+should be called a raid, when  
+so many were <orig reg="consumed">con 
+<lb/> 
+cumed</orig> in it.  The number in S. was estimated at  
+<lb/> 
+15,000  
+or more.  Some passed here, &amp; some took  
+<lb/> 
+other routes.  It is natural  
+to inquire what <orig reg="became">be 
+<lb/> 
+came</orig> of this cloud of locusts from the bottomless 
+<lb/> 
+  
+pit.  They told us, we need not trouble ourselves  
+<lb/> 
+about our wheat  
+harvest, for they were coming  
+<lb/> 
+back to reap it for us, but the good  
+Lord <orig reg="disappointed">dis- 
+<lb/> 
+appointed</orig> their expectation.  It was reported, 
+<lb/> 
+ that many of  
+them suffered greatly, &amp; some even  
+<lb/> 
+perished with hunger afterwards, in  
+passing  
+<lb/> 
+through some districts which they had ravaged.   
+<lb/> 
+Their violent  
+dealing <add hand="h1" place="supralinear">if so</add> 
+ 
+ came down upon their own  
+<lb/> 
+pate.  They brought on quite a  
+number of reapers,  
+<lb/> 
+which we captured.  As we had the work to do, it 
+<lb/> 
+  
+was but fair that we should have the wherewith to  
+<lb/> 
+do it, especially as  
+they broke up so many of our <add hand="h1" place="supralinear">tools</add>.</p>  
+ 
+  
+<pb n="45" entity="EmeDiar45" pid="uva-lib:503370"/> 
+<p>  
+  
+But to return to our inquiry.  From  
+ 
+<name type="placename">Lexington</name>  
+<lb/> 
+they went to take  
+<name type="placename">Lynchburg</name>.  Our men followed them,  
+<lb/> 
+but we had not enough to handle  
+them, till we got  
+<lb/> 
+reinforcements <del hand="h1">at</del> near L.  Then they retreated before 
+<lb/>  
+us, &amp; went on to  
+<name type="placename">Parkersburg</name> &amp;  
+<name type="placename">Wheeling</name>.</p>  
+<p>There is a report very current now, that <name><abbr expan="General">Gen.</abbr>  
+<lb/> 
+Grant</name> is killed, but  
+there are so many rumors, that  
+<lb/> 
+I never believe anything till confirmed  
+beyond a  
+<lb/> 
+doubt.  It is too good news to be true.  Perhaps, <orig reg="however">how 
+<lb/> 
+ever</orig>,  
+his cause was the best for us that could have  
+<lb/> 
+been pursued.  He fought  
+our men in their <orig reg="fortifications">fortifi 
+<lb/> 
+cations</orig>, sacrificed them &amp; saved ours.  Will  
+he not  
+<lb/> 
+have a heavy account to render, crimsoned with the  
+<lb/> 
+guilt of so  
+many murders.</p>  
+</div2>  
+<div2 type="entry" n="1864-08-09" id="d29">  
+<head>August 9, 1864
+ <!-- <ref> Church/Religious Activity</ref> --> 
+</head> 
+<opener> 
+<dateline> 
+ <date value="1864-08-09">Aug. 9, </date>  
+</dateline> 
+</opener> 
+<p>The Central Presbyterian contains an <orig reg="advertisement">ad 
+<lb/> 
+vertisement</orig> copied from the  
+<hi rend="underline">Boston Recorder</hi> of  
+<lb/> 
+10,000 testaments taken on the schooner  
+Minna, 
+<lb/> 
+ which was attempting to run the blockade.  Fine  
+ 
+  
+<pb n="46" entity="EmeDiar46" pid="uva-lib:503371"/> 
+  
+  
+paper, beautiful print, flexible leather covers, &amp; only  
+<lb/> 
+weighing  
+two ounces--just the thing, says the editor,  
+<lb/> 
+for our soldiers.  And  
+what good does any one  
+<lb/> 
+suppose these testaments will do their  
+soldiers?   
+<lb/> 
+Will the blessing of God attend stolen goods?   
+<lb/> 
+A large lot  
+of bibles too he says, of the <hi rend="underline">same</hi> kind.   
+<lb/> 
+Nothing has aroused  
+my indignation so much for  
+<lb/> 
+a long time.  I could hardly go to sleep  
+the next  
+<lb/> 
+night for thinking of it.  How outrageous for people  
+<lb/> 
+calling  
+themselves <hi rend="underline">Christians</hi> to be chuckling over the  
+<lb/> 
+infamous  
+robberies of their countrymen, taking the  
+<lb/> 
+bread of life out the mouths  
+of our famished soldiers,  
+<lb/> 
+&amp; giving it to profane creatures who will  
+not <orig reg="probably">prob 
+<lb/> 
+ably</orig> care the snap of their fingers for it.  If you ask  
+<lb/> 
+me how  
+I know that their soldiers are more profane  
+<lb/> 
+than ours, I answer <add hand="h1" place="supralinear">in</add> the  
+same way that I know most  
+<lb/>other  
+things, by testimony, abundant testimony  
+<hi rend="underline">thats <add hand="h1" place="supralinear">our testimony</add></hi></p>  
+</div2>  
+<div2 type="entry" n="1864-11-19" id="d30">  
+<head>November 19, 1864
+ <!-- <ref> Patriotism, Home front</ref> --> 
+</head> 
+ 
+<opener> 
+<dateline> 
+ <date value="1864-11-19">Nov 19,</date>  
+</dateline> 
+</opener> 
+<p>A long hiatus again, so <hi rend="underline">many</hi>  
+things of <orig reg="absorbing">ab 
+<lb/> 
+sorbing</orig> interest.  
+An item by the way from the Central <orig reg="Presbyterian">Pres 
+<lb/> 
+byterian</orig>.  It is estimated  
+that 142,000 Confederate soldiers  
+ 
+  
+<pb n="47" entity="EmeDiar47" pid="uva-lib:503372"/> 
+  
+have been converted as convicts since the war began.   
+<lb/> 
+If human  
+testimony can establish any thing it <orig reg="establishes">estab 
+<lb/> 
+lishes</orig> this, that there has  
+been a most wonderful work  
+<lb/> 
+of grace in our army.  How could a broader  
+seal have  
+<lb/> 
+been set upon the righteousness of our cause?  The <add hand="h1" place="supralinear"> 
+Lord</add>  
+<lb/> 
+has  
+looked upon our affliction &amp; our pain, &amp; forgiven  
+<lb/> 
+our sins, to a  
+certain extent at least.  I have <orig reg="gradually">gradu 
+<lb/> 
+ally</orig> arrived at the firm  
+persuasion that multitudes  
+<lb/> 
+of our dying soldiers have been met by  
+redeeming <add hand="h1" place="supralinear">grace</add>.</p>  
+<p><name>Mrs. Gilbert</name> one of our neighbors died a few  
+<lb/> 
+months since, &amp; when  
+dying, she exclaimed <add hand="h1" place="supralinear">with delight</add> 
+ 
+ "O there's  
+<lb/> 
+<name>Jimmy</name> &amp; 
+<name>Johnny</name>."  They  
+had come for their departing  
+<lb/> 
+mother.  They were two of  
+<del hand="h1">their</del>  
+our young  
+<orig reg="soldiers">sol 
+<lb/> 
+diers</orig> who had died not very long before from  
+<lb/> 
+wounds received in  
+battle.  No one knew the state  
+<lb/> 
+of their minds, but does not this  
+circumstance <orig reg="support">sup 
+<lb/> 
+port</orig> the hope that their pious mother's prayers had  
+<lb/> 
+been answered for them?  A  
+<add hand="h1" place="supralinear">similar instance,</add> 
+ <name>Jimmy Holladay</name> when  
+<lb/> 
+dying  
+exclaimed "O there's father."  These boys (the  
+ 
+  
+<pb n="48" entity="EmeDiar48" pid="uva-lib:503373"/> 
+  
+oldest was but just out of his teens) were  
+<lb/> 
+excellent soldiers, went  
+to the army at the first sound of the  
+<lb/> 
+trumpet, &amp; had never taken a  
+furlough.  Their bodies  
+<lb/> 
+were brought home &amp; buried in one grave.  We  
+all  
+<lb/> 
+thought they deserved a monument &amp; accordingly  
+<lb/> 
+<name>Ellen</name> went around &amp; 
+soon collected about $500 for the  
+<lb/> 
+purpose.  It cannot be obtained  
+however till after <add hand="h1" place="supralinear">the</add>  
+war.   
+<lb/> 
+Men are drawn off so closely that it is  
+difficult to  
+<lb/> 
+get a horse shod or a <add hand="h1" place="supralinear">pair of</add> 
+ shoes made or a stick of  
+wood  
+<lb/> 
+hauled.  Then the most common articles are many  
+<lb/> 
+of them  
+exceedingly rare.  But then if we do have  
+<lb/>to sit in the dark <add hand="h1" place="supralinear">for  
+nights</add> except for an hour or so that the  
+<lb/> 
+children are learning their  
+lessons, &amp; submit to  
+<lb/> 
+multitudes of privations far greater than that,  
+we  
+<lb/> 
+do it cheerfully as the price in part of our liberty.</p>  
+</div2>  
+<div2 type="entry" n="1864-11-25" id="d31">  
+<head>November 25, 1864
+ <!-- <ref> Church/Religious Activity</ref> --> 
+</head> 
+<opener> 
+<dateline> 
+ <date value="1864-11-25"><abbr expan="November">Nov.</abbr> 25,</date>  
+</dateline> 
+</opener> 
+<p>The New York Observer, it seems, is in the  
+<lb/> 
+<unclear>plague</unclear> against us.  The  
+<del hand="h1">paragraph</del> <add hand="h1" place="supralinear">articles</add> 
+ not many months  
+<lb/> 
+since appeared discounting upon the causes of  
+the <orig reg="failure">fail 
+<lb/>ure</orig> 
+ 
+ 
+  
+<pb n="49" entity="EmeDiar49" pid="uva-lib:503374"/> 
+ 
+to put down the rebellion--they had  
+<orig reg="underrated">under 
+<lb/> 
+rated</orig> our strength  
+&amp; overrated their own, the nation  
+<lb/> 
+must go to work with new zeal &amp;c.  
+Had they <orig reg="suceeded">suc 
+<lb/> 
+ceeded</orig> in grinding us to powder, it had pleased them  
+<lb/> 
+well,  
+but they forgot the Power above who had <orig reg="strengthened">"strength 
+<lb/> 
+ened</orig> us, helped us, &amp; 
+caused us to stand <add hand="h1" place="supralinear">&amp; will do so"</add> 
+ unworthy as  
+<lb/> 
+we are, &amp; who will in his  
+own good time, bring us  
+<lb/> 
+off conquerors &amp; more than conquerors.  
+"Blessed be the  
+<lb/> 
+Lord who has not given us as a prey to their <unclear>teeth</unclear>."  
+<lb/> 
+ 
+And then to think of their high religious profession.   
+<lb/> 
+<name type="person">Sister <abbr expan="Catharine">C.</abbr></name>  
+often says to me, "I have no faith in the  
+<lb/> 
+Fulton <abbr expan="Street">St.</abbr> prayer  
+meeting."  We used to attend it  
+<lb/> 
+with great interest when in N.Y.  How  
+differently  
+<lb/> 
+we should have felt had we known  
+what was in <lb/> 
+the future, had we known  
+that some of those same  
+ 
+<lb/> 
+men (perhaps, &amp; perhaps not)  
+<add hand="h1" place="supralinear">the same individuals,</add> would be engaged in  
+<lb/> 
+one short year in hounding over their blood thirsty 
+<lb/> 
+ soldiers <add hand="h1" place="supralinear">to rape &amp;  
+arson</add> to robbery &amp; 
+murder.  I used to read the  
+ 
+  
+<pb n="50" entity="EmeDiar50" pid="uva-lib:503375"/> 
+ 
+accounts of"The Great Revival" at the North with  
+<lb/> 
+the deepest  
+interest, but now it is a great mystery to me. 
+  
+<pb n="51" entity="EmeDiar51" pid="uva-lib:503376"/> 
+</p> 
+</div2>  
+
+<div2 type="entry" n="[1864]" id="d32"> 
+<head>Final Entry</head>
+<p>have been <del hand="h1">counted a </del> 
+<ref n="6" target="n6">[6]</ref></p> 
+ 
+<pb n="52" entity="EmeDiar52" pid="uva-lib:503377"/> 
+  
+</div2> 
+</div1>  
+</body>  
+
+<back id="d33"> 
+<div1 id="EmeDianote" type="notes">
+<head>Editorial Notes
+<!-- <ref>EmeDianote</ref> -->
+</head> 
+ 
+<note n="1" place="end" id="n1"> <seg type="note-symbol">[1]</seg> 
+  
+<p> Nancy Emerson lived with her brother Luther Emerson and 
+his family in Augusta County, Virginia.  According 
+to the 1860 census of Augusta County (available 
+at the Valley of the Shadow site, 
+http://jefferson.village.virginia.edu/vshadow2/govdoc/census.html),  
+both Luther and Nancy 
+were born in Massachusetts, Nancy in 1807, Luther in 1811. 
+Sometime after 1832, Luther served as the minister for 
+Shemeriah Presbyterian Church in Augusta County, Virginia  
+(J. Lewis Peyton, <hi rend="italic">History of Augusta County, Virginia</hi>, 83).  
+Luther Emerson's family was fairly prosperous, claiming 
+$800 in real estate and $12,265 in personal estate.  
+Luther Emerson and his wife Catharine, who was a native Virginian, had three 
+children: Ellen, Catharine, and Joseph, all of whom were born in Virginia.  </p> 
+ 
+</note> 
+ 
+<note n="2" place="end" id="n2"> <seg type="note-symbol">[2]</seg><p> With pages one through four, dark splotches obscure the words  
+on the bottom part of each page, so the transcriptions are incomplete.  See 
+the images for clarification.   </p> 
+</note>  
+ 
+<note n="3" place="end" id="n3"> <seg type="note-symbol">[3]</seg> <p>Emerson is probably referring to the <hi rend="italic">Daily Richmond 
+Whig,</hi> an area newspaper.</p></note> 
+ 
+<note n="4" place="end" id="n4"> <seg type="note-symbol">[4]</seg>  <p>As the military governor of New Orleans, Benjamin Butler was notorious 
+for his use of contraband slaves and disrespect toward ladies of New Orleans.  David Hunter was an abolitionist general. </p> </note> 
+ 
+<note n="5" place="end" id="n5"> <seg type="note-symbol">[5]</seg> <p>Page 38 is missing, so there will be a gap in the text.</p> 
+</note> 
+<note n="6" place="end" id="n6"> <seg type="note-symbol">[6]</seg> <p>
+Page 51 is blank except for a few smudged words at the  
+top, while page 52 contains handwriting exercise in which 
+Emerson has written words beginning with D that 
+may have had special relevance for her: Diligence, 
+Deliverance, Druggist.  Page 52 has not been transcribed. </p>
+</note> 
+</div1>  
+ 
+ 
+</back> 
+ 
+</text>  
+</TEI.2> 
+ 

@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+
+<?dlps id="B0030"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B0030">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: Thomas P. Jackson to John
+                    A. McDonnell, February 19, 1868</title>
+        <title type="sort">freedmens bureau records thomas p jackson to john a mcdonnell, february 19 1868</title>
+        <author>Jackson, Thomas P.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>HIUS 403 Students</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Peter Brownfeld</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B0030</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 1999, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:500395</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: Thomas P. Jackson to John A. McDonnell,
+                            February 19, 1868</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records thomas p jackson to john a mcdonnell, february 19 1868</title>
+            <author>Thomas P. Jackson</author>
+            <editor/>
+            <respStmt>
+                            <resp>e.g. Translator</resp>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Bureau of Refugees, Freedmen, and
+                            Abandoned Lands, Record Group 105, Box E4269</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1868-02-19">1868-02-19</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Patriotism, Property, Violence/Crime</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2003-08">August 2003</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B0030T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Jackson's letter to McDonnell describes a complaint by Hiram Thompson regarding
+                    his horse that was stolen by a Confederate Lieutenant before the end of the
+                war.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau of Refugees, Freedmen, and Abandoned Lands,<lb/>Office 4th Division, 9th
+                    Sub-District, Virignia
+                    <name type="recipient"><abbr expan="Captain">Capt.</abbr> John A.
+                        McDonnell<lb/>Sub <abbr expan="Assistant">Asst</abbr>
+                        <abbr expan="Commissioner">Comr</abbr><lb/>Winchester</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1868-02-19"><abbr expan="February">Feb</abbr> 19, 1868</date>
+                        <name type="place">Staunton, <abbr expan="Virginia">Va.</abbr></name>
+                    </dateline>
+                    <salute>Captain</salute>
+                </opener>
+
+                <p>Hiram Thompson (<abbr expan="colored">cold</abbr>) who lives near Fishersville in
+                    Augusta <abbr expan="County">Co.</abbr> states that a General Long an officer in
+                    the rebel army has in his possesion at or near Leesburg, Loudon <abbr
+                        expan="County">Co.</abbr>
+                    <abbr expan="Virginia">Va.</abbr> a Bay horse, (black leg, mane &amp; tail,
+                    nearing 8 years old) which is the property of said Hiram Thompson and was stolen
+                    from his stable during the war, by a <abbr expan="Lieutenant">Lieut.</abbr>
+                    Hunter of Rockbridge <abbr expan="County">Co.</abbr> and by him transfered to
+                        <abbr expan="General">Genl.</abbr> Long in exchange for another horse.
+                    Thompson claims to have information that his horse is not branded and was
+                    claimed by <abbr expan="General">Genl.</abbr> Long as <add hand="h1"
+                        place="inline">his</add> private property when <abbr expan="General"
+                    >Gen.</abbr> Lee's army surrendered. Thompson attempted to reclaim the horse
+                    immediately after it was taken from his stable, but while he was seeking
+                    evidence required, the command to which <abbr expan="Lieutenant">Lieut.</abbr>
+                    Hunter was attached left Staunton, taking off the horse. Thompson <orig
+                        reg="been">bean</orig> an excellent <pb n="2"/>character and reliable
+                    neighbors say there will be no difficulty in identifying the horse which was
+                    well known as a valuable animal of Morgan stock. I am further informed that the
+                    horse was taken by <abbr expan="Lieutenant">Lt.</abbr> Hunter without any
+                    authority whatever and has never been known as a public animal. I have the honor
+                    to request such <orig reg="inquiry">enquiry</orig> be made as will restore the
+                    horse to Hiram Thompson if above fact can be proved. </p>
+
+                <closer>
+                    <salute>Very Respectfully<lb/><abbr expan="Your obedient servant">Yr obt
+                        serv.</abbr></salute>
+                    <signed><abbr expan="Thomas">Thos.</abbr> P. Jackson <lb/><abbr
+                            expan="Assistant">Asst.</abbr> Sub <abbr expan="Assistant">Asst.</abbr>
+                        <abbr expan="Commissioner">Comr</abbr>
+                    </signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,236 @@
+<?xml version="1.0"?>
+
+<?dlps id="F3048"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="F3048">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: John M. Christy to Mary Jane Demus, October 10,
+     1864</title>
+        <title type="sort">franklin county john m christy to mary jane demus, october 10 1864</title>
+        <author>Christy, John M.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Murrell</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Murrell</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">9</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">F3048</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:501486</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Franklin County: John M. Christy to Mary Jane Demus, October 10, 1864</title>
+            <title level="m"/>
+            <title type="sort">franklin county john m christy to mary jane demus, october 10 1864</title>
+            <author>John M. Christy</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>4 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Case File of Wesley Krunkleton, Approved Pension
+       Applications of Veterans Who Served in the Army and Navy Mainly in the Civil War and the War
+       with Spain, Record Group 15, National Archives and Records Administration, Washington,
+      D.C.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>We would like to thank Edwin S. Redkey, Lagrangeville, New York, for bringing these
+        letters to our attention.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1864-10-10">1864-10-10</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>African Americans, Battle Description, Race Relations</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001-07">July 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Murrell</name>
+        </respStmt>
+        <item>Proofread against original; corrections made.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="F3048T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Christy describes recent fighting near Petersburg and Richmond, Virginia. He also mentions
+     that his regiment's conduct earned the praise of officers.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Mary Jane Demus</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1864-10-10">october the 10 1864</date>
+     </dateline>
+     <salute>My <orig reg="Dear">Deear</orig></salute>
+    </opener>
+
+    <p>I take My pen in hand to <orig reg="inform">in forme</orig> you that I am well at present all
+      <orig reg="excepting">excepten</orig> I have the cold <orig reg="pretty">putey</orig> Bad I
+     hope <orig reg="these">thes</orig> Lines May find you the same I <orig reg="received"
+     >recivd</orig> your <orig reg="Letter">Leter</orig> the <unclear>7th</unclear> and Now I take
+     My pen in hand again to Let you <orig reg="know">now</orig> What fun We had We Left front of
+      <orig reg="petersburg">peters burg</orig> in the evening at <orig reg="three">thre</orig>
+     <orig reg="o'clock">a Clock</orig> and We Marched all Night till <orig reg="some">sum</orig> of
+     the boys give out and lay down along the <orig reg="road">rode</orig> and <orig reg="some">sum</orig>
+     <orig reg="throwed">throde</orig>
+     <orig reg="their">ther</orig> things away We <orig reg="stopped">stoped</orig> about <orig
+      reg="four">fore</orig>
+     <orig reg="o'clock">a clock</orig> in the Morning and old <orig reg="Johnny">Johney</orig> Reb
+      <orig reg="shelled">sheled</orig> us all the time tha cut the Linbs of all rond us We Drove
+     them Back five Miles that Night We Marched about <orig reg="fifteen">fiftenn</orig> Miles We
+     Drove them Back to chapens bluff and We hold that place Now <unclear>tha</unclear> Made the
+      <orig reg="shells">shels</orig> and the <unclear>buets</unclear>
+     <unclear>Whisel</unclear>
+     <orig reg="around">a round</orig> Me I thought <orig reg="that">tha</orig> Would <orig
+      reg="surely">shourley</orig> hit me but We Did cut them all to <orig reg="pieces">peces</orig>
+     We had <orig reg="about">a bout</orig> five or 6 Wagon Loads of them to <orig reg="bury">bary</orig>
+     <orig reg="three">thre</orig> Days after the <orig reg="fight">fite</orig>
+     <orig reg="they">tha</orig>
+     <orig reg="shelled">sheled</orig> us <orig reg="for">fur</orig>
+     <orig reg="four">fore</orig> or 6 days after the <orig reg="fight">fite</orig> We Can see them
+     every Day <orig reg="there">ther</orig>
+     <orig reg="deserting">drzerting</orig> as fast as <orig reg="they">tha</orig> can <unclear>tho</unclear>
+     <orig reg="come">com</orig> over by hundreds <unclear>tha</unclear>
+     <orig reg="come">cum</orig> over Day and Night We <orig reg="are">ar</orig>
+     <orig reg="Within">With in</orig> 5 Miles of <orig reg="Richmond">Rich mon</orig> Now We Look
+      <orig reg="for">fur</orig> a <orig reg="fight">fite</orig> every Day <orig reg="they"
+     >tha</orig> Made a Charge on the <orig reg="Right">Rite</orig> wing and flanked our Men and
+      <orig reg="captured">capturde</orig>
+     <orig reg="some">sum</orig> of our Men and <orig reg="four">fore</orig> canons But We <orig
+      reg="got">gut</orig> them back again We <orig reg="Laid">Lade</orig> them on piles I <orig
+      reg="Wasn't">Wasent</orig> in that <orig reg="fight">fite</orig> I Was on the left of that
+     Gust as We came <orig reg="up">oup</orig>
+     <unclear>tho</unclear>
+     <unclear>thad</unclear>
+     <unclear>Dron</unclear> a Line of <orig reg="battle">batel</orig> but When <unclear>tha</unclear>
+     <unclear>sen</unclear> us <unclear>tho</unclear> Went Back again <unclear>tho</unclear>
+     <orig reg="Don't">Dont</orig> Like to <orig reg="fight">fite</orig> us We <orig reg="got"
+     >gut</orig> the <orig reg="praise">prais</orig> the <orig reg="officers">oficers</orig> say
+     that We <orig reg="fought">fote</orig> the Best of <orig reg="any">eny</orig> new regment that
+     ever <orig reg="they">tha</orig>
+     <orig reg="seen">sen</orig>
+     <orig reg="come">com</orig> on the <orig reg="field">fild</orig> to <orig reg="fight">fite</orig>
+     <orig reg="they">tha</orig> could <orig reg="hardly">hardley</orig> get them to stop <orig
+      reg="firing">firing</orig> at the Johneys the Was a hundred Run over to our side in one
+      <unclear>skude</unclear> We take <orig reg="three">thre</orig> forts from them We had a <orig
+      reg="heavy">hevey</orig> frost Last Night <orig reg="here">hear</orig> When you <orig
+      reg="Write">Rite</orig> Let Me <orig reg="know">no</orig> if you <orig reg="got">gut</orig>
+     the money I sent you With the <orig reg="Likeness">Likness</orig> when you <orig reg="Write"
+      >Rite</orig> to Jake send him one of them <orig reg="Likeness">Likness</orig> When I <orig
+      reg="can't">cant</orig> get my <orig reg="Meat">Meet</orig>
+     <orig reg="cooked">cocked</orig> I <orig reg="eat">eate</orig> it raw I Must close My <orig
+      reg="Letter">Leter</orig> God be With you all at present</p>
+
+    <p>When you <orig reg="Write">Rite</orig> Direct to <abbr expan="Company">Co</abbr> H 45
+     Regt<lb/> U.S.C.T. tenth Corps<lb/> Washington DC</p>
+
+    <closer>
+     <salute/>
+     <signed>John M <orig reg="Christy">Christey</orig></signed>
+     <seg type="postscript">
+      <name type="recipient">to Mary J Demus</name>
+     </seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

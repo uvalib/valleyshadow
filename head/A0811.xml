@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+
+<?dlps id="A0811"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+
+<!ENTITY garb11a SYSTEM "uva-lib:503041" NDATA uvaHighRes>
+<!ENTITY garb11b SYSTEM "uva-lib:503042" NDATA uvaHighRes>
+<!ENTITY garb11c SYSTEM "uva-lib:503043" NDATA uvaHighRes>
+<!ENTITY garb11d SYSTEM "uva-lib:503044" NDATA uvaHighRes>
+
+]>
+  
+<TEI.2 id="A0811">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Thomas Garber to Addie Garber, December 6, 1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county thomas garber to addie garber, december 6 1862</title>
+        <author>Garber, Thomas</author>
+        <editor> </editor>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Alice Carter</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Murrell</name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A0811</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>copyright 1998, by the Rector and Visitors of the University of Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1998 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1998">1998</date>
+        <idno type="uva-pid">uva-lib:503040</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Thomas Garber to Addie Garber, December 6, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta county thomas garber to addie garber, december 6 1862</title>
+            <author>Thomas Garber</author>
+            <editor> </editor>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p> </p>
+          </editionStmt>
+          <extent>4 pages</extent>
+          <publicationStmt>
+            <publisher> </publisher>
+            <pubPlace> </pubPlace>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Garber Family Letters, Augusta County Historical
+       Society, Staunton, Virginia </idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Augusta County Historical Society, Staunton, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1862-12-06">1862-12-06</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Battle Description, Military Authority, Troop Movement</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2000">Summer 2000</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Voorhees</name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A0811T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Thomas Garber tells his sister about his successful escape from a small group of Yankee
+     soldiers. </p>
+   </div1>
+  </front>
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <opener>
+     <pb n="1" entity="garb11a" pid="uva-lib:503041"/>
+   
+
+     <name type="recipient">Addie Garber</name>
+
+     <dateline>
+      <date value="1862-12-06">Dec 6<hi rend="super">th</hi> 1862</date>
+      <name type="place">Camp Near Gordonsville</name>
+     </dateline>
+     <salute>Dear Sister Addie</salute>
+    </opener>
+
+    <p>You complain of my not writing home often enough I have not been <orig reg="making"
+     >makeing</orig> excuses before this because I have none to make but here lately I have <del
+      hand="h1">had not</del> not had any paper and today I went to Capt Eskridge and he gave me
+     this little bit. I would like to have been home when Mike was there but I would much sooner
+     come home X Mass &amp; from what you said in your letter I expect to be there then. Dr.
+     Williams got here last tuesday &amp; said the Col would certainly be here on the next
+     tuesday I hope he will how did you like him I like him very much he is a nice man. Dr Burton
+     &amp; Col Burks had a little fuss and the Dr sent in his resignation the Col accepted it
+     &amp; forwarded it this took the <pb n="2" entity="garb11b" pid="uva-lib:503042"/>
+      little fellow by <orig reg="surprise">supprise</orig> and he <orig
+      reg="begged">beged</orig> to withdraw it <orig reg="stating">statiing</orig> as his reason
+     that he intended to get a transfer &amp; then he applied for that and in a few days he
+      <orig reg="withdrew">with drew</orig> that so we <orig reg="can't">cant</orig> get rid of him
+     which every man in the Regiment <orig reg="wishes">whishes</orig> to do. Has Capt Balthis
+     resigned or not tell me in your next letter. Where is Mike Company at now. I <orig reg="heard"
+      >hird</orig> that Earley division was in the Luray Valley I hope it is left there for then the
+     boys will have a <orig reg="chance">chanc</orig> to get home X Mass. On the 29th of Nov we had
+     a little fight with the Yanks they had got in between us &amp; Winchester before we knew
+      <orig reg="anything">any thing</orig> about it. Old Allen the driver had riden one of the
+      <orig reg="wagon">wagen</orig> horses out to get some clothes washed when the news came so I
+     put my horse in the wagon and got on the one of the Col and started for Berrysville with the
+     Regiment Major Massie in command we only had about 100 men we cut off a squadron of the yankees
+     and could not get the men to charge them the Major ordered a charge &amp; about half of the
+     men went the flag was in front in that crowed the rest of them stayed <pb n="3" entity="garb11c" pid="uva-lib:503043"/>
+     in the woods the Major ordered me back to bring them up I went back
+     and <orig reg="tried">tryed</orig> to get them to come but could not do it they were cowards
+     and would not go they started towards town I went with them and when we got there I <orig
+      reg="heard">hered</orig> there was some Yanks on the other side I asked the men would they go
+     with me they said they would so we started <orig reg="off">of</orig> at a gallop and just
+     before I turned the corner I looked around and saw the men going up sneak like the old boy was
+     after them I then determined to see how many Yank they were &amp; report to the Major I
+     went on around the corner and looked down the street and there was a whole Yankee Regiment I
+     had my pistol in may hand I raised it up and fired it wheeled my horse and started up the
+     street 8 or 10 Yanks after me shooting and howling like brave men after one man with a flag, I
+     never run a horse faster in all of my life. And the next morning <pb n="4" entity="garb11d" pid="uva-lib:503044"/>
+      when I got to town I came in by myself with the <hi rend="underline"
+      >old flag</hi> hanging on my <orig reg="shoulders">sholders</orig> as hungry as a bear (for I
+     had not <orig reg="anything">any thing</orig> to eat <del hand="h1">since</del>for 24 hours) an
+     old lady was at standing at the door as soon as she saw me she <orig reg="hollered"
+     >hollowed</orig> at the top of her voice Oh Sally come here here is that Color bearer &amp;
+     then she pitched in to thus come in sir come in I so glad to see you I was sure the yanks had
+     gotten come in &amp; get your Breakfast I told her certainly &amp; I went in &amp;
+     got a firstrate breakfast so much <orig reg="running">runing</orig> out of town with the
+     Yankees after me. I hope to be with you X mass if not it <orig reg="won't">wont</orig> be
+     because I <orig reg="don't">dont</orig> want to <orig reg="come">com</orig> for I <orig
+      reg="don't">dont</orig> know hardly how much I would give to see you all Good by give my love
+     to Pa Ma Kate &amp; Nellie and Sister Seal &amp; Margie.</p>
+
+    <closer>
+     <salute>Your Bro</salute>
+     <signed>Thos. M. Garber</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

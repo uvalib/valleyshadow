@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+
+<?dlps id="A3060"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]> 
+
+
+<TEI.2 id="A3060"> 
+<teiHeader type="migrated"> 
+
+    <fileDesc> 
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: A. H. Pirkey to A. W. Kersh, November 4, 1868</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county a h pirkey to a w kersh, november 4 1868</title>
+        <author>A. H. Pirkey</author>
+        <editor/>
+        <respStmt> 
+          <resp>Creation of machine-readable version: </resp> 
+          <name>Doug O'Reagan</name> 
+          <resp>Conversion to TEI.2-conformant markup:</resp> 
+          <name>Doug O'Reagan</name> 
+        </respStmt>
+      </titleStmt> 
+
+      <extent>4 kilobytes </extent> 
+      <publicationStmt> 
+        <publisher>Virginia Center for Digital History</publisher> 
+        <pubPlace>Charlottesville, Virginia </pubPlace> 
+
+        <idno type="VCDH">A3060</idno> 
+
+        <!--
+<availability> 
+<p>Publicly accessible </p> 
+<p n="public">URL: http://valley.vcdh.virginia.edu/</p> 
+<p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the University of Virginia</p> 
+</availability>
+--> 
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date> 
+        <idno type="uva-pid">uva-lib:502217</idno>
+      </publicationStmt> 
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt> 
+      <notesStmt>
+        <note/>
+      </notesStmt> 
+
+      <sourceDesc> 
+        <biblFull> 
+          <titleStmt>
+            <title>Augusta County: A. H. Pirkey to A. W. Kersh, November 4, 1868</title>
+            <title level="m"/>
+            <title type="sort">augusta county a h pirkey to a w kersh, november 4 1868</title>
+            <author>A. H. Pirkey</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt> 
+          <editionStmt>
+            <p/>
+          </editionStmt> 
+          <extent>1 pages</extent> 
+          <publicationStmt> 
+            <publisher/> 
+            <pubPlace/> 
+            <date value=""/> 
+            <idno type="callNo">Source copy consulted: Private Collection of Lorraine Bosserman</idno>
+          </publicationStmt> 
+          <seriesStmt>
+            <p/>
+          </seriesStmt> 
+          <notesStmt>
+            <note/>
+          </notesStmt> 
+        </biblFull> 
+      </sourceDesc> 
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from private collection</p>
+      </projectDesc>
+    </encodingDesc> 
+
+    <profileDesc> 
+      <creation>
+        <date value="1868-11-04">1868-11-04</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage> 
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass> 
+        <keywords> 
+          <term>Economy</term> 
+          <term>American Civil War</term>
+        </keywords> 
+      </textClass> 
+    </profileDesc> 
+
+    <revisionDesc> 
+      <change> 
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt> 
+        <item/> 
+      </change> 
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc> 
+  </teiHeader> 
+
+<text id="A3060T">
+<front id="d2">
+<div1 type="summary" id="d3">
+<p>Pinkey writes back to Kersh asking him to hold on to his chairs until the entire set is done, as he has been sick.</p> 
+</div1> 
+ 
+</front> 
+
+<body id="d4">
+<div1 type="letter" id="d5">
+<head>
+<name type="recipient">Mr A. W. Kersh</name>
+<name type="place">Port Republic</name>
+</head>
+
+<opener>
+<dateline>
+    <date value="1868-11-04"><abbr expan="November">Nov</abbr> 4<hi rend="super">th</hi> 1868</date>
+</dateline>
+<salute>Dear Sir</salute>
+</opener>
+
+<p>yours of the 24<hi rend="super">th</hi> to hand I have not been able to get up after those chairs on account of sickness &amp; I <orig reg="can't">cant</orig> <unclear>say</unclear> when I will.  It may be that I will wait <orig reg="until">untill</orig> they are all done, make <del hand="h1">one</del> <unclear>2</unclear> Rocking Chairs with the 5 Sets.</p>
+
+<p>Hold on to them I will be certain to take them. if I dont get up <orig reg="until">untill</orig> you have them all <orig reg="done">don</orig> write to me make the Rocking Chairs high in the back.</p>
+
+<closer>
+<salute>Yours <abbr expan="Respectfully">Resp</abbr></salute> 
+<signed>A. H. Pinkey</signed> 
+<seg type="postscript">Address Port Republic<lb/>Rockingham <abbr expan="County">Co</abbr><lb/><abbr expan="Virginia">Va</abbr></seg> 
+
+</closer> 
+</div1> 
+</body> 
+</text> 
+</TEI.2>

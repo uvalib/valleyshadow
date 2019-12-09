@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+
+<?dlps id="A0206"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A0206">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: N. K. Trout to Alfred Chapman, March 5, 1869</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county n k trout to alfred chapman, march 5 1869</title>
+        <author>Trout, N. K.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Sarah Parnes</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Susanna Michele Lee</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A0206</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2003, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2003 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2003">2003</date>
+        <idno type="uva-pid">uva-lib:501801</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: N. K. Trout to Alfred Chapman, March 5, 1869</title>
+            <title level="m"/>
+            <title type="sort">augusta county n k trout to alfred chapman, march 5 1869</title>
+            <author>N. K. Trout</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>2 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Alfred Chapman Letters, Bedford Brown Papers, 1545,
+       Southern Historical Collection, University of North Carolina at Chapel Hill</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Southern Historical Collection, Wilson Library, University of North Carolina at Chapel Hill</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1869-03-05">1869-03-05</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>State Government</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+        <item/>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A0206T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>N. K. Trout writes about the troubles he is experiencing in attempting to be restored or
+     reinstated to the Union. His nomination is being blocked for personal and political
+    reasons.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <opener>
+     <dateline>
+      <date value="1869-03-05">Friday morning March 5th 1869</date>
+     </dateline>
+     <salute>My dear Sir:</salute>
+    </opener>
+
+    <p>I am in receipt of your kind letter. I will avail myself of your <unclear>generous</unclear>.
+     &amp; I feel, very efficient will in securing to me my restoration. I suppose none of the
+     bills passed at the late session, although I have not yet heard, and it may be <del rend="none" hand="h1"/>
+     to renew the application at once. &amp; I beg if you think so, that you will
+     <unclear>put</unclear> me in the Docket for earliest action, as also the name of <hi
+      rend="underline">Dr. Stribling</hi></p>
+
+    <p>My original application was made more than <unclear>five</unclear> months ago <hi
+      rend="underline">
+      <unclear>instance</unclear>
+     </hi> of the military authorities of this state. &amp; I believe this Dr <abbr
+      expan="Stribling">S</abbr> of <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/> were of the earlier problems from this quarters. They were warmly recommended
+     by <unclear>
+      <abbr expan="General">Gen</abbr>
+     </unclear>
+     <del rend="none" hand="h1"/>. I understand &amp; <unclear>forwarded</unclear> by him, but having no
+     "engineer" in Washington, they were <orig reg="probably">probally</orig> "pigeon holed". Some
+     months ago I had them renewed, they were recommended by <unclear>Genl</unclear> Mumford,
+     Wickham, Mr <unclear>Steams</unclear> &amp; others, leading Republicans of Richmond.
+     &amp; presented by Senetor Willey, and since then in the lower house in several shapes. -
+     My name was put on a house bill in the Senate with others &amp; in that way was sent back
+     and has I fear perished.</p>
+
+    <p>There is opposition to me before the Richmond <pb n="2"/> Committee, I understand. The reason
+      <hi rend="underline">
+      <orig reg="assigned">assyned</orig>
+     </hi> is that I was nominated to preside by <abbr expan="Colonel">Col</abbr>
+     <unclear>Fontenius'</unclear> friends at the late R.R. meeting. That by accepting the
+     nomination I put myself in opposition with Republicans who were for <abbr expan="
+General"
+     >Gen</abbr> Wickham. This is an <hi rend="underline">assigned</hi> reason &amp; <abbr
+      expan="General">Gen</abbr> Wickham condemns it, and is one of my best friends. I have reason
+     to believe that the opposition is in part from this place. Mr <unclear>Fullz</unclear> is
+     chairman of Republican committee - <hi rend="underline">to be <del rend="none" hand="h1"/></hi> &amp;
+     apprehends if I get eligible I <orig reg="maybe">may be</orig> in his way. Curse him! I <orig
+      reg="don't">dont</orig> want it. I refused it twice from Mr. Pierpont. Another enemy is Mr.
+     Ally Gene Bowden the reason he will not give but certain records missing the rolls in Richmond
+     will show. I was chairman of a joint Committee of the Legislature to visit <hi rend="underline">
+      <abbr expan="Williamsburg">Wmsburg</abbr>
+     </hi> &amp; investigate abuses in the Lunatic Asylum. His family were deeply <hi
+      rend="underline">implicated.</hi>
+     <unclear>He</unclear> was promised that when his brother was a candidate for the Legislature he
+     (the Ally) offered the offices &amp; interests of the institution to those who
+      <unclear>meld</unclear> vote for his brother - &amp; the result was that those who did not
+     so <hi rend="underline">vote</hi> were either themselves or their friends who had places turned
+     out, this was the testimony. He appeared before the Committee afterwards &amp; moved to
+     have the testimony offering him stricken out because he was not a <hi rend="underline"
+     >party</hi> to the record. &amp; I overruled his motion- was sustained by a unanimous vote.
+     &amp; he ceased to speak to me. &amp; now wants his <hi rend="underline">revenge</hi>.</p>
+
+    <closer>
+     <salute>Your <unclear>
+       <abbr expan="Humble Servant">Hus.</abbr>
+      </unclear></salute>
+     <signed>N K Trout </signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

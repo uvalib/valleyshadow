@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+
+<?dlps id="A1400"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A1400">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta: Robert Yates Ramsey to Unknown, August 31, 1864</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta robert yates ramsey to unknown, august 31 1864</title>
+        <author>Ramsey, Robert Yates</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Kid W.</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Kid W.</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">11</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A1400</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2002, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date>
+        <idno type="uva-pid">uva-lib:501939</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta: Robert Yates Ramsey to Unknown, August 31 1864</title>
+            <title level="m"/>
+            <title type="sort">augusta robert yates ramsey to unknown, august 31 1864</title>
+            <author>Robert Yates Ramsey</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>4 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Letters from Robert Yates Ramsey, Accession 27295,
+       Personal Papers Collection, The Library of Virginia, Richmond, Virginia.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1864-08-31">1864-08-31</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Arts/Leisure, Battle Description, Church/Religious Activity, Medicine/Hospitals, Military
+      Authority, Troop Movement</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2005">Summer 2005</date>
+        <respStmt>
+          <resp/>
+          <name>Doug O'Reagan</name>
+        </respStmt>
+        <item>Proofread.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A1400T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Ramsey writes to an unidentified friend from a hospital, apologizing for some action which he
+     believes has wounded their relationship. He discusses a few military campaigns and considers
+     joining Mosby's famed Rangers after his recovery.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <opener>
+     <dateline>
+      <date value="1864-08-31">Wednesday August 31<hi rend="super">st</hi> 1864</date>
+      <name type="place">Staunton</name>
+     </dateline>
+     <salute>My Dear Friend</salute>
+    </opener>
+
+    <p>To have the honor of being a correspondent of yours, would be a privilege, which, I feel
+     assured, would afford me a vast amount of enjoyment. But since our last meeting, (on the 25<hi
+      rend="super">th</hi> last,) I have been led to believe that you then anticipated but little
+     real enjoyment, or satisfaction, from a correspondence with us <hi rend="underline">being</hi>
+     so unworthy of being so highly honored For this reason I feel a considerable delicacy in
+     writing, and indeed the thought of not writing at all, forced <orig reg="itself">its
+     self</orig> upon me, so powerfully, that for a time, that it had well nigh gained the day. If
+     it be true that you cherish such thoughts [and it may be, that they are only too true] <del
+      hand="h1">But</del> I think it <pb n="2"/> nothing more, or less, than your duty, (and
+     certainly no harm) to inform me of the fact. I censure no <del rend="none" hand="h1"/> for speaking the
+     truth, thought it be at my expense. It is only that we may fairly understand each other that I
+     write to you now. I know that you are uncertain, as to whether I will write or not; but I think
+     I hear you say you give yourself but little concern about it. Very well: that is <orig
+      reg="alright">all right</orig> speak it out boldly; and I assure you, we shall soon understand
+     each other. It is far from being my desire to prolong a correspondence, which would be far from
+     satisfying to you. And I hope you will pardon me, if <add hand="h1" place="inline">I</add> say
+     it was to obtain definate information, in regard to this correspondence that caused me to make
+     that very <orig reg="inappropriate">unappropriate</orig> demonstration, on the (ever-memorable)
+     morning (to me) of the 25<hi rend="super">th</hi> of August. But let me ask you to pity me,
+     when I confess that I was <pb n="3"/> met by a force, so irresistible that I was Gallently
+     repulsed, and obliged to retreat somewhat in disorder, and doubtless, leaving behind the
+     wounded; and without gaining the desired information period. But I sincerely hope that there
+     were no wounded, at least, none that were more severely wounded than I was:
+     <unclear>just</unclear> remember if I was wounded, it matters not: I censure no one but <orig
+      reg="myself">my-self</orig> for it. But please pardon me talking this nonsense. I know <del
+      hand="h1">the</del>if you are looking for a letter from me, you are not expecting it to be
+     made up, of this sort of material. - Probably I am <add hand="h1" place="inline">doing</add>
+     wrong by expressing my thoughts in this way - I am <orig reg="naturally">naturaly</orig> of a
+     rebellious nature; and these may only be <orig reg="rebellious">rebelious</orig> thoughts that
+     have been forced upon me; and have no foundation: I hope that this is all. I cannot blame <del
+      hand="h1">a</del> persons for <orig reg="ceasing">ceaseing</orig> to <orig reg="bestow"
+      >bestoow</orig> his affections upon <orig reg="anyone">any one</orig> whom <del hand="h1">they</del>
+     <add hand="h1" place="inline">
+      <del hand="h1">he</del>
+     </add>
+     <add hand="h1" place="inline">they</add> cannot like. <pb n="4"/> I <del rend="none" hand="h1"/> no hard
+     feelings towards you. <unclear>But</unclear> on the <del rend="none" hand="h1"/>
+     <del rend="none" hand="h1"/> they are <unclear>warm</unclear>, and <unclear>gregarious</unclear>.</p>
+
+    <p>But, allow me, (in conclusion, on this subject,) to say that though this correspondence may
+     cease to exist; yet our relations towards each other, as <hi rend="underline">true friends</hi>
+     shall never cease. It is not my intention to wound your feelings by and of these <orig
+      reg="absurd">ab<unclear>e</unclear>surd</orig> expressions; - to touch the tender cords of
+     your generous heart, would be an experiment, which I have no particular fancy and which I dare
+     not attempt. I am declared here as a patient only, in the hospital, and do not dislike it as
+     much as I had expected though it is rather lonesome to me, as I am not acquainted about here. I
+     spend my time in walking and sitting about the streets, when I have no reading, writing, or
+     other duties to claim my attention. I <unclear>intent</unclear> to appear again before the
+     board as soon as it meets in our <hi rend="underline">ward</hi>, if I can get a recommendation
+     from the <hi rend="underline">ward</hi> surgeon.</p>
+
+    <p>I guess we have no news except what you will have heard before this reaches you. Rumor says
+     that Early has had a fight, and <orig reg="whipped">whiped</orig> the <orig reg="Yankees"
+      >yankeys</orig> badly, and captured - - - prisoner<unclear>s</unclear> four or five hundred,
+     and they say he is now at Bushers hill twelve miles below Winchester Lee, (I am glad to hear)
+     has captured two thousand prisoners, and nine pieces of artillery, but the yanks still hold the
+     Weldon railroad.</p>
+
+    <p>I had the wholesome pleasure of listening to two sermons last sunday; - and of drinking in
+     the ward, or of "feeding upon the sincere <unclear>milds</unclear> of the word", as preached
+     from the pulpit, of the Episcopal Church. - Excellent sermons; but not to be compared with that
+     delivered by Mr. Preston, at <hi rend="underline">Rocky Spring</hi> If possible, I <pb n="1"/>
+     would be glad to hear from you soon. A letter from a friend is always welcome by me, and never
+     rejected - - direct to the care of <hi rend="underline">Woods &amp; Gilkeson</hi></p>
+
+    <closer>
+     <salute>yours truly</salute>
+     <signed>Yates Ramsey</signed>
+     <seg type="postscript"><abbr expan="September">Sept.</abbr> 1<hi rend="super">st</hi><lb/>P.S.
+      As I did not get this sent off yesterday, I will add a line, to say that I did not succeed in
+      getting another leave of absence, but have improved so fast, that they consider me fit for
+      duty, and I will start for the command tomorrow morning. There are some wounded coming in from
+      down the Valley; and among those who came in this morning, was <abbr expan="Colonel">Col.</abbr>
+      <abbr expan="William">Wm.</abbr> L. Jackson. He has a right bad wound - look pretty <del
+       hand="h1"/> It is reported that what few men are left of the 25<hi rend="super">th</hi>
+      <abbr expan="Regiment">
+       <unclear>Rg</unclear>
+      </abbr> have got permission to go to other commands, <orig reg="until">untill</orig> the
+      prisoners shall be exchanged. But I think it <orig reg="hardly">herdly</orig>
+      <pb n="3"/> probable that he would give them that privilege. In case it be true, I guess I
+      will have to flank a horse and try and share some of the glorious reputation, attached to the
+       47<hi rend="super">th</hi> battalion <lb/>
+      <lb/> Should you think to confer upon me the honor, of receiving a letter from your hand
+      please direct to <abbr expan="Company">Co.</abbr> "D." 25 <abbr expan="Virginia">Va</abbr>
+      <abbr expan="Infantry">Inft.</abbr>: <orig reg="Jones's">Jones</orig> brigade <orig
+       reg="Gordon's">Gordons</orig> Division; and to the care of <abbr expan="Captain">Captn</abbr>
+      G. C. Merrill. <lb/>
+      <lb/> And now, as I am again banished from the gayeties, and pleasures of home scenery, and
+      the associations attached thereto; and called upon to behold more lively scenes, in the field
+      of activity, and strife, there to receive my dues in the way of suffering; you will allow me
+      to close this very <hi rend="underline">unwholesome</hi> epistle, by <orig reg="saying"
+      >sayin</orig> to you,<lb/>Farewell.<lb/>Yours <orig reg="Robert">R. R.</orig> Yates</seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

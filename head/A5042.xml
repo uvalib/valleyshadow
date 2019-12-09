@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+
+<?dlps id="A5042"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A5042">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Bunk [Charles W. Baylor] to his
+                    Sister, October 31, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county bunk charles w baylor to his sister, october 31 1861</title>
+        <author>Bunk [Charles W. Baylor?]</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amy Voorhees</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A5042</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502326</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Bunk [Charles W. Baylor] to his Sister, October 31,
+                            1861</title>
+            <title level="m"/>
+            <title type="sort">augusta county bunk charles w baylor to his sister, october 31 1861</title>
+            <author>Bunk [Charles W. Baylor]</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: McGuffin Family Papers, Accession
+                            #6732, Special Collections Department, University of Virginia Library,
+                            Charlottesville, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1861-10-31">1861-10-31</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Death/Casualties, Desertion/Leave, Medicine/Hospitals, Family</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2002-11">November 2002</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A5042T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>A soldier writes to his sister about their brother, George, who is recovering in
+                    a Richmond hospital.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1861-10-31">Oct 31st /61</date>
+                        <name type="place">Camp Near Centerville</name>
+                    </dateline>
+                    <salute>Dear Sister</salute>
+                </opener>
+
+                <p>I received a <orig reg="note">not</orig> from you last night, asking me if I knew
+                    anything about George, I don't know much about I heard last week that he, S.
+                        <unclear>Runolds</unclear> &amp; S. Harlow are in Richmond at the
+                    Hospital &amp; that George was getting along very well, at that time.</p>
+
+                <p>he is there with a first rate fellow &amp; I know if he was to get worse he
+                    would either write to me or the Captain about him, though I think it strange
+                    that he don't write back to some one of the company. but it seems if they just
+                    get away from the company that they never think worth while to write back to let
+                    any one know anything about them. I thought yesterday of writing to him but we
+                    had to turn out in honor of Old Whiskey Barrrel (Gov Letcher) so I did not
+                    write. I think I will write a few lines to him to day, but I have been looking
+                    for him to come to <pb n="2"/> ever day for three or four days. Well I must
+                    bring my letter to a close, tell Mary that I will write to her in a day or so,
+                    Good bye, may God bless you all, </p>
+
+                <closer>
+                    <salute>Your Aff Brother</salute>
+                    <signed>Bunk</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

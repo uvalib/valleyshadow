@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1201"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1201">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: H. H. Peck to [W. Storer
+                    How], March 28, 1866</title>
+        <title type="sort">freedmens bureau records h h peck to w storer how, march 28 1866</title>
+        <author>Peck, H. H.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1201</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501060</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: H. H. Peck to [W. Storer How], March 28,
+                            1866</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records h h peck to w storer how, march 28 1866</title>
+            <author>H. H. Peck</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 57.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1866-03-28">1866-03-28</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Aid/Relief, Economy, Local Government</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-06">June 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+                <item>Item proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1201T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Peck, President of the Augusta County Overseers of the Poor, explains what
+                    resources the county may be able to provide to help support poor blacks. He
+                    seems optimistic that the county will be able to provide such support through a
+                    tax levy.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">The Bureau of Refugees, Freedmen &amp; Abandoned
+                        Lands<lb/>Winchester <abbr expan="Virginia">Va</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1866-03-28">March 28 1866</date>
+                        <name type="place">Augusta County <abbr expan="Virginia">Va</abbr></name>
+                    </dateline>
+                    <salute/>
+                </opener>
+
+                <p>As President of the Board of Overseers of the Poor of Augusta County, I beg to
+                    make the following reply to your communication of the 26th inst.</p>
+
+                <p>I cannot undertake to anticipate what the County Court of said County (the only
+                    body having power to raise money for County purposes) will do at its annual levy
+                    courts in June next, but I feel authorized to say that the Board over which I
+                    preside will ask that a sufficient sum shall be levied for to meet the
+                    necessities of the destitute persons having a claim upon legal residence in the
+                    County without regard to color or class, and I entertain no doubt but that said
+                    Court will make such levy and to that end, will assess an equal poll or
+                    capitation tax on <hi rend="underline">all</hi> male inhabitants of the fixed
+                    age &amp; who may not be exempt on account of physical infirmity.</p>
+
+                <p>We expect to provide as heretofore for all the destitute alike if
+                    <unclear>our</unclear> people can stand the burden. We have a house of reception
+                    for the paupers (to which is attached a farm) capable of accomodating about
+                    sixty persons and have always made special appropriations (administered <pb
+                        n="2"/>by members of our board) to aid in the support of poor persons not
+                    inmates of the poorhouse.</p>
+
+                <p>In asmuch as we cannot forsee what number of helpless or idle persons may be
+                    thrown upon the charity of the county for support, and as it cannot be
+                        <unclear>expected</unclear> that any large amount of tax will help
+                        <unclear>amply</unclear> or be collected of the freedmen it is impossible to
+                    anticipate <unclear>whether</unclear> the amounts we may have levied will be
+                    sufficient to meet all wants of the poor &amp; needy.</p>
+
+                <p>I cannot say <hi rend="underline">now</hi> what the poll or other tax will be. We
+                    have our <unclear>stated</unclear> meeting to fix the sum <del rend="none" hand="h1"/>
+                    <del rend="none" hand="h1"/> apply for in the <unclear>deemed</unclear>
+                    <del rend="none" hand="h1"/> in next month. If an estimate shows <unclear>f---</unclear>
+                    that of the population in view it will be because there are more from in our
+                    county having <unclear>d------</unclear>, than we are aware of or because our
+                    people are too poor, under present circumstances, to meet the demand, and if
+                    there should be a deficiency we <unclear>have</unclear> the Federal Government
+                    will <unclear>continue</unclear> it and its funds.</p>
+
+                <p>Nothing can be expected from the <unclear>contemplated</unclear> levy until the
+                    end of the present year as the collection cannot account for the time &amp;
+                    any help given before that time <hi rend="underline">must</hi> be in the faith
+                    &amp; credit of the County.</p>
+
+                <p>I am not the representative of the Town of <pb n="3"/>Staunton, but feel
+                    justified in saying that the overseers of the Poor acting in its behalf are
+                        <unclear>activated</unclear> by sentiments similar to those I have expressed
+                    for my board, but in as much as there has been an <del rend="none" hand="h1"/> influx of
+                    freedmen into the corporation from surrounding counties, I think it <del
+                        hand="h1"/>
+                    <del rend="none" hand="h1"/> at present the people can well meet all demands the destitute
+                    may make on its means, and <unclear>consequently</unclear> help may be needed of
+                    the Federal Government.</p>
+
+                <p>Of one thing we can speak with certainty, everything humanity &amp; justice
+                    may require within our ability to come up to will be done to
+                    <unclear>alleviate</unclear> &amp; make contented &amp; compatible the
+                    freedmen who have been thrown upon us for support, protection &amp; <del
+                        hand="h1"/>.</p>
+
+                <closer>
+                    <salute>I am very respectfully<lb/>your <abbr expan="Obedient">Obt</abbr>
+                        <abbr expan="Servant">Servt</abbr></salute>
+                    <signed>H. H Peck, President of the Board of Overseers of the Poor of <abbr
+                            expan="Augusta County">A.Co.</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

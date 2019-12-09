@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+
+<?dlps id="A3053"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A3053">
+     <teiHeader type="migrated">
+
+          <fileDesc>
+               <titleStmt>
+        <title type="main" id="VShadow">Augusta County: William H. Hanger to John
+                         Miller, December 9, 1864</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county william h hanger to john miller, december 9 1864</title>
+        <author>Hanger, William H.</author>
+        <editor/>
+        <respStmt>
+                         <resp>Creation of machine-readable version: </resp>
+                         <name>Museum of the Confederacy Staff</name>
+                         <resp>Conversion to TEI.2-conformant markup:</resp>
+                         <name>Doug O'Reagan</name>
+                    </respStmt>
+      </titleStmt>
+               <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+               <publicationStmt>
+                    <publisher>Virginia Center for Digital History</publisher>
+                    <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                    <idno type="VCDH">A3053</idno>
+
+        <!--
+                    <availability>
+                         <p>Publicly accessible </p>
+                         <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                         <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                              University of Virginia</p>
+                    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                    <date value="2002">2002</date>
+               <idno type="uva-pid">uva-lib:502210</idno>
+      </publicationStmt>
+               <seriesStmt>
+                    <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+               </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+               <notesStmt>
+                    <note/>
+               </notesStmt>
+
+               <sourceDesc>
+                    <biblFull>
+                         <titleStmt>
+            <title>Augusta County: William H. Hanger to John Miller, December 9,
+                                   1864</title>
+            <title level="m"/>
+            <title type="sort">augusta county william h hanger to john miller, december 9 1864</title>
+            <author>William H. Hanger</author>
+            <editor/>
+            <respStmt>
+                                   <resp/>
+                                   <name/>
+                              </respStmt>
+          </titleStmt>
+                         <editionStmt>
+                              <p/>
+                         </editionStmt>
+                         <extent>1 page</extent>
+                         <publicationStmt>
+                              <publisher/>
+                              <pubPlace/>
+                              <date value=""/>
+                              <idno type="callNo">Source copy consulted: William H. Hanger to John
+                                   Miller, December 9, 1864, Fort Delaware POW letters, Museum of
+                                   the Confederacy</idno>
+                         </publicationStmt>
+                         <seriesStmt>
+                              <p/>
+                         </seriesStmt>
+                         <notesStmt>
+                              <note/>
+                         </notesStmt>
+                    </biblFull>
+               </sourceDesc>
+          </fileDesc>
+
+          <profileDesc>
+               <creation>
+                    <date value="1864-12-09">1864-12-09</date>
+               </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+               <textClass>
+                    <keywords>
+                         <term>Prisons/Prisoners</term>
+                         <term>American Civil War</term>
+                    </keywords>
+               </textClass>
+          </profileDesc>
+
+          <revisionDesc>
+               <change>
+                    <date value=""/>
+                    <respStmt>
+                         <resp/>
+                         <name/>
+                    </respStmt>
+                    <item/>
+               </change>
+          <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+     </teiHeader>
+
+     <text id="A3053T">
+          <front id="d2">
+               <div1 type="summary" id="d3">
+                    <p>Hanger writes to his cousin, the Reverend John Miller, asking to borrow
+                         several dollars.</p>
+               </div1>
+          </front>
+
+          <body id="d4">
+               <div1 type="letter" id="d5">
+                    <head>
+                         <name type="recipient">Rev John Miller<lb/>York Pennsylvania</name>
+                         <name type="place">Fort Delaware</name>
+                    </head>
+
+                    <opener>
+                         <dateline>
+                              <date value="1864-12-09">December 9th 1864</date>
+                         </dateline>
+                         <salute>Dear <orig reg="Cousin">Cousen</orig></salute>
+                    </opener>
+
+                    <p> for the first time since I have been a Prisoner I take the present
+                         opportunity of writing you a few lines to let you know where I am &amp;
+                         how I am I am well at the present and have been a prisoner since the 12th
+                         of May last and I stand in need of many little articles which I cannot get
+                         without the money and would like very much if you would send me a few
+                         dollars if you can spare it conveniently and I will pay you back if it is
+                         ever in my power. the folks were all well at home when I last heard from
+                         them when you write direct to<lb/> William H. Hanger<lb/>
+                         <abbr expan="Company">Co</abbr> E 5th <abbr expan="Virginia">Va</abbr>
+                         infantry<lb/> Prisoner of War at <abbr expan="Fort">Ft</abbr> Delaware<lb/>
+                         Division <abbr expan="Number">No.</abbr> 4<lb/> in care of <abbr
+                              expan="Captain">Capt</abbr> G.W. Ahl on attached envelope </p>
+
+                    <closer>
+                         <salute/>
+                         <signed>William H. Hanger</signed>
+                         <seg type="postscript">[on reverse of letter] <abbr expan="Reverend">Rev.</abbr>
+                              <abbr expan="John">J.</abbr> Miller York <abbr expan="Pennsylvania"
+                              >Pa</abbr></seg>
+                    </closer>
+               </div1>
+          </body>
+     </text>
+</TEI.2>

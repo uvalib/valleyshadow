@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0031"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="F0031">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Samuel M. Potter to Cynthia Potter,
+                    March 25, 1864</title>
+        <title type="sort">franklin county samuel m potter to cynthia potter, march 25 1864</title>
+        <author>Potter, Samuel M. </author>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amy Murrell </name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Institute for Advanced Technology in the Humanities </publisher>
+                <publisher>University of Virginia </publisher>
+                <pubPlace>Charlottesville, Va. </pubPlace>
+                <idno type="VCDH">F0031</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1997 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved. </p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2/ </p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1997 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1997">1997 </date>
+            <idno type="uva-pid">uva-lib:501206</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War </p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note>
+                    <p>This is transcribed from a typescript.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Samuel M. Potter to Cynthia Potter, March 25, 1864</title>
+            <title type="sort">franklin county samuel m potter to cynthia potter, march 25 1864</title>
+            <author>Samuel M. Potter</author>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <publicationStmt>
+                        <publisher> </publisher>
+                        <pubPlace> </pubPlace>
+                        <date value=""> </date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p>Source copy consulted: Potter Letters, Microfilm MG-132, Civil War
+                            Material, Misc. Diaries and Letters, Pennsylvania Historical and Museum
+                            Commission, Harrisburg, Pennsylvania. </p>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Pennsylvania Historical and Museum Commission, Harrisburg, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1864-03-25">1864-03-25 </date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Desertion/Leave, Enlistment </term>
+                    <term>Regiment: 16th Pa. Cav. </term>
+                    <term>Company: </term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value="2000">Summer 2000</date>
+                <respStmt>
+                    <resp/>
+                    <name>Amy Voorhees</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="F0031T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Potter sends his wife a copy of his regimental history for her safekeeping and
+                    discusses his prospects for a furlough.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Cynthia Potter</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1864-03-25">March 25 1864 </date>
+                        <name type="place">Hospital Department 16th Pa Cav, Turkey Run, Va </name>
+                    </dateline>
+                    <salute>Dear Wife </salute>
+                </opener>
+                <p>Yours of the 15 <hi rend="super">th</hi> &amp; 18<hi rend="super">th</hi>
+                    were <orig reg="received">recieved</orig> this evening &amp; I feel sorry
+                    for the little folk who are sick. I <orig reg="can't">cant</orig> be much help
+                    to you &amp; hope you may get along without much trouble. I expect you had
+                    better have Dr. Davidson to see Josey &amp; he can tell I suppose what
+                    causes the pain in the side &amp; what you had better do for it. Give Josey
+                    as nourishing diet as you can to keep up his strength, milk &amp; eggs if
+                    you can get them. Nurse his appetite with anything nourishing you can get him to
+                    eat. I got a letter from Father last Sabbath. Lizzie was about well &amp;
+                    Susie had been sick 4 or 5 days when they wrote.</p>
+
+                <p>On Wednesday morning we had about 8 inches of snow on the ground. Yesterday was
+                    bright &amp; beautiful. This evening it is raining &amp; has been for
+                    several hours &amp; there is not much prospect of it ceasing soon. It is all
+                    quiet here. The <abbr expan="rebels">rebs</abbr>
+                    <orig reg="don't">dont</orig> disturb us any. Our pickets near Bealton pick up
+                    one every now and then.</p>
+
+                <p>I hear that General Grant came down to the Army of Potomac yesterday &amp; as
+                    soon as the roads are fit I suppose he will have us on the go again.</p>
+
+                <p>I sent you today a history of our regiment for its first years operations. I wish
+                    you would not let it get destroyed as it will be interesting to look at when I
+                    get home. </p>
+
+                <p>I would be very much pleased to cut your wood this evening &amp; take my pay
+                    &amp; some of Lucy's molasses. Nothing could afford me more pleasure. Then I
+                    could do something for Josey &amp; have my helpmate at hand!</p>
+
+                <p>You speak of settling Ambless note. I expect that will be the best plan owing to
+                    the distance he lives from Good Intent. There is some talk of the paymaster
+                    coming around before long. Let me know how you get along with your money. In
+                    regard to the office you may rest assured that I will make every effort to get
+                    it but you see others have a say about it. Dr. Hermann was at Harrisburg this
+                    week talking to Dr. King about his own &amp; my case. Dr. King promises him
+                    as soon as there is a vacancy would occur he would procure a furlough for me so
+                    that I can go to Harrisburg &amp; be examineed. Dr. H. will also go to be
+                    examined for Surgeon as he is now only an <orig reg="Assistant"
+                    >Assisstant</orig>. He &amp; I will go together as soon as Dr. King says so.</p>
+
+                <p>If we get some more recruits I will get the position in this regiment as the
+                        <abbr expan="Colonel">Col</abbr> has as much as promised to use his
+                    influence. If our regiment is not recruited up I will have to wait until Dr.
+                    Hermann is promoted Surgeon to some other regiment. Then I will get his place
+                    here. So we must have patience. It is late bedtime &amp; I will not close my
+                    letter until morning but go to bed asking the <orig reg="choicest"
+                    >choisest</orig> blessing for my wife &amp; family that their lives may be
+                    spared &amp; enabled to honor God in all that they do. Good night.</p>
+
+                <p>Saturday March 26<hi rend="super">th</hi><lb/> Nothing new this morning. All
+                    Quiet. I wonder how you all are this morning. I hope Josey is better. We had
+                    about 20 recruits come in a few minutes filling up a little. It may be we will
+                    get enough before long to give me an <orig reg="Assistant">Assisstant</orig>
+                    Surgeons position. I will be rejoiced for your sake if it is so. I can get home
+                    to see you &amp; have more means for your comfort at home. I am very busy
+                    with reports today &amp; <orig reg="can't">cant</orig> answer your two
+                    letters as well as I would like to do but remain with unchanged love</p>
+
+                <closer>
+                    <salute>Your most affectionate husband </salute>
+                    <signed>S.M. Potter </signed>
+                    <seg type="postscript">Write soon </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0654"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="F0654">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Henry C. Metzger to His Father,
+                    October 29, 1864</title>
+        <title type="sort">franklin county henry c metzger to his father, october 29 1864</title>
+        <author>Metzger, Henry C. </author>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Sally Henninger </name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">6</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Institute for Advanced Technology in the Humanities </publisher>
+                <publisher>University of Virginia </publisher>
+                <pubPlace>Charlottesville, Va. </pubPlace>
+                <idno type="VCDH">F0654</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1997 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved. </p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2/ </p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1997 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1997">1997 </date>
+            <idno type="uva-pid">uva-lib:501318</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War </p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note> </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Henry C. Metzger to His Father, October 29, 1864</title>
+            <title type="sort">franklin county henry c metzger to his father, october 29 1864</title>
+            <author>Henry C. Metzger</author>
+            <respStmt>
+                            <resp> </resp>
+                            <name> </name>
+                        </respStmt>
+          </titleStmt>
+                    <publicationStmt>
+                        <publisher> </publisher>
+                        <pubPlace> </pubPlace>
+                        <date value=""> </date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p>Source copy consulted: Henry C. Metzger Records, 16th and 184th
+                            Pennsylvania Infantry, Harrisburg Civil War Round Table Collection,
+                            Archives of the U.S. Army Military History Institute, Carlisle Barracks,
+                            Pennsylvania. </p>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from U. S. Army Military History Institute, Carlisle Barracks, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1864-10-29">1864-10-29 </date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Medicine/Hospitals, National Government </term>
+                    <term>Regiment: 16th Pa.; 184th Pa. </term>
+                    <term>Company: none </term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value="2000">Summer 2000</date>
+                <respStmt>
+                    <resp/>
+                    <name>Amy Voorhees</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="F0654T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Metzger complains to his father about being kept in the hospital and not being
+                    able to vote.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Father</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1864-10-29">Oct. 29, 1864 </date>
+                        <name type="place">McDougall <abbr expan="Hospital">Hospt</abbr></name>
+                    </dateline>
+                    <salute>Dear Father, </salute>
+                </opener>
+
+                <p>I am still here but am fit to go the the Regiment at any moment. the sooner the
+                    better. All soldiers here living in Michigan, Vermont, <abbr expan="Rhode"
+                    >R.</abbr> Island, Maine, <abbr expan="New">N.</abbr> Jersey and <abbr
+                        expan="New">N.</abbr> York soldiers living west of Albany, were <orig
+                        reg="transferred">transfered</orig> or furloughed. It is reported here that
+                    Pennsylvania troops are to stay here and vote. I <orig reg="don't">dont</orig>
+                    know how it is. There was no <unclear>agent</unclear> around yet, to give us
+                    tickets. five <orig reg="sixths">sixth</orig> of the men <orig reg="won't"
+                    >wont</orig> vote if kept here, since men from other states were <orig
+                        reg="transferred">transfered</orig>. the Doctors say that they have no order
+                    for us yet and <orig reg="don't">dont</orig> know if one will come for us or
+                    not. The Ohio troops are in the same<pb n="2"/> fix. I expect we will be kept
+                    here and not get a chance to vote. <orig reg="Today">To day</orig> every man in
+                    the Hospital was <orig reg="Vaccinated">Vaxinated</orig>. There is now about
+                    three hundred men here since the rest were <orig reg="transferred"
+                    >transfered</orig>. Out of the 300 men here not fifty votes will be <orig
+                        reg="polled">poled</orig> if they are kept here. <orig reg="Can't"
+                    >Cant</orig> you send send me a blank filled up, all but signed, so that I can
+                    send it home and still vote. If I <orig reg="don't">dont</orig> get it nothing
+                    will be lost. <orig reg="Don't">Dont</orig> write to me <orig reg="until"
+                    >untill</orig> you hear further from me, but send a blank or something so that I
+                    can vote, as <orig reg="soon">soone</orig> as you receive this. From three to
+                    eight die every day here. I am well.</p>
+
+                <p>Give My love to all.</p>
+
+                <closer>
+                    <salute>Your Son </salute>
+                    <signed>Henry C. Metzger. </signed>
+                    <seg type="postscript">If here I will write to Ruth tomorrow. </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

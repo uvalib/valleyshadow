@@ -1,0 +1,255 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1119"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1119">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: W. Storer How to Orlando
+                    Brown, September 16, 1865</title>
+        <title type="sort">freedmens bureau records w storer how to orlando brown, september 16 1865</title>
+        <author>How, W. Storer</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1119</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500981</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: W. Storer How to Orlando Brown, September
+                            16, 1865</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records w storer how to orlando brown, september 16 1865</title>
+            <author>W. Storer How</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 38.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1865-09-16">1865-09-16</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Administration/Bureaucracy, Family, Women, Slavery, Aid/Relief</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-06">June 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Kid Wongsrichanalai</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1119T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>How requests that the Bureau pay the travelling expenses for several destitute
+                    blacks who wish to join family members elsewhere. The letter's wrapper details
+                    the channels through which the request passed.</p>
+            </div1>
+            <div1 type="section" id="wrapper">
+                <p><abbr expan="Headquarters">Hd Qrs</abbr>
+                    <abbr expan="Assistant Commissioner">Asst Comr</abbr>, Bureau <abbr
+                        expan="Refugees, Freedmen and Abandoned Lands">R.F. and A.L.</abbr>, 19
+                    September 1865<lb/><hi rend="underline">Approved</hi>, and respectfully
+                    forwarded to <hi rend="underline"><abbr expan="Major General">Maj. Genl</abbr>
+                        O.O. Howard</hi>, Commissioner<lb/>(signed) O. Brown, <abbr expan="Colonel"
+                        >Col.</abbr> and <abbr expan="Assistant Commissioner">Asst Comr</abbr></p>
+                <p>War Department, Bureau Refugees, Freedmen &amp;c, Washington, <abbr
+                        expan="September">Sept.</abbr> 21<hi rend="super">st</hi>
+                    1865<lb/>Respectfully returned to Colonel Brown, <abbr
+                        expan="Assistant Commissioner">Asst. Comr.</abbr> &amp;c to know whether
+                    these people are dependent on the Bureau for support.<lb/>By order of <abbr
+                        expan="Major General">Maj. Genl</abbr> Howard,
+                        Commissioner<lb/>(signed)<lb/><abbr expan="Assistant Adjutant">Asst. Adjt.
+                        General</abbr></p>
+                <p>Bureau <abbr expan="Refugees, Freedmen and Abandoned Lands">R.F. &amp;
+                    A.L.</abbr>, Richmond, <abbr expan="September">Sept</abbr> 23/65<lb/><abbr
+                        expan="Respectfully">Respy</abbr> Returned: attention invited to previous
+                        <orig reg="endorsement ">indorsement</orig>by order <abbr expan="Colonel"
+                        >Col.</abbr> O. Brown, (signed)H.B. Scott, <del rend="none" hand="h1"/><abbr
+                        expan="General">Genl</abbr></p>
+                <p><abbr expan="Headquarters">HdQrs</abbr> Sixth <abbr expan="District">Dist</abbr>
+                    <abbr expan="Virginia">Va</abbr>, Staunton <abbr expan="Virginia">Va</abbr>
+                    <abbr expan="September">Sept</abbr> 29<hi rend="super">th</hi>
+                    '65<lb/>Respectfully returned to <abbr expan="Colonel">Col.</abbr> Brown with
+                    the information that these people are not dependent on this Bureau for
+                    support<lb/>(signed)W. Storer How, <abbr expan="Captain">Capt</abbr> &amp;c,
+                        <abbr expan="Superintendent">Supt.</abbr> Sixth <abbr expan="District">Dist.</abbr>
+                    <abbr expan="Virginia">Va.</abbr></p>
+            </div1>
+        </front>
+
+        <body id="d5">
+            <div1 type="letter" id="d6">
+                <head>
+                    Bureau Refugees Freedmen &amp; <abbr expan="Abandoned">A.</abbr>
+                    Lands<lb/><abbr expan="Headquarters">H<hi rend="super">d</hi>
+                        Quarters</abbr> Sixth District <abbr expan="Virginia">Va</abbr>
+                    <name type="recipient"><abbr expan="Colonel">Col.</abbr> O. Brown <abbr
+                            expan="Assistant Commissioner">Asst Comr</abbr><lb/>Richmond, <abbr
+                            expan="Virginia">Va</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1865-09-16"><abbr expan="September">Sept</abbr> 16<hi
+                                rend="super">th</hi> 1865</date>
+                        <name type="place">Staunton</name>
+                    </dateline>
+                    <salute>Colonel</salute>
+                </opener>
+
+                <p>I have the honor to apply for transportation for the following named persons, to
+                    the places and for the reasons set opposite their names.</p>
+
+                <p>
+                    <table>
+                        <row>
+                            <cell>Violet Ward, 2 children - colored</cell>
+                            <cell>to Holmes <abbr expan="County">Co.</abbr>
+                                <abbr expan="Mississippi">Miss.</abbr></cell>
+                            <cell>Her husband &amp; one child, live in <abbr expan="Mississippi"
+                                    >Miss.</abbr> one child here &amp; one in Richmond</cell>
+                        </row>
+                        <row>
+                            <cell>Catherine Johnson, one child - Colored</cell>
+                            <cell>to Richmond, Va</cell>
+                            <cell>She has five children in Richmond</cell>
+                        </row>
+                        <row>
+                            <cell>Mahala Montgomery &amp; four children - Colored</cell>
+                            <cell>to Clear Spring - 11 miles from Hagarstown <abbr expan="Maryland"
+                                    >Md.</abbr></cell>
+                            <cell>She is unable to support herself here, &amp; has relations
+                                there who will support her.</cell>
+                        </row>
+                        <row>
+                            <cell>Nancy <unclear>Ellet</unclear> &amp; 2 children - <abbr
+                                    expan="Colored">Cold</abbr></cell>
+                            <cell>To Fauquier <abbr expan="County">Co.</abbr>
+                                <abbr expan="Virginia">Va.</abbr></cell>
+                            <cell>has 4 children there &amp; former owner</cell>
+                        </row>
+                    </table>
+                </p>
+
+                <p>These persons are all destitute, unable to pay their traveling expenses
+                    themselves.</p>
+
+                <closer>
+                    <salute>I am, Colonel <lb/>Very Respectfully,<lb/>Your <abbr expan="Obedient"
+                            >Obed</abbr> Servant</salute>
+                    <signed>W. Storer How <abbr expan="Captain">Capt</abbr> &amp; <abbr
+                            expan="Assistant Quartermaster">A.Q.M.</abbr><lb/><abbr
+                            expan="Superintendent">Supt</abbr> 6th <abbr expan="District">Dist.</abbr>
+                        <abbr expan="Virginia">Va</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

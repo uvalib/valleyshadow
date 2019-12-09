@@ -1,0 +1,229 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2951"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A2951">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: Robert B. Spillman to Amanda C. Armentrout,
+                    May 18, 1866</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta robert b spillman to amanda c armentrout, may 18 1866</title>
+        <author>Spillman, Robert</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Elizabeth Ladner</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A2951</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502121</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: Robert B. Spillman to Amanda C. Armentrout, May 18, 1866</title>
+            <title level="m"/>
+            <title type="sort">augusta robert b spillman to amanda c armentrout, may 18 1866</title>
+            <author>Robert B. Spillman</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William F. Brand Papers</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1866-05-18">1866-05-18</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Home Front, Family</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A2951T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Robert writes to Kate of his worsening eyesight and how he now has to wear
+                    eyeglasses. Expressing his continued brotherly affection for her, Spillman says
+                    he hopes to see her soon and recounts local events.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1866-05-18">May 18<hi rend="super">th</hi> 1866</date>
+                        <name type="place">Seeds farm <abbr expan="Westmoreland">West</abbr> Co Va</name>
+                    </dateline>
+                    <salute>My Dear Sister Kate</salute>
+                </opener>
+
+                <p>You very kind and ever dear letter of the 5<hi rend="super">th</hi> of April was
+                    duly <orig reg="received">recieved</orig> which found <add hand="h1"
+                        place="inline">me</add> quite well &amp; truly glad to hear from you. I
+                    reckon you think very strange of me for not replying sooner but when I tell you
+                    the reason I know you will forgive me. About 5 or 6 weeks ago my eyes became so
+                    very weak that I could not possibly see to read of wrote consequently I could
+                    not answer your letter, &amp; even now, it is with the greatest difficulty
+                    imaginable that I can barely make out to write I am reduced to the <orig
+                        reg="painful">painfull</orig> necessity of wearing glasses. <orig reg="It"
+                        >it</orig> is truly a sad <orig reg="misfortune">missfortune</orig> for ones
+                    eyesight <add hand="h1" place="inline">to be</add> so seriously impaired as is
+                    the case with me at this time, but I hope by the constant use of green glasses
+                    to have my sight restored. My Brother once <pb n="2"/>suffered with the same
+                        <orig reg="misfortune">missfortune</orig> but regained his sight by wearing
+                    glasses. I hope I may be equally fortunate.</p>
+
+                <p>Well Sweet Sister (Oh! how I love to call you Sister) you must not expect a long
+                    or interesting letter this time for it is very <orig reg="painful"
+                    >painfull</orig> to my eyes while I am writing &amp; besides I <orig
+                        reg="can't">cant</orig> see the lines on the paper consequently my writing
+                    will be very crooked &amp; imperfect <add hand="h1" place="inline">all</add>
+                    of which I hope you will excuse. I am really sorry that I cant write so as to
+                    interest you for your <hi rend="underline">dear sweet letters</hi> are always so
+                    truly interesting to me, I wish my mind was more expansive, or that I was
+                    capable of producing language that when transmitted to paper would fully <orig
+                        reg="unbosom">unbossom</orig> my self to you. That I could tell you in
+                    impressive language how dear you are to me &amp; how <del hand="h1"
+                    >much</del> I appreciate your friendship. <orig reg="Had">had</orig> I the
+                    intellect of a Byron &amp; could <add hand="h1" place="inline">wield</add>
+                    the pen of a Novelist then might I give you some idea of my <hi rend="underline"
+                        >profound</hi> admiration <pb n="3"/>of your <orig reg="inestimable"
+                        >instimable</orig> worth as a <hi rend="underline">lady</hi> a <hi
+                        rend="underline">Christian</hi> a <hi rend="underline">true noble</hi>
+                    &amp; <hi rend="underline">constant</hi> friend one whose love I regard as a
+                    boon too sacred to be bestowed upon one so <orig reg="insignificant"
+                        >insignifficant</orig> as my worthless self. I cannot use figurative
+                    language therefore Dear Kate, can only say I believe you are good &amp; in
+                    simple language say, I love you &amp; am devoted to you more than any friend
+                    under the same circumstances. It is truly greivious to <del hand="h1">my</del>
+                    me Dear Sister that I am so situated that I <orig reg="can't">cant</orig> visit
+                    you. I know of nothing that would afford me so much pleasure as to be convenient
+                    so I could enjoy your society often, but if ever I am blessed with means
+                    &amp; opportunity, rest assured I will certainly visit you.</p>
+
+                <p>Well <orig reg="Sister">Sis</orig> Kate, I have no news to communicate that would
+                    be interesting to you times are exceedingly dull &amp; money scarcer than I
+                    ever knew it before. Farming is the <orig reg="principal">principle</orig> order
+                    of the day, though crops are looking <pb n="4"/>very badly in consequence of the
+                    cold wet season, fears are entertained that crops will be very short this year
+                    as the weather keeps so unnaturally cool. The health of the people is <orig
+                        reg="generally">generly</orig> good in this community. I am in better health
+                    than I have been for six months. My brother enjoys fine health. My father's
+                    family is well himself excepted. <orig reg="He">he</orig> is quite old very
+                    infirm &amp; constantly complaining.</p>
+
+                <p>You must remember me kindly to your father &amp; family, with much love for
+                    your self</p>
+
+                <closer>
+                    <salute>I remain as ever your fond friend</salute>
+                    <signed>Robt. B. Spillman</signed>
+                    <seg type="postscript">Write Soon</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

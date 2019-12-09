@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9639"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A9639">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: William Brand to Kate Armentrout, December
+                    29, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta william brand to kate armentrout, december 29 1861</title>
+        <author>Brand, William F.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Jaime Martinez</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A9639</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502801</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: William Brand to Kate Armentrout, December 29, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta william brand to kate armentrout, december 29 1861</title>
+            <author>William Brand</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William Brand Papers, Albert and
+                            Shirley Small Special Collections Library, University of Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1861-12-29">1861-12-29</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Family, Medicine/Hospitals</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2007-04-03">2007-04-03</date>
+                <respStmt>
+                    <resp>proofed</resp>
+                    <name>Josh Botts</name>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A9639T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>William apologizes to Kate for playing cards in camp. He describes Christmas in
+                    camp and sends news about their friends and relatives.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1861-12-29">Decmeber 29th 1861</date>
+                        <name type="place"><orig reg="Camped">Campt</orig> Near Winchester</name>
+                    </dateline>
+                    <salute>Ever Dear Kate,</salute>
+                </opener>
+
+                <p>I <orig reg="received">recieved</orig> your letter on the 20th &amp; it was a
+                    most welcome letter for our <abbr expan="Regiment">Reg.</abbr> was on <orig
+                        reg="picket">piket</orig>
+                    <orig reg="where">ware</orig> the banks of the Potomac &amp; <orig
+                        reg="occasion">occation</orig> the <orig reg="enemy">enimy</orig> would
+                    throw a bombshell as if feeling for our situation but <del rend="none" hand="h1"/>
+                    <orig reg="wasted">warsted</orig>
+                    <orig reg="ammunition">aminition</orig> in vain but you may know that your
+                    letter being <orig reg="received">recieved</orig> in such a <del rend="none" hand="h1"/>
+                    would make a lasting impression on my mind &amp; <orig reg="there"
+                    >thare</orig> I vowed before Almighty God that I would never play <orig
+                        reg="another">annother</orig> card it was very seldom that I every played;
+                    when I played it was for <orig reg="mere">mear</orig> amusement but well I know
+                        <orig reg="there">thare</orig> was a better way to spend my time. This is
+                    quite a lonesome day <orig reg="here">hear</orig>, though a <orig
+                        reg="beautiful">beautifull</orig> Sabbath morning <orig reg="every"
+                    >evry</orig> thing looks <orig reg="quiet">quiate</orig> but dull it is quite a
+                    picture to look around on my <unclear>mess</unclear> some are Cooking some
+                    eating some writing &amp; some sleeping. We had <del rend="none" hand="h1"/>
+                    <pb n="2"/>
+                    <del rend="none" hand="h1"/> for breakfast you would <orig reg="laugh">laughf</orig> if
+                        <unclear>you</unclear> could see us cooking <orig reg="every">evry</orig>
+                    one <unclear>must</unclear> have something to say how such &amp; such a
+                    thing ought to be done. <del rend="none" hand="h1"/> H. Brownlee is <orig reg="here"
+                    >hear</orig> to day tis the <unclear>first</unclear> time I have seen him since
+                        <unclear>he</unclear> went to Washington <abbr expan="County">Co.</abbr> he
+                    looks very well. Tom is <abbr expan="General">Gen.</abbr> Garnetts orderly.</p>
+
+                <p>What sort of a Christmas did you have mine was very dry it seemed to me like a
+                    Sabbath it was <del rend="none" hand="h1"/> beautiful day. I would like
+                    <unclear>very</unclear> much to have been at home <del rend="none" hand="h1"/> I know that I
+                    could have had some pleasure. I will long remember the <orig reg="pleasant"
+                        >plesant</orig>
+                    <orig reg="holidays">hollow days</orig> we had a turkey Christmas day for dinner
+                    &amp; have had one since. <orig reg="There">Thare</orig> was an inspection
+                    this morning a 9 <orig reg="o'clock">O clock</orig> A.M. we had a tolerable hard
+                    trip to the Potomac a <orig reg="few">fiew</orig> weeks a go on it is hard to me
+                    as I was not very well I had the yellow <orig reg="jaundice">jaunders</orig>. I
+                    was very near broke down it was useless to <unclear>write</unclear>
+                    <orig reg="every">evry</orig>
+                    <orig reg="thing">think</orig> that happened <del rend="none" hand="h1"/> it has been <orig
+                        reg="published">bublished</orig> in the news papers.</p>
+
+                <pb n="3"/>
+
+                <p>I hope John is getting well so <unclear>he</unclear> can enjoy him self. Through
+                    the <del rend="none" hand="h1"/> low days I assure you that I shall never think less of him
+                    for telling on me for he is a man I <orig reg="greatly">grately</orig> esteem. I
+                    only wish that he would correct me of <orig reg="every">evry</orig> fault that
+                        <del rend="none" hand="h1"/> have give my love to him if he is at home when this reaches
+                        <unclear>you</unclear>. You can keep the socks <orig reg="until"
+                    >untill</orig> I return my health is very good, at <orig reg="present"
+                    >presant</orig> &amp; hope when <orig reg="these">theese</orig>
+                    <orig reg="few">fiew</orig>
+                    <orig reg="uninteresting">uninterresting</orig> lines come to
+                    <unclear>hand</unclear> you may be enjoying the same blessing. My Brothers are
+                    both <unclear>well</unclear>. Your Cousin Abe was down <orig reg="here"
+                    >hear</orig> yesterday the most of the boys <unclear>treat</unclear> him coldly
+                    because he had him self detailed to wait on the sick he spent to most of his
+                    time with me. I <orig reg="heard">hurd</orig> that he started home yesterday I
+                    hope that he may have a <orig reg="pleasant">pleasent</orig> time. I must bring
+                    this short letter to a <unclear>close</unclear>. I ask an <orig reg="interest"
+                        >interrest</orig> all your <unclear>prayers</unclear> give my love to all
+                    &amp; reserve <del rend="none" hand="h1"/> respective portion for your <del rend="none" hand="h1"/>.</p>
+
+                <pb n="4"/>
+
+                <p>Write soon as I am always glad <del rend="none" hand="h1"/> hear from nothing more.</p>
+
+                <closer>
+                    <salute>write soon</salute>
+                    <signed>W.F. Brand</signed>
+                    <seg type="postscript">P.S. <del rend="none" hand="h1"/> New years' gift</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

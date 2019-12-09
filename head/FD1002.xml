@@ -1,0 +1,1026 @@
+<?xml version="1.0"?>
+
+<?dlps id="FD1002"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]> 
+ 
+<TEI.2 id="FD1002">  
+<teiHeader type="migrated">  
+    <fileDesc>  
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Diary of Franklin R. Rankin (1864)</title>
+        <title type="sort">franklin county diary of franklin r rankin 1864</title>
+        <author>Rankin, Franklin R.</author>
+        <editor/>
+        <respStmt>  
+          <resp>Creation of machine-readable version: </resp>  
+          <name>Students, HIUS 403: Digital History and the American
+Civil War, 1997-1998, Department of History, University of
+Virginia</name>  
+          <resp>Conversion to TEI.2-conformant markup:</resp>  
+          <name>Amy Murrell</name>  
+        </respStmt>
+      </titleStmt>  
+ 
+      <extent>
+        <num type="kilobytes"> 21 kilobytes</num>
+      </extent>  
+      <publicationStmt>  
+        <publisher>Virginia Center for Digital History</publisher>  
+        <pubPlace>Charlottesville, Virginia </pubPlace>  
+ 
+        <idno type="VCDH">FD1002</idno>  
+ 
+        <!--
+<availability>  
+<p>Publicly accessible </p>  
+<p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>  
+<p>copyright 1998, by the Rector and Visitors of the
+University of Virginia</p>  
+</availability>
+-->  
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1998 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1998">1998</date>  
+        <idno type="uva-pid">uva-lib:500344</idno>
+      </publicationStmt>  
+      <seriesStmt> 
+        <p>The Valley of the Shadow:  Two Communities in
+the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>  
+      <notesStmt>
+        <note/>
+      </notesStmt>  
+ 
+ 
+      <sourceDesc>  
+        <biblFull>  
+          <titleStmt>
+            <title>Diary of Franklin R. Rankin</title>
+            <title level="m">Civil War Miscellaneous Collection</title>
+            <title type="sort">diary of franklin r rankin</title>
+            <author>Franklin R. Rankin</author>
+            <editor> </editor>
+            <respStmt>
+              <resp>e.g. Translator</resp>
+              <name/>
+            </respStmt>
+          </titleStmt>  
+          <editionStmt> 
+            <p> </p> 
+          </editionStmt>  
+          <extent>6 pages</extent>  
+          <publicationStmt>  
+            <publisher> </publisher>  
+            <pubPlace> </pubPlace>  
+            <date value=""> </date>  
+            <idno type="callNo">Source copy consulted:  Diary of Franklin
+R. Rankin, Civil War Miscellaneous Collection, U. S. Army
+Military History Institute, Carlisle Barracks,
+Pennsylvania</idno>  
+          </publicationStmt>  
+          <seriesStmt>
+            <p>The Valley of the Shadow:  Two Communities in
+the American Civil War</p>
+          </seriesStmt>  
+          <notesStmt> 
+            <note/>
+          </notesStmt>  
+        </biblFull>  
+      </sourceDesc>  
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from U. S. Army Military History Institute, Carlisle Barracks, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>  
+ 
+    <profileDesc>  
+      <creation>
+        <dateRange from="1864-02-05" to="1864-12-30">1864-02-05 - 1864-12-30</dateRange>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>  
+      <textClass>  
+        <keywords>  
+          <term>
+Battle Description, Camp Life, Death/Casualties, Enlistment,
+National Government, Prisons/Prisoners, Troop Movement
+</term>  
+          <term>American Civil War</term>
+        </keywords>  
+      </textClass>  
+    </profileDesc>  
+ 
+    <revisionDesc>  
+      <change>  
+        <date value="2001-05">May 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Susanna
+Michele Lee</name>
+        </respStmt>  
+        <item>Proofread against the transcription obtained from the U.
+S. Army Military History Institute at Carlisle
+Barracks.</item>  
+      </change>  
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>  
+  </teiHeader>  
+ 
+<text id="FD1002T"> 
+ 
+<front id="d2"> 
+<div1 id="FD1002bio" type="bio"> 
+<head>Biography
+<!-- <ref>FD1002bio</ref> -->
+</head> 
+<p>Franklin R. Rankin was born in Franklin County in 1834.
+During the war he enlisted in the 21st Pennsylvania Cavalry as
+a sergeant.  This diary is a record of his service during 1864
+in what are at times very brief entries.  His daily reports
+include updates on his regiment's movement toward Richmond and
+tallies of casualties incurred along the way.</p>
+</div1> 
+</front> 
+ 
+<body id="d4"> 
+
+ 
+<div1 id="FD10021864" type="part" n="1864"> 
+<head>1864
+<!-- <ref>FD10021864</ref> -->
+</head> 
+ 
+<div2 type="section" n="1864-02" id="d6"> 
+<head>February 1864
+<!-- <ref>Enlistment</ref> --> 
+</head> 
+ 
+<div3 type="entry" n="1864-02-05" id="d7"> 
+<head>February 5 -</head> 
+<p>Reenlisted at Chambersburg</p> 
+</div3> 
+</div2> 
+ 
+<div2 type="section" n="1864-03" id="d8"> 
+<head>March 1864
+<!-- <ref>Enlistment</ref> --> 
+</head> 
+ 
+<div3 type="entry" n="1864-03-05" id="d9"> 
+<head>March 5 -</head> 
+<p>Left home for Chambersburg</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-03-06" id="d10"> 
+<head>6 -</head> 
+<p>At Bloody Run all night</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-03-07" id="d11"> 
+<head>7 -</head> 
+<p>All night at <abbr expan="William">Wm.</abbr> <orig
+reg="Bratton's">Brattons</orig> five miles West of
+Chambersburg</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-03-08" id="d12"> 
+<head>8 -</head> 
+<p>Joined the Regiment at Chambersburg.</p> 
+</div3> 
+</div2> 
+ 
+<div2 type="section" n="1864-05" id="d13"> 
+<head>May 1864
+<!-- <ref>Troop Movement</ref> --> 
+</head> 
+ 
+<div3 type="entry" n="1864-05-16" id="d14"> 
+<head>16 -</head> 
+<p>Left Chambersburg for Washington</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-05-21" id="d15"> 
+<head>21 -</head> 
+<p>Arrived at Washington and marched to Camp Stoneman</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-05-22" id="d16"> 
+<head>22 -</head> 
+<p>In Camp all day</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-05-23" id="d17"> 
+<head>23 -</head> 
+<p>Turned the horses in</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-05-24" id="d18"> 
+<head>24 -</head> 
+<p>Marched to Arlington Heights</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-05-25" id="d19"> 
+<head>25 -</head> 
+<p>Still at Arlington Heights</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-05-26" id="d20"> 
+<head>26 -</head> 
+<p>At the Heights and received arms and equipment</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-05-27" id="d21"> 
+<head>27 -</head> 
+<p>Marched to Alexandria and got transportation for Port
+Royal</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-05-28" id="d22"> 
+<head>28 -</head> 
+<p>Arrived at Port Royal</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-05-29" id="d23"> 
+<head>29 -</head> 
+<p>On a forced march all day</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-05-30" id="d24"> 
+<head>30 -</head> 
+<p>Still marching</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-05-31" id="d25"> 
+<head>31 -</head> 
+<p>Still on March</p> 
+</div3> 
+</div2> 
+ 
+<div2 type="section" n="1864-06" id="d26"> 
+<head>June 1864
+<!-- <ref>Battle Description, Death/Casualties, Troop
+Movement</ref> --> 
+</head> 
+ 
+<div3 type="entry" n="1864-06-01" id="d27"> 
+<head>June 1 -</head> 
+<p>Arrived at Cold Harbor in front of Richmond</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-06-02" id="d28"> 
+<head>2 -</head> 
+<p>In the same place and under heavy fire</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-06-03" id="d29"> 
+<head>3 -</head> 
+<p>Under fire all day and lost over 60 men in the Regiment</p>
+
+</div3> 
+ 
+<div3 type="entry" n="1864-06-04" id="d30"> 
+<head>4 -</head> 
+<p>Picketing</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-06-05" id="d31"> 
+<head>5 -</head> 
+<p>Relieved and marched Chickahominy River and encamped until
+the 12th</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-06-12" id="d32"> 
+<head>12 -</head> 
+<p>7 o'clock P.M. Crossed the River and marched on towards
+James River</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-06-14" id="d33"> 
+<head>14 -</head> 
+<p>Arrived Harrison landing and encamped until the 16th</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-06-16" id="d34"> 
+<head>16 -</head> 
+<p>Crossed the James and marched 18 miles and encamped</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-06-17" id="d35"> 
+<head>June 17 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-06-18" id="d36"> 
+<head>18 -</head> 
+<p>In action all day and night and lost heavy in killed and
+wounded</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-06-19" id="d37"> 
+<head>19 -</head> 
+<p>In reserve and under fire all day. Still losing some few
+men</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-06-20" id="d38"> 
+<head>20 -</head> 
+<p>In the same place</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-06-21" id="d39"> 
+<head>21 -</head> 
+<p>Advanced to the left a few miles</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-06-22" id="d40"> 
+<head>22 -</head> 
+<p>Moved front to support 2nd Corps and was under heavy firing
+all evening and all night</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-06-23" id="d41"> 
+<head>23 -</head> 
+<p>We were relieved till 3 o'clock when we moved in the
+extreme left and built breastworks all evening and most all
+night</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-06-24" id="d42"> 
+<head>24 -</head> 
+<p>Returned to Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-06-25" id="d43"> 
+<head>25 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-06-26" id="d44"> 
+<head>26 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-06-27" id="d45"> 
+<head>27 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-06-28" id="d46"> 
+<head>28 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-06-29" id="d47"> 
+<head>29 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-06-30" id="d48"> 
+<head>30 -</head> 
+<p>In Camp</p> 
+</div3> 
+</div2> 
+ 
+<div2 type="section" n="1864-07" id="d49"> 
+<head>July 1864
+<!-- <ref>Battle Description, Camp Life,
+Death/Casualties</ref> --> 
+</head> 
+ 
+<div3 type="entry" n="1864-07-01" id="d50"> 
+<head>July 1 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-02" id="d51"> 
+<head>2 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-03" id="d52"> 
+<head>3 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-04" id="d53"> 
+<head>4 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-05" id="d54"> 
+<head>5 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-06" id="d55"> 
+<head>6 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-07" id="d56"> 
+<head>7 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-08" id="d57"> 
+<head>8 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-09" id="d58"> 
+<head>9 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-10" id="d59"> 
+<head>10 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-11" id="d60"> 
+<head>11 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-12" id="d61"> 
+<head>12 -</head> 
+<p>Ordered to the front line of work front of Petersburg</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-13" id="d62"> 
+<head>13 -</head> 
+<p>In front</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-14" id="d63"> 
+<head>14 -</head> 
+<p>In front</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-15" id="d64"> 
+<head>July 15 -</head> 
+<p>In front</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-16" id="d65"> 
+<head>16 -</head> 
+<p>In front</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-17" id="d66"> 
+<head>17 -</head> 
+<p>In front</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-18" id="d67"> 
+<head>18 -</head> 
+<p>In front</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-19" id="d68"> 
+<head>19 -</head> 
+<p>In front</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-20" id="d69"> 
+<head>20 -</head> 
+<p>In front</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-21" id="d70"> 
+<head>21 -</head> 
+<p>In front</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-22" id="d71"> 
+<head>22 -</head> 
+<p>We were relieved in front of Petersburg and returned to
+Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-23" id="d72"> 
+<head>23 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-24" id="d73"> 
+<head>24 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-25" id="d74"> 
+<head>25 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-26" id="d75"> 
+<head>26 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-27" id="d76"> 
+<head>27 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-28" id="d77"> 
+<head>28 -</head> 
+<p>Our regiment was ordered in front of Petersburg</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-29" id="d78"> 
+<head>29 -</head> 
+<p>Busy building bomb proofs</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-30" id="d79"> 
+<head>30 -</head> 
+<p>The <orig reg="enemy's">enemies</orig> fort blown up and
+sieging all day</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-07-31" id="d80"> 
+<head>31 -</head> 
+<p>Our dead and wounded still lying on the field in front of
+the blown up fort which they charged on</p> 
+</div3> 
+</div2> 
+ 
+<div2 type="section" n="1864-08" id="d81"> 
+<head>August 1864
+<!-- <ref>Death/Casualties</ref> --> 
+</head> 
+ 
+<div3 type="entry" n="1864-08-01" id="d82"> 
+<head>August 1 -</head> 
+<p>Our dead was <orig reg="buried">berried</orig> and the
+wounded taken off that had been lying in front of the fort</p>
+
+</div3> 
+ 
+<div3 type="entry" n="1864-08-02" id="d83"> 
+<head>2 -</head> 
+<p>In front until the 16th</p> 
+</div3> 
+</div2> 
+ 
+<div2 type="section" n="1864-09" id="d84"> 
+<head>September 1864
+<!-- <ref>Battle Description, Prisons/Prisoners</ref> --> 
+</head> 
+ 
+<div3 type="entry" n="1864-09-30" id="d85"> 
+<head>September 30 -</head> 
+<p>Advanced to Poplar Church and took two lines of works with
+but little loss and captured one gun and 50 or 60
+prisoners.</p> 
+</div3> 
+</div2> 
+ 
+<div2 type="section" n="1864-10" id="d86"> 
+<head>October 1864
+<!-- <ref>Battle Description, Death/Casualties, Troop
+Movement</ref> --> 
+</head> 
+ 
+<div3 type="entry" n="1864-10-01" id="d87"> 
+<head>October 1 -</head> 
+<p>Exposed to firing from the enemy whilst reversing the works
+we took the day previous and rained all day which made it very
+disagreeable</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-10-03" id="d88"> 
+<head>3 -</head> 
+<p>In front until the 6th</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-10-06" id="d89"> 
+<head>6 -</head> 
+<p>Ordered to City Point for the purpose of being mounted</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-10-07" id="d90"> 
+<head>7 -</head> 
+<p>In dismounted camp until the 16th</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-10-16" id="d91"> 
+<head>16 -</head> 
+<p>Received horses and equipments and all complete</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-10-17" id="d92"> 
+<head>17 -</head> 
+<p>In line of march at 8 o'clock A.M.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-10-18" id="d93"> 
+<head>18 -</head> 
+<p>In Camp near Hand Cock Station</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-10-19" id="d94"> 
+<head>October 19 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-10-20" id="d95"> 
+<head>20 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-10-21" id="d96"> 
+<head>21 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-10-22" id="d97"> 
+<head>22 -</head> 
+<p>Fair and warm</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-10-23" id="d98"> 
+<head>23 -</head> 
+<p>Fair and warm</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-10-24" id="d99"> 
+<head>24 -</head> 
+<p>Fair and warm</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-10-27" id="d100"> 
+<head>27 -</head> 
+<p>Made a <orig reg="reconnaissance">reconnosance</orig>
+toward the Boyd Town plank road</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-10-28" id="d101"> 
+<head>28 -</head> 
+<p><orig reg="Skirmishing">Skermshing</orig> and fighting all
+day and lost 60 or 70 men.</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-10-29" id="d102"> 
+<head>29 -</head> 
+<p>Returned to camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-10-30" id="d103"> 
+<head>30 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-10-31" id="d104"> 
+<head>31 -</head> 
+<p>In Camp</p> 
+</div3> 
+</div2> 
+ 
+<div2 type="section" n="1864-11" id="d105"> 
+<head>November 1864
+<!-- <ref>Camp Life, National Government</ref> --> 
+</head> 
+ 
+<div3 type="entry" n="1864-11-01" id="d106"> 
+<head>November 1 -</head> 
+<p>In camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-02" id="d107"> 
+<head>2 -</head> 
+<p>Picketing. it rained all day</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-03" id="d108"> 
+<head>3 -</head> 
+<p>Picketing. Still raining</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-04" id="d109"> 
+<head>4 -</head> 
+<p>Picketing - fair weather</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-05" id="d110"> 
+<head>5 -</head> 
+<p>Returned to camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-06" id="d111"> 
+<head>6 -</head> 
+<p>In camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-07" id="d112"> 
+<head>7 -</head> 
+<p>Raid toward Stoney Creek Station</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-08" id="d113"> 
+<head>8 -</head> 
+<p>Presidential Election.  All passed off quiet</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-09" id="d114"> 
+<head>9 -</head> 
+<p>In Camp.  Pleasant weather and all quiet along the line</p>
+
+</div3> 
+ 
+<div3 type="entry" n="1864-11-10" id="d115"> 
+<head>10 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-11" id="d116"> 
+<head>11 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-12" id="d117"> 
+<head>12 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-13" id="d118"> 
+<head>13 -</head> 
+<p>In Camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-14" id="d119"> 
+<head>14 -</head> 
+<p>Picketing</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-15" id="d120"> 
+<head>15 -</head> 
+<p>Picketing</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-16" id="d121"> 
+<head>16 -</head> 
+<p>Picketing</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-17" id="d122"> 
+<head>17 -</head> 
+<p>Picketing</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-18" id="d123"> 
+<head>18 -</head> 
+<p>Relieved and returned to Camp at 5 p.m.  It commenced
+raining and rained all night</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-19" id="d124"> 
+<head>November 19 -</head> 
+<p>Still raining</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-20" id="d125"> 
+<head>20 -</head> 
+<p>Still raining</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-21" id="d126"> 
+<head>21 -</head> 
+<p>Still rainy</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-22" id="d127"> 
+<head>22 -</head> 
+<p>Fair and nights very cold</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-23" id="d128"> 
+<head>23 -</head> 
+<p>Fair</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-24" id="d129"> 
+<head>24 -</head> 
+<p>Fair</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-25" id="d130"> 
+<head>25 -</head> 
+<p>Fair</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-26" id="d131"> 
+<head>26 -</head> 
+<p>Fair</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-27" id="d132"> 
+<head>27 -</head> 
+<p>Picketing.  The weather fair and warm</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-28" id="d133"> 
+<head>28 -</head> 
+<p>Picketing</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-29" id="d134"> 
+<head>29 -</head> 
+<p>Picketing</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-11-30" id="d135"> 
+<head>30 -</head> 
+<p>Returned to Camp</p> 
+</div3> 
+</div2> 
+ 
+<div2 type="section" n="1864-12" id="d136"> 
+<head>December 1864
+<!-- <ref>Battle Description, Camp Life</ref> --> 
+</head> 
+ 
+<div3 type="entry" n="1864-12-01" id="d137"> 
+<head>December 1 -</head> 
+<p>Out on a Scout as far as Stoney Creek Station.  Burnt the
+Station and returned to camp and lost but few men</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-02" id="d138"> 
+<head>2 -</head> 
+<p>In Camp.  Still fair weather</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-03" id="d139"> 
+<head>3 -</head> 
+<p>In camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-04" id="d140"> 
+<head>4 -</head> 
+<p>In camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-05" id="d141"> 
+<head>5 -</head> 
+<p>In camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-06" id="d142"> 
+<head>6 -</head> 
+<p>In camp under marching orders</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-07" id="d143"> 
+<head>7 -</head> 
+<p>Started on the raid toward Bellfield, <abbr
+expan="Virginia">Va</abbr></p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-08" id="d144"> 
+<head>8 -</head> 
+<p>Raiding</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-09" id="d145"> 
+<head>9 -</head> 
+<p>Raiding</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-10" id="d146"> 
+<head>10 -</head> 
+<p>Raiding and the roads very muddy</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-11" id="d147"> 
+<head>11 -</head> 
+<p>Returned to camp at 12 p.m. and the night being very
+cold</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-12" id="d148"> 
+<head>12 -</head> 
+<p>In camp and still cold</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-13" id="d149"> 
+<head>13 -</head> 
+<p>In camp and still very cold</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-14" id="d150"> 
+<head>14 -</head> 
+<p>In camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-15" id="d151"> 
+<head>15 -</head> 
+<p>In camp.  Fair and warm</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-16" id="d152"> 
+<head>16 -</head> 
+<p>Picketing</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-17" id="d153"> 
+<head>17 -</head> 
+<p>Picketing</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-18" id="d154"> 
+<head>December 18 -</head> 
+<p>Picketing</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-19" id="d155"> 
+<head>19 -</head> 
+<p>Returned to camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-20" id="d156"> 
+<head>20 -</head> 
+<p>Fair and warm</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-21" id="d157"> 
+<head>21 -</head> 
+<p>Raining all day</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-22" id="d158"> 
+<head>22 -</head> 
+<p>Very cold all day</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-23" id="d159"> 
+<head>23 -</head> 
+<p>Cold</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-24" id="d160"> 
+<head>24 -</head> 
+<p>Cold</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-25" id="d161"> 
+<head>25 -</head> 
+<p>Picketing and pleasant</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-26" id="d162"> 
+<head>26 -</head> 
+<p>Rainy</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-27" id="d163"> 
+<head>27 -</head> 
+<p>Rainy</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-28" id="d164"> 
+<head>28 -</head> 
+<p>Returned to camp</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-29" id="d165"> 
+<head>29 -</head> 
+<p>Cold.  Some few flakes of snow falling</p> 
+</div3> 
+ 
+<div3 type="entry" n="1864-12-30" id="d166"> 
+<head>30 -</head> 
+<p>Very cold and rainy and in camp all day</p> 
+</div3> 
+</div2> 
+</div1> 
+ 
+</body> 
+</text> 
+</TEI.2> 
+ 

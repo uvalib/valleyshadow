@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1039"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="B1039">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: George T. Cook to R. S.
+                    Lacey, December 31, 1866</title>
+        <title type="sort">freedmens bureau records george t cook to r s lacey, december 31 1866</title>
+        <author>Cook, George T.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1039</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500907</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: George T. Cook to R. S. Lacey, December
+                            31, 1866</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records george t cook to r s lacey, december 31 1866</title>
+            <author>George T. Cook</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 59.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1866-12-31">1866-12-31</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Legal System, Violence/Crime, Race Relations</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-05">May, 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1039T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Cook's report expresses surprise at the level of fairness in criminal trials, but
+                    also notes that several cases of assault will come before Grand Juries in
+                    February 1867.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau Refugees, Freedmen, and <abbr expan="Abandoned Lands"
+                        >A.L.</abbr><lb/>Office <abbr expan="Assistant">Asst.</abbr>
+                    <abbr expan="Superintendent">Supt.</abbr>
+                    <abbr expan="Sub-District">Sub-Dist</abbr>
+                    <abbr expan="Number">No.</abbr> 10 7th <abbr expan="District"
+                        >Dist</abbr><lb/><abbr expan="Department">Dept.</abbr> Potomac - Comprising
+                    the Counties <lb/>of Augusta and Highland
+                    <name type="recipient">Captain R. S. Lacey<lb/><abbr expan="Superintendent"
+                            >Supt.</abbr> 7<hi rend="super">th</hi>
+                        <abbr expan="District">Dist</abbr>
+                        <abbr expan="Virginia">Va</abbr><lb/>Lynchburg, <abbr expan="Virginia"
+                        >Va.</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1866-12-31"><abbr expan="December">Dec</abbr> 31<hi
+                                rend="super">st</hi> 1866</date>
+                        <name type="place">Staunton Augusta <abbr expan="County">Co</abbr>
+                            <abbr expan="Virginia">Va</abbr></name>
+                    </dateline>
+                    <salute>Captain:</salute>
+                </opener>
+
+                <p>I have the honor to report that in all the <hi rend="underline">"Criminal
+                    Trials"</hi> of Freedmen which I have attended during the month of December I
+                    have witnessed a degree of fairness I had not expected to see in this <abbr
+                        expan="Sub-District">Sub Dist.</abbr></p>
+
+                <p>The only trials I have attended have been in this Town and before Magistrates, I
+                    have <add hand="h1" place="inline">not</add> been notified of any out of Town.</p>
+
+                <p>Several cases in which Freedmen were interested came up on the 25<hi rend="super"
+                        >th</hi> and 26<hi rend="super">th</hi> inst. but so far as the power of the
+                    Magistrates went, justice was administered, it now remains to see whether or no
+                    the Grand Jury, which meets in February next, will cause <pb n="2"/>whites
+                    engaged in assaults upon Freedmen to be <orig reg="indicted">indited</orig>, and
+                    if Juries can be found to try such cases impartially.</p>
+
+                <closer>
+                    <salute>Very Respectfully<lb/>Your <abbr expan="Obedient">Obt</abbr> Servant</salute>
+                    <signed><abbr expan="George">Geo.</abbr> T. Cook<lb/>1<hi rend="super">st</hi>
+                        <abbr expan="Lieutenant">Lieut</abbr>
+                        <abbr expan="Veterans' Reserve Corps">V.R.C.</abbr> &amp; <abbr
+                            expan="Assistant">Asst.</abbr>
+                        <abbr expan="Superintendent">Supt.</abbr></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

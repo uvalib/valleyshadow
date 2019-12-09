@@ -1,0 +1,310 @@
+<?xml version="1.0"?>
+
+<?dlps id="F4054"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F4054">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Richard Henry Watkins to Mary
+                    Watkins, October 15, 1862</title>
+        <title type="sort">franklin county richard henry watkins to mary watkins, october 15 1862</title>
+        <author>Watkins, Richard Henry</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">14</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F4054</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501605</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Richard Henry Watkins to Mary Watkins, October 15,
+                            1862</title>
+            <title level="m"/>
+            <title type="sort">franklin county richard henry watkins to mary watkins, october 15 1862</title>
+            <author>Richard Henry Watkins</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Richard Henry Watkins Papers,
+                            Mss1 W3272a, Virginia Historical Society, Richmond, Virginia.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Virginia Historical Society, Richmond, Virginia.</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1862-10-15">1862-10-15</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Battle Description, Desertion/Leave, Family, Military Authority, Military
+                        Strategy, Patriotism, Troop Movement, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2005">Summer 2005</date>
+                <respStmt>
+                    <resp/>
+                    <name>Doug O'Reagan</name>
+                </respStmt>
+                <item>Proofread.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F4054T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Richard Watkins' letter to his wife Mary gives an account of his participation in
+                    General Stuart's raid into Pennsylvania in October 1862. The letter also has an
+                    interesting description of General Stonewall Jackson.</p>
+            </div1>
+
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+              
+
+                <opener>
+                    <dateline>
+                        <date value="1862-10-15">Oct 15<hi rend="super">th</hi> -62</date>
+                        <name type="place">Camp Near Lee Town</name>
+                    </dateline>
+                    <salute>My Precious Mary</salute>
+                </opener>
+
+                <p>On last Thursday the day on which <abbr expan="Captain">Capt</abbr> Berkeley left
+                    us <abbr expan="General">Genl</abbr> Stuart and I and a whole
+                    <unclear>parcel</unclear> of fellows <add hand="h1" place="inline">about 1800 in
+                        all</add> concluded that as times were getting dull on this side of the
+                    river we would ride over and see what the people were <orig reg="doing"
+                    >doin</orig> on the other side. Started about 10 o'clock in the morning in the
+                    direction of Winchester and then turning to the right we reached the Potomac
+                    about midnight and encamped <add hand="h1" place="inline">near Hedgesville above
+                            W<hi rend="super">ms</hi>port</add>: a thick cloud of dust enveloped us
+                    the whole of that day &amp; we saw nothing worthy of note. <add hand="h1"
+                        place="inline">Raining next morning &amp;</add> at daybreak <del
+                        hand="h1">next morning</del> we crossed the river <unclear>drove</unclear>
+                    in the enemy's pickett taking six prisoners and passing rapidly through a
+                    portion of Maryland entered Pennsylvania about midday and then what a sudden
+                    change in the appearance of things all the inhabitants astonished, startled,
+                    terrified first cheering us for Union troops then suddenly turning pale,
+                    quaking, trembling with fright. One poor woman was so enthusiastic in the cause
+                    of the Union that she snatched up her babe and ran through a hard rain to meet
+                    us nearly a half a mile in order to hurrah for the Union. You can imagine what a
+                    change came over the spirit of her dream when our boys laughed at her and told
+                    her that we were live rebels. The order was soon given to detail men to catch
+                    horses and I wish that you could have witnessed the scene which followed it. Our
+                    large body continued to move rapidly on towards Mercersburg and over every field
+                    &amp; in every direction men could be seen chasing horses each one trying to
+                    take the most. They would meet wagons in the road take every horse &amp;
+                    leave the poor wagoner either swearing with <unclear>rage</unclear> or mute with
+                    astonishment. Citizens on horses &amp; in buggies were dismounted &amp;
+                    turned loose afoot. Any threat or exhibition of <unclear>rage</unclear> was only
+                    laughed at. Every trooper seemed to be in the best humor imaginable and it was
+                    really the greatest <orig reg="frolic">frolick</orig> that I ever witnessed. At
+                    Mercersburg we halted, fed our horses bountifully from the corn fields of the
+                    good old Dutchmen and talked familiarly with such citizens as had the courage to
+                    approach us. At this place <orig reg="occurred">occured</orig> the only thing
+                    which I sincerely <pb n="2"/> regret about the trip. Some of the men broke open
+                    a store and rifled it of a great many goods mainly though such things as they
+                    needed badly such as shoes hats &amp;c. I regret exceedingly that this <orig
+                        reg="occurred">occured</orig> indeed I doubt the propriety and the policy of
+                    even taking horses but this we were ordered to do by our General when there was
+                    no authority &amp; certainly no order for the other. The doctrine of
+                    retaliation is to me odious and I took nothing not even to the value of a pin
+                    while in the state. But to the trip -- from Mercersburg we continued our march
+                    to Chambersburg, a large and wealthy town which I reckon contains from fifteen
+                    to twenty thousand inhabitants at least and is one of the most beautiful places
+                    that I ever saw. Reached Chambersburg about sunset and the home guard
+                    threatening to oppose us <abbr expan="General">Genl</abbr> Stuart sent in a flag
+                    of truce and informed them that if they made the least resistance he would shell
+                    the town. They at once gave him permission to enter. There we encamped for the
+                    night just outside of the town, and seeing a large straw stack I did not unfold
+                    my blankets but burrowed under the stack and slept all night quite comfortably
+                    although my books &amp; overcoat were saturated with water, and nearly all
+                    of my clothes wet from the constant rain. The next morning Saturday we were
+                    aroused and started again. Took a most meandering route from Chambersburg to
+                    Emmetsville <abbr expan="Maryland">M.d</abbr> gathering several hundred horses
+                    as we went. When we touched the Maryland line near Emmetsville the order was
+                    given that nothing was to be seized under the penalty of death. As soon as we
+                    entered the town the citizens discovered that we were Stuarts Cavalry they began
+                    to cheer and I have never seen a more cordial &amp; enthusiastic reception
+                    than we there received. Such a contrast with what we had witnessed in
+                    Pennsylvania; and Emmetsville <unclear>too</unclear> only a half mile from the
+                    line but filled to overflowing with secessionists. From Emmetsville we continued
+                    our journey through <abbr expan="Maryland">M.d.</abbr> &amp; entirely around
+                        M<hi rend="super">c</hi>Clellans army, first approaching near Hagerstown
+                    then through Woodville near Frederick, through Liberty near Baltimore, through
+                    New Market &amp; then to Barnesville near the Potomac and thence to the
+                    river opposite Leesburg <pb n="3"/>We reached the river about 10 or 11 o'clock
+                    Sunday morning, having marched eighty five miles in 28 hours without dismounting
+                    a single time from our horses (the whole of Saturday &amp; Saturday night
+                    &amp; Sunday morning till eleven o'clock). On approaching the river we found
+                    that the enemy was in possession of the ford with infantry artillery &amp;
+                    cavalry. The moment seemed to be a critical one indeed, but <abbr
+                        expan="General">Genl</abbr> Stuart remained perfectly composed and by a
+                    rapid manuevering of the trooops &amp; a tolerably sharp skirmish he
+                    succeeded in crossing us all over, without the loss of a single man. Just as the
+                    rear of our column reached the Virginia shore quite a large force of the enemy
+                    appeared on the opposite hills. But all were over &amp; safe. That night we
+                    encamped at Leesburg, and next morning as <abbr expan="General">Genl</abbr>
+                    Stuart rode by the whole column gave him three rousing cheers and we came on at
+                    our leisure to camp. This morning I am perfectly well, fully refreshed.</p>
+
+                <p>Oct 17-- Whilst writing the above news reached us that the enemy were advancing
+                    in large force and of course we were ordered to horse. They came and drove our
+                    pickett from <unclear>Charlestown</unclear> and occupied it. Our regiment was
+                    ordered on a scout to ascertain their force if possible and went almost to
+                    Harpers Ferry before getting the information returning to Camp about Midnight.
+                    By daybreak yesterday we were aroused by <unclear>videttes</unclear> stating
+                    that the enemy were also advancing from Shepherdstown &amp; were almost upon
+                    us. We were soon on our horses and other regiments of our brigade coming up were
+                    drawn up in line of battle to receive them. Their cavalry came in sight
+                    &amp; halted. I was sent out in chase of some videttes to watch their
+                    movements. Purnall Dickinson rode boldly out into a clear field very near their
+                    picketts &amp; commenced firing at them. Other videttes soon found him and
+                    the firing was kept up for some time. This checked the enemys movements, but
+                    about eleven o'clock we were relieved by a portion of the 9th V<hi rend="super"
+                        >a</hi> and as I called in my videttes and started off, several thousand of
+                    the enemy came pouring out of the woods formed in the line of battle &amp;
+                    halted about that time our regiment was ordered to the rear of our cavalry to
+                    feed our horses having been on duty 24 hours <pb n="4"/>Whilst there <abbr
+                        expan="General">Genl</abbr> Lee (<abbr expan="Robert">Robt</abbr> E) <abbr
+                        expan="General">Genl</abbr> Jackson &amp; <abbr expan="General"
+                    >Genl</abbr> Stuart rode by together going over to take a view of the enemy.
+                        <abbr expan="General">Genl</abbr> Jackson is entirely different in
+                    appearance from what I expected. He is about my size, perhaps not quite so tall,
+                    with darker hair &amp; whiskers and entirely genteel in his appearance
+                    though <orig reg="plainly">planely</orig> dressed. Nothing rough or uncouth
+                    about him. The enemy remained in position until the afternoon when suddenly from
+                    some cause unknown to me they became panic stricken and beat a hasty retreat
+                    across the river. We pursued their cavalry &amp; artillery with cavalry
+                    &amp; artillery and skirmished with them until we forced them entirely
+                    across then posted our pickett and returned to this our old camp.</p>
+
+                <p>This morning I was delighted at the reception of another letter from you dated
+                        <abbr expan="September">Sept</abbr> 24<hi rend="super">th</hi> &amp;
+                        <abbr expan="October">Oct</abbr> 4<hi rend="super">th</hi>. I am so sorry to
+                    hear that you have been sick. Oh how I wish that I could be with you. Will apply
+                    for a furlough as soon as <abbr expan="Captain">Capt</abbr> Berkeley gets back I
+                        <del rend="none" hand="h1"/> have one. If you see him tell him to make haste and come in
+                    the mean time if your sickness returns write me and I will come anyhow. Am very
+                    glad to hear that you have short hair in <unclear>afine</unclear> that you look
+                    now just as you did when at school at Ms Ballantines, I want to hurry home
+                    before it grows out again I thank you so much for writing before Archer Haskins
+                    returned &amp; s<del rend="none" hand="h1"/> I await his return impatiently in order
+                    that I may get another letter. My poor horse John Wesley broke down just as we
+                    crossed the Potomac on our way from Pennsylvania but fortunately Magruder is in
+                    tolerably good order and I am riding him again. My little bay at home is worth
+                    two hundred &amp; fifty or 300 dollars <unclear>according</unclear> to his
+                    condition. If he can be sold at that it would be well for
+                    <unclear>paps</unclear> to sell him. Has mother sold her
+                    <unclear>folio</unclear>? Please ask her or <unclear>Conv</unclear> Purnall to
+                    have mine sold at the same time &amp; also my wheat I do not get any papers
+                    and cannot watch the market at all. Please write me about my tobacco &amp;
+                    corn crop of the present year and write me a great about yourself, especially
+                    about my Mary, my darling precious one. Write about her, her little
+                        <unclear>shelter</unclear> &amp; all. Write about your thoughts
+                    &amp; dreams &amp; acts by day &amp; night. Write write.</p>
+
+                <closer>
+                    <salute>I wish to all the best for <del rend="none" hand="h1"/>
+                        <abbr expan="Your">Yr</abbr> own R</salute>
+                    <signed/>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

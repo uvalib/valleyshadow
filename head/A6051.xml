@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+
+<?dlps id="A6051"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+<!ENTITY % MANUSCRIPT "INCLUDE">
+
+ 
+ <!ENTITY Smiley22 SYSTEM "uva-lib:503153" NDATA uvaHighRes> 
+ <!ENTITY Smiley22b SYSTEM "uva-lib:503154" NDATA uvaHighRes> 
+ ]>  
+  
+  
+<TEI.2 id="A6051">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Mary A. Smiley to Thomas M. Smiley, May 16, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county mary a smiley to thomas m smiley, may 16 1861</title>
+        <author>Smiley, Mary A.</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Alice McShane</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Alice McShane</name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A6051</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:503152</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Mary A. Smiley to Thomas M. Smiley, May 16, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta county mary a smiley to thomas m smiley, may 16 1861</title>
+            <author>Mary A. Smiley</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>2 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Smiley Family Papers Accession #1807 Special
+       Collections Department, University of Viriginia Library, Charlottesville, Virginia</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1861-05-16">1861-05-16</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Enlistment, Family, Homefront</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001">Summer 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Jaime Henshaw</name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A6051T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Discusses parents visit to cousins, marriage in neighboring town, and troop mobilization.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Thomas M. Smiley</name>
+    </head>
+
+    <opener>
+  
+      <pb n="1" entity="Smiley22" pid="uva-lib:503153"/>
+     
+     <dateline>
+      <date value="1861-05-16">Thursday May 16<hi rend="super">th</hi> 1861</date>
+     </dateline>
+     <salute>Dear Brother</salute>
+    </opener>
+
+    <p>I take the present <orig reg="opportunity">oportunity</orig> to write you a few lines we are
+     all well and hope you are enjoying the same blessing good health Aunt Ellen received your
+     letter and came down yesterday she thought we would be anxious if we did not get a letter. you
+     are out of stamps and <orig reg="can't">cant</orig> get any Pa got right for you yesterday and
+     I will enclose them in this and send. Pa and ma have gone to Cousin James Berrie's I had
+     intended to go but pa <orig reg="couldn't">couldnt</orig> give up going with his wife I reckon
+     and as I was cut out of going, as clear as a whistle, Pretty time of the year for <hi
+      rend="underline">him</hi> to be visiting is it not. Mrs Turk and ma have at last made that
+     long talked of call at Mr Junkins. They spent the day at Mrs Strains and went down a little
+     while in the evening. Maggie Canier was married yesterday morning in the church at Providence
+     and just started for the North to visit her husbands people before leaving America I would have
+     liked to have seen them married very well but of course as I was not one of the invited guests
+     I would not like to go without others were going that were uninvited I have heard that those of
+     your company who did not go or<pb n="2" entity="Smiley22b" pid="uva-lib:503154"/>
+      got substitutes have been sent for why has that been done it is
+     very strange to me. I think it would have been as well for to let Adam Yago stand and then if
+     the militia is called he may have to go and he will have harder times than if he gone as a
+     volunteer I believe the Brownsburg troop starts <orig reg="today">to-day</orig> for Staunton it
+     is to stay there a day or two I heard Kes Kerr went yesterday and wanted to go as substitute
+     for a Swisher but I hardly think he is going for he did not say <orig reg="anything">any
+     thing</orig> about it when we were there Smallwood is going in Sai Strongs place. Last Saturday
+     was big muster day as you call it at Middlebrook pa went down he wanted to see Morgan but he
+     had not got home. Mr Echard had the great misfortune to break down in his <orig reg="buggy"
+      >bugy</orig> with a lady Sunday going to St John's. As I have no news to write I think I had
+     better quit I guess if I would wait <abbr expan="until">till</abbr> this evening I might have
+     plenty but I want to send today as the mail does down I wrote last week and sent by mail and as
+     the Irishman wrote to his <orig reg="sweetheart">sweethart</orig> I want to know <orig
+      reg="whether">wheter</orig> you got it and if you <orig reg="did not">didnot</orig> I want to
+     know <orig reg="anyway">any way</orig>. You must write soon and often for remember we are
+     always anxious to hear. Mrs Turk sends her best respects to you &amp; Tish unites with me
+     in sending much love to you our brother, and give my best respects to my <orig
+      reg="acquaintances">acquaintences</orig> at Harpers ferry</p>
+
+    <closer>
+     <salute>I remain your affectionate sister</salute>
+     <signed>Mary A. Smiley</signed>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+
+<?dlps id="A3002"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A3002">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Tony Pastor to Annie Harris,
+                    September 23, 1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county tony pastor to annie harris, september 23 1862</title>
+        <author>Tony Pastor</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Doug O'Reagan</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Doug O'Reagan</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A3002</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502162</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Tony Pastor to Annie Harris, September 23, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta county tony pastor to annie harris, september 23 1862</title>
+            <author>Tony Pastor</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Tony Pastor to Annie Harris,
+                            September 23, 1862, Nellie Harris private collection</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from private collection</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1862-09-23">1862-09-23</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>African Americans, Battle Description, Camp Life, Death/Casualties,
+                        Medicine/Hospitals, Military Strategy, Prisons/Prisoners, Troop Movement</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A3002T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Writing to his lady friend Annie, Tony describes a recent successful march into
+                    Maryland, including the capture of Harper's Ferry. He mentions a great ensuing
+                    battle but says he has no time to discuss it in detail.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1862-09-23">Sept. 23<hi rend="super">d</hi>, 1862</date>
+                        <name type="place">Camp near Martinsburg</name>
+                    </dateline>
+                    <salute>Dear Annie,</salute>
+                </opener>
+
+                <p>Your most welcome letter dated the <unclear>5</unclear><hi rend="super">th</hi>
+                    has just this moment come to hand, which believe me was read with delight
+                    &amp; interest, it being the only one <orig reg="received">recived</orig>
+                    from any source whatever for more than a month. You have no idea how much good
+                    it does a poor soldier to get a letter from absent friends, especially those who
+                    are as near &amp; dear as I believe you to be. I was truly glad to hear that
+                    you were in the enjoyment of your usual health. hope you may continue to enjoy
+                    the same so long as you are permitted to pilgrimmage in the wicked world of
+                    ours. Suppose that you have had a full account of the battles as manassas before
+                    this; taking this for granted I will not occupy your time with a repetition, but
+                    will hasten on to give you a brief account of our trip into Maryland. We crossed
+                    the <pb n="2"/>river near Leesburg after the battles at Manassas &amp;
+                    proceeded to Fredrick City in Fredrick County. We captured some few stores,
+                    &amp; all the wounded &amp; sick in Hospital, numbering some 500, the
+                    most of whom were convalescent, took <unclear>possession</unclear> of the
+                    Baltimore &amp; Ohio Rail Road &amp; Telegraph wires, destroyed the
+                    bridge. here we camped a few days, from thence we marched in the direction of
+                    Hagerstown to a little town called Boonsboro here we had a little skirmish with
+                    some <orig reg="Yankee">Yankey</orig> Cavalry, which resulted in killing one
+                    &amp; capturing one, from thence we marched to Williamsport a little town on
+                    the Potomack, where we recrossed the river, from thence to Martinsburg where
+                    there were several thousand Yanks (Longstreet &amp; Hill Divisions remaining
+                        <pb n="3"/>in Maryland) but before we reached the place they made their
+                    escape to Harper Ferry. We remained there a short time, after which we went on
+                    towards the Ferry, in the mean time Hills division marched on to the "Maryland
+                        <orig reg="Heights">hights</orig>," &amp; <del rend="none" hand="h1"/> on the
+                    "Virginia", Jackson bringing up the rear. When we got about 3 miles of the
+                    Ferry, we could see the Yankee tents <del rend="none" hand="h1"/> on "Bolivar <orig
+                        reg="Heights">hights</orig>" - this was on Saturday evening. On <orig
+                        reg="Sabbath">Sabath</orig> morning our batteries opened on them from the
+                        <orig reg="heights">hights</orig>, which was responded to by the enemy, but
+                    our men having a much higher position rendered their shot inaffective. we were
+                    then completely around them with <add hand="h1" place="inline">no</add> chance
+                    of their making an escape. Old Jack sent in a flag of truce demanding an <pb
+                        n="4"/>unconditional surrender they asked till the next day. The firing was
+                    kept up all day &amp; on monday morning our batteries opened again having
+                    changed their position, it was not long until they hoisted the white flag. Old
+                    Jack was soon in their midst, thus ended the scene - about 13,000 prisoners were
+                    taken including 1,500 Negroes, 15000 stand of small arms, 50 pieces of
+                    artillery, 1500 horses 4 or 500 wagons ambulances &amp; a <del rend="none" hand="h1"/>
+                    We were then marched on to Shepardstown Crossing into Maryland were our forces
+                    were attacked by McCleland, Burnside, &amp; in fact the whole of their army
+                    from Washington &amp; on the 19<hi rend="super">th</hi> just one of the
+                    greatest battles of the war was fought, of which I have no time now to speak,
+                    suffice it to say our loss was very heavy, &amp; that of the enemy <orig
+                        reg="equal">eqal</orig> as heavy if not more so. I must close for tonight.
+                    If we dont move in the morning I will add a few lines more Good night god bless
+                    you.</p>
+
+                <closer>
+                    <salute>Yours, in haste</salute>
+                    <signed>Tony</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

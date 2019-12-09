@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0067"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="F0067">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: J. C. Prichard to [unknown], April
+                    1, 1863</title>
+        <title type="sort">franklin county j c prichard to unknown, april 1 1863</title>
+        <author>Prichard, J. C. </author>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amy Murrell </name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">4</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Institute for Advanced Technology in the Humanities </publisher>
+                <publisher>University of Virginia </publisher>
+                <pubPlace>Charlottesville, Va. </pubPlace>
+                <idno type="VCDH">F0067</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1997 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved. </p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1997 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1997">1997 </date>
+            <idno type="uva-pid">uva-lib:501242</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War </p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: J. C. Prichard to [unknown], April 1, 1863</title>
+            <title type="sort">franklin county j c prichard to unknown, april 1 1863</title>
+            <author>J. C. Prichard</author>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <publicationStmt>
+                        <publisher> </publisher>
+                        <pubPlace> </pubPlace>
+                        <date value=""> </date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p>Source copy consulted: J.C. Prichard Letter, Compiled Military Service
+                            Record of Captain John Doebler, Company A, 126th Pennsylvania Regiment,
+                            National Archives and Records Administration, Washington, D.C. </p>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1863-04-01">1863-04-01 </date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Battle Description, Death/Casualties, Medicine/Hospitals</term>
+                    <term>Regiment: 126th Pa. </term>
+                    <term>Company: A </term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value="2000">Summer 2000</date>
+                <respStmt>
+                    <resp/>
+                    <name>Amy Voorhees</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="F0067T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Physician writes to declare Captain Doebler "incapable" of military service. </p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">[unknown]</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1863-04-01">April 1/63 </date>
+                        <name type="place">Chambersburg </name>
+                    </dateline>
+                    <salute> </salute>
+                </opener>
+
+                <p>I declare on oath that I have carefully examined <abbr expan="Captain"
+                    >Capt</abbr> John Doebler of <abbr expan="Company">Co</abbr> A. <abbr
+                        expan="Colonel">Col.</abbr> Elder 126 Pa. <abbr expan="Volunteers"
+                    >Vol.</abbr>, now at this place and under treatment by me and find him incapable
+                    of performing the duties of a Soldier for sixty days, by reason of a fracture of
+                    the <hi rend="underline">radius</hi> and <unclear>
+                        <orig reg="ulna">ulna</orig>
+                    </unclear> by a Minnie Ball. This wound was received while leading his command
+                    at the battle of Fredericksburg. It is doing well but the bones are not as yet
+                    united.</p>
+
+                <closer>
+                    <salute> </salute>
+                    <signed>J.C. Prichard, M.D. </signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

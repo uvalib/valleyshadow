@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+
+<?dlps id="A6142"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A6142">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Jesse Rolston, Jr., to Mary Rolston, September
+     5, 1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county jesse rolston, jr to mary rolston september 5 1863</title>
+        <author>Rolston, Jr. Jesse</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Julie Beagle</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Julie Beagle</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A6142</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:502412</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Jesse Rolston, Jr., to Mary Rolston, September 5, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta county jesse rolston, jr to mary rolston september 5 1863</title>
+            <author/>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Joyce DeBolt Miller, ed., "Until Seperated by
+       Death": Lives and Civil War Letters of Jesse Rolston, Jr., and Mary Catharine Cromer
+       (Bridgewater, Va.: Good Printers, Inc., 1994), p. 44.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Published Source</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1863-09-05">1863-09-05</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Family, Church/Religious Activity, Patriotism, Agriculture</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001">Summer 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Jaime Henshaw</name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A6142T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Rolston sums up his view of the war.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <opener>
+     <dateline>
+      <date value="1863-09-05">September 5th 1863</date>
+      <name type="place">Camp Mt. Pisga</name>
+     </dateline>
+     <salute><orig reg="Dear">Deare</orig> companion</salute>
+    </opener>
+
+    <p>I received your letter dated August the 27th last <orig reg="evening">eavening</orig>. it put
+     me out of sorts to <orig reg="hear">heare</orig> that you have not heard or got no letter since
+     i <orig reg="have">hav</orig>
+     <orig reg="been">bin</orig> in this camp. i have <orig reg="written">ritten</orig> some 7
+     letters to you since the first day of august. i think it long between your letters. i have
+     received some 3 or 4 that was dated in august from you. i <orig reg="can't">cant</orig> tell
+     why mine <orig reg="don't">dont</orig> go to you. it <orig reg="ain't">haint</orig> because i
+      <orig reg="don't">dont</orig> start them but i trust that they will come to hand yet. it must
+     be the <orig reg="fault">falt</orig> of the mail some <orig reg="where">whare</orig> or how i
+      <orig reg="don't">dont</orig>
+     <orig reg="know">no</orig> which. if the paret is with calf and her is not it may be that it
+     would be best to beef her <orig reg="though">tho</orig> i leave that with you to judge. it will
+     suit me the way you think or <orig reg="do">doo</orig> best. you want to <orig reg="know"
+     >no</orig> what i think of the war. i think it is a hard war but i <orig reg="don't"
+     >dont</orig> think that it can last a great while longer <orig reg="though">tho</orig> it may
+     last longer than i think. <orig reg="there">they</orig> is a good deal of confusion amongst
+     some of the <orig reg="soldiers">soaldiers</orig> in some of the brigades. it is <orig
+      reg="mostly">moastly</orig> of the <orig reg="north">noth</orig>
+     <orig reg="carolinians">carolineans</orig>. some virginians they say that the South is <orig
+      reg="whipped">whiped</orig> but i don't think that and i don't think that the <orig
+      reg="yankees">yankeys</orig> will ever subjugate the south by <orig reg="fighting"
+     >fiting</orig>. for my part i can't say how long it will last but i still <orig reg="hope"
+     >hoap</orig> and trust god will soon see fit to put a stop to this <orig reg="horrible"
+     >horabel</orig> war. we have had a great revival of religion in our brigade and still a going
+     on yet. Many have professed [part of the letter is gone here]<lb/> I must come to close by
+     informing you that i am well and i <orig reg="hope">hoap</orig> and trust to god that this will
+     find you and all of the family <orig reg="enjoying">injoying</orig> the same blessing of health
+     which God has <orig reg="been">bin</orig> so kind to bless me with.</p>
+
+    <closer>
+     <salute>As Mr. Hanna is a waiting on me i send my love you and all</salute>
+     <signed>Jesse Rolston</signed>
+     <seg type="postscript">L. Hanna is on his way <orig reg="home">hoam</orig> and he waited <orig
+       reg="until">till</orig> I <orig reg="wrote">roat</orig> this. I started one to you by Swink
+      last Monday. if you have not got the letters i sent to you answer this as soon as you can
+       <name type="recipient">Mary C. Rolston</name>
+     </seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

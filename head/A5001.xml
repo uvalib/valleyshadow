@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+
+<?dlps id="A5001"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A5001">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: John Wise to A. D. Trotter, June 21, 1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county john wise to a d trotter, june 21 1862</title>
+        <author>Wise, John</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Amy Voorhees</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Amy Voorhees</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A5001</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 1999, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1999">1999</date>
+        <idno type="uva-pid">uva-lib:502307</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: John Wise to A. D. Trotter, June 21, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta county john wise to a d trotter, june 21 1862</title>
+            <author>John Wise</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent>2 pages</extent>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Papers of Michael Wise, Accession #6741, Special
+       Collection Department, University of Virginia Library, Charlottesville, Virginia.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note/>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1862-06-21">1862-06-21</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Troop movement, Camp Life</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001-06">June 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Amy Murrell</name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A5001T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>John Wise writes to his uncle to say his company has moved to Charlottesville, where he was
+     glad to find good water. He also sends his best wishes to his family.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <head>
+     <name type="recipient">Mr. A.D. Trotter</name>
+    </head>
+
+    <opener>
+     <dateline>
+      <date value="1862-06-21">June 21st, 62</date>
+      <name type="place">Charlottesville</name>
+     </dateline>
+     <salute>Dear Uncle</salute>
+    </opener>
+
+    <p>I promised to write to you evry chance that I had. We landed here yesterday about sundown.
+     The roads is very dusty down here Jackson and his army is still on the march no one knows
+     exactly where he is. We had a good mess of cherries to day, we never have them this early in
+     Highland; but we have something that I like better, and that is the water. We may have worse
+     water than this is to drink, but I do not like it. I expect that we will leave here in the
+     morning for Gordonsville. Our company is in good spirits and just as many as they were at the
+     warmsprings. You must write to father the first chance and inform him where I am I expect that
+     we will stay down here for some time, may be untill<pb n="2"/> the war is over. You must give
+     my best love to Aunt Liza, and and all the family. <del hand="h1">and all of cousin</del> Give
+     my best respects to cousin Martha and all her sisters.</p>
+
+    <p>I will write in a few days and let you know where I am.</p>
+
+    <p>Excuse bad writing and mistakes for they are <orig reg="very">ver</orig>
+     <orig reg="common">comin</orig> in camp.</p>
+
+
+    <closer>
+     <salute>Yours</salute>
+     <signed>John Wise</signed>
+     <seg type="postscript">
+      <name type="recipient">Mr. A.D. Trotter, Staunton, Va.</name>
+     </seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

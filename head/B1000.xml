@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1000"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1000">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: Frederick S. Tukey to W.
+                    Storer How, February 1866</title>
+        <title type="sort">freedmens bureau records frederick s tukey to w storer how, february 1866</title>
+        <author>Tukey, Frederick S.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1000</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500868</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: Frederick S. Tukey to W. Storer How,
+                            February 1866</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records frederick s tukey to w storer how, february 1866</title>
+            <author>Frederick S. Tukey</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 44.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1866-02">1866-02-xx</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Aid/Relief, Church/Religious Activity, Education, Legal System</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-05">May, 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1000T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Tukey submits a report on the condition of free blacks in Augusta County, noting
+                    the efforts to build a school, as well as some of the problems faced by the
+                    poor.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Report of Bureau Affairs for the Month of February 1866 in <abbr
+                        expan="Sub-District">Sub-Dist.</abbr> "B"
+                    <name type="recipient"><abbr expan="Captain">Capt.</abbr>
+                        <unclear>W. S. How</unclear>
+                        <abbr expan="Assistant Quartermaster">A.Q.M.</abbr> and<lb/>Superintendent
+                        6th <abbr expan="District">Dist.</abbr>
+                        <abbr expan="Virginia">Va</abbr><lb/>Winchester <abbr expan="Virginia"
+                        >Va.</abbr></name>
+                </head>
+
+                <opener>
+                    
+                    <salute>Captain:</salute>
+                </opener>
+
+                <p>I have the honor to submit the following report for the month of February 1866 in
+                    Sub. <abbr expan="District">Dist.</abbr> B.</p>
+
+                <p>Augusta County</p>
+
+                <p>Since my last report the Freedmen at this point have made some advancement
+                    towards a better Condition. By the assistance of the Bureau in furnishing
+                    lumber, they have been enabled to fit up and repair a building to answer the
+                    double purpose of a church and School House which they purchased for the former
+                    purpose, and which promises to be of the greatest advantage to them.</p>
+
+                <p>The amount of suffering among the Freedmen is <orig reg="comparatively"
+                        >comparitively</orig> small. But in cases where there is Extreme privation
+                    and are paupers, the Overseers of the Poor invariably deny such admittance to
+                    the Poor House on my application thereby setting a defiance the order of the War
+                    Department requiring each County to support its own poor. The County Court has
+                    issued an order requiring all of its Officers to assist the Bureau in Serving
+                    processes, and which if carried out will be of incalculable benefit to the
+                    Bureau.</p>
+
+                <pb n="2"/>
+
+                <p>Highland County</p>
+
+                <p>Transportation has been so limited that I have been unable to visit this County,
+                    consequently cannot say much about it.</p>
+
+                <p>I have learned however that like Augusta County the Overseers of the Poor refuse
+                    to receive any pauper Freedmen in the Poor House.</p>
+
+                <closer>
+                    <salute>I am Sir<lb/>Very Respectfully<lb/>Your <abbr expan="Obedient">Obt</abbr>
+                        <abbr expan="Servant">Servt</abbr></salute>
+                    <signed>F.S. Tukey<lb/><abbr expan="Assistant">Asst.</abbr>
+                        <abbr expan="Superintendent">Supt.</abbr>
+                        <abbr expan="Sub-District">Sub-Dist</abbr> B</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

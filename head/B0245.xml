@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+
+<?dlps id="B0245"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B0245">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: C. J. Peyton to Thomas P.
+                    Jackson, September 18, 1867</title>
+        <title type="sort">freedmens bureau records c j peyton to thomas p jackson, september 18 1867</title>
+        <author>Peyton, C. J.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B0245</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500601</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: C. J. Peyton to Thomas P. Jackson,
+                            September 18, 1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records c j peyton to thomas p jackson, september 18 1867</title>
+            <author>C. J. Peyton</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Bureau of Refugees, Freedmen, and
+                            Abandoned Lands, Record Group 105, Box E4269.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-09-18">1867-09-18</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Employment/Labor, Property</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-06">June 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B0245T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Peyton, of the Virginia Hotel in Staunton, writes Jackson that he has no
+                    intention of settling accounts with Sarah Skinner, a former employee until he
+                    can verify that the hotel has no counter-charges against her.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                
+
+                <opener>
+                    <dateline>
+                        <date value="1867-09-18"><abbr expan="September">Sept</abbr> 18th 1867</date>
+                        <name type="place"><abbr expan="Virginia">Va</abbr> Hotel[Staunton]</name>
+                    </dateline>
+                    <salute>Dear Sir:</salute>
+                </opener>
+
+                <p>I am due Sarah Skinner $7.10/100 balance on wages. She notified me yesterday of
+                    her intention to quit &amp; did so <hi rend="underline">immediately</hi>
+                    upon said notification, leaving me <del hand="h1">without</del> in an awkward
+                    position with no one to take her place. She applied at the office this morning
+                    for her money. I informed her that I could not settle with her until my sister
+                    returned as she was Chamber Maid &amp; I did not know what charges she might
+                    have against her for lost towels, sheets &amp; &amp;--&amp; this is
+                    our <del rend="none" hand="h1"/> not to settle with floor servants until we know how their <unclear>
+                        <abbr expan="accounts">acts</abbr>
+                    </unclear>
+                    <add hand="h1" place="inline">stand</add> in this particular &amp; in her
+                    absence I cannot get at it. Sarah is a <del rend="none" hand="h1"/>
+                    <pb n="2"/>unreliable servant, I can assure But I am justly due her $7.10
+                    provided we have no counter charges, and I will pay her as soon as I ascertain
+                    that fact. I cannot do so before.</p>
+
+                <closer>
+                    <salute>I am Captain Very Respectfully Yours</salute>
+                    <signed>C.J.Peyton</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

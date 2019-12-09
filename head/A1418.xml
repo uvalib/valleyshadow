@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+
+<?dlps id="A1418"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A1418">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: Amelia [Unknown family name] to Eddie
+                    [Unknown family name], December 11, 1869</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta amelia unknown family name to eddie unknown family name, december 11 1869</title>
+        <author>[Unknown last name], Amelia</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Kid W.</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Kid W.</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A1418</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501957</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: Amelia [Unknown family name] to Eddie [Unknown family name],
+                            December 11, 1869</title>
+            <title level="m"/>
+            <title type="sort">augusta amelia unknown family name to eddie unknown family name, december 11 1869</title>
+            <author>Amelia [Unknown family name]</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>5 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Unknown</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Unknown</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1869-12-11">1869-12-11</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>African Americans, Church/Religious Activity, Education, Slavery</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2005">Summer 2005</date>
+                <respStmt>
+                    <resp/>
+                    <name>Doug O'Reagan</name>
+                </respStmt>
+                <item>Proofread.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A1418T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Amelia writes to her brother Eddie, telling him about school. She discusses her
+                    African-American students and mentions their future projects.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1869-12-11"><abbr expan="December">Dec</abbr> 11. /<abbr
+                                expan="1869">69</abbr></date>
+                        <name type="place">Staunton</name>
+                    </dateline>
+                    <salute>Dear Brother Eddie</salute>
+                </opener>
+
+                <p>I am sorry to know you have been so sick and suffered so much. However I hope you
+                    are better now and able to <del hand="h1">see</del>
+                    <add hand="h1" place="inline">read</add> this letter. Do not wonder if I put in
+                    many things wrong as the girls seem to be possessed with a talking mania <orig
+                        reg="tonight">to-night</orig>. We have been so quiet before that it makes
+                    more difference with me than I thought possible. I have my scholars all to
+                    myself now and like it first rate. I have not whipped any yet and <orig
+                        reg="don't">dont</orig> think I shall as Amelia has <pb n="2"/> given me
+                    permission to send all unruly ones to her to deal with. They are going to have
+                    compositions next Wednesday. Some of them have never written any before and I
+                    expect they will be funny enough. I will send you in this; a specimen of some
+                    poetry one of my young boys tried to write. The other day an Indian visited our
+                    school. He was seven feet high and just as straight and erect as could be. He
+                    was eighty years old. His hair was white as snow as stood up all over his head.
+                    He had a fur <del hand="h1">cap</del>
+                    <add hand="h1" place="inline">bag</add> slung across his shoulder. We did not
+                    know who he was and felt rather frightened when we saw him walking in. He
+                    introduced himself as the father of some of our best scholars. He is a kind of
+                    doctor among the colored people. He was formerly a slave <pb n="3"/> from
+                    Florida: but <orig reg="traveled">travelled</orig> with his master nearly all
+                    over the Union. He is very entertaining telling hunting stories as well as
+                    stories of the war I wish<del hand="h1">ed</del> you could go with me some day
+                    to the cabin they live in out by the great fire place filled with blazing logs
+                    and hear him tell stories. One of his boys is very smart only nine years old and
+                    reading nicely in the fourth reader. I am quite proud of my scholars I can tell
+                    you, they are getting <add hand="h1" place="inline">on</add> so well. The night
+                    school is just as amusing as ever, and I cannot help laughing. The colored
+                    people here are going to have an exhibition next week. They have got it all up
+                    themselves. They are going to have some tableaux too. I expect it will be as
+                    good as going to the <orig reg="minstrel">minastrel</orig>
+                    <pb n="4"/> and better too as that is all sham and this will be the real
+                    article. I have picked out three pieces for some of my boys to speak and that is
+                    all I have had to do with it. I wrote a letter to Roland <orig reg="today"
+                        >to-day</orig> and am going to try and write him oftener in the future as I
+                    shall have more time now. <orig reg="Mr.">Mr</orig> Cristy <orig reg="wrote"
+                        >wote</orig> me a nice long letter the other day telling me all about <orig
+                        reg="Albert's">Alberts</orig> conversion. They must be very glad and I hope
+                    he will make a true earnest christian. Here is the poetry James Tynell had in
+                    his composition. The "title" of the composition was this, where he got it from I
+                    am sure I do not know, "Who ought to have the credit Columbus or Washington?
+                    Columbus for <del hand="h1">settling</del> discovering it or Washington for
+                    settling it." He took the side of Columbus, I copied the whole thing and will
+                    bring it home with me, it is a great curiousity. Here is the poetry I will write
+                    it on the top of the first page. Try and get well and write me a nice long
+                    letter,</p>
+
+                <closer>
+                    <salute>Love to all From</salute>
+                    <signed>Amelia.</signed>
+                    <pb n="1"/>
+                    <seg type="postscript">"When floating me the mile deep<lb/> Not a tree was to be
+                        seen<lb/> And when the men all grumble<lb/> It would make any <orig
+                            reg="man's">mans</orig> heart <add hand="h1" place="inline">humble</add>
+                        <name type="recipient"><lb/> But just think of this great carnage<lb/> That
+                            was on that long voyage<lb/> Who was that great man? C. <del hand="h1"
+                                >Columbus"</del><lb/> Columbus"<lb/> Beat that if you can, you
+                                <unclear>Academites</unclear></name>
+                    </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

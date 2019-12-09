@@ -1,0 +1,259 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1015"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1015">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: Thomas P. Jackson to
+                    Orlando Brown, August 31, 1867</title>
+        <title type="sort">freedmens bureau records thomas p jackson to orlando brown, august 31 1867</title>
+        <author>Jackson, Thomas P.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">9</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1015</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500883</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: Thomas P. Jackson to Orlando Brown, August
+                            31, 1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records thomas p jackson to orlando brown, august 31 1867</title>
+            <author>Thomas P. Jackson</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 47.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-08-31">1867-08-31</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Aid/Relief, Community Values/Local Behavior, Employment/Labor, Family,
+                        Race Relations, Slavery, Women, Health/Illness</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-05">May, 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1015T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Jackson's report is optimistic in regards to the employment situation and general
+                    economic condition of blacks in Augusta County, but he writes that the moral
+                    condition leaves less to be desired, citing drunkeness and frequent
+                    cohabitation. He also remarks that local whites view the political independence
+                    of blacks as "little less than a heinous crime."</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau <abbr expan="Refugees">Ref.</abbr>
+                    <abbr expan="Freedmen">F.men</abbr> &amp; <abbr expan="Abandoned">Aban<hi
+                        rend="super">d</hi></abbr> Lands<lb/>Office 4th <abbr expan="Division"
+                            >Div.</abbr> 9 <abbr expan="Sub-District">Sub Dist.</abbr>
+                    <abbr expan="Virginia">Va</abbr>
+                    <name type="recipient"><abbr expan="Brevet">Brvt.</abbr>
+                        <abbr expan="Brigadier">Brig.</abbr>
+                        <abbr expan="General">Genl.</abbr>
+                        <abbr expan="Orlando">O.</abbr> Brown<lb/><abbr expan="Assistant">Asst</abbr>
+                        <abbr expan="Commissioner">Comr</abbr> State of <abbr expan="Virginia"
+                        >Va</abbr><lb/>Richmond (Through <abbr expan="Headquarters">H<hi
+                                rend="super">d</hi>Qrs</abbr> 9th <abbr expan="Sub-District">SubDist</abbr>
+                        <abbr expan="Virginia">Va</abbr>)</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-08-31">August 31. 1867</date>
+                        <name type="place">Staunton</name>
+                    </dateline>
+                    <salute>General</salute>
+                </opener>
+
+                <p>In compliance with the requirements of <abbr expan="Circular">C.</abbr>
+                    <abbr expan="Order">O</abbr>
+                    <abbr expan="Number">No.</abbr> 6 S. 1866 (<abbr
+                        expan="Bureau of Refugees, Freedmen and Abandoned Lands">B.R.F. &amp;
+                        A.L.</abbr>) I have the honor to report on condition of Bureau affairs in
+                    4th <abbr expan="Division">Div</abbr> of 9th <abbr expan="Sub-District"
+                    >SubDist.</abbr> that there is no change to note in condition of Freedpeople.
+                    Employment is readily procured at fair wages and many farmers are making
+                    arrangements with Freedmen for cultivation of land during coming season on
+                    shares. Numerous complaints are still made at this office of unfair treatment in
+                    settlements or refusal to pay wages earned but I find as a general rule parties
+                    are willing to settle when I bring the account to their notice and in many cases
+                    the difficulty arises from ignorance on the part of Freedmen of the terms of the
+                    contracts they have signed or forgetfulness of the amount and value of supplies
+                    they have received. A great obstacle in the way of advancement among Freedpeople
+                    is the frequent changes they make of employers, thereby losing much valuable
+                    time from profitable labor and incurring heavy expense in <pb n="2"/>shifting
+                    their families and goods.</p>
+
+                <p>There is not much pauperism, at this time, in this Division, still there is much
+                    poverty not perhaps as much as might, under all the circumstances, be expected
+                    nor more than can be readily relieved by local public and private charity.
+                    Strangers, widows and deserted wives with young families, and the aged who have
+                    been brought from other counties are the majority of persons needing help.</p>
+
+                <p>The social relations between white and colored present no change. The senseless
+                    fears of "social equality" make the prejudiced whites unable to see any steps
+                    made in advance by Freedmen, in any other light than an encroachment upon their
+                    own rights and safety, and the idea of political independence seems to them
+                    little less than a heinous crime. The demeanor of the Freedmen is however
+                    peaceable and without so decided and general in their expression of loyal
+                    sentiment, that I anticipate no difficulty during coming canvass and election.</p>
+
+                <p>The moral condition of the Freedpeople is not what it should be. There is much
+                    loudness, and cohabitation without marriage in common and will continue to be so
+                    until the statutes against this demoralizing <orig reg="practice"
+                    >practise</orig> are en- <pb n="3"/>forced by the courts.</p>
+
+                <p>The Record of Marriages, (under Act <abbr expan="February">Feb</abbr>
+                    <abbr expan="27, 1866">27/66</abbr>) is carefully preserved in this office, in
+                    good order for reference, and is frequently consulted. <unclear>For</unclear>
+                    additions have been made to the List of names during past month, but I have
+                    directed several parties to the County Clerk for licence to marry.</p>
+
+                <p>I regret I cannot report the organization of any branch of "Lincoln National
+                    Temperance Association" in this Division, but I am pressing the matter with some
+                    of the leading colored men here and I do not despair of success. I am sorry to
+                    report that too much of the harvest wages earned by Freemen has found its way
+                    into bar rooms and with two Circus exhibitions during the month there has been
+                    more drunkeness than any previous month I have been here.</p>
+
+                <p>I am pleased to find there is a prospect of a small supply of Medicines from Dr.
+                        <unclear>De Lamath</unclear> Surgeon in chief <abbr
+                        expan="Bureau of Refugees, Freedmen and Abandoned Lands"
+                    >B.R.F.&amp;A.L.</abbr> for the benefit of Indigent Freedpeople. When
+                    received care shall be exercised that none save the class for whom it is
+                    intended draw upon it.</p>
+
+                <p>The desire for reunion of families (colored) separated in years past by the vile
+                    traffic of the slave trader, is general and often, through medium of this
+                    office, successful.</p>
+
+                <pb n="4"/>
+
+                <p>One great obstacle in the way of prosecuting such <orig reg="inquiries"
+                    >enquiries</orig> is the destruction or <unclear>secretion</unclear> of the
+                    books of the large Slave Marts at Richmond.</p>
+
+                <closer>
+                    <salute>Respectfully submitted<lb/><abbr expan="Your obedient servant">Yr obt
+                            servt</abbr></salute>
+                    <signed><hi rend="underline">Tho<hi rend="super">s</hi> P.
+                        Jackson</hi><lb/>Agent</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

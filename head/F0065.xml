@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0065"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="F0065">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Bob Taggart to Captain John
+                    Taggart, March 19, 1864</title>
+        <title type="sort">franklin county bob taggart to captain john taggart, march 19 1864</title>
+        <author>Taggart, Bob </author>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amy Murrell </name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">6</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Institute for Advanced Technology in the Humanities </publisher>
+                <publisher>University of Virginia </publisher>
+                <pubPlace>Charlottesville, Va. </pubPlace>
+                <idno type="VCDH">F0065</idno>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1997 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved. </p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1997 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1997">1997 </date>
+            <idno type="uva-pid">uva-lib:501240</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War </p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note>
+                    <p>The original letter appears to be missing a page or two in the middle.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Bob Taggart to Captain John Taggart, March 19, 1864</title>
+            <title type="sort">franklin county bob taggart to captain john taggart, march 19 1864</title>
+            <author>Bob Taggart</author>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <publicationStmt>
+                        <publisher> </publisher>
+                        <pubPlace> </pubPlace>
+                        <date value=""> </date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p>Source copy consulted: Taggart Letters, Microfilm MG-132, Civil War
+                            Material, Misc. Diaries and Letters, Pennsylvania Historical and Museum
+                            Commission, Harrisburg, Pennsylvania. </p>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Pennsylvania Historical and Museum Commission, Harrisburg, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1864-03-19">1864-03-19 </date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Desertion/Leave, Troop Movement</term>
+                    <term>Regiment: 9th Pa. Res. </term>
+                    <term>Company: </term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value="2000">Summer 2000</date>
+                <respStmt>
+                    <resp/>
+                    <name>Amy Voorhees</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="F0065T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Taggart tells his brother about troops gathering along Rappahannock River. </p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Captain John Taggart, 9th Penn. Reserve Infantry </name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1864-03-19">March 19<hi rend="super">th</hi> 1864 </date>
+                        <name type="place">Camp near Manassas Junction Va </name>
+                    </dateline>
+                    <salute>
+                        <hi rend="underline">Dear</hi>
+                        <hi rend="underline">John</hi>
+                    </salute>
+                </opener>
+                <p>Yours of the 16<hi rend="super">th</hi> came to hand this morning, and found us
+                    all well. We have been under arms all day in expectation of meeting <abbr
+                        expan="General">Gen</abbr> Stewart, who is on this side of the Rappahannock
+                    with a considerable Cavalry force. I suppose he wants to give us a <hi
+                        rend="underline">set</hi>-<hi rend="underline">off</hi> to Kilpatricks
+                    recent trip to Richmond. Should he come any way near us he will find this a warm
+                    climate.</p>
+
+                <p>If you think it better that that matter respecting the property should rest a
+                    little while I am perfectly satisfied. In my letter to Father I told him what I
+                    intended doing<pb n="2"/></p>
+
+                <p>Your letter, also one received from <del hand="h1">Mary</del> Tillie, speak about
+                    little <hi rend="underline">sis</hi> being unwell. What little <hi
+                        rend="underline">sis</hi> do you refer to. Is there a member of the family
+                    that I have heard nothing of? and if so what might be its age, name etc. and to
+                    whom does it belong?</p>
+
+                <p>Your <orig reg="inquiry">enquiry</orig> as to a <hi rend="underline">substitute</hi>
+                    <hi rend="underline">Veteran</hi>. Could the arrangement your mention be made?
+                    If so, I will keep a look out. Had you mentioned the matter six or eight weeks
+                    ago when the Veterans out of our <abbr expan="Regiment">Regt.</abbr>
+                    re-enlisted, I might have made arrangements with a couple of them. At present,
+                    there are none in the 9<hi rend="super">th</hi> re-enlisting. We only had about
+                    twenty-five or six in the first place.</p>
+
+                <p>My love to all the folks </p>
+                <closer>
+                    <salute>Your <abbr expan="Affectionate">Affect </abbr>
+                        <abbr expan="Brother">Broth</abbr>
+                    </salute>
+                    <signed>Bob </signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

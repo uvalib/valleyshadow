@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+
+<?dlps id="F1108"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F1108"> 
+<teiHeader type="migrated"> 
+
+    <fileDesc> 
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: H. W. Freedley to Maria Hiester, July 29, 1863</title>
+        <title type="sort">franklin county h w freedley to maria hiester, july 29 1863</title>
+        <author>Freedley, H. W.</author>
+        <editor/>
+        <respStmt> 
+          <resp>Creation of machine-readable version: </resp> 
+          <name>Matt Speiser</name> 
+          <resp>Conversion to TEI.2-conformant markup:</resp> 
+          <name>Matt Speiser</name> 
+        </respStmt>
+      </titleStmt> 
+
+      <extent>ca. <num type="kilobytes">4</num> kilobytes</extent> 
+      <publicationStmt> 
+        <publisher>Virginia Center for Digital History</publisher> 
+        <pubPlace>Charlottesville, Virginia </pubPlace> 
+
+        <idno type="VCDH">F1108</idno> 
+
+        <!--
+<availability> 
+<p>Publicly accessible </p> 
+<p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p> 
+<p>Text and images (c) copyright 2002, by the Rector and Visitors of the University of Virginia</p> 
+</availability>
+--> 
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date> 
+        <idno type="uva-pid">uva-lib:501404</idno>
+      </publicationStmt> 
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt> 
+      <notesStmt>
+        <note/>
+      </notesStmt> 
+
+      <sourceDesc> 
+        <biblFull> 
+          <titleStmt>
+            <title>Franklin County: H. W. Freedley to Maria Hiester, July 29, 1863</title>
+            <title level="m"/>
+            <title type="sort">franklin county h w freedley to maria hiester, july 29 1863</title>
+            <author>H. W. Freedley</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt> 
+          <editionStmt>
+            <p/>
+          </editionStmt> 
+          <extent>2 pages</extent> 
+          <publicationStmt> 
+            <publisher/> 
+            <pubPlace/> 
+            <date value=""/> 
+            <idno type="callNo">Source copy consulted: Rare Book, Manuscript, and Special Collections Library, Duke University</idno>
+          </publicationStmt> 
+          <seriesStmt>
+            <p/>
+          </seriesStmt> 
+          <notesStmt>
+            <note/>
+          </notesStmt> 
+        </biblFull> 
+      </sourceDesc> 
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Special Collections Department, William R. Perkins Library, Duke University, Durham, North Carolina</p>
+      </projectDesc>
+    </encodingDesc> 
+
+    <profileDesc> 
+      <creation>
+        <date value="1863-07-29">1863-07-29</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage> 
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass> 
+        <keywords> 
+          <term>Death/Casualties, Family, Medicine/Hospitals, Women</term> 
+          <term>American Civil War</term>
+        </keywords> 
+      </textClass> 
+    </profileDesc> 
+
+    <revisionDesc> 
+      <change> 
+        <date value="2005-08">August, 2005</date>
+        <respStmt>
+          <resp/>
+          <name>Kid W.</name>
+        </respStmt> 
+        <item>Proofread against original; corrections made.</item> 
+      </change> 
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc> 
+  </teiHeader> 
+
+<text id="F1108T">
+<front id="d2">
+<div1 type="summary" id="d3">
+<p>H.W. Freedley tells Maria Hiester about his severe leg wound. His handwriting is shaky.</p> 
+</div1> 
+</front> 
+
+<body id="d4">
+<div1 type="letter" id="d5">
+
+
+<opener>
+<dateline>
+<date value="1863-07-29">July 29<hi rend="super"><hi rend="underline">th</hi></hi> 1863</date> 
+    <name type="place">Gettysburg, <abbr expan="Pennsylvania">Pen</abbr></name> 
+</dateline> 
+<salute>Dear Maria</salute> 
+</opener> 
+
+<p>This is the first letter I have written for I thought that it would be strange to dictate to your father a letter <del hand="h1">from</del> for him to write to his daughter</p>
+<p>I am glad to hear that you are all so well Your father never looked so well</p>
+<p>Maria I am seriously <unclear>sadly</unclear> <add hand="h1" place="inline">wounded</add> I will not be able to be moved from here <orig reg="within">with in</orig> a month,<pb n="2"/></p>
+<p>I will not write to you again. You little know the pain much exertion <unclear>it</unclear> cost You shall <add hand="h1" place="inline">hear</add> promptly of every change in the state of my wound through your father.</p>
+
+<closer>
+<salute>Ever Affectionately</salute> 
+<signed>HW Freedley</signed> 
+</closer> 
+</div1> 
+</body> 
+</text> 
+</TEI.2>

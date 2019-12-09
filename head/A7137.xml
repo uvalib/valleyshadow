@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+
+<?dlps id="A7137"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]> 
+
+
+
+<TEI.2 id="A7137"> 
+<teiHeader type="migrated"> 
+
+    <fileDesc> 
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: John Scott to E. P. Smith, January 12, 1869</title>
+        <title type="sort">augusta county john scott to e p smith, january 12 1869</title>
+        <author>Scott, John</author>
+        <editor/>
+        <respStmt> 
+          <resp>Creation of machine-readable version: </resp> 
+          <name>Bart Elmore</name> 
+          <resp>Conversion to TEI.2-conformant markup:</resp> 
+          <name>Bart Elmore</name> 
+        </respStmt>
+      </titleStmt> 
+
+      <extent>ca. 4.929 kilobytes </extent> 
+      <publicationStmt> 
+        <publisher>Virginia Center for Digital History</publisher> 
+        <pubPlace>Charlottesville, Virginia </pubPlace> 
+
+        <idno type="VCDH">A7137</idno> 
+
+        <!--
+<availability> 
+<p>Publicly accessible </p> 
+<p n="public">URL: http://valley.vcdh.virginia.edu/</p> 
+<p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the University of Virginia</p> 
+</availability>
+--> 
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date>
+        <idno type="uva-pid">uva-lib:500253</idno>
+      </publicationStmt> 
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt> 
+      <notesStmt>
+        <note/>
+      </notesStmt> 
+
+      <sourceDesc> 
+        <biblFull> 
+          <titleStmt>
+            <title>Augusta County: John Scott to E. P. Smith, January 12, 1869</title>
+            <title level="m"/>
+            <title type="sort">augusta county john scott to e p smith, january 12 1869</title>
+            <author>John Scott</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt> 
+          <editionStmt>
+            <p/>
+          </editionStmt> 
+          <extent>3 pages</extent> 
+          <publicationStmt> 
+
+            <idno type="callNo">Source copy consulted: John Scott to E. P. Smith, January 12, 1869, American Missionary Association Archives Collection, Microfilm 72, Alderman Library, University of Virginia, Charlottesville</idno>
+          </publicationStmt> 
+          <seriesStmt>
+            <p/>
+          </seriesStmt> 
+          <notesStmt>
+            <note/>
+          </notesStmt> 
+        </biblFull> 
+      </sourceDesc> 
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Alderman Library, University of Virginia</p>
+      </projectDesc>
+    </encodingDesc> 
+
+    <profileDesc> 
+      <creation>
+        <date value="1869-01-12">1869-01-12</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage> 
+      <textClass> 
+        <keywords> 
+          <term>African Americans, Education, Women</term> 
+          <term>American Civil War</term>
+        </keywords> 
+      </textClass> 
+    </profileDesc> 
+
+    <revisionDesc> 
+      <change> 
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt> 
+        <item/> 
+      </change> 
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc> 
+  </teiHeader> 
+
+<text id="A7137T">
+<front id="d2">
+<div1 type="summary" id="d3">
+<p>Scott thanks Smith for sending an "assistant" to Staunton.  He highlights his recent efforts to increase school attendance and requests "beding" for the teachers.</p> 
+</div1> 
+
+</front> 
+
+<body id="d4">
+<div1 type="letter" id="d5">
+<head>
+<name type="recipient">Rev. E. P. Smith</name> 
+<name type="place">Staunton Va</name> 
+</head>
+
+<opener>
+<dateline>
+    <date value="1869-01-12">Jan 12<hi rend="super">th</hi> 1869</date> 
+</dateline> 
+<salute>Dear Sir</salute> 
+</opener> 
+
+<p>Your welcome letter of the 8<hi rend="super">th</hi> came last night announcing the cheering fact of an assistant en route for the Staunton School.</p>
+	<p>I labored very hard last week in preparing a Lecture for the purpose of drawing out more scholars in view of the arrival of this teacher and also to correct public sentiment which was not sound on many school questions.  By the blessing of God the Lecture was a success, and the children again flock to the school in new platoons</p>
+	<p>You inform me that you have shipped bedding--This is<pb n="2"/> kind, yet you remember that in my last letter I stated that I had made arrangements so that I would get along <hi rend="underline">someway</hi>--but it will be handy to have the beding  Last Saturday I road 30 miles in the rain to see about that Mt Solon School--but as the people only get together on Sunday there was no opportunity of setting any arrangement by which to secure the proposed $10. per month.  But I left it in shape for the people to do on sunday, and they agreed to send me word yesterday morning but it did not come.</p>
+	<p>But if the teacher is as you say a <hi rend="underline">volunteer</hi> there is no risk in sending him</p><pb n="3"/>  
+	<p>The people will undoubtedly board him.</p>
+
+
+<closer>
+<salute>Respectfully</salute> 
+<signed>John Scott</signed> 
+<seg type="postscript">P. S. If one of the teachers could bring a doz. Montieth Geog. No 1--and a few Slates--and <unclear>Primary</unclear> Arith they might be of use in the Mt. Solon school and would not make a bulky bundle</seg> 
+<name type="place">N.Y.</name> 
+</closer> 
+</div1> 
+</body> 
+</text> 
+</TEI.2>

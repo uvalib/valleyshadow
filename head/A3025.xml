@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+
+<?dlps id="A3025"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A3025">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Tony Pastor to Annie Harris, June
+                    10, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county tony pastor to annie harris, june 10 1861</title>
+        <author>Pastor, Tony</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Doug O'Reagan</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Doug O'Reagan</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A3025</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502185</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: Tony Pastor to Annie Harris, June 10, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta county tony pastor to annie harris, june 10 1861</title>
+            <author>Tony Pastor</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Tony Pastor to Annie Harris, June
+                            10, 1861, Nellie Harris private collection</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from private collection</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1861-06-10">1861-06-10</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Women, Homefront, Enlistment</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A3025T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Pastor describes one of his first guard duties and the general hardships he has
+                    faced in his early time in the army. He also asks Annie to find more recruits
+                    for his company, offering specific suggestions and mentioning that his company
+                    is falling behind the others in numbers. Parkers also hopes that all is well on
+                    the homefront, and he sends his regards home.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1861-06-10">June 10<hi rend="super">th</hi> 1861</date>
+                        <name type="place">Camp Bolivar</name>
+                    </dateline>
+                    <salute>Dearest Annie,</salute>
+                </opener>
+
+                <p> I received your very welcome epistle on saturday evening &amp; was truly
+                    glad to hear that you were in good health &amp; enjoying <orig
+                        reg="yourself">your self</orig> to the extent you spoke of. I am sorry to
+                    tell you that I lost your last letter. I was taking a short walk in the evening
+                    after reading it, on very <hi rend="underline">important</hi>
+                    <hi rend="underline">business</hi> of which I will not now take time to notice
+                    further, but I'll tell you all about it if I live to get back to Old Augusta</p>
+                <p>We have just returned this morning from guard duty. we were ordered out last
+                    night as a picket guard started between seven &amp; eight oclock &amp;
+                        <orig reg="traveled">
+                        <unclear>travailed</unclear>
+                    </orig>; between 2 &amp; 3 miles to an Old Mill, where we made our <orig
+                        reg="headquarters">
+                        <hi rend="underline">head</hi>
+                        <hi rend="underline">Quarters</hi>
+                    </orig>. we then posted one half of them around at different points<pb n="2"/>
+                    where they stood for four hours. The other half staying at the mill, not being
+                    allowed to go to sleep, as we were expecting to have an attack. some of our boys
+                    were pretty badly scared. at seven oclock we started back for our Old Quarters
+                    where we arrived at half past eight pretty hungry. we then partook of <hi
+                        rend="underline">Bread</hi> &amp; <hi rend="underline">Beef</hi> with
+                    coffee to our satisfaction &amp; now <hi rend="underline">I</hi>
+                    <hi rend="underline">am</hi> seated at <del hand="h1">at</del> table in the
+                        <abbr expan="Captain's">Capt's</abbr> office writing to <hi rend="underline"
+                        >my</hi>
+                    <hi rend="underline">dear</hi>
+                    <hi rend="underline">Annie</hi>, whilst many of our Boys are fast <orig
+                        reg="asleep">a sleep</orig> in their rooms. Billy McK. is laying close by me
+                    knocking it off at the rates of "<hi rend="underline">forty</hi>
+                    <hi rend="underline">miles</hi> an hour". I am so sleepy that I can't hardly see
+                    the paper myself &amp; if I should make mistakes I hope you will excuse me.
+                    I <abbr expan="received">reced</abbr> a note from your cousin Anne yesterday
+                    through Mr. Craig which believe <hi rend="underline">me</hi> I esteemed very
+                        much<pb n="3"/></p>
+                <p>I am glad to know that the ladies are cared for by the few that are left behind.
+                    I hope you will be successful with <hi rend="underline">the</hi> Old Bachelor.
+                    You must not let your cousin Annie get ahead of you, but I expect she is already
+                    ahead. as he lives so convenient to her. I understood you to say you were over
+                    with Tom. how is he &amp; <unclear>Hamm</unclear> getting <orig reg="along"
+                        >a long</orig>? notify him to hold himself in reading to go. For I think all
+                    will have to go soon. I wish you would try &amp; get some recruits for us -
+                    tell <hi rend="underline">Davis</hi> he'll have to go &amp; he better come
+                    &amp; join company I think you might get lotts of boys for <del rend="none" hand="h1"/>
+                        "<hi rend="underline">Pett</hi>" you know you can do any thing in the world
+                    with him. we would like to have about fifteen or twenty more. Our <abbr
+                        expan="company">comp</abbr> is falling behind the others. They have been
+                    getting a number of recruits in some of the <orig reg="companies"
+                    >company's</orig>. Capt. <del rend="none" hand="h1"/><pb n="4"/> Compy is now in Shepards
+                    town I suppose they will have a good time. There's so many nice ladies there. I
+                    almost wish I was there myself. I can't remember what was in your letter, so I
+                    can't answer as I would like to. This is the only sheet of paper I have,
+                    &amp; I have no money to pay postage so I'll have to quit. I <orig
+                        reg="can't">cant</orig> get a bit of change no way nor no how but I expect
+                    its best so. For if I had, I would spent it foolishly.</p>
+                <p>I must bring this filthy sheet to a close. hope to hear from you soon.</p>
+
+                <closer>
+                    <salute>as ever yours</salute>
+                    <signed>
+                        <hi rend="underline">Tony</hi>
+                        <hi rend="underline">P</hi>
+                    </signed>
+                    <seg type="postscript">I saw John T______ this morning as I was coming home. he
+                        looks very well &amp; seems to be in fine spirits. He
+                        <unclear>papier</unclear> a <del rend="none" hand="h1"/> on you says you were the finest
+                        looking lady he saw at church. I think he is in love. I suppose I had better
+                        be on the look out but I'll take the chances &amp; trust to providence
+                        for the result.<lb/> N.B. Please let no one this sheet Annie<lb/> Tony
+                    P</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

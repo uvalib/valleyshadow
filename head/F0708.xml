@@ -1,0 +1,565 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0708"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+
+<!ENTITY BitDon2a SYSTEM "uva-lib:502962" NDATA uvaHighRes>
+<!ENTITY BitDon2b SYSTEM "uva-lib:502963" NDATA uvaHighRes>
+<!ENTITY BitDon2c SYSTEM "uva-lib:502964" NDATA uvaHighRes>
+<!ENTITY BitDon2d SYSTEM "uva-lib:502965" NDATA uvaHighRes>
+ ]>  
+ <TEI.2 id="F0708">  
+ <teiHeader type="migrated">  
+    <fileDesc>  
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Thad Donely to Henry A. Bitner, January 7, 1863</title>
+        <title type="sort">franklin county thad donely to henry a bitner, january 7 1863</title>
+        <author>Donely, Thad</author>
+        <respStmt>  
+          <resp>Creation of machine-readable version:   
+ </resp>   
+          <name>Anne Rubin, Valley of the Shadow project, Institute for Advanced Technology in the Humanities, University of Virginia  
+ </name>   
+          <resp>Creation of digital images:   
+ </resp>   
+          <name>Anne Rubin, Valley of the Shadow project, Institute for Advanced Technology in the Humanities, University of Virginia  
+ </name>   
+          <resp>Conversion to TEI.2-conformant markup:   
+ </resp>   
+          <name>University of Virginia Library Electronic Text Center.  
+ </name>   
+        </respStmt>
+      </titleStmt>   
+      <extent>ca. <num type="kilobytes">16</num> kilobytes</extent> 
+      <publicationStmt>  
+        <publisher>University of Virginia Library  
+ </publisher>   
+        <pubPlace>Charlottesville, Virginia  
+ </pubPlace>   
+        <idno type="VCDH">F0708</idno>   
+        <!--
+ <availability>  
+ <p>Publicly-accessible  
+ </p>   
+ <p>URL: http://etext.lib.virginia.edu/modeng/modengB.browse.html  
+ </p>   
+ <p>Publicly-accessible  
+ </p>   
+ <p>URL: http://jefferson.village.Virginia.EDU/vshadow2/  
+ </p>   
+ </availability>
+-->   
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1998 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1998">1998  
+ </date>   
+        <idno type="uva-pid">uva-lib:501352</idno>
+      </publicationStmt>   
+      <seriesStmt>  
+        <p>  
+ </p>   
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>   
+      <notesStmt>  
+        <note>
+          <p>Images of the manuscript have been included. This electronic text is a faithful transcription of the original manuscript. We have included SGML tags which allow the reader to view a modernized version of the text in which the punctuation and the spelling have been regularized.</p>
+        </note>   
+        <note>  
+ </note>   
+      </notesStmt>   
+      <sourceDesc>  
+        <biblFull>  
+          <titleStmt>
+            <title>Franklin County: Thad Donely to Henry A. Bitner, January 7, 
+ 1863</title>
+            <title level="u">  
+ </title>
+            <title type="sort">franklin county thad donely to henry a bitner, january 7 1863</title>
+            <author>Thad Donely</author>
+            <respStmt>  
+              <resp>  
+ </resp>   
+              <name>  
+ </name>   
+            </respStmt>
+          </titleStmt>   
+          <editionStmt>  
+            <p>  
+ </p>   
+          </editionStmt>   
+          <extent>  
+ </extent>   
+          <publicationStmt>  
+            <publisher>  
+ </publisher>   
+            <pubPlace>  
+ </pubPlace>   
+            <date value="">  
+ </date>   
+            <idno type="callno">Manuscript copy consulted: University of Virginia, Alderman Library, Special Collections MSS 11395  
+ </idno>   
+          </publicationStmt>   
+          <seriesStmt>  
+            <p>  
+ </p>   
+          </seriesStmt>   
+          <notesStmt>  
+            <note>
+              <p>Two postscripts appear in the upper margins of Donely's letter; the first is written upside down on page 3, and the second is written upside down on page 4. To make the text as coherent as possible, we have included these postscripts at the end of the letter.</p>
+            </note>   
+          </notesStmt>   
+        </biblFull>   
+      </sourceDesc>   
+    </fileDesc>   
+    <encodingDesc>  
+      <projectDesc>  
+        <p>Prepared for the University of Virginia Library Electronic Text Center.  
+ </p>   
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>   
+      <editorialDecl>  
+        <p>Original lineation has been maintained.  
+ </p>   
+        <p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs.  
+ </p>   
+        <p>Some keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.  
+ </p>   
+      </editorialDecl>   
+      <refsDecl>  
+        <p>  
+ </p>   
+      </refsDecl>   
+      <classDecl>  
+        <taxonomy>  
+          <bibl>  
+            <title>Library of Congress Subject Headings  
+ </title>   
+          </bibl>   
+        </taxonomy>   
+      </classDecl>   
+    </encodingDesc>   
+    <profileDesc>  
+      <creation>  
+        <date value="1863-01-07">1863-01-07  
+ </date>   
+      </creation>   
+  
+      <langUsage>  
+        <language id="eng">English  
+ </language>   
+      </langUsage> 
+      <handList>
+        <hand id="h1"/>
+      </handList>  
+      <textClass>  
+        <keywords>  
+          <term>nonfiction  
+ </term>   
+          <term>prose  
+ </term>   
+          <term>masculine  
+ </term>   
+          <term>American Civil War; Special Collections  
+ </term>   
+          <term>130th Pa.</term>  
+          <term>Company D</term>  
+          <term>Franklin County 
+ </term> 
+          <term>Troop Movement 
+ </term> 
+          <term>Camp Life 
+ </term> 
+          <term>Medicine/Hospitals 
+ </term> 
+  
+          <term>American Civil War</term> 
+        </keywords>   
+        <keywords>  
+          <term>LCSH  
+ </term>   
+        </keywords>   
+        <keywords>  
+          <term>  
+ </term>   
+          <term>  
+ </term>   
+          <term type="format">72 dpi; 24-bit color  
+ </term>   
+        </keywords>   
+      </textClass>   
+    </profileDesc>   
+    <revisionDesc>  
+      <change>  
+        <date value="1998-05">May 1998  
+ </date>   
+        <respStmt>  
+          <resp>corrector  
+ </resp>   
+          <name>Lisa Spiro and Carolyn Fay  
+ </name>   
+        </respStmt>   
+        <item>Added TEI header and tags, corrected transcription errors, and standardized punctuation and spelling for the modernized version.  
+ </item>   
+      </change>   
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>   
+ </teiHeader>   
+ <text id="F0708T">  
+ <body id="d2">  
+  <!-- <page n=1><ID>BitDon21</ID> -->   
+ <div1 type="letter" n="1863-01-07" id="d3">  
+ <opener>  
+  
+   
+  
+ <pb n="1"  entity="BitDon2a" pid="uva-lib:502962"/>  
+
+   
+ <dateline>  
+ <name type="place">Camp near Falmouth, <abbr expan="Virginia">Va</abbr>  
+ </name>  
+ <date value="1863-01-07">  
+  <abbr expan="January">Jan.</abbr> 7 1863  
+ </date>  
+ </dateline>  
+ <salute>Dear Brother</salute>  
+ </opener>  
+   
+ <p>I take this <orig reg="opportunity">oppertunity</orig> to write you   
+ <lb/>  
+   
+ a few to let you <orig reg="know">no</orig> that I  
+ am well and get <lb/>  
+ along <orig reg="well.  There">well their</orig> is not   
+ <orig reg="sign">sine</orig> of a move at <lb/>  
+ this <orig reg="time.  The">time the</orig>  
+ weather here has been fine.  <lb/>  
+ <orig reg="Yesterday">yesterday</orig>   
+ <orig reg="there">their</orig> was some rain but <orig reg="did not">  
+ did</orig>  
+   
+   
+ last long.    
+ <lb/>  
+ I received John letter a few Days ago   
+ I <orig reg="thought">though</orig>  
+ <lb/>  
+  I was  
+ not  
+ going to get any word from home   
+ <lb/>  
+ and was much <orig reg="pleased">peased</orig> to   
+ <orig reg="hear">here</orig> and  
+ was<lb/>  
+ much obliged to John for <del hand="h1">for</del> the stamp and   
+ <lb/>  
+ <orig reg="sheet">sheat</orig> of paper I  
+  <orig reg="can't">cant</orig> <orig reg="neither">neathe</orig>  
+ paper or stamp <lb/>  
+   
+ here and I want you to write and send them   
+ <lb/>  
+ to me <orig reg="occasionally">accationaly</orig>  
+  I can <orig reg="buy">by</orig> paper at 2 cents   
+ <lb/>  
+ a <orig reg="sheet">sheat</orig> I think I can't  
+ stand them prices well   
+ <lb/>  
+ <orig reg="There">their</orig> was some talk a few days ago of our  
+ <lb/>  
+ being  
+ sent back to <name type="place">Washington</name>   
+   
+ but I think   
+   
+ <lb/>  
+ <orig reg="there">their</orig> is nothing of   
+ <orig reg="it. If we">it if whe</orig> are  
+ moved  it will <lb/>  
+ be towards the <orig reg="river. It">river   
+ it</orig> takes a good Deal   
+ <lb/>  
+ of <orig reg="figuring">figering</orig> to live here as the  
+ feed is hard   
+ <lb/>  
+ to eat but by taking <orig reg="care">cair</orig>  
+  in the cooking   
+ <lb/>  
+ <orig reg="we">whe</orig> still make it go down.  
+ <lb/>  
+ If I had <orig reg="some">som</orig>   
+  <!-- </page> -->  <!-- <page n=2><ID>BitDon22</ID> -->   
+   
+  
+ <pb n="2"  entity="BitDon2b" pid="uva-lib:502963"/>  
+ 
+   
+ of the apples that are at home I would have   
+ <lb/>  
+ some fine  
+ dishes of <orig reg="sauce">saws</orig> and apple   
+ <orig reg="fritters. I">fliters I</orig>   
+ <lb/>  
+ have been very hungry since I have been here  
+ <lb/>  
+ by time but I think I will be able to   
+ see it  
+ <lb/>  
+  through   
+ as <orig reg="there">their</orig> is but about 3 &amp; 1/2 months   
+ <lb/>  
+ <unclear> illeg.</unclear> has just been here and say I   
+ <lb/>  
+ shall tell you he is <orig reg="well">will</orig> but <unclear> times are   
+ <orig reg="tough">tuff</orig></unclear>  
+   
+ <lb/>  
+ and sends his respects to <orig reg="all. It is">all is</orig>  
+   
+  a good thing   
+ <lb/>  
+ the health of the  
+ company is <orig reg="good. There has">   
+ good <unclear>thare have</unclear> </orig>  
+ <lb/>  
+ been <unclear>some</unclear> of <orig reg="those">thoes</orig>  
+ sent to the hospital  
+ <lb/>  
+ that have been sent on <unclear>here are going at</unclear>  
+   
+ <lb/>  
+ convalesant camp at <name type="place"><orig reg="Alexandria.">  
+ Alaxandria.</orig></name> I hope  
+   
+ <lb/>  
+ they will stay <orig reg="there">their</orig>  
+ as the hardships is hard   
+ <lb/>  
+   
+   
+ to get through and <orig reg="there are">their is</orig>   
+ more in the company   
+ <lb/> <unclear>that wants to go home</unclear>.  
+ <lb/>  
+   
+  I suppose you have been  
+ enjoying <orig reg="yourself">yoursalf</orig> fine  
+ <lb/>  
+ but if <orig reg="there">their</orig>   
+ is no more snow <orig reg="there">their</orig>   
+ than <orig reg="there">their</orig> is  
+ <lb/>  
+ here the sleigh <orig reg="won't">wont</orig>   
+ mount <orig reg="too much. This">to much this</orig>  
+ <abbr expan="Regiment"> Regt</abbr>  
+ <lb/>  
+ is very much cut Down at <orig reg="present. There">prisant  
+ their</orig>  
+ is but <unclear>315</unclear>  
+ <lb/>  
+ men in <orig reg="it.  My">it my</orig>   
+ paper is most full and I must <orig reg="stop.">stop</orig>  
+ <lb/>  
+ I got some Tobacco seed   
+ <orig reg="when">whe</orig> I was out in picket  
+ <lb/>  
+ the other Day I will send it in this and I want you  
+   
+  <!-- </page> -->  <!-- <page n=3><ID>BitDon23</ID> -->   
+   
+  
+ <pb n="3" entity="BitDon2c" pid="uva-lib:502964"/>  
+ 
+   
+ tents which are some protection but the<lb/> weather has been   
+ <orig reg="fine.">fine</orig> I think I  
+ never <lb/>  
+ saw such good weather this time <orig reg="of">a</orig>  
+ <orig reg="year. There"> year<lb/> Their</orig> was some talk  
+ that  
+ in camp that this Brigade   
+ <lb/>  
+ would be sent back but <orig reg="there">their</orig> has   
+ <lb/>  
+ been nothing said the last few days so I <orig reg="don't">dont</orig> think  
+ <lb/>  
+ <orig reg="there">their</orig> is much in   
+ <orig reg="it. I">it I</orig> <unclear>wish</unclear>  
+ <orig reg="we">whe</orig> would go back  
+ <lb/>  
+ a piece for <orig reg="there">their</orig> would be some chance  
+ <lb/>  
+ to <orig reg="buy">By</orig> something to   
+ <orig reg="eat. There">eat their</orig> is no chance  
+ to get  
+ <lb/>  
+ any thing here <orig reg="neither">neathe</orig>   
+ paper nor postage stamps  
+ <lb/>  
+ as you will see this is <orig reg="written">ritten</orig> on an old piece  
+ <lb/>  
+ of copy book that was picked up <unclear>[illeg.] main</unclear>  
+ <lb/>  
+ and if I have to <orig reg="mail">maile</orig> this and leave you the   
+ <lb/>  
+ postage to pay you must excuse me   
+ or else   
+ <lb/>  
+ I <unclear>[illeg.]</unclear>  
+ <unclear>change our position</unclear>   
+ <orig reg="There">Their</orig>  
+ <lb/>  
+ is several that I would like to write to if I had  
+ <lb/>  
+ the <orig reg="paper. There">paper their</orig>   
+ is no sutlers supplies alowed  
+ <lb/>  
+ to be <orig reg="shipped">shiped</orig>   
+ as the armies is so large that it <orig reg="requires">require</orig>  
+ <lb/>  
+ all the transportation the government can raise to  
+ <lb/>  
+ bring up <orig reg="supplies. There">supplys their</orig>  
+  is <orig reg="not">no</orig> much chance for  
+ <lb/>  
+ a forward move from here as the Rebels <orig reg="seem">seam</orig> to  
+ <lb/>  
+ <orig reg="be">bee</orig> very well   
+ Situated on the other side of the  
+   
+  <!-- </page> -->  <!-- <page n=4><ID>BitDon24</ID> -->   
+   
+  
+ <pb n="4" entity="BitDon2d" pid="uva-lib:502965"/>  
+ 
+   
+ the <name type="place"><orig reg="Rappahannock">Rappahanook</orig>   
+ </name>  
+ is but a Small river some   
+ <lb/>  
+ <orig reg="places">paces</orig> it is so   
+ <orig reg="shallow">shalow</orig> that it  
+ is <orig reg="easily">easely</orig>   
+ <orig reg="forded. The">forded   
+ <lb/>  
+ the</orig> pickets talk to each other from the banks   
+ <lb/>  
+ of the <orig reg="stream.  There">stream their</orig>  
+  is no firing <orig reg="amongst">amonkst</orig> the   
+ <lb/>  
+ pickets but a few evenings they  
+ <orig reg="were">wer</orig> Driven in   
+ <lb/>  
+ which put the officers on their <orig reg="guard. I">gard I</orig>  
+  think I will stop  
+ <lb/>  
+ writing about the   
+ <orig reg="army">armie</orig> and tell you that what part  
+ <lb/>  
+ of Virginia <add hand="h1" place="inline">I</add>   
+ have seen it looks <orig reg="awful">offel</orig>   
+ hard it is   
+ <lb/>  
+ nothing but a lot of hill and the   
+ <orig reg="poorest">poorist</orig> land I have   
+ <lb/>  
+ most ever <orig reg="seen. There">seen their</orig> is a  
+ great deal of this <orig reg="scrubby">scruby</orig>   
+ <lb/>  
+ Pine and <orig reg="cedar">seder</orig> grows here most all the farms   
+ <lb/>  
+ are vacated the inhabitants <orig reg="gone">gon</orig>   
+ south with the   
+ <lb/>  
+ exception of some few Negros that are  
+ <orig reg="scattered">scatered</orig> about   
+ <lb/>  
+ I wish I <del hand="h1">who</del> could have been at home to have   
+ <lb/>  
+ <orig reg="attended">tended</orig> singing the  
+ last three evenings as they have   
+ <lb/>  
+ been fine and I suppose you had a good  
+ <orig reg="time.">time</orig>  
+ <lb/> I want you to write to me and give me all   
+ <lb/>  
+ the <orig reg="news">new</orig>   
+ and let me <orig reg="know">no</orig> how the singing is    
+ <del hand="h1">going</del><lb/>  
+ <orig reg="getting along">geting along</orig>    
+ I wrote to David Early some time ago <lb/>  
+ have  
+ not <orig reg="heard">herd</orig> from him   
+ <orig reg="yet. My">yet my</orig> paper is most <orig reg="full. My">full   
+ <lb/>  
+ my</orig> best Respects to  
+ your  
+ Parents and all that inquire   
+ <lb/>  
+ and I Remain   
+ </p>  
+   
+ <closer>  
+ <salute>yours Truly</salute> <signed>Thad Donely</signed>  
+   
+ <seg type="postscript"><orig reg="Excuse">Excus</orig>   
+ all mistake as it is the best I can do  
+ under  
+ <lb/>  
+ the <orig reg="circumstances. Don't">surcumstances Dont  
+ </orig> forget to give me a <orig reg="whole">hole</orig> sheet  
+ <lb/>  
+ full of news  
+ <ref n="1" target="n1">[1]</ref>  
+ </seg>  
+ <seg type="postscript"><orig reg="Address">Adres</orig>  
+ <name type="place">Washington D.C.</name>  
+ <name type="regiment">130 <abbr expan="Regiment">Regt</abbr>  
+   
+ <abbr expan="Company">Co</abbr> D  
+ <abbr expan="Pennsylvania Volunteers">PV  
+ </abbr>  
+   
+ </name>  
+ <ref n="2" target="n2">[2]</ref>  
+ </seg>  
+ </closer>  
+ </div1>  
+  <!-- </page> -->   
+ </body>  
+ <back id="d4">  
+ <div1 type="notes" id="d5"><head>Notes</head>  
+  <note n="1" id="n1" place="foot"><seg type="note-symbol"><hi rend="super">[1]</hi></seg><p> This postscript was written upside down in the upper <lb/> 
+ margin of page 3.</p>
+ </note>  
+  <note n="2" id="n2" place="foot"><seg type="note-symbol"><hi rend="super">[2]</hi></seg><p> This postscript was written upside down in the upper  <lb/>
+ margin of page 4.</p>
+ </note>  
+ </div1>  
+ </back>  
+ </text>  
+ </TEI.2>  
+   
+   
+ 

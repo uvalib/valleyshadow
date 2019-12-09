@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+
+<?dlps id="A3045"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A3045">
+     <teiHeader type="migrated">
+
+          <fileDesc>
+               <titleStmt>
+        <title type="main" id="VShadow">Augusta County: W. Churchman to [unknown],
+                         August and September, 1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county w churchman to unknown, august and september 1863</title>
+        <author>Churchman, W.</author>
+        <editor/>
+        <respStmt>
+                         <resp>Creation of machine-readable version: </resp>
+                         <name>Doug O'Reagan</name>
+                         <resp>Conversion to TEI.2-conformant markup:</resp>
+                         <name>Doug O'Reagan</name>
+                    </respStmt>
+      </titleStmt>
+               <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+               <publicationStmt>
+                    <publisher>Virginia Center for Digital History</publisher>
+                    <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                    <idno type="VCDH">A3045</idno>
+
+        <!--
+                    <availability>
+                         <p>Publicly accessible </p>
+                         <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                         <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                              University of Virginia</p>
+                    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                    <date value="2002">2002</date>
+               <idno type="uva-pid">uva-lib:502205</idno>
+      </publicationStmt>
+               <seriesStmt>
+                    <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+               </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+               <notesStmt>
+                    <note/>
+               </notesStmt>
+
+               <sourceDesc>
+                    <biblFull>
+                         <titleStmt>
+            <title>Augusta County: W. Churchman to [unknown], August and
+                                   September, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta county w churchman to unknown, august and september 1863</title>
+            <author>W. Churchman</author>
+            <editor/>
+            <respStmt>
+                                   <resp/>
+                                   <name/>
+                              </respStmt>
+          </titleStmt>
+                         <editionStmt>
+                              <p/>
+                         </editionStmt>
+                         <extent>3 pages</extent>
+                         <publicationStmt>
+                              <publisher/>
+                              <pubPlace/>
+                              <date value=""/>
+                              <idno type="callNo">Source copy consulted: W. Churchman to [unknown],
+                                   August and September, 1863, from Nellie Harris private
+                              collection</idno>
+                         </publicationStmt>
+                         <seriesStmt>
+                              <p/>
+                         </seriesStmt>
+                         <notesStmt>
+                              <note/>
+                         </notesStmt>
+                    </biblFull>
+               </sourceDesc>
+          </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from private collection</p>
+      </projectDesc>
+    </encodingDesc>
+
+          <profileDesc>
+               <creation>
+                    <date value="1863">1863-xx-xx</date>
+               </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+               <textClass>
+                    <keywords>
+                         <term>Medicine/Hospitals, Military Authority, Desertion/Leave</term>
+                         <term>American Civil War</term>
+                    </keywords>
+               </textClass>
+          </profileDesc>
+
+          <revisionDesc>
+               <change>
+                    <date value=""/>
+                    <respStmt>
+                         <resp/>
+                         <name/>
+                    </respStmt>
+                    <item/>
+               </change>
+          <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+     </teiHeader>
+
+     <text id="A3045T">
+          <front id="d2">
+               <div1 type="summary" id="d3">
+                    <p>Three notes certifying that Charles McGuffin is not yet healed enough to be
+                         fit for duty following his injury at Gettysburg.</p>
+               </div1>
+          </front>
+
+          <body id="d4">
+               <div1 type="letter" id="d5">
+                    <opener>
+                         <dateline>
+                              <date value="1863-08-18">August 18, 1863</date>
+                              <date value="1863-09-03">September 3, 1863</date>
+                              <name type="place">Greenville</name>
+                         </dateline>
+                         <salute/>
+                    </opener>
+
+                    <p> Greenville V<hi rend="super">a</hi>
+                         <abbr expan="August">Augst.</abbr> 18<hi rend="super">th</hi> 1863<lb/> I
+                         certify that I have this day carefully examined the wound received by <abbr
+                              expan="Charles">Chas.</abbr> W. M<hi rend="super">c</hi>Guffin
+                         (private in <abbr expan="Company">Co.</abbr> D 5<hi rend="super">th</hi>
+                         <abbr expan="Regiment">Regt.</abbr>
+                         <abbr expan="Virginia">V.</abbr>
+                         <abbr expan="Volunteers">Vols.</abbr>) in Gettysburg fight and find him
+                         unable to resume military duty. The wound near the spine (Dorsal vertibrae)
+                         not yet healed - Nor will he be fit for duty in a less time than two
+                         weeks.<lb/> W. Churchman MD<pb n="2"/></p>
+                    <lb/>
+                    <p>I have just examined the wound of Mr. C W M<hi rend="super">c</hi>Guffin - it
+                         is in a healing condition but not well enough to bear military service for
+                         two weeks at least<lb/> Sept. 3<hi rend="super">rd</hi> 1863 X. A M
+                              Chesney<pb n="3"/></p>
+                    <lb/>
+                    <p> Greenville <abbr expan="September">Sept.</abbr> 3, 1863<lb/> I hereby
+                         certify that <abbr expan="Charles">Chas.</abbr> W McGuffin, private <abbr
+                              expan="Company">Co.</abbr> D 5<hi rend="super">th</hi>
+                         <abbr expan="Regiment">Regt.</abbr>
+                         <abbr expan="Virginia">Va</abbr>
+                         <abbr expan="Volunteers">Vols.</abbr> was again examined by me this day. I
+                         find his wound healing, but he is still unable to resume military duty. I
+                         would therefore respectfully recommend an extension of furlough he will not
+                         be able to return to camp in a less time than two (2) weeks. He is under
+                         medical treatment for his wound.<lb/> W. Churchman MD</p>
+
+
+                    <closer>
+                         <salute/>
+                         <signed/>
+                    </closer>
+               </div1>
+          </body>
+     </text>
+</TEI.2>

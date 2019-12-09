@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+
+<?dlps id="A8528"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A8528">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: M. D. Vines to John H. McCue,
+                    December 20, 1859</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county m d vines to john h mccue, december 20 1859</title>
+        <author>Vines, M. D.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Virginia Center for Digital History Staff</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A8528</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502741</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: M. D. Vines to John H. McCue, December 20, 1859</title>
+            <title level="m"/>
+            <title type="sort">augusta county m d vines to john h mccue, december 20 1859</title>
+            <author>M. D. Vines</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: M. D. Vines to John H. McCue, 20
+                            December 1859, McCue Family Papers, Accession # 4406, Special
+                            Collections, University of Virginia, Charlottesville, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1859-12-20">1859-12-20</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Economy, Home Front</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2003-08">August 2003</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A8528T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>M. D. Vines' letter to John H. McCue discusses the details of a case McCue is
+                    handling for Vines.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">John H M<hi rend="super">c</hi>Cue <abbr expan="Esquire"
+                            >Esq</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1859-12-20"><abbr expan="December">Dec</abbr> 20<hi
+                                rend="super">th</hi> 1859</date>
+                        <name type="place">Greenville</name>
+                    </dateline>
+                    <salute><abbr expan="Dear">Dr</abbr> Sir</salute>
+                </opener>
+
+                <p>I wrote to you some time ago, asking you to have David A Parrack subpoenaed in
+                    the suit between Joshua Allen and myself, and as you did not do it I did not go
+                    as I knew the case could not be tried without my main witness. I want you to
+                    have David Parrack subpoenaed and send it me and he will accept it; I would
+                    rather the case could be put off until warm weather, but I will go at anytime. I
+                    was mistaken about Mr A Beard knowing anything <add hand="h1" place="inline"
+                        >write to me</add>
+                    <pb n="2"/>about that horse it was another one that I had sold that Beard knew
+                    of, and you need not have him summoned again.</p>
+
+                <p>Beard talked with Allen since he was summoned. Allen said he did not expect to
+                    get rid of paying for the horse he only did it to get time out. Beard asked him
+                    if he would take 60$ <hi rend="underline">now</hi>, he said he did not know
+                    whether he would or not. If you can see Mr Beard and get him to talk with Allen,
+                    he can get enough out of him to show that he is just trying to cheat me out of
+                    the horse, Allen himself is not good for the debt but his security is good and
+                    if you will help me to get the debt I will pay you a good fee</p>
+
+                <closer>
+                    <salute>you &amp;c</salute>
+                    <signed>M D Vines</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

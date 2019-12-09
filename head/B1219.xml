@@ -1,0 +1,265 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1219"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1219">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: Frederick S. Tukey to
+                    Orlando Brown, March 11, 1867</title>
+        <title type="sort">freedmens bureau records frederick s tukey to orlando brown, march 11 1867</title>
+        <author>Tukey, Frederick S.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">9</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1219</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501068</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: Frederick S. Tukey to Orlando Brown, March
+                            11, 1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records frederick s tukey to orlando brown, march 11 1867</title>
+            <author>Frederick S. Tukey</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 67.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-03-11">1867-03-11</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Administration/Bureaucracy, Church/Religious Activity, Community
+                        Values/Local Behavior, Education, Legal System, Patriotism,
+                        Politics/Political Attitudes, Race Relations</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-06">June 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+                <item>Item proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1219T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Tukey responds to a request from the Assistant Commissioner, and provides a list
+                    of six whites and six blacks who can possibly serve as community leaders. Tukey
+                    comments on the political attitudes and loyalty of the white citizens, and on
+                    the literacy and general character of the black citizens he lists.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient"><abbr expan="Brevet Brigadier General">Bvt. Brig.
+                        Genl</abbr> O. Brown<lb/>Richmond, <abbr expan="Virginia">Va.</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-03-11">March 11th 1867</date>
+                        <name type="place">Staunton, <abbr expan="Virginia">Va.</abbr></name>
+                    </dateline>
+                    <salute>
+                        <abbr expan="General">Gen'l</abbr>
+                    </salute>
+                </opener>
+
+                <p>I have the honor to report in compliance with yours of the 8th inst. the names of
+                    six white citizens and six Freedmen of Augusta County, <abbr expan="Virginia"
+                        >Va.</abbr> who I think answer all the points mentioned in yours.</p>
+
+                <p>1st. David Fultz - a Lawyer by profession, of eminent legal attainments, a
+                    consistent loyal man during the war and since, an "old line Whig" stands
+                    politically on middle ground between the President and Congress, is opposed to
+                    the "<unclear>Sherman</unclear> Bill" as a means of punishing the south, but
+                    very decided in his opinions, that Davis, Lee and all the leading spirits of the
+                    rebellion should be hung, expresses these sentiments freely to loyal and
+                    disloyal, capable of filling any position in the State.</p>
+
+                <p>2nd John B. Evans, Merchant, an "old line Whig," moderate and conservative, is a
+                    representative man of the middle class of southern Society, known to have
+                    entertained Union sentiments through the war, neither of the above mentioned men
+                    held any position whatever under the Confederate <abbr expan="Government"
+                    >Govt</abbr>.</p>
+
+                <pb n="2"/>
+
+                <p>3d John W. Alby, Merchant - an "old line Whig," moderate and highly conservative,
+                    has always been in favor of accepting the "constitutional ammendment," held no
+                    position under Confederate <abbr expan="Government">Gov't</abbr>, and is
+                    perfectly reliable under all circumstances.</p>
+
+                <p>4th Edward M. Cushion - Commission Merchant &amp; Auctioneer, an "old line
+                    Whig" was a general <abbr expan="Superintendent">Supt</abbr> in the <abbr
+                        expan="Quartermaster">Q.M.</abbr>
+                    <abbr expan="Department">Dept.</abbr> under the Confederate <abbr
+                        expan="Government">Govt.</abbr> and is now a Magistrate, is much respected
+                    by all classes of white and black, was for many years a leader of a colored
+                    class in the <abbr expan="Methodist Episcopal">M.E.</abbr> Church and is much
+                    respected by Freedmen, very conservative upon the doctrine of secession, and
+                    denounces the Southern press generally.</p>
+
+                <p>5th Jacob Stover - an "old line Whig" loyal all through the war, had a Son in the
+                    federal Army, a man of intelligence and reliability, and all right.</p>
+
+                <p>6th John M. Gates - "old line Whig" loyal through the war, for which he was twice
+                    imprisoned in <unclear>Castle Thunder</unclear>, has the confidence and respect
+                    of all classes. Post Office address, "Mount Sidney," <abbr expan="Virginia"
+                    >Va.</abbr> at which place he is <abbr expan="Post Master">P.M.</abbr></p>
+
+                <p>This completes the six, and the Post Office addresses of all, except the last, is
+                    Staunton, <abbr expan="Virginia">Va</abbr>. I have been particular to select men
+                    who would answer all your requirements, and at the same time, have mentioned
+                    some points not alluded to by you.</p>
+
+                <pb n="3"/>
+
+                <p>Freedmen</p>
+
+                <p>1st John Christian, keeps an eating Saloon, is a man of good sound, common sense,
+                    and writes a very good hand, is all right in sentiment and principle, and
+                    repsected by both races.</p>
+
+                <p>2nd James Carter - Farmer, writes a very good hand, is a Christian man, and much
+                    respected by both races.</p>
+
+                <p>3d - Frank Overton. Laborer, writes his name indifferently, but has good common
+                    sense and the respect of all classes.</p>
+
+                <p>4th Jacob Thornton. Laborer, writes his name, is intelligent, and answers all the
+                    points.</p>
+
+                <p>5th, Henry Davinport - cannot read or write, but has a high degree of practical
+                    common sense, and eminently noted for his piety, and it is said (I cannot vouch
+                    for the truth of it) that when he prays in a building that has a shingled roof,
+                    the roof always has to be patched the next day.</p>
+
+                <p>6th Wright <orig reg="Bolding">Boldin</orig>. Laborer and is all right.</p>
+
+                <p>It will necessarily take me several days, and perhaps a week, to obtain the
+                    desired information from Highland County, for there are not probably more than
+                    one hundred Freedmen in the <abbr expan="County">Co.</abbr> and they are so
+                    scattered, that it will be very hard to ascertain their whereabouts, and select
+                    suitable ones.</p>
+
+                <closer>
+                    <salute>Very Respectfully,</salute>
+                    <signed>F.S. <hi rend="underline">Tukey</hi>, <abbr
+                            expan="Assistant Superintendent">Asst. Supt.</abbr></signed>
+
+                    <pb n="4"/>
+
+                    <seg type="postscript">Should you, judging from my description of the white men,
+                        think that either one of them will not answer the purpose, you can
+                        substitute the name of John Parris, an old line Whig and all right. Post
+                        Office Address, <hi rend="underline">Staunton, VA</hi><lb/>F.S.T.</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

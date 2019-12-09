@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+
+<?dlps id="A5044"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A5044">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: George W. Baylor to Mary C. Baylor,
+                    November 27, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county george w baylor to mary c baylor, november 27 1861</title>
+        <author>Baylor, George W.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amy Voorhees</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A5044</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502328</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: George W. Baylor to Mary C. Baylor, November 27, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta county george w baylor to mary c baylor, november 27 1861</title>
+            <author>George W. Baylor</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: McGuffin Family Papers, Accession
+                            #6732, Special Collections Department, University of Virginia Library,
+                            Charlottesville, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1861-11-27">1861-11-27</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Camp Life, Death/Casualties, Prisons/Prisoners</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2002-11">November 2002</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A5044T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>George Baylor writes to his sister Mary to say he has received the clothes she
+                    sent, and he also tells of a man who was shot near camp the day before.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Miss Mary C. Baylor, Summerdean, Augusta Co, Va</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1861-11-27">November the 27 1861</date>
+                        <name type="place">Camped near Winchester</name>
+                    </dateline>
+                    <salute>Dear Sister</salute>
+                </opener>
+
+                <p>I take this opportunity to drop you a few lines to let you <orig reg="know"
+                    >no</orig> that I am well and hope you all the same. I received yours and
+                        <unclear>Liz</unclear> letters yesterday morning and was very glad to get
+                    them. one was wrote on the 19th and the other the 21. <unclear>Let</unclear>
+                    Randolph got here yester day morning. I got my boots and socks and gloves, the
+                    boots fits splendid they are plenty large. my over coat fits very well you can
+                    send me another pair of socks if you have them. just make them drawers the same
+                        <pb n="2"/> size that you <orig reg="made">mad</orig> the other pair except
+                    the <orig reg="waist">waste</orig>, and make them <orig reg="two">to</orig>
+                    inches larger. I got my comfort it is raining here to day. George Miller came
+                    here today he was at Richmond. they was a man shot at Winchester yesterday he
+                    was sat on his coffin, he was shot for killing his captain some of our boys saw
+                    him shot. send me <orig reg="clothes">close</orig> as soon as you can I want you
+                    to send me a box of eating if you can send me some butter &amp; apple
+                    butter. tell David to send me some Chestnuts. we dont get to smell and apple
+                    here. I must stop writing for this time. write soon as you can.</p>
+
+                <closer>
+                    <salute/>
+                    <signed>G W Baylor</signed>
+                    <seg type="postscript">
+                        <name type="recipient">to Mary C Baylor</name>
+                    </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

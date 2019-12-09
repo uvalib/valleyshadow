@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+
+<?dlps id="B0085"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B0085">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: J. Garrett, Jr. to John
+                    W. Jordan, May 8, 1868</title>
+        <title type="sort">freedmens bureau records j garrett, jr to john w jordan may 8 1868</title>
+        <author>Garrett, J.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>HIUS 403 Students</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Peter Brownfeld</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B0085</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 1999, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="1999">1999</date>
+            <idno type="uva-pid">uva-lib:500450</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: J. Garrett, Jr. to John W. Jordan, May 8,
+                            1868</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records j garrett, jr to john w jordan may 8 1868</title>
+            <author>J. Garrett, Jr.</author>
+            <editor/>
+            <respStmt>
+                            <resp>e.g. Translator</resp>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Bureau of Refugees, Freedmen, and
+                            Abandoned Lands, Record Group 105, Box E4269</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1868-05-08">1868-05-08</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Employment/Labor</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2003-08">August 2003</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B0085T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Garrett's letter to Jordan deals with discrepancies between the wages owed to
+                    several men, and the obligations their employer (name unclear) assumed for
+                them.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Office Va. Central <abbr expan="Railroad">R. R.</abbr> Company
+                    <name type="recipient"><abbr expan="Colonel">Col.</abbr> Jno W.
+                        Jordan<lb/>Staunton</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1868-05-08">May 8, 1868</date>
+                        <name type="place">Richmond</name>
+                    </dateline>
+                    <salute>Sir</salute>
+                </opener>
+
+                <p>Yours of this date is received. Mr. <unclear>Chunnery</unclear> the <unclear>new</unclear>
+                    <del rend="none" hand="h1"/>
+                    <unclear>Muster</unclear> notified me a short time ago not to pay any of the men
+                    employed on his <del rend="none" hand="h1"/> as he had assumed obligations for many of them
+                    which were to be paid out of their wages. I therefore refer you to him and if
+                    you will obtain from Mr. F. J. <unclear>Chunnery</unclear> a statement showing
+                    the <abbr expan="amount">amt.</abbr> due William Meredith after deducting such
+                    obligations (if any have been incurred on his account) I will pay the amount
+                    found to be due. The payroll for April has not been received at this office
+                    &amp; I do not know what is due <abbr expan="William">Wm.</abbr> Meredith
+                    for that month.</p>
+
+                <p>The amounts appearing due on payrolls for January, <abbr expan="February"
+                    >Feb'y</abbr> &amp; March are:<lb/> January 14.30<lb/> February 14.20<lb/>
+                    March 21.15<lb/> April Not Known--<lb/> (Subject to deductions (if any) for
+                    obligations incurred by <unclear>Ch-g</unclear> as above mentioned) </p>
+
+                <closer>
+                    <salute>Yours Respectfully</salute>
+                    <signed>J. Garrett, Jr.</signed>
+                    <seg type="postscript">P.S. I return Meredith's order
+                    herewith.<lb/>J.G.Jr.</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

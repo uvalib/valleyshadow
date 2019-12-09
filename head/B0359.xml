@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+
+<?dlps id="B0359"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B0359">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: J. L. D. Walford to
+                    Thomas P. Jackson, September 4, 1867</title>
+        <title type="sort">freedmens bureau records j l d walford to thomas p jackson, september 4 1867</title>
+        <author>Walford, J. L. D.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B0359</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500691</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: J. L. D. Walford to Thomas P. Jackson,
+                            September 4, 1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records j l d walford to thomas p jackson, september 4 1867</title>
+            <author>J. L. D. Walford</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Bureau of Refugees, Freedmen, and
+                            Abandoned Lands, Record Group 105, Box E4269.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-09-04">1867-09-04</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Aid/Relief, Education</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-06">June 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+                <item>Item checked against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B0359T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Walford sends Jackson a bill for school books, explaining the Tract Society's
+                    policy about who should and should not have to pay for books.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Thos. P. Jackson, <abbr expan="Agent">Agt.</abbr></name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-09-04">1867 <abbr expan="September">Sep</abbr> 4</date>
+                    </dateline>
+                    <salute>Dear Sir:</salute>
+                </opener>
+
+                <p>
+                    <table>
+                        <row>
+                            <cell>272 Primers @ 5</cell>
+                            <cell>13.60</cell>
+                        </row>
+                        <row>
+                            <cell>60 <abbr expan="Primers">"</abbr> @ 20</cell>
+                            <cell>12.00</cell>
+                        </row>
+                        <row>
+                            <cell>72 Testaments @ 10</cell>
+                            <cell>7.20</cell>
+                        </row>
+                        <row>
+                            <cell>72 <unclear>Gems</unclear> @ 10</cell>
+                            <cell>7.20</cell>
+                        </row>
+                        <row>
+                            <cell>10 Gems @ 10</cell>
+                            <cell>1.00</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell>$41.00</cell>
+                        </row>
+                    </table>
+                </p>
+
+                <p>Your letter to <abbr expan="Captain">Capt.</abbr>
+                    <orig reg="McDonnell">McDowell</orig>, at Winchester, was referred through the
+                    Bureau to this Agency of the American Tract Society with the request that we
+                    would supply the books named therin on the terms proposed. We take pleasure in
+                    so doing &amp; whenever we shall have received 1/2 the amount of above bill,
+                    we will cancel the remainder by charging to our charity fund or rather to Grants
+                    as we have <hi rend="underline">no funds</hi>. Provided: you will see that none
+                    have books for nothing who are able to pay, &amp; none go <hi
+                        rend="underline">without</hi> for want of money to buy. Please write us on
+                    receipt of them &amp; whenever you can make it convenient let us hear from
+                    the Schools.</p>
+
+                <closer>
+                    <salute>Very Truly Yours</salute>
+                    <signed>J. L. D. Walford<lb/><abbr expan="Agent">Agt.</abbr>
+                        <abbr expan="American Tract Society">A.T.S.</abbr> per <del hand="h1"
+                    /></signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

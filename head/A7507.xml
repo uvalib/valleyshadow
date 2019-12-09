@@ -1,0 +1,259 @@
+<?xml version="1.0"?>
+
+<?dlps id="A7507"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="A7507">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: John J. Sibert to Mary Anna Sibert,
+                    April, 1864</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county john j sibert to mary anna sibert, april 1864</title>
+        <author>Sibert, John J.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Andrew Witmer</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Andrew Witmer</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">10</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A7507</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502549</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: John J. Sibert to Mary Anna Sibert, April, 1864</title>
+            <title level="m"/>
+            <title type="sort">augusta county john j sibert to mary anna sibert, april 1864</title>
+            <author>John J. Sibert</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>6 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: John J. Sibert to Mary Anna
+                            Sibert, April, 1864, Evans-Sibert Family Papers, Accession 27770,
+                            Virginia State Library and Archives, Richmond, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Virginia State Library and Archives, Richmond, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1864-04">1864-04</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Arts/Leisure, Camp Life, Patriotism</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-12-27">December 27, 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Andre Fleche</name>
+                </respStmt>
+                <item>Proofread against original; changes made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="A7507T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Sibert reports to his sister on the high spirits and easy camp life of the
+                    Confederate soldiers with whom he is spending the winter at Camp Randolph.</p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1864-04">April /64</date>
+                        <name type="place">Camp Randolph</name>
+                    </dateline>
+                    <salute>My Dear Sister</salute>
+                </opener>
+                <p>We returned from Picket next day after I wrote to you in deed we had a <orig
+                        reg="terrible">terreable</orig> time getting to Camp the mud was about six
+                    inches deep while the rain and snow fall fast <orig reg="upon">uppon</orig> us
+                    all day long from the river to our Camp is 12 long <hi rend="underline"
+                    >miles</hi> &amp; we are called to go on picket about every (20) days
+                    &amp; it <orig reg="either">eather</orig> snows or rains during the time we
+                    are <unclear>out</unclear> I think we will very soon dispense with Picketting as
+                    the winter is almost gone indeed I am anxious to have warm weather again <orig
+                        reg="although">althoe</orig>
+                    <orig reg="soldiers">Soldirs</orig> have <orig reg="their">there</orig> best
+                    time during the Winter season I have had an exquisite time this winter I shall
+                    never forget Camp Randolph our Houses were very comfortably built &amp; to
+                    take everything in consideration it was the most <orig reg="convenient"
+                        >conveanient</orig> Camp we have had<pb n="2"/>Oh! we have lived high here,
+                    our kind Friend at Home have kept us in the very best of provision <orig
+                        reg="while">whil</orig> our duty except picket was quite light no one can
+                    complain of <orig reg="having">haveing</orig>
+                    <orig reg="done">dun</orig>
+                    <orig reg="too">two</orig> much hard duty this Winter I guess that you have read
+                    an account of our Snowballing in the <orig reg="Spectator">Spectater</orig> if
+                    you have you may consider from that that our spirits are good all such fun we
+                    have enjoyed this Winter you cannot imagine <unclear>how</unclear> pleasantly we
+                    can pass off a winter you seldom see a <unclear>day</unclear>
+                    <del rend="none" hand="h1"/> fine spirits if you do you can <orig reg="easily">easley</orig>
+                    guess what caused it &amp; may say that fellow has been kicked By some <orig
+                        reg="Young">Yong</orig> Lady some of Imbodens deserters have cut him out and
+                    as I am no Ladies Man and cannot love any one more than my dear Sister &amp;
+                    Mother you may know that My spirits are <orig reg="always">allways</orig> good
+                    &amp; that I go with a well &amp; gay heart. Mary I wish you could see
+                    Me I am as big &amp; fat as a Hog<pb n="3"/>If we should be so <orig
+                        reg="unfortunate">unfortunent</orig> as to run <del rend="none" hand="h1"/> out of
+                    rations I could live two week <orig reg="upon">uppon</orig> My own fat it is not
+                    good living altogether that Makes Me fat but It is the dirt mixt with what we
+                    eat Soldiers are awful dirty with <orig reg="their">there</orig> domestic <orig
+                        reg="affairs">affars</orig> we <orig reg="generally">generaly</orig> use our
+                    dirty <orig reg="clothes">cloths</orig> as dish rags &amp; for tea towels
+                    when the Police <abbr expan="officer">Offr</abbr> comes around inspecting our
+                        <abbr expan="quarters">Qurts</abbr> we always stuff our <orig reg="dirty"
+                        >durty</orig>
+                    <orig reg="clothes">cloths</orig> in the Flower Bag dont you think it a very
+                    good idea. The <del rend="none" hand="h1"/> have all <unclear>played</unclear>
+                    <unclear>out</unclear> they <unclear>have</unclear> all
+                    <unclear>deserted</unclear> for Imbodin <del rend="none" hand="h1"/> when is Old Bill
+                        <unclear>Shumate</unclear> Tell him to write to Me when you see him again I
+                    would like to see him very much tell will I think Maggie &amp; him might
+                    come down &amp; pay me a visit. Mary you remember what I stated in my last
+                    letter to you about coming Home If I did not write <unclear>before</unclear> two
+                    weeks that I would certainly be at home<pb n="4"/>I am <unclear>necssarley</unclear>
+                    <orig reg="compelled">compeld</orig> to write be fore the time
+                    <unclear>expires</unclear> There fore you must look for me any more. I cannot
+                    come home <orig reg="furloughs">furloughes</orig> are only granted in extreme
+                    cases you know that it is not important that I should come at this time <abbr
+                        expan="although">altho</abbr> I am very anxious to see you <abbr
+                        expan="General">Genl</abbr> Lee only grants one furlough to every hundred
+                    Men and you know as well as I do that there is <unclear>plenty</unclear> of Men
+                    in the army <orig reg="whose">whos</orig> families are suffereing for the want
+                    of them <del rend="none" hand="h1"/> do you think it would be kind in you to come home and
+                    keep one of these Men from their homes when a man in our company that has been
+                    home this winter. this man is a good soldier but a very poor man he <orig
+                        reg="received">ricievd</orig> a letter from his wife the other day stating
+                    that the man <del hand="h1">that</del>
+                    <unclear>owned</unclear> of the House she was living in threatened to turn her
+                    out <unclear>fo</unclear> his House she wrote<pb n="5"/>for her husband to come
+                    home that she was going to be thrown out with his 3 little Children &amp;
+                    that she did not know where to go or what to do, in a case of that kind I would
+                    willingly give a way for you dont know how <unclear>Mean</unclear> some of the
+                    people are in Augusta you dont know what is going on half the time</p>
+
+                <p>Mary I want you to send Me a Box of <unclear>provitions</unclear> as soon as you
+                    can tell Mother about it-- I want one <del rend="none" hand="h1"/> from home before the
+                    Campaign opens if you can get it to Staunton on <orig reg="Friday">Fryday</orig>
+                    it will come safely to me after we get to marching I cannot get anything from
+                    home at all I also want a <abbr expan="pair">pr</abbr> of draws &amp; a
+                        <abbr expan="pair">pr</abbr> of sock &amp; 1 shirt If I can get them has
+                    Mr Barber got any thing that would<pb n="6"/>make shirts if he has <orig
+                        reg="please">pleas</orig> get them I will pay for them My self. dont forget
+                    to attend to this for me. please excuse this badly written letter this is the
+                    worst pen I ever had you that I always write in a hurry tell Ada to write to me
+                    &amp; not to think so much of the Boys what has become of Mr.
+                        <unclear>Watkins</unclear>
+                    <unclear>I</unclear>
+                    <orig reg="don't">dont</orig>
+                    <unclear>thin</unclear> much of him. please tell Miss Sue Hardin that I dont
+                    admire Mr M <unclear>treatment</unclear> towards her tell her that I am her
+                    friend &amp; if she wishes me to whip Mr. M for her <del rend="none" hand="h1"/> just to
+                    let me know tell her that I have <orig reg="challenged">challeng</orig> him and
+                    that I <orig reg="only">onley</orig> want him accept it. write soon &amp;
+                    give me all the news My love to all enquiring friends </p>
+
+                <p>
+                    <add hand="h1" place="inline">the next question is can you read all this</add>
+                </p>
+
+                <closer>
+                    <salute>Your Affct Brother,</salute>
+                    <signed>John J Sibrt</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

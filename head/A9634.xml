@@ -1,0 +1,312 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9634"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A9634">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: William Brand to Kate Armentrout, August
+                    10, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta william brand to kate armentrout, august 10 1861</title>
+        <author>Brand, William F.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Jaime Martinez</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">13</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A9634</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502796</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: William Brand to Kate Armentrout, August 10, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta william brand to kate armentrout, august 10 1861</title>
+            <author>William Brand</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William Brand Papers, Albert and
+                            Shirley Small Special Collections Library, University of Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1861-08-10">1861-08-10</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Battle Description, Camp Life, Family, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2007-04-02">2007-04-02</date>
+                <respStmt>
+                    <resp>proofed</resp>
+                    <name>Josh Botts</name>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A9634T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>William tells Kate about an argument in camp between her brother and one of their
+                    friends; he includes news about several other family members and acquaintances.
+                    He also sends her a description of the battle of Bull Run.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    6 letter<lb/>
+                    <name type="recipient">Miss Amanda C. Armentrout<lb/>Greenville<lb/>Augusta
+                        County<lb/>Virginia</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1861-08-10">August 10th 1861</date>
+                        <name type="place"><orig reg="Centreville">Senterville</orig> Fairfax <abbr
+                            expan="County">Co.</abbr>
+                            <abbr expan="Virginia">Va.</abbr></name>
+                    </dateline>
+                    <salute>Dear Kate,</salute>
+                </opener>
+
+                <p>I <orig reg="received">recieved</orig> your kind and affectionate letter by Mr
+                    Britton I was happy indeed to hear from you and to hear you <orig reg="were"
+                        >ware</orig> well with all the rest of your brothers and sisters. My health
+                    is very good and hope when <orig reg="these">theese</orig>
+                    <orig reg="uninteresting">uninterresting</orig> lines come to hand you may be
+                    enjoying the same with all the pleasure this poor world can afford. I have the
+                    blues this morning and you must not <orig reg="expect">exspect</orig> as long a
+                    letter as usual. Brother John &amp; Tom Graham got to disputing about a very
+                    trifling matter. John was left out of his mess to get breakfast, and it not
+                    being ready when we came <orig reg="off">of</orig>
+                    <orig reg="of">ove</orig> drill Graham commenced cursing John when he had been
+                    swearing as John thought long <orig reg="enough">enought</orig> he told him to
+                    stop. Graham yanked up a <orig reg="stick">stik</orig> and let him have it over
+                    the face, at that moment the <orig reg="Captain">Capt</orig>
+                    <orig reg="interfered">intofeared</orig> &amp; sent Graham to the Guard
+                    house. <abbr expan="Captain">Capt</abbr> told John when ever he got a chance to
+                    give him a good whipping I am sorry the <orig reg="fuss">fus</orig>
+                    <orig reg="occurred">occured</orig> but it can not be helped <orig reg="now"
+                        >know</orig>. The Staunton band has came down to <orig reg="play"
+                    >blay</orig> for the <orig reg="regiment">regament</orig>. <pb n="2"/> We <orig
+                        reg="were">ware</orig> marched <orig reg="out">ut</orig> yesterday morning
+                    to be reviewed by the prince <orig reg="Napoleon">Napolion</orig>. <orig
+                        reg="There">Thare</orig> was <orig reg="two">tow</orig> brigades making ten
+                    or twelve <orig reg="regiments">regaments</orig> all <orig reg="drawn"
+                    >drawed</orig> up in line of Battle it was a <orig reg="magnificent"
+                    >magnifisent</orig> view. The Prince just passed along the road. I should have
+                    liked to have seen him; Cousin Joseph R Brand was over the other day. I think he
+                        <orig reg="wears">wares</orig> the same old face he <orig reg="used"
+                    >use</orig> to <orig reg="wear">ware</orig> he seems to be a very kind &amp;
+                    tender hearted young man he seems to be acquainted with young men all over the
+                    State his school mates at <orig reg="College">Collig<del hand="h1"
+                    >g</del>e</orig>. We took dinner with one of his former Teachers he had a very
+                    nice <orig reg="dinner">diner</orig> such as Chicken pork and good light bread
+                    &amp; <orig reg="blackberry">blackbury</orig>
+                    <orig reg="jam">gam</orig>
+                    <orig reg="which">wich</orig> we used instead of <orig reg="butter"
+                    >putter</orig>. I renewed Jo's acquaintance with J.P.L. Jo. said he <orig
+                        reg="didn't">did'nt</orig> know any in our <abbr expan="company">Co.</abbr>
+                    <orig reg="but">put</orig> your Brother, Charles &amp; my self, he said he
+                    never would have <orig reg="known">none</orig> me if I <orig reg="hadn't"
+                        >had'ent</orig>
+                    <orig reg="laughed">laughted</orig> when I <orig reg="saw">seen</orig> him. Jo.
+                    was at fairfax Court house when the Yankees came on them &amp; they had to
+                    retreat back to Bulls run. Another of our old school mates was to see us, <abbr
+                        expan="William">Wm.</abbr> Weeb. You would not know him for he has such a
+                    large beard &amp; mustache, he belongs to the <orig reg="Monticello"
+                        >Montosella</orig> Guards, has a very nice uniform. Weeb &amp; Cousin
+                    Jo. both belong to <orig reg="Brigadier">brigadeer</orig> General <pb n="3"/>
+                    <orig reg="Cox's">Cox'es</orig> brigade. I have seen both my <orig reg="uncles"
+                        >oncles</orig> since the <orig reg="great">Grate</orig> Battle of bulls run.
+                    I shall <orig reg="now">know</orig> give you a short account of the Battle.</p>
+
+                <p>We <orig reg="received">recieved</orig> orders about the dawn of day to march
+                    down to the run &amp; to charge on a battery near our breastworks; we had
+                    been <orig reg="there">thare</orig> an hour and a half when we recieved orders
+                    to, Change our position we marched about three miles north our <orig
+                        reg="enemies">enimies</orig> had been cannonading us for sometime at
+                    different points</p>
+
+                <p>at eight <orig reg="o'clock">oclock</orig> the attack became general. I can not
+                        <orig reg="describe">disscribe</orig> the <orig reg="firing">fireing</orig>
+                    of small arms at nine <orig reg="o'clock">oclock</orig> our brigade was ordered
+                    to the <orig reg="scene">seen</orig> of slaughter on our way we met the Staunton
+                    Artillery the men said <orig reg="they">thay</orig>
+                    <orig reg="were">ware</orig> almost out of <orig reg="ammunition"
+                    >amunition</orig> and <orig reg="were">ware</orig> nearly surrounded.</p>
+
+                <p>We advanced in quick time to <orig reg="support">surport</orig> the Washington
+                    Artillery on the right <orig reg="which">wich</orig>
+                    <orig reg="done">don</orig>
+                    <orig reg="excellent">exilent</orig> sevice in the engagement. We threw down a
+                    fence and advanced a <orig reg="few">fiew</orig> paces and was ordered to lay
+                    down and incessant fire was kept up by our <orig reg="enemies">enimies</orig>
+                    for about ten or fifteen minutes. I believe if we had have raised up at one time
+                    we would have all been wounded or killed the balls seemed to range about two
+                    feet above the ground. The <orig reg="regiment">regament</orig> in advance of us
+                    fell back in confusion but on <orig reg="passing">bassing</orig> our line
+                    immediately formed again. We then <orig reg="were">ware</orig>
+                    <pb n="4"/> ordered to advance in quick time to the old <unclear>home</unclear>
+                    we then laid down waiting orders to fire we beg<add hand="h1" place="inline"
+                    >ged</add> our officers to let us fire at a <orig reg="regiment">regament</orig>
+                    on our right but they said they <orig reg="were">ware</orig> our friends
+                    &amp; would not let us fire on them. We then commenced <orig reg="firing"
+                        >fireing</orig> at three or four <abbr expan="Regiments">Reg.</abbr> in
+                    front of us I gave them three rounds &amp; then we fell back some twenty or
+                    thirty yards &amp; met another <abbr expan="Regiment">Reg.</abbr> advancing
+                    we went up with them some of our boys went on &amp; never <orig
+                        reg="stopped">stoped</orig> at all &amp; some had left before we went up
+                    to the house I <orig reg="hollered">hollowed</orig> at Sam two or three times
+                        <orig reg="but">put</orig> he would not listen to me. When we went up the
+                        <orig reg="second">seckond</orig> time that <orig reg="Regiment">Reg.</orig>
+                    on our right fired on us <orig reg="but">put</orig> with little effect we
+                    returned <orig reg="their">thare</orig> fire throwing them in to confusion for a
+                    little while we all got behind the house &amp; corn <orig reg="crib"
+                    >crip</orig> fences &amp; <orig reg="every">evry</orig> thing that would
+                    shield us from <orig reg="their">thare</orig>
+                    <orig reg="Minie">Manie</orig> balls I got behind the <orig reg="crib"
+                    >crip</orig> and fired five times at them I looked round &amp; <orig
+                        reg="couldn't">couldent</orig> see any of our <orig reg="Regiment"
+                    >Reg</orig>. They had <orig reg="fallen">falen</orig> back to the woods I had
+                    got mixed with a South <orig reg="Carolina">Carlino</orig>
+                    <abbr expan="Regiment">Reg.</abbr> &amp; they <orig reg="were">ware</orig>
+                    now falling back I turned round and jumped over a dead man &amp; commenced
+                        <orig reg="retreating">retreting</orig> to the woods. I <orig reg="couldn't"
+                        >couldent</orig> find my <orig reg="own">one</orig>
+                    <abbr expan="Regiment">Reg.</abbr> or at least I did not hunt long for I came
+                    upon the fourth Alabama <abbr expan="Regiment">Reg.</abbr> and laid down
+                        beside<del hand="h1">s</del> my <orig reg="Uncle">Oncle</orig>
+                    <abbr expan="William">W<hi rend="super">m</hi></abbr> Mosley one of the men was
+                    shot on the <orig reg="opposite">oposite</orig> side of <orig reg="Uncle">Oncle</orig>
+                    <abbr expan="William">W<hi rend="super">m</hi>.</abbr> from me the men seemed
+                        <orig reg="greatly">grately</orig> excited the most of <orig reg="their"
+                        >thare</orig> field officers was killed in the Battle <orig reg="Uncle"
+                        >Oncle</orig>
+                    <abbr expan="William">Wm</abbr> was not <orig reg="touched">tuched</orig>
+                    <orig reg="Uncle">Oncle</orig> John was not <orig reg="there">thare</orig> he
+                    was sick in Winchester I reckon you was at the mountain with that large crowd of
+                    Mr Brittons he said he kissed upwards of twenty ladies &amp; said he could
+                    have kissed them all <orig reg="but">put</orig> he told them they <orig
+                        reg="were">ware</orig> too willing &amp; he would not kiss any more. I
+                    should like very much to come home for a <orig reg="few">fiew</orig> days <orig
+                        reg="but">put</orig> it is <orig reg="impossible">imposible</orig> at <orig
+                        reg="present">presant</orig> I must bring this <orig reg="scrawl"
+                    >scrall</orig> to a close asking an <orig reg="interest">interrest</orig> in
+                    your prayers excuse all <orig reg="mistakes">misstakes</orig> &amp; bad
+                    writing.</p>
+
+                <closer>
+                    <salute>Write soon to your devoted friend.</salute>
+                    <signed>William F. Brand</signed>
+                    <seg type="postscript"><pb n="1"/>You said <unclear>I never</unclear> wrote this
+                        on the <unclear>other</unclear> letter. <orig reg="Received">Recieved</orig>
+                        the rose bud with the emblem &amp;c. I hardly know what is the emblem
+                        without it is you are too young to love if so I never knew it before
+                        &amp; don't believe it yet. <orig reg="Goodbye">good by</orig> my ever
+                        remembered friend</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

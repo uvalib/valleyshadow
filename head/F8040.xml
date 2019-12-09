@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+
+<?dlps id="F8040"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="F8040">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: William Seibert to Simon Cameron,
+                    May 14, 1858</title>
+        <title type="sort">franklin county william seibert to simon cameron, may 14 1858</title>
+        <author>Seibert, William</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name/>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Andrew J. Torget</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">9</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F8040</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501678</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: William Seibert to Simon Cameron, May 14, 1858</title>
+            <title level="m"/>
+            <title type="sort">franklin county william seibert to simon cameron, may 14 1858</title>
+            <author>William Seibert</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>6 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William Seibert to Simon Cameron,
+                            14 May 1858, Simon Cameron Papers, Dauphin County Historical Society,
+                            Reel 3</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Historical Society of Dauphin County, Harrisburg, Pennsylvania</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1858-05-14">1858-05-14</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Economy</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F8040T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Seibert offers a land deal to Cameron.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+              
+
+                <opener>
+                    <dateline>
+                        <date value="1858-05-14">May 14th--1858</date>
+                        <name type="place">Chambersburg</name>
+                    </dateline>
+                    <salute><abbr expan="Honorable">Honr</abbr> Simon Cameron<lb/>Dear Sir</salute>
+                </opener>
+
+                <p>It is with some difficulty that I presume to address you- but your known and
+                    established character as a truly benevolent man, is as well known as that you
+                    are Senator at Washington from the state of Pennsylvania.</p>
+                <p>I, too, have tried in a smaller way to benefit my fellow beings by acts of
+                    kindness--and <hi rend="underline">now</hi> many of them have left me to get
+                    through as well as I can- This has placed me in a position that is anything but
+                    agreeable in a pecuniary view- Yet light is dawning in the distance, if I can
+                    find a <hi rend="underline">friend</hi> who will stand by me for a short time,
+                    as the following<pb n="2"/>facts will I think fully show.</p>
+                <p>I have a brother who has been operating in Western Country, he took the place a
+                    draft of which I send you - some two or three years ago. at twenty eight
+                    thousand dollars- all of which is paid except about four thousand dollars. This
+                    must be <hi rend="underline">now</hi> paid before he can get <hi
+                        rend="underline">the deed</hi>- In June 1856 he <orig reg="tried"
+                    >tryed</orig> it at public sale as you will see--Section <abbr expan="Number"
+                        >No.</abbr> 1 3 acres 16 P. he sold for 160 dollars per acre, <abbr
+                        expan="Section Number">Sect No.</abbr> 2 he had bid up to 150 per acre, and
+                    withdrew it--he took the land at 200- per acre <abbr expan="although"
+                    >altho</abbr> it did not stand him the one fourth of that amount - yet he
+                    thought it was going too low and stopped the sale. The square opposite <abbr
+                        expan="Number">No.</abbr> 36 and not marked, belongs to an other person and
+                    he asks 1000. dollars per acre for it.</p>
+                <pb n="3"/>
+                <p>besides this my <orig reg="brother's">brothers</orig> friends advised him to <hi
+                        rend="underline">hold on</hi>, he would get a good price for it- if he kept
+                    it a few years longer - he took this advice, and now see, he would have done
+                    better to have made then a clean and sure profit -and placed himself in a
+                    position to meet panic times-- That <abbr expan="Brother">Br</abbr> P.W. Seibert
+                    is as noble a speciman of humanity as can be found- he now proposes to me to
+                    give me the one half of the whole if I can raise the 4000 dollars for eighteen
+                    months, that we will go on to Lafayette directly after harvest- lay out the 140
+                    acres. a little different from the plan before- sell on one tenth <hi
+                        rend="underline">cash</hi>- <del rend="none" hand="h1"/> on balance. with one tenth
+                    additional of the principal yearly, for 4 years by giving these terms, he think
+                    we can sell the 140 acres yet unsold at 150 per acre - making 21,000<pb n="4"
+                    />ten <orig reg="percent">per cent</orig> on this would be 2,100. And
+                        <unclear>put</unclear> on balance 18,900 1 year -<unclear>1134</unclear>
+                    then at the end of the first year ten <orig reg="percent">per cent</orig> on
+                    18,900 would be 1890/5124 making the amount payable. To cover draw back, the
+                    Judgement on the balance might be sold -and would be at a sacrifice <orig
+                        reg="until">untill</orig> the 4,000 borrowed would be paid--to release the
+                    property.</p>
+                <p>But here you will ask what security can you give me--that you will secure the
+                    4000- dollars-now required. <abbr expan="Brother">Br</abbr> has the property now
+                    in his possession draws the rent for it and he would willingly give the
+                    Judgement on his interest in the place, and as soon as the 4000 was paid, and
+                    deed recorded, it would be perfectly safe or I propose giving you a mortgage or
+                    Judgement on 920 acres of land in Stark County Indiana unimproved part of it my
+                    brother bought 3 or 4 years ago &amp; <unclear>handed</unclear> at 4 dollars
+                    per acre- he says it is now worth 20 dollars per acre- or will be as soon as the
+                    Pittsburg-Fort Wayne and Chicago<pb n="5"/>Railroad is completed- which is now
+                    done as far as the land for <unclear>burden carry</unclear>. The above Railroad
+                    runs through the land- The land is in one body and lays in this form [drawing
+                    here] The dotted part is timber the balance <unclear>price</unclear>- The whole
+                    lies in section 16 and 21 in Township 34 North Range 1 West Stark County Indiana
+                    one mile from a new Town called Groverstown on the Railroad- Should you favor me
+                    in this matter- you will be perfectly secure- and confer an obligation- that
+                    will be remembered while life shall last- Where <abbr expan="Brother">Br</abbr>
+                    went into this matter Hezikah Easton was his firm and fast friend- but adversity
+                    overtook Easton and now his name would not go for 40 dollars- let alone 4,000.</p>
+                <pb n="6"/>
+                <p>The deed for the Land 920 acres, is in the Clerk's office of Stark <abbr
+                        expan="County">Co</abbr> Indiana- I will write on and have it mailed to me-
+                    and should you incline to favor me either directly or indirectly I will forward
+                    the deed to Washington - to have the Mortgage or Judgement written.</p>
+
+                <closer>
+                    <salute>Yours with Respect</salute>
+                    <signed><abbr expan="William">Wm</abbr> Seibert</signed>
+                    <seg type="postscript">N. B. There is no <orig reg="lien">lein</orig> in any
+                        form against the 920 acres and the deed for the whole is direct from the
+                        State of Indiana the 240 acres <abbr expan="Brother">Br</abbr> paid 4 per
+                        acre for, the State made him the deed as the claimant had not received his
+                            deed--<abbr expan="William Seibert">WmS</abbr></seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

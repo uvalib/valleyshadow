@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+
+<?dlps id="F3502"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="F3502">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: Joseph Hills Clintock to Adjutant
+                    General Thomas, March 4, 1863</title>
+        <title type="sort">franklin county joseph hills clintock to adjutant general thomas, march 4 1863</title>
+        <author>Clintock, Joseph Hills</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Peter Brownfeld</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Peter Brownfeld</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">5</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F3502</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2001, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2001">2001</date>
+            <idno type="uva-pid">uva-lib:501511</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: Joseph Hills Clintock to Adjutant General Thomas,
+                            March 4, 1863</title>
+            <title level="m"/>
+            <title type="sort">franklin county joseph hills clintock to adjutant general thomas, march 4 1863</title>
+            <author>Joseph Hills Clintock</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 page</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Compiled Military Service Records
+                            of John Ault, 126th Pa., Box 36129, record 35, National Archives</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration, Washington, D.C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1863-03-04">1863-03-04</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Death/Casualties, Desertion/Leave, Medicine/Hospitals</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2001">Fall 2001</date>
+                <respStmt>
+                    <resp/>
+                    <name>Susanna Michele Lee</name>
+                </respStmt>
+                <item>Corrected TEI tagging, proofread for typos, added keywords, and edited
+                    summaries.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F3502T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Dr. Joseph Hills Clintock certifies that John Ault remains unfit for duty for at
+                    least another thirty days.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Adjutant Gen. Thomas USA</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1863-03-04">March 4, 1863</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+
+                <p>Chaplain John Ault of the 126th Regt Penn. Vols. having applied and received
+                    leave of absence from Maj. Genl. Joseph Hooker, I do hereby certify that I have
+                    examined this officer, and find that he is recovering, but is, as yet closely
+                    confined to his bed and absolutely unable to travel to rejoin his regiment. He
+                    has been absent since the 17th of January 1863, and will not be able to return
+                    in less than thirty days from this date. dated at London, Franklin Co., Penna.
+                    this 4th day of March 1863.</p>
+
+                <closer>
+                    <salute/>
+                    <signed><abbr expan="Joseph">Jos.</abbr> Hills McClintock<lb/> Attending
+                        Physician</signed>
+                    <seg type="postscript">A. B. See former certificate for description of his
+                        disease.<lb/><lb/> I hereby certify that Joseph H. McClintock, the signer of
+                        the above certificate, is, what he represents himself to be, a regular
+                        Practising Physician, and the attending Physician of Chaplain John Ault.<lb/><lb/>
+                        <abbr expan="Joseph">Jos.</abbr> Crawford</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

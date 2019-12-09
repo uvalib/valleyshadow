@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+
+<?dlps id="A1132"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A1132">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: George Wils(?) to Writer's sister,
+                    March 18, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county george wils to writers sister, march 18 1861</title>
+        <author>Wils(?), George</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Matt Speiser</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Matt Speiser</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A1132</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501935</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: George Wils(?) to Writer's sister, March 18, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta county george wils to writers sister, march 18 1861</title>
+            <author>George Unknown</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: The Virginia Historical
+                        Society</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Virginia Historical Society, Richmond, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1861-03-18">1861-03-18</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>African Americans, Enlistment, Family, National Government, Patriotism,
+                        Race Relations, Slavery, State Government, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2005-07">July, 2005</date>
+                <respStmt>
+                    <resp/>
+                    <name>Kid W.</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A1132T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>George chastises his sister for writing short letters and gossips about friends,
+                    acquaintances, and family. He also expresses his wish that Virginia would
+                    secede, proclaiming his southern allegiance and disparaging the "Black
+                    Republican party."</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1861-03-18">March 18<hi rend="super"><hi rend="underline">th</hi></hi> 1861</date>
+                        <name type="place">Mosey Creek Academy Virginia</name>
+                    </dateline>
+                    <salute>My Dear Sister</salute>
+                </opener>
+
+                <p>I read yours dated the 13<hi rend="super">
+                        <hi rend="underline">th</hi>
+                    </hi> I had almost concluded that did not intend to write to me anymore or at
+                    least you waited very long &amp; then when it came it was only a short note.
+                    You must write longer letters (than) you have been in the habit of doing. every
+                    one of my correspondents write longer letters than you, with the <orig
+                        reg="exception">acception</orig> of one or two, So Miss Kattie has left old
+                    Woodstock perhaps never to return, to the old place where she has so often
+                    enjoyed herself and where she made one person (at least) a happy being, but it
+                    may turn out the reverse and it may be said she made him miserable<pb n="2"/>
+                    instead of happy. I hope not. They certainly have my best wishes. Miss Sallie I
+                    suppose spoke in the <unclear>
+                        <orig reg="biggest">bigest</orig>
+                    </unclear> terms of <unclear>milton</unclear>, and is still in love with him. I
+                    think he must be a very nice boy from what I can learn, and is worthy of the
+                    love she gives him, but I think he must beware of me or I might spoil his
+                    calculations especially if we all get to Texas <orig reg="together">to
+                    gether</orig>, which I hope we will. I am almost confident that I will be there
+                    in less than twelve months <unclear>From</unclear> this time, I want to <orig
+                        reg="whether">wether</orig>
+                    <unclear>Pee</unclear> goes or not, for I am <orig reg="ashamed">asshamed</orig>
+                    of <abbr expan="Virginia">V<hi rend="super">a</hi></abbr>. I don't desire to
+                    call her my home I shun the very idea of submitting to Black Republican party,
+                    who desire to place the insignificant negro on an equality with us, who will
+                    submit none but those who at heart if they would but express themselves are
+                    partial to the North<pb n="3"/> I fear <abbr expan="Virginia">Va</abbr> has too
+                    many of them in Convention, how glad I was when I saw that <abbr
+                        expan="Virginia">Va</abbr> wished to <orig reg="present">pre sent</orig> an
+                    ordinance of secession to the convention. I thought then if they were all like
+                        <hi rend="underline">him</hi> we would this moment be honored &amp;
+                    loved by our seceding Southern Sisters, who now almost as it were despise us. I
+                    am ready at any time to join the southern army although I am not prepared to die
+                    but <unclear>this</unclear> I know <hi rend="underline">Dulce</hi>
+                    <hi rend="underline">et</hi>
+                    <hi rend="underline">decorum</hi>
+                    <hi rend="underline">est</hi>
+                    <hi rend="underline">pro</hi>
+                    <hi rend="underline">patria</hi>
+                    <hi rend="underline">mori</hi></p>
+                <p>I am sorry to learn that Cousin Pet is going to leave I was in hopes that she was
+                    going to stay until I came home and in all possibility would be married. I <orig
+                        reg="don't">dont</orig> think she ought to go back to Ohio such a mean tale,
+                    but I am of your opinion that she will not stay long; but then the <unclear>D<hi
+                            rend="super">r</hi></unclear> is so very fickle. I can scarcely trust
+                    him he must certainly be in earnest this<pb n="4"/> time,</p>
+                <p>Nothing surprised me more then to hear of the death of Uncle <unclear>Hen,
+                    Clower</unclear>, he was the last person that I expected hear was dead but we
+                    know not the hour when we shall be called to give a final account of ourselves,
+                    and oh! how many are unprepared to meet the doom &amp; how the words (depart
+                    from me <del rend="none" hand="h1"/>
+                    <unclear>crossed</unclear> [missing section] I think [missing section]
+                    Confederacy [missing section] What [missing section] speak to Miss Mary, he
+                    often told me he never would speak to <unclear>her</unclear> Pass the <unclear>
+                        <orig reg="numerous">neumurous</orig>
+                    </unclear>
+                    <unclear>flundes</unclear> over. my love to all home Folks also to <hi
+                        rend="underline">Tom</hi>
+                    <unclear>
+                        <hi rend="underline">Prach</hi>
+                    </unclear> tell him I am going to leave this state soon</p>
+
+                <closer>
+                    <salute>write soon to your fondly attached Brother</salute>
+                    <signed>George</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+
+<?dlps id="F8002"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="F8002">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Franklin County: William Leiburg to Simon Cameron,
+                    August 10, 1858</title>
+        <title type="sort">franklin county william leiburg to simon cameron, august 10 1858</title>
+        <author>Leiburg, William</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Lauren Sklaroff</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Andrew J. Torget</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">F8002</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501640</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Franklin County: William Leiburg to Simon Cameron, August 10, 1858</title>
+            <title level="m"/>
+            <title type="sort">franklin county william leiburg to simon cameron, august 10 1858</title>
+            <author>William Leiburg</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William Leiburg to Simon Cameron,
+                            10 August 1858, Library of Congress, Simon Cameron Papers, Reel 4, Frame
+                            3393</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note>
+                            <p>Noted above the date: "Confidential &amp;
+                                <unclear reason="illegible">curably</unclear> do as regards G. W. B <del hand="h1"/>"</p>
+                        </note>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Library of Congress, Washington, D. C.</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1858-08-10">1858-08-10</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>National Government, State Government</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="F8002T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Leiburg write confidentially to support Cameron for the 1860 presidency and
+                    comment on local politics.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                
+
+                <opener>
+                    <dateline>
+                        <date value="1858-08-10">Aug 10/58</date>
+                        <name type="place">
+                            <orig reg="Chambersburg">Chamberg</orig>
+                        </name>
+                    </dateline>
+                    <salute><abbr expan="Honorable">Hon<hi rend="super">e</hi></abbr>
+                        <abbr expan="Simon">S.</abbr> Cameron<lb/>Dear Sir</salute>
+                </opener>
+
+                <p>I see by the papers, your name is being used as a candidate for the Presidency
+                    for the campaign in 1860--I sincerely hope you may receive the nomination
+                    &amp; then be elected,-I was the first to move in this county in favor of
+                    Harrison--and again for <abbr expan="General">Genl</abbr> Taylor and intend to
+                    do something for you in our paper before long-</p>
+                <p>Never will I forget your friend G.W. Brewer who, by and by, is one of the
+                    cleverest of men I know. A short time after the Democratic Convention<pb n="2"
+                    />met in Harrisburg at which you were- and using efforts <orig reg="there"
+                    >their</orig>, to get the Democratic party to bring forward <abbr
+                        expan="General">Genl</abbr> Taylor,</p>
+                <p>Brewer met me, and observed, Seibut, do you know the Democratic Party are going
+                    to nominate <abbr expan="General">Genl</abbr> Taylor for President and Simon
+                    Cameron for Vice President- <hi rend="underline">Can you go it</hi>-I observed,
+                    I did not know it, he said it was a fact- I told him, I would go wherever <abbr
+                        expan="General">Genl</abbr> Taylor went- yes, said Brewer, and they will be
+                    elected easy- and you and I will go to Washington &amp; have glorious <orig
+                        reg="pickings">pickens</orig>- In conversation with Brewer, a short time
+                    back, I reminded him of it and told him if you were nominated <hi
+                        rend="underline">he must go it</hi> and <del hand="h1">now</del> then<pb
+                        n="3"/>we could go to Washington at your Inauguration &amp; &amp;c
+                    that I intended to write to you, and would mention the occurrence I have
+                    related, but he did not want me to do it- but it is truth- and a good Joke on
+                    Brewer. for he <hi rend="underline">did not</hi> vote for Taylor--because the
+                    party to which he adheres, did not nominate Taylor-</p>
+                <p>My object in writing is simply to let you know I am your friend--and you can
+                    command my slender ability in your service.</p>
+                <p>If there is one thing on earth--fires my soul, more than another, it is to reap
+                    honors on the Self Made Man--I have been sounding a <unclear>Workline</unclear>
+                    the principle Editor of the Repository<pb n="4"/>&amp; Transcript-in regard
+                    to his advocating your claim to the nomination-he said he had took so prominent
+                    a part in opposing your election as Senator that he was afraid the Valley Spirit
+                    would come down on him- I could plainly see he regrets his former course and I
+                    think, all will be right yet,</p>
+                <p>He is under some-(at least he says so) obligations to me, as a contributor to his
+                    paper--&amp; will not deny me space to favor your claims- after this is
+                    done-I will try and have <unclear>extracts</unclear> from other papers inserted-
+                    and if I can get the Repository once committed to your cause it will work well.</p>
+                <p>Please acknowledge <abbr expan="receipt">rect</abbr> of this and then destroy-</p>
+
+                <closer>
+                    <salute>Yours truly</salute>
+                    <signed>
+                        <abbr expan="William">Wm</abbr>
+                        <hi rend="underline">Leiburg</hi>
+                    </signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

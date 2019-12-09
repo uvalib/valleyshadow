@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+
+<?dlps id="A7201"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]> 
+
+
+<TEI.2 id="A7201"> 
+<teiHeader type="migrated"> 
+
+    <fileDesc> 
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: F. S. Tukey to Unknown, July 26, 1865</title>
+        <title type="sort">augusta county f s tukey to unknown, july 26 1865</title>
+        <author>Tukey, F. S.</author>
+        <editor/>
+        <respStmt> 
+          <resp>Creation of machine-readable version: </resp> 
+          <name>Bart Elmore</name> 
+          <resp>Conversion to TEI.2-conformant markup:</resp> 
+          <name>Bart Elmore</name> 
+        </respStmt>
+      </titleStmt> 
+
+      <extent>ca. 4.786 kilobytes </extent> 
+      <publicationStmt> 
+        <publisher>Virginia Center for Digital History</publisher> 
+        <pubPlace>Charlottesville, Virginia </pubPlace> 
+
+        <idno type="VCDH">A7201</idno> 
+
+        <!--
+<availability> 
+<p>Publicly accessible </p> 
+<p n="public">URL: http://valley.vcdh.virginia.edu/</p> 
+<p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the University of Virginia</p> 
+</availability>
+--> 
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2002">2002</date>
+        <idno type="uva-pid">uva-lib:500317</idno>
+      </publicationStmt> 
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt> 
+      <notesStmt>
+        <note/>
+      </notesStmt> 
+
+      <sourceDesc> 
+        <biblFull> 
+          <titleStmt>
+            <title>Augusta County: F. S. Tukey to <del rend="none" hand="h1"/> , July 26, 1865</title>
+            <title level="m"/>
+            <title type="sort">augusta county f s tukey to , july 26 1865</title>
+            <author>F. S. Tukey</author>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt> 
+          <editionStmt>
+            <p/>
+          </editionStmt> 
+          <extent>2 pages</extent> 
+          <publicationStmt> 
+            <publisher/> 
+            <pubPlace/> 
+            <date value=""/> 
+            <idno type="callNo">Source copy consulted: Letter from F. S. Tukey, July 26 1865, American Missionary Association Archives Collection, Microfilm 72, Alderman Library, University of Virginia, Charlottesville</idno>
+          </publicationStmt> 
+          <seriesStmt>
+            <p/>
+          </seriesStmt> 
+          <notesStmt>
+            <note/>
+          </notesStmt> 
+        </biblFull> 
+      </sourceDesc> 
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Alderman Library, University of Virginia</p>
+      </projectDesc>
+    </encodingDesc> 
+
+    <profileDesc> 
+      <creation>
+        <date value="1865-07-26">1865-07-26</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage> 
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass> 
+        <keywords> 
+          <term>African Americans, Education, Women, Race Relations</term> 
+          <term>American Civil War</term>
+        </keywords> 
+      </textClass> 
+    </profileDesc> 
+
+    <revisionDesc> 
+      <change> 
+        <date value=""/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt> 
+        <item/> 
+      </change> 
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc> 
+  </teiHeader> 
+
+<text id="A7201T">
+<front id="d2">
+<div1 type="summary" id="d3">
+<p>Tukey provides an initial assessment of the AMA's operation in Staunton, stating, "It will as you are aware be a new field of operations and Subject to many privations not common to old districts, among other things.  I think the temper of the people is verry bad, but those things have got to be overcome."  He estimates that the population of Staunton is "about 5000 what the colored alone is."
+</p> 
+</div1>
+</front> 
+
+<body id="d4">
+<div1 type="letter" id="d5">
+<head>
+<name type="recipient"><del rend="none" hand="h1"></del></name> 
+<name type="place">Staunton Va</name> 
+</head>
+
+<opener>
+<dateline>
+    <date value="1865-07-26">July 26 1865</date> 
+</dateline> 
+<salute>Dear Sir</salute> 
+</opener> 
+
+<p>In accordance with your suggestion I take this, my first opportunity to inform you what letter I have learned of.  Staunton, the population is about 5000 what the colored alone is.  I have not been able to learn deffinitly, but am satisfied that three of four Teachers will be able to do the work here.</p>
+	<p>It will as you are aware be a new field of opperations and Subject to many privations not common to old districts, among other things.  I think the temper of the people is verry bad, but those things have got to be overcome  So I will not waste words about them now as I am in a Hurry, if Mr. Whipple<pb n="2"/> will commission Miss <unclear>Mcleune</unclear> and her Sister Mrs Annie E. Dunn and any others they may see fit I will house them upon the same terms here as I proposed in Portsmouth, provided I can have an immediate answer which circumstances make it absolutely necessary that I should have.  So that I can govern myself accordingly, So you will do me a favor to answer this at once the address of these Ladies is <unclear>Milltown</unclear> Me hopeing to hear from you at once I am with</p>
+
+<closer>
+<salute>Much Respect</salute> 
+<signed>Your abt servnt F. S. Tukey</signed> 
+ 
+</closer> 
+</div1> 
+</body> 
+</text> 
+</TEI.2>

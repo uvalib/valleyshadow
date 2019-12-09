@@ -1,0 +1,278 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2941"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A2941">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: Amanda C. Armentrout to William F. Brand,
+                    June 5, 1866</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta amanda c armentrout to william f brand, june 5 1866</title>
+        <author>Armentrout, Amanda C.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Elizabeth Ladner</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">11</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A2941</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502111</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: Amanda C. Armentrout to William F. Brand, June 5, 1866</title>
+            <title level="m"/>
+            <title type="sort">augusta amanda c armentrout to william f brand, june 5 1866</title>
+            <author>Armentrout, Amanda C.</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William F. Brand Papers</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1866-06-05">1866-06-05</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Home Front, Church/Religious Activity</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A2941T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>After some difficult times, Kate writes to William pleading with him to correct
+                    his ways and fearful of his salvation.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Miss Amanda C. Armentrout<lb/>Greenville<lb/>Augusta County<lb/>Virginia
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1866-06-05">June 5th</date>
+                    </dateline>
+                    <salute>My once friend</salute>
+                </opener>
+
+                <p>I come to the conclusion last <orig reg="Sabbath">Sabeth</orig>
+                    <orig reg="never">neve</orig> to send <add hand="h1" place="inline">that I had
+                        writen</add> or write to you <orig reg="again">a gain</orig> but not <orig
+                        reg="until">untell</orig> I heard from you <orig reg="again">a gain</orig>
+                    as you thought perhaps but to quit <orig reg="corresponding"
+                    >corisponding</orig>; but your dear brother was here last night &amp; we
+                    talked about you; he asked when I had heard from you I told him &amp; also
+                    said I did not expect to reply &amp; he gave me one <orig reg="condemning"
+                        >condiming</orig> look &amp; I have thought ever since that I heard a
+                    soft low voice saying Kate dont give him up. Oh my poor wayward boy whose voice
+                    is it Ah me thinks it must be he that of thy dear mothers &amp; feel very
+                    thankful this evening that I have heard it yes I can thank my heavenly Father
+                    this evening that I am very happy yes happy in the Lord &amp; I ask my self
+                    why can't Willie be happy why is he grieving over this worlds happiness
+                    &amp; not looking forward as he once did to <add hand="h1" place="inline"
+                    >a</add> world <orig reg="beyond">beon</orig> the <unclear>dark</unclear> why is
+                    it that there are no brightness no <orig reg="sunshine">sunsine</orig> that this
+                    world is dark &amp; dreary not a charm to bind you to earth I ask why:
+                    &amp; I believe that I can give you the answer will you allow me yes I <orig
+                        reg="believe">bileve</orig> you will <pb n="2"/>I will tell you what I think
+                    it is your sins Oh dear one you are brooding over my sorrows trouble &amp;
+                    thinking how you will make me happy now let me beg of you dear one to forget me
+                    for a while <add hand="h1" place="inline">&amp;</add> think of yourself yes
+                    if I could come to you to night &amp; fold my arms around your neck
+                    &amp; pray for you I believe my earthly happiness would be <orig
+                        reg="complete">compleat</orig> (not that I want to <orig reg="win"
+                    >winn</orig> back your affections to me for I leave that with God) but Oh that I
+                    could win you back to the foot of the cross &amp; get you to cast your care
+                    on Jesus he is <orig reg="able">ablee</orig> &amp; willing to turn your
+                    darkness in to day you know the head of him yes dear one I believe he is <orig
+                        reg="knocking">kocking</orig> at the door of your heart &amp; ere this
+                    yes when you wrote before I think he had been there Oh Willie I have fasted <add
+                        hand="h1" place="inline">&amp; prayed</add> every Wednesday since I got
+                    your discard &amp; I have been very very happy I believe that the good Lord
+                    has melted &amp; moved your dear heart ere this yes in <orig reg="several"
+                        >sever</orig> instances my prayers have been answered in less than a week is
+                    not this joy enough yes I have spent one <orig reg="Sabbath">Sabbeth</orig>
+                    <add hand="h1" place="inline">in</add> fasted &amp; prayer besides
+                    Wednesdays &amp; I can say with <add hand="h1" place="inline">joy it was the</add>
+                    <del hand="h1">a very</del> happiest day I believe I ever spent. <pb n="3"/>no
+                    one knows that I done this but Lord &amp; thee I (<orig reg="fast"
+                    >fas</orig>) done it for you &amp; I think you ought to know it or for the
+                    salvation of your Lord yes I am willing to sacrifice my life for <add hand="h1"
+                        place="inline">it</add> (that) but that is not <orig reg="necessary"
+                        >nesessary</orig> for Jesus Christ was sacrificed for our sins. Oh dear one
+                    how <abbr expan="often">oft.</abbr> times I think of that happy <orig
+                        reg="prayer">prayr</orig> meeting we had in <abbr expan="Greenville"
+                    >G</abbr> just before the war broke out that good <orig reg="prayer"
+                    >prayr</orig> that you offered up that night this was some of the words Oh that
+                    we might <unclear>strike</unclear> for the <unclear>press</unclear> of the high
+                    calling in Christ Jesus; was that not a happy night have you forgotten it; you
+                    felt that God was with you &amp; he is with you now dont refuse his
+                    pleadings he loves you dearer than he did then dont think that your sins are too
+                    great he <orig reg="begs">bigs</orig> you to cast your burden <orig reg="upon"
+                        >uppon</orig> him he is <orig reg="able">ablee</orig> to <orig reg="engulf"
+                        >engulft</orig> you in Christ again but <orig reg="dear">deare</orig> dear
+                    Willie let me beg of you to quit the <orig reg="distillary">distilay</orig>
+                    &amp; go &amp; pay the tax that you have not payed on it &amp; pray
+                    to God to give you grace to over come the other sins that has beset you
+                    &amp; resolve in your own heart to be come a christian <orig reg="again">a
+                        gain</orig>; as you dear brother said to day Kate you know he was once a
+                    good boy but <pb n="4"/>that is such a wild <orig reg="neighborhood"
+                        >nieghbourhood</orig> Oh I wish he had never <orig reg="gone">gon</orig>
+                    there &amp; we both came to the same conclusion that that <orig
+                        reg="distillary">distilry</orig> was the cause of all your trouble going a
+                    gainst your Pas will &amp; John <orig reg="says">sais</orig> it is <orig
+                        reg="grieving">greaving</orig> your dear Pa so much Oh Willie what must I do
+                    for to get you to change if I thought if <orig reg="crawling">cralling</orig> on
+                    my hands &amp; knees would to you &amp; pleading &amp; praying
+                    &amp; <orig reg="begging">beging</orig> would make this change I would do it
+                    yes you wish to know what you must do for my happiness do this Willie be come a
+                    good man if you cant do it up there come to your Pa he can adivse you &amp;
+                    pray for your help in <orig reg="every">evry</orig> way. Oh Willie the harvest
+                    is great &amp; you once was a labourer wont you come out <orig reg="again">a
+                        gain</orig> &amp; help me to labour I feel that I am almost alone yes I
+                    believe you will for I <orig reg="dreamt">drempt</orig> the other night that I
+                    met you in the harvest field I was there &amp; had my rake but there was no
+                    one to cut the grain for me but <orig reg="presently">preasantly</orig> you came
+                    &amp; set down the cradle &amp; was whetting before you saw me but as
+                    soon as you seen me we both wept &amp; you took my hand as you use to but
+                    enough Now Willie you may be the means of saving the souls of those that led you
+                    astray return O wanderer return Jesus bids you come I long to see you in <orig
+                        reg="prayer">prayr</orig>
+                    <orig reg="meeting">meting</orig> &amp; class meeting in our good old
+                    Methodist Church the bright star that you once was may I not hope for it yes
+                    &amp; believe that you will come; tomorrow is my fast day Oh how I wish you
+                    could get this &amp; keep it with me but you can have a day of your own
+                    &amp; fast &amp; pray it has made me strong in spiritual <orig
+                        reg="strength">strenth</orig> &amp; in bodily strength Willie you can
+                    keep that ring I did not mean the <orig reg="whole">hole</orig> love I gave that
+                    to you but I dont care for any do you wish your you can get it any time you call
+                    for it try &amp; forget the past &amp; become a good christian I hope
+                    that that the time will soon come that we will soon rejoice in Christ Jesus that
+                    this all happened if you should get sick or anything happen you &amp; you
+                    want to see me or want a friend to wait on you send or let me know &amp; I
+                    will do for you yes it would make me very happy to do so but I find that Jesus
+                    is our best freind if all others forsake he will not then let us tell all our
+                        <orig reg="griefs">greafs</orig> to him he bids as pray &amp; pray <orig
+                        reg="again">a gain</orig> but I must close you can use your own <orig
+                        reg="pleasure">pleasur</orig></p>
+
+                <closer>
+                    <salute>Your true friend</salute>
+                    <signed/>
+                    <seg type="postscript">I would like to hear from you as often as I could <orig
+                            reg="but">but but</orig> your will is my <orig reg="pleasure"
+                        >pleasur</orig>. I rejoice <orig reg="that I">that I that I</orig> have
+                        confidence in you through Jesus Christ I believe that ere this month closes
+                        that you will be a changed man Oh my dear <orig reg="Savior">Savier</orig>
+                        speed the day</seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

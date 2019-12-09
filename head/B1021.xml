@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1021"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1021">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: Thomas P. Jackson to
+                    Orlando Brown, February 29, 1868</title>
+        <title type="sort">freedmens bureau records thomas p jackson to orlando brown, february 29 1868</title>
+        <author>Jackson, Thomas P.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1021</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500889</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: Thomas P. Jackson to Orlando Brown,
+                            February 29, 1868</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records thomas p jackson to orlando brown, february 29 1868</title>
+            <author>Thomas P. Jackson</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 48.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1868-02-29">1868-02-29</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Aid Relief, Community Values/Local Behavior, Economy, Employment/Labor,
+                        Politics/Political Attitudes, Race Relations</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-05">May, 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Catherine S&gt; Neale</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1021T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Jackson's report to Brown describes the ongoing problems with contract
+                    negotiations, relief efforts, the rise in drinking, and the political views of
+                    whites and blacks in Augusta County.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau of Refugees, Freedmen and Abandoned Lands,<lb/>Office 4th Division, 9th
+                    Sub-District, Virginia.
+                    <name type="recipient"><abbr expan="Brigadier">Brig</abbr>
+                        <abbr expan="General">Genl</abbr> O. Brown<lb/><abbr expan="Assistant">Asst</abbr>
+                        <abbr expan="Commissioner">Com<hi rend="super">r</hi></abbr> District of
+                            <abbr expan="Virginia">Va.</abbr>Richmond (Through <abbr
+                            expan="Headquarters">H<hi rend="super">d</hi>Qrs</abbr> 9<hi
+                            rend="super">th</hi>
+                        <abbr expan="Sub-District">Sub Dist</abbr>
+                        <abbr expan="Virginia">Va</abbr>)</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1868-02-29"><abbr expan="February">Feb</abbr> 29, 1868</date>
+                        <name type="place">Staunton, <abbr expan="Virginia">Va.</abbr></name>
+                    </dateline>
+                    <salute>General</salute>
+                </opener>
+
+                <p>In compliance with Circular Order <abbr expan="Number">No.</abbr> 6 S. 1866 <abbr
+                        expan="Bureau of Refugees, Freedmen and Abandoned Lands"
+                    >B.R.F.&amp;A.L.</abbr> I have the honor to forward the following report of
+                    condition of Bureau Affairs in this 4<hi rend="super">th</hi>
+                    <abbr expan="Division">Div.</abbr> of 9<hi rend="super">th</hi>
+                    <abbr expan="Sub-District">Sub Dist.</abbr>
+                    <abbr expan="Virginia">Va</abbr>
+                    <orig reg="comprising">comprizing</orig> the counties of Augusta and Highland.
+                    This office is still visited by many Freedmen asking assistance in making
+                    settlements or seeking redress for grievances. Most of the crop accounts of 1864
+                    are now adjusted and the unsettled claims for wages are generally against men
+                    who cannot pay and where no written contract exists. Contracts to labor for the
+                    year are not so common as could be wished. Two reasons for this are assigned by
+                    freedmen. Some say their employers will not make contracts for the year as they
+                    intend to discharge them if they do not vote to suit them but most say they can
+                    do much better when their agreements are by the month as they can have monthly
+                    settlements and know how they stand. <pb n="2"/>I encourage written contracts by
+                    the year as much as possible because my experience shows men so employed prove
+                    best off at the end of the year, provided they refuse to open store accounts
+                    with their employers. The great drawback to Freedmen not employed by the year,
+                    is the outrageous rents demanded for Tenements in which to live. <hi
+                        rend="underline">As a class</hi> freedmen here are not making much progress
+                    in material prosperity, the long hard winter eats up the surplus earnings of the
+                    harvest season and the sick &amp; widowed and deserted women experience much
+                    suffering. The distribution of clothing at this office has done much good,
+                    enabling many to go out to labor who otherwise from want of clothing would have
+                    been prevented. The corporation and county officers relieve such cases of
+                    distress, as have been presented, and no complaints can now be made, except
+                    perhaps about the regulations in some county districts, which disallow out <del
+                        hand="h1"/> relief and present to the poor only the option of poorhouse or
+                    nothing. This month there has been less than usual number of complaints by
+                    freedmen of ill usage at the hands of white citizens.</p>
+
+                <p>Little is now said on political questions it appears <pb n="3"/>to be conceded
+                    useless to "fish" for the colored vote with the "base hook," and not worth while
+                    to offer anything, as the conservatives are confident they will reject the
+                    Constitution whatever it may be, either by remaining at home on election day, or
+                    dragging every white man to the polls to vote it down. The freedmen are uneasy
+                    but hopeful, and will generally cast their votes, but not near so unanimously as
+                    at the last election a large proportion of the white men will stay at home
+                    anyway.</p>
+
+                <p>No prospect has been made in organizing Temperance organizations in this Division
+                    and I regret that since the distillers here have resumed operations whiskey
+                    drinking has become too common among freedmen in country districts where it can
+                    be procurred from the still houses.</p>
+
+                <closer>
+                    <salute>I have the honor to be, General<lb/>Your <abbr expan="obedient">obt</abbr>
+                        <abbr expan="servant">servt</abbr></salute>
+                    <signed>
+                        <hi rend="underline"><abbr expan="Thomas">Tho<hi rend="super">s</hi></abbr>
+                            P Jackson</hi>
+                        <lb/>
+                        <abbr expan="Assistant Sub Assistant Commissioner">Asst Sub Asst Comr</abbr>
+                    </signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

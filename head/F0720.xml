@@ -1,0 +1,274 @@
+<?xml version="1.0"?>
+
+<?dlps id="F0720"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+ <!NOTATION jpg SYSTEM "JPEG">  
+ <!ENTITY BitSho7a SYSTEM "uva-lib:503000" NDATA uvaHighRes> 
+ <!ENTITY BitSho7b SYSTEM "uva-lib:503001" NDATA uvaHighRes> 
+ <!ENTITY BitSho7c SYSTEM "uva-lib:503002" NDATA uvaHighRes> 
+ <!ENTITY BitSho7d SYSTEM "uva-lib:503003" NDATA uvaHighRes> 
+ <!ENTITY BitSho7e SYSTEM "uva-lib:503004" NDATA uvaHighRes> 
+   
+ ]>  
+<TEI.2 id="F0720">
+ <teiHeader type="migrated">
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Franklin County: David R. P. Shoemaker to Henry A. Bitner, March
+     21, 1863</title>
+        <title type="sort">franklin county david r p shoemaker to henry a bitner, march 21 1863</title>
+        <author>Shoemaker, David R. P.</author>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Anne Rubin, Valley of the Shadow project, Institute for Advanced Technology in the
+      Humanities, University of Virginia </name>
+          <resp>Creation of digital images: </resp>
+          <name>Anne Rubin, Valley of the Shadow project, Institute for Advanced Technology in the
+      Humanities, University of Virginia </name>
+          <resp>Conversion to TEI.2-conformant markup: </resp>
+          <name>University of Virginia Library Electronic Text Center. </name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. <num type="kilobytes">12</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>University of Virginia Library </publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+        <idno type="VCDH">F0720</idno>
+        <!--
+    <availability>
+     <p>Publicly-accessible </p>
+     <p>URL: http://etext.lib.virginia.edu/modeng/modengB.browse.html </p>
+     <p>Publicly-accessible </p>
+     <p>URL: http://jefferson.village.Virginia.EDU/vshadow2/ </p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1998 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="1998">1998 </date>
+        <idno type="uva-pid">uva-lib:501364</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p> </p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note>
+          <p>Images of the manuscript have been included. This electronic text is a faithful
+      transcription of the original manuscript. We have included SGML tags which allow the reader to
+      view a modernized version of the text in which the punctuation and the spelling have been
+      regularized.</p>
+        </note>
+        <note> </note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Franklin County: David R. P. Shoemaker to Henry A. Bitner, March 21, 1863</title>
+            <title level="u"> </title>
+            <title type="sort">franklin county david r p shoemaker to henry a bitner, march 21 1863</title>
+            <author>David R. P. Shoemaker </author>
+            <respStmt>
+              <resp> </resp>
+              <name> </name>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p> </p>
+          </editionStmt>
+          <extent> </extent>
+          <publicationStmt>
+            <publisher> </publisher>
+            <pubPlace> </pubPlace>
+            <date value=""> </date>
+            <idno type="callno">Manuscript copy consulted: University of Virginia, Alderman Library,
+       Special Collections MSS 11395 </idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p> </p>
+          </seriesStmt>
+          <notesStmt>
+            <note> </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Prepared for the University of Virginia Library Electronic Text Center. </p>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Original lineation has been maintained. </p>
+        <p>The images exist as archived TIFF images, one or more JPEG versions for general use, and
+     thumbnail GIFs. </p>
+        <p>Some keywords in the header are a local Electronic Text Center scheme to aid in establishing
+     analytical groupings. </p>
+      </editorialDecl>
+      <refsDecl>
+        <p> </p>
+      </refsDecl>
+      <classDecl>
+        <taxonomy>
+          <bibl>
+            <title>Library of Congress Subject Headings </title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date value="1863-03-21">1863-03-21 </date>
+      </creation>
+
+      <langUsage>
+        <language id="eng">English </language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>nonfiction </term>
+          <term>prose </term>
+          <term>masculine </term>
+          <term>American Civil War; Special Collections </term>
+          <term>Eleventh Ohio Volunteer Infantry </term>
+          <term>Company E </term>
+          <term>Franklin County </term>
+          <term>Home Front </term>
+          <term>Women </term>
+          <term>Troop Movement </term>
+          <term>American Civil War</term>
+        </keywords>
+        <keywords>
+          <term>LCSH </term>
+        </keywords>
+        <keywords>
+          <term> </term>
+          <term> </term>
+          <term type="format">72 dpi; 24-bit color </term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date value="1998-05">May 1998 </date>
+        <respStmt>
+          <resp>corrector </resp>
+          <name>Lisa Spiro and Carolyn Fay </name>
+        </respStmt>
+        <item>Added TEI header and tags, corrected transcription errors, and standardized punctuation
+     and spelling for the modernized version. </item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+ <text id="F0720T">
+  <body id="d2">
+   <!-- <page n=1><ID>BitSho71</ID> -->
+   <div1 type="letter" n="1863-03-21" id="d3">
+    <opener>
+
+
+     <pb n="1" entity="BitSho7a" pid="uva-lib:503000"/>
+
+
+     <dateline>
+
+      <name type="place">Carthage, <abbr expan="Tennessee">Tenn.</abbr></name>
+      <date value="1863-03-21">March 21/63</date>
+     </dateline>
+     <salute> My Dear Friend:</salute>
+    </opener>
+    <p>Your favor of March 10th <lb/> was duly received and I <lb/> wrote an answer and mailed <lb/>
+     it <orig reg="day-before">day=before</orig> yesterday, but <lb/> I have just learned that <lb/>
+     the mail was captured by <lb/> the Guerillas between here &amp; <lb/>
+     <name type="place">Gallatin</name>, so I will have it <lb/> to do all over again. </p>
+    <p> So you have committed <lb/> matrimony, have you? Or <lb/> were you only joking? If <lb/> you
+     really have "gone and <lb/> done it" allow me to <orig reg="congratulate">con= <lb/>
+     gratulate</orig> you on your choice <lb/> and to wish you and your<lb/> bride a happy voyage
+     together <!-- </page> -->
+     <!-- <page n=2><ID>BitSho72</ID> -->
+     <pb n="2" entity="BitSho7b" pid="uva-lib:503001"/> down the stream of life, <lb/> together with the "little <orig
+      reg="responsibilities">res=<lb/> ponsibilities"</orig>. I am sorry <lb/> however to lose you
+     from <lb/> among the noble fraternity of <lb/>
+     <orig reg="Bachelors">Batchelors</orig>. I fear that the <lb/> joys and cures of <orig
+      reg="matrimony">matri=<lb/> mony</orig> may induce you to <orig reg="forget">for= <lb/>
+     get</orig> your friends who have <lb/> not yet joined the <orig reg="Benedictine">Bene= <lb/>
+      dictine</orig> order. </p>
+    <p>The fact is I intend to <lb/> take me an <orig reg="helpmate">helpmeat</orig> myself <lb/>
+     from among <name type="place">Pennsylvania's</name>
+     <lb/> fair daughters, some day--<lb/>
+     <orig reg="perhaps">
+      <hi rend="underline">p-e-r-h-a-p-s</hi>
+     </orig>. With this <lb/> view I expect you to spread <lb/> a good word for me to all <lb/> the
+     "genuine fenders" and it <lb/> may be I can find some one <lb/> fool enough to have me.-- </p>
+    <p> I quite agree with you in <lb/>
+     <!-- </page> -->
+     <!-- <page n=3><ID>BitSho73</ID> -->
+     <pb n="3" entity="BitSho7c" pid="uva-lib:503002"/> regard to the wish you <orig reg="express">ex=<lb/> press</orig>
+     in regard to that <orig reg="holding">hold= <lb/> ing</orig> affair. </p>
+    <p>Since I last wrote to you <lb/> we have "changed our base" to <lb/> the north side of the
+      <name type="place">
+      <orig reg="Cumberland">Cumber- <lb/> land</orig>
+     </name> river as it was getting <lb/> quite unhealthy on the other <lb/> side. A forage train
+     of 18 <lb/> six-mule teams <del hand="h1">was captured <lb/> on the 6<hi rend="super"
+     >th</hi></del> together with the <lb/> escort of 62 men from our <lb/> regiment was captured on
+     <lb/> the 6th, and hardly a night <lb/> passed without some of our <lb/> pickets being shot.
+     Since we <lb/> crossed we have not been <lb/> troubled in that way. Four <lb/> of our boats
+     were fired <orig reg="into">in= <lb/> to</orig> yesterday 7 miles below <lb/> here and two men
+      <orig reg="wounded">wound= <lb/> ed</orig>. Our gun-boat shelled <!-- </page> -->
+     <!-- <page n=4><ID>BitSho74</ID> -->
+     <pb n="4" entity="BitSho7d" pid="uva-lib:503003"/> the town (<name type="place">Rome</name>) and the <orig
+      reg="adjacent">ad= <lb/> jacent</orig> roads and quite a <orig reg="number">num <lb/>
+     ber</orig> of the rebs were killed.--<lb/> The town was nearly burned <lb/> to the ground. We
+     are every <lb/> day expecting an attack from <lb/>
+     <name type="person"><abbr expan="General">Gen'<hi rend="super">l</hi></abbr> Bragg</name>, who
+     has lately been <lb/> heavily reinforced. We are also <lb/> expecting reinforcements.--<lb/>
+     The small pox has made its <lb/> appearance here in some of <lb/> our regiments. Otherwise the
+     <lb/> health is good. </p>
+    <p>This is about all the local <lb/> news. With the <orig reg="general">generally</orig> news
+     <lb/> you are better acquainted, I <orig reg="presume,">pre- <lb/> sume,</orig> than I am. </p>
+    <p>The weather is quite fine <lb/> and ploughing and gardening <lb/> is the order of the day
+     among <lb/> the citizens. In that respect <lb/> I presume they are about three <!-- </page> -->
+     <!-- <page n=5><ID>BitSho75</ID> -->
+     <pb n="5" entity="BitSho7e" pid="uva-lib:503004"/> weeks ahead of you. </p>
+    <p>Our regiment was <orig reg="today">to=day</orig>
+     <lb/> furnished with <orig reg="brand">bran</orig> new <lb/> Norfolk Rifles (Springfield<lb/>
+     pattern) I am quite proud <lb/> of mine, which I call "Katie <lb/> Darling" and I am anxious
+     <lb/> to draw a bead on a rebel <lb/> with it. I intend to sleep <lb/> with it <orig
+      reg="tonight">to=night</orig>. </p>
+    <p> Give my respects to your <lb/> lady and all the friends, and <lb/> write soon </p>
+    <closer>
+     <salute>Yours Truly</salute>
+     <name type="person">D.R.P. Shoemaker</name>
+     <lb/> Co. "E" 11th <abbr expan="Regiment Ohio Volunteer Infantry">Reg. O.V.I.</abbr>
+     <lb/>
+     <name type="recipient">H. A.Bitner Esq.</name>
+    </closer>
+   </div1>
+   <!-- </page> -->
+  </body>
+ </text>
+</TEI.2>

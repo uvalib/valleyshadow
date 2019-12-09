@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+
+<?dlps id="A0574"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+<TEI.2 id="A0574">
+    <teiHeader type="migrated">
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: A. G. Guskins to His Cousin,
+                    December 30, 1860</title>
+        <title type="sort">augusta county a g guskins to his cousin, december 30 1860</title>
+        <author>Guskins, A. G. </author>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amy Murrell </name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Institute for Advanced Technology in the Humanities </publisher>
+                <publisher>University of Virginia </publisher>
+                <pubPlace>Charlottesville, Va. </pubPlace>
+        <!--
+                <availability>
+                    <p>Text and images (c) Copyright 1997 by The Rector and Visitors of The
+                        University of Virginia. All rights reserved. </p>
+                    <p>URL: http://jefferson.village.virginia.edu/vshadow2/ </p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1997 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <idno type="VCDH">A0574</idno>
+                <date value="1997">1997</date>
+            <idno type="uva-pid">uva-lib:501871</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War </p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note> </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: A. G. Guskins to His Cousin, December 30, 1860</title>
+            <title type="sort">augusta county a g guskins to his cousin, december 30 1860</title>
+            <author>A.G. Guskins </author>
+            <respStmt>
+                            <resp> </resp>
+                            <name> </name>
+                        </respStmt>
+          </titleStmt>
+                    <publicationStmt>
+                        <publisher> </publisher>
+                        <pubPlace> </pubPlace>
+                        <date value=""/>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p>Source Copy Consulted: Cochran Family Letters, 1860-1861, (MS 92-032),
+                            Civil War Collections, Special Collections, Virginia Polytechnic
+                            Institute and State University, Blacksburg, Virginia. </p>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Special Collections, Virginia Polytechnic Institute and State University, Blacksburg, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1860-12-30">1860-12-30 </date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Family, National Government, Patriotism, State Government</term>
+                    <term>Regiment: none </term>
+                    <term>Company: </term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value="2000">Summer 2000</date>
+                <respStmt>
+                    <resp> </resp>
+                    <name>Amy Voorhees </name>
+                </respStmt>
+                <item>Proofread against the original; transcription corrected.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+    <text id="A0574T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Guskins writes from South Carolina and provides an update on political life in
+                    that state following its secession from the Union. </p>
+            </div1>
+        </front>
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Cousin</name>
+                </head>
+                <opener>
+                    <dateline>
+                        <date value="1860-12-30">Sunday night, Dec. 30, 1860 </date>
+                    </dateline>
+                    <salute>My Dear Cousin </salute>
+                </opener>
+
+                <p>It is now nearly three years since I last wrote to you, so without any excuse
+                        <orig reg="here">hear</orig> goes. </p>
+
+                <p>I have no news that will interest you so I will write some thing about crops and
+                        <orig reg="politics">politick</orig> and <orig reg="anything">any
+                    thing</orig> that I may chance to think of, <del rend="none" hand="h1"/> corn &amp;
+                    cotton crops have been very short all over the State this year. corn at this
+                    time is worth $1.25 per bushel and cotton is worth nothing. my crop of cotton
+                    will fall 20 bags short of last years. my corn crop was very good. I will have
+                    some to sell. You have <orig reg="heard">heared</orig> long before this that
+                        <abbr expan="South">S.</abbr> Carolina has <hi rend="underline"
+                    >seceded</hi>, every person in the State shouts glory to God &amp; I say,
+                    Amen. People all over the United States believed and said that <abbr
+                        expan="South Carolina">S.C.</abbr> was <orig reg="afraid">a fraid</orig> to
+                    quit the Union. they can now think what they <orig reg="please">pleas</orig> of
+                    us. S. Carolina has fifty <orig reg="thousand">thousan</orig> ready at this time
+                    to <orig reg="march">murch</orig> any <orig reg="where">whare</orig> they may
+                        <orig reg="be">bee</orig>
+                    <orig reg="needed">kneeded</orig>. if it <orig reg="were">was</orig> even to
+                    Washington, you know enough of the history of our people to tell of what kind of
+                    material they are composed of, the worst black Republican at the North will<pb
+                        n="2"/> admit that the people of <abbr expan="South  
+ Carolina">S.C.</abbr>
+                    will fight and history has yet to record the time and place <orig reg="where"
+                        >whare</orig> an enemy has seen the back of a South Carolinian. <abbr
+                        expan="South">S</abbr> Carolina would be glad if all of the Slave States
+                    would secede as our interest is the same. but if they <orig reg="won't"
+                    >wont</orig> we are prepared to take care of our selves.</p>
+
+                <p>The State Convention has sent R.W. Barnwell, J. H. Adams &amp; J.L. Ovr____
+                    Commissioners to Washington to demand the <orig reg="Forts">Fortes</orig> at
+                    Charleston of the President if the President will <orig reg="give">giv</orig>
+                    them up. it will <orig reg="be">bee</orig> well for man kind, for it will <orig
+                        reg="be">bee</orig> a revolution without a blood shed. but if he <orig
+                        reg="doesn't">dont</orig> give them up <abbr expan="South">S</abbr> Carolina
+                    will take them let it cost what it may.</p>
+
+                <p>I will mail three papers to you with this letter, one of the papers has the <abbr
+                        expan="South Carolina">S.C.</abbr>
+                    <hi rend="underline">Ordinance</hi> in it. I want Franklin to commit it to
+                    memory. </p>
+
+                <p>Enough of <orig reg="politics">politicks</orig>, let me write some thing about
+                    Fannie and <hi rend="underline">the</hi> baby. Fannie's health is very good and
+                    she looks better than you ever saw her. I will say but little about our <del
+                        hand="h1">lit</del> child for without doubt he is the finest looking child
+                    of his age that you ever saw<pb n="3"/> I would <orig reg="be">bee</orig> glad
+                    for you to see him for you would then confirm what I have said. Fannie is
+                    anxious to visit you and Mary but I fear it will <orig reg="be">bee</orig> a
+                    long time first as I have not the money to spare. We both would <orig reg="be"
+                        >bee</orig> more than glad if you and Mr. Mcchesney would come and spend the
+                    winter and spring with us. If Mr. Mcchesney <orig reg="can't">canot</orig> come
+                    you and Franklin might and if you <orig reg="can't">canot</orig>why then send
+                    Franklin or Johny. If you will come and spend two or three months with us I will
+                    try and let Fannie go back with you. You can come if you want to and you must
+                    come as me and Fannie are more than anxious to see you and little Adam. I will
+                    bet you any amount that I can show the finest looking boy of the two so come
+                    along and no excuse, as we are very anxious to see you. Our little boy has cut
+                    two teeth, he has never been sick a day, neither has he ever been washed in warm
+                    water, save the first time. Do come and come quickly, as I have more to tell you
+                    than you ever <orig reg="heard">heared</orig> of.</p>
+
+                <p>Mr. John Cothran died about two months ago.<pb n="4"/></p>
+
+                <p>Me and Fannie send our best love to you all, <orig reg="hoping">hopeing</orig>
+                    that this will find you all well and the baby in particular. Permit me to
+                    request you to answer this as soon as it comes to hand. </p>
+
+                <closer>
+                    <salute>Yours affectionately </salute>
+                    <signed>A.G. Guskins, Mill Way, Abbeville <abbr expan="District">Dist.</abbr>
+                        <abbr expan="South">So.</abbr>
+                        <abbr expan="Carolina">Ca.</abbr>
+                    </signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

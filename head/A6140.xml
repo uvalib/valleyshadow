@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+
+<?dlps id="A6140"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+  
+  
+<TEI.2 id="A6140">
+ <teiHeader type="migrated">
+
+    <fileDesc>
+      <titleStmt>
+        <title type="main" id="VShadow">Augusta County: Jesse Rolston, Jr., to Mary Rolston, April 3,
+     1863</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county jesse rolston, jr to mary rolston april 3 1863</title>
+        <author>Rolston Jr, Jesse</author>
+        <editor/>
+        <respStmt>
+          <resp>Creation of machine-readable version: </resp>
+          <name>Julie Beagle</name>
+          <resp>Conversion to TEI.2-conformant markup:</resp>
+          <name>Julie Beagle</name>
+        </respStmt>
+      </titleStmt>
+
+      <extent>ca. <num type="kilobytes">9</num> kilobytes</extent>
+      <publicationStmt>
+        <publisher>Virginia Center for Digital History</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+
+        <idno type="VCDH">A6140</idno>
+
+        <!--
+    <availability>
+     <p>Publicly accessible </p>
+     <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+     <p>Text and images (c) copyright 2001, by the Rector and Visitors of the University of
+     Virginia</p>
+    </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2001 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+        <date value="2001">2001</date>
+        <idno type="uva-pid">uva-lib:502410</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+      </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Augusta County: Jesse Rolston, Jr., to Mary Rolston, April 3, 1863</title>
+            <title level="m"/>
+            <title type="sort">augusta county jesse rolston, jr to mary rolston april 3 1863</title>
+            <author/>
+            <editor/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <p/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher/>
+            <pubPlace/>
+            <date value=""/>
+            <idno type="callNo">Source copy consulted: Joyce DeBolt Miller, ed., "Until Seperated by
+       Death": Lives and Civil War Letters of Jesse Rolston, Jr., and Mary Catharine Cromer
+       (Bridgewater, Va.: Good Printers, Inc., 1994), p. 28.</idno>
+          </publicationStmt>
+          <seriesStmt>
+            <p/>
+          </seriesStmt>
+          <notesStmt>
+            <note>
+              <p>We would like to thank Joyce DeBolt for giving us permission to print these letters, and
+        Barbara Rolston for bringing this collection to our attention.</p>
+            </note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Published Source</p>
+      </projectDesc>
+    </encodingDesc>
+
+    <profileDesc>
+      <creation>
+        <date value="1863-04-03">1863-04-03</date>
+      </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+      <handList>
+        <hand id="h1"/>
+      </handList>
+      <textClass>
+        <keywords>
+          <term>Family, Death/Casualties, Church, National Government, Prison/Prisoners, Agriculture</term>
+          <term>American Civil War</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change>
+        <date value="2001">Summer 2001</date>
+        <respStmt>
+          <resp/>
+          <name>Jaime Henshaw</name>
+        </respStmt>
+        <item>Proofread against the original; transcription corrected.</item>
+      </change>
+      <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+ </teiHeader>
+
+ <text id="A6140T">
+  <front id="d2">
+   <div1 type="summary" id="d3">
+    <p>Rolston comments on the punishments for soldiers who "flank" fights, and about the loss of a
+     member of their company. He also gives advice to his wife who is managing their farm in his
+     absence.</p>
+   </div1>
+  </front>
+
+  <body id="d4">
+   <div1 type="letter" id="d5">
+    <opener>
+     <dateline>
+      <date value="1863-04-03">April 3-1863</date>
+      <name type="place">Camp Hamilton Crossing<lb/> Spotsylvania County Va</name>
+     </dateline>
+     <salute>Dear Companion</salute>
+    </opener>
+
+    <p>I seat <orig reg="myself">my self</orig> this morning to inform you how i am and how i have
+      <orig reg="been">bin</orig> since my last letter. I have had a bad <orig reg="cold"
+     >coald</orig> for the past <orig reg="week">weak</orig> but i have had a good appetite to eat
+     all the time. I am well at <orig reg="present">preasent</orig> and <orig reg="hoping"
+     >hoaping</orig> that when you receive this that it will find you <orig reg="enjoying"
+     >injoying</orig> good health and in good spirits and <orig reg="hope">hoap</orig> all of our
+     family friends and <orig reg="neighbors">neighbours</orig> may be <orig reg="enjoying"
+     >injoying</orig> the same blessing. I received your letter that you sent by <abbr
+      expan="Captain">Capt.</abbr> A Airhart in the first of April. J just came off of picket that
+     day and we <orig reg="enjoyed">injoyed</orig>
+     <orig reg="ourselves">our selves</orig> very well considering such a spell of weather as we
+     had. we was gone three days. the first day it rained very hard all day. the second day it was
+      <orig reg="cold">coald</orig> and the wind blew very hard and <orig reg="cold">coald</orig>
+     all day. the third day but quite pleasant until <orig reg="evening">eavening</orig> after we
+     got in camp. it clouded up and the next morning it was a snowing. it fell about 2 or 3 inches
+     but it soon melted after it quit snowing and <orig reg="made">maid</orig> a slop. it has been
+     quite moderate since. the man that was send to richmond that you spoke of had went home three
+     times and he would when <del rend="none" hand="h1"/><pb n="2"/> camp in times of a fight would run off
+      <abbr expan="until">til</abbr> it was over. it is harder on them that flank a fight than them
+     that <orig reg="don't">dont</orig>. they have <orig reg="been">bin</orig> hard on some of the
+     others too. there is Jacob and David Shull and John and Richard Michael sent to richmond April
+     1st for six months hard labor and 6 months pay. that was their sentence. <abbr expan="William"
+      >Wm.</abbr> Shull <orig reg="hasn't">hasnt</orig> had his trial yet-April 5th. I am well and
+     hearty but it pained me when i read in your kind letter the death of your brother. it makes of
+      <del rend="none" hand="h1"/> in which a man <orig reg="has">hasa</orig> but a few days and full of <orig
+      reg="trouble">troubel</orig>. god giveth and then taketh away. blessed is the name of the
+     Lord. We have lost another one of our company. Absolom Michael yesterday morning at 7 <orig
+      reg="o'clock">oclock</orig> departed this life to a world <orig reg="where">whare</orig>
+     <orig reg="there">their</orig> is no more parting. he wasn't sick but about 2 weeks. he had the
+      <orig reg="typhoid">tifoid</orig> fever. he was <orig reg="able">abel</orig> to walk about
+     some until the <orig reg="evening">eavening</orig> before he died. life is uncertain in the
+     army as well as at home. i <orig reg="don't">dont</orig> know but what he is better off now
+     than if he had a lived to heard his trial for his case would be <orig reg="been">bin</orig>
+     hard the way they <orig reg="punished">punishe</orig> the others. i <orig reg="don't"
+     >dont</orig> think <orig reg="we'll">well</orig> stay <orig reg="here">heare</orig> many more
+     days until we move it <del rend="none" hand="h1"/> report in camp now that we are to go out back in the
+     mountains west of <orig reg="Staunton">Stanton</orig> but i <orig reg="don't">dont</orig>
+     <orig reg="know">no</orig>
+     <orig reg="where">whare</orig> we will go for they take take us <orig reg="where">whare</orig>
+     they please. <orig reg="the">they</orig>
+     <orig reg="yankees">yankeys</orig> appear to be quiet and they say they don't want to <orig
+      reg="fight">fite</orig> if they can help. they say <orig reg="there">their</orig> is a great
+     many of them will go home the first of May or <orig reg="rebel">rebell</orig> against <orig
+      reg="old">oald</orig> Abe. if they do that the war <orig reg="can't">cant</orig> last much
+     longer. from what i can <orig reg="hear">heare</orig> and see i <orig reg="don't">dont</orig>
+     think [letter torn away here]...if you think you can manage any more corn <del rend="none" hand="h1"/> the
+     bottom <orig reg="field">feald</orig> as you <orig reg="won't">wont</orig> have oats enough to
+      <orig reg="sow">sew</orig>. the field of <orig reg="cornstubbles">cornstubels</orig> on the
+     hill could plant some in <orig reg="there">their</orig> and if you <orig reg="don't"
+     >dont</orig> plant <orig reg="there">their</orig> sow the best of the ground in oats as far as
+     it will go and let the remainder be until <del rend="none" hand="h1"/> put more on your self than you can
+     manage. it is not <orig reg="worthwhile">worth while</orig> to expose <orig reg="yourself">your
+      self</orig> to put out a crop if you <orig reg="don't">dont</orig> get any out of it. you can
+     keep the stock off the new ground field and the orchard. it will make as much hay as well. keep
+     the stock if the season suits and what luck do you have with your help?</p>
+
+    <closer>
+     <salute>So no more at <orig reg="present">preasant</orig> but remain yours</salute>
+     <signed>from Jesse Rolston</signed>
+     <seg type="postscript"><orig reg="write">rite</orig> and [letter gone] <name type="recipient"
+       >Mary Catherine Rolston</name>
+     </seg>
+    </closer>
+   </div1>
+  </body>
+ </text>
+</TEI.2>

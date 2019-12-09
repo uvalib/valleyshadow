@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+
+<?dlps id="A2946"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A2946">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: Robert B. Spillman to Amanda C. Armentrout,
+                    January 29, 1865</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta robert b spillman to amanda c armentrout, january 29 1865</title>
+        <author>Spillman, Robert B.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Elizabeth Ladner</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Elizabeth Ladner</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A2946</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://valley.vcdh.virginia.edu/</p>
+                    <p>Text and images (c) copyright 1993-2005, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 1993 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502116</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: Robert B. Spillman to Amanda C. Armentrout, January 29, 1865</title>
+            <title level="m"/>
+            <title type="sort">augusta robert b spillman to amanda c armentrout, january 29 1865</title>
+            <author>Spillman, Robert B.</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: William F. Brand Papers</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1865-01-29">1865-01-29</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Home Front, Economy</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value=""/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A2946T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Robert asks Kate to please share her fears with him so that he may offer her
+                    comfort. He then talks of the especially harsh weather and the number of sick
+                    soldiers (an "ill harvest") arriving at the hospital due to the cold.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Miss Kate Armentrout<lb/>Greenville<lb/>Augusta Co Va.</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1865-01-29">Jan 29<hi rend="super">th</hi> 1865</date>
+                        <name type="place"><abbr expan="Chimborazo">Chimbo</abbr>
+                            <abbr expan="Hospital">Hosp</abbr> No 3 Richmond Va</name>
+                    </dateline>
+                    <salute>My dear Sister</salute>
+                </opener>
+
+                <p>Your very kind &amp; dear letter of the 21<hi rend="super">st</hi>
+                    <abbr expan="instant">inst</abbr> reached me safely <del hand="h1">a</del> three
+                    days ago which found me quite well &amp; truly glad to hear from you
+                    &amp; to hear that <del hand="h1">you with</del> your Fathers family were
+                    well but I am very sorry to hear of your unpleasant feelings from the tone of
+                    your letter you appear to be in a measure greatly troubled. <orig reg="Your"
+                        >your</orig> language was such as would lead one to believe that you feel
+                    like one forsaken, like one enshrouded with the dark <orig reg="shadows"
+                        >shaddows</orig> of gloom wending this way as it were in some isolated
+                    region amid trials &amp; troubles unspeakable with no one to cheer you.
+                        <orig reg="No">no</orig> sound of a merry or well known voice to <orig
+                        reg="break">brake</orig> the stillness of the midnight hour. <orig reg="No"
+                        >no</orig> strong arm to shield thy fragile form in the hour of <orig
+                        reg="apparent">apparant</orig> danger. <orig reg="No">no</orig> fond eye to
+                    meet the steady gaze as <add hand="h1" place="inline">you</add> look to the dark
+                    &amp; untried future. <orig reg="Dearest">dearest</orig> Kate, would that I
+                    was capable to day of speaking to you with lanugage that would cheer your
+                    drooping spirits, to <del hand="h1">clear</del> remove the dark cloud from <orig
+                        reg="over">oer</orig> your way &amp; brighten your path with the
+                    briliant sunshine of joy &amp; consolation, but as it is using one of your
+                    expressions "You must take the will for the deed." I am exceedingly anxious to
+                    have the full <pb n="2"/>causes of your troubles not that I could feel that I
+                    would be able to soothe <add hand="h1" place="inline">you</add> in the least but
+                    I would be very glad to know all that in any way gives trouble or displeasure to
+                    my dear &amp; ever faithful friend Kate. If the secret of your discomfort is
+                    not too profound I will be much gratified to know all about it, with a promise
+                    never to divulge it to any one. <orig reg="Well">well</orig> for a change of the
+                    subject I will give you a little of the news of the day. <orig reg="It"
+                    >it</orig> is generally believed that our Government is about to send
+                    commissioners to confer with the Federal authorities preparatory to coming to
+                    some terms of peace. <orig reg="May">may</orig> the blessed Lord grant that they
+                    may be able to come to some honorable terms of peace.</p>
+
+                <p>The weather is extermely cold. <orig reg="We">we</orig> have a perfect ill
+                    harvest just at this time. <orig reg="Well">well</orig> dear Kate you will have
+                    to excuse my short letter. <orig reg="Please">please</orig>
+                    <orig reg="don't">dont</orig> think I am getting careless about writing, for I
+                    assure you that nothing gives me more pleasure than to write &amp; receive a
+                    letter from you for you are the only constant &amp; <orig reg="faithful"
+                        >faithfull</orig> correspondent I have. I hope when I hear from you again
+                    that your letter may be teeming with good news, &amp; that you my dear
+                    darling sister Kate may be your self again with my tender regards to the loved
+                    ones at your home with much love for you dear Kate</p>
+
+                <closer>
+                    <salute>believe me to be your affectionate &amp; ever loving Brother</salute>
+                    <signed>Robert</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+
+<?dlps id="A5040"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A5040">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta County: George W. Baylor to Mary C. Baylor,
+                    September 4, 1861</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta county george w baylor to mary c baylor, september 4 1861</title>
+        <author>Baylor, George C.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Amy Voorhees</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A5040</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502324</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta County: George W. Baylor to Mary C. Baylor, September 4, 1861</title>
+            <title level="m"/>
+            <title type="sort">augusta county george w baylor to mary c baylor, september 4 1861</title>
+            <author>George W. Baylor</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: McGuffin Family Papers, Accession
+                            #6732, Special Collection Department, University of Virginia Library,
+                            Charlottesville, Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1861-09-04">1861-09-04</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Battle Description, Death/Casualties</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2002-11">November 2002</date>
+                <respStmt>
+                    <resp/>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A5040T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>George Baylor's letter to his sister, Mary, describes some of the gruesome images
+                    he has seen after a battle in northern Virginia, near Washington. He also
+                    expresses a wish to see the war settled before winter.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1861-09-04">September the 4 1861</date>
+                        <name type="place">Manassas Junction</name>
+                    </dateline>
+                    <salute>Dear Sister</salute>
+                </opener>
+
+                <p>I this opportunity to seat myself to write you a few lines to let you <hi
+                        rend="underline">all</hi>
+                    <orig reg="know">no</orig> that we are all well at this time, except Mr. Craig
+                    was worse <hi rend="underline">yester </hi>day. I have not <orig reg="heard"
+                        >herd</orig> from him this morning but I hope he is better. I received your
+                    letter last week. We hear the Cannons roaring here every day from near <unclear>
+                        <orig reg="Alexandria">Alexander</orig>
+                    </unclear> our troops drove them back off over Shooters hill the other morning
+                    it is five miles from Washington. They can see the City plain from the hill.
+                    They have got good range for the Cannons on the City from the hill. they are in
+                    sight of each other all the time our forces are moving up on them every day. I
+                    was out on the battle field last Friday it was a smart sight to see it just to
+                    see how the houses how they are tore to <orig reg="pieces">peases</orig> that
+                    they hardly stand up on the bank where Sherman Battery was taking they are fifty
+                    horses dying on one <orig reg="acre">acher</orig> of ground and to see the dead
+                    bodies <orig reg="lying">liing</orig> over the field some of them not <orig
+                        reg="buried">berried</orig> and some <orig reg="lying">liing</orig> on top
+                    of the ground with a little <orig reg="dirt">durt</orig> on them some are
+                        <unclear>prised</unclear> up out of the <orig reg="dirt">durt</orig> and
+                    they are setting up with their <pb n="2"/> clothe hanging around there
+                        <unclear>carens</unclear> the rest is out drilling this morning I don't
+                        <orig reg="have">haft</orig> to drill to day I was on guard yesterday. I
+                    want you to send me my hat the first chance you get. I must stop writing for
+                    this time for I have no more <orig reg="news">nuse</orig> to write. Bruce Kerr
+                    was down here last <orig reg="week">weak</orig> he went home yesterday.</p>
+
+                <p>They are smart talk of peace here here now. I wish they would make <orig
+                        reg="haste">hast</orig> about it be fore winter comes.</p>
+
+                <p>Well I must stop tell some of the rest to <orig reg="write">wright</orig> to me</p>
+
+                <closer>
+                    <salute/>
+                    <signed>G W Baylor</signed>
+                    <seg type="postscript">
+                        <name type="recipient">to M C Baylor</name>
+                    </seg>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

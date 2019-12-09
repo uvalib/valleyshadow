@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+
+<?dlps id="A9605"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="A9605">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: John D. Imboden to Annie Lockett, December
+                    7, 1870</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta john d imboden to annie lockett, december 7 1870</title>
+        <author>Imboden, John D.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Jaime Martinez</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Jaime Martinez</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">8</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A9605</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:502767</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: John D. Imboden to Annie Lockett, December 7, 1870</title>
+            <title level="m"/>
+            <title type="sort">augusta john d imboden to annie lockett, december 7 1870</title>
+            <author>John D. Imboden</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>4 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: John D. Imboden Papers,
+                            1831-1895, Albert and Shirley Small Special Collections Library,
+                            University of Virginia</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1870-12-07">1870-12-07</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Family, Women</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2007-03-28">2007-03-28</date>
+                <respStmt>
+                    <resp>proofed</resp>
+                    <name>Josh Botts</name>
+                </respStmt>
+                <item/>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A9605T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Imboden writes to Annie of friends and family members, their impending marriage,
+                    and his plans to return to Virginia in late December or early January.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1870-12-07">Dec. 7, 1870</date>
+                        <name type="place">N.Y.</name>
+                    </dateline>
+                    <salute>My own darling Annie,</salute>
+                </opener>
+
+                <p>At last I have a letter from you. Yours of the 30<hi rend="super">th</hi>
+                    <abbr expan="November">Nov<hi rend="super">r</hi></abbr> written immediately on
+                    your return from Brunswick reached me day before yesterday, just as I was on the
+                    point of going over to Long Island to spend a day and night with an old friend,
+                    Judge Onderdonk, so that I could not reply till today.</p>
+
+                <p>You do not know how happy it made me to hear from you, and especially to learn
+                    that your visit had been so delightful to you. I was sure it would be, only I
+                    was a little bit afraid you might meet with some handsome young fellow who might
+                    make you sorry you had given yourself away to me. But you assure me that you
+                    never for a moment wavered in your affection for me, and your resolution to
+                    commit your happiness to my hands. Bless your dear heart for saying all this to
+                    me.</p>
+
+                <pb n="2"/>
+
+                <p>And most glorious of all is that you yield to my wishes in regard to the time of
+                    our marriage, and consent that I may come and bring you away in March. Ten
+                    thousand thanks for this concession. The particular day of the month we will fix
+                    upon and arrange when I come to see you soon, and then discuss all our plans. I
+                    would like to make my visit this month, but am not sure I can do so. But it will
+                    be at the earliest possible day I can command. But I will not come until I can
+                    have my business so arranged as to remain a good deal longer than I did the last
+                    time, so that I would rather wait even until after the <orig reg="holidays"
+                        >holydays</orig>, than go before, and be obliged to run away from you in a
+                    day or two. To part from you now is so painful, that I only intend to see you
+                    once more before our marriage, that is only to go to your County once, though I
+                    shall perhaps not spend near all my time at your sweet home whilst there, though
+                    certainly as much of it as possible.</p>
+
+                <pb n="3"/>
+
+                <p>The same day I received your letter I <abbr expan="received">recd.</abbr> one of
+                    the sweetest letters from sister Lou you ever read. I would send it to you but I
+                    want to keep it to read often &amp; over again &amp; again. She told me
+                    I would hear from Miss Ella, but as yet no letter has come from her. She says in
+                    regard to the <hi rend="underline">time</hi> of your marriage, that they would
+                    all like to be present, but think it best to let you &amp; I fix it to suit
+                    ourselves. Just like her, good as she can be.</p>
+
+                <p>So you had to <orig reg="coquette">coquet</orig> a little with an old lover,
+                    &amp; kick him hard to make him understand you were in earnest. Poor fellow
+                    - his fate is a hard one. I am sorry for him, but indeed I can give him no
+                    comfort, beyond suggesting the trite old adage about there being "as good fish
+                    in the sea as ever were caught" - and advising him to see if he can find another
+                    fish as good as that I have caught. As I know he would concur with me that there
+                    is not another such now left, he would go away disconsolate and hopeless poor
+                    fellow! But let him go!</p>
+
+                <pb n="4"/>
+
+                <p>I hope you will adhere to the views in which we concurred, not to have a <hi
+                        rend="underline">wedding</hi>, but simply a quiet marriage in the family,
+                    and our immediate departure either for Richmond or this City. Large weddings are
+                    occasions of much more pleasure to the <hi rend="underline">guests</hi>, than to
+                    the parties more immediately concerned. And as your <hi rend="underline"
+                    >sisters</hi> cannot all be present, let us by all means have as few others as
+                    possible. Were we to be married in the summer time and expecting to remain in
+                    the County some time it might be more agreeable for you to have all your friends
+                    present to witness an event of so much importance in your life.</p>
+
+                <p>But all this we will soon talk over together. May I not ask you to give me more
+                    expression in your letters to your feelings of affection for me? I know you love
+                    me, or you would never have given your consent to marry me, but I like to hear
+                    you say so, and wish you wo write me as freely as you think to yourself. No eye
+                    but mine will ever see one line you write, and I am sure that to me you feel
+                    that you can lay bare the most sacred feelings of your heart. <orig reg="Won't"
+                        >Wont</orig> you do it to gratify me?</p>
+
+                <p>God bless you my darling, so soon to be my wife - my other self.</p>
+
+                <closer>
+                    <salute>With love to all, I am now &amp; always hereafter only yours</salute>
+                    <signed>J.D. Imboden</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

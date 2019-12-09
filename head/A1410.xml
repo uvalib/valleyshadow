@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+
+<?dlps id="A1410"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="A1410">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Augusta: Alexander Hugh Holmes Stuart to Ellen
+                    Stuart (Douglass) McCue, November 29, 1862</title>
+        <title>[electronic resource] </title>
+        <title type="sort">augusta alexander hugh holmes stuart to ellen stuart douglass mccue, november 29 1862</title>
+        <author>Stuart, Alexander Hugh Holmes</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Kid W.</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Kid W.</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">A1410</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501949</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Augusta: Alexander Hugh Holmes Stuart to Ellen Stuart (Douglass)
+                            McCue, November 29, 1862</title>
+            <title level="m"/>
+            <title type="sort">augusta alexander hugh holmes stuart to ellen stuart douglass mccue, november 29 1862</title>
+            <author>Alexander Hugh Holmes Stuart</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>3 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: Douglass-Hall-McCue Family Papers
+                            (Virginia Historical Society), Mss1 D7477 a 93-119, Section 13)</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from Virginia Historical Society, Richmond, Virginia</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1862-11-29">1862-11-29</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <handList>
+                <hand id="h1"/>
+            </handList>
+            <textClass>
+                <keywords>
+                    <term>Agriculture, Family, Home Front, Slavery</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2005">Summer 2005</date>
+                <respStmt>
+                    <resp/>
+                    <name>Doug O'Reagan</name>
+                </respStmt>
+                <item>Proofread.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="A1410T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Stuart tries to persuade his cousin Ellen to allow the sale of some land and
+                    slaves so as to appease certain members of her family.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <opener>
+                    <dateline>
+                        <date value="1862-11-29"><abbr expan="November">Nov</abbr> 29 <hi
+                                rend="super">th</hi> 1862</date>
+                        <name type="place">Rosebanks</name>
+                    </dateline>
+                    <salute>Dear Cousin</salute>
+                </opener>
+
+                <p>On <orig reg="Monday">monday</orig> last, I had a conversation with <abbr
+                        expan="Colonel">Col</abbr> David S. Bell from which I learned that it was
+                    his wish, &amp; also that of <abbr expan="Doctor">Dr</abbr> Alexander,
+                    &amp; I believe, of the other heirs of M<hi rend="super">r</hi> M<hi
+                        rend="super">c</hi>Cue, as far as their sentiments were known, that the
+                    whole property, real &amp; personal, should be sold, with a
+                    <unclear>mind</unclear> to the distribution of the proceeds. This has always
+                    been my opinion, &amp; your uncle Isaac fully concurs in it.</p>
+
+                <p>I know that your regard for the wishes of M<hi rend="super">r</hi> M<hi
+                        rend="super">c</hi>Cue, induces you to entertain a different view, but I
+                    think you are sacrificing too much to this idea. If you desire to maintain
+                    perfect harmony with all the family, this is the true plan, &amp; I am
+                    persuaded, that your pecuniary interests &amp; comfort, will be greatly
+                    promoted by it. If you return your dower in the land, the buildings will
+                    necessarily be valued at a large sum, &amp; you will thus be substantially
+                    paying a very heavy rent, for a house much too costly for your purposes. <pb
+                        n="2"/> The remainder of the farm will necessarily have to be sold. probably
+                    in two trusts, &amp; as there are no good buildings on them, the price may
+                    be affected thereby</p>
+
+                <p>Moreover, if you retain the old homestead, (which in my opinion from its
+                    inaccessibility is a very undesireable home) you will entail on yourself an
+                    expense, which it is difficult to estimate, &amp; you will necessarily
+                    become so much entangled with the affairs of other members of the family, as to
+                    render collisions of interest, &amp; alienation of feeling almost
+                    inevitable. By selling the property, you would probably have $15.000 at least,
+                    in your own absolute right, &amp; each of your children, <del hand="h1"
+                        >eight</del>$8000 or more, - probably $10.000 - With this large amount, you
+                    could buy a comfortable home, &amp; give your children complete education.
+                    By holding on to the homestead, you cannot do this, &amp; you would be
+                    harrassed by a thousand cares &amp; anxieties, &amp; have little left at
+                    the end of the year.</p>
+
+                <pb n="3"/>
+
+                <p>On Monday, I had, (with the concurrance of <abbr expan="Colonel">Col</abbr> Bell)
+                    John Brooks, <abbr expan="William">Wm</abbr> M. Tate &amp; <abbr
+                        expan="William">Wm</abbr> A. Bell appointed <abbr expan="commissioners"
+                            >Com<hi rend="super">rs</hi></abbr>, to lay off your dower in the land
+                    &amp; slaves, if you should adhere to the opinion that that was the best
+                    course. If, on the other hand, you should think it best to pursue the other
+                    course, this appointment will be null.</p>
+
+                <p><abbr expan="Colonel">Col</abbr>
+                    <abbr expan="Bell">B.</abbr> wishes some arrangement made by the close of the
+                    year, &amp; it will be necessary for you to make up your mind, as to the
+                    course you will prefer.</p>
+
+                <p>If a sale be deemed advisable, a bill can be filed, &amp; the answers of the
+                    adult heirs put in, &amp; submitted to the Judge. He will have no power to
+                    decree a Sale in vacation, but he will doubtless, advise such course as will
+                    ensure his ratification of the sale <unclear>
+                        <add hand="h1" place="inline">?</add>
+                    </unclear> when brought before him. The Sale can be made in January, subject to
+                    the approval of the court, &amp; it can be affirmed in june</p>
+
+                <closer>
+                    <salute>Yours affectionately</salute>
+                    <signed>
+                        <abbr expan="Alexander Hugh Holmes Stuart">Alex H. H. Stuart</abbr>
+                    </signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

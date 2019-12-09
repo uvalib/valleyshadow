@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+
+<?dlps id="B2042"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B2042">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: R. M. Manly to N. C.
+                    Brackett, January 7, 1867</title>
+        <title type="sort">freedmens bureau records r m manly to n c brackett, january 7 1867</title>
+        <author>Manly, R. M.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">7</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B2042</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:501155</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: R. M. Manly to N. C. Brackett, January 7,
+                            1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records r m manly to n c brackett, january 7 1867</title>
+            <author>R. M. Manly</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Superintendent of Education for the State
+                            of Virginia, Bureau of Refugees, Freedmen and Abandoned Lands,
+                            1865-1869, Record Group 105, M1053, Roll 1.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-01-07">1867-01-07</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Administration/Bureaucracy, Education</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-06">June 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Ryan Fleenor</name>
+                </respStmt>
+                <item>Item checked against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B2042T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Manly forwards to Brackett General Brown's demand for more specific accusations
+                    against Frederick Tukey in Staunton, if any are to be made. Manly chastizes
+                    Brackett, calling him an outsider, and pointing out that the Bureau has been
+                    acquainted with the parties involved much longer than Brackett himself has.</p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    <name type="recipient">Mr. N. C. Brackett</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-01-07"><abbr expan="January">Jan.</abbr> 7 <abbr
+                                expan="1867">7</abbr></date>
+                    </dateline>
+                    <salute>Dear Sir:</salute>
+                </opener>
+
+                <p>Your communication of the 4th inst. addressed to <abbr expan="Major General">Maj.
+                        Gen.</abbr> Schofield, <abbr expan="Assistant Commissioner">Asst.
+                    Comr.</abbr> has been referred to me with the following endorsement.</p>
+
+                <p>"Respectfully referred to <abbr expan="Reverend">Rev.</abbr> R. M. Manly, <abbr
+                        expan="Superintendent">Sup.</abbr> Education, who will write Mr. N. C.
+                    Brackett that general accusations like the enclosed cannot received attention.
+                    If Mr. Tukey has been guilty of acting in a manner injurious to the interests of
+                    the freedman's schools, he will please make <hi rend="underline">specific
+                        charges</hi>." Signed <abbr expan="Orlando">O.</abbr> Brown <abbr
+                        expan="Acting Assistant Adjutant General">A.A.A.G.</abbr> by order of <abbr
+                        expan="Major General">Maj. Gen.</abbr> Schofield.</p>
+
+                <p>I add: The exigencies of the Bureau may require changes in the field of labor of
+                    an officer, the reasons for which an outsider and a stranger cannot understand.
+                    Both <abbr expan="Lieutenant">Lieut.</abbr> Cook and Mr. Tukey have been known
+                    to <abbr expan="General">Gen.</abbr> Brown much longer than you have known them.
+                    If there is anything wrong in reference to the schools, I shall be glad to learn
+                    precise what it is.</p>
+
+                <closer>
+                    <salute>I am very <abbr expan="Respectfully">Resp'y</abbr> Yours &amp;c</salute>
+                    <signed>R. M. Manly,<lb/><abbr expan="Superintendent">Sup.</abbr>
+                    Education</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

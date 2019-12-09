@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+
+<?dlps id="B1046"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % MANUSCRIPT "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+
+<TEI.2 id="B1046">
+    <teiHeader type="migrated">
+
+        <fileDesc>
+            <titleStmt>
+        <title type="main" id="VShadow">Freedmen's Bureau Records: Thomas P. Jackson to
+                    Orlando Brown, July 31, 1867</title>
+        <title type="sort">freedmens bureau records thomas p jackson to orlando brown, july 31 1867</title>
+        <author>Jackson, Thomas P.</author>
+        <editor/>
+        <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Desi Hopkins</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Desi Hopkins</name>
+                </respStmt>
+      </titleStmt>
+
+            <extent>ca. <num type="kilobytes">6</num>kilobytes</extent>
+            <publicationStmt>
+                <publisher>Virginia Center for Digital History</publisher>
+                <pubPlace>Charlottesville, Virginia </pubPlace>
+
+                <idno type="VCDH">B1046</idno>
+
+        <!--
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p n="public">URL: http://jefferson.village.virginia.edu/vshadow2/</p>
+                    <p>Text and images (c) copyright 2002, by the Rector and Visitors of the
+                        University of Virginia</p>
+                </availability>
+-->
+<availability status="public">
+          <p n="copyright">Copyright &#xa9; 2002 by the Rector and Visitors of the University of Virginia</p>
+          <p n="access">Publicly accessible</p>
+        </availability>
+                <date value="2002">2002</date>
+            <idno type="uva-pid">uva-lib:500914</idno>
+      </publicationStmt>
+            <seriesStmt>
+                <p>The Valley of the Shadow: Two Communities in the American Civil War</p>
+            </seriesStmt>
+      <seriesStmt>
+        <title>University of Virginia Library, Valley of the Shadow collection</title>
+        <idno type="uva-set">UVA-LIB-ValleyOfTheShadow</idno>
+      </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+            <title>Freedmen's Bureau Records: Thomas P. Jackson to Orlando Brown, July
+                            31, 1867</title>
+            <title level="m"/>
+            <title type="sort">freedmens bureau records thomas p jackson to orlando brown, july 31 1867</title>
+            <author>Thomas P. Jackson</author>
+            <editor/>
+            <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+          </titleStmt>
+                    <editionStmt>
+                        <p/>
+                    </editionStmt>
+                    <extent>1 pages</extent>
+                    <publicationStmt>
+                        <publisher/>
+                        <pubPlace/>
+                        <date value=""/>
+                        <idno type="callNo">Source copy consulted: National Archives and Records
+                            Administration, Records of the Assistant Commissioner for the State of
+                            Virginia, Bureau of Refugees, Freedmen and Abandoned Lands, 1865-1869,
+                            Record Group 105, M1048, roll 60.</idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p/>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note/>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Used with permission from National Archives and Records Administration</p>
+      </projectDesc>
+    </encodingDesc>
+
+        <profileDesc>
+            <creation>
+                <date value="1867-07-31">1867-07-31</date>
+            </creation>
+      <langUsage>
+        <language id="eng" usage="main">English</language>
+      </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Legal System, Women, Violence/Crime</term>
+                    <term>American Civil War</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+            <change>
+                <date value="2004-05">May, 2004</date>
+                <respStmt>
+                    <resp/>
+                    <name>Catherine S. Neale</name>
+                </respStmt>
+                <item>Proofread against original; corrections made.</item>
+            </change>
+        <change>
+        <date value="2008-07">January - July 2008</date>
+        <respStmt>
+          <name id="scholarly_resources">Scholarly Resources migration staff, University of Virginia Library</name>
+          <resp>Markup conversion</resp>
+        </respStmt>
+        <item>Converted markup (originally TEI Lite) to comply with the UVa Library TEI DTD (uva-dl-tei).</item>
+      </change>
+    </revisionDesc>
+    </teiHeader>
+
+    <text id="B1046T">
+        <front id="d2">
+            <div1 type="summary" id="d3">
+                <p>Jackson's report mentions two pending cases involving freedmen: one of attempted
+                    rape, and the other of disorderly conduct. </p>
+            </div1>
+        </front>
+
+        <body id="d4">
+            <div1 type="letter" id="d5">
+                <head>
+                    Bureau <abbr expan="Refugees, Freedmen and Abandoned Lands">R.F. &amp;
+                        A.L.</abbr><lb/>Office 4 <abbr expan="Division">Div.</abbr> 9 <abbr
+                            expan="Sub-District">S. Dist</abbr>
+                    <abbr expan="Virginia">Va</abbr>
+                    <name type="recipient"><abbr expan="Brigadeir General">Brig. Genl.</abbr> O.
+                            Brown<lb/><abbr expan="Assistant Commissioner">Asst. Comr</abbr> (Bureau
+                            <abbr expan="Refugees, Freedmen and Abandoned Lands">R.F. &amp;
+                        A.L.</abbr>)<lb/>Richmond (Through <abbr expan="Headquarters">H<hi
+                                rend="super">d</hi>Qrs</abbr> 9" <abbr expan="Sub-District">Sub Dist</abbr>
+                        <abbr expan="Virginia">Va</abbr>)</name>
+                </head>
+
+                <opener>
+                    <dateline>
+                        <date value="1867-07-31">July 31 <abbr expan="1867">/67</abbr></date>
+                        <name type="place">Staunton <abbr expan="Virginia">Va</abbr></name>
+                    </dateline>
+                    <salute>General</salute>
+                </opener>
+
+                <p>In compliance with the requirements of <abbr expan="Circular">C.</abbr>
+                    <abbr expan="Order">O.</abbr> No. 10 <abbr expan="Series">S.</abbr> 1866 (<abbr
+                        expan="Bureau of Refugees, Freedmen and Abandoned Lands">BRF &amp;
+                    A.L.</abbr>) I have the honor to report that during the month of July the county
+                    courts of Augusta and Highland counties have held brief sessions at which no
+                    important cases involving the rights of Freedmen were passed upon, save an
+                    indictment against Thomas Harris (<abbr expan="colored">col'd</abbr>) for
+                    attempted rape upon the person of two children, also colored. His counsel
+                    obtained a postponement to the February term, for the prisoner.</p>
+
+                <p>Several colored women arrested for disorderly conduct and unable to procure bail
+                    are in jail and their behavior is very bad, even in prison. It is to be
+                    regretted that hard labor cannot be added to imprisonment as the latter alone
+                    has no terror for them. </p>
+
+                <closer>
+                    <salute>I have the honor to be, General<lb/><abbr expan="Your obedient servant"
+                            >Yr obt. servt</abbr></salute>
+                    <signed><hi rend="underline"><abbr expan="Thomas">Tho<hi rend="super"
+                            >s</hi></abbr> P. Jackson</hi><lb/>Agent</signed>
+                </closer>
+            </div1>
+        </body>
+    </text>
+</TEI.2>
