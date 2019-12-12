@@ -23,7 +23,6 @@
 		"strings"
 		"path/filepath"
 		"github.com/gorilla/mux"	
-		"ValleySolr"
 		"html"
 		"regexp"
 		"strconv"
@@ -507,7 +506,7 @@
 			q.Set("start", fmt.Sprintf("%d",(50 * (current_page_int - 1)) - 50))
 			u.RawQuery = q.Encode()
 			if start >= 50 {
-				tmpstr += fmt.Sprintf(" <a href=\"%v/%v?%v\">Previous</a> ", ValleySolr.GetSiteUrl(), u.Path, u.RawQuery) 
+				tmpstr += fmt.Sprintf(" <a href=\"%v/%v?%v\">Previous</a> ", GetSiteUrl(), u.Path, u.RawQuery) 
 			} else {
 				tmpstr += " "
 			}
@@ -516,7 +515,7 @@
 	if current_page_int > 1 && current_page_int <= pagecount && pagecount > 1  {
 			q.Set("start", fmt.Sprintf("%d",(50 * (current_page_int - 1)) - 50))
 			u.RawQuery = q.Encode()
-			tmpstr += fmt.Sprintf(" <a href=\"%v/%v?%v\">Previous</a> ", ValleySolr.GetSiteUrl(), u.Path, u.RawQuery) 
+			tmpstr += fmt.Sprintf(" <a href=\"%v/%v?%v\">Previous</a> ", GetSiteUrl(), u.Path, u.RawQuery) 
 	} 
 		
 	tnum := 1
@@ -533,7 +532,7 @@
 		if current_page_int == tnum {
 			tmpstr += fmt.Sprintf(" %v ", tnum)
 		} else {
-			tmpstr += fmt.Sprintf("<a href=\"%v/%v?%v\">%v</a>", ValleySolr.GetSiteUrl(), u.Path, u.RawQuery, tnum) 
+			tmpstr += fmt.Sprintf("<a href=\"%v/%v?%v\">%v</a>", GetSiteUrl(), u.Path, u.RawQuery, tnum) 
 		}
 		
 		if tnum < pagecount {
@@ -546,7 +545,7 @@
 	if current_page_int < pagecount  {
 			q.Set("start", fmt.Sprintf("%d",(50 * (current_page_int + 1)) - 50))
 			u.RawQuery = q.Encode()
-			tmpstr += fmt.Sprintf(" <a href=\"%v/%v?%v\">Next</a> ", ValleySolr.GetSiteUrl(), u.Path, u.RawQuery) 
+			tmpstr += fmt.Sprintf(" <a href=\"%v/%v?%v\">Next</a> ", GetSiteUrl(), u.Path, u.RawQuery) 
 	}
 
 	return tmpstr
@@ -617,7 +616,7 @@
 
    		//fmt.Println("RQ = : " + qun)
 		//fmt.Println("raw_st = : " + m.Get("raw_st"))
-   		zz := ValleySolr.ConstructSolrQuery(qun + "&raw_st=" + m.Get("raw_st"))
+   		zz := ConstructSolrQuery(qun + "&raw_st=" + m.Get("raw_st"))
 	    //log.Println(" QS out from CSQ: " + zz)   		 
    	
   		// Make solr call
@@ -655,7 +654,7 @@
     	        os.Exit(1)
         }
 
-    	solrResponse, err := ValleySolr.SolrFromHTTP([]byte(string_contents))        
+    	solrResponse, err := SolrFromHTTP([]byte(string_contents))        
         if err != nil {
 			log.Println("SolrResponseFromHTTPResponse() failed. %v.", err)
 			log.Println("SolrResponseFromHTTPResponse() failed. %+v.", solrResponse)
@@ -667,7 +666,7 @@
 		//numdocs_returned := len(solrResponse.Response.Docs)
 		
 		//fmt.Println("right before pagination call:")
-		//fmt.Println(ValleySolr.GetSiteUrl())
+		//fmt.Println(GetSiteUrl())
 			
 	
 		tmpvar := write_pagination(alldocs_count, solrResponse.Response.Start, r1.URL.RequestURI())
