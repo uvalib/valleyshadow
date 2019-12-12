@@ -30,12 +30,30 @@ WORKDIR $APP_HOME
 RUN mkdir -p $APP_HOME $APP_HOME/bin $APP_HOME/scripts
 RUN chown -R webservice $APP_HOME && chgrp -R webservice $APP_HOME
 
-# run command
+# define port and startup script
+EXPOSE 8080
 CMD scripts/entry.sh
 
 # Move in necessary assets
 COPY package/data/container_bash_profile /home/webservice/.profile
 COPY package/scripts/entry.sh $APP_HOME/scripts/entry.sh
+COPY claims/ $APP_HOME/claims/
+COPY head/ $APP_HOME/head/
+COPY mem/ $APP_HOME/mem/
+COPY mod/ $APP_HOME/mod/
+COPY news/ $APP_HOME/news/
+COPY newspapers/ $APP_HOME/newspapers/
+COPY newspapers_pdfs/ $APP_HOME/newspapers_pdfs/
+COPY or/ $APP_HOME/or/
+COPY papers/ $APP_HOME/papers/
+COPY search/ $APP_HOME/search/
+COPY templates/ $APP_HOME/templates/
+COPY VoS/ $APP_HOME/VoS/
+
+# Ensure permissions are correct
+RUN chown -R webservice:webservice $APP_HOME/claims/ $APP_HOME/head/ $APP_HOME/mem/ $APP_HOME/mod/ $APP_HOME/news/ $APP_HOME/newspapers/ $APP_HOME/newspapers_pdfs/ $APP_HOME/or/ $APP_HOME/papers/ $APP_HOME/search/ $APP_HOME/templates/ $APP_HOME/VoS/
+
+# get the runnable asset
 COPY --from=builder /build/bin/valleyshadow.linux $APP_HOME/bin/valleyshadow
 
 # Ensure permissions are correct
