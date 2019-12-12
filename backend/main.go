@@ -288,7 +288,7 @@
 	
 	// Load from config eventually
 	func getsiteurl() string	{
-		return "http://localhost:8080"
+		return "http://valleyshadow.internal.lib.virginia.edu:8080"
 	}
 
 /*-----------------------------------------------------------------------------------*/

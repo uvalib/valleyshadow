@@ -55,7 +55,7 @@
        {{end}}
    {{ template "pagination" . }}
 
-        </center><br><center><a href="http://localhost:8080/VoS/choosepart.html"><img alt="" src="../VoS/images/graphics/full7.gif" border="0"></a></center>
+        </center><br><center><a href="../VoS/choosepart.html"><img alt="" src="../VoS/images/graphics/full7.gif" border="0"></a></center>
   </body>
 </html>
 
