@@ -220,7 +220,7 @@ func main() {
 
 	r := newRouter()
 	log.Println("Host " + os.Getenv("site_url") + " is listening on port " + os.Getenv("listen_port"))
-	log.Fatal(http.ListenAndServe(os.Getenv("listen_port"), r))
+	log.Fatal(http.ListenAndServe(fmt.Sprintf( ":%s", os.Getenv("listen_port")), r))
 }
 
 /* ===================================================================================
