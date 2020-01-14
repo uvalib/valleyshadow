@@ -46,6 +46,7 @@ import (
 
 func newRouter() *mux.Router {
 	r := mux.NewRouter()
+	r.HandleFunc("/", hndl_webroot_html)
 	r.HandleFunc("/news-topicitem/{period}/", hndl_news_topicitem_list_html)
 	r.HandleFunc("/news-calendar/", hndl_news_calendar)
 	r.HandleFunc("/news-calendar-pdfs/", hndl_news_calendar_pdfs)
@@ -656,6 +657,10 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 		Begin callback handlers for defined routes
 
 ====================================================================================*/
+
+func hndl_webroot_html(w http.ResponseWriter, r *http.Request) {
+	read_then_write_static_html(w, "../VoS/index.html")	
+}
 
 func hndl_news_calendar(w http.ResponseWriter, r *http.Request) {
 
