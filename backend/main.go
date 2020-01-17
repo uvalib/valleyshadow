@@ -63,39 +63,40 @@ func newRouter() *mux.Router {
 	r.HandleFunc("/dossier_record", hndl_dossier_record_html)
 	r.HandleFunc("/sc_record", hndl_sc_record_html)
 
-	staticFileDirectory_root := http.Dir("../VoS/")
+
+	staticFileDirectory_root := http.Dir("./VoS")
 	staticFileHandler_root := http.StripPrefix("/VoS/", http.FileServer(staticFileDirectory_root))
 	r.PathPrefix("/VoS/").Handler(staticFileHandler_root).Methods("GET")
 
-	staticFileDirectory_javascript := http.Dir("../javascript/")
-	staticFileHandler_javascript := http.StripPrefix("/javascript/", http.FileServer(staticFileDirectory_javascript))
-	r.PathPrefix("/javascript/").Handler(staticFileHandler_javascript).Methods("GET")
+	//staticFileDirectory_javascript := http.Dir("./javascript/")
+	//staticFileHandler_javascript := http.StripPrefix("/javascript/", http.FileServer(staticFileDirectory_javascript))
+	//r.PathPrefix("/javascript/").Handler(staticFileHandler_javascript).Methods("GET")
 
-	staticFileDirectory_css := http.Dir("../css/")
-	staticFileHandler_css := http.StripPrefix("/css/", http.FileServer(staticFileDirectory_css))
-	r.PathPrefix("/css/").Handler(staticFileHandler_css).Methods("GET")
+	//staticFileDirectory_css := http.Dir("./css/")
+	//staticFileHandler_css := http.StripPrefix("/css/", http.FileServer(staticFileDirectory_css))
+	//r.PathPrefix("/css/").Handler(staticFileHandler_css).Methods("GET")
 
-	staticFileDirectory_papers := http.Dir("../papers/")
+	staticFileDirectory_papers := http.Dir("./papers")
 	staticFileHandler_papers := http.StripPrefix("/papers/", http.FileServer(staticFileDirectory_papers))
 	r.PathPrefix("/papers/").Handler(staticFileHandler_papers).Methods("GET")
 
-	staticFileDirectory_mem := http.Dir("../mem/")
+	staticFileDirectory_mem := http.Dir("./mem/")
 	staticFileHandler_mem := http.StripPrefix("/mem/", http.FileServer(staticFileDirectory_mem))
 	r.PathPrefix("/mem/").Handler(staticFileHandler_mem).Methods("GET")
 
-	staticFileDirectory_claims := http.Dir("../claims/")
+	staticFileDirectory_claims := http.Dir("./claims/")
 	staticFileHandler_claims := http.StripPrefix("/claims/", http.FileServer(staticFileDirectory_claims))
 	r.PathPrefix("/claims/").Handler(staticFileHandler_claims).Methods("GET")
 
-	staticFileDirectory_or := http.Dir("../or/")
+	staticFileDirectory_or := http.Dir("./or/")
 	staticFileHandler_or := http.StripPrefix("/or/", http.FileServer(staticFileDirectory_or))
 	r.PathPrefix("/or/").Handler(staticFileHandler_or).Methods("GET")
 
-	staticFileDirectory_news := http.Dir("../news/")
+	staticFileDirectory_news := http.Dir("./news/")
 	staticFileHandler_news := http.StripPrefix("/news/", http.FileServer(staticFileDirectory_news))
 	r.PathPrefix("/news/").Handler(staticFileHandler_news).Methods("GET")
 
-	staticFileDirectory_newspapers_pdfs := http.Dir("../newspapers_pdfs/")
+	staticFileDirectory_newspapers_pdfs := http.Dir("./newspapers_pdfs/")
 	staticFileHandler_newspapers_pdfs := http.StripPrefix("/newspapers_pdfs/", http.FileServer(staticFileDirectory_newspapers_pdfs))
 	r.PathPrefix("/newspapers_pdfs/").Handler(staticFileHandler_newspapers_pdfs).Methods("GET")
 
@@ -219,9 +220,17 @@ func newRouter() *mux.Router {
 
 func main() {
 
+	dir, err := filepath.Abs(filepath.Dir(os.Args[0]))
+	 if err != nil {
+					 log.Fatal(err)
+	 }
+	 fmt.Println(dir)
+
 	r := newRouter()
 	log.Println("Host " + os.Getenv("site_url") + " is listening on port " + os.Getenv("listen_port"))
 	log.Fatal(http.ListenAndServe(fmt.Sprintf( ":%s", os.Getenv("listen_port")), r))
+
+
 }
 
 /* ===================================================================================
@@ -340,7 +349,7 @@ func read_then_write_static_html(ww http.ResponseWriter, tgt string) {
 		ww.Write(data)
 	} else {
 		ww.WriteHeader(404)
-		ww.Write([]byte("HTTP 404  - " + http.StatusText(404)))
+		ww.Write([]byte("HTTP 404a  - " + http.StatusText(404)))
 	}
 
 }
@@ -514,7 +523,7 @@ func write_pagination(allcount int, start int, current_url string) string {
 func load_html_template(w2 http.ResponseWriter, r2 *http.Request, tpl string) {
 
 	cwd, _ := os.Getwd()
-	fname := filepath.Join(cwd, "../templates/*.tpl")
+	fname := filepath.Join(cwd, "./templates/*.tpl")
 
 	fmap := template.FuncMap{
 		"noescape":   noescape,
@@ -586,8 +595,8 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 
 	}
 
-	clean_string := html.UnescapeString(string_contents)
-	fmt.Println("CLEAN:" + clean_string)
+	//clean_string := html.UnescapeString(string_contents)
+	//fmt.Println("CLEAN:" + clean_string)
 
 	//THIS IS WORKING on bytes - save
 	//replaceall := bytes.Replace(contents, []byte(m.Get("raw_st")), []byte(em_string), -1)
@@ -625,7 +634,7 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	}
 
 	cwd, _ := os.Getwd()
-	fname := filepath.Join(cwd, "../templates/*.tpl")
+	fname := filepath.Join(cwd, "./templates/*.tpl")
 
 	fmap := template.FuncMap{
 		"noescape":   noescape,
@@ -659,13 +668,14 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 ====================================================================================*/
 
 func hndl_webroot_html(w http.ResponseWriter, r *http.Request) {
-	read_then_write_static_html(w, "../VoS/index.html")	
+	fmt.Println("WEBROOT FIRED!")
+	read_then_write_static_html(w, "./VoS/index.html")
 }
 
 func hndl_news_calendar(w http.ResponseWriter, r *http.Request) {
 
 	param1 := r.URL.Query().Get("paper")
-	target := "../news/newspaper_calendar_" + param1 + ".html"
+	target := "./news/newspaper_calendar_" + param1 + ".html"
 	read_then_write_static_html(w, target)
 
 }
@@ -678,7 +688,7 @@ func hndl_news_calendar(w http.ResponseWriter, r *http.Request) {
 func hndl_news_calendar_pdfs(w http.ResponseWriter, r *http.Request) {
 
 	param1 := r.URL.Query().Get("paper")
-	target := "../news/news_calendar_pdf_" + param1 + ".html"
+	target := "./news/news_calendar_pdf_" + param1 + ".html"
 	read_then_write_static_html(w, target)
 
 }
@@ -691,7 +701,7 @@ func hndl_news_calendar_pdfs(w http.ResponseWriter, r *http.Request) {
 func hndl_newspaper_pdfs(w http.ResponseWriter, r *http.Request) {
 
 	param1 := r.URL.Query().Get("paper")
-	target := "../newspapers_pdfs" + param1 + ".pdf"
+	target := "./newspapers_pdfs" + param1 + ".pdf"
 	read_then_write_static_html(w, target)
 
 }
@@ -705,7 +715,7 @@ func hndl_news_xml(w http.ResponseWriter, r *http.Request) {
 
 	vars := mux.Vars(r)
 	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
-	target := "../news/" + vars["paper_year"] + "/" + filename_noext + ".html"
+	target := "./news/" + vars["paper_year"] + "/" + filename_noext + ".html"
 
 	read_then_write_static_html(w, target)
 
@@ -720,7 +730,7 @@ func hndl_or_xml(w http.ResponseWriter, r *http.Request) {
 
 	vars := mux.Vars(r)
 	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
-	target := "../or/" + filename_noext + ".html"
+	target := "./or/" + filename_noext + ".html"
 	read_then_write_static_html(w, target)
 
 }
@@ -735,7 +745,7 @@ func hndl_papers_xml(w http.ResponseWriter, r *http.Request) {
 	vars := mux.Vars(r)
 
 	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
-	target := "../papers/" + filename_noext + ".html"
+	target := "./papers/" + filename_noext + ".html"
 	read_then_write_static_html(w, target)
 
 }
@@ -749,7 +759,7 @@ func hndl_head_xml(w http.ResponseWriter, r *http.Request) {
 
 	vars := mux.Vars(r)
 	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
-	target := "../head/" + filename_noext + ".html"
+	target := "./head/" + filename_noext + ".html"
 	read_then_write_static_html(w, target)
 
 }
@@ -763,7 +773,7 @@ func hndl_mod_xml(w http.ResponseWriter, r *http.Request) {
 
 	vars := mux.Vars(r)
 	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
-	target := "../mod/" + filename_noext + ".html"
+	target := "./mod/" + filename_noext + ".html"
 	read_then_write_static_html(w, target)
 
 }
@@ -777,7 +787,7 @@ func hndl_mem_xml(w http.ResponseWriter, r *http.Request) {
 
 	vars := mux.Vars(r)
 	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
-	target := "../mem/" + filename_noext + ".html"
+	target := "./mem/" + filename_noext + ".html"
 	read_then_write_static_html(w, target)
 
 }
@@ -791,7 +801,7 @@ func hndl_claims_xml(w http.ResponseWriter, r *http.Request) {
 
 	vars := mux.Vars(r)
 	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
-	target := "../claims/" + filename_noext + ".html"
+	target := "./claims/" + filename_noext + ".html"
 	read_then_write_static_html(w, target)
 
 }
@@ -951,7 +961,7 @@ func hndl_news_topics_index_html(w http.ResponseWriter, r *http.Request) {
 
 	vars := mux.Vars(r)
 	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
-	target := "../news/" + filename_noext + "topics.html"
+	target := "./news/" + filename_noext + "topics.html"
 
 	read_then_write_static_html(w, target)
 
@@ -972,7 +982,7 @@ func hndl_news_topicitem_index_html(w http.ResponseWriter, r *http.Request) {
 	//p2 := vars["p2"]
 	//fmt.Printf("p1 : %v : p2 : %v", p1, p2)
 
-	target := "../news-topicitem/" + filename_noext + "topics.html"
+	target := "./news-topicitem/" + filename_noext + "topics.html"
 
 	read_then_write_static_html(w, target)
 
@@ -990,7 +1000,7 @@ func hndl_news_topicitem_list_html(w http.ResponseWriter, r *http.Request) {
 	area := r.URL.Query().Get("area")
 
 	period := strings.TrimSuffix(vars["period"], filepath.Ext(vars["period"]))
-	target := "../news/" + period + "_" + list + "_" + area + ".html"
+	target := "./news/" + period + "_" + list + "_" + area + ".html"
 	read_then_write_static_html(w, target)
 
 }

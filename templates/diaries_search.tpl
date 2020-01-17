@@ -2,12 +2,12 @@
 <head>
  <title>Valley of the Shadow: Diaries</title>
  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
- <meta content="The Valley of the Shadow is an electronic archive of two communities 
- in the American Civil War--Augusta County, Virginia, and Franklin County, Pennyslvania. 
+ <meta content="The Valley of the Shadow is an electronic archive of two communities
+ in the American Civil War--Augusta County, Virginia, and Franklin County, Pennyslvania.
  The Valley Web site includes searchable newspapers, population census data, agricultural
- census data, manufacturing census data, slaveowner census data, and tax records. 
- The Valley Web site also contains letters and diaries, images, maps, church records, 
- and military rosters. The Valley project is a University ofVirginia research project 
+ census data, manufacturing census data, slaveowner census data, and tax records.
+ The Valley Web site also contains letters and diaries, images, maps, church records,
+ and military rosters. The Valley project is a University ofVirginia research project
  funded in part by the National Endowment of the Humanities."
  name="description" />
  <!--   The Valley of the Shadow is an electronic archive of two communities
@@ -18,29 +18,29 @@
  diaries, images, maps, church records, and military rosters.  The Valley Project is a
  University of Virginia research project funded in part by the National
  Endowment for the Humanities. -->
- <meta content="United States Civil War American history Virginia Pennsylvania military 
+ <meta content="United States Civil War American history Virginia Pennsylvania military
  geneology archive" name="keywords" />
- 
+
  <link rel="icon" type="image/png" href="../VoS/favicon.ico" />
- <link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css" />   
+ <link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css" />
  <script type="text/javascript" src="../VoS/javascript/jquery-1.2.1.js" ></script>
  <script type="text/javascript" src="../VoS/javascript/diaries_search.js"></script>
- <script type="text/javascript" src="../VoS/javascript/generic_search_paging.js"></script> 
- <style> 
+ <script type="text/javascript" src="../VoS/javascript/generic_search_paging.js"></script>
+ <style>
 		body { padding: 2em; align:center;}
-		.highlightme { background-color: yellow; } 
-		.noresults { font-size: 16px; margin: 10px 0 10px 0; } 
-		.currentShowing { width: 100px; text-align: center; padding: 0 10px 0 10px; } 
-		.previousPage { width: 250px; text-align: right; } 
-		.nextPage { width: 250px; text-align: left; } 
-		#resultSummary { padding: 5px 0 5px 0; border-top: 1px solid #c6c6c6; border-bottom: 1px solid #c6c6c6; } 
+		.highlightme { background-color: yellow; }
+		.noresults { font-size: 16px; margin: 10px 0 10px 0; }
+		.currentShowing { width: 100px; text-align: center; padding: 0 10px 0 10px; }
+		.previousPage { width: 250px; text-align: right; }
+		.nextPage { width: 250px; text-align: left; }
+		#resultSummary { padding: 5px 0 5px 0; border-top: 1px solid #c6c6c6; border-bottom: 1px solid #c6c6c6; }
 		#returnPage { width: 65%; }
-		#topNavig { text-align: center; margin: 5px 0 5px 0; } 
-		#bottomNavig { text-align: center; margin: 5px 0 5px 0; } 
-		#jumpPages { padding: 5px 0 5px 0; border-top: 1px solid #c6c6c6; } 
+		#topNavig { text-align: center; margin: 5px 0 5px 0; }
+		#bottomNavig { text-align: center; margin: 5px 0 5px 0; }
+		#jumpPages { padding: 5px 0 5px 0; border-top: 1px solid #c6c6c6; }
 		#resultReturns { clear: both; }
-		.warning{font-weight:bold; padding:5px; color:#000099;} 
-		.red-head {color: #990000; font-family: times, serif; font-weight: bold; } 
+		.warning{font-weight:bold; padding:5px; color:#000099;}
+		.red-head {color: #990000; font-family: times, serif; font-weight: bold; }
 		#form { text-align: left; width: 80%;}
  </style>
 </head>
@@ -87,7 +87,7 @@
 <input type="submit" value="Submit Query" id="search_button"><input type="reset" value="Clear"><br>
 </div>
 <hr>
-<center><a href="VoS/choosepart.html"><img src="../VoS/images/graphics/full7.gif" border="0" alt=""></a></center>
+<center><a href="../VoS/choosepart.html"><img src="../VoS/images/graphics/full7.gif" border="0" alt=""></a></center>
 </div>
 </form> </div>
 </body>
