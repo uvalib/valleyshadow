@@ -4,7 +4,7 @@
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><style type="text/css"> table#dossier * td { color: #990000; } table#dossier tr.data td { color: #000000;  } table#dossier tr.data td p.item { border: none; padding:5px 0 5px 0; margin:0} </style><title>Record for Wllliam George Abney</title>
   <link rel="icon" type="image/png" href="../VoS/favicon.ico" />
-  <link type="text/css" rel="stylesheet" href="../VoS/css/valleyshadow.css" />   
+  <link type="text/css" rel="stylesheet" href="../VoS/css/valleyshadow.css" />
 
    </head>
    <body vlink="#00009c" bgcolor="#ffffff" link="#cd7f32">
@@ -32,8 +32,8 @@
                <p class="item"><b>Name:</b> {{ .first }} {{ .last }} <br></p>
                <p class="item"><b>Birth Place:</b> {{ .birth_place }}<br></p>
                <p class="item"><b>Date of Birth:</b> 8/31/1840<br></p>
-               <p class="item"><b>Physical Description:</b> Height 5'10", eyes dark, hair dark, complexion dark.<br></p>
-               <p class="item"><b>Prewar Life:</b> 1860 Census, Farmhand, age 19, 1st District, Augusta Co.
+               <p class="item"><b>Physical Description:</b> <br></p>
+               <p class="item"><b>Prewar Life:</b> 
                </p>
             </td>
             <td valign="top" align="left">
@@ -41,7 +41,7 @@
                <p class="item"><b>Place of Enlistment:</b> {{ .place_enl}}<br></p>
                <p class="item"><b>Age at Enlistment:</b> <br></p>
                <p class="item"><b>Occupation at Enlistment:</b>Farmer <br></p>
-               <p class="item"><b>Conscript or Substitute:</b> 
+               <p class="item"><b>Conscript or Substitute:</b>
                </p>
             </td>
          </tr>
@@ -67,8 +67,8 @@
                <p class="item"><b>AWOL:</b>  <br></p>
                <p class="item"><b>Deserted:</b>  <br></p>
                <p class="item"><b>Discharge:</b>  <br></p>
-               <p class="item"><b>Paroled:</b> Appomattox Courthouse 4/9/1865<br></p>
-               <p class="item"><b>Notes:</b> 
+               <p class="item"><b>Paroled:</b> <br></p>
+               <p class="item"><b>Notes:</b>
                </p>
             </td>
          </tr>
@@ -82,7 +82,7 @@
                <p class="item"><b>Killed in Action:</b>   <br></p>
                <p class="item"><b>Wounded in Action:</b> Gaines Mill, severely in side; Chancellorsville 05-03-1863; Wilderness, slightly in ear 05-05-1864 6/27/1862<br></p>
                <p class="item"><b>Hospital:</b> <br></p>
-               <p class="item"><b>Died of Wounds:</b>  
+               <p class="item"><b>Died of Wounds:</b>
                </p>
             </td>
             <td valign="top" align="left">
@@ -95,7 +95,7 @@
                <p class="item"><b>Date of Death:</b> 9/3/1917<br></p>
                <p class="item"><b>Cause of Death:</b> <br></p>
                <p class="item"><b>Burial Place:</b> Thornrose Cemetery Staunton<br></p>
-               <p class="item"><b>Epitaph:</b> 
+               <p class="item"><b>Epitaph:</b>
                </p>
             </td>
          </tr>

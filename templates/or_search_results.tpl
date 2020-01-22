@@ -12,20 +12,20 @@
 			.red-head {color: #990000; font-family: times, serif; font-weight: bold; }
 			span.pagingNav { padding: 5px 25px 5px 25px; border: none; }
 		</style>
-	  <link type="text/css" rel="stylesheet" href="../VoS/css/valleyshadow.css" />   
+	  <link type="text/css" rel="stylesheet" href="../VoS/css/valleyshadow.css" />
       <link rel="icon" type="image/png" href="../VoS/favicon.ico" />
-			
+
 		</head>
    <body>
       <center><img border="0" src="../VoS/images/images/vtitle4.gif"><h2 class="red-head">Search the Valley Official Records</h2>
-         <div style="padding-bottom:1em;" id="resultSummary"> 
+         <div style="padding-bottom:1em;" id="resultSummary">
         {{ template "pagination" .  }}
 
          </div>
          <div id="resultReturns">
-            
+
             {{range .Docs}}
-            <div style="padding-bottom:20px;width:80%;text-align:left;"><a href="or/R0084">{{ .title }}</a><br><b>Context: </b>...
+            <div style="padding-bottom:20px;width:80%;text-align:left;"><a href="or/{{ .id }}">{{ .title }}</a><br><b>Context: </b>...
             <span class="context">{{  printf "%.1000s" .fulltext 	}}</span>...
             </div>
 
