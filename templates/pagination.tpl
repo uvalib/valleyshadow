@@ -1,7 +1,7 @@
 
 {{ define "pagination" }}
-<div style="text-align:center; width:79%" >
-	<div>{{ .NumFound}} Results Found 
+<div class="pagination-div" >
+	<div>{{ .NumFound}} Results Found
 	</br>
 	<div>{{ noescape .ST }}</div>
 	</br>

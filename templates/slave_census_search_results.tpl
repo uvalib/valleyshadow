@@ -8,11 +8,12 @@
 			p.query { font-family: arial; }
 			p.no-results { font-family: arial; text-align: center; padding: 3em 0 5em 0;}
 		</style>
-				<script src="../VoS/javascript/generic_search_paging.js" type="text/javascript"></script>		
+       <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
+				<script src="../VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
 				<link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">
 				<link rel="icon" type="image/png" href="../VoS/favicon.ico" />
         <script src="../VoS/javascript/census-thickbox.js" type="text/javascript"></script>
-		
+
 		</head>
    <body>
       <center><img src="../VoS/images/images/vtitle4.gif"><h1><font color="#990000">
@@ -47,10 +48,10 @@
          </tr>
 
  		{{range .Docs}}
-         
+
          <tr>
             <tr>
-               <td><a class="thickbox" href="/sc_record?q=db:{{ .db }} AND id_num:{{ .id_num }}">{{ .last }}</a></td>
+               <td><a class="thickbox" href="/sc_record?q=db:{{ .db }} AND id_num:{{ .id_num }}&start=0">{{ .last }}</a></td>
                <td>{{ .first }}</td>
                <td>{{ .location }}</td>
                <td>{{ .employer }}</td>
@@ -62,9 +63,9 @@
                <td>{{ .mulatto_slaves }}</td>
             </tr>
          </tr>
-         
+
          {{ end }}
-        
+
       </table>
       <center>
          <div style="width:100%;padding-top:10px;padding-bottom:10px;">

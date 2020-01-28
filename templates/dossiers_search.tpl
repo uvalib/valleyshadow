@@ -3,13 +3,13 @@
 <html>
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-      <title>Valley of the Shadow: Soldiers' Records Search</title><style> .red-head {color: #990000; font-family: times, serif; font-weight: bold; } .warning{font-weight:bold; padding:5px; color:#000099;} 
+      <title>Valley of the Shadow: Soldiers' Records Search</title><style> .red-head {color: #990000; font-family: times, serif; font-weight: bold; } .warning{font-weight:bold; padding:5px; color:#000099;}
 				</style><script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
 				<script src="../VoS/javascript/dossiers_search.js" type="text/javascript"></script>
 				<script src="../VoS/javascript/generic_search_paging.js" type="text/javascript"></script></head>
-	  <link type="text/css" rel="stylesheet" href="../VoS/css/valleyshadow.css" />   
+   	  <link type="text/css" rel="stylesheet" href="../VoS/css/valleyshadow.css" />
       <link rel="icon" type="image/png" href="../VoS/favicon.ico" />
-				
+
    <body VLINK="#00009C" LINK="#CD7F32" BGCOLOR="FFFFFF" TEXT="#000000">
       <div id="no-javascript" style="width:100%;text-align:center;">
          <h3 class="warning">This page requires Javascript.  Please ensure that you have enabled Javascript in your browser's preferences</h3>
@@ -47,7 +47,7 @@
                   <blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
                      									substituted for any number of characters at the middle
                      									or back of a word. Please see <a href="../VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
-                     									full explanation. 
+                     									full explanation.
                   </blockquote>
                </td>
             </tr>
@@ -69,7 +69,7 @@
                      <td align="left"><input size="20" name="first_name"></td>
                   </tr>
                   <tr bgcolor="#ffcc99">
-                     <td colspan="4" valign="center" bgcolor="#ffcc99"><font class="red-head">Enlistment Information</font></td>
+                     <td colspan="4" valign="center" bgcolor="#ffcc9"><font class="red-head">Enlistment Information</font></td>
                   </tr>
                   <tr>
                      <td align="right"><b>Date Enlisted:</b></td>

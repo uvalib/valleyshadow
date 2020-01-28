@@ -574,6 +574,7 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	zz := ConstructSolrQuery(qun + "&raw_st=" + m.Get("raw_st"))
 	//log.Println(" QS out from CSQ: " + zz)
 
+
 	// Make solr call
 	response, err := http.Get(zz)
 
@@ -585,6 +586,12 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	defer response.Body.Close()
 
 	contents, err := ioutil.ReadAll(response.Body)
+
+
+	startval, err := strconv.Atoi(m.Get("start"))
+	if err != nil {
+		startval = 0
+	}
 
 	if m.Get("raw_st") != "" {
 		rx := regexp.MustCompile("(?i)" + m.Get("raw_st"))
@@ -623,6 +630,7 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	//fmt.Println("right after pagination call:" + html.UnescapeString(tmpvar) + "\n")
 
 	solrResponse.Response.ST = html.UnescapeString(tmpvar)
+	solrResponse.Response.Start = startval
 	solrResponse.Response.CURSOR = solrResponse.Response.Start + 50
 	solrResponse.Response.QS = qun
 

@@ -2,22 +2,21 @@
   PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
    <head>
-      <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-      <title>Valley of the Shadow: Census Search Results</title><style> body { padding:1em; }
-					.red-head {color: #990000; font-family: times, serif; font-weight: bold }
-					.warning {font-weight:bold; padding:5px; color:#000099; background-color:#FFFFFF;} 
-					table.record { padding:2em; width: auto; border:none; } 
-					table.record * td { padding: 5px; } 
+      <title>Valley of the Shadow: Census Search Results</title><style>
+
 					table.record * th { background: #ffcc99; vertical-align: top; padding: 10px;}
 					td.left { text-align: right; }
 					td.right { text-align: left; }
 					td.race { color: #990000; }
-					td.gender { color: #000099;} 
+					td.gender { color: #000099;}
 				</style>
-				
+        <link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">
+        <link rel="icon" type="image/png" href="../VoS/favicon.ico" />
+        <script src="../VoS/javascript/census-thickbox.js" type="text/javascript"></script>
+
 				</head>
    <body vlink="#00009C" link="#CD7F32" bgcolor="#FFFFFF">
-      <center><img src="VoS/redesign/images/vtitle4.gif"></center>
+      <center><img src="../VoS/images/images/vtitle4.gif"></center>
       <h1 class="red-head">
          <center>Augusta County, Virginia, 1860 Slaveowners Census Census </center>
       </h1><br><p><b>Please cite results as coming from:</b> Augusta County, Virginia, 1860
@@ -72,6 +71,6 @@
       </table>
       <p><a href="javascript:history.go(-1)">go back to search results page</a><br><a href="slave_census">New Search</a></p>
       <hr width="80%">
-      <center><a href="VoS/choosepart.html"><img alt="" border="0" src="VoS/graphics/full7.gif"></a></center>
-   <script src="http://valley.lib.virginia.edu/javascript/libtools.js" type="text/javascript"></script></body>
+      <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="../VoS/images/graphics/full7.gif"></a></center>
+   <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>
