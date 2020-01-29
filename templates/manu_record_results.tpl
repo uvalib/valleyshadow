@@ -3,21 +3,10 @@
 <html xmlns:cinclude="http://apache.org/cocoon/include/1.0">
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-      <title>Valley of the Shadow: Census Search Results</title><style> body { padding:1em; }
-					.red-head {color: #990000; font-family: times, serif; font-weight: bold }
-					.warning {font-weight:bold; padding:5px; color:#000099; background-color:#FFFFFF;} 
-					table.record { padding:2em; width: auto; border:none; } 
-					table.record * td { padding: 5px; } 
-					table.record * th { background: #ffcc99; vertical-align: top; padding: 10px;}
-					td.left { text-align: right; }
-					td.right { text-align: left; }
-					td.race { color: #990000; }
-					td.gender { color: #000099;}
-					p.citation-help { padding-left: 3em; padding-right: 3em; border: none;}
-				</style>
+      <title>Valley of the Shadow: Census Search Results</title>
 				<link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">
 				<link rel="icon" type="image/png" href="../VoS/favicon.ico" />
-				
+
 				</head>
    <body vlink="#00009C" link="#CD7F32" bgcolor="#FFFFFF">
       <center><img src="../VoS/images/images/vtitle4.gif"></center>
@@ -25,12 +14,12 @@
             <center>Augusta County - 1860
                							Manufacturing Census
             </center></font></h1>
-      <p class="citation-help"><b>Please cite results as coming from:</b>Augusta County, Virginia, 1860 Manufacturing Census, Valley of
+      <p class="citation-help"><b>Please cite results as coming from:</b>Augusta County, Virginia, 1860 Manufacturing Census</br> Valley of
          					the Shadow: Two Communities in the American Civil War, Virginia Center for
          					Digital History, University of Virginia
          					<br>(http://valley.lib.virginia.edu/manu_record?db:man_aug_60 AND name:burke AND id_num:1).
       </p>
-      <p><b>Please cite results as coming from:</b>{{ getcounty .County }} County, {{ getyear .Year}}, {{ getyear .Year }} Manufacturing Census, Valley of
+      <p class="citation-help"><b>Please cite results as coming from:</b>{{ getcounty .County }} County, {{ getyear .Year}}, {{ getyear .Year }} Manufacturing Census, Valley of
          					the Shadow: Two Communities in the American Civil War, Virginia Center for
          					Digital History, University of Virginia</br>
          					({{ getsiteurl }}/{{ .QS }}).</p>

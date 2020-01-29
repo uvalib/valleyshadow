@@ -15,7 +15,7 @@
          </center>
       </h1>
       <div class="cite-results-banner">
-      <p><b>Please cite results as coming from: </b>{{ getcounty .County }} County, {{ getyear .Year}}, {{ getyear .Year }} Manufacturing Census.</br> Valley of
+      <p><b>Please cite results as coming from: </b>{{ getcounty .County }} County, {{ getstate .County }} - {{ getyear .Year }} Manufacturing Census.</br> Valley of
          					the Shadow: Two Communities in the American Civil War, Virginia Center for
          					Digital History, University of Virginia</br>
          					({{ getsiteurl }}/{{ .QS }}).
@@ -24,6 +24,7 @@
       <div class="cite-results-banner">
         {{ template "pagination" . }}
       </div>
+      {{ . }}
       <table border="1px" style="width:100%;text-align:center;">
          <tr>
             <tr>
@@ -40,8 +41,9 @@
          </tr>
       {{range .Docs}}
 
+
          <tr>
-            <td><a class="thickbox" href="/manu_record?q=db:{{ .db }} AND id_num:{{ .id_num }}&start=0">{{ .name }}</a></td>
+            <td><a class="thickbox" href="/manu_record?q=db:{{ .db }} AND id_num:{{ .id_num }}&start=0&county={{ .County }}">{{ .name }}</a></td>
             <td>{{ .business }}</td>
             <td>{{ .location }}</td>
             <td>{{ .kinds_annual }}</td>

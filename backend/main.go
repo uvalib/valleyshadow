@@ -274,10 +274,16 @@ func getyear(str string) string {
 	var answer = ""
 
 	switch strings.ToLower(str) {
+	case "60":
+		answer = "1860"
+	case "1860":
+		answer = "1860"
+	case "1870":
+		answer = "1870"
 	case "70":
 		answer = "1870"
 	case "80":
-		answer = "1870"
+		answer = "1880"
 	}
 	return answer
 }
@@ -402,6 +408,8 @@ func calculate_current_pagenumber(c string) int {
 		current_page = 1
 		return current_page
 	}
+	//fmt.Println("ccp start = " +  c)
+
 	cursor, err := strconv.Atoi(c)
 	if err != nil {
 		current_page = 1
@@ -585,9 +593,20 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 
 	defer response.Body.Close()
 
+
+	//fmt.Println("pre start = " + m.Get("start"))
+
+	if m.Get("start") == ""  {
+		m.Set("start", "0")
+	}
+
 	contents, err := ioutil.ReadAll(response.Body)
 
+	//fmt.Println("post start = " + m.Get("start"))
 
+
+
+	//fmt.Printf("start = %v", m.Get("start"))
 	startval, err := strconv.Atoi(m.Get("start"))
 	if err != nil {
 		startval = 0
@@ -637,9 +656,12 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	if m.Get("county") != "" {
 		solrResponse.Response.County = m.Get("county")
 	}
+	fmt.Println("county=" + m.Get("county"))
 	if m.Get("year") != "" {
 		solrResponse.Response.Year = m.Get("year")
 	}
+	fmt.Println("year=" + m.Get("year"))
+
 
 	cwd, _ := os.Getwd()
 	fname := filepath.Join(cwd, "./templates/*.tpl")
@@ -676,7 +698,6 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 ====================================================================================*/
 
 func hndl_webroot_html(w http.ResponseWriter, r *http.Request) {
-	fmt.Println("WEBROOT FIRED!")
 	read_then_write_static_html(w, "./VoS/index.html")
 }
 

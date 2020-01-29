@@ -104,6 +104,10 @@ func ConstructSolrQuery(x string) string {
 	}
 	m, _ := url.ParseQuery(qun)
 
+	if m.Get("start") == "" {
+		m.Set("start", "0")
+
+	}
 	params := url.Values{}
 	params.Add("q", m.Get("q"))
 	params.Add("rows", "50")

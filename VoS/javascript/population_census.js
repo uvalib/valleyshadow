@@ -1,28 +1,28 @@
 $(document) .ready(function () {
-    
+
     /* disable submit click event propagation to prevent conflict with form submit event */
     $('#search_button').click( function (event) {
         event.stopPropagation();
-       // event.preventDefault(); 
+       // event.preventDefault();
     });
     $('#search_button').submit( function (event) {
         event.stopPropagation();
-        event.preventDefault(); 
+        event.preventDefault();
     });
-    
+
     /* a single object should store our query fields */
     var solrQuery = {
         database : ''
     };
-    
+
     /* if due to reload we have no checked year or county, correct this */
-    if ( !($('#year_cell') .children("input:checked") .attr('value')) ) { 
+    if ( !($('#year_cell') .children("input:checked") .attr('value')) ) {
         $('#year_cell input#year_1860').attr({checked: 'checked'});
-    } 
-    if ( !($('#county_cell') .children("input:checked") .attr('value')) ) { 
+    }
+    if ( !($('#county_cell') .children("input:checked") .attr('value')) ) {
         $('#county_cell input#county_augusta').attr({checked: 'checked'});
-    } 
-        
+    }
+
     // a function to lowercase string (regardless of contents) and put quotes around non-wildcard search strings, if whitespace is present
     function checkQuery(item) {
         var newQuery = item.attr('value').toLowerCase();
@@ -32,14 +32,14 @@ $(document) .ready(function () {
             newQuery = '"' + newQuery + '"';
         }
         return newQuery;
-    }; 
-	
+    };
+
 
     var queryString; // constructor variable for 'q' param, which will pass all solr search fields
     var solrParams = {
         year   : $('#year_cell') .children("input:checked") .attr('value'),
         county : $('#county_cell') .children("input:checked") .attr('value'),
-        sort   : 'last asc, first asc' 
+        sort   : 'last asc, first asc'
 
     }; // other params passed via GET method to next pipeline
     /*
@@ -57,7 +57,7 @@ $(document) .ready(function () {
         $('#objectInspector') .append('<p><b>"Color" radio button: ' + $('input[name="colors"]:checked') .val() + '</b></p>');
         $('#objectInspector') .append('<p><b>q: ' + $('input#query').attr('value') + '</b></p>');
         $('#objectInspector') .append('<p><i>form action ' + $('form#basic_census').attr('action') + '</i></p>');
-      
+
     };
     */
     function buildQuery(obj) {
@@ -65,7 +65,7 @@ $(document) .ready(function () {
             for (key in obj) {
             if ( key != 'county' ) {
                 if ( qString == '' || key == 'age' ) {
-                    qString += obj[key]; } 
+                    qString += obj[key]; }
                 else if (key.substr(0,4) != ' AND' ) {
                 	qString += ' ' + obj[key];
                 }
@@ -76,7 +76,7 @@ $(document) .ready(function () {
         }
         return qString;
     };
-    
+
     /* declare variables */
 
     var persests_range = '';
@@ -90,7 +90,7 @@ $(document) .ready(function () {
     if ( year == 'undefined' ) { year='1860'; }
     var county = $('#county_cell') .children("input:checked") .attr('value');
     var db = validateDB(year, county);  // validate this var immediately -- it will be used in all solr queries
-    
+
     /* helper function to add fields to our query object */
     function addSQfield(node) {
         var nodeName = $(node) .attr('name');
@@ -104,7 +104,7 @@ $(document) .ready(function () {
         solrQuery[nodeName] = nodeVal;
         // inspectSQ();
     };
-    
+
     /* changes form action URL if 'both' radio button is selected */
     function validateFormAction(y) {
         var year = y;
@@ -119,7 +119,7 @@ $(document) .ready(function () {
         }
         // inspectSQ();
     };
-    
+
     /* sets the db field (and db1 and db2 in cases of dual census search */
     function validateDB(y, c) {
         var database = 'indeterminate db field!';
@@ -154,28 +154,28 @@ $(document) .ready(function () {
         solrQuery.database = database;
         return database;
     };
-    
-    
+
+
     $('input[name="sex"]') .click(function () {
         addSQfield($(this));
     });
-    
+
     $('input[name="colors"]').click(function () {
         addSQfield($(this));
     });
-    
+
     $('select#result_order') .change(function () {
         solrParams.sort = $('select#result_order').attr('value');
     });
-    
+
     /* Do some validation on document ready */
     validateFormAction(year);
     db = validateDB(year, county);
-    
+
 //    queryString = buildQuery(solrQuery);
 
     /* Make sure you amend the form action when switching the 'year' radio buttons: the 'both' value alters the URL!!  */
-    
+
     $('td#year_cell input') .click(function () {
         $('td#year_cell input') .removeAttr("checked");
         $(this) .attr({
@@ -186,7 +186,7 @@ $(document) .ready(function () {
         db = validateDB(solrParams['year'], solrParams['county']);
         // inspectSQ();
     });
-    
+
     $('td#county_cell input') .click(function () {
         $('td#county_cell input') .removeAttr('checked');
         $(this) .attr({
@@ -196,7 +196,7 @@ $(document) .ready(function () {
         db = validateDB(solrParams['year'], solrParams['county']);
         // inspectSQ();
     });
-    
+
     /* Hitting <RETURN> in this text field submits the form */
     $('input.text') .keydown(function (e) {
         if (e.keyCode == 13) {
@@ -204,12 +204,12 @@ $(document) .ready(function () {
             return false;
         }
     });
-    
+
     /* form validation - called on document.ready and form.submit events */
     function validateForm(y) {
         var whatShouldIdo = false;
         var year= y;
-        // add any text fields to main query object    
+        // add any text fields to main query object
         $('input.text').each( function() {
             var myId = $(this).attr('id');
             if ( $(this).val() != '' && $(this).val() != 'undefined' ) {
@@ -218,7 +218,7 @@ $(document) .ready(function () {
             delete solrQuery[myId];
             }
         });
-        
+
         var age = $('#age') .attr('value');
         var age_range = '';
 
@@ -237,7 +237,7 @@ $(document) .ready(function () {
         } else {
             delete solrQuery.age;
         }
-        
+
         var realest_value = $('#realests') .attr('value');
         if ( realest_value != null ) {
             var realests_op = $('#realests-op') .attr('value');
@@ -254,7 +254,7 @@ $(document) .ready(function () {
         } else {
             delete solrQuery.realests_range;
         }
-        
+
         var persest_value = $('#persests') .attr('value');
         if ( persest_value != null ) {
             var persests_op = $('#persests-op') .attr('value');
@@ -271,7 +271,7 @@ $(document) .ready(function () {
         } else {
             delete solrQuery.persests_range;
         }
-                
+
         var page_num_value = $('#page_num') .attr('value');
         if (page_num_value != null) {
             var page_num_op = $('#page_num-op') .attr('value');
@@ -285,7 +285,7 @@ $(document) .ready(function () {
                 page_num_range = ' NOT page_num:' + page_num_value;
             }
         }
-        
+
         $('input#sort').val(solrParams.sort);
         $('input#county').val(solrParams.county);
         $('td#year_cell input[year="' + year + '"]').attr({'checked': "checked"} );
@@ -300,7 +300,7 @@ $(document) .ready(function () {
            // alert('ending dual branch in VF');
         } else {
             // alert ('single year search');
-            /* searching a single census year - not two */   
+            /* searching a single census year - not two */
             $('input#query1') .remove();
             $('input#query2') .remove();
             $('input#query_dual') .remove();
@@ -310,17 +310,16 @@ $(document) .ready(function () {
         return whatShouldIdo;
 
     };
-    
+
     /* form submission */
     $('form').submit( function() {
         validateForm(solrParams.year);
         queryString = buildQuery(solrQuery);
         var myResult = queryString.indexOf('dualSearchRequest');
-        alert('returned from validateForm function and qString contains search string is ' + myResult );    
         if ( queryString.indexOf('dualSearchRequest') == 0 ) {
            // alert('I will change queryString var');
             var myReplacement = solrQuery.database + ' AND ';
-            var myAmount = 0; 
+            var myAmount = 0;
 		if ( queryString.indexOf(myReplacement) == 0 ) {
             myAmount = myReplacement.length;
             queryString = queryString.substr(myAmount);
@@ -329,14 +328,13 @@ $(document) .ready(function () {
             queryString = queryString.substr(myAmount);
 	}
         }
-        
-        alert('queryString is ' + queryString);
+
         $('input#query').val(queryString);  /* this is the q parameter, which is the solr query itself */
-        // inspectSQ(); 
+        // inspectSQ();
         return true;
         });
-    
-        
+
+
     /* lastly, hide no-javascript warning on load */
     $('#no-javascript') .remove();
 

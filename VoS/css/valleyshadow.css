@@ -1,16 +1,26 @@
 
-body { font: normal 16px Arial, Verdana sans-serif; }
+body { font: normal 15px Arial, Verdana sans-serif; }
 
 em { background-color: yellow; }
-table.center { margin-left:auto; margin-right:auto; }
+
 div.center { margin-left:auto; margin-right:auto; }
+
+p.no-results { text-align: center; }
+p.citation-help { padding-left: 3em; padding-right: 3em; border: none;}
+
+table.center { margin-left:auto; margin-right:auto; }
+table.record * th { background: #ffcc99; vertical-align: top; padding: 10px; align: center;}
+td.left { text-align: right; }
+td.right { text-align: left; }
+td.race { color: #990000; }
+td.gender { color: #000099;}
+
 .highlight { background-color: yellow; }
-.red-head {color: #990000; font-family: Arial, sans-serif; font-weight: bold; width: 90%; }
+.red-head {color: #990000; font-family: Arial, sans-serif; font-weight: bold; width: 100%; text-align: center;}
 .cite-results-banner { text-align: center;}
 .pagination-div { text-align: center; width: 95%}
 .warning {font-weight:bold; padding:5px; color:#000099; background-color:#FFFFFF;}
 .section-head {color: #003366; font-family: times, serif; font-weight: bold}
-
 
 #search_button {  background-color: #4CAF50;
   border: none;
