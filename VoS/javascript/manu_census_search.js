@@ -2,13 +2,13 @@ $(function () {
  /* disable submit click event propagation to prevent conflict with form submit event */
     $('#search_button').click( function (event) {
         event.stopPropagation();
-        event.preventDefault(); 
+        event.preventDefault();
     });
     $('#search_button').submit( function (event) {
         event.stopPropagation();
-        event.preventDefault(); 
+        event.preventDefault();
     });
-	
+
     // a function to lowercase string (regardless of contents) and put quotes around non-wildcard search strings, if whitespace is present
     function checkQuery(item) {
         var newQuery = item.attr('value').toLowerCase();
@@ -18,8 +18,8 @@ $(function () {
             newQuery = '"' + newQuery + '"';
         }
         return newQuery;
-    }; 
-	
+    };
+
 // some large arrays to build options menus dynamically
 		var businessOptions1860 = [
 		    '[?]',
@@ -104,18 +104,18 @@ $(function () {
 			'Burial Cares',
 			'Butcher',
 			'Cabinet Maker',
-			'Cabinet Maker &amp; Undertaker', 
+			'Cabinet Maker &amp; Undertaker',
 			'Carding Machine',
 			'Carpenter',
 			'Carpenter &amp; Undertaker',
 			'Carpet Manufacturing',
 			'Carpets',
-			'Carriage Factory', 
+			'Carriage Factory',
 			'Carriage Manufacturer',
 			'Carriages &amp; Buggies',
 			'Carriages, Buggies &amp; Wagons',
 			'Cement Manufacturing',
-			'Chair &amp; Cabinet Makers', 
+			'Chair &amp; Cabinet Makers',
 			'Chair Maker &amp; Painter',
 			'Charcoal Blast Furnace',
 			'Chopping Mill',
@@ -131,7 +131,7 @@ $(function () {
 			'Elizabeth Furnace',
 			'Felloe Bender',
 			'Flour Mill', 'Foundry',
-			'Foundry &amp; Machine Shop', 
+			'Foundry &amp; Machine Shop',
 			'Foundry &amp; Machinists',
 			'Furnace &amp; Forge',
 			'Furniture',
@@ -140,18 +140,18 @@ $(function () {
 			'Grist Mill',
 			'Iron Manufacturing',
 			'Iron Suplements Sash Doors, &amp; Building Material',
-			'Laythe', 
+			'Laythe',
 			'Leather Manufacturer',
-			'Lime Burner', 
+			'Lime Burner',
 			'Lime Kiln',
 			'Machine Carding',
 			'Machinist',
 			'Mantua Maker',
-			'Manufacture of Fancy Casimeres', 
+			'Manufacture of Fancy Casimeres',
 			'Manufacturer of Ale',
 			'Manufacturer of Furniture',
 			'Manufacturer of Medicines &amp; Cattle powders',
-			'Marble &amp; Brown Stone worker', 
+			'Marble &amp; Brown Stone worker',
 			'Marble Works',
 			'Mason',
 			'Merchant Mill',
@@ -167,14 +167,14 @@ $(function () {
 			'Paper Manufacturing',
 			'Paper Mill',
 			'Photographs',
-			'Planing &amp; Sawing', 
+			'Planing &amp; Sawing',
 			'Plasterer',
 			'Plow Maker',
 			'Plow Maker &amp; Foundry',
 			'Potter',
 			'Rakes &amp; Forks',
 			'Saddle &amp; Harness Shop',
-			'Saddlery', 
+			'Saddlery',
 			'Sash &amp; Door Factory',
 			'Sash, Blind, &amp; Door Factory',
 			'Sash, Frames, Etc',
@@ -187,7 +187,7 @@ $(function () {
 			'Steel &amp; Iron',
 			'Stone Cutters',
 			'Store &amp; * Textiles',
-			'Stoves &amp; Tin Ware &amp; Gas. Fiting', 
+			'Stoves &amp; Tin Ware &amp; Gas. Fiting',
 			'Stoves, Tin &amp; Copperworks',
 			'Straw Paper',
 			'Tailor Shop',
@@ -204,14 +204,14 @@ $(function () {
 			'Wagon Maker',
 			'Weaver',
 			'Weaver shop',
-			'Weaving', 
+			'Weaving',
 			'Window &amp; Door Frames, Shutters, Doors &amp;c',
 			'Wool Carder',
 			'Woolen &amp; Carpet Mill',
 			'Woolen Factory',
-			'Woolen Mill' 
+			'Woolen Mill'
 			];
-	
+
 
 
 	$('input[@name="year"]') .click(function () {
@@ -247,8 +247,8 @@ $(function () {
 			}
 		});
 	});
-	
-	
+
+
 	$('#search_button') .click(function () {
 		var county = $('#county_cell') .children("input:checked") .attr('value')
 		var year = $('#year_cell') .children("input:checked") .attr('value');
@@ -256,9 +256,9 @@ $(function () {
 		var query = db;
 		var queryString;
 		var sort = $('[name="sort"]').attr('value');
-//		if and when index is changed to include products field for 1870 data, add this line to amend sort param		
+//		if and when index is changed to include products field for 1870 data, add this line to amend sort param
 //		if (sort == 'kinds_annual asc') { sort = 'products asc'; }
-					
+
 		if ($('#name') .attr('value') != null) {
 			queryString = ' AND name:' + checkQuery($('#name') );
 			query = query + queryString;
@@ -267,12 +267,12 @@ $(function () {
 			queryString = ' AND business:' + $('#business') .attr('value');
 			query = query + queryString;
 		}
-		
+
 		if ($('#location') .attr('value') != null) {
 			queryString = ' AND location:' + $('#location') .attr('value');
 			query = query + queryString;
 		}
-		
+
 		if ($('#products') .attr('value') != null) {
 			if (year == '60'){
 				queryString = ' AND kinds_annual:' + checkQuery($('#products') );
@@ -283,15 +283,14 @@ $(function () {
 			query = query + queryString;
 
 		}
-		
-		alert(year + county);
+
 		var url = document.manuCensusSearch.action + "?q=" + query + "&rows=" + $('[name="rows"]').attr('value')  + "&start=" + $('[name="start"]').attr('value') + "&sort=" + sort + "&county=" + county + "&year=" + year;
         window.location.href=url; // this is a replacement for the form SUBMIT event.
         return false;
 
-		
+
 	});
-	
+
 /* hide no-javascript warning on load */
 $('#no-javascript').remove();
 });

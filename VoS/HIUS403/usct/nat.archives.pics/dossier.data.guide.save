@@ -1,0 +1,68 @@
+MEMORANDUM
+
+Military Dossier Guide For Data Entry
+
+September 24, 1997
+
+
+1.  Do not use any colons (:) anywhere in the database.
+
+2.  Use semi-colons to separate entries within a field, i.e. if someone 
+were wounded in action twice or three times, the semi-colon separates 
+each event.
+
+3.  Be consistent in data entry abbreviations, i.e. for regiment enter 
+the same abbreviation each time:
+
+	Use:
+		107th Pa.
+		107th Pa. 
+
+	Not:
+		107th Pa.
+		107 Pa.
+		107th
+	
+4.  Searchable dates must have a ! before and after the date
+	All dates must have numerical entries for mn/day/yr
+		i.e. !09/22/64!
+	If you only have month or year, then the day is 00
+		i.e. !09/00/64! or !00/00/64!
+
+5.  Where possible, abbreviate entries.
+
+	For example, if a soldier were in the hospital for 6 consecutive
+		months with the same illness, do not use 6 entries under 
+		hospital, instead use one entry with the dates from and to
+
+6.  Searchable dates are those used in the following fields:
+(Enlistment date is automatically searchable and does not need !)
+
+birth place and date
+hospital
+prison
+wia
+kia
+deserted
+captured
+dod
+dow
+discharge
+paroled
+death
+promotions
+transfers and other service
+
+So, dates in the Muster Sheet field do not need ! and are not searchable.
+
+7.  Use commas and periods in fields where necessary, esp. the following:
+
+personal information
+prewar life
+postwar life
+notes
+physical description
+conscript
+
+8.  Promotion and transfers:  use from to,
+	i.e. From Co. B 77th Pa. to Co. D 107th Pa. !date!

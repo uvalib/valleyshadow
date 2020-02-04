@@ -1,33 +1,49 @@
 <!DOCTYPE html
   PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
-   <head>
-      <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-      <title>Valley of the Shadow: Augusta County 1890 Veteran Census -- Search Results</title><style>
-					p.citation-help { padding-left: 3em; padding-right: 3em; border: none;}
-					p.query { font-family: arial; }
-					p.no-results { font-family: arial; text-align: center; padding: 3em 0 5em 0;}
-				</style>
-	  <link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">
-	  <link rel="icon" type="image/png" href="../VoS/favicon.ico" />
-	
-	</head>
+<head>
+  <title>Valley of the Shadow: Augusta County 1890 Veteran Census -- Search Results</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+ <meta content="The Valley of the Shadow is an electronic archive of two communities
+ in the American Civil War--Augusta County, Virginia, and Franklin County, Pennyslvania.
+ The Valley Web site includes searchable newspapers, population census data, agricultural
+ census data, manufacturing census data, slaveowner census data, and tax records.
+ The Valley Web site also contains letters and diaries, images, maps, church records,
+ and military rosters. The Valley project is a University ofVirginia research project
+ funded in part by the National Endowment of the Humanities."
+ name="description" />
+ <!--   The Valley of the Shadow is an electronic archive of two communities
+ in the American Civil War==Augusta County, Virginia, and Franklin County, Pennyslvania.  The
+ Valley Web site includes searchable newspapers, population census data,
+ agricultural census data, manufacturing census data, slaveowner census
+ data, and tax records.  The Valley Web site also contains letters and
+ diaries, images, maps, church records, and military rosters.  The Valley Project is a
+ University of Virginia research project funded in part by the National
+ Endowment for the Humanities. -->
+ <meta content="United States Civil War American history Virginia Pennsylvania military
+ geneology archive" name="keywords" />
+
+ <link rel="icon" type="image/png" href="../VoS/favicon.ico" />
+ <link type="text/css" rel="stylesheet" href="../VoS/css/valleyshadow.css" />
+ <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
+</head>
+
+
    <body>
       <h1><font color="#990000">
             <center>1890 {{ getcounty .County }} County Veterans
                						Census
             </center></font></h1>
-           <div style="width:100%;padding-top:10px;padding-bottom:10px;">        	
-      	{{ template "pagination" .  }}
-        {{ .QS }}
-        	<div> Showing records {{ .Start }} to {{ .CURSOR }} ({{ .NumFound }} total)</div>
+           <div style="width:100%;padding-top:10px;padding-bottom:10px;">
+             <center><p><b>Please cite results as coming from: </b>{{ getcounty .County }} County, {{ getstate .County }}, 1890 Veterans Census</br> Valley of the Shadow: Two Communities in
+                					the American Civil War, Virginia Center for Digital History, University of
+                					Virginia</br> ({{ getsiteurl }}/{{ .QS}}).
+             </p>
+      	{{ template "pagination" .  }}</center>
 
       </div>
-      
-      <p><b>Please cite results as coming from: </b>{{ getcounty .County }} County, {{ getstate .County }}, 1890 Veterans Census, Valley of the Shadow: Two Communities in
-         					the American Civil War, Virginia Center for Digital History, University of
-         					Virginia ({{ getsiteurl }}/{{ .QS}}).
-      </p>
+
+
       <table border="1px" style="width:100%;text-align:center;">
          <tr>
             <td><b>Name</b></td>
@@ -46,7 +62,7 @@
          </tr>
 
  		{{range .Docs}}
-         
+
          <tr>
             <td>{{ .first }} {{ .last }}</td>
             <td>{{ .widow_name }}</td>
@@ -62,12 +78,12 @@
             <td>{{ .disability }}</td>
             <td>{{ .remarks }}</td>
          </tr>
-         
+
          {{ end }}
-         
-         
+
+
       </table>
-      <div style="width:100%;padding-top:10px;padding-bottom:10px;">        	
+      <div style="width:100%;padding-top:10px;padding-bottom:10px;">
       	{{ template "pagination" .  }}
         {{ .QS }}
       </div>
