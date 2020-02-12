@@ -220,11 +220,11 @@ func newRouter() *mux.Router {
 
 func main() {
 
-	dir, err := filepath.Abs(filepath.Dir(os.Args[0]))
-	if err != nil {
-		log.Fatal(err)
-	}
-	fmt.Println(dir)
+	//dir, err := filepath.Abs(filepath.Dir(os.Args[0]))
+	//if err != nil {
+	//	log.Fatal(err)
+	//}
+	//fmt.Println(dir)
 
 	r := newRouter()
 	log.Println("Host " + os.Getenv("site_url") + " is listening on port " + os.Getenv("listen_port"))
@@ -588,8 +588,7 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	response, err := http.Get(zz)
 
 	if err != nil {
-		fmt.Printf("Error getting data from solr %s", err)
-		os.Exit(1)
+		log.Fatal("Error getting data from solr: %s", err.Error())
 	}
 
 	defer io.Copy(ioutil.Discard, response.Body)
@@ -627,15 +626,15 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	//replaceall := bytes.Replace(contents, []byte(m.Get("raw_st")), []byte(em_string), -1)
 
 	if err != nil {
-		fmt.Printf("Error reading response body into contents%s", err)
-		os.Exit(1)
+		log.Fatal("Error reading response body into contents: %s", err.Error())
 	}
 
 	solrResponse, err := SolrFromHTTP([]byte(string_contents))
 	if err != nil {
 		log.Println("SolrResponseFromHTTPResponse() failed. %v.", err)
 		log.Println("SolrResponseFromHTTPResponse() failed. %+v.", solrResponse)
-
+		http.Error(w1, err.Error(), http.StatusInternalServerError)
+		return
 	}
 
 	alldocs_count := solrResponse.Response.NumFound
@@ -655,11 +654,11 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	if m.Get("county") != "" {
 		solrResponse.Response.County = m.Get("county")
 	}
-	fmt.Println("county=" + m.Get("county"))
+	//fmt.Println("county=" + m.Get("county"))
 	if m.Get("year") != "" {
 		solrResponse.Response.Year = m.Get("year")
 	}
-	fmt.Println("year=" + m.Get("year"))
+	//fmt.Println("year=" + m.Get("year"))
 
 	cwd, _ := os.Getwd()
 	fname := filepath.Join(cwd, "./templates/*.tpl")
