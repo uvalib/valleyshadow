@@ -236,8 +236,8 @@ func SolrFromHTTP(b []byte) (*SolrResponse, error) {
 
 	err := json.Unmarshal(b, &container)
 	if err != nil {
-		log.Println( "json.Unmarshal error: %s", err.Error())
-		log.Println( "data: %s", string( b ))
+		log.Println("json.Unmarshal error: %s", err.Error())
+		log.Println("data: %s", string(b))
 		return nil, err
 	}
 
