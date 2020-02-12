@@ -15,7 +15,6 @@ package main
 import (
 	"encoding/json"
 	"errors"
-	"fmt"
 	"net/url"
 	"os"
 )
@@ -176,11 +175,11 @@ func PopulateResponse(j map[string]interface{}) (*SolrResponse, error) {
 
 		// the total amount of results, irrespective of the amount returned in the response
 		num_found := int(responseMap["numFound"].(float64))
-		fmt.Printf("NumFound: %v \n", num_found)
+		//fmt.Printf("NumFound: %v \n", num_found)
 
 		// and the amount actually returned
 		num_results := len(docsSlice)
-		fmt.Printf("NumReturned: %v \n", num_results)
+		//fmt.Printf("NumReturned: %v \n", num_results)
 
 		coll := DocumentCollection{}
 		coll.NumFound = num_found

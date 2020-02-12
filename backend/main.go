@@ -14,8 +14,10 @@ package main
 
 import (
 	"fmt"
+	"github.com/gorilla/mux"
 	"html"
 	"html/template"
+	"io"
 	"io/ioutil"
 	"log"
 	"net/http"
@@ -25,7 +27,6 @@ import (
 	"regexp"
 	"strconv"
 	"strings"
-	"github.com/gorilla/mux"
 )
 
 /* ===================================================================================
@@ -62,7 +63,6 @@ func newRouter() *mux.Router {
 
 	r.HandleFunc("/dossier_record", hndl_dossier_record_html)
 	r.HandleFunc("/sc_record", hndl_sc_record_html)
-
 
 	staticFileDirectory_root := http.Dir("./VoS")
 	staticFileHandler_root := http.StripPrefix("/VoS/", http.FileServer(staticFileDirectory_root))
@@ -221,15 +221,14 @@ func newRouter() *mux.Router {
 func main() {
 
 	dir, err := filepath.Abs(filepath.Dir(os.Args[0]))
-	 if err != nil {
-					 log.Fatal(err)
-	 }
-	 fmt.Println(dir)
+	if err != nil {
+		log.Fatal(err)
+	}
+	fmt.Println(dir)
 
 	r := newRouter()
 	log.Println("Host " + os.Getenv("site_url") + " is listening on port " + os.Getenv("listen_port"))
-	log.Fatal(http.ListenAndServe(fmt.Sprintf( ":%s", os.Getenv("listen_port")), r))
-
+	log.Fatal(http.ListenAndServe(fmt.Sprintf(":%s", os.Getenv("listen_port")), r))
 
 }
 
@@ -350,6 +349,8 @@ func getcounty(str string) string {
 func read_then_write_static_html(ww http.ResponseWriter, tgt string) {
 
 	ww.Header().Set("Content-Type", "text/html; charset=utf-8")
+	ww.Header().Set("Connection", "close")
+
 	data, err := ioutil.ReadFile(string(tgt))
 	if err == nil {
 		ww.Write(data)
@@ -546,9 +547,10 @@ func load_html_template(w2 http.ResponseWriter, r2 *http.Request, tpl string) {
 
 	t, err := template.New(fname).Funcs(fmap).ParseGlob(fname)
 	if err != nil {
-		log.Fatal("Error loading templates:" + err.Error())
+		log.Fatal("Error loading templates: " + err.Error())
 	}
 
+	w2.Header().Set("Connection", "close")
 	w2.Header().Set("Content-Type", "text/html")
 
 	err = t.ExecuteTemplate(w2, tpl, nil)
@@ -582,7 +584,6 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	zz := ConstructSolrQuery(qun + "&raw_st=" + m.Get("raw_st"))
 	//log.Println(" QS out from CSQ: " + zz)
 
-
 	// Make solr call
 	response, err := http.Get(zz)
 
@@ -591,20 +592,18 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 		os.Exit(1)
 	}
 
+	defer io.Copy(ioutil.Discard, response.Body)
 	defer response.Body.Close()
-
 
 	//fmt.Println("pre start = " + m.Get("start"))
 
-	if m.Get("start") == ""  {
+	if m.Get("start") == "" {
 		m.Set("start", "0")
 	}
 
 	contents, err := ioutil.ReadAll(response.Body)
 
 	//fmt.Println("post start = " + m.Get("start"))
-
-
 
 	//fmt.Printf("start = %v", m.Get("start"))
 	startval, err := strconv.Atoi(m.Get("start"))
@@ -662,7 +661,6 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	}
 	fmt.Println("year=" + m.Get("year"))
 
-
 	cwd, _ := os.Getwd()
 	fname := filepath.Join(cwd, "./templates/*.tpl")
 
@@ -679,10 +677,11 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 
 	t, err := template.New(fname).Funcs(fmap).ParseGlob(fname)
 	if err != nil {
-		log.Fatal("Error loading templates:" + err.Error())
+		log.Fatal("Error loading templates: " + err.Error())
 	}
 
 	w1.Header().Set("Content-Type", "text/html")
+	w1.Header().Set("Connection", "close")
 
 	err = t.ExecuteTemplate(w1, current_template, solrResponse.Response)
 	if err != nil {
@@ -698,11 +697,14 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 ====================================================================================*/
 
 func hndl_webroot_html(w http.ResponseWriter, r *http.Request) {
+
+	defer r.Body.Close()
 	read_then_write_static_html(w, "./VoS/index.html")
 }
 
 func hndl_news_calendar(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	param1 := r.URL.Query().Get("paper")
 	target := "./news/newspaper_calendar_" + param1 + ".html"
 	read_then_write_static_html(w, target)
@@ -716,6 +718,7 @@ func hndl_news_calendar(w http.ResponseWriter, r *http.Request) {
 
 func hndl_news_calendar_pdfs(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	param1 := r.URL.Query().Get("paper")
 	target := "./news/news_calendar_pdf_" + param1 + ".html"
 	read_then_write_static_html(w, target)
@@ -729,6 +732,7 @@ func hndl_news_calendar_pdfs(w http.ResponseWriter, r *http.Request) {
 
 func hndl_newspaper_pdfs(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	param1 := r.URL.Query().Get("paper")
 	target := "./newspapers_pdfs" + param1 + ".pdf"
 	read_then_write_static_html(w, target)
@@ -742,6 +746,7 @@ func hndl_newspaper_pdfs(w http.ResponseWriter, r *http.Request) {
 
 func hndl_news_xml(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	vars := mux.Vars(r)
 	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
 	target := "./news/" + vars["paper_year"] + "/" + filename_noext + ".html"
@@ -757,6 +762,7 @@ func hndl_news_xml(w http.ResponseWriter, r *http.Request) {
 
 func hndl_or_xml(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	vars := mux.Vars(r)
 	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
 	target := "./or/" + filename_noext + ".html"
@@ -771,8 +777,8 @@ func hndl_or_xml(w http.ResponseWriter, r *http.Request) {
 
 func hndl_papers_xml(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	vars := mux.Vars(r)
-
 	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
 	target := "./papers/" + filename_noext + ".html"
 	read_then_write_static_html(w, target)
@@ -786,6 +792,7 @@ func hndl_papers_xml(w http.ResponseWriter, r *http.Request) {
 
 func hndl_head_xml(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	vars := mux.Vars(r)
 	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
 	target := "./head/" + filename_noext + ".html"
@@ -800,6 +807,7 @@ func hndl_head_xml(w http.ResponseWriter, r *http.Request) {
 
 func hndl_mod_xml(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	vars := mux.Vars(r)
 	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
 	target := "./mod/" + filename_noext + ".html"
@@ -814,6 +822,7 @@ func hndl_mod_xml(w http.ResponseWriter, r *http.Request) {
 
 func hndl_mem_xml(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	vars := mux.Vars(r)
 	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
 	target := "./mem/" + filename_noext + ".html"
@@ -828,6 +837,7 @@ func hndl_mem_xml(w http.ResponseWriter, r *http.Request) {
 
 func hndl_claims_xml(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	vars := mux.Vars(r)
 	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
 	target := "./claims/" + filename_noext + ".html"
@@ -842,8 +852,8 @@ func hndl_claims_xml(w http.ResponseWriter, r *http.Request) {
 
 func hndl_letters_search_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	load_html_template(w, r, "letters_search.tpl")
-
 }
 
 /* ===================================================================================
@@ -853,8 +863,8 @@ func hndl_letters_search_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_letters_search_results_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	get_solr_search_results(w, r, "test.tpl")
-
 }
 
 /* ===================================================================================
@@ -864,8 +874,8 @@ func hndl_letters_search_results_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_diaries_search_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	load_html_template(w, r, "diaries_search.tpl")
-
 }
 
 /* ===================================================================================
@@ -875,8 +885,8 @@ func hndl_diaries_search_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_diaries_search_results_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	get_solr_search_results(w, r, "diaries_search_results.tpl")
-
 }
 
 /* ===================================================================================
@@ -886,8 +896,8 @@ func hndl_diaries_search_results_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_church_search_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	load_html_template(w, r, "church_search.tpl")
-
 }
 
 /* ===================================================================================
@@ -897,8 +907,8 @@ func hndl_church_search_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_church_search_results_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	get_solr_search_results(w, r, "church_search_results.tpl")
-
 }
 
 /* ===================================================================================
@@ -908,8 +918,8 @@ func hndl_church_search_results_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_images_search_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	load_html_template(w, r, "images_search.tpl")
-
 }
 
 /* ===================================================================================
@@ -919,8 +929,8 @@ func hndl_images_search_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_images_search_results_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	get_solr_search_results(w, r, "images_search_results.tpl")
-
 }
 
 /* ===================================================================================
@@ -930,6 +940,7 @@ func hndl_images_search_results_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_single_image_result_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	vars := mux.Vars(r)
 	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
 	fmt.Printf("No ext: %v", filename_noext)
@@ -944,8 +955,8 @@ func hndl_single_image_result_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_or_search_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	load_html_template(w, r, "or_search.tpl")
-
 }
 
 /* ===================================================================================
@@ -955,8 +966,8 @@ func hndl_or_search_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_or_search_results_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	get_solr_search_results(w, r, "or_search_results.tpl")
-
 }
 
 /* ===================================================================================
@@ -966,8 +977,8 @@ func hndl_or_search_results_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_newspapers_search_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	load_html_template(w, r, "newspapers_search.tpl")
-
 }
 
 /* ===================================================================================
@@ -977,8 +988,8 @@ func hndl_newspapers_search_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_newspapers_search_results_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	get_solr_search_results(w, r, "newspapers_search_results.tpl")
-
 }
 
 /* ===================================================================================
@@ -988,12 +999,12 @@ func hndl_newspapers_search_results_html(w http.ResponseWriter, r *http.Request)
 
 func hndl_news_topics_index_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	vars := mux.Vars(r)
 	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
 	target := "./news/" + filename_noext + "topics.html"
 
 	read_then_write_static_html(w, target)
-
 }
 
 /* ===================================================================================
@@ -1003,6 +1014,7 @@ func hndl_news_topics_index_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_news_topicitem_index_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	vars := mux.Vars(r)
 	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
 
@@ -1024,6 +1036,7 @@ func hndl_news_topicitem_index_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_news_topicitem_list_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	vars := mux.Vars(r)
 	list := r.URL.Query().Get("list")
 	area := r.URL.Query().Get("area")
@@ -1041,8 +1054,8 @@ func hndl_news_topicitem_list_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_census_search_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	load_html_template(w, r, "census_search.tpl")
-
 }
 
 /* ===================================================================================
@@ -1052,8 +1065,8 @@ func hndl_census_search_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_census_search_results_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	get_solr_search_results(w, r, "census_search_results.tpl")
-
 }
 
 /* ===================================================================================
@@ -1063,8 +1076,8 @@ func hndl_census_search_results_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_census_dual_search_results_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	get_solr_search_results(w, r, "census_dual_search_results.tpl")
-
 }
 
 /* ===================================================================================
@@ -1074,8 +1087,8 @@ func hndl_census_dual_search_results_html(w http.ResponseWriter, r *http.Request
 
 func hndl_advanced_search_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	load_html_template(w, r, "advanced_search.tpl")
-
 }
 
 /* ===================================================================================
@@ -1085,8 +1098,8 @@ func hndl_advanced_search_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_advanced_search_results_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	get_solr_search_results(w, r, "advanced_search_results.tpl")
-
 }
 
 /* ===================================================================================
@@ -1096,8 +1109,8 @@ func hndl_advanced_search_results_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_thickbox_census_results_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	get_solr_search_results(w, r, "thickbox_census_results.tpl")
-
 }
 
 /* ===================================================================================
@@ -1107,8 +1120,8 @@ func hndl_thickbox_census_results_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_ag_census_search_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	load_html_template(w, r, "ag_census_search.tpl")
-
 }
 
 /* ===================================================================================
@@ -1118,8 +1131,8 @@ func hndl_ag_census_search_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_ag_census_search_results_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	get_solr_search_results(w, r, "ag_census_search_results.tpl")
-
 }
 
 /* ===================================================================================
@@ -1129,8 +1142,8 @@ func hndl_ag_census_search_results_html(w http.ResponseWriter, r *http.Request) 
 
 func hndl_ag_record_results_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	get_solr_search_results(w, r, "ag_record_results.tpl")
-
 }
 
 /* ===================================================================================
@@ -1140,8 +1153,8 @@ func hndl_ag_record_results_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_manu_census_search_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	load_html_template(w, r, "manu_census_search.tpl")
-
 }
 
 /* ===================================================================================
@@ -1151,8 +1164,8 @@ func hndl_manu_census_search_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_manu_census_search_results_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	get_solr_search_results(w, r, "manu_census_search_results.tpl")
-
 }
 
 /* ===================================================================================
@@ -1162,8 +1175,8 @@ func hndl_manu_census_search_results_html(w http.ResponseWriter, r *http.Request
 
 func hndl_manu_record_results_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	get_solr_search_results(w, r, "manu_record_results.tpl")
-
 }
 
 /* ===================================================================================
@@ -1173,8 +1186,8 @@ func hndl_manu_record_results_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_slave_census_search_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	load_html_template(w, r, "slave_census_search.tpl")
-
 }
 
 /* ===================================================================================
@@ -1184,8 +1197,8 @@ func hndl_slave_census_search_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_slave_census_search_results_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	get_solr_search_results(w, r, "slave_census_search_results.tpl")
-
 }
 
 /* ===================================================================================
@@ -1195,8 +1208,8 @@ func hndl_slave_census_search_results_html(w http.ResponseWriter, r *http.Reques
 
 func hndl_tax_search_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	load_html_template(w, r, "tax_search.tpl")
-
 }
 
 /* ===================================================================================
@@ -1206,8 +1219,8 @@ func hndl_tax_search_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_tax_search_results_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	get_solr_search_results(w, r, "tax_search_results.tpl")
-
 }
 
 /* ===================================================================================
@@ -1217,8 +1230,8 @@ func hndl_tax_search_results_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_dossiers_search_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	load_html_template(w, r, "dossiers_search.tpl")
-
 }
 
 /* ===================================================================================
@@ -1228,8 +1241,8 @@ func hndl_dossiers_search_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_dossiers_search_results_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	get_solr_search_results(w, r, "dossiers_search_results.tpl")
-
 }
 
 /* ===================================================================================
@@ -1239,8 +1252,8 @@ func hndl_dossiers_search_results_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_mapdata_search_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	load_html_template(w, r, "mapdata_search.tpl")
-
 }
 
 /* ===================================================================================
@@ -1250,8 +1263,8 @@ func hndl_mapdata_search_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_mapdata_search_results_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	get_solr_search_results(w, r, "mapdata_search_results.tpl")
-
 }
 
 /* ===================================================================================
@@ -1261,8 +1274,8 @@ func hndl_mapdata_search_results_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_dossier_record_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	get_solr_search_results(w, r, "dossier_record.tpl")
-
 }
 
 /* ===================================================================================
@@ -1272,8 +1285,8 @@ func hndl_dossier_record_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_sc_record_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	get_solr_search_results(w, r, "sc_record.tpl")
-
 }
 
 /* ===================================================================================
@@ -1283,8 +1296,8 @@ func hndl_sc_record_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_paclaims_search_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	load_html_template(w, r, "paclaims_search.tpl")
-
 }
 
 /* ===================================================================================
@@ -1294,8 +1307,8 @@ func hndl_paclaims_search_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_paclaims_search_results_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	get_solr_search_results(w, r, "paclaims_search_results.tpl")
-
 }
 
 /* ===================================================================================
@@ -1305,8 +1318,8 @@ func hndl_paclaims_search_results_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_soclaims_search_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	load_html_template(w, r, "so_claims_search.tpl")
-
 }
 
 /* ===================================================================================
@@ -1316,8 +1329,8 @@ func hndl_soclaims_search_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_soclaims_search_results_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	get_solr_search_results(w, r, "soclaims_search_results.tpl")
-
 }
 
 /* ===================================================================================
@@ -1327,8 +1340,8 @@ func hndl_soclaims_search_results_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_veteran_search_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	load_html_template(w, r, "veteran_search.tpl")
-
 }
 
 /* ===================================================================================
@@ -1338,8 +1351,8 @@ func hndl_veteran_search_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_veteran_search_results_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	get_solr_search_results(w, r, "veteran_search_results.tpl")
-
 }
 
 /* ===================================================================================
@@ -1349,8 +1362,8 @@ func hndl_veteran_search_results_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_cohabitation_search_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	load_html_template(w, r, "cohabitation_search.tpl")
-
 }
 
 // ===================================================================================
@@ -1359,8 +1372,8 @@ func hndl_cohabitation_search_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_cohabitation_search_results_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	get_solr_search_results(w, r, "cohabitation_search_results.tpl")
-
 }
 
 /* ===================================================================================
@@ -1370,8 +1383,8 @@ func hndl_cohabitation_search_results_html(w http.ResponseWriter, r *http.Reques
 
 func hndl_cohab_children_search_results_html(w http.ResponseWriter, r *http.Request) {
 
+	defer r.Body.Close()
 	get_solr_search_results(w, r, "cohab_children.tpl")
-
 }
 
 /* ===================================================================================
