@@ -14,6 +14,7 @@ package main
 
 import (
 	"fmt"
+	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
 	"html"
 	"html/template"
@@ -224,14 +225,14 @@ func newRouter() *mux.Router {
 func main() {
 
 	// validate we have the environment we need
-	if len( os.Getenv("site_url") ) == 0 {
-		log.Fatal( "ERROR: site_url is not defined")
+	if len(os.Getenv("site_url")) == 0 {
+		log.Fatal("ERROR: site_url is not defined")
 	}
-	if len( os.Getenv("solr_url") ) == 0 {
-		log.Fatal( "ERROR: solr_url is not defined")
+	if len(os.Getenv("solr_url")) == 0 {
+		log.Fatal("ERROR: solr_url is not defined")
 	}
-	if len( os.Getenv("listen_port") ) == 0 {
-		log.Fatal( "ERROR: listen_port is not defined")
+	if len(os.Getenv("listen_port")) == 0 {
+		log.Fatal("ERROR: listen_port is not defined")
 	}
 
 	//dir, err := filepath.Abs(filepath.Dir(os.Args[0]))
@@ -241,8 +242,9 @@ func main() {
 	//fmt.Println(dir)
 
 	r := newRouter()
+	loggedRouter := handlers.LoggingHandler(os.Stdout, r)
 	log.Printf("INFO: %s is listening on port %s (version: %s)", os.Getenv("site_url"), os.Getenv("listen_port"), version())
-	log.Fatal(http.ListenAndServe(fmt.Sprintf(":%s", os.Getenv("listen_port")), r))
+	log.Fatal(http.ListenAndServe(fmt.Sprintf(":%s", os.Getenv("listen_port")), loggedRouter))
 }
 
 func version() string {
@@ -368,7 +370,7 @@ func getcounty(str string) string {
 
 ====================================================================================*/
 
-func read_file_then_write_out(ww http.ResponseWriter, filename string, contentType string ) {
+func read_file_then_write_out(ww http.ResponseWriter, filename string, contentType string) {
 
 	ww.Header().Set("Content-Type", contentType)
 	ww.Header().Set("Connection", "close")
@@ -631,7 +633,7 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	if response.StatusCode != http.StatusOK {
 		log.Printf("ERROR: SOLR request returns %d", response.StatusCode)
 		log.Printf("INFO: request URL: %s", zz)
-		http.Error(w1, fmt.Sprintf( "SOLR request returns %d", response.StatusCode ), http.StatusInternalServerError)
+		http.Error(w1, fmt.Sprintf("SOLR request returns %d", response.StatusCode), http.StatusInternalServerError)
 		return
 	}
 
@@ -990,12 +992,12 @@ func hndl_single_image_result(w http.ResponseWriter, r *http.Request) {
 	defer r.Body.Close()
 
 	//vars := mux.Vars(r)
-	filename := fmt.Sprintf( ".%s", r.RequestURI )
-	contentType := detect_content_type( filename )
-	read_file_then_write_out( w, filename, contentType )
+	filename := fmt.Sprintf(".%s", r.RequestURI)
+	contentType := detect_content_type(filename)
+	read_file_then_write_out(w, filename, contentType)
 }
 
-func detect_content_type( filename string ) string {
+func detect_content_type(filename string) string {
 
 	f, err := os.Open(filename)
 	if err != nil {
