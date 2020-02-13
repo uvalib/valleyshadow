@@ -51,7 +51,7 @@
 						<br />
 							<h2>Valley Personal Papers</h2>
 							<br /><center>
-								<a href="../VoS/personalpapers/browse/index.html"><b>Return to Browse</b></a> | <a href="../VoS/personalpapers/search/intro.html"><b>Return to Search</b></a><br /> <br/><a><xsl:attribute name="href">../head/<xsl:apply-templates select="//TEI.2/@id"/></xsl:attribute>Bibliographic Information</a> | <a><xsl:attribute name="href">../mod/<xsl:value-of select="//TEI.2/@id"/></xsl:attribute>Modern-Spelling Version</a></center>
+								<a href="/VoS/personalpapers/browse/index.html"><b>Return to Browse</b></a> | <a href="/VoS/personalpapers/search/intro.html"><b>Return to Search</b></a><br /> <br/><a><xsl:attribute name="href">../head/<xsl:apply-templates select="//TEI.2/@id"/></xsl:attribute>Bibliographic Information</a> | <a><xsl:attribute name="href">../mod/<xsl:value-of select="//TEI.2/@id"/></xsl:attribute>Modern-Spelling Version</a></center>
 								<div id="mainResults"><hr align="center" width="75%" />
 									<h4>
 										<xsl:choose>

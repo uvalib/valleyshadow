@@ -17,8 +17,8 @@
 					.warning{font-weight:bold; padding:5px; color:#000099; background-color:#FFFFFF;}
 					.red-head {color: #990000; font-family: times, serif; font-weight: bold; }
 				</style>
-				<script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
-				<script src="../VoS/javascript/or_search.js" type="text/javascript"></script></head>
+				<script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
+				<script src="/VoS/javascript/or_search.js" type="text/javascript"></script></head>
 			    <link type="text/css" rel="stylesheet" href="/VoS/css/valleyshadow.css" />
       			<link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 				

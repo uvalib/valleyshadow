@@ -3,8 +3,8 @@
 <html>
    <head>
       <title>Valley of the Shadow: Census Search Results</title>
-      <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
-      <script src="../VoS/javascript/census-thickbox.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/census-thickbox.js" type="text/javascript"></script>
 			<link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
 			<link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 </head>

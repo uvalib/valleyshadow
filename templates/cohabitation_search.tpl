@@ -5,9 +5,9 @@
       <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
       <title>Valley of the Shadow: Cohabitation Records 1866</title>
       <link href="search.css" rel="stylesheet" type="text/css">
-      <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
-      <script src="../VoS/javascript/cohabitation_search.js" type="text/javascript"></script>
-      <script src="../VoS/javascript/thickbox.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/cohabitation_search.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/thickbox.js" type="text/javascript"></script>
   	  <link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
 	  <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
       

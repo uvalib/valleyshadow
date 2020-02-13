@@ -33,16 +33,16 @@
                                                 </tr>
                                                 <tr>
                                                     
-                                                    <td bgcolor="#ffffff" align="center"><a href="../VoS/newspapers/opening.html">Browse
+                                                    <td bgcolor="#ffffff" align="center"><a href="/VoS/newspapers/opening.html">Browse
                                                         Newspapers<br/>by Date</a></td>
                                                 </tr>
                                                 <tr>
-                                                    <td bgcolor="#ffffff" align="center"><a href="../VoS/newspapers/topics.html">Articles
+                                                    <td bgcolor="#ffffff" align="center"><a href="/VoS/newspapers/topics.html">Articles
                                                         Indexed<br/>by Topic</a></td>
                                                 </tr>
                                                 
                                                 <tr>
-                                                    <td bgcolor="#ffffff" align="center"><a href="../VoS/newspapers/about.html">About the<br/>Newspapers</a></td>
+                                                    <td bgcolor="#ffffff" align="center"><a href="/VoS/newspapers/about.html">About the<br/>Newspapers</a></td>
                                                 </tr>
                                                 <tr>
                                                     <td bgcolor="#ffffff" align="center"><a href="/VoS/choosepart.html">Valley of the Shadow<br/>Home</a></td>
@@ -59,7 +59,7 @@
                         </td>
                         <td align="left">
                             <center>
-                                <p><img src="/VoS/images/images/vtitle4.gif"/></p><img src="../VoS/newspapers/newspaper_head.jpg"/></center>
+                                <p><img src="/VoS/images/images/vtitle4.gif"/></p><img src="/VoS/newspapers/newspaper_head.jpg"/></center>
                           
                               
                           

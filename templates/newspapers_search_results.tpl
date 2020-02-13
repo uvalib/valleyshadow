@@ -4,9 +4,9 @@
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
       <title>Valley of the Shadow: Newspapers Search -- Search Results</title>
-      <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
-    <!--  <script src="../VoS/javascript/replace_em.js" type="text/javascript"></script> -->
-      <script src="../VoS/javascript/replace_lt_gt.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
+    <!--  <script src="/VoS/javascript/replace_em.js" type="text/javascript"></script> -->
+      <script src="/VoS/javascript/replace_lt_gt.js" type="text/javascript"></script>
       
       <style> .highlightme { color: inherit; background-color: yellow; }
 					h6.debug { color: #FFFFFF; }

@@ -13,8 +13,8 @@
 					} #bottomNavig { text-align: center; margin: 5px 0 5px 0; } #jumpPages {
 					padding: 5px 0 5px 0; border-top: 1px solid #c6c6c6; } #resultReturns { clear:
 					both; } select{margin:2px;} input{margin:2px;} .warning{font-weight:bold; padding:5px; color:#000099;} .header{ vertial-align:center;background:#FFCC99;padding:5px;}</style>
-					<script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
-					<script src="../VoS/javascript/southern_claims_search.js" type="text/javascript"></script></head>
+					<script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
+					<script src="/VoS/javascript/southern_claims_search.js" type="text/javascript"></script></head>
    <body vlink="#00009c" link="#cd7f32" bgcolor="#FFFFFF">
       <div id="no-javascript" style="width:100%;text-align:center;">
          <h3 class="warning">This page requires Javascript.  Please ensure that you have enabled Javascript in your browser's preferences</h3>

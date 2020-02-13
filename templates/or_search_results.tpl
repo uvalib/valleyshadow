@@ -4,8 +4,8 @@
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
       <title>Valley of the Shadow: Official Records -- Search Results</title>
-      <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
-      <script src="../VoS/javascript/replace_em.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/replace_em.js" type="text/javascript"></script>
       <style> .highlightme { color: inherit; background-color: yellow; }
 			p.query { font-family: arial; }
 			p.no-results { font-family: arial; text-align: center; padding: 3em 0 5em 0;}

@@ -106,7 +106,7 @@
 					<img src="/VoS/images/images/vtitle4.gif"
 						border="0"/>
 					<h2>Search the Cohabitation Records</h2>
-					<a href="/VoS/freedmen1.html">Return to Bureau Home</a> | <a href="about.html">About
+					<a href="/VoS/freedmen1.html">Return to Bureau Home</a> | <a href="/VoS/newspapers/about.html">About
 						the Cohabitation Records</a>
 				</center>
 				<hr/>

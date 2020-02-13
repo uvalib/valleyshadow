@@ -19,8 +19,8 @@
 				</style>
 	  <link type="text/css" rel="stylesheet" href="/VoS/css/valleyshadow.css" />
       <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
-				<script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
-				<script src="../VoS/javascript/newspapers_search.js" type="text/javascript"></script></head>
+				<script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
+				<script src="/VoS/javascript/newspapers_search.js" type="text/javascript"></script></head>
    <body vlink="#00009C" link="#CD7F32" bgcolor="#FFFFFF">
       <div id="no-javascript" style="width:100%;text-align:center;">
          <h3 class="warning">This page requires Javascript.  Please ensure that you have enabled Javascript in your browser's preferences</h3>

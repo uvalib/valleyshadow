@@ -5,8 +5,8 @@
       <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 	  <link type="text/css" rel="stylesheet" href="/VoS/css/valleyshadow.css" />
       <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
-	  <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
-	  <script src="../VoS/javascript/replace_lt_gt.js" type="text/javascript"></script>
+	  <script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
+	  <script src="/VoS/javascript/replace_lt_gt.js" type="text/javascript"></script>
    </head>
    <body>
       <center>

@@ -7,9 +7,9 @@
 				</style>
 	  <link type="text/css" rel="stylesheet" href="/VoS/css/valleyshadow.css" />
       <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
-				<script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
-				<script src="../VoS/javascript/images_search.js" type="text/javascript"></script>
-				<script src="../VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
+				<script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
+				<script src="/VoS/javascript/images_search.js" type="text/javascript"></script>
+				<script src="/VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
 	</head>
    <body VLINK="#00009C" LINK="#CD7F32" BGCOLOR="FFFFFF" TEXT="#000000">
       <div id="no-javascript" style="width:100%;text-align:center;">
@@ -24,7 +24,7 @@
                         <td align="center"><a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
                      </tr>
                      <tr>
-                        <td align="center"><a href="../VoS/cwimages1.html"><b>Return to<br> Images Home</b></a></td>
+                        <td align="center"><a href="/VoS/cwimages1.html"><b>Return to<br> Images Home</b></a></td>
                      </tr>
                   </table>
                </td>

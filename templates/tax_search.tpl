@@ -5,9 +5,9 @@
       <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
       <title>Valley of the Shadow: Franklin County Tax Records Search</title>
       <style> .red-head {color: #990000; font-family: times, serif; font-weight: bold } .warning{font-weight:bold; padding:5px; color:#000099;} </style>
-      <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
-      <script src="../VoS/javascript/tax_search.js" type="text/javascript"></script>
-      <script src="../VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/tax_search.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
 	  <link type="text/css" rel="stylesheet" href="/VoS/css/valleyshadow.css" />
       <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
       
@@ -23,7 +23,7 @@
                   <td valign="center">
                      <table cellpadding="10" width="80%" border="0" bgcolor="#ffcc99">
                         <tr>
-                           <td align="center"><a href="../VoS/govdoc/citytax/citytax.intro.html"><b>Information<br>About the Records</b></a></td>
+                           <td align="center"><a href="/VoS/govdoc/citytax/citytax.intro.html"><b>Information<br>About the Records</b></a></td>
                         </tr>
                         <tr>
                            <td align="center"><a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a></td>

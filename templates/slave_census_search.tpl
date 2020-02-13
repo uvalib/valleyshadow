@@ -7,9 +7,9 @@
       <style> 
       	.red-head {color: #990000; font-family: times, serif; font-weight: bold } .warning{font-weight:bold; padding:5px; color:#000099;} 
 	</style>
-			<script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript">
-				</script><script src="../VoS/javascript/slave_census_search.js" type="text/javascript"></script>
-				<script src="../VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
+			<script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript">
+				</script><script src="/VoS/javascript/slave_census_search.js" type="text/javascript"></script>
+				<script src="/VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
 				<link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
 				<link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 			</head>
@@ -23,7 +23,7 @@
                <td valign="center">
                   <table cellpadding="10" width="80%" border="0" bgcolor="#ffcc99">
                      <tr>
-                        <td align="center"><a href="../VoS/govdoc/censi/slcensus.html"><b>Information <br>About the Census</b></a></td>
+                        <td align="center"><a href="/VoS/govdoc/censi/slcensus.html"><b>Information <br>About the Census</b></a></td>
                      </tr>
                      <tr>
                         <td align="center"><a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
@@ -65,10 +65,10 @@
                      <td colspan="4" valign="center" bgcolor="#ffcc99"><font class="red-head">Basic Information</font></td>
                   </tr>
                   <tr>
-                     <td align="right"><a href="../VoS/govdoc/censi/slcensus.html#name"><b>Last Name</b></a>:
+                     <td align="right"><a href="/VoS/govdoc/censi/slcensus.html#name"><b>Last Name</b></a>:
                      </td>
                      <td align="left"><input id="last_name" name="last_name"></td>
-                     <td align="right"><a href="../VoS/govdoc/censi/slcensus.html#name"><b>First Name</b></a>:
+                     <td align="right"><a href="/VoS/govdoc/censi/slcensus.html#name"><b>First Name</b></a>:
                      </td>
                      <td align="left"><input id="first_name" name="first_name"></td>
                   </tr>
@@ -77,7 +77,7 @@
                      <td align="left"><input id="location" name="location"></td>
                   </tr>
                   <tr>
-                     <td align="right"><a href="../VoS/govdoc/censi/slcensus.html#employer"><b>Employer Name</b></a>:
+                     <td align="right"><a href="/VoS/govdoc/censi/slcensus.html#employer"><b>Employer Name</b></a>:
                      </td>
                      <td align="left"><input id="emp_name" name="emp_name"></td>
                      <td align="right">Employer Location:</td>
@@ -87,7 +87,7 @@
                      <td colspan="4" valign="center" bgcolor="#ffcc99"><font class="red-head">Slave Information</font></td>
                   </tr>
                   <tr>
-                     <td align="right"><a href="../VoS/govdoc/censi/slcensus.html#number"><b>Total number of slaves</b></a>:
+                     <td align="right"><a href="/VoS/govdoc/censi/slcensus.html#number"><b>Total number of slaves</b></a>:
                      </td>
                      <td align="left"><select name="tot_slaves-op" id="tot_slaves-op">
                            <option value="equal">=</option>

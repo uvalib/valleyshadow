@@ -6,8 +6,8 @@
       <title>Valley of the Shadow: Census Search Results</title>
   	  <link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
 	  <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
-      <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
-      <script src="../VoS/javascript/census-thickbox.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/census-thickbox.js" type="text/javascript"></script>
 
     	<style>td {padding-left:5px;padding-right:5px;}
 					.debug {background:yellow;} .citationHelp { text-align: center; padding-left: 2em; padding-right: 2em; }

@@ -8,8 +8,8 @@
 				</style>
 				<link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
 				<link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
-				<script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
-				<script src="../VoS/javascript/advanced_census_search.js" type="text/javascript"></script></head>
+				<script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
+				<script src="/VoS/javascript/advanced_census_search.js" type="text/javascript"></script></head>
    <body VLINK="#00009C" LINK="#CD7F32" BGCOLOR="FFFFFF" TEXT="#000000">
       <div id="no-javascript" style="width:100%;text-align:center;">
          <h3 class="warning">This page requires Javascript.  Please ensure that you have enabled Javascript in your browser's preferences</h3>
@@ -140,7 +140,7 @@
                         <option value="not">&lt;&gt;</option></select><input size="6" id="persests"></td>
                </tr>
                <tr>
-                  <td align="right"><a href="/VoS/govdoc/censi/pcensus.html#occupation"><b>Occupation</b></a>:<br><a href="../VoS/govdoc/alloccs.html">(A list of occupations<br>is
+                  <td align="right"><a href="/VoS/govdoc/censi/pcensus.html#occupation"><b>Occupation</b></a>:<br><a href="/VoS/govdoc/alloccs.html">(A list of occupations<br>is
                         									available)</a></td>
                   <td align="left"><input id="occupation"></td>
                   <td align="right"><b><a href="/VoS/govdoc/censi/pcensus.html#birthplace">Birthplace</a></b>:
@@ -265,17 +265,17 @@
                   <td bgcolor="#ffcc99" colspan="4"><b>Location</b></td>
                </tr>
                <tr style="display:none;" class="form_1860">
-                  <td align="right">Township:<br><a href="../VoS/govdoc/place.html">A list of place
+                  <td align="right">Township:<br><a href="/VoS/govdoc/place.html">A list of place
                         									names is available</a></td>
                   <td align="left"><input size="10" id="subdistrict"></td>
                   <td></td>
                   <td></td>
                </tr>
                <tr style="display:none;" class="form_1870">
-                  <td align="right">District:<br><a href="../VoS/govdoc/place.html">A list of place
+                  <td align="right">District:<br><a href="/VoS/govdoc/place.html">A list of place
                         									names is available</a></td>
                   <td align="left"><input size="10" id="district"></td>
-                  <td align="right">Post Office:<br><a href="../VoS/govdoc/place.html">A list of place
+                  <td align="right">Post Office:<br><a href="/VoS/govdoc/place.html">A list of place
                         									names is available</a></td>
                   <td align="left"><input size="10" id="post_office"></td>
                </tr>

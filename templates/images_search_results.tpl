@@ -6,8 +6,8 @@
       <title>Valley of the Shadow: Civil War Images -- Search Results</title>
       <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
       <link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
-      <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
-      <script src="../VoS/javascript/replace_em.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/replace_em.js" type="text/javascript"></script>
       <style>
 			p.citation-help { padding-left: 3em; padding-right: 3em; border: none;}
 			span.pagingNav { padding: 5px 25px 5px 25px; border: none; }
@@ -46,7 +46,7 @@
 
             <tr>
                <tr>
-                  <td><a target="" href="../VoS/images/{{ noext .image_name }}.html?q=db:images AND image_name:{{ .image_name}}"><img src="../VoS/images/old_photos/{{ .image_name }}"></a></td>
+                  <td><a target="" href="/VoS/images/{{ noext .image_name }}.html?q=db:images AND image_name:{{ .image_name}}"><img src="/VoS/images/old_photos/{{ .image_name }}"></a></td>
                   <td>{{ .title }}</td>
                   <td>{{ .source }}</td>
                   <td>{{ .orig_location }}</td>

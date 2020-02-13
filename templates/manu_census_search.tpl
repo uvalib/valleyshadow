@@ -4,9 +4,9 @@
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
       <title>Valley of the Shadow: Manufacturing Census Search</title><style> .red-head {color: #990000; font-family: times, serif; font-weight: bold } .warning{font-weight:bold; padding:5px; color:#000099;} </style>
-      <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
-      <script src="../VoS/javascript/manu_census_search.js" type="text/javascript"></script>
-      <script src="../VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/manu_census_search.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
 	<link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
 	<link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
       

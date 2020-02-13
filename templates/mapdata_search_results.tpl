@@ -49,7 +49,7 @@
       <div style="width:100%;padding-top:10px;padding-bottom:10px;">           
       	{{ template "pagination" .  }}
 
-      </div><script src="../VoS/javascript/generic_search_paging.js" type="text/javascript"></script><p><a href="mapdata">Go back to search page</a></p><br><hr width="80%">
+      </div><script src="/VoS/javascript/generic_search_paging.js" type="text/javascript"></script><p><a href="mapdata">Go back to search page</a></p><br><hr width="80%">
       <center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
    <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

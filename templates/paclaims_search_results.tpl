@@ -5,8 +5,8 @@
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
       <title>Valley of the Shadow: Claims Search Results</title>
       <link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
-      <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
-      <script src="../VoS/javascript/replace_em.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/replace_em.js" type="text/javascript"></script>
 </head>
    <body style="padding: 1em;">
 
@@ -49,6 +49,6 @@
       </table>
       <div style="width:100%;padding-top:10px;padding-bottom:10px;">
          {{ template "pagination" . }}
-      </div><script src="../VoS/javascript/generic_search_paging.js" type="text/javascript"></script><p><a href="paclaims">Go back to search page</a></p><br><center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
+      </div><script src="/VoS/javascript/generic_search_paging.js" type="text/javascript"></script><p><a href="paclaims">Go back to search page</a></p><br><center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
    <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

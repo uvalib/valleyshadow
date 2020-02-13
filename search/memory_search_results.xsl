@@ -44,11 +44,11 @@
 					<xsl:choose>
 						<xsl:when test="$numFound &gt; $rows">
 							<div id="resultSummary" style="padding-bottom:1em;"><span class="pagingNav"><xsl:value-of select="$numFound"/> Results Found </span>
-								<span class="pagingNav">Showing 1 - <xsl:value-of select="$rows"/>  </span><span class="pagingNav"><a href="memory">New Search</a></span></div>
+								<span class="pagingNav">Showing 1 - <xsl:value-of select="$rows"/>  </span><span class="pagingNav"><a href="/VoS/memory">New Search</a></span></div>
 						</xsl:when>
 						<xsl:otherwise>
 							<div id="resultSummary" style="padding-bottom:1em;"><span class="pagingNav"><xsl:value-of select="$numFound"/> Results Found </span>
-								<span class="pagingNav">Showing 1 - <xsl:value-of select="$numFound"/>  </span><span class="pagingNav"><a href="memory">New Search</a></span></div>
+								<span class="pagingNav">Showing 1 - <xsl:value-of select="$numFound"/>  </span><span class="pagingNav"><a href="/VoS/memory">New Search</a></span></div>
 						</xsl:otherwise>
 					</xsl:choose>
 					<div id="topNavig" style="width:90%;padding-top:10px;padding-bottom:10px;">
@@ -79,7 +79,7 @@
 					<b>Your search terms were <xsl:value-of select="$q"/></b>
 				</p>
 				<p>
-					<a href="memory">Go back to search page</a>
+					<a href="/VoS/memory">Go back to search page</a>
 				</p>
 			</xsl:otherwise>
 		</xsl:choose>

@@ -33,7 +33,7 @@
                     <br />
                 <h3>Bibliographic Information<br/><xsl:value-of select="TEI.2/teiHeader/fileDesc/sourceDesc/biblFull/titleStmt/title"/></h3>
                     <br /><center>
-                        <a><xsl:attribute name="href">../papers/<xsl:apply-templates select='TEI.2/@id'/></xsl:attribute><b>Return to Document</b></a> | <a href="../VoS/personalpapers/browse/index.html"><b>Return to Browse</b></a> | <a href="../VoS/personalpapers/search/intro.html"><b>Return to Search</b></a></center>
+                        <a><xsl:attribute name="href">../papers/<xsl:apply-templates select='TEI.2/@id'/></xsl:attribute><b>Return to Document</b></a> | <a href="/VoS/personalpapers/browse/index.html"><b>Return to Browse</b></a> | <a href="/VoS/personalpapers/search/intro.html"><b>Return to Search</b></a></center>
                     <hr></hr>
                     <h4>About the Electronic Version:</h4>
                     <p><i><xsl:value-of select="TEI.2/teiHeader/fileDesc/titleStmt/title[@type='main']"/></i><br/>

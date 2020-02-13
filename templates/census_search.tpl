@@ -8,8 +8,8 @@
 					div[special=search2] { border: thin solid red; background: #FF9999; padding: 4px; } 
 					.warning{font-weight:bold; padding:5px; color:#000099; background-color:#FFFFFF;} .debug {color:red; background:brown;}  
 				</style>
-				<script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
-				<script src="../VoS/javascript/population_census.js" type="text/javascript"></script>
+				<script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
+				<script src="/VoS/javascript/population_census.js" type="text/javascript"></script>
 				<link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
 				<link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 
@@ -140,7 +140,7 @@
                         <option value="not">&lt;&gt;</option></select><input size="6" id="persests"></td>
                </tr>
                <tr>
-                  <td align="right"><a href="/VoS/govdoc/censi/pcensus.html#occupation"><b>Occupation</b></a>:<br><a href="../VoS/govdoc/alloccs.html">(A list of occupations<br>is
+                  <td align="right"><a href="/VoS/govdoc/censi/pcensus.html#occupation"><b>Occupation</b></a>:<br><a href="/VoS/govdoc/alloccs.html">(A list of occupations<br>is
                         									available)</a></td>
                   <td class="validate" align="left"><input class="text" id="occupation"><span></span></td>
                   <td align="right"><b><a href="/VoS/govdoc/censi/pcensus.html#birthplace">Birthplace</a></b>:

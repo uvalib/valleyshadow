@@ -47,7 +47,7 @@
 		<body bgcolor="#ffffff" link="#cd7f32" vlink="#00009c" text="#000000">
 			<center>
 				
-				<img src="../VoS/images/or/ortitle.gif" border="0" />
+				<img src="/VoS/images/or/ortitle.gif" border="0" />
 					
 					<br />
 						<br />

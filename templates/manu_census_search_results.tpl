@@ -3,8 +3,8 @@
 <html>
    <head>
       <title>Valley of the Shadow: Augusta County - 1870 Manufacturing Census -- Search Results</title>
-      <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
-      <script src="../VoS/javascript/census-thickbox.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/census-thickbox.js" type="text/javascript"></script>
 	    <link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
 	     <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 	 </head>
@@ -57,7 +57,7 @@
       </table>
       <div style="width:100%;padding-top:10px;padding-bottom:10px;">
         			{{ template "pagination" . }}
-      </div><script src="../VoS/javascript/generic_search_paging.js" type="text/javascript"></script><p><a href="manu_census">Go back to search page</a></p>
+      </div><script src="/VoS/javascript/generic_search_paging.js" type="text/javascript"></script><p><a href="manu_census">Go back to search page</a></p>
       <center>
         <a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a>
       </center>

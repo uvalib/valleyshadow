@@ -86,7 +86,7 @@
                 <td align="left">
                     <center>
                         <p><img src="/VoS/images/images/vtitle4.gif"/></p>
-                        <img src="../../VoS/newspapers/newspaper_head.jpg"/>
+                        <img src="/VoS/newspapers/newspaper_head.jpg"/>
                         <h2 class="section-head">Articles Indexed by Topic</h2>
                             <h3 class="section head"><xsl:choose>
                                 <xsl:when test="//xml[@n=starts-with(@n, 'eve')]">

@@ -23,9 +23,9 @@
 
  <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
  <link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css" />
- <script type="text/javascript" src="../VoS/javascript/jquery-1.2.1.js" ></script>
- <script type="text/javascript" src="../VoS/javascript/diaries_search.js"></script>
- <script type="text/javascript" src="../VoS/javascript/generic_search_paging.js"></script>
+ <script type="text/javascript" src="/VoS/javascript/jquery-1.2.1.js" ></script>
+ <script type="text/javascript" src="/VoS/javascript/diaries_search.js"></script>
+ <script type="text/javascript" src="/VoS/javascript/generic_search_paging.js"></script>
 
 </head>
 <body bgcolor="#FFFFFF" link="#cd7f32" vlink="#00009c">

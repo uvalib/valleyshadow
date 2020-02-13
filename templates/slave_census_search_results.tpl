@@ -8,11 +8,11 @@
 			p.query { font-family: arial; }
 			p.no-results { font-family: arial; text-align: center; padding: 3em 0 5em 0;}
 		</style>
-       <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
-				<script src="../VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
+       <script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
+				<script src="/VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
 				<link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
 				<link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
-        <script src="../VoS/javascript/census-thickbox.js" type="text/javascript"></script>
+        <script src="/VoS/javascript/census-thickbox.js" type="text/javascript"></script>
 
 		</head>
    <body>

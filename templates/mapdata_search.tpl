@@ -3,9 +3,9 @@
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
       <title>Valley of the Shadow: Record of Events Search</title><style> .red-head {color: #990000; font-family: times, serif; font-weight: bold } .warning{font-weight:bold; padding:5px; color:#000099;} </style>
-      <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
-      <script src="../VoS/javascript/mapdata_search.js" type="text/javascript"></script>
-      <script src="../VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/mapdata_search.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
 	  <link type="text/css" rel="stylesheet" href="/VoS/css/valleyshadow.css" />
       <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
       
@@ -23,7 +23,7 @@
                         <td align="center"><a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
                      </tr>
                      <tr>
-                        <td align="center"><a href="../VoS/cwmaps1.html"><b>Return to<br> Civil War Maps Home</b></a></td>
+                        <td align="center"><a href="/VoS/cwmaps1.html"><b>Return to<br> Civil War Maps Home</b></a></td>
                      </tr>
                   </table>
                </td>
@@ -37,7 +37,7 @@
                      									this search page you may access information about specific
                      									battles, including the start and end dates, numbers killed and
                      									wounded, and weather conditions. <br><br> To visualize a
-                     									regiment's movement from battle to battle, go to the <a href="../VoS/MAPDEMO/theaterintro.html">animated theater maps of
+                     									regiment's movement from battle to battle, go to the <a href="/VoS/MAPDEMO/theaterintro.html">animated theater maps of
                         										Franklin and Augusta units.</a></blockquote>
                   <blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
                      									substituted for any number of characters at the middle

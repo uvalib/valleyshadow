@@ -7,8 +7,8 @@
 	  <link type="text/css" rel="stylesheet" href="/VoS/css/valleyshadow.css" />
       <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
  
-      <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
-      <script src="../VoS/javascript/ag_census_search.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/ag_census_search.js" type="text/javascript"></script>
     </head>
    <body vlink="#00009C" link="#CD7F32" bgcolor="FFFFFF" text="#000000">
       <div id="no-javascript" style="width:100%;text-align:center;">

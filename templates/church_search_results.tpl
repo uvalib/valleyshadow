@@ -4,8 +4,8 @@
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
       <title>Valley of the Shadow: Church Records -- Search Results</title>
       <link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
-      <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
-      <script src="../VoS/javascript/replace_em.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/replace_em.js" type="text/javascript"></script>
       <style> 
 			.highlightme { color: inherit; background-color: yellow; }
 			p.query { font-family: arial; }

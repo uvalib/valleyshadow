@@ -6,7 +6,7 @@
 
         <link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
         <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
-        <script src="../VoS/javascript/census-thickbox.js" type="text/javascript"></script>
+        <script src="/VoS/javascript/census-thickbox.js" type="text/javascript"></script>
 
 				</head>
    <body vlink="#00009C" link="#CD7F32" bgcolor="#FFFFFF">
