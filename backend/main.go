@@ -29,6 +29,9 @@ import (
 	"strings"
 )
 
+var defaultContentType = "text/html; charset=utf-8"
+var unknownContentType = "unknown"
+
 /* ===================================================================================
 
 	It MAY be beneficial to precompile the templates. Evaluate once app is
@@ -58,7 +61,7 @@ func newRouter() *mux.Router {
 	r.HandleFunc("/mod/{filename}", hndl_mod_xml)
 	r.HandleFunc("/mem/{filename}", hndl_mem_xml)
 	r.HandleFunc("/claims/{filename}", hndl_claims_xml)
-	r.HandleFunc("/VoS/images/{filename}", hndl_single_image_result_html)
+	r.HandleFunc("/VoS/images/{filename}", hndl_single_image_result)
 	//r.HandleFunc("/newspapers-pdfs/", hndl_newspapers_pdfs)
 
 	r.HandleFunc("/dossier_record", hndl_dossier_record_html)
@@ -220,6 +223,17 @@ func newRouter() *mux.Router {
 
 func main() {
 
+	// validate we have the environment we need
+	if len( os.Getenv("site_url") ) == 0 {
+		log.Fatal( "ERROR: site_url is not defined")
+	}
+	if len( os.Getenv("solr_url") ) == 0 {
+		log.Fatal( "ERROR: solr_url is not defined")
+	}
+	if len( os.Getenv("listen_port") ) == 0 {
+		log.Fatal( "ERROR: listen_port is not defined")
+	}
+
 	//dir, err := filepath.Abs(filepath.Dir(os.Args[0]))
 	//if err != nil {
 	//	log.Fatal(err)
@@ -227,9 +241,8 @@ func main() {
 	//fmt.Println(dir)
 
 	r := newRouter()
-	log.Printf("Host %s is listening on port %s", os.Getenv("site_url"), os.Getenv("listen_port"))
+	log.Printf("INFO: %s is listening on port %s", os.Getenv("site_url"), os.Getenv("listen_port"))
 	log.Fatal(http.ListenAndServe(fmt.Sprintf(":%s", os.Getenv("listen_port")), r))
-
 }
 
 /* ===================================================================================
@@ -342,21 +355,21 @@ func getcounty(str string) string {
 
 /* ===================================================================================
 
-		Reads a static html file from disc and serves it to client
+		Reads a file from disc and serves it to client
 
 ====================================================================================*/
 
-func read_then_write_static_html(ww http.ResponseWriter, tgt string) {
+func read_file_then_write_out(ww http.ResponseWriter, filename string, contentType string ) {
 
-	ww.Header().Set("Content-Type", "text/html; charset=utf-8")
+	ww.Header().Set("Content-Type", contentType)
 	ww.Header().Set("Connection", "close")
 
-	data, err := ioutil.ReadFile(string(tgt))
+	data, err := ioutil.ReadFile(filename)
 	if err == nil {
 		ww.Write(data)
 	} else {
 		ww.WriteHeader(404)
-		ww.Write([]byte("HTTP 404a  - " + http.StatusText(404)))
+		ww.Write([]byte("HTTP 404 - " + http.StatusText(404) + " " + filename))
 	}
 
 }
@@ -522,7 +535,6 @@ func write_pagination(allcount int, start int, current_url string) string {
 	}
 
 	return tmpstr
-
 }
 
 /* ===================================================================================
@@ -555,7 +567,7 @@ func load_html_template(w2 http.ResponseWriter, r2 *http.Request, tpl string) {
 	}
 
 	w2.Header().Set("Connection", "close")
-	w2.Header().Set("Content-Type", "text/html")
+	w2.Header().Set("Content-Type", defaultContentType)
 
 	err = t.ExecuteTemplate(w2, tpl, nil)
 	if err != nil {
@@ -572,6 +584,9 @@ func load_html_template(w2 http.ResponseWriter, r2 *http.Request, tpl string) {
 ====================================================================================*/
 
 func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_template string) {
+
+	// DEBUG ONLY
+	//return
 
 	var string_contents string
 
@@ -596,7 +611,7 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 
 	if err != nil {
 		log.Printf("ERROR: getting data from SOLR: %s", err.Error())
-		log.Printf("Request URL: %s", zz)
+		log.Printf("INFO: request URL: %s", zz)
 		http.Error(w1, err.Error(), http.StatusInternalServerError)
 		return
 	}
@@ -606,8 +621,8 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 
 	if response.StatusCode != http.StatusOK {
 		log.Printf("ERROR: SOLR request returns %d", response.StatusCode)
-		log.Printf("Request URL: %s", zz)
-		http.Error(w1, err.Error(), http.StatusInternalServerError)
+		log.Printf("INFO: request URL: %s", zz)
+		http.Error(w1, fmt.Sprintf( "SOLR request returns %d", response.StatusCode ), http.StatusInternalServerError)
 		return
 	}
 
@@ -644,7 +659,7 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 
 	if err != nil {
 		log.Printf("ERROR: reading response body into contents: %s", err.Error())
-		log.Printf("Request URL: %s", zz)
+		log.Printf("INFO: request URL: %s", zz)
 		http.Error(w1, err.Error(), http.StatusInternalServerError)
 		return
 	}
@@ -652,7 +667,7 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	solrResponse, err := SolrFromHTTP([]byte(string_contents))
 	if err != nil {
 		log.Printf("ERROR: SolrFromHTTP: %s", err.Error())
-		log.Printf("Request URL: %s", zz)
+		log.Printf("INFO: request URL: %s", zz)
 		http.Error(w1, err.Error(), http.StatusInternalServerError)
 		return
 	}
@@ -697,18 +712,18 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	t, err := template.New(fname).Funcs(fmap).ParseGlob(fname)
 	if err != nil {
 		log.Printf("ERROR: loading templates: %s", err.Error())
-		log.Printf("Request URL: %s", zz)
+		log.Printf("INFO: request URL: %s", zz)
 		http.Error(w1, err.Error(), http.StatusInternalServerError)
 		return
 	}
 
-	w1.Header().Set("Content-Type", "text/html")
+	w1.Header().Set("Content-Type", defaultContentType)
 	w1.Header().Set("Connection", "close")
 
 	err = t.ExecuteTemplate(w1, current_template, solrResponse.Response)
 	if err != nil {
 		log.Printf("ERROR: executing template: %s", err.Error())
-		log.Printf("Request URL: %s", zz)
+		log.Printf("INFO: request URL: %s", zz)
 		http.Error(w1, err.Error(), http.StatusInternalServerError)
 		return
 	}
@@ -723,7 +738,7 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 func hndl_webroot_html(w http.ResponseWriter, r *http.Request) {
 
 	defer r.Body.Close()
-	read_then_write_static_html(w, "./VoS/index.html")
+	read_file_then_write_out(w, "./VoS/index.html", defaultContentType)
 }
 
 func hndl_news_calendar(w http.ResponseWriter, r *http.Request) {
@@ -731,8 +746,7 @@ func hndl_news_calendar(w http.ResponseWriter, r *http.Request) {
 	defer r.Body.Close()
 	param1 := r.URL.Query().Get("paper")
 	target := "./news/newspaper_calendar_" + param1 + ".html"
-	read_then_write_static_html(w, target)
-
+	read_file_then_write_out(w, target, defaultContentType)
 }
 
 /* ===================================================================================
@@ -745,7 +759,7 @@ func hndl_news_calendar_pdfs(w http.ResponseWriter, r *http.Request) {
 	defer r.Body.Close()
 	param1 := r.URL.Query().Get("paper")
 	target := "./news/news_calendar_pdf_" + param1 + ".html"
-	read_then_write_static_html(w, target)
+	read_file_then_write_out(w, target, defaultContentType)
 
 }
 
@@ -759,7 +773,7 @@ func hndl_newspaper_pdfs(w http.ResponseWriter, r *http.Request) {
 	defer r.Body.Close()
 	param1 := r.URL.Query().Get("paper")
 	target := "./newspapers_pdfs" + param1 + ".pdf"
-	read_then_write_static_html(w, target)
+	read_file_then_write_out(w, target, defaultContentType)
 
 }
 
@@ -775,7 +789,7 @@ func hndl_news_xml(w http.ResponseWriter, r *http.Request) {
 	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
 	target := "./news/" + vars["paper_year"] + "/" + filename_noext + ".html"
 
-	read_then_write_static_html(w, target)
+	read_file_then_write_out(w, target, defaultContentType)
 
 }
 
@@ -790,7 +804,7 @@ func hndl_or_xml(w http.ResponseWriter, r *http.Request) {
 	vars := mux.Vars(r)
 	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
 	target := "./or/" + filename_noext + ".html"
-	read_then_write_static_html(w, target)
+	read_file_then_write_out(w, target, defaultContentType)
 
 }
 
@@ -805,7 +819,7 @@ func hndl_papers_xml(w http.ResponseWriter, r *http.Request) {
 	vars := mux.Vars(r)
 	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
 	target := "./papers/" + filename_noext + ".html"
-	read_then_write_static_html(w, target)
+	read_file_then_write_out(w, target, defaultContentType)
 
 }
 
@@ -820,7 +834,7 @@ func hndl_head_xml(w http.ResponseWriter, r *http.Request) {
 	vars := mux.Vars(r)
 	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
 	target := "./head/" + filename_noext + ".html"
-	read_then_write_static_html(w, target)
+	read_file_then_write_out(w, target, defaultContentType)
 
 }
 
@@ -835,7 +849,7 @@ func hndl_mod_xml(w http.ResponseWriter, r *http.Request) {
 	vars := mux.Vars(r)
 	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
 	target := "./mod/" + filename_noext + ".html"
-	read_then_write_static_html(w, target)
+	read_file_then_write_out(w, target, defaultContentType)
 
 }
 
@@ -850,7 +864,7 @@ func hndl_mem_xml(w http.ResponseWriter, r *http.Request) {
 	vars := mux.Vars(r)
 	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
 	target := "./mem/" + filename_noext + ".html"
-	read_then_write_static_html(w, target)
+	read_file_then_write_out(w, target, defaultContentType)
 
 }
 
@@ -865,7 +879,7 @@ func hndl_claims_xml(w http.ResponseWriter, r *http.Request) {
 	vars := mux.Vars(r)
 	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
 	target := "./claims/" + filename_noext + ".html"
-	read_then_write_static_html(w, target)
+	read_file_then_write_out(w, target, defaultContentType)
 
 }
 
@@ -962,14 +976,32 @@ func hndl_images_search_results_html(w http.ResponseWriter, r *http.Request) {
 
 ====================================================================================*/
 
-func hndl_single_image_result_html(w http.ResponseWriter, r *http.Request) {
+func hndl_single_image_result(w http.ResponseWriter, r *http.Request) {
 
 	defer r.Body.Close()
-	//vars := mux.Vars(r)
-	//filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
-	//fmt.Printf("No ext: %v", filename_noext)
-	get_solr_search_results(w, r, "images_single_result.tpl")
 
+	//vars := mux.Vars(r)
+	filename := fmt.Sprintf( ".%s", r.RequestURI )
+	contentType := detect_content_type( filename )
+	read_file_then_write_out( w, filename, contentType )
+}
+
+func detect_content_type( filename string ) string {
+
+	f, err := os.Open(filename)
+	if err != nil {
+		return unknownContentType
+	}
+	defer f.Close()
+
+	// Only the first 512 bytes are used to sniff the content type.
+	buffer := make([]byte, 512)
+
+	_, err = f.Read(buffer)
+	if err != nil {
+		return unknownContentType
+	}
+	return http.DetectContentType(buffer)
 }
 
 /* ===================================================================================
@@ -1028,7 +1060,7 @@ func hndl_news_topics_index_html(w http.ResponseWriter, r *http.Request) {
 	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
 	target := "./news/" + filename_noext + "topics.html"
 
-	read_then_write_static_html(w, target)
+	read_file_then_write_out(w, target, defaultContentType)
 }
 
 /* ===================================================================================
@@ -1049,7 +1081,7 @@ func hndl_news_topicitem_index_html(w http.ResponseWriter, r *http.Request) {
 
 	target := "./news-topicitem/" + filename_noext + "topics.html"
 
-	read_then_write_static_html(w, target)
+	read_file_then_write_out(w, target, defaultContentType)
 
 }
 
@@ -1067,7 +1099,7 @@ func hndl_news_topicitem_list_html(w http.ResponseWriter, r *http.Request) {
 
 	period := strings.TrimSuffix(vars["period"], filepath.Ext(vars["period"]))
 	target := "./news/" + period + "_" + list + "_" + area + ".html"
-	read_then_write_static_html(w, target)
+	read_file_then_write_out(w, target, defaultContentType)
 
 }
 
