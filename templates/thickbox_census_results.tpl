@@ -6,7 +6,7 @@
       <title>Valley of the Shadow: Census Search Results</title><style> body{margin: 2em; padding 1em;} ul li {list-style:none;display:table;} ul{padding:0px;}
 							div#singleRecordDisplay { display:inline-block; align:center; margin: auto; left:auto; right:0; margin-left:auto; margin-right:auto; min-width: 50%; max-width: 95%; padding: 3px; padding-right:2em; }
 							div.recordHeader {width: 100% !important;} </style>
-				<link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">
+				<link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
 				<link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 							
 							</head>
@@ -104,5 +104,5 @@
          form.
       </p>
       <p>&#8224; Indicates month of birth/marriage if born/married in the past year.</p>
-   <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
+   <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

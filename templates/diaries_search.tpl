@@ -22,7 +22,7 @@
  geneology archive" name="keywords" />
 
  <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
- <link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css" />
+ <link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css" />
  <script type="text/javascript" src="../VoS/javascript/jquery-1.2.1.js" ></script>
  <script type="text/javascript" src="../VoS/javascript/diaries_search.js"></script>
  <script type="text/javascript" src="../VoS/javascript/generic_search_paging.js"></script>
@@ -38,7 +38,7 @@
 			<input type="hidden" name="start" value="0"><div style="width:80%;text-align:center;">
 			<img src="/VoS/images/images/vtitle4.gif" style="padding-left:10px;"><h2 class="red-head">Search the Valley of the Shadow Diaries</h2>
       <blockquote>
-        <b>Note:</b> The wild card character is <b>*</b>. It can be substituted for any number of characters at the middle or back of a word. Please see <a href="VoS/reference/tips.html"><b>Tips for Searching</b></a> for a full explanation.
+        <b>Note:</b> The wild card character is <b>*</b>. It can be substituted for any number of characters at the middle or back of a word. Please see <a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a> for a full explanation.
       </blockquote>
       <hr>
       <p> Search for word or phrase: <br><input name="search_text" size="40"></p>

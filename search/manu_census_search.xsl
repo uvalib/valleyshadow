@@ -29,7 +29,7 @@
 									</tr>
 									<tr>
 										<td align="center">
-											<a href="VoS/govdoc/censi/mcensus.html">
+											<a href="/VoS/govdoc/censi/mcensus.html">
 												<b>Information<br/>About the Census</b>
 											</a>
 
@@ -37,7 +37,7 @@
 									</tr>
 									<tr>
 										<td align="center">
-											<a href="VoS/reference/tips.html">
+											<a href="/VoS/reference/tips.html">
 												<b>Tips for Searching</b>
 											</a>
 											<br/>
@@ -45,7 +45,7 @@
 									</tr>
 									<tr>
 										<td align="center">
-											<a href="VoS/govdoc/censi/census_new.html">
+											<a href="/VoS/govdoc/censi/census_new.html">
 												<b>Return to<br/> Census Home</b>
 											</a>
 										</td>
@@ -82,7 +82,7 @@
 								</blockquote>
 								<blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
 									substituted for any number of characters at the middle
-									or back of a word. Please see <a href="VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
+									or back of a word. Please see <a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
 									full explanation. </blockquote>
 
 							</td>
@@ -126,7 +126,7 @@
 
 							<tr>
 								<td align="right" style="width:20%;"><a
-										href="VoS/govdoc/censi/mcensus.html#company">
+										href="/VoS/govdoc/censi/mcensus.html#company">
 										<b>Name of Business<br/>(or Owner)</b>
 									</a>:</td>
 
@@ -134,7 +134,7 @@
 									<input id="name" name="name"/>
 								</td>
 								<td align="right" style="width:20%;"><a
-										href="VoS/govdoc/censi/mcensus.html#page">
+										href="/VoS/govdoc/censi/mcensus.html#page">
 										<b>Type of Business</b>
 									</a>:</td>
 								<td style="width:30%;">
@@ -209,7 +209,7 @@
 							</tr>
 
 							<tr>
-								<td align="right"><a href="VoS/govdoc/censi/mcensus.html#company">
+								<td align="right"><a href="/VoS/govdoc/censi/mcensus.html#company">
 										<b>Products</b>
 									</a>:</td>
 
@@ -217,7 +217,7 @@
 									<input id="products" name="products" size="25"/>
 
 								</td>
-								<td align="right"><a href="VoS/govdoc/censi/mcensus.html#page">
+								<td align="right"><a href="/VoS/govdoc/censi/mcensus.html#page">
 										<b>Location</b>
 									</a>:</td>
 								<td>

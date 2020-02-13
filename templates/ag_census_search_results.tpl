@@ -3,7 +3,7 @@
 <html>
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-      <link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">
+      <link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
       <title>Valley of the Shadow: {{ getcounty .County }} County - {{ getyear .Year }} Agricultural Census -- Search Results</title><style>
 					p.citation-help { padding-left: 3em; padding-right: 3em; border: none;}
 					p.query { font-family: arial; }
@@ -12,7 +12,7 @@
 				</style>
 				      <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
 				      <script src="../VoS/javascript/census-thickbox.js" type="text/javascript"></script>
-     				  <link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">
+     				  <link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
 	     			  <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 
 				</head>
@@ -69,5 +69,5 @@
       <div style="display:block; clear:both; border: none; padding-top: 1em;" id="footer">
          <center><a shape="rect" href="/VoS/choosepart.html"><img src="/VoS/images/graphics/full7.gif" border="0" alt="Return to Full Valley Archive"></a></center>
       </div>
-   <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
+   <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

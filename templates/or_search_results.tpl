@@ -12,7 +12,7 @@
 			.red-head {color: #990000; font-family: times, serif; font-weight: bold; }
 			span.pagingNav { padding: 5px 25px 5px 25px; border: none; }
 		</style>
-	  <link type="text/css" rel="stylesheet" href="../VoS/css/valleyshadow.css" />
+	  <link type="text/css" rel="stylesheet" href="/VoS/css/valleyshadow.css" />
       <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 
 		</head>
@@ -35,5 +35,5 @@
                     {{ template "pagination" .  }}
 
          </div><br></center><br><center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
-   <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
+   <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

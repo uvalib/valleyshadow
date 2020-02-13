@@ -31,7 +31,7 @@
 									</tr>
 									<tr>
 										<td align="center">
-											<a href="VoS/govdoc/censi/mcensus.html">
+											<a href="/VoS/govdoc/censi/mcensus.html">
 												<b>Information<br/>About the Census</b>
 											</a>
 
@@ -39,7 +39,7 @@
 									</tr>
 									<tr>
 										<td align="center">
-											<a href="VoS/reference/tips.html">
+											<a href="/VoS/reference/tips.html">
 												<b>Tips for Searching</b>
 											</a>
 											<br/>
@@ -47,7 +47,7 @@
 									</tr>
 									<tr>
 										<td align="center">
-											<a href="VoS/govdoc/censi/census_new.html">
+											<a href="/VoS/govdoc/censi/census_new.html">
 												<b>Return to<br/> Census Home</b>
 											</a>
 										</td>
@@ -79,7 +79,7 @@
 										link to the left.</blockquote>
 								<blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
 									substituted for any number of characters at the middle
-									or back of a word. Please see <a href="VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
+									or back of a word. Please see <a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
 									full explanation. </blockquote>
 
 							</td>
@@ -124,7 +124,7 @@
 								</tr>
 								<tr>
 									<td align="right" style="width:20%;"><a
-											href="VoS/govdoc/censi/mcensus.html#company">
+											href="/VoS/govdoc/censi/mcensus.html#company">
 											<b>Name of Business<br/>(or Owner)</b>
 										</a>:</td>
 
@@ -132,7 +132,7 @@
 										<input id="name" name="name"/>
 									</td>
 									<td align="right" style="width:20%;"><a
-											href="VoS/govdoc/censi/mcensus.html#page">
+											href="/VoS/govdoc/censi/mcensus.html#page">
 											<b>Type of Business</b>
 										</a>:</td>
 									<td style="width:30%;">
@@ -141,13 +141,13 @@
 								</tr>
 
 								<tr>
-									<td align="right"><a href="VoS/govdoc/censi/mcensus.html#page">
+									<td align="right"><a href="/VoS/govdoc/censi/mcensus.html#page">
 											<b>Location</b>
 										</a>:</td>
 									<td>
 										<input name="location" id="location"/>
 									</td>
-									<td align="right"><a href="VoS/govdoc/censi/mcensus.html#capital"
+									<td align="right"><a href="/VoS/govdoc/censi/mcensus.html#capital"
 										><b>Capital Investment</b></a>:</td>
 									<td nowrap="nowrap">
 										<select name="capital-op">
@@ -191,7 +191,7 @@
 									</td>
 								</tr>
 								<tr>
-									<td align="right"><a href="VoS/govdoc/censi/mcensus.html#wage"
+									<td align="right"><a href="/VoS/govdoc/censi/mcensus.html#wage"
 											>Male wage</a>:</td>
 									<td nowrap="nowrap">
 										<select name="male_wage-op">
@@ -203,7 +203,7 @@
 										<input name="male_wage" size="7"/>
 										dollars
 									</td>
-									<td align="right"><a href="VoS/govdoc/censi/mcensus.html#wage"
+									<td align="right"><a href="/VoS/govdoc/censi/mcensus.html#wage"
 											>Female wage</a>:</td>
 									<td nowrap="nowrap">
 										<select name="female_wage-op">
@@ -223,7 +223,7 @@
 								</tr>
 								<tr>
 									<td align="right"><a
-											href="VoS/govdoc/censi/mcensus.html#products">Kind of
+											href="/VoS/govdoc/censi/mcensus.html#products">Kind of
 											products</a>:</td>
 									<td>
 										<input name="products" size="25"/>
@@ -233,13 +233,13 @@
 								</tr>
 								<tr>
 									<td align="right"><a
-											href="VoS/govdoc/censi/mcensus.html#products">Quantity
+											href="/VoS/govdoc/censi/mcensus.html#products">Quantity
 											of products</a>: </td>
 									<td>
 										<input name="qty_annual" size="25"/>
 									</td>
 									<td align="right"><a
-											href="VoS/govdoc/censi/mcensus.html#products">Value of
+											href="/VoS/govdoc/censi/mcensus.html#products">Value of
 											products</a>:</td>
 									<td align="left">
 										<select name="val_annual-op">
@@ -258,7 +258,7 @@
 									</td>
 								</tr>
 								<tr>
-									<td align="right"><a href="VoS/govdoc/censi/mcensus.html#raw"
+									<td align="right"><a href="/VoS/govdoc/censi/mcensus.html#raw"
 											>Kind of raw materials</a>:</td>
 									<td>
 										<input name="kinds_raw" size="25"/>
@@ -267,12 +267,12 @@
 									<td/>
 								</tr>
 								<tr>
-									<td align="right"><a href="VoS/govdoc/censi/mcensus.html#raw"
+									<td align="right"><a href="/VoS/govdoc/censi/mcensus.html#raw"
 											>Quantity of raw materials</a>: </td>
 									<td>
 										<input name="qty_raw" size="25"/>
 									</td>
-									<td align="right"><a href="VoS/govdoc/censi/mcensus.html#raw"
+									<td align="right"><a href="/VoS/govdoc/censi/mcensus.html#raw"
 											>Value of raw materials</a>:</td>
 									<td align="left">
 										<select name="val_raw-op">
@@ -292,7 +292,7 @@
 									</td>
 								</tr>
 								<tr>
-									<td align="right"><a href="VoS/govdoc/censi/mcensus.html#power"
+									<td align="right"><a href="/VoS/govdoc/censi/mcensus.html#power"
 											>Type of power used in production</a>:</td>
 									<td>
 										<input name="power" size="25"/>
@@ -305,7 +305,7 @@
 									</td>
 								</tr>
 								<tr>
-									<td align="right"><a href="VoS/govdoc/censi/mcensus.html#page"
+									<td align="right"><a href="/VoS/govdoc/censi/mcensus.html#page"
 											>Page number</a>:</td>
 									<td>
 										<select name="pageno-op">

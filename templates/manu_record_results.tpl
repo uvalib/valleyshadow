@@ -4,7 +4,7 @@
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
       <title>Valley of the Shadow: Census Search Results</title>
-				<link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">
+				<link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
 				<link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 
 				</head>
@@ -175,5 +175,5 @@
          {{ end }}
       </table>
       <p><a href="javascript:history.go(-1)">go back to search results page</a><br><a href="manu_census">New Search</a></p>
-   <script src="http://valley.lib.virginia.edu/javascript/libtools.js" type="text/javascript"></script></body>
+   <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

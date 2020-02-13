@@ -10,7 +10,7 @@
 			<script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript">
 				</script><script src="../VoS/javascript/slave_census_search.js" type="text/javascript"></script>
 				<script src="../VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
-				<link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">
+				<link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
 				<link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 			</head>
    <body VLINK="#00009C" LINK="#CD7F32" BGCOLOR="FFFFFF" TEXT="#000000">
@@ -26,10 +26,10 @@
                         <td align="center"><a href="../VoS/govdoc/censi/slcensus.html"><b>Information <br>About the Census</b></a></td>
                      </tr>
                      <tr>
-                        <td align="center"><a href="../VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
+                        <td align="center"><a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
                      </tr>
                      <tr>
-                        <td align="center"><a href="../VoS/govdoc/censi/census_new.html"><b>Return to <br> Census Home</b></a></td>
+                        <td align="center"><a href="/VoS/govdoc/censi/census_new.html"><b>Return to <br> Census Home</b></a></td>
                      </tr>
                   </table>
                </td>
@@ -48,7 +48,7 @@
                   </blockquote>
                   <blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
                      									substituted for any number of characters at the middle
-                     									or back of a word. Please see <a href="../VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
+                     									or back of a word. Please see <a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
                      									full explanation. 
                   </blockquote>
                </td>
@@ -129,5 +129,5 @@
          <center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
       </div>
       <div id="search"></div>
-   <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
+   <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

@@ -4,7 +4,7 @@
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
       <title>Valley of the Shadow: Church Records Search</title>
       <style> .red-head {color: #990000; font-family: times, serif; font-weight: bold } .warning{font-weight:bold; padding:5px; color:#000099;} </style>
-       <link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">      
+       <link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
       <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
       <script src="../VoS/javascript/church_search.js" type="text/javascript"></script>
 </head>
@@ -21,7 +21,7 @@
                         <td align="center"><a href="../VoS/church1.html"><b>Return to<br> Church Home</b></a></td>
                      </tr>
                      <tr>
-                        <td align="center"><a href="../VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
+                        <td align="center"><a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
                      </tr>
                   </table>
                </td>
@@ -50,7 +50,7 @@
                   </blockquote>
                   <blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
                      									substituted for any number of characters at the middle
-                     									or back of a word. Please see <a href="../VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
+                     									or back of a word. Please see <a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
                      									full explanation. 
                   </blockquote>
                </td>
@@ -132,5 +132,5 @@
          <center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
       </div>
       <div id="search"></div>
-   <script src="http://valley.lib.virginia.edu/javascript/libtools.js" type="text/javascript"></script></body>
+   <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

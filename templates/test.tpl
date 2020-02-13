@@ -24,7 +24,7 @@
  geneology archive" name="keywords" />
  
  <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
- <link type="text/css" rel="stylesheet" href="../VoS/css/valleyshadow.css" />   
+ <link type="text/css" rel="stylesheet" href="/VoS/css/valleyshadow.css" />
  <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
  <!-- 
  <script src="../VoS/javascript/replace_em.js" type="text/javascript"></script>

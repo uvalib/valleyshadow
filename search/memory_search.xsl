@@ -42,7 +42,7 @@
 					<div style="width:65%;margin-left:auto;margin-right:auto;">
 						<blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
 							substituted for any number of characters at the middle
-							or back of a word. Please see <a href="VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
+							or back of a word. Please see <a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
 							full explanation. </blockquote>
 						<hr/>
 						<p>

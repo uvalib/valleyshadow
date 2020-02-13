@@ -5,7 +5,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
       <title>Valley of the Shadow: Civil War Images Search</title><style> .red-head {color: #990000; font-family: times, serif; font-weight: bold } .warning{font-weight:bold; padding:5px; color:#000099;} 
 				</style>
-	  <link type="text/css" rel="stylesheet" href="../VoS/css/valleyshadow.css" />   
+	  <link type="text/css" rel="stylesheet" href="/VoS/css/valleyshadow.css" />
       <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 				<script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
 				<script src="../VoS/javascript/images_search.js" type="text/javascript"></script>
@@ -21,7 +21,7 @@
                <td valign="center">
                   <table cellpadding="10" width="80%" border="0" bgcolor="#ffcc99">
                      <tr>
-                        <td align="center"><a href="../VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
+                        <td align="center"><a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
                      </tr>
                      <tr>
                         <td align="center"><a href="../VoS/cwimages1.html"><b>Return to<br> Images Home</b></a></td>
@@ -43,7 +43,7 @@
                      									American soldiers and civilians during the Civil War years. <br><br></blockquote>
                   <blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
                      									substituted for any number of characters at the middle
-                     									or back of a word. Please see <a href="VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
+                     									or back of a word. Please see <a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
                      									full explanation. 
                   </blockquote>
                </td>
@@ -119,5 +119,5 @@
          </center><br><hr width="80%">
          <center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
       </div>
-   <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
+   <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

@@ -72,5 +72,5 @@
             </form>
          </div>
       </div>
-   <script src="http://valley.lib.virginia.edu/javascript/libtools.js" type="text/javascript"></script></body>
+   <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

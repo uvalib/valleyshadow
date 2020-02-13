@@ -33,7 +33,7 @@
 						<h2 class="red-head">Search the Valley Newspapers</h2>
 						<blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
 							substituted for any number of characters at the middle
-							or back of a word. Please see <a href="VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
+							or back of a word. Please see <a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
 							full explanation. </blockquote>
 						<form name="newspaperSearchForm" method="get" action="newspapers_search_results.html">
 							<input type="hidden" name="q" id="query"/>

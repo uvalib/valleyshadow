@@ -24,7 +24,7 @@
  geneology archive" name="keywords" />
 
  <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
- <link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css" />
+ <link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css" />
  <script type="text/javascript" src="../VoS/javascript/jquery-1.2.1.js" ></script>
  <script type="application/javascript" src="../VoS/javascript/letters_search.js" ></script>
 </head>
@@ -38,7 +38,7 @@
         <blockquote>
           <b>Note:</b> The wild card character is <b>*</b>. It can be
 							substituted for any number of characters at the middle
-							or back of a word. Please see <a href="../../../VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
+							or back of a word. Please see <a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
 							full explanation.
         </blockquote>
 
@@ -52,7 +52,7 @@
             <option value="all">All letters</option>
             <option value="augusta">All Augusta County letters</option>
             <option value="franklin">All Franklin County letters</option>
-            <option value="bureau">All Freedmen's Bureau letters</option></select><hr width="60%" align="center"> Further constrain by <a href="VoS/reference/letters_help/authors.html">author</a>: <br><input name="author" size="40"><br> and/or <a href="VoS/reference/letters_help/keywords.html">keyword</a>: <br><input name="keyword" size="40"><br> and/or date range [1850-1880]: <br> begin date: year <input name="begin_year" size="4"><br>end date: year <input name="end_year" size="4"><br><br>Group results by <select name="grouping"><option value="" selected>match</option>
+            <option value="bureau">All Freedmen's Bureau letters</option></select><hr width="60%" align="center"> Further constrain by <a href="/VoS/reference/letters_help/authors.html">author</a>: <br><input name="author" size="40"><br> and/or <a href="/VoS/reference/letters_help/keywords.html">keyword</a>: <br><input name="keyword" size="40"><br> and/or date range [1850-1880]: <br> begin date: year <input name="begin_year" size="4"><br>end date: year <input name="end_year" size="4"><br><br>Group results by <select name="grouping"><option value="" selected>match</option>
             <option value="title_string">work title</option>
             <option value="year">year</option></select><hr>
             <input type="submit" value="Submit Query" id="search_button"><input type="reset" value="Clear"><br><hr>

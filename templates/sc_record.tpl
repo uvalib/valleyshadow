@@ -4,7 +4,7 @@
    <head>
       <title>Valley of the Shadow: Census Search Results</title>
 
-        <link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">
+        <link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
         <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
         <script src="../VoS/javascript/census-thickbox.js" type="text/javascript"></script>
 
@@ -71,5 +71,5 @@
       <p><a href="javascript:history.go(-1)">go back to search results page</a><br><a href="slave_census">New Search</a></p>
       <hr width="80%">
       <center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
-   <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
+   <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

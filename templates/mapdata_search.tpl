@@ -6,7 +6,7 @@
       <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
       <script src="../VoS/javascript/mapdata_search.js" type="text/javascript"></script>
       <script src="../VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
-	  <link type="text/css" rel="stylesheet" href="../VoS/css/valleyshadow.css" />   
+	  <link type="text/css" rel="stylesheet" href="/VoS/css/valleyshadow.css" />
       <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
       
       </head>
@@ -20,7 +20,7 @@
                <td valign="center">
                   <table cellpadding="10" width="80%" border="0" bgcolor="#ffcc99">
                      <tr>
-                        <td align="center"><a href="../VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
+                        <td align="center"><a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
                      </tr>
                      <tr>
                         <td align="center"><a href="../VoS/cwmaps1.html"><b>Return to<br> Civil War Maps Home</b></a></td>
@@ -41,7 +41,7 @@
                         										Franklin and Augusta units.</a></blockquote>
                   <blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
                      									substituted for any number of characters at the middle
-                     									or back of a word. Please see <a href="../VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
+                     									or back of a word. Please see <a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
                      									full explanation. 
                   </blockquote>
                </td>
@@ -793,5 +793,5 @@
             </form>
          </center>
       </div>
-   <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
+   <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

@@ -39,4 +39,4 @@
            
          </table>
       </div>
-   <script src="http://../VoS/javascript/libtools.js" type="text/javascript"></script></body>
+   <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>

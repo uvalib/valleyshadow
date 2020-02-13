@@ -30,7 +30,7 @@
 									</tr>
 									<tr>
 										<td align="center">
-											<a href="VoS/reference/tips.html">
+											<a href="/VoS/reference/tips.html">
 												<b>Tips for Searching</b>
 											</a>
 											<br/>
@@ -39,7 +39,7 @@
 
 									<tr>
 										<td align="center">
-											<a href="VoS/govdoc/censi/census_new.html">
+											<a href="/VoS/govdoc/censi/census_new.html">
 												<b>Return to <br/> Census Home</b>
 											</a>
 										</td>
@@ -70,7 +70,7 @@
 									the location of the plantation. </blockquote>
 								<blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
 									substituted for any number of characters at the middle
-									or back of a word. Please see <a href="VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
+									or back of a word. Please see <a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
 									full explanation. </blockquote>
 							</td>
 						</tr>

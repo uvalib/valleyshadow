@@ -3,7 +3,7 @@
 <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
       <title>Valley of the Shadow: Church Records -- Search Results</title>
-      <link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">            
+      <link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
       <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
       <script src="../VoS/javascript/replace_em.js" type="text/javascript"></script>
       <style> 
@@ -75,5 +75,5 @@
       </center>
       <p><a href="church">Go back to search page</a></p>
       <center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
-   <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
+   <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

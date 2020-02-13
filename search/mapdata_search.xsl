@@ -22,7 +22,7 @@
 								<table bgcolor="#ffcc99" border="0" width="80%" cellpadding="10">
 									<tr>
 										<td align="center">
-											<a href="VoS/reference/tips.html">
+											<a href="/VoS/reference/tips.html">
 												<b>Tips for Searching</b>
 											</a>
 											<br/>
@@ -60,7 +60,7 @@
 								</blockquote>
 								<blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
 									substituted for any number of characters at the middle
-									or back of a word. Please see <a href="VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
+									or back of a word. Please see <a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
 									full explanation. </blockquote>
 							</td>
 						</tr>

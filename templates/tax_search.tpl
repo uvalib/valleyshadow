@@ -8,7 +8,7 @@
       <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
       <script src="../VoS/javascript/tax_search.js" type="text/javascript"></script>
       <script src="../VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
-	  <link type="text/css" rel="stylesheet" href="../VoS/css/valleyshadow.css" />   
+	  <link type="text/css" rel="stylesheet" href="/VoS/css/valleyshadow.css" />
       <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
       
 	</head>
@@ -26,7 +26,7 @@
                            <td align="center"><a href="../VoS/govdoc/citytax/citytax.intro.html"><b>Information<br>About the Records</b></a></td>
                         </tr>
                         <tr>
-                           <td align="center"><a href="../VoS/reference/tips.html"><b>Tips for Searching</b></a></td>
+                           <td align="center"><a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a></td>
                         </tr>
                      </table>
                   </td>
@@ -45,7 +45,7 @@
                         										tax amounts).<br><br></blockquote>
                      <blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
                         										substituted for any number of characters at the middle
-                        										or back of a word. Please see <a href="VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
+                        										or back of a word. Please see <a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
                         										full explanation. 
                      </blockquote>
                   </td>
@@ -133,5 +133,5 @@
          <center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
       </div>
       <div id="search"></div>
-   <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
+   <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

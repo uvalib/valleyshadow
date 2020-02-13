@@ -21,7 +21,7 @@ Endowment for the Humanities. -->
   "United States Civil War American history Virginia Pennsylvania military geneology archive"
   name="keywords" />
   <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
-  <link type="text/css" rel="stylesheet" href="../VoS/css/valleyshadow.css" />   
+  <link type="text/css" rel="stylesheet" href="/VoS/css/valleyshadow.css" />
   <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
   <script src="../VoS/javascript/replace_em.js" type="text/javascript"></script>  
         <script src="../VoS/javascript/census-thickbox.js" type="text/javascript"></script>
@@ -85,5 +85,5 @@ Endowment for the Humanities. -->
       <div style="display:block; clear:both; border: none; padding-top: 1em;" id="footer">
          <center><a shape="rect" href="/VoS/choosepart.html"><img src="/VoS/images/graphics/full7.gif" border="0" alt="Return to Full Valley Archive"></a></center>
       </div>
-   <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
+   <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

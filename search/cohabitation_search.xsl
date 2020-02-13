@@ -38,8 +38,8 @@
 							<img src="/VoS/images/images/vtitle4.gif"
 								border="0"/>
 							<h2 class="red-head">Search the Cohabitation Records</h2>
-							<a href="VoS/freedmen1.html">Return to Bureau Home</a> | <a
-								href="VoS/fbureau/aboutcohab.html">About the Cohabitation Records</a>
+							<a href="/VoS/freedmen1.html">Return to Bureau Home</a> | <a
+								href="/VoS/fbureau/aboutcohab.html">About the Cohabitation Records</a>
 						</center>
 						<hr/>
 						<div id="husbandInfo">

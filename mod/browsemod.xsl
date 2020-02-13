@@ -40,7 +40,7 @@
 			text-align:left;
 			}
 		</style>
- 		<link type="text/css" rel="stylesheet" href="../VoS/css/valleyshadow.css" />		
+ 		<link type="text/css" rel="stylesheet" href="/VoS/css/valleyshadow.css" />
 		</head>
 		<body bgcolor="#ffffff" link="#cd7f32" vlink="#00009c" text="#000000">
 			<center>

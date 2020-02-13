@@ -29,7 +29,7 @@
 						<h2 class="red-head">Search the Valley of the Shadow Letters</h2>
 						<blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
 							substituted for any number of characters at the middle
-							or back of a word. Please see <a href="VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
+							or back of a word. Please see <a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
 							full explanation. </blockquote>
 					</div>
 					<div style="padding: 2em; max-width: 80%;">
@@ -46,9 +46,9 @@
 						<option value="bureau">All Freedmen's Bureau letters</option>
 
 					</select><hr width="60%" align="center"/> Further constrain by <a
-						href="VoS/reference/letters_help/authors.html">author</a>: <br/><input name="author"
+						href="/VoS/reference/letters_help/authors.html">author</a>: <br/><input name="author"
 						size="40"/>
-						<br/> and/or <a href="VoS/reference/letters_help/keywords.html">keyword</a>: <br/><input
+						<br/> and/or <a href="/VoS/reference/letters_help/keywords.html">keyword</a>: <br/><input
 						name="keyword" size="40"/>
 					<br/> and/or date range [1850-1880]: <br/> begin date: year <input
 						name="begin_year" size="4"/><br/>end date: year <input name="end_year" size="4"/><br/>

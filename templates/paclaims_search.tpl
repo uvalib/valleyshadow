@@ -8,7 +8,7 @@
       <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
       <script src="../VoS/javascript/claims_search.js" type="text/javascript"></script>
       <script src="../VoS/javascript/replace_em.js" type="text/javascript"></script>
-	  <link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">
+	  <link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
 	  <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 
       </head>
@@ -22,7 +22,7 @@
                <td valign="center">
                   <table cellpadding="10" width="80%" border="0" bgcolor="#ffcc99">
                      <tr>
-                        <td align="center"><a href="../VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
+                        <td align="center"><a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
                      </tr>
                      <tr>
                         <td align="center"><a href="../VoS/paclaims.html"><b>Return to<br> Claims Home</b></a></td>
@@ -44,7 +44,7 @@
                      									searchable set of the 594 Chambersburg claims. <br><br></blockquote>
                   <blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
                      									substituted for any number of characters at the middle
-                     									or back of a word. Please see <a href="VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
+                     									or back of a word. Please see <a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
                      									full explanation.
                   </blockquote>
                </td>
@@ -118,5 +118,5 @@
          <center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
       </div>
       <div id="search"></div>
-   <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
+   <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

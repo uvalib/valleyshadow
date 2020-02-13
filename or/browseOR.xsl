@@ -40,7 +40,7 @@
 			text-align:left;
 			}
 		</style>
-		<link type="text/css" rel="stylesheet" href="../VoS/css/valleyshadow.css" />   
+		<link type="text/css" rel="stylesheet" href="/VoS/css/valleyshadow.css" />
         <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 
 		</head>

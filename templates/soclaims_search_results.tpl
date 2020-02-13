@@ -30,7 +30,7 @@
             <p>Showing records 1 to 6 (6 total)</p>
          </div><br></center><br><script src="../VoS/javascript/replace_em.js" type="text/javascript"></script><p><a href="soclaims">Go back to search page</a></p>
       <center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
-   <script src="http://valley.lib.virginia.edu/javascript/libtools.js" type="text/javascript"></script></body>
+   <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>
 
 

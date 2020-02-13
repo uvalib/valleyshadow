@@ -14,7 +14,7 @@
 					td.race { color: #990000; }
 					td.gender { color: #000099;} 
 				</style>
-				      <link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">      
+				      <link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
 
 				</head>
    <body vlink="#00009C" link="#CD7F32" bgcolor="#FFFFFF">
@@ -64,5 +64,5 @@
          {{ end }}
       </table>
       <p><a href="javascript:history.go(-1)">go back to search results page</a><br><a href="ag_census">New Search</a></p>
-   <script src="http://valley.lib.virginia.edu/javascript/libtools.js" type="text/javascript"></script></body>
+   <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

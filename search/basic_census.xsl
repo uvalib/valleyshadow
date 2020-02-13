@@ -34,21 +34,21 @@
 									</tr>
 									<tr>
 										<td align="center">
-											<a href="VoS/govdoc/censi/pcensus.html">
+											<a href="/VoS/govdoc/censi/pcensus.html">
 												<b>Information<br/>About the Census</b>
 											</a>
 										</td>
 									</tr>
 									<tr>
 										<td align="center">
-											<a href="VoS/reference/tips.html">
+											<a href="/VoS/reference/tips.html">
 												<b>Tips for Searching</b>
 											</a>
 										</td>
 									</tr>
 									<tr>
 										<td align="center">
-											<a href="VoS/govdoc/censi/census_new.html">
+											<a href="/VoS/govdoc/censi/census_new.html">
 												<b>Return to<br/>Census Home</b>
 											</a>
 										</td>
@@ -84,7 +84,7 @@
 									be accessed by following the appropriate link at the left.<br/><br/>
 									<b>Note:</b> The wild card character is <b>*</b>. It can be
 									substituted for any number of characters at the middle
-									or back of a word. Please see <a href="VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
+									or back of a word. Please see <a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
 									full explanation. </blockquote>
 
 							</td>
@@ -151,7 +151,7 @@
 
 						<tr>
 							<td align="right">
-								<a href="VoS/govdoc/censi/pcensus.html#last">
+								<a href="/VoS/govdoc/censi/pcensus.html#last">
 									<b>Last name:</b>
 								</a>
 							</td>
@@ -159,7 +159,7 @@
 								<input id="last" size="20" class="text"/><span/>
 							</td>
 							<td align="right">
-								<a href="VoS/govdoc/censi/pcensus.html#first">
+								<a href="/VoS/govdoc/censi/pcensus.html#first">
 									<b>First name:</b>
 								</a>
 							</td>
@@ -179,7 +179,7 @@
 								</select>
 								<input id="age" size="6"/>
 							</td>
-							<td align="right"><a href="VoS/govdoc/censi/pcensus.html#sex">
+							<td align="right"><a href="/VoS/govdoc/censi/pcensus.html#sex">
 									<b>Sex</b>
 								</a>:</td>
 
@@ -190,7 +190,7 @@
 						</tr>
 
 						<tr>
-							<td align="right"><a href="VoS/govdoc/censi/pcensus.html#color">
+							<td align="right"><a href="/VoS/govdoc/censi/pcensus.html#color">
 									<b>"Color"</b>
 								</a>:</td>
 							<td align="left" colspan="3" id="color_cell" class="validate">
@@ -204,7 +204,7 @@
 
 						<tr>
 							<td align="right" valign="center"><a
-									href="VoS/govdoc/censi/pcensus.html#estate">
+									href="/VoS/govdoc/censi/pcensus.html#estate">
 									<b>Real estate value</b>
 								</a><br/>(in $)</td>
 							<td align="left" valign="center">
@@ -218,7 +218,7 @@
 								<input id="realests" size="6"/>
 							</td>
 							<td align="right" valign="center"><a
-									href="VoS/govdoc/censi/pcensus.html#estate">
+									href="/VoS/govdoc/censi/pcensus.html#estate">
 									<b>Personal estate value</b>
 								</a><br/>(in $)</td>
 
@@ -234,7 +234,7 @@
 
 						</tr>
 						<tr>
-							<td align="right"><a href="VoS/govdoc/censi/pcensus.html#occupation">
+							<td align="right"><a href="/VoS/govdoc/censi/pcensus.html#occupation">
 									<b>Occupation</b>
 							</a>:<br/><a href="VoS/govdoc/alloccs.html">(A list of occupations<br/>is
 									available)</a></td>
@@ -242,7 +242,7 @@
 								<input id="occupation" class="text"/><span/>
 							</td>
 							<td align="right"><b>
-									<a href="VoS/govdoc/censi/pcensus.html#birthplace"
+									<a href="/VoS/govdoc/censi/pcensus.html#birthplace"
 									>Birthplace</a>
 								</b>: </td>
 							<td align="left" class="validate">

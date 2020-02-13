@@ -8,7 +8,7 @@
       <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
       <script src="../VoS/javascript/cohabitation_search.js" type="text/javascript"></script>
       <script src="../VoS/javascript/thickbox.js" type="text/javascript"></script>
-  	  <link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">
+  	  <link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
 	  <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
       
       <style> body { text-align: center; } div#wrapper { margin:5px auto; width: 700px;
@@ -31,7 +31,7 @@
       </div>
       <div id="form">
          <form method="GET" action="/cohabitation_search_results.html" name="cohabitationSearchForm"><input name="q" id="query" type="hidden"><input value="50" name="rows" type="hidden"><input value="0" name="start" type="hidden"><div id="wrapper">
-               <center><img border="0" src="/VoS/images/images/vtitle4.gif"><h2 class="red-head">Search the Cohabitation Records</h2><a href="VoS/freedmen1.html">Return to Bureau Home</a> | <a href="VoS/fbureau/aboutcohab.html">About the Cohabitation Records</a></center>
+               <center><img border="0" src="/VoS/images/images/vtitle4.gif"><h2 class="red-head">Search the Cohabitation Records</h2><a href="/VoS/freedmen1.html">Return to Bureau Home</a> | <a href="/VoS/fbureau/aboutcohab.html">About the Cohabitation Records</a></center>
                <hr>
                <div id="husbandInfo">
                   <div class="rowodd">
@@ -444,5 +444,5 @@
          </form>
       </div>
       <div id="search"></div>
-   <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
+   <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

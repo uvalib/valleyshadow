@@ -24,7 +24,7 @@
 						<div style="width:80%;text-align:center;">
 							<img src="/VoS/images/images/vtitle4.gif" style="padding-left:10px;"/>
 							<h2 class="red-head">Search the Valley of the Shadow Diaries</h2>
-							<blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be substituted for any number of characters at the middle or back of a word. Please see <a href="VoS/reference/tips.html">
+							<blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be substituted for any number of characters at the middle or back of a word. Please see <a href="/VoS/reference/tips.html">
 									<b>Tips for Searching</b>
 								</a> for a full explanation. </blockquote>
 							<hr/><p> Search for word or phrase: <br/><input name="search_text" size="40"/></p><p> within </p>

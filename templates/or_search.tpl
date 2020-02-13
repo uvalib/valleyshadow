@@ -19,7 +19,7 @@
 				</style>
 				<script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
 				<script src="../VoS/javascript/or_search.js" type="text/javascript"></script></head>
-			    <link type="text/css" rel="stylesheet" href="../VoS/css/valleyshadow.css" />   
+			    <link type="text/css" rel="stylesheet" href="/VoS/css/valleyshadow.css" />
       			<link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 				
    <body vlink="#00009c" link="#cd7f32" bgcolor="#FFFFFF">
@@ -32,7 +32,7 @@
          <form method="get" action="/or_search_results.html" name="orSearchForm"><input id="query" name="q" readonly type="hidden"><input value="50" name="rows" readonly type="hidden"><input value="0" name="start" readonly type="hidden"><div style="width:65%;margin-left:auto;margin-right:auto;">
                <blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
                   							substituted for any number of characters at the middle
-                  							or back of a word. Please see <a href="../VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
+                  							or back of a word. Please see <a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
                   							full explanation. 
                </blockquote>
                <p><i>By default, all dates will be searched. To limit your search, select
@@ -86,5 +86,5 @@
          </form>
       </div>
       <center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
-   <script src="../Vos/javascript/libtools.js" type="text/javascript"></script></body>
+   <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

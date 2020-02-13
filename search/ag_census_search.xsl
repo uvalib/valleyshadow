@@ -26,14 +26,14 @@
 									<table bgcolor="#ffcc99" border="0" width="80%" cellpadding="10">
 										<tr>
 											<td align="center">
-												<a href="VoS/govdoc/censi/acensus.html">
+												<a href="/VoS/govdoc/censi/acensus.html">
 												<b>Information<br/>About the Census</b>
 												</a>
 											</td>
 										</tr>
 										<tr>
 											<td align="center">
-												<a href="VoS/reference/tips.html">
+												<a href="/VoS/reference/tips.html">
 												<b>Tips for Searching</b>
 												</a>
 
@@ -41,7 +41,7 @@
 										</tr>
 										<tr>
 											<td align="center">
-												<a href="VoS/govdoc/censi/census_new.html">
+												<a href="/VoS/govdoc/censi/census_new.html">
 												<b>Return to<br/>Census Home</b>
 												</a>
 											</td>
@@ -65,7 +65,7 @@
 										</blockquote>
 									<blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
 										substituted for any number of characters at the middle
-										or back of a word. Please see <a href="VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
+										or back of a word. Please see <a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
 										full explanation. </blockquote>
 								</td>
 							</tr>
@@ -105,13 +105,13 @@
 						</tr>
 						<tr>
 							<td align="right">
-								<a href="VoS/govdoc/censi/acensus.html#last">Last name</a>:</td>
+								<a href="/VoS/govdoc/censi/acensus.html#last">Last name</a>:</td>
 
 							<td align="left">
 								<input name="last_name" size="25"/>
 							</td>
 							<td align="right">
-								<a href="VoS/govdoc/censi/acensus.html#first">First name</a>:</td>
+								<a href="/VoS/govdoc/censi/acensus.html#first">First name</a>:</td>
 							<td align="left">
 								<input name="first_name" size="25"/>
 							</td>
@@ -123,7 +123,7 @@
 
 						</tr>
 						<tr>
-							<td align="right"><a href="VoS/govdoc/censi/acensus.html#land">Total
+							<td align="right"><a href="/VoS/govdoc/censi/acensus.html#land">Total
 									Acres of Land</a>:</td>
 							<td>
 								<select name="no_tot_land-op">
@@ -134,7 +134,7 @@
 								</select>
 								<input name="no_tot_land" size="6"/>
 							</td>
-							<td align="right"><a href="VoS/govdoc/censi/acensus.html#farm">Farm
+							<td align="right"><a href="/VoS/govdoc/censi/acensus.html#farm">Farm
 									Value</a>: </td>
 							<td>
 								<select name="farm_val-op">
@@ -153,7 +153,7 @@
 						</tr>
 
 						<tr>
-							<td align="right"><a href="VoS/govdoc/censi/acensus.html#tobacco"
+							<td align="right"><a href="/VoS/govdoc/censi/acensus.html#tobacco"
 									>Total pounds of tobacco</a>:</td>
 							<td>
 								<select name="no_tobacco-op">
@@ -165,7 +165,7 @@
 
 								<input name="no_tobacco" size="6"/>
 							</td>
-							<td align="right"><a href="VoS/govdoc/censi/acensus.html#tobacco"
+							<td align="right"><a href="/VoS/govdoc/censi/acensus.html#tobacco"
 									>Total bushels of grain</a>:</td>
 							<td>
 								<select name="no_tot_grain-op">
@@ -184,7 +184,7 @@
 						</tr>
 						<tr>
 
-							<td align="right"><a href="VoS/govdoc/censi/acensus.html#livestock"
+							<td align="right"><a href="/VoS/govdoc/censi/acensus.html#livestock"
 									>Cash value of livestock</a>:</td>
 							<td>
 								<select name="tot_livestock-op">
@@ -195,7 +195,7 @@
 								</select>
 								<input name="tot_livestock" size="6"/>
 							</td>
-							<td align="right"><a href="VoS/govdoc/censi/acensus.html#animals"
+							<td align="right"><a href="/VoS/govdoc/censi/acensus.html#animals"
 									>Total animals</a>:</td>
 							<td>
 								<select name="no_tot_animals-op">
@@ -214,7 +214,7 @@
 						</tr>
 
 						<tr>
-							<td align="right"><a href="VoS/govdoc/censi/acensus.html#home">Cash
+							<td align="right"><a href="/VoS/govdoc/censi/acensus.html#home">Cash
 									Value of Home Manufacturing</a>:</td>
 							<td>
 								<select name="no_manu-op">

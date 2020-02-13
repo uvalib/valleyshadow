@@ -24,7 +24,7 @@
  geneology archive" name="keywords" />
 
  <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
- <link type="text/css" rel="stylesheet" href="../VoS/css/valleyshadow.css" />
+ <link type="text/css" rel="stylesheet" href="/VoS/css/valleyshadow.css" />
  <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
 </head>
 
@@ -88,5 +88,5 @@
         {{ .QS }}
       </div>
       <script src="javascript/jquery-1.2.1.js" type="text/javascript"></script><script src="javascript/generic_search_paging.js" type="text/javascript"></script><p><a href="veteran">Go back to search page</a></p>
-   <script src="http://valley.lib.virginia.edu/javascript/libtools.js" type="text/javascript"></script></body>
+   <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

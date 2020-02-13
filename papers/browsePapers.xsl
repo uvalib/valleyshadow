@@ -28,7 +28,7 @@
 <xsl:template match="/">
 	<html>
 		<head>
-                <link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css"/>      
+                <link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css"/>
 		<style>
 			.title {color: #990000; font-family: times, serif} 
 			.p10 {margin-left: 3em; margin-right: 3em; }

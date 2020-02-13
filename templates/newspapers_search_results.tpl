@@ -15,7 +15,7 @@
 					.red-head {color: #990000; font-family: times, serif; font-weight: bold; }
 					span.pagingNav { padding: 5px 25px 5px 25px; border: none; }
 				</style>
-  		        <link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">      				
+  		        <link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
 				</head>
    <body>
       <center><img border="0" src="/VoS/images/images/vtitle4.gif"><h2 class="red-head">Search the Valley Newspapers</h2>
@@ -38,5 +38,5 @@
          </div><br></center><br><p><a href="newspapers">Go back to search page</a></p>
       <center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
       <h6 class="debug">results from http://libsvr40.lib.virginia.edu:8080/solr/valley/</h6>
-   <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
+   <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

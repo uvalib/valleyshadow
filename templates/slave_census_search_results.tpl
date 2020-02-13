@@ -10,7 +10,7 @@
 		</style>
        <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
 				<script src="../VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
-				<link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">
+				<link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
 				<link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
         <script src="../VoS/javascript/census-thickbox.js" type="text/javascript"></script>
 
@@ -74,5 +74,5 @@
       </center><p><a href="slave_census">Go back to search page</a></p>
       <hr width="80%">
       <center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
-   <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
+   <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

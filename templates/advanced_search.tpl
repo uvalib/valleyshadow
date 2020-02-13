@@ -6,7 +6,7 @@
 					.search_table td {padding:10px;}
 					.warning{font-weight:bold; padding:5px; color:#000099; background-color:#FFFFFF;} .debug {color:red; background:brown;}
 				</style>
-				<link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">
+				<link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
 				<link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 				<script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
 				<script src="../VoS/javascript/advanced_census_search.js" type="text/javascript"></script></head>
@@ -23,13 +23,13 @@
                         <td align="center"><a href="/population_census"><b>Basic Search</b></a></td>
                      </tr>
                      <tr>
-                        <td align="center"><a href="../VoS/govdoc/censi/pcensus.html"><b>Information<br>About the Census</b></a></td>
+                        <td align="center"><a href="/VoS/govdoc/censi/pcensus.html"><b>Information<br>About the Census</b></a></td>
                      </tr>
                      <tr>
-                        <td align="center"><a href="../VoS/reference/tips.html"><b>Tips for Searching</b></a></td>
+                        <td align="center"><a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a></td>
                      </tr>
                      <tr>
-                        <td align="center"><a href="../VoS/govdoc/censi/census_new.html"><b>Return to<br>Census Home</b></a></td>
+                        <td align="center"><a href="/VoS/govdoc/censi/census_new.html"><b>Return to<br>Census Home</b></a></td>
                      </tr>
                   </table>
                </td>
@@ -86,9 +86,9 @@
                   <td bgcolor="#ffcc99" colspan="4"><b>Personal Information</b></td>
                </tr>
                <tr>
-                  <td align="right"><a href="../VoS/govdoc/censi/pcensus.html#last"><b>Last name:</b></a></td>
+                  <td align="right"><a href="/VoS/govdoc/censi/pcensus.html#last"><b>Last name:</b></a></td>
                   <td align="left"><input size="20" id="last_name"></td>
-                  <td align="right"><a href="../VoS/govdoc/censi/pcensus.html#first"><b>First name:</b></a></td>
+                  <td align="right"><a href="/VoS/govdoc/censi/pcensus.html#first"><b>First name:</b></a></td>
                   <td align="left"><input size="20" id="first_name"></td>
                </tr>
                <tr>
@@ -103,12 +103,12 @@
                         <option value="equal">=</option>
                         <option selected value="lt">&lt;</option>
                         <option value="not">&lt;&gt;</option></select><input size="6" id="age2"></td>
-                  <td align="right"><a href="../VoS/govdoc/censi/pcensus.html#sex"><b>Sex</b></a>:
+                  <td align="right"><a href="/VoS/govdoc/censi/pcensus.html#sex"><b>Sex</b></a>:
                   </td>
                   <td id="sex_cell" align="left"><input value="m" name="sex" type="radio">male<input value="f" name="sex" type="radio">female</td>
                </tr>
                <tr>
-                  <td align="right"><a href="../VoS/govdoc/censi/pcensus.html#color"><b>"Color"</b></a>:
+                  <td align="right"><a href="/VoS/govdoc/censi/pcensus.html#color"><b>"Color"</b></a>:
                   </td>
                   <td id="color_cell" colspan="3" align="left"><input value="color:b" name="colors" type="radio">black<input value="color:w" name="colors" type="radio">white<input value="color:m" name="colors" type="radio">"mulatto"<input value="(color:b OR color:m)" name="colors" type="radio">black
                         									or mulatto</td>
@@ -124,14 +124,14 @@
                   <td></td>
                </tr>
                <tr>
-                  <td valign="center" align="right"><a href="../VoS/govdoc/censi/pcensus.html#estate"><b>Real estate value</b></a><br>(in $)
+                  <td valign="center" align="right"><a href="/VoS/govdoc/censi/pcensus.html#estate"><b>Real estate value</b></a><br>(in $)
                   </td>
                   <td valign="center" align="left"><select id="realests-op">
                         <option value="gt">&gt;</option>
                         <option value="equal">=</option>
                         <option value="lt">&lt;</option>
                         <option value="not">&lt;&gt;</option></select><input size="6" id="realests"></td>
-                  <td valign="center" align="right"><a href="../VoS/govdoc/censi/pcensus.html#estate"><b>Personal estate value</b></a><br>(in $)
+                  <td valign="center" align="right"><a href="/VoS/govdoc/censi/pcensus.html#estate"><b>Personal estate value</b></a><br>(in $)
                   </td>
                   <td valign="center" align="left"><select id="persests-op">
                         <option value="gt">&gt;</option>
@@ -140,10 +140,10 @@
                         <option value="not">&lt;&gt;</option></select><input size="6" id="persests"></td>
                </tr>
                <tr>
-                  <td align="right"><a href="../VoS/govdoc/censi/pcensus.html#occupation"><b>Occupation</b></a>:<br><a href="../VoS/govdoc/alloccs.html">(A list of occupations<br>is
+                  <td align="right"><a href="/VoS/govdoc/censi/pcensus.html#occupation"><b>Occupation</b></a>:<br><a href="../VoS/govdoc/alloccs.html">(A list of occupations<br>is
                         									available)</a></td>
                   <td align="left"><input id="occupation"></td>
-                  <td align="right"><b><a href="../VoS/govdoc/censi/pcensus.html#birthplace">Birthplace</a></b>: 
+                  <td align="right"><b><a href="/VoS/govdoc/censi/pcensus.html#birthplace">Birthplace</a></b>:
                   </td>
                   <td align="left"><input id="birth_place"></td>
                </tr>
@@ -311,5 +311,5 @@
       <div style="margin-top:20px;margin-bottom:20px;" id="search"></div>
       <div style="width:49%; float:left;margin-top:20px;margin-bottom:20px;margin-right:1%;" id="search1"></div>
       <div style="width:49%; float:left;margin-top:20px;margin-bottom:20px;margin-left:1%" id="search2"></div>
-   <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
+   <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>
