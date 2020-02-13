@@ -17,7 +17,7 @@
       </center><br><p><b>Please cite results as coming from:</b> Record of Events Database, Valley of
          					the Shadow: Two Communities in the American Civil War, Virginia Center for
          					Digital History, University of Virginia
-         					({{ getsiteurl }}/{{ .QS }}).
+         					(/{{ .QS }}).
       </p><br><br><div style="width:100%;padding-top:10px;padding-bottom:10px;text-align:center">           
       	{{ template "pagination" .  }}
 

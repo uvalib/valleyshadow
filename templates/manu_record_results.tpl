@@ -22,7 +22,7 @@
       <p class="citation-help"><b>Please cite results as coming from:</b>{{ getcounty .County }} County, {{ getyear .Year}}, {{ getyear .Year }} Manufacturing Census, Valley of
          					the Shadow: Two Communities in the American Civil War, Virginia Center for
          					Digital History, University of Virginia</br>
-         					({{ getsiteurl }}/{{ .QS }}).</p>
+         					(/{{ .QS }}).</p>
       <table border="0">
             {{range .Docs}}
 

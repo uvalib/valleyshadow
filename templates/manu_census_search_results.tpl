@@ -18,7 +18,7 @@
       <p><b>Please cite results as coming from: </b>{{ getcounty .County }} County, {{ getstate .County }} - {{ getyear .Year }} Manufacturing Census.</br> Valley of
          					the Shadow: Two Communities in the American Civil War, Virginia Center for
          					Digital History, University of Virginia</br>
-         					({{ getsiteurl }}/{{ .QS }}).
+         					(/{{ .QS }}).
       </p>
     </div>
       <div class="cite-results-banner">

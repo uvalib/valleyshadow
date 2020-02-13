@@ -37,7 +37,7 @@
            <div style="width:100%;padding-top:10px;padding-bottom:10px;">
              <center><p><b>Please cite results as coming from: </b>{{ getcounty .County }} County, {{ getstate .County }}, 1890 Veterans Census</br> Valley of the Shadow: Two Communities in
                 					the American Civil War, Virginia Center for Digital History, University of
-                					Virginia</br> ({{ getsiteurl }}/{{ .QS}}).
+                					Virginia</br> (/{{ .QS}}).
              </p>
       	{{ template "pagination" .  }}</center>
 

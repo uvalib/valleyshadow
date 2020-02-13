@@ -20,7 +20,7 @@
       <p><b>Please cite results as coming from: </b>{{ getcounty .County }} County, {{ getstate .County }} - {{ getyear .Year }} Population Census.</br> Valley of
          					the Shadow: Two Communities in the American Civil War, Virginia Center for
          					Digital History, University of Virginia</br>
-         					({{ getsiteurl }}/{{ .QS }}).
+         					(/{{ .QS }}).
       </p>
     </div>
       <p><a href="population_census" class="searchReturn">Start a new search</a></p><br><center>

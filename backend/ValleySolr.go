@@ -84,12 +84,6 @@ func GetSolrUrl() string {
 	return os.Getenv("solr_url")
 }
 
-/* ---------------------------------------------------------------------------------*/
-
-func GetSiteUrl() string {
-	return os.Getenv("site_url")
-}
-
 /* ===================================================================================
 
 		Builds a solr query

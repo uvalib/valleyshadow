@@ -27,7 +27,7 @@
          						County, {{ getstate .County }}, 1860 Population Census, Valley of
          						the Shadow: Two Communities in the American Civil War, Virginia Center for
          						Digital History, University of Virginia<br>
-         						( {{ getsiteurl }}/advanced_search_results.html?q=db:pop_aug_60 AND last:anderson ).
+         						( /advanced_search_results.html?q=db:pop_aug_60 AND last:anderson ).
       </p>
       <p><a href="population_census" class="searchReturn">Start a new search</a></p><br><center>
          <div style="width:100%;padding-top:10px;padding-bottom:10px;">     

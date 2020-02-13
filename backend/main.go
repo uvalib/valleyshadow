@@ -225,9 +225,6 @@ func newRouter() *mux.Router {
 func main() {
 
 	// validate we have the environment we need
-	if len(os.Getenv("site_url")) == 0 {
-		log.Fatal("ERROR: site_url is not defined")
-	}
 	if len(os.Getenv("solr_url")) == 0 {
 		log.Fatal("ERROR: solr_url is not defined")
 	}
@@ -243,7 +240,7 @@ func main() {
 
 	r := newRouter()
 	loggedRouter := handlers.LoggingHandler(os.Stdout, r)
-	log.Printf("INFO: %s is listening on port %s (version: %s)", os.Getenv("site_url"), os.Getenv("listen_port"), version())
+	log.Printf("INFO: listening on port %s (version: %s)", os.Getenv("listen_port"), version())
 	log.Fatal(http.ListenAndServe(fmt.Sprintf(":%s", os.Getenv("listen_port")), loggedRouter))
 }
 
@@ -281,13 +278,6 @@ func noext(str string) string {
 
 func titlecase(str string) string {
 	return strings.Title(str)
-}
-
-/*-----------------------------------------------------------------------------------*/
-
-// Load from config eventually
-func getsiteurl() string {
-	return os.Getenv("site_url")
 }
 
 /*-----------------------------------------------------------------------------------*/
@@ -503,7 +493,7 @@ func write_pagination(allcount int, start int, current_url string) string {
 		q.Set("start", fmt.Sprintf("%d", (50*(current_page_int-1))-50))
 		u.RawQuery = q.Encode()
 		if start >= 50 {
-			tmpstr += fmt.Sprintf(" <a href=\"%v/%v?%v\">Previous</a> ", os.Getenv("site_url"), u.Path, u.RawQuery)
+			tmpstr += fmt.Sprintf(" <a href=\"%s?%s\">Previous</a> ", u.Path, u.RawQuery)
 		} else {
 			tmpstr += " "
 		}
@@ -512,7 +502,7 @@ func write_pagination(allcount int, start int, current_url string) string {
 	if current_page_int > 1 && current_page_int <= pagecount && pagecount > 1 {
 		q.Set("start", fmt.Sprintf("%d", (50*(current_page_int-1))-50))
 		u.RawQuery = q.Encode()
-		tmpstr += fmt.Sprintf(" <a href=\"%v/%v?%v\">Previous</a> ", os.Getenv("site_url"), u.Path, u.RawQuery)
+		tmpstr += fmt.Sprintf(" <a href=\"%s?%s\">Previous</a> ", u.Path, u.RawQuery)
 	}
 
 	tnum := 1
@@ -529,7 +519,7 @@ func write_pagination(allcount int, start int, current_url string) string {
 		if current_page_int == tnum {
 			tmpstr += fmt.Sprintf(" %v ", tnum)
 		} else {
-			tmpstr += fmt.Sprintf("<a href=\"%v/%v?%v\">%v</a>", os.Getenv("site_url"), u.Path, u.RawQuery, tnum)
+			tmpstr += fmt.Sprintf("<a href=\"%s?%s\">%d</a>", u.Path, u.RawQuery, tnum)
 		}
 
 		if tnum < pagecount {
@@ -542,7 +532,7 @@ func write_pagination(allcount int, start int, current_url string) string {
 	if current_page_int < pagecount {
 		q.Set("start", fmt.Sprintf("%d", (50*(current_page_int+1))-50))
 		u.RawQuery = q.Encode()
-		tmpstr += fmt.Sprintf(" <a href=\"%v/%v?%v\">Next</a> ", os.Getenv("site_url"), u.Path, u.RawQuery)
+		tmpstr += fmt.Sprintf(" <a href=\"%s?%s\">Next</a> ", u.Path, u.RawQuery)
 	}
 
 	return tmpstr
@@ -566,7 +556,6 @@ func load_html_template(w2 http.ResponseWriter, r2 *http.Request, tpl string) {
 		"getstate":   getstate,
 		"getcounty":  getcounty,
 		"getyear":    getyear,
-		"getsiteurl": getsiteurl,
 		"unescape":   html.UnescapeString,
 	}
 
@@ -686,9 +675,6 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	alldocs_count := solrResponse.Response.NumFound
 	//numdocs_returned := len(solrResponse.Response.Docs)
 
-	//fmt.Println("right before pagination call:")
-	//fmt.Println(GetSiteUrl())
-
 	tmpvar := write_pagination(alldocs_count, solrResponse.Response.Start, r1.URL.RequestURI())
 	//fmt.Println("right after pagination call:" + html.UnescapeString(tmpvar) + "\n")
 
@@ -716,7 +702,6 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 		"getstate":   getstate,
 		"getcounty":  getcounty,
 		"getyear":    getyear,
-		"getsiteurl": getsiteurl,
 		"unescape":   html.UnescapeString,
 	}
 
