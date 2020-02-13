@@ -100,7 +100,8 @@ func ConstructSolrQuery(x string) string {
 
 	qun, err := url.QueryUnescape(x)
 	if err != nil {
-		panic(err)
+		log.Printf("ERROR: during URL parse: %s", err.Error())
+		return x
 	}
 	m, _ := url.ParseQuery(qun)
 
@@ -236,8 +237,8 @@ func SolrFromHTTP(b []byte) (*SolrResponse, error) {
 
 	err := json.Unmarshal(b, &container)
 	if err != nil {
-		log.Println("json.Unmarshal error: %s", err.Error())
-		log.Println("data: %s", string(b))
+		log.Printf("ERROR: json.Unmarshal: %s", err.Error())
+		log.Printf("data: %s", string(b))
 		return nil, err
 	}
 

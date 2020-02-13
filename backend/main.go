@@ -227,7 +227,7 @@ func main() {
 	//fmt.Println(dir)
 
 	r := newRouter()
-	log.Println("Host " + os.Getenv("site_url") + " is listening on port " + os.Getenv("listen_port"))
+	log.Printf("Host %s is listening on port %s", os.Getenv("site_url"), os.Getenv("listen_port"))
 	log.Fatal(http.ListenAndServe(fmt.Sprintf(":%s", os.Getenv("listen_port")), r))
 
 }
@@ -466,8 +466,10 @@ func write_pagination(allcount int, start int, current_url string) string {
 
 	u, err := url.Parse(current_url)
 	if err != nil {
-		log.Fatal(err)
+		log.Printf("ERROR: during URL parse: %s", err.Error())
+		return ""
 	}
+
 	q := u.Query()
 
 	current_page_int = calculate_current_pagenumber(q.Get("start"))
@@ -547,7 +549,9 @@ func load_html_template(w2 http.ResponseWriter, r2 *http.Request, tpl string) {
 
 	t, err := template.New(fname).Funcs(fmap).ParseGlob(fname)
 	if err != nil {
-		log.Fatal("Error loading templates: " + err.Error())
+		log.Printf("ERROR: loading templates: %s", err.Error())
+		http.Error(w2, err.Error(), http.StatusInternalServerError)
+		return
 	}
 
 	w2.Header().Set("Connection", "close")
@@ -555,6 +559,7 @@ func load_html_template(w2 http.ResponseWriter, r2 *http.Request, tpl string) {
 
 	err = t.ExecuteTemplate(w2, tpl, nil)
 	if err != nil {
+		log.Printf("ERROR: executing templates: %s", err.Error())
 		http.Error(w2, err.Error(), http.StatusInternalServerError)
 	}
 
@@ -572,7 +577,9 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 
 	u, err := url.Parse(r1.RequestURI)
 	if err != nil {
-		log.Fatal(err)
+		log.Printf("ERROR: during URL parse: %s", err.Error())
+		http.Error(w1, err.Error(), http.StatusInternalServerError)
+		return
 	}
 
 	tmpq := u.RawQuery
@@ -588,11 +595,21 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	response, err := http.Get(zz)
 
 	if err != nil {
-		log.Fatal("Error getting data from solr: %s", err.Error())
+		log.Printf("ERROR: getting data from SOLR: %s", err.Error())
+		log.Printf("Request URL: %s", zz)
+		http.Error(w1, err.Error(), http.StatusInternalServerError)
+		return
 	}
 
 	defer io.Copy(ioutil.Discard, response.Body)
 	defer response.Body.Close()
+
+	if response.StatusCode != http.StatusOK {
+		log.Printf("ERROR: SOLR request returns %d", response.StatusCode)
+		log.Printf("Request URL: %s", zz)
+		http.Error(w1, err.Error(), http.StatusInternalServerError)
+		return
+	}
 
 	//fmt.Println("pre start = " + m.Get("start"))
 
@@ -626,13 +643,16 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	//replaceall := bytes.Replace(contents, []byte(m.Get("raw_st")), []byte(em_string), -1)
 
 	if err != nil {
-		log.Fatal("Error reading response body into contents: %s", err.Error())
+		log.Printf("ERROR: reading response body into contents: %s", err.Error())
+		log.Printf("Request URL: %s", zz)
+		http.Error(w1, err.Error(), http.StatusInternalServerError)
+		return
 	}
 
 	solrResponse, err := SolrFromHTTP([]byte(string_contents))
 	if err != nil {
-		log.Println("SolrResponseFromHTTPResponse() failed. %v.", err)
-		log.Println("SolrResponseFromHTTPResponse() failed. %+v.", solrResponse)
+		log.Printf("ERROR: SolrFromHTTP: %s", err.Error())
+		log.Printf("Request URL: %s", zz)
 		http.Error(w1, err.Error(), http.StatusInternalServerError)
 		return
 	}
@@ -676,7 +696,10 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 
 	t, err := template.New(fname).Funcs(fmap).ParseGlob(fname)
 	if err != nil {
-		log.Fatal("Error loading templates: " + err.Error())
+		log.Printf("ERROR: loading templates: %s", err.Error())
+		log.Printf("Request URL: %s", zz)
+		http.Error(w1, err.Error(), http.StatusInternalServerError)
+		return
 	}
 
 	w1.Header().Set("Content-Type", "text/html")
@@ -684,9 +707,11 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 
 	err = t.ExecuteTemplate(w1, current_template, solrResponse.Response)
 	if err != nil {
+		log.Printf("ERROR: executing template: %s", err.Error())
+		log.Printf("Request URL: %s", zz)
 		http.Error(w1, err.Error(), http.StatusInternalServerError)
+		return
 	}
-
 }
 
 /* ===================================================================================
@@ -940,9 +965,9 @@ func hndl_images_search_results_html(w http.ResponseWriter, r *http.Request) {
 func hndl_single_image_result_html(w http.ResponseWriter, r *http.Request) {
 
 	defer r.Body.Close()
-	vars := mux.Vars(r)
-	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
-	fmt.Printf("No ext: %v", filename_noext)
+	//vars := mux.Vars(r)
+	//filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
+	//fmt.Printf("No ext: %v", filename_noext)
 	get_solr_search_results(w, r, "images_single_result.tpl")
 
 }
