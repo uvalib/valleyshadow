@@ -96,7 +96,7 @@
 			<body bgcolor="#FFFFFF">
 				<xsl:if test="not($detailed = 'both')">
 					<div class="census_results" align="center">
-					<img src="VoS/redesign/images/vtitle4.gif"/>
+					<img src="/VoS/images/images/vtitle4.gif"/>
 						</div>
 					<h1 style="color:#990000;text-align:center;"><xsl:value-of select="$FullCountyName"/> County -
 							<xsl:value-of select="$year"/> Population</h1>
@@ -323,7 +323,7 @@
 				<div id="footer" style="display:block; clear:both; border: none; padding-top: 1em;">
 					<center>
 						<a href="VoS/choosepart.html" shape="rect">
-							<img alt="Return to Full Valley Archive" border="0" src="VoS/graphics/full7.gif"/>
+							<img alt="Return to Full Valley Archive" border="0" src="/VoS/images/graphics/full7.gif"/>
 						</a>
 					</center>
 				</div>

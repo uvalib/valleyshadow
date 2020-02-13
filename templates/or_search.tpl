@@ -20,14 +20,14 @@
 				<script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
 				<script src="../VoS/javascript/or_search.js" type="text/javascript"></script></head>
 			    <link type="text/css" rel="stylesheet" href="../VoS/css/valleyshadow.css" />   
-      			<link rel="icon" type="image/png" href="../VoS/favicon.ico" />
+      			<link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 				
    <body vlink="#00009c" link="#cd7f32" bgcolor="#FFFFFF">
       <div id="no-javascript" style="width:100%;text-align:center;">
          <h3 class="warning">This page requires Javascript.  Please ensure that you have enabled Javascript in your browser's preferences</h3>
       </div>
       <div id="form">
-         <div style="width:100%;text-align:center;"><img style="padding-left:10px;" src="../VoS/images/images/vtitle4.gif"><h2 class="red-head">Search the Valley Official Records</h2>
+         <div style="width:100%;text-align:center;"><img style="padding-left:10px;" src="/VoS/images/images/vtitle4.gif"><h2 class="red-head">Search the Valley Official Records</h2>
          </div>
          <form method="get" action="/or_search_results.html" name="orSearchForm"><input id="query" name="q" readonly type="hidden"><input value="50" name="rows" readonly type="hidden"><input value="0" name="start" readonly type="hidden"><div style="width:65%;margin-left:auto;margin-right:auto;">
                <blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
@@ -85,6 +85,6 @@
             </div>
          </form>
       </div>
-      <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="../VoS/images/graphics/full7.gif"></a></center>
+      <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
    <script src="../Vos/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

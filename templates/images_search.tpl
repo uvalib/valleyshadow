@@ -6,7 +6,7 @@
       <title>Valley of the Shadow: Civil War Images Search</title><style> .red-head {color: #990000; font-family: times, serif; font-weight: bold } .warning{font-weight:bold; padding:5px; color:#000099;} 
 				</style>
 	  <link type="text/css" rel="stylesheet" href="../VoS/css/valleyshadow.css" />   
-      <link rel="icon" type="image/png" href="../VoS/favicon.ico" />
+      <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 				<script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
 				<script src="../VoS/javascript/images_search.js" type="text/javascript"></script>
 				<script src="../VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
@@ -29,7 +29,7 @@
                   </table>
                </td>
                <td>
-                  <center><img src="../VoS/images/images/vtitle4.gif"></center><br><p>
+                  <center><img src="/VoS/images/images/vtitle4.gif"></center><br><p>
                      <h1 class="red-head"><b>
                            <center> Search the Civil War Images Database </center></b></h1>
                   </p>
@@ -117,7 +117,7 @@
                </table>
             </form>
          </center><br><hr width="80%">
-         <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="../VoS/images/graphics/full7.gif"></a></center>
+         <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
       </div>
    <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

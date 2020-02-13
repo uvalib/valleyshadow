@@ -9,7 +9,7 @@
       <script src="../VoS/javascript/cohabitation_search.js" type="text/javascript"></script>
       <script src="../VoS/javascript/thickbox.js" type="text/javascript"></script>
   	  <link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">
-	  <link rel="icon" type="image/png" href="../VoS/favicon.ico" />
+	  <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
       
       <style> body { text-align: center; } div#wrapper { margin:5px auto; width: 700px;
 					text-align: left; } div#husbandInfo { padding: 10px; width: 500px; float: left;
@@ -31,7 +31,7 @@
       </div>
       <div id="form">
          <form method="GET" action="/cohabitation_search_results.html" name="cohabitationSearchForm"><input name="q" id="query" type="hidden"><input value="50" name="rows" type="hidden"><input value="0" name="start" type="hidden"><div id="wrapper">
-               <center><img border="0" src="../VoS/images/images/vtitle4.gif"><h2 class="red-head">Search the Cohabitation Records</h2><a href="VoS/freedmen1.html">Return to Bureau Home</a> | <a href="VoS/fbureau/aboutcohab.html">About the Cohabitation Records</a></center>
+               <center><img border="0" src="/VoS/images/images/vtitle4.gif"><h2 class="red-head">Search the Cohabitation Records</h2><a href="VoS/freedmen1.html">Return to Bureau Home</a> | <a href="VoS/fbureau/aboutcohab.html">About the Cohabitation Records</a></center>
                <hr>
                <div id="husbandInfo">
                   <div class="rowodd">
@@ -440,7 +440,7 @@
                            </option></select></div>
                   </div><input value="Submit" id="search_button" type="submit"><input value="Reset" type="reset" id="Reset"></div><br clear="all"><hr>
             </div>
-            <center><a href="VoS/choosepart.html"><img alt="" border="0" src="../VoS/images/graphics/full7.gif"></a></center>
+            <center><a href="VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
          </form>
       </div>
       <div id="search"></div>

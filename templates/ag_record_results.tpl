@@ -18,7 +18,7 @@
 
 				</head>
    <body vlink="#00009C" link="#CD7F32" bgcolor="#FFFFFF">
-      <center><img src="../VoS/images/images/vtitle4.gif" border="0"></center>
+      <center><img src="/VoS/images/images/vtitle4.gif" border="0"></center>
       <h1 class="red-head">
          <center>Augusta - 1860
             						Agricultural Census 

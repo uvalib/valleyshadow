@@ -7,11 +7,11 @@
 							div#singleRecordDisplay { display:inline-block; align:center; margin: auto; left:auto; right:0; margin-left:auto; margin-right:auto; min-width: 50%; max-width: 95%; padding: 3px; padding-right:2em; }
 							div.recordHeader {width: 100% !important;} </style>
 				<link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">
-				<link rel="icon" type="image/png" href="../VoS/favicon.ico" />
+				<link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 							
 							</head>
    <body>
-      <div style="align: center; text-align: center;" id="mainHeader"><img src="../VoS/images/images/vtitle4.gif" style="align: center;"><h1 style="color:#990000;">Augusta - 1860 Population </h1>
+      <div style="align: center; text-align: center;" id="mainHeader"><img src="/VoS/images/images/vtitle4.gif" style="align: center;"><h1 style="color:#990000;">Augusta - 1860 Population </h1>
       </div>
       <p style="max-width: 90%;"><b>Please cite results as coming from: </b>Augusta County, Virginia,
          						1860 Population Census, Valley of the Shadow: Two

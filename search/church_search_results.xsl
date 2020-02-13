@@ -42,7 +42,7 @@
 		</head>
 		<body>
 			<center>
-				<img align="center" src="VoS/redesign/images/vtitle4.gif"/>
+				<img align="center" src="/VoS/images/images/vtitle4.gif"/>
 			</center>
 
 		<xsl:choose>
@@ -153,7 +153,7 @@
 		</xsl:if>
 			<center>
 				<a href="VoS/choosepart.html">
-					<img src="VoS/graphics/full7.gif"
+					<img src="/VoS/images/graphics/full7.gif"
 						border="0" alt=""/>
 				</a>
 			</center>

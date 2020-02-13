@@ -135,7 +135,7 @@
 				<!-- <h2>q is:<xsl:value-of select="$q"/></h2>
 				<h3>pipeline :<xsl:value-of select="$current-pipeline"/></h3> -->
 				<div align="center">
-				<img src="VoS/redesign/images/vtitle4.gif"/>
+				<img src="/VoS/images/images/vtitle4.gif"/>
 				<h1 style="color: rgb(153, 0, 0); text-align: center;"><xsl:value-of
 						select="$FullCountyName"/> County: Results from Searching Both Censuses </h1>
 				<p class="citationHelp"><b>Please cite results as coming from: </b><xsl:value-of select="$FullCountyName"/>
@@ -186,7 +186,7 @@
 				<div id="footer" style="display:block; clear:both; border: none; padding-top: 1em;">
 					<center>
 						<a href="VoS/choosepart.html" shape="rect">
-							<img alt="Return to Full Valley Archive" border="0" src="VoS/graphics/full7.gif"/>
+							<img alt="Return to Full Valley Archive" border="0" src="/VoS/images/graphics/full7.gif"/>
 						</a>
 					</center>
 				</div>

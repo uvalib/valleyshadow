@@ -11,7 +11,7 @@
 				</script><script src="../VoS/javascript/slave_census_search.js" type="text/javascript"></script>
 				<script src="../VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
 				<link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">
-				<link rel="icon" type="image/png" href="../VoS/favicon.ico" />				
+				<link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 			</head>
    <body VLINK="#00009C" LINK="#CD7F32" BGCOLOR="FFFFFF" TEXT="#000000">
       <div id="no-javascript" style="width:100%;text-align:center;">
@@ -34,7 +34,7 @@
                   </table>
                </td>
                <td>
-                  <center><img src="../VoS/redesign/images/vtitle4.gif"></center><br><br><p>
+                  <center><img src="/VoS/images/images/vtitle4.gif"></center><br><br><p>
                      <h1 class="red-head"><b>
                            <center> Search the U.S. Slaveowners Census for 1860
                               											
@@ -126,7 +126,7 @@
                </table>
             </form>
          </center><br><hr width="80%">
-         <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="../VoS/images/graphics/full7.gif"></a></center>
+         <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
       </div>
       <div id="search"></div>
    <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>

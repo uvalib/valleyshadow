@@ -23,7 +23,7 @@
  <meta content="United States Civil War American history Virginia Pennsylvania military 
  geneology archive" name="keywords" />
  
- <link rel="icon" type="image/png" href="../VoS/favicon.ico" />
+ <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
  <link type="text/css" rel="stylesheet" href="../VoS/css/valleyshadow.css" />   
  <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
  <!-- 
@@ -37,7 +37,7 @@
 
    <div style="width:90%;padding-top:10px;padding-bottom:10px;" id="topNavig"></div>
    
-	      <center><img src="../VoS/images/images/vtitle4.gif" border="0"><h2 class="red-head">Search the Valley of the Shadow Letters</h2>
+	      <center><img src="/VoS/images/images/vtitle4.gif" border="0"><h2 class="red-head">Search the Valley of the Shadow Letters</h2>
          <div style="padding-bottom:1em;" id="resultSummary">
            {{ template "pagination" .  }}
          </div>
@@ -55,7 +55,7 @@
        {{end}}
    {{ template "pagination" . }}
 
-        </center><br><center><a href="../VoS/choosepart.html"><img alt="" src="../VoS/images/graphics/full7.gif" border="0"></a></center>
+        </center><br><center><a href="../VoS/choosepart.html"><img alt="" src="/VoS/images/graphics/full7.gif" border="0"></a></center>
   </body>
 </html>
 

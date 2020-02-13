@@ -5,7 +5,7 @@
       <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
       <title>Valley of the Shadow: Agricultural Census Search</title><style> .red-head {color: #990000; font-family: times, serif; font-weight: bold } .warning{font-weight:bold; padding:5px; color:#000099; background-color:#FFFFFF;} </style>
 	  <link type="text/css" rel="stylesheet" href="../VoS/css/valleyshadow.css" />   
-      <link rel="icon" type="image/png" href="../VoS/favicon.ico" />
+      <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
  
       <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
       <script src="../VoS/javascript/ag_census_search.js" type="text/javascript"></script>
@@ -32,7 +32,7 @@
                      </table>
                   </td>
                   <td>
-                     <center><img src="../VoS/images/images/vtitle4.gif"><br><br><h1 class="red-head"> Search the U.S. Agricultural
+                     <center><img src="/VoS/images/images/vtitle4.gif"><br><br><h1 class="red-head"> Search the U.S. Agricultural
                            											Census 
                         </h1>
                      </center>
@@ -148,7 +148,7 @@
                </table>
             </form>
          </center><br><hr width="80%">
-         <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="../VoS/images/graphics/full7.gif"></a></center>
+         <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
       </div>
       <div id="search"></div>
    <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>

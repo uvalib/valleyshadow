@@ -13,11 +13,11 @@
 				      <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
 				      <script src="../VoS/javascript/census-thickbox.js" type="text/javascript"></script>
      				  <link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">
-	     			  <link rel="icon" type="image/png" href="../VoS/favicon.ico" />
+	     			  <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 
 				</head>
    <body>
-      <center><img src="../VoS/images/images/vtitle4.gif"><h1><font color="#990000">
+      <center><img src="/VoS/images/images/vtitle4.gif"><h1><font color="#990000">
                <center>{{ getcounty .County }} County - {{ getyear .Year }} Agricultural Census </center></font></h1>
          <p><b>Please cite results as coming from: </b>{{ getcounty .County }} County, {{ getstate .County}}, {{ getyear .Year}} Agricultural Census, Valley of the
             					Shadow: Two Communities in the American Civil War, Virginia Center for Digital
@@ -67,7 +67,7 @@
       </center>
       <p><a href="ag_census">Go back to search page</a></p>
       <div style="display:block; clear:both; border: none; padding-top: 1em;" id="footer">
-         <center><a shape="rect" href="../VoS/choosepart.html"><img src="../VoS/images/graphics/full7.gif" border="0" alt="Return to Full Valley Archive"></a></center>
+         <center><a shape="rect" href="../VoS/choosepart.html"><img src="/VoS/images/graphics/full7.gif" border="0" alt="Return to Full Valley Archive"></a></center>
       </div>
    <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

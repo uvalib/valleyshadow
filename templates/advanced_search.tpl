@@ -7,7 +7,7 @@
 					.warning{font-weight:bold; padding:5px; color:#000099; background-color:#FFFFFF;} .debug {color:red; background:brown;}
 				</style>
 				<link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">
-				<link rel="icon" type="image/png" href="../VoS/favicon.ico" />
+				<link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 				<script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
 				<script src="../VoS/javascript/advanced_census_search.js" type="text/javascript"></script></head>
    <body VLINK="#00009C" LINK="#CD7F32" BGCOLOR="FFFFFF" TEXT="#000000">
@@ -34,7 +34,7 @@
                   </table>
                </td>
                <td>
-                  <center><img src="../VoS/images/images/vtitle4.gif"></center><br><br><h1 class="red-head">
+                  <center><img src="/VoS/images/images/vtitle4.gif"></center><br><br><h1 class="red-head">
                      <center>Search the 1860 or 1870 U.S. Census - Advanced Search</center>
                   </h1>
                   <blockquote> This page allows you to perform an advanced search on
@@ -306,7 +306,7 @@
                </tr>
             </table>
          </form><br><hr width="80%">
-         <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="../VoS/images/graphics/full7.gif"></a></center>
+         <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
       </div>
       <div style="margin-top:20px;margin-bottom:20px;" id="search"></div>
       <div style="width:49%; float:left;margin-top:20px;margin-bottom:20px;margin-right:1%;" id="search1"></div>

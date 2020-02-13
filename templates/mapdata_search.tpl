@@ -7,7 +7,7 @@
       <script src="../VoS/javascript/mapdata_search.js" type="text/javascript"></script>
       <script src="../VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
 	  <link type="text/css" rel="stylesheet" href="../VoS/css/valleyshadow.css" />   
-      <link rel="icon" type="image/png" href="../VoS/favicon.ico" />
+      <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
       
       </head>
    <body VLINK="#00009C" LINK="#CD7F32" BGCOLOR="FFFFFF" TEXT="#000000">
@@ -28,7 +28,7 @@
                   </table>
                </td>
                <td>
-                  <center><img src="../VoS/images/images/vtitle4.gif"></center><br><p>
+                  <center><img src="/VoS/images/images/vtitle4.gif"></center><br><p>
                      <h1 class="red-head"><b>
                            <center> Search the Record of Events Database </center></b></h1>
                   </p>
@@ -789,7 +789,7 @@
                   <option value="Maj. William A. West">Maj. William A. West</option>
                   <option value="Maj. William H. Fry">Maj. William H. Fry</option>
                   <option value="n.a.">n.a.</option></select><br><br><input id="search_button" value="Start Search" type="submit"><input value="Clear Form" type="reset"><br><br><br><hr width="80%">
-               <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="../VoS/images/graphics/full7.gif"></a></center>
+               <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
             </form>
          </center>
       </div>

@@ -26,7 +26,7 @@
                   </table>
                </td>
                <td>
-                  <center><img src="../VoS/images/images/vtitle4.gif"></center><br><br><p>
+                  <center><img src="/VoS/images/images/vtitle4.gif"></center><br><br><p>
                      <h1 class="red-head"><b>
                            <center> Search the Church Records </center></b></h1>
                   </p>
@@ -129,7 +129,7 @@
                </table>
             </form>
          </center><br><hr width="80%">
-         <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="../VoS/images/graphics/full7.gif"></a></center>
+         <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
       </div>
       <div id="search"></div>
    <script src="http://valley.lib.virginia.edu/javascript/libtools.js" type="text/javascript"></script></body>

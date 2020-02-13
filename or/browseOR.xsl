@@ -41,7 +41,7 @@
 			}
 		</style>
 		<link type="text/css" rel="stylesheet" href="../VoS/css/valleyshadow.css" />   
-        <link rel="icon" type="image/png" href="../VoS/favicon.ico" />
+        <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 
 		</head>
 		<body bgcolor="#ffffff" link="#cd7f32" vlink="#00009c" text="#000000">
@@ -80,7 +80,7 @@
 			
 
 										<xsl:call-template name="Single"/></div></center> <center>
-											<hr width="45%" align="center"/><a href="../VoS/choosepart.html"><img src="http:../VoS/images/graphics/full7.gif" alt="Return to Full Valley Archive"/></a>
+											<hr width="45%" align="center"/><a href="../VoS/choosepart.html"><img src="/VoS/images/graphics/full7.gif" alt="Return to Full Valley Archive"/></a>
 											
 										</center>
 		</body>

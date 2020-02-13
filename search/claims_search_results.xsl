@@ -101,7 +101,7 @@
 
                                 <center>
                                         <a href="VoS/choosepart.html">
-                                                <img src="VoS/graphics/full7.gif" border="0"
+                                                <img src="/VoS/images/graphics/full7.gif" border="0"
                                                         alt=""/>
                                         </a>
                                 </center>

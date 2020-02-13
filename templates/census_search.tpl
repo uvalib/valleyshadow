@@ -11,7 +11,7 @@
 				<script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
 				<script src="../VoS/javascript/population_census.js" type="text/javascript"></script>
 				<link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">
-				<link rel="icon" type="image/png" href="../VoS/favicon.ico" />
+				<link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 
 	</head>
    <body VLINK="#00009C" LINK="#CD7F32" BGCOLOR="FFFFFF" TEXT="#000000">
@@ -38,7 +38,7 @@
                   </table>
                </td>
                <td>
-                  <center><img src="../VoS/images/images/vtitle4.gif"></center><br><br><p>
+                  <center><img src="/VoS/images/images/vtitle4.gif"></center><br><br><p>
                      <h1 class="red-head"><b>
                            <center> Search the U.S. Census - Basic Search </center></b></h1>
                   </p>
@@ -149,7 +149,7 @@
                </tr>
             </table>
          </form><br><hr width="80%">
-         <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="../VoS/images/graphics/full7.gif"></a></center>
+         <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
       </div>
    <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

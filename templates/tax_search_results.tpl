@@ -9,7 +9,7 @@
 					p.no-results { font-family: arial; text-align: center; padding: 3em 0 5em 0;}
 				</style>
 	  <link type="text/css" rel="stylesheet" href="../VoS/css/valleyshadow.css" />   
-      <link rel="icon" type="image/png" href="../VoS/favicon.ico" />
+      <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 				
 				</head>
    <body>
@@ -51,6 +51,6 @@
       	{{ template "pagination" .  }}
 
       </div><script src="../VoS/javascript/generic_search_paging.js" type="text/javascript"></script><p><a href="tax">Go back to search page</a></p>
-      <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="../VoS/images/graphics/full7.gif"></a></center>
+      <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
    <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

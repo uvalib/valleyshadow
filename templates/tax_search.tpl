@@ -9,7 +9,7 @@
       <script src="../VoS/javascript/tax_search.js" type="text/javascript"></script>
       <script src="../VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
 	  <link type="text/css" rel="stylesheet" href="../VoS/css/valleyshadow.css" />   
-      <link rel="icon" type="image/png" href="../VoS/favicon.ico" />
+      <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
       
 	</head>
    <body vlink="#00009C" link="#CD7F32" bgcolor="FFFFFF" text="#000000">
@@ -31,7 +31,7 @@
                      </table>
                   </td>
                   <td>
-                     <center><img src="../VoS/images/images/vtitle4.gif"><br><br><p>
+                     <center><img src="/VoS/images/images/vtitle4.gif"><br><br><p>
                            <h1 class="red-head"> Search the 1860 Augusta or
                               												Franklin County Tax Records 
                            </h1>
@@ -130,7 +130,7 @@
                </table>
             </form>
          </center><br><hr width="80%">
-         <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="../VoS/images/graphics/full7.gif"></a></center>
+         <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
       </div>
       <div id="search"></div>
    <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>

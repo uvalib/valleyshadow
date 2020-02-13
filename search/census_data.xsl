@@ -55,7 +55,7 @@
 				</xsl:choose>
 			</head>
 			<body>
-				<div id="mainHeader" style="align: center; text-align: center;"><img style="align: center;" src="VoS/redesign/images/vtitle4.gif"/>
+				<div id="mainHeader" style="align: center; text-align: center;"><img style="align: center;" src="/VoS/images/images/vtitle4.gif"/>
 				<h1 style="color:#990000;"><xsl:value-of select="$county"/> - <xsl:value-of
 					select="$year"/> Population </h1></div>
 				<p style="max-width: 90%;"><b>Please cite results as coming from: </b>

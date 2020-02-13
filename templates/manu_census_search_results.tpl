@@ -6,7 +6,7 @@
       <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
       <script src="../VoS/javascript/census-thickbox.js" type="text/javascript"></script>
 	    <link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">
-	     <link rel="icon" type="image/png" href="../VoS/favicon.ico" />
+	     <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 	 </head>
    <body>
       <h1 class="red-head">
@@ -59,7 +59,7 @@
         			{{ template "pagination" . }}
       </div><script src="../VoS/javascript/generic_search_paging.js" type="text/javascript"></script><p><a href="manu_census">Go back to search page</a></p>
       <center>
-        <a href="../VoS/choosepart.html"><img alt="" border="0" src="../VoS/images/graphics/full7.gif"></a>
+        <a href="../VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a>
       </center>
       <script src="http:../VoS/javascript/libtools.js" type="text/javascript"></script>
     </body>

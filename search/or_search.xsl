@@ -28,7 +28,7 @@
 				<div id="form">
 					<div style="width:100%;text-align:center;">
 
-						<img src="VoS/redesign/images/vtitle4.gif"
+						<img src="/VoS/images/images/vtitle4.gif"
 							style="padding-left:10px;"/>
 						<h2 class="red-head">Search the Valley Official Records</h2>
 					</div>
@@ -116,7 +116,7 @@
 				</div>
 				<center>
 					<a href="VoS/choosepart.html">
-						<img src="VoS/graphics/full7.gif" border="0" alt=""/>
+						<img src="/VoS/images/graphics/full7.gif" border="0" alt=""/>
 					</a>
 				</center>
 			</body>

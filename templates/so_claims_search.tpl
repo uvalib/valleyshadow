@@ -20,7 +20,7 @@
          <h3 class="warning">This page requires Javascript.  Please ensure that you have enabled Javascript in your browser's preferences</h3>
       </div>
       <div id="form">
-         <div style="width:100%;text-align:center;"><img style="padding-left:10px;" src="VoS/redesign/images/vtitle4.gif"><h1 class="red-head">Search the Valley Southern Claims Commission</h1>
+         <div style="width:100%;text-align:center;"><img style="padding-left:10px;" src="/VoS/images/images/vtitle4.gif"><h1 class="red-head">Search the Valley Southern Claims Commission</h1>
          </div>
          <form method="get" action="/soclaims_search_results.html" name="soclaimsSearchForm"><input value="db:xml_claims AND fulltext:" name="q" id="query" type="hidden"><input value="50" name="rows" type="hidden"><input value="0" name="start" type="hidden"><div style="width:65%;margin-left:auto;margin-right:auto;"><br><p style="color:#000099;" class="header"><b>Search Claims:</b></p>
                <p><label>Search for: <input type="text" name="search_text"></label></p>
@@ -68,7 +68,7 @@
                      <option>Troop Movement</option>
                      <option>Women</option></select><input value="Go!" id="browse_button" type="submit"></p>
                <hr>
-               <center><a href="VoS/choosepart.html"><img alt="" border="0" src="VoS/graphics/full7.gif"></a></center>
+               <center><a href="VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
             </form>
          </div>
       </div>

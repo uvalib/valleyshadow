@@ -7,7 +7,7 @@
       <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
       <script src="../VoS/javascript/thickbox.js" type="text/javascript"></script>
   	  <link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">
-	  <link rel="icon" type="image/png" href="../VoS/favicon.ico" />
+	  <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 
       <style> body { text-align: center; }
 			 div#wrapper { margin-left:auto;
@@ -85,7 +85,7 @@
 			p.no-results { font-family: arial; text-align: center; padding: 3em 0 5em 0;}
 		</style></head>
    <body>
-      <center><img border="0" src="../VoS/images/images/vtitle4.gif"><h2>Search the Cohabitation Records</h2><a href="../VoS/freedmen1.html">Return to Bureau Home</a> | <a href="../VoS/about.html">About
+      <center><img border="0" src="/VoS/images/images/vtitle4.gif"><h2>Search the Cohabitation Records</h2><a href="../VoS/freedmen1.html">Return to Bureau Home</a> | <a href="../VoS/about.html">About
             						the Cohabitation Records</a></center>
       <hr>
       <div style="width:100%;padding-top:10px;padding-bottom:10px;">   
@@ -134,7 +134,7 @@
 
       </div><script src="javascript/generic_search_paging.js" type="text/javascript"></script><p><a href="cohabitation">Go back to search page</a></p>
       <div style="display:block; clear:both; border: none; padding-top: 1em;" id="footer">
-         <center><a shape="rect" href="../VoS/choosepart.html"><img src="../VoS/images/graphics/full7.gif" border="0" alt="Return to Full Valley Archive"></a></center>
+         <center><a shape="rect" href="../VoS/choosepart.html"><img src="/VoS/images/graphics/full7.gif" border="0" alt="Return to Full Valley Archive"></a></center>
       </div>
    <script src="..VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

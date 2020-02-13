@@ -22,7 +22,7 @@
 						<input type="hidden" name="rows" value="10"/>
 						<input type="hidden" name="start" value="0"/>
 						<div style="width:80%;text-align:center;">
-							<img src="VoS/redesign/images/vtitle4.gif" style="padding-left:10px;"/>
+							<img src="/VoS/images/images/vtitle4.gif" style="padding-left:10px;"/>
 							<h2 class="red-head">Search the Valley of the Shadow Diaries</h2>
 							<blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be substituted for any number of characters at the middle or back of a word. Please see <a href="VoS/reference/tips.html">
 									<b>Tips for Searching</b>
@@ -69,7 +69,7 @@
 							</div><hr/>
 							<center>
 								<a href="VoS/choosepart.html">
-									<img src="VoS/graphics/full7.gif" border="0" alt=""/>
+									<img src="/VoS/images/graphics/full7.gif" border="0" alt=""/>
 								</a>
 							</center>
 						</div>

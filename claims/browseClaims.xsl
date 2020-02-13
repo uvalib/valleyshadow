@@ -36,7 +36,7 @@
 		</head>
 		<body bgcolor="#ffffff" link="#cd7f32" vlink="#00009c" text="#000000"><center>
 			
-			<img src="../VoS/images/images/vtitle4.gif" border="0"/>
+			<img src="/VoS/images/images/vtitle4.gif" border="0"/>
 			
 			<br/>
 			<br/>
@@ -60,7 +60,7 @@
 			<hr align="center" width="65%"/>
 			<br/>
 			<center>
-				<a href="../VoS/choosepart.html"><img src="http:../VoS/images/graphics/full7.gif" alt="Return to Full Valley Archive"/></a>
+				<a href="../VoS/choosepart.html"><img src="/VoS/images/graphics/full7.gif" alt="Return to Full Valley Archive"/></a>
 				
 			</center>
 		</body>

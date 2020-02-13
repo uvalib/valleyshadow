@@ -18,7 +18,7 @@
   		        <link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">      				
 				</head>
    <body>
-      <center><img border="0" src="../VoS/images/images/vtitle4.gif"><h2 class="red-head">Search the Valley Newspapers</h2>
+      <center><img border="0" src="/VoS/images/images/vtitle4.gif"><h2 class="red-head">Search the Valley Newspapers</h2>
          <div style="width:90%;padding-top:10px;padding-bottom:10px;" id="topNavig"> 
          {{ template "pagination" .  }}
 
@@ -36,7 +36,7 @@
         {{ template "pagination" .  }}
 
          </div><br></center><br><p><a href="newspapers">Go back to search page</a></p>
-      <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="../VoS/images/graphics/full7.gif"></a></center>
+      <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
       <h6 class="debug">results from http://libsvr40.lib.virginia.edu:8080/solr/valley/</h6>
    <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

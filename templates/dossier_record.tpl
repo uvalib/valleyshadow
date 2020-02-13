@@ -3,7 +3,7 @@
 <html>
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><style type="text/css"> table#dossier * td { color: #990000; } table#dossier tr.data td { color: #000000;  } table#dossier tr.data td p.item { border: none; padding:5px 0 5px 0; margin:0} </style><title>Record for Wllliam George Abney</title>
-  <link rel="icon" type="image/png" href="../VoS/favicon.ico" />
+  <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
   <link type="text/css" rel="stylesheet" href="../VoS/css/valleyshadow.css" />
 
    </head>
@@ -103,6 +103,6 @@
       {{ end }}
       <div class="navigationFooter"><a onClick="javascript:history.back()" href="javascript:history.back()"><b>Return to Search Results</b></a><br></div>
       <div class="navigationFooter"><br><a href="dossiers">Start a New Search</a><br></div>
-      <center><a href="../VoS/choosepart.html"><img src="../VoS/images/graphics/full7.gif" border="0" alt=""></a></center>
+      <center><a href="../VoS/choosepart.html"><img src="/VoS/images/graphics/full7.gif" border="0" alt=""></a></center>
    <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

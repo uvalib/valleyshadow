@@ -4,7 +4,7 @@
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
       <title>Valley of the Shadow: Civil War Images -- Search Results</title>
-      <link rel="icon" type="image/png" href="../VoS/favicon.ico" />
+      <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
       <link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">      
       <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
       <script src="../VoS/javascript/replace_em.js" type="text/javascript"></script>
@@ -15,7 +15,7 @@
 			#topNavig, #bottomNavig { display:block; padding: 10px; align: center; }
 		</style></head>
    <body>
-      <center><img src="../VoS/images/images/vtitle4.gif" align="center"><h1><font color="#990000">Civil War Images</font></h1><br><p style="padding: 1em;"><b>Please cite results as coming from:</b> Civil War Image Database, Valley of
+      <center><img src="/VoS/images/images/vtitle4.gif" align="center"><h1><font color="#990000">Civil War Images</font></h1><br><p style="padding: 1em;"><b>Please cite results as coming from:</b> Civil War Image Database, Valley of
             					the Shadow: Two Communities in the American Civil War, Virginia Center for
             					Digital History, University of Virginia<br>
             					(http://valley.lib.virginia.edu/images_search_results.html?q=db:images).
@@ -75,7 +75,7 @@
       </center>
       <p><a href="images">Go back to search page</a></p>
       <div style="display:block; clear:both; border: none; padding-top: 1em;" id="footer">
-         <center><a shape="rect" href="../VoS/choosepart.html"><img src="../VoS/images/graphics/full7.gif" border="0" alt="Return to Full Valley Archive"></a></center>
+         <center><a shape="rect" href="../VoS/choosepart.html"><img src="/VoS/images/graphics/full7.gif" border="0" alt="Return to Full Valley Archive"></a></center>
       </div>
    <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

@@ -27,7 +27,7 @@
 				</div>
 				<div id="form">
 					<center>
-						<img src="VoS/redesign/images/vtitle4.gif"
+						<img src="/VoS/images/images/vtitle4.gif"
 							border="0"/>
 
 						<h2 class="red-head">Search the Valley Newspapers</h2>
@@ -208,7 +208,7 @@
 					<br/>
 					<center>
 						<a href="VoS/choosepart.html">
-							<img src="VoS/graphics/full7.gif" border="0"
+							<img src="/VoS/images/graphics/full7.gif" border="0"
 								alt="Full Valley Archive"/>
 						</a>
 					</center>

@@ -42,7 +42,7 @@
 			</head>
 			<body bgcolor="#FFFFFF" link="#CD7F32" vlink="#00009C">
 				<center>
-					<img src="VoS/redesign/images/vtitle4.gif"/>
+					<img src="/VoS/images/images/vtitle4.gif"/>
 				</center>
 				<h1 class="red-head">
 					<center>Augusta County, Virginia, 1860 Slaveowners Census Census </center>
@@ -144,7 +144,7 @@
 				<hr width="80%"/>
 				<center>
 					<a href="VoS/choosepart.html">
-						<img src="VoS/graphics/full7.gif" border="0"
+						<img src="/VoS/images/graphics/full7.gif" border="0"
 							alt=""/>
 					</a>
 				</center>

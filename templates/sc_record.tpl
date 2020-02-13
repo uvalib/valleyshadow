@@ -5,12 +5,12 @@
       <title>Valley of the Shadow: Census Search Results</title>
 
         <link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">
-        <link rel="icon" type="image/png" href="../VoS/favicon.ico" />
+        <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
         <script src="../VoS/javascript/census-thickbox.js" type="text/javascript"></script>
 
 				</head>
    <body vlink="#00009C" link="#CD7F32" bgcolor="#FFFFFF">
-      <center><img src="../VoS/images/images/vtitle4.gif"></center>
+      <center><img src="/VoS/images/images/vtitle4.gif"></center>
       <h1 class="red-head">
          <center>Augusta County, Virginia, 1860 Slaveowners Census Census </center>
       </h1><br><center><p><b>Please cite results as coming from:</b> Augusta County, Virginia, 1860
@@ -70,6 +70,6 @@
       {{ end }}
       <p><a href="javascript:history.go(-1)">go back to search results page</a><br><a href="slave_census">New Search</a></p>
       <hr width="80%">
-      <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="../VoS/images/graphics/full7.gif"></a></center>
+      <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
    <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

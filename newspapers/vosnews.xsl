@@ -113,7 +113,7 @@
                     </td>
                     <td align="left">
                         <center>
-                            <p><img src="../../VoS/redesign/images/vtitle4.gif"/></p><img src="../../VoS/newspapers/newspaper_head.jpg"/></center>
+                            <p><img src="/VoS/images/images/vtitle4.gif"/></p><img src="../../VoS/newspapers/newspaper_head.jpg"/></center>
                         
                         <center>
                             <h2 class="section-head">

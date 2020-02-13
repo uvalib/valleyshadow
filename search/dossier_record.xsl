@@ -425,7 +425,7 @@
 				</div>
 				<center>
 					<a href="VoS/choosepart.html">
-						<img alt="" border="0" src="VoS/graphics/full7.gif"/>
+						<img alt="" border="0" src="/VoS/images/graphics/full7.gif"/>
 					</a>
 				</center>
 

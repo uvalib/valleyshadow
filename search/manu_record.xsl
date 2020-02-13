@@ -67,7 +67,7 @@
 			</head>
 			<body bgcolor="#FFFFFF" link="#CD7F32" vlink="#00009C">
 				<center>
-					<img src="VoS/redesign/images/vtitle4.gif"/>
+					<img src="/VoS/images/images/vtitle4.gif"/>
 				</center>
 				<h1>
 					<font color="#990000">

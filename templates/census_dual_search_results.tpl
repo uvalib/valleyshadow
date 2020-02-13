@@ -82,7 +82,7 @@
 		<script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
 		<script src="../VoS/javascript/census-thickbox.js" type="text/javascript"></script></head>
    <body vlink="#00009C" link="#CD7F32" bgcolor="#FFFFFF">
-      <div align="center"><img src="../VoS/images/images/vtitle4.gif"><h1 style="color: rgb(153, 0, 0); text-align: center;">Augusta County: Results from Searching Both Censuses </h1>
+      <div align="center"><img src="/VoS/images/images/vtitle4.gif"><h1 style="color: rgb(153, 0, 0); text-align: center;">Augusta County: Results from Searching Both Censuses </h1>
          <p class="citationHelp"><b>Please cite results as coming from: </b>Augusta
             	                County, Virginia, 1860 and 1870 Population Census, Valley of
             	                the Shadow: Two Communities in the American Civil War, Virginia Center for
@@ -1142,7 +1142,7 @@
          </div>
       </div>
       <div style="display:block; clear:both; border: none; padding-top: 1em;" id="footer">
-         <center><a shape="rect" href="../VoS/choosepart.html"><img src="../VoS/images/graphics/full7.gif" border="0" alt="Return to Full Valley Archive"></a></center>
+         <center><a shape="rect" href="../VoS/choosepart.html"><img src="/VoS/images/graphics/full7.gif" border="0" alt="Return to Full Valley Archive"></a></center>
       </div>
    <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

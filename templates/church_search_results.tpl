@@ -13,7 +13,7 @@
 			p.citation-help { padding-left: 3em; padding-right: 3em; border: none;}
 		</style></head>
    <body>
-      <center><img src="../VoS/images/images/vtitle4.gif" align="center"></center>
+      <center><img src="/VoS/images/images/vtitle4.gif" align="center"></center>
       <center>
          <h1><font color="#990000">
                <center>{{ getcounty .County }} County &#8211; Church Records</center></font></h1>
@@ -74,6 +74,6 @@
          </div>
       </center>
       <p><a href="church">Go back to search page</a></p>
-      <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="../VoS/images/graphics/full7.gif"></a></center>
+      <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
    <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

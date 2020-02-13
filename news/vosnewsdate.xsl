@@ -59,7 +59,7 @@
                         </td>
                         <td align="left">
                             <center>
-                                <p><img src="../VoS/redesign/images/vtitle4.gif"/></p><img src="../VoS/newspapers/newspaper_head.jpg"/></center>
+                                <p><img src="/VoS/images/images/vtitle4.gif"/></p><img src="../VoS/newspapers/newspaper_head.jpg"/></center>
                           
                               
                           
@@ -151,7 +151,7 @@
                             </table>
                         </center>
                     </xsl:for-each>
-                    <hr align="center" width="80%" /><a href="../VoS/choosepart.html"><img src="../VoS/graphics/full7.gif" alt="Return to Full Valley Archive"/></a>
+                    <hr align="center" width="80%" /><a href="../VoS/choosepart.html"><img src="/VoS/images/graphics/full7.gif" alt="Return to Full Valley Archive"/></a>
                 </center>
                 
             </body></html>

@@ -6,10 +6,10 @@
       <script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
       <script src="../VoS/javascript/census-thickbox.js" type="text/javascript"></script>
 			<link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">
-			<link rel="icon" type="image/png" href="../VoS/favicon.ico" />
+			<link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 </head>
    <body bgcolor="#FFFFFF">
-      <div align="center" class="census_results"><img src="../VoS/images/images/vtitle4.gif"></div>
+      <div align="center" class="census_results"><img src="/VoS/images/images/vtitle4.gif"></div>
 
       <h1 class="red-head">
          <center>{{ getcounty .County }} County, {{ getstate .County }} - {{ getyear .Year }}
@@ -66,7 +66,7 @@
       </center>
       <p><a href="population_census" class="searchReturn">Start a new search</a></p>
       <div style="display:block; clear:both; border: none; padding-top: 1em;" id="footer">
-         <center><a shape="rect" href="../VoS/choosepart.html"><img src="../VoS/images/graphics/full7.gif" border="0" alt="Return to Full Valley Archive"></a></center>
+         <center><a shape="rect" href="../VoS/choosepart.html"><img src="/VoS/images/graphics/full7.gif" border="0" alt="Return to Full Valley Archive"></a></center>
       </div>
    <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

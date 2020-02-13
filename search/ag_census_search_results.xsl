@@ -64,7 +64,7 @@
 		<xsl:choose>
 			<xsl:when test="$numFound &gt; 0">
 				<center>
-					<img src="VoS/redesign/images/vtitle4.gif"/>
+					<img src="/VoS/images/images/vtitle4.gif"/>
 					<h1>
 						<font color="#990000">
 							<center><xsl:value-of select="$county"/> County - <xsl:value-of select="$year"
@@ -152,7 +152,7 @@
 				<div id="footer" style="display:block; clear:both; border: none; padding-top: 1em;">
 					<center>
 						<a href="VoS/choosepart.html" shape="rect">
-							<img alt="Return to Full Valley Archive" border="0" src="VoS/graphics/full7.gif"/>
+							<img alt="Return to Full Valley Archive" border="0" src="/VoS/images/graphics/full7.gif"/>
 						</a>
 					</center>
 				</div>

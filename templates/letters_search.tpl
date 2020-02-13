@@ -23,7 +23,7 @@
  <meta content="United States Civil War American history Virginia Pennsylvania military
  geneology archive" name="keywords" />
 
- <link rel="icon" type="image/png" href="../VoS/favicon.ico" />
+ <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
  <link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css" />
  <script type="text/javascript" src="../VoS/javascript/jquery-1.2.1.js" ></script>
  <script type="application/javascript" src="../VoS/javascript/letters_search.js" ></script>
@@ -33,7 +33,7 @@
   <noscript>JavaScript is off. Please enable to view full site.</noscript>
   <div id="form">
       <div style="text-align:center;">
-        <img src="../VoS/images/images/vtitle4.gif" style="padding-left:10px;">
+        <img src="/VoS/images/images/vtitle4.gif" style="padding-left:10px;">
         <h2 class="red-head">Search the Valley of the Shadow Letters</h2>
         <blockquote>
           <b>Note:</b> The wild card character is <b>*</b>. It can be
@@ -60,7 +60,7 @@
         </div>
       </div>
 </div>
-<center><a href="../../../VoS/choosepart.html"><img src="../../../VoS/images/graphics/full7.gif" border="0" alt=""></a></center>
+<center><a href="../../../VoS/choosepart.html"><img src="/VoS/images/graphics/full7.gif" border="0" alt=""></a></center>
 
 </body>
 </html>

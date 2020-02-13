@@ -31,7 +31,7 @@
 		<xsl:choose>
 			<xsl:when test="$numFound &gt; 0">
 				<center>
-					<img src="VoS/redesign/images/vtitle4.gif"/>
+					<img src="/VoS/images/images/vtitle4.gif"/>
 					<h1>
 						<font color="#990000">Record of Events Database - Results</font>
 					</h1>
@@ -77,7 +77,7 @@
 		<hr width="80%"/>
 		<center>
 			<a href="VoS/choosepart.html">
-				<img src="VoS/graphics/full7.gif" border="0"
+				<img src="/VoS/images/graphics/full7.gif" border="0"
 					alt=""/>
 			</a>
 		</center>

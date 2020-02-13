@@ -18,7 +18,7 @@
 					.red-head {color: #990000; font-family: times, serif; font-weight: bold;} 
 				</style>
 	  <link type="text/css" rel="stylesheet" href="../VoS/css/valleyshadow.css" />   
-      <link rel="icon" type="image/png" href="../VoS/favicon.ico" />
+      <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 				<script src="../VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
 				<script src="../VoS/javascript/newspapers_search.js" type="text/javascript"></script></head>
    <body vlink="#00009C" link="#CD7F32" bgcolor="#FFFFFF">
@@ -26,7 +26,7 @@
          <h3 class="warning">This page requires Javascript.  Please ensure that you have enabled Javascript in your browser's preferences</h3>
       </div>
       <div id="form">
-         <center><img border="0" src="../VoS/images/images/vtitle4.gif"><h2 class="red-head">Search the Valley Newspapers</h2>
+         <center><img border="0" src="/VoS/images/images/vtitle4.gif"><h2 class="red-head">Search the Valley Newspapers</h2>
             <blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
                							substituted for any number of characters at the middle
                							or back of a word. Please see <a href="../VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
@@ -138,7 +138,7 @@
                </table>
             </form>
          </center>
-         <hr><br><center><a href="../VoS/choosepart.html"><img alt="Full Valley Archive" border="0" src="../VoS/images/graphics/full7.gif"></a></center>
+         <hr><br><center><a href="../VoS/choosepart.html"><img alt="Full Valley Archive" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
       </div>
       <div id="search"></div>
    <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>

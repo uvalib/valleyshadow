@@ -68,7 +68,7 @@
         </style>
         	<title>Valley of the Shadow: Civil War-Era Newspapers</title>
 		    <link type="text/css" rel="stylesheet" href="../../VoS/css/valleyshadow.css" />   
-    	    <link rel="icon" type="image/png" href="../../VoS/favicon.ico" />
+    	    <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
         	
         </head>
         <body bgcolor="#ffffff" link="#cd7f32" vlink="#00009c" text="#000000">
@@ -116,7 +116,7 @@
                     </td>
                     <td align="left">
                         <center>
-                            <p><img src="../../VoS/images/images/vtitle4.gif"/></p><img src="../../VoS/newspapers/newspaper_head.jpg"/></center>
+                            <p><img src="/VoS/images/images/vtitle4.gif"/></p><img src="../../VoS/newspapers/newspaper_head.jpg"/></center>
                         
                         <center>
                             <h2 class="section-head">

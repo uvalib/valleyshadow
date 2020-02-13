@@ -5,11 +5,11 @@
       <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
       <title>Valley of the Shadow: Census Search Results</title>
 				<link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css">
-				<link rel="icon" type="image/png" href="../VoS/favicon.ico" />
+				<link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 
 				</head>
    <body vlink="#00009C" link="#CD7F32" bgcolor="#FFFFFF">
-      <center><img src="../VoS/images/images/vtitle4.gif"></center>
+      <center><img src="/VoS/images/images/vtitle4.gif"></center>
       <h1><font color="#990000">
             <center>Augusta County - 1860
                							Manufacturing Census

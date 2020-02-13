@@ -53,7 +53,7 @@
 			</head>
 			<body bgcolor="#FFFFFF" link="#CD7F32" vlink="#00009C">
 				<center>
-					<img src="VoS/redesign/images/vtitle4.gif"/>
+					<img src="/VoS/images/images/vtitle4.gif"/>
 				</center>
 				<h1 class="red-head">
 					<center><xsl:value-of select="$county"/> - <xsl:value-of select="$year"/>

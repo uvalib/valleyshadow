@@ -21,7 +21,7 @@
  <meta content="United States Civil War American history Virginia Pennsylvania military
  geneology archive" name="keywords" />
 
- <link rel="icon" type="image/png" href="../VoS/favicon.ico" />
+ <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
  <link rel="stylesheet" type="text/css" href="../VoS/css/valleyshadow.css" />
  <script type="text/javascript" src="../VoS/javascript/jquery-1.2.1.js" ></script>
  <script type="text/javascript" src="../VoS/javascript/diaries_search.js"></script>
@@ -36,7 +36,7 @@
 		<form name="diariesSearchForm" action="/diaries_search_results.html" method="get">
 			<input type="hidden" id="query" name="q"><input type="hidden" name="rows" value="10">
 			<input type="hidden" name="start" value="0"><div style="width:80%;text-align:center;">
-			<img src="../VoS/images/images/vtitle4.gif" style="padding-left:10px;"><h2 class="red-head">Search the Valley of the Shadow Diaries</h2>
+			<img src="/VoS/images/images/vtitle4.gif" style="padding-left:10px;"><h2 class="red-head">Search the Valley of the Shadow Diaries</h2>
       <blockquote>
         <b>Note:</b> The wild card character is <b>*</b>. It can be substituted for any number of characters at the middle or back of a word. Please see <a href="VoS/reference/tips.html"><b>Tips for Searching</b></a> for a full explanation.
       </blockquote>
@@ -81,7 +81,7 @@
       </div>
       <hr>
       <center>
-        <a href="../VoS/choosepart.html"><img src="../VoS/images/graphics/full7.gif" border="0" alt=""></a>
+        <a href="../VoS/choosepart.html"><img src="/VoS/images/graphics/full7.gif" border="0" alt=""></a>
       </center>
 </div>
 </form>

@@ -35,7 +35,7 @@
 					<input type="hidden" name="start" value="0"/>
 					<div id="wrapper">
 						<center>
-							<img src="VoS/redesign/images/vtitle4.gif"
+							<img src="/VoS/images/images/vtitle4.gif"
 								border="0"/>
 							<h2 class="red-head">Search the Cohabitation Records</h2>
 							<a href="VoS/freedmen1.html">Return to Bureau Home</a> | <a
@@ -545,7 +545,7 @@
 
 					<center>
 						<a href="VoS/choosepart.html">
-							<img src="VoS/graphics/full7.gif" border="0"
+							<img src="/VoS/images/graphics/full7.gif" border="0"
 								alt=""/>
 						</a>
 					</center>
