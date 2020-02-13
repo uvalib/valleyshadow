@@ -241,8 +241,17 @@ func main() {
 	//fmt.Println(dir)
 
 	r := newRouter()
-	log.Printf("INFO: %s is listening on port %s", os.Getenv("site_url"), os.Getenv("listen_port"))
+	log.Printf("INFO: %s is listening on port %s (version: %s)", os.Getenv("site_url"), os.Getenv("listen_port"), version())
 	log.Fatal(http.ListenAndServe(fmt.Sprintf(":%s", os.Getenv("listen_port")), r))
+}
+
+func version() string {
+	files, _ := filepath.Glob("buildtag.*")
+	if len(files) == 1 {
+		return strings.Replace(files[0], "buildtag.", "", 1)
+	}
+
+	return "unknown"
 }
 
 /* ===================================================================================
