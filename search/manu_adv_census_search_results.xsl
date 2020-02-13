@@ -116,7 +116,7 @@
 			<a href="javascript:history.go(-1)">Go back to search page</a>
 		</p>
 		<center>
-			<a href="VoS/choosepart.html">
+			<a href="/VoS/choosepart.html">
 				<img src="/VoS/images/graphics/full7.gif" border="0"
 					alt=""/>
 			</a>

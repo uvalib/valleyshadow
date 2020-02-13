@@ -236,7 +236,7 @@
                   </tr>
                </table>
             </center><br><br><center><input class="search_button" value="Initiate Search" type="submit"><input value="Clear" type="reset"></center><br><hr width="80%">
-            <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
+            <center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
          </form>
       </div>
    <script src="h../VoS/javascript/libtools.js" type="text/javascript"></script></body>

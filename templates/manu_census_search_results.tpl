@@ -59,7 +59,7 @@
         			{{ template "pagination" . }}
       </div><script src="../VoS/javascript/generic_search_paging.js" type="text/javascript"></script><p><a href="manu_census">Go back to search page</a></p>
       <center>
-        <a href="../VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a>
+        <a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a>
       </center>
       <script src="http:../VoS/javascript/libtools.js" type="text/javascript"></script>
     </body>

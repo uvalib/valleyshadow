@@ -81,7 +81,7 @@
 </xsl:otherwise>
 									</xsl:choose>
 								</div></center><br/><center>
-											<hr align="center" width="50%" /><a href="../VoS/choosepart.html"><img src="/VoS/images/graphics/full7.gif" alt="Return to Full Valley Archive"/></a>
+											<hr align="center" width="50%" /><a href="/VoS/choosepart.html"><img src="/VoS/images/graphics/full7.gif" alt="Return to Full Valley Archive"/></a>
 											
 										</center>
 		</body>

@@ -151,7 +151,7 @@
 				</p>
 				<div id="footer" style="display:block; clear:both; border: none; padding-top: 1em;">
 					<center>
-						<a href="VoS/choosepart.html" shape="rect">
+						<a href="/VoS/choosepart.html" shape="rect">
 							<img alt="Return to Full Valley Archive" border="0" src="/VoS/images/graphics/full7.gif"/>
 						</a>
 					</center>

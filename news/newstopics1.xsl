@@ -73,7 +73,7 @@
                                 </tr>
                                 <tr>
                                     <td bgcolor="#ffffff" align="center">
-                                        <a href="../../VoS/choosepart.html">Valley of the Shadow<br/>Home</a>
+                                        <a href="/VoS/choosepart.html">Valley of the Shadow<br/>Home</a>
                                     </td>
                                 </tr>
                             </table>

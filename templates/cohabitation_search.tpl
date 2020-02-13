@@ -440,7 +440,7 @@
                            </option></select></div>
                   </div><input value="Submit" id="search_button" type="submit"><input value="Reset" type="reset" id="Reset"></div><br clear="all"><hr>
             </div>
-            <center><a href="VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
+            <center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
          </form>
       </div>
       <div id="search"></div>

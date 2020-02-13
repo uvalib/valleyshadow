@@ -80,7 +80,7 @@
 			
 
 										<xsl:call-template name="Single"/></div></center> <center>
-											<hr width="45%" align="center"/><a href="../VoS/choosepart.html"><img src="/VoS/images/graphics/full7.gif" alt="Return to Full Valley Archive"/></a>
+											<hr width="45%" align="center"/><a href="/VoS/choosepart.html"><img src="/VoS/images/graphics/full7.gif" alt="Return to Full Valley Archive"/></a>
 											
 										</center>
 		</body>

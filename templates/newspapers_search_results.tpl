@@ -36,7 +36,7 @@
         {{ template "pagination" .  }}
 
          </div><br></center><br><p><a href="newspapers">Go back to search page</a></p>
-      <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
+      <center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
       <h6 class="debug">results from http://libsvr40.lib.virginia.edu:8080/solr/valley/</h6>
    <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

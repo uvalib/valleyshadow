@@ -29,7 +29,7 @@
 				<hr align="center" width="65%"/>
 				<br/>
 				<center>
-					<a href="../VoS/choosepart.html">
+					<a href="/VoS/choosepart.html">
 						<img style="border:none;" src="/VoS/images/graphics/full7.gif" alt="Return to Full Valley Archive"/>
 					</a>
 

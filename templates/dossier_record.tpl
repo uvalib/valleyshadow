@@ -103,6 +103,6 @@
       {{ end }}
       <div class="navigationFooter"><a onClick="javascript:history.back()" href="javascript:history.back()"><b>Return to Search Results</b></a><br></div>
       <div class="navigationFooter"><br><a href="dossiers">Start a New Search</a><br></div>
-      <center><a href="../VoS/choosepart.html"><img src="/VoS/images/graphics/full7.gif" border="0" alt=""></a></center>
+      <center><a href="/VoS/choosepart.html"><img src="/VoS/images/graphics/full7.gif" border="0" alt=""></a></center>
    <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

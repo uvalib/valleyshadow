@@ -99,7 +99,7 @@
                                                 <td bgcolor="#ffffff" align="center"><a href="../../VoS/newspapers/about.html">About the<br/>Newspapers</a></td>
                                             </tr>
                                             <tr>
-                                                <td bgcolor="#ffffff" align="center"><a href="../../VoS/choosepart.html">Valley of the Shadow<br/>Home</a></td>
+                                                <td bgcolor="#ffffff" align="center"><a href="/VoS/choosepart.html">Valley of the Shadow<br/>Home</a></td>
                                             </tr>
                                             
                                         </table>

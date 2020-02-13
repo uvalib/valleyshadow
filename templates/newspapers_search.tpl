@@ -138,7 +138,7 @@
                </table>
             </form>
          </center>
-         <hr><br><center><a href="../VoS/choosepart.html"><img alt="Full Valley Archive" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
+         <hr><br><center><a href="/VoS/choosepart.html"><img alt="Full Valley Archive" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
       </div>
       <div id="search"></div>
    <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>

@@ -306,7 +306,7 @@
                </tr>
             </table>
          </form><br><hr width="80%">
-         <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
+         <center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
       </div>
       <div style="margin-top:20px;margin-bottom:20px;" id="search"></div>
       <div style="width:49%; float:left;margin-top:20px;margin-bottom:20px;margin-right:1%;" id="search1"></div>

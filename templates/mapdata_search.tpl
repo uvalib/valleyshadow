@@ -789,7 +789,7 @@
                   <option value="Maj. William A. West">Maj. William A. West</option>
                   <option value="Maj. William H. Fry">Maj. William H. Fry</option>
                   <option value="n.a.">n.a.</option></select><br><br><input id="search_button" value="Start Search" type="submit"><input value="Clear Form" type="reset"><br><br><br><hr width="80%">
-               <center><a href="../VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
+               <center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
             </form>
          </center>
       </div>

@@ -49,7 +49,7 @@
 												</tr>
 												<tr>
 													<td bgcolor="#ffffff" align="center">
-														<a href="../VoS/choosepart.html">Valley of the Shadow<br/>Home</a>
+														<a href="/VoS/choosepart.html">Valley of the Shadow<br/>Home</a>
 													</td>
 												</tr>
 
@@ -171,7 +171,7 @@
 						</div>
 					</xsl:for-each>
 					<hr align="center" width="80%"/>
-					<a href="../VoS/choosepart.html" style="border:none;">
+					<a href="/VoS/choosepart.html" style="border:none;">
 						<img style="border:none;" src="/VoS/images/graphics/full7.gif" alt="Return to Full Valley Archive"/>
 					</a>
 				</center>

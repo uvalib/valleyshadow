@@ -68,7 +68,7 @@
                      <option>Troop Movement</option>
                      <option>Women</option></select><input value="Go!" id="browse_button" type="submit"></p>
                <hr>
-               <center><a href="VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
+               <center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
             </form>
          </div>
       </div>

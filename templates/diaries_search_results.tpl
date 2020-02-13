@@ -31,6 +31,6 @@
          <div id="bottomNavig">           
          	{{ template "pagination" .  }}
 		</div>
-      </center><br><center><a href="../VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
+      </center><br><center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
    <script src="../VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

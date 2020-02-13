@@ -45,7 +45,7 @@
                                                     <td bgcolor="#ffffff" align="center"><a href="../VoS/newspapers/about.html">About the<br/>Newspapers</a></td>
                                                 </tr>
                                                 <tr>
-                                                    <td bgcolor="#ffffff" align="center"><a href="../VoS/choosepart.html">Valley of the Shadow<br/>Home</a></td>
+                                                    <td bgcolor="#ffffff" align="center"><a href="/VoS/choosepart.html">Valley of the Shadow<br/>Home</a></td>
                                                 </tr>
                                                 
                                             </table>
@@ -151,7 +151,7 @@
                             </table>
                         </center>
                     </xsl:for-each>
-                    <hr align="center" width="80%" /><a href="../VoS/choosepart.html"><img src="/VoS/images/graphics/full7.gif" alt="Return to Full Valley Archive"/></a>
+                    <hr align="center" width="80%" /><a href="/VoS/choosepart.html"><img src="/VoS/images/graphics/full7.gif" alt="Return to Full Valley Archive"/></a>
                 </center>
                 
             </body></html>
