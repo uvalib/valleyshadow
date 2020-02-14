@@ -84,7 +84,7 @@
                                         <table width="100%" cellpadding="10">
                                             <tr>
                                                 <td bgcolor="#ffffff" align="center">
-                                                    <a href="../../newspapers">Search the<br/>Newspapers</a>
+                                                    <a href="/newspapers">Search the<br/>Newspapers</a>
                                                         
                                                 </td>
                                             </tr>
