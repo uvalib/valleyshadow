@@ -9,21 +9,21 @@
       <script src="/VoS/javascript/cohabitation_search.js" type="text/javascript"></script>
       <script src="/VoS/javascript/thickbox.js" type="text/javascript"></script>
   	  <link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
-	  <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
-      
+	    <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
+
       <style> body { text-align: center; } div#wrapper { margin:5px auto; width: 700px;
 					text-align: left; } div#husbandInfo { padding: 10px; width: 500px; float: left;
 					} div#wifeInfo { padding: 10px; width: 350px; float: left; } div#generalInfo {
 					padding: 30px 10px 10px 10px; clear: both; width: 600px; } .musterTableHead {
-					background-color:#D3D1AC; font-size:12px; } .musterTableBody {
-					background-color:#D3D1BC; font-size:12px; } .rowodd { width: 450px; height:
+					background-color:#416d83; font-size:12px; } .musterTableBody {
+					background-color:#416d83; font-size:12px; } .rowodd { width: 450px; height:
 					25px; margin: 8px; font-family:verdana, arial; font-size: 12px; } .roweven {
 					width: 450px; height: 25px; margin: 8px; font-family:verdana, arial; font-size:
 					12px; } .label { float:left; text-align: right; width: 225px; padding: 5px;
-					background-color: #CFCFCF; } .content { float:right; text-align:left; width:
+					background-color: #416d83; color: #ffffff;} .content { float:right; text-align:left; width:
 					200px; padding: 5px; } input { font-family:verdana, arial; font-size: 12px; }
-					option { font-family:verdana, arial; font-size: 12px; } 
-					.red-head {color: #990000; font-family: times, serif; font-weight: bold } 
+					option { font-family:verdana, arial; font-size: 12px; }
+					.red-head {color: #990000; font-family: times, serif; font-weight: bold }
 					.warning{font-weight:bold; padding:5px; color:#000099;} </style></head>
    <body vlink="#00009C" link="#CD7F32" bgcolor="#FFFFFF">
       <div id="no-javascript" style="width:100%;text-align:center;">
@@ -31,7 +31,7 @@
       </div>
       <div id="form">
          <form method="GET" action="/cohabitation_search_results.html" name="cohabitationSearchForm"><input name="q" id="query" type="hidden"><input value="50" name="rows" type="hidden"><input value="0" name="start" type="hidden"><div id="wrapper">
-               <center><img border="0" src="/VoS/images/images/vtitle4.gif"><h2 class="red-head">Search the Cohabitation Records</h2><a href="/VoS/freedmen1.html">Return to Bureau Home</a> | <a href="/VoS/fbureau/aboutcohab.html">About the Cohabitation Records</a></center>
+               <center><img border="0" src="/VoS/images/images/vtitle4.gif"><h2 class="red-head">Search the Cohabitation Records</h2><a id="search_page_infolinks" href="/VoS/freedmen1.html">Return to Bureau Home</a> | <a id="search_page_infolinks" href="/VoS/fbureau/aboutcohab.html">About the Cohabitation Records</a></center>
                <hr>
                <div id="husbandInfo">
                   <div class="rowodd">
@@ -438,7 +438,7 @@
                            <option value="cohab_num_children asc">Number of
                               										Children
                            </option></select></div>
-                  </div><input value="Submit" id="search_button" type="submit"><input value="Reset" type="reset" id="Reset"></div><br clear="all"><hr>
+                  </div><input value="Submit" id="search_button" type="submit"><input value="Reset" type="reset" id="clear_button "></div><br clear="all"><hr>
             </div>
             <center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
          </form>

@@ -3,7 +3,7 @@
 <head>
 
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-      <title>Valley of the Shadow: Civil War Images Search</title><style> .red-head {color: #990000; font-family: times, serif; font-weight: bold } .warning{font-weight:bold; padding:5px; color:#000099;} 
+      <title>Valley of the Shadow: Civil War Images Search</title><style> .red-head {color: #990000; font-family: times, serif; font-weight: bold } .warning{font-weight:bold; padding:5px; color:#000099;}
 				</style>
 	  <link type="text/css" rel="stylesheet" href="/VoS/css/valleyshadow.css" />
       <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
@@ -11,7 +11,7 @@
 				<script src="/VoS/javascript/images_search.js" type="text/javascript"></script>
 				<script src="/VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
 	</head>
-   <body VLINK="#00009C" LINK="#CD7F32" BGCOLOR="FFFFFF" TEXT="#000000">
+   <body  BGCOLOR="FFFFFF">
       <div id="no-javascript" style="width:100%;text-align:center;">
          <h3 class="warning">This page requires Javascript.  Please ensure that you have enabled Javascript in your browser's preferences</h3>
       </div>
@@ -19,12 +19,12 @@
          <table>
             <tr>
                <td valign="center">
-                  <table cellpadding="10" width="80%" border="0" bgcolor="#ffcc99">
+                  <table cellpadding="10" width="80%" border="0" bgcolor="#416d83">
                      <tr>
-                        <td align="center"><a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
+                        <td align="center"><a id="search_page_infolinks_white" href="/VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
                      </tr>
                      <tr>
-                        <td align="center"><a href="/VoS/cwimages1.html"><b>Return to<br> Images Home</b></a></td>
+                        <td align="center"><a id="search_page_infolinks_white" href="/VoS/cwimages1.html"><b>Return to<br> Images Home</b></a></td>
                      </tr>
                   </table>
                </td>
@@ -44,7 +44,7 @@
                   <blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
                      									substituted for any number of characters at the middle
                      									or back of a word. Please see <a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
-                     									full explanation. 
+                     									full explanation.
                   </blockquote>
                </td>
             </tr>

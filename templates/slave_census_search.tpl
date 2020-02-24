@@ -4,8 +4,8 @@
 
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
       <title>Valley of the Shadow: Slaveowners Census Search</title>
-      <style> 
-      	.red-head {color: #990000; font-family: times, serif; font-weight: bold } .warning{font-weight:bold; padding:5px; color:#000099;} 
+      <style>
+      	.red-head {color: #990000; font-family: times, serif; font-weight: bold } .warning{font-weight:bold; padding:5px; color:#000099;}
 	</style>
 			<script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript">
 				</script><script src="/VoS/javascript/slave_census_search.js" type="text/javascript"></script>
@@ -21,15 +21,15 @@
          <table>
             <tr>
                <td valign="center">
-                  <table cellpadding="10" width="80%" border="0" bgcolor="#ffcc99">
+                  <table cellpadding="10" width="80%" border="0" bgcolor="#416d83">
                      <tr>
-                        <td align="center"><a href="/VoS/govdoc/censi/slcensus.html"><b>Information <br>About the Census</b></a></td>
+                        <td align="center"><a id="search_page_infolinks_white" href="/VoS/govdoc/censi/slcensus.html"><b>Information <br>About the Census</b></a></td>
                      </tr>
                      <tr>
-                        <td align="center"><a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
+                        <td align="center"><a id="search_page_infolinks_white" href="/VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
                      </tr>
                      <tr>
-                        <td align="center"><a href="/VoS/govdoc/censi/census_new.html"><b>Return to <br> Census Home</b></a></td>
+                        <td align="center"><a id="search_page_infolinks_white" href="/VoS/govdoc/censi/census_new.html"><b>Return to <br> Census Home</b></a></td>
                      </tr>
                   </table>
                </td>
@@ -37,19 +37,19 @@
                   <center><img src="/VoS/images/images/vtitle4.gif"></center><br><br><p>
                      <h1 class="red-head"><b>
                            <center> Search the U.S. Slaveowners Census for 1860
-                              											
+
                            </center></b></h1>
                   </p>
                   <blockquote> In Augusta County the slaveowner census counted the
                      									number of slaves, their gender and color, but did not record
                      									their names. Instead, the census recorded the owners' names. You
                      									will find other information including employers of slaves and
-                     									the location of the plantation. 
+                     									the location of the plantation.
                   </blockquote>
                   <blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
                      									substituted for any number of characters at the middle
                      									or back of a word. Please see <a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
-                     									full explanation. 
+                     									full explanation.
                   </blockquote>
                </td>
             </tr>
@@ -62,13 +62,13 @@
                      <td align="left" colspan="2"><input value="Clear" type="reset"></td>
                   </tr>
                   <tr bgcolor="#ffcc99">
-                     <td colspan="4" valign="center" bgcolor="#ffcc99"><font class="red-head">Basic Information</font></td>
+                     <td colspan="4" valign="center" bgcolor="#416d83" id="search_page_infolinks_white">Basic Information</td>
                   </tr>
                   <tr>
-                     <td align="right"><a href="/VoS/govdoc/censi/slcensus.html#name"><b>Last Name</b></a>:
+                     <td align="right"><a id="search_page_infolinks" href="/VoS/govdoc/censi/slcensus.html#name"><b>Last Name</b></a>:
                      </td>
                      <td align="left"><input id="last_name" name="last_name"></td>
-                     <td align="right"><a href="/VoS/govdoc/censi/slcensus.html#name"><b>First Name</b></a>:
+                     <td align="right"><a id="search_page_infolinks" href="/VoS/govdoc/censi/slcensus.html#name"><b>First Name</b></a>:
                      </td>
                      <td align="left"><input id="first_name" name="first_name"></td>
                   </tr>
@@ -77,17 +77,17 @@
                      <td align="left"><input id="location" name="location"></td>
                   </tr>
                   <tr>
-                     <td align="right"><a href="/VoS/govdoc/censi/slcensus.html#employer"><b>Employer Name</b></a>:
+                     <td align="right"><a id="search_page_infolinks" href="/VoS/govdoc/censi/slcensus.html#employer"><b>Employer Name</b></a>:
                      </td>
                      <td align="left"><input id="emp_name" name="emp_name"></td>
                      <td align="right">Employer Location:</td>
                      <td align="left"><input id="emp_location" name="emp_location"></td>
                   </tr>
                   <tr bgcolor="#ffcc99">
-                     <td colspan="4" valign="center" bgcolor="#ffcc99"><font class="red-head">Slave Information</font></td>
+                     <td colspan="4" valign="center" bgcolor="#416d83" id="search_page_infolinks_white" >Slave Information</td>
                   </tr>
                   <tr>
-                     <td align="right"><a href="/VoS/govdoc/censi/slcensus.html#number"><b>Total number of slaves</b></a>:
+                     <td align="right"><a id="search_page_infolinks" href="/VoS/govdoc/censi/slcensus.html#number"><b>Total number of slaves</b></a>:
                      </td>
                      <td align="left"><select name="tot_slaves-op" id="tot_slaves-op">
                            <option value="equal">=</option>

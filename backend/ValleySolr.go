@@ -18,6 +18,7 @@ import (
 	"log"
 	"net/url"
 	"os"
+	"fmt"
 )
 
 /* ===================================================================================
@@ -225,7 +226,7 @@ func PopulateResponse(j map[string]interface{}) (*SolrResponse, error) {
 func SolrFromHTTP(b []byte) (*SolrResponse, error) {
 
 	// SAVE TO TROUBLESHOOT
-	// fmt.Printf("container : %v", string(b))
+	 fmt.Printf("container : %v", string(b))
 
 	var container map[string]interface{}
 

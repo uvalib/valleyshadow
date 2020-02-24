@@ -8,9 +8,9 @@
       <script src="/VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
 	  <link type="text/css" rel="stylesheet" href="/VoS/css/valleyshadow.css" />
       <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
-      
+
       </head>
-   <body VLINK="#00009C" LINK="#CD7F32" BGCOLOR="FFFFFF" TEXT="#000000">
+   <body BGCOLOR="#FFFFFF" >
       <div id="no-javascript" style="width:100%;text-align:center;">
          <h3 class="warning">This page requires Javascript.  Please ensure that you have enabled Javascript in your browser's preferences</h3>
       </div>
@@ -18,12 +18,12 @@
          <table>
             <tr>
                <td valign="center">
-                  <table cellpadding="10" width="80%" border="0" bgcolor="#ffcc99">
+                  <table cellpadding="10" width="80%" border="0" bgcolor="#416d83">
                      <tr>
-                        <td align="center"><a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
+                        <td align="center"><a id="search_page_infolinks_white" href="/VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
                      </tr>
                      <tr>
-                        <td align="center"><a href="/VoS/cwmaps1.html"><b>Return to<br> Civil War Maps Home</b></a></td>
+                        <td align="center"><a id="search_page_infolinks_white" href="/VoS/cwmaps1.html"><b>Return to<br> Civil War Maps Home</b></a></td>
                      </tr>
                   </table>
                </td>
@@ -37,12 +37,12 @@
                      									this search page you may access information about specific
                      									battles, including the start and end dates, numbers killed and
                      									wounded, and weather conditions. <br><br> To visualize a
-                     									regiment's movement from battle to battle, go to the <a href="/VoS/MAPDEMO/theaterintro.html">animated theater maps of
+                     									regiment's movement from battle to battle, go to the <a id="search_page_infolinks" href="/VoS/MAPDEMO/theaterintro.html">animated theater maps of
                         										Franklin and Augusta units.</a></blockquote>
                   <blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
                      									substituted for any number of characters at the middle
                      									or back of a word. Please see <a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
-                     									full explanation. 
+                     									full explanation.
                   </blockquote>
                </td>
             </tr>
@@ -647,7 +647,7 @@
                            <option value="n.a.">n.a.</option></select></td>
                   </tr>
                </table><b>Date of Battle ( DD-Month-YYYY )</b><br>
-               
+
                					beginning: <select name="start_month">
                   <option></option>
                   <option value="01">Jan.</option>
@@ -788,7 +788,7 @@
                   <option value="Maj. Wellington H. Ent">Maj. Wellington H. Ent</option>
                   <option value="Maj. William A. West">Maj. William A. West</option>
                   <option value="Maj. William H. Fry">Maj. William H. Fry</option>
-                  <option value="n.a.">n.a.</option></select><br><br><input id="search_button" value="Start Search" type="submit"><input value="Clear Form" type="reset"><br><br><br><hr width="80%">
+                  <option value="n.a.">n.a.</option></select><br><br><input id="search_button" value="Start Search" type="submit"><input value="Clear Form" id="clear_button" type="reset"><br><br><br><hr width="80%">
                <center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
             </form>
          </center>

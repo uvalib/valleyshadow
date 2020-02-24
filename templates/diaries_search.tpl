@@ -77,7 +77,7 @@
         <option value="title_string asc">document title</option>
       </select>
       <div style="padding: 2em;">
-        <input type="submit" value="Submit Query" id="search_button"><input type="reset" value="Clear"><br>
+        <input type="submit" value="Submit Query" id="search_button"><input type="reset" id="clear_button" value="Clear"><br>
       </div>
       <hr>
       <center>

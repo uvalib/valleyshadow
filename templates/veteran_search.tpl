@@ -3,15 +3,15 @@
 <html>
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-      <title>Valley of the Shadow: 1890 Veterens Census Search</title><style> .red-head {color: #990000; font-family: times, serif; font-weight: bold;} .warning{font-weight:bold; padding:5px; color:#000099;} 
+      <title>Valley of the Shadow: 1890 Veterens Census Search</title><style> .red-head {color: #990000; font-family: times, serif; font-weight: bold;} .warning{font-weight:bold; padding:5px; color:#000099;}
 				</style>
 				<script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
 				<script src="/VoS/javascript/veteran_search.js" type="text/javascript"></script>
 	  <link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
 	  <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
-				
+
 				</head>
-   <body VLINK="#00009C" LINK="#CD7F32" BGCOLOR="FFFFFF" TEXT="#000000">
+   <body BGCOLOR="FFFFFF">
       <div id="no-javascript" style="width:100%;text-align:center;">
          <h3 class="warning">This page requires Javascript.  Please ensure that you have enabled Javascript in your browser's preferences</h3>
       </div>
@@ -19,12 +19,12 @@
          <table>
             <tr>
                <td valign="center">
-                  <table cellpadding="10" width="80%" border="0" bgcolor="#ffcc99">
+                  <table cellpadding="10" width="80%" border="0" bgcolor="#416d83">
                      <tr>
-                        <td align="center"><a href="/VoS/veterans1.html"><b>Return to<br> Census and<br> Veterans Home</b></a></td>
+                        <td align="center"><a id="search_page_infolinks_white" href="/VoS/veterans1.html"><b>Return to<br> Census and<br> Veterans Home</b></a></td>
                      </tr>
                      <tr>
-                        <td align="center"><a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
+                        <td align="center"><a id="search_page_infolinks_white" href="/VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
                      </tr>
                   </table>
                </td>
@@ -32,7 +32,7 @@
                   <center><img src="/VoS/images/images/vtitle4.gif"></center><br><br><p>
                      <h1 class="red-head"><b>
                            <center> Search the 1890 Veterans Census Records
-                              											
+
                            </center></b></h1>
                   </p>
                   <blockquote>
@@ -52,7 +52,7 @@
                   <blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
                      									substituted for any number of characters at the middle
                      									or back of a word. Please see <a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
-                     									full explanation. 
+                     									full explanation.
                   </blockquote>
                </td>
             </tr>
@@ -61,13 +61,13 @@
          <center>
             <form action="/veteran_search_results.html" name="veteranSearch" method="get"><input name="q" id="query" type="hidden"><input value="50" name="rows" type="hidden"><input value="0" name="start" type="hidden"><input value="vet_census_aug_90" name="db" type="hidden"><input value="last asc, first asc" name="sort" type="hidden"><table cellpadding="10">
                   <tr>
-                     <td colspan="4" align="center"><input id="search_button" value="Initiate Search" type="submit"><input value="Clear" type="reset"></td>
+                     <td colspan="4" align="center"><input id="search_button" value="Initiate Search" type="submit"><input value="Clear" id="clear_button" type="reset"></td>
                   </tr>
                   <tr>
                      <td id="county_cell" colspan="4" align="center"> County:<input id="county_default" value="augusta" name="county" type="radio">Augusta<input value="franklin" name="county" type="radio">Franklin</td>
                   </tr>
                   <tr>
-                     <td align="left" bgcolor="#ffcc99" colspan="4"><b>Personal Information</b></td>
+                     <td align="left" bgcolor="#416d83" colspan="4" id="search_page_infolinks_white"><b>Personal Information</b></td>
                   </tr>
                   <tr>
                      <td align="right">Last Name:</td>
@@ -148,7 +148,7 @@
                            </option></select></td>
                   </tr>
                   <tr>
-                     <td align="left" bgcolor="#ffcc99" colspan="4"><b>Military Record</b></td>
+                     <td align="left" bgcolor="#416d83" colspan="4" id="search_page_infolinks_white"><b>Military Record</b></td>
                   </tr>
                   <tr>
                      <td align="right">Rank:</td>
@@ -669,7 +669,7 @@
                               											Inf.
                            </option>
                            <option value="Indpt. Colored Md. Cav. ">Indpt. Colored Md.
-                              											Cav. 
+                              											Cav.
                            </option>
                            <option value="Indpt. Inf.">Indpt. Inf.</option>
                            <option value="Indpt. Light Arty.">Indpt. Light Arty.</option>

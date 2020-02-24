@@ -9,9 +9,9 @@
       <script src="/VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
 	<link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
 	<link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
-      
+
   </head>
-   <body VLINK="#00009C" LINK="#CD7F32" BGCOLOR="FFFFFF" TEXT="#000000">
+   <body BGCOLOR="FFFFFF" >
       <div id="no-javascript" style="width:100%;text-align:center;">
          <h3 class="warning">This page requires Javascript.  Please ensure that you have enabled Javascript in your browser's preferences</h3>
       </div>
@@ -19,18 +19,18 @@
          <table>
             <tr>
                <td valign="center">
-                  <table cellpadding="10" width="80%" border="0" bgcolor="#ffcc99">
+                  <table cellpadding="10" width="80%" border="0" bgcolor="#416d83">
                      <tr>
-                        <td align="center"><a href="manu_adv_census"><b>Advanced Search</b></a></td>
+                        <td align="center"><a id="search_page_infolinks_white" href="manu_adv_census"><b>Advanced Search</b></a></td>
                      </tr>
                      <tr>
-                        <td align="center"><a href="/VoS/govdoc/censi/mcensus.html"><b>Information<br>About the Census</b></a></td>
+                        <td align="center"><a id="search_page_infolinks_white" href="/VoS/govdoc/censi/mcensus.html"><b>Information<br>About the Census</b></a></td>
                      </tr>
                      <tr>
-                        <td align="center"><a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
+                        <td align="center"><a id="search_page_infolinks_white" href="/VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
                      </tr>
                      <tr>
-                        <td align="center"><a href="/VoS/govdoc/censi/census_new.html"><b>Return to<br> Census Home</b></a></td>
+                        <td align="center"><a id="search_page_infolinks_white" href="/VoS/govdoc/censi/census_new.html"><b>Return to<br> Census Home</b></a></td>
                      </tr>
                   </table>
                </td>
@@ -38,7 +38,7 @@
                   <center><img src="/VoS/images/images/vtitle4.gif"></center><br><br><p>
                      <h1 class="red-head"><b>
                            <center> Search the U.S. Manufacturing Census for 1860
-                              												and 1870<br> Basic Search 
+                              												and 1870<br> Basic Search
                            </center></b></h1>
                   </p>
                   <blockquote> This page allows you to search the 1860 and 1870 U.S.
@@ -54,7 +54,7 @@
                   <blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
                      									substituted for any number of characters at the middle
                      									or back of a word. Please see <a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
-                     									full explanation. 
+                     									full explanation.
                   </blockquote>
                </td>
             </tr>
@@ -63,7 +63,8 @@
          <center>
             <form name="manuCensusSearch" method="get" action="/manu_census_search_results.html">
                <table style="width:90%" cellpadding="10">
-                  <tr><input value="" id="query" name="q" type="hidden"><input value="50" name="rows" type="hidden"><input value="0" name="start" type="hidden"><input value="" id="db" name="db" type="hidden"><input id="search_button" value="Initiate Search" type="submit"><input value="Clear" type="reset"><td></td>
+                  <tr><input value="" id="query" name="q" type="hidden"><input value="50" name="rows" type="hidden"><input value="0" name="start" type="hidden"><input value="" id="db" name="db" type="hidden">
+                    <input id="search_button" value="Initiate Search" type="submit"><input value="Clear" id="clear_button" type="reset"><td></td>
                      <td id="county_cell" align="right" colspan="1">County: <input checked value="aug" name="county" type="radio">Augusta<input value="fr" name="county" type="radio">Franklin</td>
                      <td colspan="1" id="year_cell" align="center">Year: <input checked value="60" name="year" type="radio">1860<input value="70" name="year" type="radio">1870</td>
                      <td style="padding-right: 1em;" colspan="1" id="sort_options" align="left">Sort results by: <select id="sort" name="sort">
@@ -73,10 +74,10 @@
                            <option value="location asc">Location</option></select></td>
                   </tr>
                   <tr>
-                     <td style="width:20%;" align="right"><a href="/VoS/govdoc/censi/mcensus.html#company"><b>Name of Business<br>(or Owner)</b></a>:
+                     <td style="width:20%;" align="right"><a id="search_page_infolinks" href="/VoS/govdoc/censi/mcensus.html#company"><b>Name of Business<br>(or Owner)</b></a>:
                      </td>
                      <td style="width:30%;"><input name="name" id="name"></td>
-                     <td style="width:20%;" align="right"><a href="/VoS/govdoc/censi/mcensus.html#page"><b>Type of Business</b></a>:
+                     <td style="width:20%;" align="right"><a id="search_page_infolinks" href="/VoS/govdoc/censi/mcensus.html#page"><b>Type of Business</b></a>:
                      </td>
                      <td style="width:30%;"><select id="business" name="business">
                            <option></option>
@@ -147,10 +148,10 @@
                            <option>Woolen Factory</option></select></td>
                   </tr>
                   <tr>
-                     <td align="right"><a href="/VoS/govdoc/censi/mcensus.html#company"><b>Products</b></a>:
+                     <td align="right"><a id="search_page_infolinks" href="/VoS/govdoc/censi/mcensus.html#company"><b>Products</b></a>:
                      </td>
                      <td><input size="25" name="products" id="products"></td>
-                     <td align="right"><a href="/VoS/govdoc/censi/mcensus.html#page"><b>Location</b></a>:
+                     <td align="right"><a id="search_page_infolinks" href="/VoS/govdoc/censi/mcensus.html#page"><b>Location</b></a>:
                      </td>
                      <td><select id="location" name="location">
                            <option></option>

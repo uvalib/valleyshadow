@@ -12,7 +12,7 @@
 	  <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 
       </head>
-   <body VLINK="#00009C" LINK="#CD7F32" BGCOLOR="FFFFFF" TEXT="#000000">
+   <body BGCOLOR="FFFFFF">
       <div id="no-javascript" style="width:100%;text-align:center;">
          <h3 class="warning">This page requires Javascript.  Please ensure that you have enabled Javascript in your browser's preferences</h3>
       </div>
@@ -20,12 +20,12 @@
          <table>
             <tr>
                <td valign="center">
-                  <table cellpadding="10" width="80%" border="0" bgcolor="#ffcc99">
+                  <table cellpadding="10" width="80%" border="0" bgcolor="#416d83">
                      <tr>
-                        <td align="center"><a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
+                        <td align="center"><a id="search_page_infolinks_white" href="/VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
                      </tr>
                      <tr>
-                        <td align="center"><a href="/VoS/paclaims.html"><b>Return to<br> Claims Home</b></a></td>
+                        <td align="center"><a id="search_page_infolinks_white" href="/VoS/paclaims.html"><b>Return to<br> Claims Home</b></a></td>
                      </tr>
                   </table>
                </td>
@@ -55,7 +55,8 @@
             <form method="get" action="/claims_search_results.html" name="claimsSearchForm">
                <table cellpadding="10">
                   <tr>
-                     <td colspan="4" align="center"><input name="q" id="query" type="hidden"><input value="50" name="rows" type="hidden"><input value="0" name="start" type="hidden"><input id="search_button" value="Initiate Search" type="submit"><input value="Clear" type="reset"><span> Sort records by: </span><select name="sort">
+                     <td colspan="4" align="center"><input name="q" id="query" type="hidden"><input value="50" name="rows" type="hidden"><input value="0" name="start" type="hidden"><input id="search_button" value="Initiate Search" type="submit">
+                       <input value="Clear" id="clear_button" type="reset"><span> Sort records by: </span><select name="sort">
                            <option value="last asc, first asc">Last name</option>
                            <option value="amount_award asc">Amount Awarded</option>
                            <option value="amount_rec asc">Amount Received</option>

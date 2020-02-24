@@ -207,6 +207,11 @@ func newRouter() *mux.Router {
 	veteran_search_router.HandleFunc("/", hndl_veteran_search_html)
 	r.HandleFunc("/veteran_search_results.html", hndl_veteran_search_results_html)
 
+	// Subrouter for memory search to maintain legacy url structure
+	memory_search_router := r.PathPrefix("/memory").Subrouter().StrictSlash(true)
+	memory_search_router.HandleFunc("/", hndl_memory_search_html)
+	r.HandleFunc("/memory_results.html", hndl_memory_search_results_html)
+
 	// Subrouter for cohabitation search to maintain legacy url structure
 	cohabitation_search_router := r.PathPrefix("/cohabitation").Subrouter().StrictSlash(true)
 	cohabitation_search_router.HandleFunc("/", hndl_cohabitation_search_html)
@@ -1411,6 +1416,30 @@ func hndl_veteran_search_results_html(w http.ResponseWriter, r *http.Request) {
 
 
 ====================================================================================*/
+
+func hndl_memory_search_html(w http.ResponseWriter, r *http.Request) {
+
+	defer r.Body.Close()
+	load_html_template(w, r, "memory_search.tpl")
+}
+
+/* ===================================================================================
+
+
+====================================================================================*/
+
+
+func hndl_memory_search_results_html(w http.ResponseWriter, r *http.Request) {
+
+	defer r.Body.Close()
+	get_solr_search_results(w, r, "memory_results.tpl")
+}
+
+/* ===================================================================================
+
+
+====================================================================================*/
+
 
 func hndl_cohabitation_search_html(w http.ResponseWriter, r *http.Request) {
 

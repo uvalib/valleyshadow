@@ -1,6 +1,7 @@
 
 body { font: normal 15px Arial, Verdana sans-serif; }
 
+a { text-decoration: none; }
 em { background-color: yellow; }
 
 div.center { margin-left:auto; margin-right:auto; }
@@ -22,7 +23,10 @@ td.gender { color: #000099;}
 .warning {font-weight:bold; padding:5px; color:#000099; background-color:#FFFFFF;}
 .section-head {color: #003366; font-family: times, serif; font-weight: bold}
 
-#search_button {  background-color: #4CAF50;
+#search_page_infolinks { color: #416d83; }
+#search_page_infolinks_white { color: #ffffff; }
+
+#search_button {  background-color: #416d83;
   border: none;
   color: white;
   padding: 10px 25px;
@@ -33,7 +37,7 @@ td.gender { color: #000099;}
   margin: 4px 2px;
   cursor: pointer;}
 
-#clear_button {  background-color: #4CAF50;
+#clear_button {  background-color: #416d83;
   border: none;
   color: white;
   padding: 10px 25px;

@@ -10,7 +10,7 @@
       <script src="/VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
 	  <link type="text/css" rel="stylesheet" href="/VoS/css/valleyshadow.css" />
       <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
-      
+
 	</head>
    <body vlink="#00009C" link="#CD7F32" bgcolor="FFFFFF" text="#000000">
       <div id="no-javascript" style="width:100%;text-align:center;">
@@ -33,7 +33,7 @@
                   <td>
                      <center><img src="/VoS/images/images/vtitle4.gif"><br><br><p>
                            <h1 class="red-head"> Search the 1860 Augusta or
-                              												Franklin County Tax Records 
+                              												Franklin County Tax Records
                            </h1>
                         </p>
                      </center>
@@ -46,7 +46,7 @@
                      <blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
                         										substituted for any number of characters at the middle
                         										or back of a word. Please see <a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
-                        										full explanation. 
+                        										full explanation.
                      </blockquote>
                   </td>
                </tr>
@@ -56,7 +56,7 @@
          <center>
             <form method="get" action="/tax_search_results.html" name="taxSearchForm"><input name="q" id="query" type="hidden"><input value="50" name="rows" type="hidden"><input value="0" name="start" type="hidden"><input value="last asc, first asc" name="sort" type="hidden"><table style="width:75%;" cellpadding="10">
                   <tr>
-                     <td align="center" colspan="4"><input id="search_button" value="Initiate Search" type="submit"><input value="clear" type="reset"></td>
+                     <td align="center" colspan="4"><input id="search_button" value="Initiate Search" type="submit"><input value="clear" id="clear_button" type="reset"></td>
                   </tr>
                   <tr>
                      <td id="county_cell">County: <input value="augusta" id="county_default" name="county" type="radio">Augusta<input value="franklin" name="county" type="radio">Franklin</td>

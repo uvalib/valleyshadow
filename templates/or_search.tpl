@@ -3,17 +3,17 @@
 <html>
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-      <title>Valley of the Shadow: Search the Official Records</title><style> .highlightme { background-color: yellow; } 
-					.noresults { font-size: 16px; margin: 10px 0 10px 0; } 
-					.currentShowing { width: 100px; text-align: center; padding: 0 10px 0 10px; } 
+      <title>Valley of the Shadow: Search the Official Records</title><style> .highlightme { background-color: yellow; }
+					.noresults { font-size: 16px; margin: 10px 0 10px 0; }
+					.currentShowing { width: 100px; text-align: center; padding: 0 10px 0 10px; }
 					.previousPage { width: 250px; text-align: right; }
-					.nextPage { width: 250px; text-align: left; } 
+					.nextPage { width: 250px; text-align: left; }
 					#resultSummary { padding: 5px 0 5px 0; border-top: 1px solid #c6c6c6; border-bottom: 1px solid #c6c6c6; }
-					#returnPage { width: 65%; } 
-					#topNavig { text-align: center; margin: 5px 0 5px 0;} 
-					#bottomNavig { text-align: center; margin: 5px 0 5px 0; } 
-					#jumpPages {padding: 5px 0 5px 0; border-top: 1px solid #c6c6c6; } 
-					#resultReturns { clear: both; } select{margin:2px;} input{margin:2px;} 
+					#returnPage { width: 65%; }
+					#topNavig { text-align: center; margin: 5px 0 5px 0;}
+					#bottomNavig { text-align: center; margin: 5px 0 5px 0; }
+					#jumpPages {padding: 5px 0 5px 0; border-top: 1px solid #c6c6c6; }
+					#resultReturns { clear: both; } select{margin:2px;} input{margin:2px;}
 					.warning{font-weight:bold; padding:5px; color:#000099; background-color:#FFFFFF;}
 					.red-head {color: #990000; font-family: times, serif; font-weight: bold; }
 				</style>
@@ -21,7 +21,7 @@
 				<script src="/VoS/javascript/or_search.js" type="text/javascript"></script></head>
 			    <link type="text/css" rel="stylesheet" href="/VoS/css/valleyshadow.css" />
       			<link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
-				
+
    <body vlink="#00009c" link="#cd7f32" bgcolor="#FFFFFF">
       <div id="no-javascript" style="width:100%;text-align:center;">
          <h3 class="warning">This page requires Javascript.  Please ensure that you have enabled Javascript in your browser's preferences</h3>
@@ -33,7 +33,7 @@
                <blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
                   							substituted for any number of characters at the middle
                   							or back of a word. Please see <a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
-                  							full explanation. 
+                  							full explanation.
                </blockquote>
                <p><i>By default, all dates will be searched. To limit your search, select
                      								specific dates</i></p>
@@ -80,7 +80,7 @@
                      <option value="12">December</option></select><span id="validationField"></span></p>
                <p id="county"> Search Units from:<br><input checked value="all" name="county" type="radio">Both
                      								Counties<input value="augusta" name="county" type="radio">Augusta<input value="franklin" name="county" type="radio">Franklin</p>
-               <p><input value="Search" id="search_button" type="submit"><input value="Reset" id="reset" type="reset"></p>
+               <p><input value="Search" id="search_button" type="submit"><input value="Reset" id="clear_button" type="reset"></p>
                <hr>
             </div>
          </form>

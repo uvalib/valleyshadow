@@ -10,7 +10,7 @@
    	  <link type="text/css" rel="stylesheet" href="/VoS/css/valleyshadow.css" />
       <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 
-   <body VLINK="#00009C" LINK="#CD7F32" BGCOLOR="FFFFFF" TEXT="#000000">
+   <body BGCOLOR="#FFFFFF">
       <div id="no-javascript" style="width:100%;text-align:center;">
          <h3 class="warning">This page requires Javascript.  Please ensure that you have enabled Javascript in your browser's preferences</h3>
       </div>
@@ -18,18 +18,18 @@
          <table>
             <tr>
                <td valign="center">
-                  <table cellpadding="10" width="80%" border="0" bgcolor="#ffcc99">
+                  <table cellpadding="10" width="80%" border="0" bgcolor="#416d83">
                      <tr>
-                        <td align="center"><a href="/VoS/cwdossier1.html"><b>Return to Soldier's Records Home</b></a></td>
+                        <td align="center"><a id="search_page_infolinks_white" href="/VoS/cwdossier1.html"><b>Return to Soldier's Records Home</b></a></td>
                      </tr>
                      <tr>
-                        <td align="center"><a href="veteran"><b>1890 U.S. Veterans Census</b></a><br></td>
+                        <td align="center"><a id="search_page_infolinks_white" href="/veteran"><b>1890 U.S. Veterans Census</b></a><br></td>
                      </tr>
                      <tr>
-                        <td align="center"><a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
+                        <td align="center"><a id="search_page_infolinks_white" href="/VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
                      </tr>
                      <tr>
-                        <td align="center"><a href="/VoS/aboutsoldiers.html"><b>More Information About the Records</b></a></td>
+                        <td align="center"><a id="search_page_infolinks_white" href="/VoS/aboutsoldiers.html"><b>More Information About the Records</b></a></td>
                      </tr>
                   </table>
                </td>
@@ -60,7 +60,7 @@
                <p><b>County:</b><span name="county_cell"><input checked value="augusta" name="county" type="radio">Augusta<input value="franklin" name="county" type="radio">Franklin</span></p>
                <table border="0" cellpadding="10">
                   <tr>
-                     <td colspan="4" valign="center" bgcolor="#ffcc99"><font class="red-head">Name</font></td>
+                     <td colspan="4" valign="center" bgcolor="#416d83" id="search_page_infolinks_white">Name</td>
                   </tr>
                   <tr>
                      <td align="right"><b>Last name:</b></td>
@@ -68,8 +68,8 @@
                      <td align="right"><b>First name:</b></td>
                      <td align="left"><input size="20" name="first_name"></td>
                   </tr>
-                  <tr bgcolor="#ffcc99">
-                     <td colspan="4" valign="center" bgcolor="#ffcc9"><font class="red-head">Enlistment Information</font></td>
+                  <tr bgcolor="#416d83">
+                     <td colspan="4" valign="center" bgcolor="#416d83" id="search_page_infolinks_white">Enlistment Information</td>
                   </tr>
                   <tr>
                      <td align="right"><b>Date Enlisted:</b></td>
@@ -95,7 +95,7 @@
                      <td align="left"><input size="20" name="occ_enl"></td>
                   </tr>
                   <tr>
-                     <td bgcolor="#ffcc99" colspan="4"><font class="red-head">Service Information</font></td>
+                     <td bgcolor="#416d83" colspan="4" id="search_page_infolinks_white">Service Information</td>
                   </tr>
                   <tr>
                      <td valign="top" align="right"><b>Regiment:</b></td>
@@ -160,7 +160,7 @@
                      <td valign="top" align="left"><input disabled name="other_rank"></td>
                   </tr>
                   <tr>
-                     <td bgcolor="#ffcc99" colspan="4"><font class="red-head">Military Records</font></td>
+                     <td bgcolor="#416d83" colspan="4" id="search_page_infolinks_white">Military Records</td>
                   </tr>
                   <tr>
                      <td align="right"><b>Casualties:</b></td>
@@ -235,7 +235,7 @@
                      <td align="left"><input disabled size="20" name="other_place"></td>
                   </tr>
                </table>
-            </center><br><br><center><input class="search_button" value="Initiate Search" type="submit"><input value="Clear" type="reset"></center><br><hr width="80%">
+            </center><br><br><center><input class="search_button" id="search_button" value="Initiate Search" type="submit"><input value="Clear" id="clear_button" type="reset"></center><br><hr width="80%">
             <center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
          </form>
       </div>

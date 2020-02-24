@@ -6,11 +6,11 @@
       <title>Valley of the Shadow: Agricultural Census Search</title><style> .red-head {color: #990000; font-family: times, serif; font-weight: bold } .warning{font-weight:bold; padding:5px; color:#000099; background-color:#FFFFFF;} </style>
 	  <link type="text/css" rel="stylesheet" href="/VoS/css/valleyshadow.css" />
       <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
- 
+
       <script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
       <script src="/VoS/javascript/ag_census_search.js" type="text/javascript"></script>
     </head>
-   <body vlink="#00009C" link="#CD7F32" bgcolor="FFFFFF" text="#000000">
+   <body bgcolor="FFFFFF" >
       <div id="no-javascript" style="width:100%;text-align:center;">
          <h3 class="warning">This page requires Javascript.  Please ensure that you have enabled Javascript in your browser's preferences</h3>
       </div>
@@ -19,21 +19,21 @@
             <table cellpadding="10">
                <tr>
                   <td valign="center">
-                     <table cellpadding="10" width="80%" border="0" bgcolor="#ffcc99">
+                     <table cellpadding="10" width="80%" border="0" bgcolor="#416d83">
                         <tr>
-                           <td align="center"><a href="/VoS/govdoc/censi/acensus.html"><b>Information<br>About the Census</b></a></td>
+                           <td align="center"><a id="search_page_infolinks_white" href="/VoS/govdoc/censi/acensus.html"><b>Information<br>About the Census</b></a></td>
                         </tr>
                         <tr>
-                           <td align="center"><a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a></td>
+                           <td align="center"><a id="search_page_infolinks_white" href="/VoS/reference/tips.html"><b>Tips for Searching</b></a></td>
                         </tr>
                         <tr>
-                           <td align="center"><a href="/VoS/govdoc/censi/census_new.html"><b>Return to<br>Census Home</b></a></td>
+                           <td align="center"><a id="search_page_infolinks_white" href="/VoS/govdoc/censi/census_new.html"><b>Return to<br>Census Home</b></a></td>
                         </tr>
                      </table>
                   </td>
                   <td>
                      <center><img src="/VoS/images/images/vtitle4.gif"><br><br><h1 class="red-head"> Search the U.S. Agricultural
-                           											Census 
+                           											Census
                         </h1>
                      </center>
                      <blockquote> This page allows you to search the 1860 or 1870 U.S.
@@ -44,7 +44,7 @@
                      <blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
                         										substituted for any number of characters at the middle
                         										or back of a word. Please see <a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
-                        										full explanation. 
+                        										full explanation.
                      </blockquote>
                   </td>
                </tr>
@@ -62,22 +62,22 @@
                      <td align="right">Year:</td>
                      <td id="year_cell"><input checked value="60" name="year" type="radio">1860<input value="70" name="year" type="radio">1870</td>
                   </tr>
-                  <tr bgcolor="#ffcc99">
-                     <td colspan="4" valign="center" bgcolor="#ffcc99"><font class="red-head">Ownership</font></td>
+                  <tr bgcolor="#416d83">
+                     <td colspan="4" valign="center" bgcolor="#416d83" id="search_page_infolinks_white">Ownership</td>
                   </tr>
                   <tr>
-                     <td align="right"><a href="/VoS/govdoc/censi/acensus.html#last">Last name</a>:
+                     <td align="right"><a id="search_page_infolinks" href="/VoS/govdoc/censi/acensus.html#last">Last name</a>:
                      </td>
                      <td align="left"><input size="25" name="last_name"></td>
-                     <td align="right"><a href="/VoS/govdoc/censi/acensus.html#first">First name</a>:
+                     <td align="right"><a id="search_page_infolinks" href="/VoS/govdoc/censi/acensus.html#first">First name</a>:
                      </td>
                      <td align="left"><input size="25" name="first_name"></td>
                   </tr>
-                  <tr bgcolor="#ffcc99">
-                     <td colspan="4" valign="center" bgcolor="#ffcc99"><font class="red-head">Real Estate</font></td>
+                  <tr bgcolor="#416d83">
+                     <td colspan="4" valign="center" bgcolor="#416d83" id="search_page_infolinks_white">Real Estate</td>
                   </tr>
                   <tr>
-                     <td align="right"><a href="/VoS/govdoc/censi/acensus.html#land">Total
+                     <td align="right"><a id="search_page_infolinks" href="/VoS/govdoc/censi/acensus.html#land">Total
                            									Acres of Land</a>:
                      </td>
                      <td><select name="no_tot_land-op">
@@ -85,8 +85,8 @@
                            <option>&gt;</option>
                            <option>&lt;</option>
                            <option>&lt;&gt;</option></select><input size="6" name="no_tot_land"></td>
-                     <td align="right"><a href="/VoS/govdoc/censi/acensus.html#farm">Farm
-                           									Value</a>: 
+                     <td align="right"><a id="search_page_infolinks" href="/VoS/govdoc/censi/acensus.html#farm">Farm
+                           									Value</a>:
                      </td>
                      <td><select name="farm_val-op">
                            <option>=</option>
@@ -94,18 +94,18 @@
                            <option>&lt;</option>
                            <option>&lt;&gt;</option></select><input size="6" name="farm_val"></td>
                   </tr>
-                  <tr bgcolor="#ffcc99">
-                     <td colspan="4" valign="center" bgcolor="#ffcc99"><font class="red-head">Crops</font></td>
+                  <tr bgcolor="#416d83">
+                     <td colspan="4" valign="center" bgcolor="#416d83" id="search_page_infolinks_white">Crops</td>
                   </tr>
                   <tr>
-                     <td align="right"><a href="/VoS/govdoc/censi/acensus.html#tobacco">Total pounds of tobacco</a>:
+                     <td align="right"><a id="search_page_infolinks" href="/VoS/govdoc/censi/acensus.html#tobacco">Total pounds of tobacco</a>:
                      </td>
                      <td><select name="no_tobacco-op">
                            <option>=</option>
                            <option>&gt;</option>
                            <option>&lt;</option>
                            <option>&lt;&gt;</option></select><input size="6" name="no_tobacco"></td>
-                     <td align="right"><a href="/VoS/govdoc/censi/acensus.html#tobacco">Total bushels of grain</a>:
+                     <td align="right"><a id="search_page_infolinks" href="/VoS/govdoc/censi/acensus.html#tobacco">Total bushels of grain</a>:
                      </td>
                      <td><select name="no_tot_grain-op">
                            <option>=</option>
@@ -113,18 +113,18 @@
                            <option>&lt;</option>
                            <option>&lt;&gt;</option></select><input size="6" name="no_tot_grain"></td>
                   </tr>
-                  <tr bgcolor="#ffcc99">
-                     <td colspan="4" valign="center" bgcolor="#ffcc99"><font class="red-head">Animals</font></td>
+                  <tr bgcolor="#416d83">
+                     <td colspan="4" valign="center" bgcolor="#416d83" id="search_page_infolinks_white">Animals</td>
                   </tr>
                   <tr>
-                     <td align="right"><a href="/VoS/govdoc/censi/acensus.html#livestock">Cash value of livestock</a>:
+                     <td align="right"><a id="search_page_infolinks" href="/VoS/govdoc/censi/acensus.html#livestock">Cash value of livestock</a>:
                      </td>
                      <td><select name="tot_livestock-op">
                            <option>=</option>
                            <option>&gt;</option>
                            <option>&lt;</option>
                            <option>&lt;&gt;</option></select><input size="6" name="tot_livestock"></td>
-                     <td align="right"><a href="/VoS/govdoc/censi/acensus.html#animals">Total animals</a>:
+                     <td align="right"><a id="search_page_infolinks" href="/VoS/govdoc/censi/acensus.html#animals">Total animals</a>:
                      </td>
                      <td><select name="no_tot_animals-op">
                            <option>=</option>
@@ -132,11 +132,11 @@
                            <option>&lt;</option>
                            <option>&lt;&gt;</option></select><input size="6" name="no_tot_animals"></td>
                   </tr>
-                  <tr bgcolor="#ffcc99">
-                     <td colspan="4" valign="center" bgcolor="#ffcc99"><font class="red-head">Manufacturing</font></td>
+                  <tr bgcolor="#416d83">
+                     <td colspan="4" valign="center" bgcolor="#416d83" id="search_page_infolinks_white">Manufacturing</td>
                   </tr>
                   <tr>
-                     <td align="right"><a href="/VoS/govdoc/censi/acensus.html#home">Cash
+                     <td align="right"><a id="search_page_infolinks" href="/VoS/govdoc/censi/acensus.html#home">Cash
                            									Value of Home Manufacturing</a>:
                      </td>
                      <td><select name="no_manu-op">

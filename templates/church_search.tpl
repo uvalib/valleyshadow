@@ -16,12 +16,12 @@
          <table>
             <tr>
                <td valign="center">
-                  <table cellpadding="10" width="80%" border="0" bgcolor="#ffcc99">
+                  <table cellpadding="10" width="80%" border="0" bgcolor="#416d83">
                      <tr>
-                        <td align="center"><a href="/VoS/church1.html"><b>Return to<br> Church Home</b></a></td>
+                        <td align="center"><a id="search_page_infolinks_white" href="/VoS/church1.html"><b>Return to<br> Church Home</b></a></td>
                      </tr>
                      <tr>
-                        <td align="center"><a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
+                        <td align="center"><a id="search_page_infolinks_white" href="/VoS/reference/tips.html"><b>Tips for Searching</b></a><br></td>
                      </tr>
                   </table>
                </td>
@@ -43,15 +43,15 @@
                      									often finding them with the help of the clergy. The staff then
                      									meticulously transcribed the record books of several churches
                      									from Augusta and Franklin Counties, converting them into
-                     									searchable databases. 
+                     									searchable databases.
                      <p>You can search the database by name or
-                        										church. 
+                        										church.
                      </p>
                   </blockquote>
                   <blockquote><b>Note:</b> The wild card character is <b>*</b>. It can be
                      									substituted for any number of characters at the middle
                      									or back of a word. Please see <a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a> for a
-                     									full explanation. 
+                     									full explanation.
                   </blockquote>
                </td>
             </tr>
@@ -60,7 +60,7 @@
          <center>
             <form method="get" action="/church_search_results.html" name="churchSearchForm"><input name="q" id="query" type="hidden"><input value="50" name="rows" type="hidden"><input value="0" name="start" type="hidden"><input value="last asc, first asc" name="sort" type="hidden"><table cellpadding="10">
                   <tr>
-                     <td colspan="4" align="center"><input value="Initiate Search" id="search_button" type="submit"><input value="Clear" type="reset"></td>
+                     <td colspan="4" align="center"><input value="Initiate Search" id="search_button" type="submit"><input value="Clear" id="clear_button" type="reset"></td>
                   </tr>
                   <tr>
                      <td align="right">Last Name:</td>

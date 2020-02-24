@@ -10,7 +10,7 @@
 				<link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 				<script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
 				<script src="/VoS/javascript/advanced_census_search.js" type="text/javascript"></script></head>
-   <body VLINK="#00009C" LINK="#CD7F32" BGCOLOR="FFFFFF" TEXT="#000000">
+   <body >
       <div id="no-javascript" style="width:100%;text-align:center;">
          <h3 class="warning">This page requires Javascript.  Please ensure that you have enabled Javascript in your browser's preferences</h3>
       </div>
@@ -18,18 +18,18 @@
          <table>
             <tr>
                <td valign="center">
-                  <table cellpadding="10" width="80%" border="0" bgcolor="#ffcc99">
+                  <table cellpadding="10" width="80%" border="0" bgcolor="#416d83" style="color: #ffffff;">
                      <tr>
-                        <td align="center"><a href="/population_census"><b>Basic Search</b></a></td>
+                        <td align="center"><a id="search_page_infolinks_white" href="/population_census"><b>Basic Search</b></a></td>
                      </tr>
                      <tr>
-                        <td align="center"><a href="/VoS/govdoc/censi/pcensus.html"><b>Information<br>About the Census</b></a></td>
+                        <td align="center"><a id="search_page_infolinks_white" href="/VoS/govdoc/censi/pcensus.html"><b>Information<br>About the Census</b></a></td>
                      </tr>
                      <tr>
-                        <td align="center"><a href="/VoS/reference/tips.html"><b>Tips for Searching</b></a></td>
+                        <td align="center"><a id="search_page_infolinks_white" href="/VoS/reference/tips.html"><b>Tips for Searching</b></a></td>
                      </tr>
                      <tr>
-                        <td align="center"><a href="/VoS/govdoc/censi/census_new.html"><b>Return to<br>Census Home</b></a></td>
+                        <td align="center"><a id="search_page_infolinks_white" href="/VoS/govdoc/censi/census_new.html"><b>Return to<br>Census Home</b></a></td>
                      </tr>
                   </table>
                </td>
@@ -57,7 +57,7 @@
                      									the link at the left.<br><br><b>Note:</b> The wild card character is <b>*</b>. It can be
                      									substituted for any number of characters at the middle,
                      									or back of a word. Please see <b>Tips for Searching</b> for a
-                     									full explanation. 
+                     									full explanation.
                   </blockquote>
                </td>
             </tr>
@@ -65,7 +65,7 @@
          <hr>
          <form method="get" action="/advanced_search_results.html" id="advancedSearchForm"><input name="q" id="query" readonly type="hidden"><input value="50" name="rows" readonly type="hidden"><input value="0" name="start" readonly type="hidden"><table class="search_table" style="margin-left:auto;margin-right:auto;">
                <tr>
-                  <td colspan="4" align="center"><input value="Initiate Search" id="search_button" type="submit"><input value="Clear" type="reset"></td>
+                  <td colspan="4" align="center"><input value="Initiate Search" id="search_button" type="submit"><input value="Clear" id="clear_button" type="reset"></td>
                </tr>
                <tr>
                   <td align="right">Year:</td>
@@ -83,12 +83,12 @@
                   <td align="left"><input value="true" name="stats" type="checkbox"></td>
                </tr>
                <tr>
-                  <td bgcolor="#ffcc99" colspan="4"><b>Personal Information</b></td>
+                  <td bgcolor="#416d83" colspan="4" style="color: #ffffff;"><b>Personal Information</b></td>
                </tr>
                <tr>
-                  <td align="right"><a href="/VoS/govdoc/censi/pcensus.html#last"><b>Last name:</b></a></td>
+                  <td align="right"><a href="/VoS/govdoc/censi/pcensus.html#last" id="search_page_infolinks"><b>Last name:</b></a></td>
                   <td align="left"><input size="20" id="last_name"></td>
-                  <td align="right"><a href="/VoS/govdoc/censi/pcensus.html#first"><b>First name:</b></a></td>
+                  <td align="right"><a href="/VoS/govdoc/censi/pcensus.html#first" id="search_page_infolinks"><b>First name:</b></a></td>
                   <td align="left"><input size="20" id="first_name"></td>
                </tr>
                <tr>
@@ -108,7 +108,7 @@
                   <td id="sex_cell" align="left"><input value="m" name="sex" type="radio">male<input value="f" name="sex" type="radio">female</td>
                </tr>
                <tr>
-                  <td align="right"><a href="/VoS/govdoc/censi/pcensus.html#color"><b>"Color"</b></a>:
+                  <td align="right"><a href="/VoS/govdoc/censi/pcensus.html#color" id="search_page_infolinks"><b>"Color"</b></a>:
                   </td>
                   <td id="color_cell" colspan="3" align="left"><input value="color:b" name="colors" type="radio">black<input value="color:w" name="colors" type="radio">white<input value="color:m" name="colors" type="radio">"mulatto"<input value="(color:b OR color:m)" name="colors" type="radio">black
                         									or mulatto</td>
@@ -124,14 +124,14 @@
                   <td></td>
                </tr>
                <tr>
-                  <td valign="center" align="right"><a href="/VoS/govdoc/censi/pcensus.html#estate"><b>Real estate value</b></a><br>(in $)
+                  <td valign="center" align="right"><a href="/VoS/govdoc/censi/pcensus.html#estate" id="search_page_infolinks"><b>Real estate value</b></a><br>(in $)
                   </td>
                   <td valign="center" align="left"><select id="realests-op">
                         <option value="gt">&gt;</option>
                         <option value="equal">=</option>
                         <option value="lt">&lt;</option>
                         <option value="not">&lt;&gt;</option></select><input size="6" id="realests"></td>
-                  <td valign="center" align="right"><a href="/VoS/govdoc/censi/pcensus.html#estate"><b>Personal estate value</b></a><br>(in $)
+                  <td valign="center" align="right"><a id="search_page_infolinks" href="/VoS/govdoc/censi/pcensus.html#estate"><b>Personal estate value</b></a><br>(in $)
                   </td>
                   <td valign="center" align="left"><select id="persests-op">
                         <option value="gt">&gt;</option>
@@ -140,10 +140,10 @@
                         <option value="not">&lt;&gt;</option></select><input size="6" id="persests"></td>
                </tr>
                <tr>
-                  <td align="right"><a href="/VoS/govdoc/censi/pcensus.html#occupation"><b>Occupation</b></a>:<br><a href="/VoS/govdoc/alloccs.html">(A list of occupations<br>is
+                  <td align="right"><a id="search_page_infolinks" href="/VoS/govdoc/censi/pcensus.html#occupation"><b>Occupation</b></a>:<br><a id="search_page_infolinks" href="/VoS/govdoc/alloccs.html">(A list of occupations<br>is
                         									available)</a></td>
                   <td align="left"><input id="occupation"></td>
-                  <td align="right"><b><a href="/VoS/govdoc/censi/pcensus.html#birthplace">Birthplace</a></b>:
+                  <td align="right"><b><a id="search_page_infolinks" href="/VoS/govdoc/censi/pcensus.html#birthplace">Birthplace</a></b>:
                   </td>
                   <td align="left"><input id="birth_place"></td>
                </tr>
@@ -280,7 +280,7 @@
                   <td align="left"><input size="10" id="post_office"></td>
                </tr>
                <tr>
-                  <td bgcolor="#ffcc99" colspan="4"><b>Census Record Information</b></td>
+                  <td bgcolor="#416d83" colspan="4" style="color: #ffffff;"><b>Census Record Information</b></td>
                </tr>
                <tr>
                   <td align="right">Page Number:</td>
