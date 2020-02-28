@@ -24,7 +24,6 @@
       <div class="cite-results-banner">
         {{ template "pagination" . }}
       </div>
-      {{ . }}
       <table border="1px" style="width:100%;text-align:center;">
          <tr>
             <tr>

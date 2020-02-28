@@ -15,12 +15,14 @@
       <center><b>Please cite results as coming from: </b>Pennsylvania Border Commission
          					Claims--Franklin County </br> Valley of the Shadow: Two Communities in the American
          					Civil War, Virginia Center for Digital History, University of Virginia</br>
-         					({{ .QS }}).</center>
-    <div style="width:100%;padding-top:10px;padding-bottom:10px;">
-
+         					({{ .FURL }}?{{ .QS }}).</center>
+    <div style="width:100%;padding-top:10px;padding-bottom:10px;  text-align:center;">
                {{ template "pagination" . }}
+             </br>
+               <a href="/paclaims">New Search</a></br></br>
+
       </div>
-      <table border="1px" style="width:100%;text-align:center;">
+      <table border="1px" style="width:100%; text-align:center;">
          <tr>
             <td><b>Name</b></td>
             <td><b>Race</b></td>
@@ -47,8 +49,12 @@
          </tr>
      	{{ end }}
       </table>
-      <div style="width:100%;padding-top:10px;padding-bottom:10px;">
+      <div style="width:100%;padding-top:10px;padding-bottom:10px; text-align: center;">
          {{ template "pagination" . }}
-      </div><script src="/VoS/javascript/generic_search_paging.js" type="text/javascript"></script><p><a href="paclaims">Go back to search page</a></p><br><center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
+         <p><a href="/paclaims">New Search</a></p><br>
+
+      </div>
+      <script src="/VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
+      <center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
    <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

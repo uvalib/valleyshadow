@@ -37,10 +37,11 @@
            <div style="width:100%;padding-top:10px;padding-bottom:10px;">
              <center><p><b>Please cite results as coming from: </b>{{ getcounty .County }} County, {{ getstate .County }}, 1890 Veterans Census</br> Valley of the Shadow: Two Communities in
                 					the American Civil War, Virginia Center for Digital History, University of
-                					Virginia</br> (/{{ .QS}}).
+                					Virginia</br> ({{ .FURL }}?{{ .QS }}).
              </p>
-      	{{ template "pagination" .  }}</center>
-
+      	{{ template "pagination" .  }}
+        <p><a href="/veteran">New Search</a></p>
+      </center>
       </div>
 
 
@@ -83,10 +84,12 @@
 
 
       </table>
-      <div style="width:100%;padding-top:10px;padding-bottom:10px;">
+      <div style="width:100%;padding-top:10px;padding-bottom:10px; text-align: center">
       	{{ template "pagination" .  }}
-        {{ .QS }}
+        <a href="/veteran">New Search</a>
+
       </div>
-      <script src="javascript/jquery-1.2.1.js" type="text/javascript"></script><script src="javascript/generic_search_paging.js" type="text/javascript"></script><p><a href="veteran">Go back to search page</a></p>
-   <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
+      <script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

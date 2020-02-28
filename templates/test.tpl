@@ -40,6 +40,8 @@
 	      <center><img src="/VoS/images/images/vtitle4.gif" border="0"><h2 class="red-head">Search the Valley of the Shadow Letters</h2>
          <div style="padding-bottom:1em;" id="resultSummary">
            {{ template "pagination" .  }}
+         </br>
+           <a href="/letters_search">New Search</a>
          </div>
 
          <div id="resultReturns">
@@ -50,9 +52,13 @@
 			<span class="context">{{ printf "%.1000s" .fulltext}}</span>...
 			</div>
 		</div>
-       {{end}}
-   {{ template "pagination" . }}
-
-        </center><br><center><a href="/VoS/choosepart.html"><img alt="" src="/VoS/images/graphics/full7.gif" border="0"></a></center>
+    {{end}}
+    <div style="width:100%;padding-top:10px;padding-bottom:10px; text-align: center;">
+      {{ template "pagination" . }}
+    </br>
+      <a href="/letters_search">New Search</a>
+    </div>
+        </center>
+        <br><center><a href="/VoS/choosepart.html"><img alt="" src="/VoS/images/graphics/full7.gif" border="0"></a></center>
   </body>
 </html>

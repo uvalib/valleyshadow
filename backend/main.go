@@ -245,6 +245,7 @@ func main() {
 
 	r := newRouter()
 	loggedRouter := handlers.LoggingHandler(os.Stdout, r)
+	log.Printf("INFO: running as %s ", os.Getenv("site_url"))
 	log.Printf("INFO: listening on port %s (version: %s)", os.Getenv("listen_port"), version())
 	log.Fatal(http.ListenAndServe(fmt.Sprintf(":%s", os.Getenv("listen_port")), loggedRouter))
 }
@@ -359,6 +360,22 @@ func getcounty(str string) string {
 	return answer
 }
 
+/*-----------------------------------------------------------------------------------*/
+
+func getenv(key string) string {
+    if value, exists := os.LookupEnv(key); exists {
+			return value
+    }
+		return "valleyshadow.lib.virginia.edu"
+}
+
+/*-----------------------------------------------------------------------------------*/
+
+func getfullurl() string {
+
+		return "valleyshadow.lib.virginia.edu"
+}
+
 /* ===================================================================================
 
 		Reads a file from disc and serves it to client
@@ -369,7 +386,7 @@ func read_file_then_write_out(ww http.ResponseWriter, filename string, contentTy
 
 	ww.Header().Set("Content-Type", contentType)
 	ww.Header().Set("Connection", "close")
-
+	fmt.Println("image filename:" + filename)
 	data, err := ioutil.ReadFile(filename)
 	if err == nil {
 		ww.Write(data)
@@ -562,6 +579,8 @@ func load_html_template(w2 http.ResponseWriter, r2 *http.Request, tpl string) {
 		"getcounty":  getcounty,
 		"getyear":    getyear,
 		"unescape":   html.UnescapeString,
+		"getenv"  :   getenv,
+
 	}
 
 	t, err := template.New(fname).Funcs(fmap).ParseGlob(fname)
@@ -596,6 +615,7 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	var string_contents string
 
 	u, err := url.Parse(r1.RequestURI)
+
 	if err != nil {
 		log.Printf("ERROR: during URL parse: %s", err.Error())
 		http.Error(w1, err.Error(), http.StatusInternalServerError)
@@ -603,10 +623,10 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	}
 
 	tmpq := u.RawQuery
+
 	qun, err := url.QueryUnescape(tmpq)
 	m, _ := url.ParseQuery(qun)
 
-	//fmt.Println("RQ = : " + qun)
 	//fmt.Println("raw_st = : " + m.Get("raw_st"))
 	zz := ConstructSolrQuery(qun + "&raw_st=" + m.Get("raw_st"))
 	//log.Println(" QS out from CSQ: " + zz)
@@ -659,9 +679,6 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	//clean_string := html.UnescapeString(string_contents)
 	//fmt.Println("CLEAN:" + clean_string)
 
-	//THIS IS WORKING on bytes - save
-	//replaceall := bytes.Replace(contents, []byte(m.Get("raw_st")), []byte(em_string), -1)
-
 	if err != nil {
 		log.Printf("ERROR: reading response body into contents: %s", err.Error())
 		log.Printf("INFO: request URL: %s", zz)
@@ -681,12 +698,15 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	//numdocs_returned := len(solrResponse.Response.Docs)
 
 	tmpvar := write_pagination(alldocs_count, solrResponse.Response.Start, r1.URL.RequestURI())
-	//fmt.Println("right after pagination call:" + html.UnescapeString(tmpvar) + "\n")
 
+	// populate request specific vars and pass with struct to html template
 	solrResponse.Response.ST = html.UnescapeString(tmpvar)
 	solrResponse.Response.Start = startval
 	solrResponse.Response.CURSOR = solrResponse.Response.Start + 50
 	solrResponse.Response.QS = qun
+  solrResponse.Response.FURL = r1.Host + r1.URL.Path
+
+
 
 	if m.Get("county") != "" {
 		solrResponse.Response.County = m.Get("county")
@@ -708,6 +728,7 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 		"getcounty":  getcounty,
 		"getyear":    getyear,
 		"unescape":   html.UnescapeString,
+		"getenv"  :   getenv,
 	}
 
 	t, err := template.New(fname).Funcs(fmap).ParseGlob(fname)
@@ -741,6 +762,11 @@ func hndl_webroot_html(w http.ResponseWriter, r *http.Request) {
 	defer r.Body.Close()
 	read_file_then_write_out(w, "./VoS/index.html", defaultContentType)
 }
+
+/* ===================================================================================
+
+
+====================================================================================*/
 
 func hndl_news_calendar(w http.ResponseWriter, r *http.Request) {
 
@@ -979,12 +1005,18 @@ func hndl_images_search_results_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_single_image_result(w http.ResponseWriter, r *http.Request) {
 
-	defer r.Body.Close()
+	 defer r.Body.Close()
 
 	//vars := mux.Vars(r)
-	filename := fmt.Sprintf(".%s", r.RequestURI)
-	contentType := detect_content_type(filename)
-	read_file_then_write_out(w, filename, contentType)
+	//filename := fmt.Sprintf("%s", r.RequestURI)
+	//contentType := detect_content_type(filename)
+	//read_file_then_write_out(w, filename, contentType)
+
+	//vars := mux.Vars(r)
+	//filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
+	//fmt.Printf("No ext: %v", filename_noext)
+	get_solr_search_results(w, r, "images_single_result.tpl")
+
 }
 
 func detect_content_type(filename string) string {

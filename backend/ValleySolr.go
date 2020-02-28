@@ -18,7 +18,7 @@ import (
 	"log"
 	"net/url"
 	"os"
-	"fmt"
+	//"fmt"
 )
 
 /* ===================================================================================
@@ -62,6 +62,7 @@ type DocumentCollection struct {
 	QS       string
 	County   string
 	Year     string
+	FURL		 string
 	//Backdoor *datapipe
 }
 
@@ -226,7 +227,7 @@ func PopulateResponse(j map[string]interface{}) (*SolrResponse, error) {
 func SolrFromHTTP(b []byte) (*SolrResponse, error) {
 
 	// SAVE TO TROUBLESHOOT
-	 fmt.Printf("container : %v", string(b))
+	// fmt.Printf("container : %v", string(b))
 
 	var container map[string]interface{}
 

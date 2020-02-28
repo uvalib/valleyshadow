@@ -1,6 +1,6 @@
 
 {{ define "pagination" }}
-<div class="pagination-div" >
+<!--- <div class="pagination-div" > -->
 </br>
 	<div>{{ .NumFound}} Results Found</div>
 	</br>
@@ -8,5 +8,5 @@
 	</br>
 	<div> Showing records {{ .Start }} to {{ .CURSOR }} ({{ .NumFound }} total)</div>
 </br>
-</div>
+<!--  </div>  -->
 {{ end }}
