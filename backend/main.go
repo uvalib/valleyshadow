@@ -326,6 +326,8 @@ func getstate(str string) string {
 		answer = "Virginia"
 	case "church_au":
 		answer = "Virginia"
+	case "church_aug":
+		answer = "Virginia"
 	case "augusta":
 		answer = "Virginia"
 	}

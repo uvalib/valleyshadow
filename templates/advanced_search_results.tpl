@@ -16,7 +16,7 @@
 					a:hover { color: red !important; }
 					p.query { font-family: arial; }
 					p.no-results { font-family: arial; text-align: center; padding: 3em 0 5em 0;}
-	
+
 		</style></head>
    <body bgcolor="#FFFFFF">
       <div align="center" class="census_results"><img src="/VoS/images/images/vtitle4.gif"></div>
@@ -24,16 +24,18 @@
          							{{ .Year }} Population
       </h1>
       <p class="citationHelp"><b>Please cite results as coming from: </b>{{ getcounty .County}}
-         						County, {{ getstate .County }}, 1860 Population Census, Valley of
+         						County, {{ getstate .County }}, {{ getyear .Year }} Population Census, Valley of
          						the Shadow: Two Communities in the American Civil War, Virginia Center for
          						Digital History, University of Virginia<br>
-         						( /advanced_search_results.html?q=db:pop_aug_60 AND last:anderson ).
+         						( {{ .FURL }}?{{ .QS }}).
       </p>
-      <p><a href="population_census" class="searchReturn">Start a new search</a></p><br><center>
-         <div style="width:100%;padding-top:10px;padding-bottom:10px;">     
+      <center>
+         <div style="width:100%;padding-top:10px;padding-bottom:10px;text-align:center">
           {{ template "pagination" . }}
+          <a href="/advanced">Start a new search</a><br>
 
          </div>
+
          <table border="1px" style="width:100%">
             <tr>
                <td><b>Family Number</b></td>
@@ -61,12 +63,13 @@
             </tr>
           {{ end }}
          </table>
-         <div style="width:100%;padding-top:10px;padding-bottom:10px;">          
+         <div style="width:100%;padding-top:10px;padding-bottom:10px;text-align:center">
          {{ template "pagination" . }}
+         <a href="/advanced">Start a new search</a>
 
          </div>
+
       </center>
-      <p><a href="population_census" class="searchReturn">Start a new search</a></p>
       <div style="display:block; clear:both; border: none; padding-top: 1em;" id="footer">
          <center><a shape="rect" href="/VoS/choosepart.html"><img src="/VoS/images/graphics/full7.gif" border="0" alt="Return to Full Valley Archive"></a></center>
       </div>

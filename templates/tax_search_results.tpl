@@ -3,24 +3,21 @@
 <html>
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-      <title>Valley of the Shadow: Augusta County 1860 Tax Records -- Search Results</title><style>
-					p.citation-help { padding-left: 3em; padding-right: 3em; border: none;}
-					p.query { font-family: arial; }
-					p.no-results { font-family: arial; text-align: center; padding: 3em 0 5em 0;}
-				</style>
+      <title>Valley of the Shadow: {{ getcounty .County }} County 1860 Tax Records -- Search Results</title>
 	  <link type="text/css" rel="stylesheet" href="/VoS/css/valleyshadow.css" />
       <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
-				
+
 				</head>
    <body>
-      <h1><font color="#990000">
-            <center>Staunton, VA -1860 Tax Records</center></font></h1>
-      <p><b>Please cite results as coming from: </b>Augusta County, Virginia, 1860 Tax Records, Valley of the Shadow: Two Communities in the
-         					American Civil War, Virginia Center for Digital History, University of Virginia.
-      </p>
-      <div style="width:100%;padding-top:10px;padding-bottom:10px;">           
-      	{{ template "pagination" .  }}
 
+      <h1><center><font color="#990000">
+          {{ getcounty .County }}, {{ getstate .County }} -1860 Tax Records</font></center></h1>
+      <center><p class="citation-help"><b>Please cite results as coming from: </b>{{ getcounty .County }} County, {{ getstate .County }}, 1860 Tax Records</br> Valley of the Shadow: Two Communities in the
+         					American Civil War, Virginia Center for Digital History, University of Virginia.
+      </p></center>
+      <div style="width:100%;padding-top:10px;padding-bottom:10px;text-align:center">
+      	{{ template "pagination" .  }}
+        <a href="/tax">Go back to search page</a>
       </div>
       <table border="1px" style="width:100%;text-align:center;">
          <tr>
@@ -45,12 +42,12 @@
             <td>{{ .tax_amt }}</td>
             <td>{{ .city_tax_amt}}</td>
          </tr>
-		{{ end }}      
+		{{ end }}
 		</table>
-      <div style="width:100%;padding-top:10px;padding-bottom:10px;">           
+      <div style="width:100%;padding-top:10px;padding-bottom:10px;text-align:center">
       	{{ template "pagination" .  }}
-
-      </div><script src="/VoS/javascript/generic_search_paging.js" type="text/javascript"></script><p><a href="tax">Go back to search page</a></p>
+          <a href="/tax">Go back to search page</a>
+      </div>
       <center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
    <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

@@ -22,12 +22,10 @@
       <p class="citation-help"><b>Please cite results as coming from:</b> Augusta County, Virginia, 1860
          					Slaveowners Census, Valley of the Shadow: Two Communities in the American Civil
          					War, Virginia Center for Digital History, University of Virginia
-         					(http://valley.lib.virginia.edu/slave_census_search_results.html?q=db:slave_aug_60).
-      </p>
+         					({{ .FURL }}?{{ .QS }})
       <center>
          <div style="width:100%;padding-top:10px;padding-bottom:10px;">
         	{{ template "pagination" .  }}
-        	{{ .QS }}
 
 		</div>
       </center>

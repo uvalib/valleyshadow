@@ -2,13 +2,13 @@ $(function () {
  /* disable submit click event propagation to prevent conflict with form submit event */
     $('#search_button').click( function (event) {
         event.stopPropagation();
-        event.preventDefault(); 
+        event.preventDefault();
     });
     $('#search_button').submit( function (event) {
         event.stopPropagation();
-        event.preventDefault(); 
+        event.preventDefault();
     });
-	
+
     // a function to lowercase string (regardless of contents) and put quotes around non-wildcard search strings, if whitespace is present
     function checkQuery(item) {
         var newQuery = item.attr('value').toLowerCase();
@@ -18,9 +18,9 @@ $(function () {
             newQuery = '"' + newQuery + '"';
         }
         return newQuery;
-    }; 
+    };
 
-	
+
 
 	$('[name="regiment"]') .change(function(){
 		var selected_id = $(this) .children("option:selected") .attr('class');
@@ -86,12 +86,16 @@ $(function () {
 
 	$('.search_button') .click(function () {
 		var db = "db:dossiers_*";
+    var cnty;
+
 		if ($('[name="county_cell"]') .children("input:checked") .attr('value') == 'augusta') {
 			db = 'db:dossiers_augusta';
+      cnty = "augusta"
 		} else if ($('[name="county_cell"]') .children("input:checked") .attr('value') == 'franklin') {
 			db = 'db:dossiers_franklin_full';
+      cnty = "franklin"
 		}
-		
+
 		var query = db;
 		var queryString;
 		var sort = $('[name="sort"]').attr('value');
@@ -116,7 +120,7 @@ $(function () {
 			queryString = ' AND occ_enl:' + checkQuery($('[name="occ_enl"]'));
 			query = query + queryString;
 		}
-		
+
 		var age_enl = $('[name="age_enl"]') .attr('value');
 		if (age_enl != null) {
 			var age_enl_op = $('#age_enl-op') .attr('value');
@@ -131,7 +135,7 @@ $(function () {
 			}
 			query = query + queryString;
 		}
-		
+
 		if ($('[name="regiment"]') .attr('value') != null && $('[name="regiment"]') .attr('value') != 'other') {
 			queryString = ' AND regiment:' + checkQuery($('[name="regiment"]'));
 			query = query + queryString;
@@ -139,12 +143,12 @@ $(function () {
 			queryString = ' AND regiment:' + checkQuery($('[name="other_rgmnt"]'));
 			query = query + queryString;
 		}
-		
+
 		if ($('[name="company"]') .attr('value') != null) {
 			queryString = ' AND company:' + checkQuery($('[name="company"]'));
 			query = query + queryString;
 		}
-		
+
 		if ($('[name="rank"]') .attr('value') != null && $('[name="rank"]') .attr('value') != 'other') {
 			queryString = ' AND rank_enl:' + checkQuery($('[name="rank"]'));
 			query = query + queryString;
@@ -152,22 +156,22 @@ $(function () {
 			queryString = ' AND rank_enl:' + checkQuery($('[name="other_rank"]'));
 			query = query + queryString;
 		}
-		
+
 		if ($('[name="casualty"]') .attr('value') != null && $('[name="cas_year"]') .attr('value') == null) {
 			queryString = ' AND ' + $('[name="casualty"]') .attr('value') + ':[* TO *]';
 			query = query + queryString;
 		}
-		
+
 		if ($('[name="pers_ev_type"]') .attr('value') != null && $('[name="pers_ev"]') .attr('value') == null) {
 			queryString = ' AND ' + $('[name="pers_ev_type"]') .attr('value') + ':[* TO *]';
 			query = query + queryString;
 		}
-		
-		
+
+
 		var cas_year = $('[name="cas_year"]') .attr('value');
 		if (cas_year != null) {
 			var cas_year_op = $('#cas_year-op') .attr('value');
-			
+
 			var abbr_cas;
 			if($('[name="casualty"]') .attr('value') == 'dead_wounds'){
 				abbr_cas = 'dow';
@@ -178,7 +182,7 @@ $(function () {
 			else{
 				abbr_cas = $('[name="casualty"]') .attr('value');
 			}
-			
+
 			if (cas_year_op == 'gt') {
 				queryString = ' AND ' + abbr_cas + '_year:[' + cas_year + ' TO *] NOT ' + abbr_cas + '_year:' + cas_year;
 			} else if (cas_year_op == 'equal') {
@@ -190,8 +194,8 @@ $(function () {
 			}
 			query = query + queryString;
 		}
-		
-		
+
+
 		var pers_ev = $('[name="pers_ev"]') .attr('value');
 		if (pers_ev != null) {
 			var pers_ev_op = $('#pers_ev-op') .attr('value');
@@ -206,12 +210,12 @@ $(function () {
 			}
 			query = query + queryString;
 		}
-		
+
 		if ($('[name="mil_rec"]') .attr('value') != null) {
 			queryString = ' AND ' + $('[name="mil_rec"]') .attr('value') + ':[* TO *]';
 			query = query + queryString;
 		}
-		
+
 		if ($('[name="mil_rec_date"]') .attr('value') != null) {
 			queryString = ' AND ' + $('[name="mil_rec"]') .attr('value') + ':' + $('[name="mil_rec_date"]') .attr('value');
 			query = query + queryString;
@@ -231,17 +235,17 @@ $(function () {
 			var place=checkQuery($('[name="mil_rec_place"]'));
 			queryString = ' AND (promotions:' + place + ' OR transfers:' + place + ' OR hospital_record:' + place + ')';
 			query = query + queryString;
-		} 
+		}
 		// final check on query
 		if (query == null) {
 			query = "db:dossiers_*";
 		}
-		var url = document.dossiersSearchForm.action + "?q=" + query + "&rows=" + $('[name="rows"]').attr('value')  + "&start=" + $('[name="start"]').attr('value') + '&sort=' + sort;
+		var url = document.dossiersSearchForm.action + "?q=" + query + "&rows=" + $('[name="rows"]').attr('value')  + "&start=" + $('[name="start"]').attr('value') + '&sort=' + sort + "&county=" + cnty;
 		window.location.href=url; // this is a replacement for the form SUBMIT event.
         return false;
-		
+
 	});
-	
+
 /* hide no-javascript warning on load */
 $('#no-javascript').remove();
 });

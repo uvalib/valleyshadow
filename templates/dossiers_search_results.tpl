@@ -24,8 +24,8 @@ Endowment for the Humanities. -->
   <link type="text/css" rel="stylesheet" href="/VoS/css/valleyshadow.css" />
   <script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
   <script src="/VoS/javascript/replace_em.js" type="text/javascript"></script>
-        <script src="/VoS/javascript/census-thickbox.js" type="text/javascript"></script>
-  <style> .highlightme { color: inherit; background-color: yellow; } 
+  <script src="/VoS/javascript/census-thickbox.js" type="text/javascript"></script>
+  <style> .highlightme { color: inherit; background-color: yellow; }
 			p.query { font-family: arial; }
 			p.no-results { font-family: arial; text-align: center; padding: 3em 0 5em 0;}
 			#topNavig, #bottomNavig { display:block; padding: 10px; align: center; }
@@ -35,20 +35,22 @@ Endowment for the Humanities. -->
    <body style="padding: 1em;">
       <h1><font color="#990000">
             <center>Soldiers' Records</center></font></h1>
-      <h3><font color="#990000">
-            <center>From Compiled Military Service Records at National Archives</center></font></h3>
-      <p>Results printed below are the short version of the results of your search.
+      <h3><center><font color="#990000">
+            From Compiled Military Service Records at National Archives</font></center></h3>
+      <center><p>Results printed below are the short version of the results of your search.
          					Columns in bold denote columns searched on (beyond the basic returns of Name,
          					service information, and enlistment information. Clicking on the last name of
          					each person will allow you to see a full record for that individual
       </p>
-      <p><b>Please cite results as coming from: </b>{{ getcounty .County }} County, {{ getstate .County }}, Soldiers Records, Valley of the Shadow: Two Communities in the
+      <p><b>Please cite results as coming from: </b>{{ getcounty .County }} County, {{ getstate .County }}, Soldiers Records</br> Valley of the Shadow: Two Communities in the
          					American Civil War, Virginia Center for Digital History, University of Virginia
-         					(http://valley.lib.virginia.edu/dossiers_search_results.html?q=db:dossiers_augusta).
+                </br>({{ .FURL }}?{{ .QS }}).</center>
       </p>
       <center>
-         <div id="topNavig">   			
+         <div id="topNavig">
          {{ template "pagination" . }}
+         <a href="dossiers">Go back to search page</a>
+
          </div>
       </center>
       <table border="1px" style="width:100%;text-align:center;">
@@ -63,7 +65,7 @@ Endowment for the Humanities. -->
          </tr>
 
       {{range .Docs}}
-        
+
          <tr>
             <td><a class="thickbox" href="/dossier_record?q=db:{{ .db }} AND id_num:{{ .id_num }}">{{ .last }}</a></td>
             <td>{{ .first }}</td>
@@ -73,15 +75,16 @@ Endowment for the Humanities. -->
             <td>{{ .place_enl }}</td>
             <td>{{ .year_enl}}</td>
          </tr>
-      {{ end }}   
-   
+      {{ end }}
+
       </table>
       <center>
          <div id="bottomNavig">
-   	{{ template "pagination" . }}
+   	       {{ template "pagination" . }}
+           <a href="/dossiers">Go back to search page</a>
+
          </div>
       </center>
-      <p><a href="dossiers">Go back to search page</a></p>
       <div style="display:block; clear:both; border: none; padding-top: 1em;" id="footer">
          <center><a shape="rect" href="/VoS/choosepart.html"><img src="/VoS/images/graphics/full7.gif" border="0" alt="Return to Full Valley Archive"></a></center>
       </div>

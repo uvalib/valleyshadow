@@ -5,11 +5,11 @@ $(document).ready(function() {
      /* disable submit click event propagation to prevent conflict with form submit event */
     $('#search_button').click( function (event) {
         event.stopPropagation();
-        event.preventDefault(); 
+        event.preventDefault();
     });
     $('#search_button').submit( function (event) {
         event.stopPropagation();
-        event.preventDefault(); 
+        event.preventDefault();
     });
 
     // a function to lowercase string (regardless of contents) and put quotes around non-wildcard search strings, if whitespace is present
@@ -21,13 +21,13 @@ $(document).ready(function() {
             newQuery = '"' + newQuery + '"';
         }
         return newQuery;
-    }; 
-	
-	
+    };
+
+
     function buildRange(rangeTerm, solrFieldName, rangeOp) {
         // this is a general method for building range queries for solr/lucene
         // note it includes boolean operator, so must be used on 2nd and later query fields
-        
+
         var queryTerm = ' AND ' + solrFieldName + ':' + rangeTerm;
         if (rangeOp == '>' || rangeOp == 'gt') {
             queryTerm = ' AND ' + solrFieldName + ':' + '[' + rangeTerm + ' TO *]';
@@ -38,10 +38,10 @@ $(document).ready(function() {
         } else if (rangeOp == '' || rangeOp == 'equal' ) {
             // do nothing
         } else { queryTerm = ''; }
-        
+
         return queryTerm;
     };
-    
+
 
 
     $('#people').keydown(function(e){
@@ -58,7 +58,7 @@ $(document).ready(function() {
 			$('.franklin_form') .children('td') .children('input') .each(function(){
 				var type = this.type;
 				var tag = this.tagName.toLowerCase();
-				
+
     				if (type == 'text'){
 					this.value = "";
 				}
@@ -71,11 +71,11 @@ $(document).ready(function() {
 			});
 		} else if ($(this) .attr('value') == 'franklin') {
 			$('.augusta_form') .hide();
-			$('.franklin_form') .show();		
+			$('.franklin_form') .show();
 			$('.augusta_form') .children('td') .children('input') .each(function(){
 				var type = this.type;
 				var tag = this.tagName.toLowerCase();
-				
+
     				if (type == 'text'){
 					this.value = "";
 				}
@@ -86,25 +86,29 @@ $(document).ready(function() {
 	      				this.selectedIndex = -1;
 	      			}
 			});
-			
+
 		}
 	});
 
 	$('#search_button') .click(function () {
-	
+
 		var db;
+    var cnty;
+
 		if ($('#county_cell') .children("input:checked") .attr('value') == 'augusta') {
 			db = 'db:tax_staunton_60';
+      cnty = "augusta";
 		}
 		else if ($('#county_cell') .children("input:checked") .attr('value') == 'franklin') {
 			db = 'db:tax_chburg_60';
+      cnty = "franklin";
 		}
-	
+
 		var query = db;
 		var sort = $('input[name="sort"]') .attr('value');
         var queryString = '';
-        
-		
+
+
 		if ($('[name="last_name"]') .attr('value') != null){
 			queryString = ' AND last:' + checkQuery( $('input[name="last_name"]') );
 			query = query + queryString;
@@ -112,12 +116,12 @@ $(document).ready(function() {
 		if ($('[name="first_name"]') .attr('value') != null){
 			queryString = ' AND first:' + checkQuery( $('input[name="first_name"]') );
 			query = query + queryString;
-		}		
+		}
 		if ($('[name="occupation"]') .attr('value') != null){
 			queryString = ' AND occupation:' + checkQuery( $('input[name="occupation"]') );
 			query = query + queryString;
 		}
-		
+
 		/*Franklin figures*/
 		/*County Tax*/
 		var co_tax = $('[name="co_tax"]') .attr('value');
@@ -137,7 +141,7 @@ $(document).ready(function() {
 		    queryString = buildRange($('[name="st_per_tax"]') .attr('value'), 'state_personal_tax', $('#st_per_tax-op') .attr('value'));
             query = query + queryString;
 		}
-		
+
 		/*Augusta Figures*/
 		/*Building Value*/
 		var build = $('[name="build"]') .attr('value');
@@ -164,19 +168,20 @@ $(document).ready(function() {
             query = query + queryString;
 		}
 
-		
+
 		$('input[name="sort"]') .attr('value', sort);
         $('input[name="q"]') .attr('value', query);
         $('input[name="db"]') .attr('value', db);
-        var url = document.taxSearchForm.action + "?q=" + query + "&rows=" + $('[name="rows"]').attr('value')  + "&start=" + $('[name="start"]').attr('value') + "&sort=" + $('[name="sort"]').attr('value');
+        var url = document.taxSearchForm.action + "?q=" + query + "&rows=" + $('[name="rows"]').attr('value')  + "&start=" + $('[name="start"]').attr('value') + "&sort=" + $('[name="sort"]').attr('value') + "&county=" + cnty;
+        alert("county=" + cnty);
         window.location.href=url; // this is a replacement for the form SUBMIT event.
         return false;
 
-		
+
 
 	});
-	
-		
+
+
 /* hide no-javascript warning on load */
 $('#no-javascript').remove();
 

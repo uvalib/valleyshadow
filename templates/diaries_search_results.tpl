@@ -15,20 +15,20 @@
          {{ template "pagination" .  }}
 
          <div id="resultReturns">
-         
-           		{{range .Docs}}
-			<div style="padding-bottom:20px;width:80%;text-align:left;">
-				<a href="/papers/{{.id}}">{{  .title }}</a>
-				<br><b>Context: </b>...
-			<!---	<span class="context">{{ printf "%.500s" .fulltext}}</span>... -->
-				<span class="context">{{printf "%.500s" .fulltext}}</span>...
 
-			</div>
-		</div>
+         {{range .Docs}}
+			      <div style="padding-bottom:20px;width:80%;text-align:left;">
+				          <a href="/papers/{{.id}}">{{  .title }}</a>
+				          <br><b>Context: </b>...
+			            <!---	<span class="context">{{ printf "%.500s" .fulltext}}</span>... -->
+				          <span class="context">{{printf "%.500s" .fulltext}}</span>...
+			      </div>
+		     </div>
+
        {{end}}
-         
+
          </div>
-         <div id="bottomNavig">           
+         <div id="bottomNavig">
          	{{ template "pagination" .  }}
 		</div>
       </center><br><center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>

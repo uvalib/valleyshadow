@@ -5,6 +5,7 @@
       <title>Valley of the Shadow: Augusta County - 1870 Manufacturing Census -- Search Results</title>
       <script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
       <script src="/VoS/javascript/census-thickbox.js" type="text/javascript"></script>
+      <script src="/VoS/javascript/generic_search_paging.js" type="text/javascript"></script>
 	    <link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
 	     <link rel="icon" type="image/png" href="/VoS/images/favicon.ico" />
 	 </head>
@@ -18,12 +19,18 @@
       <p><b>Please cite results as coming from: </b>{{ getcounty .County }} County, {{ getstate .County }} - {{ getyear .Year }} Manufacturing Census.</br> Valley of
          					the Shadow: Two Communities in the American Civil War, Virginia Center for
          					Digital History, University of Virginia</br>
-         					(/{{ .QS }}).
+         					({{ .FURL }}?{{ .QS }}).
       </p>
     </div>
       <div class="cite-results-banner">
         {{ template "pagination" . }}
+
+      <a href="/manu_census">Go back to search page</a>
+    </br> </br>
+
       </div>
+
+
       <table border="1px" style="width:100%;text-align:center;">
          <tr>
             <tr>
@@ -54,9 +61,11 @@
          </tr>
    	{{ end }}
       </table>
-      <div style="width:100%;padding-top:10px;padding-bottom:10px;">
+      <div style="width:100%;padding-top:10px;padding-bottom:10px;text-align:center">
         			{{ template "pagination" . }}
-      </div><script src="/VoS/javascript/generic_search_paging.js" type="text/javascript"></script><p><a href="manu_census">Go back to search page</a></p>
+            </br>
+              <a href="/manu_census">Go back to search page</a>
+      </div>
       <center>
         <a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a>
       </center>

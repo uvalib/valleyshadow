@@ -82,7 +82,8 @@
                </tr>
                <tr>
                   <td align="right">Year:</td>
-                  <td class="validate" id="year_cell" align="left"><input checked id="year_1860" value="1860" name="year" type="radio">1860<input id="year_1870" value="1870" name="year" type="radio">1870<input id="year_default" value="both" name="year" type="radio">Both</td>
+                  <td class="validate" id="year_cell" align="left"><input checked id="year_1860" value="1860" name="year" type="radio">1860<input id="year_1870" value="1870" name="year" type="radio">1870
+                    <!-- <input id="year_default" value="both" name="year" type="radio"> Both  --> </td>
                   <td align="right">County:</td>
                   <td class="validate" id="county_cell"><input checked id="county_augusta" value="aug" name="county" type="radio">Augusta<input id="county_franklin" value="fr" name="county" type="radio">Franklin</td>
                </tr>

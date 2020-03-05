@@ -20,13 +20,14 @@
       <p><b>Please cite results as coming from: </b>{{ getcounty .County }} County, {{ getstate .County }} - {{ getyear .Year }} Population Census.</br> Valley of
          					the Shadow: Two Communities in the American Civil War, Virginia Center for
          					Digital History, University of Virginia</br>
-         					(/{{ .QS }}).
+         					({{ .FURL }}?{{ .QS }}).
       </p>
     </div>
-      <p><a href="population_census" class="searchReturn">Start a new search</a></p><br><center>
-         <div style="width:100%;padding-top:10px;padding-bottom:10px;">
+         <div style="width:100%;padding-top:10px;padding-bottom:10px;text-align:center;">
 
          {{ template "pagination" .  }}
+         <p><a href="population_census" class="searchReturn">Start a new search</a></p><br><center>
+
        <!--  <p><a class="detailed_results" href="/census_search_results?q=db:{{ .QS }}&amp;start=0&amp;rows=50&amp;detailed=yes&amp;county=aug&amp;year=1860&amp;sort=last asc">View detailed search on this page of results</a></p> -->
 
          </div>
@@ -59,12 +60,12 @@
 
 
          </table>
-         <div style="width:100%;padding-top:10px;padding-bottom:10px;">
+         <div style="width:100%;padding-top:10px;padding-bottom:10px;text-align:center;">
          {{ template "pagination" .  }}
+         <p><a href="population_census" class="searchReturn">Start a new search</a></p>
 
          </div>
       </center>
-      <p><a href="population_census" class="searchReturn">Start a new search</a></p>
       <div style="display:block; clear:both; border: none; padding-top: 1em;" id="footer">
          <center><a shape="rect" href="/VoS/choosepart.html"><img src="/VoS/images/graphics/full7.gif" border="0" alt="Return to Full Valley Archive"></a></center>
       </div>

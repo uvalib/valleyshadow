@@ -6,7 +6,7 @@
       <link rel="stylesheet" type="text/css" href="/VoS/css/valleyshadow.css">
       <script src="/VoS/javascript/jquery-1.2.1.js" type="text/javascript"></script>
       <script src="/VoS/javascript/replace_em.js" type="text/javascript"></script>
-      <style> 
+      <style>
 			.highlightme { color: inherit; background-color: yellow; }
 			p.query { font-family: arial; }
 			p.no-results { font-family: arial; text-align: center; padding: 3em 0 5em 0;}
@@ -19,13 +19,14 @@
                <center>{{ getcounty .County }} County &#8211; Church Records</center></font></h1>
          <p class="citation-help"><b>Please cite results as coming from: </b>{{ getcounty .County}} County, {{ getstate .County }}, Church Records, Valley of the Shadow: Two Communities in the
             					American Civil War, Virginia Center for Digital History, University of Virginia.<br>
-            					(http://valley.lib.virginia.edu/church_search_results.html?q=db:church_aug).
+            					({{ .FURL }}?{{ .QS }}).
          </p>
       </center>
-      <p style="align:left; padding-left: 2em;"><a href="/church">Go back to search page</a></p>
       <center>
-         <div style="width:90%;padding-top:10px;padding-bottom:10px;">
-   {{ template "pagination" . }}
+         <div style="width:90%;padding-top:10px;padding-bottom:10px;text-align:center">
+           {{ template "pagination" . }}
+           <a href="/church">Go back to search page</a></p>
+
          </div>
          <table border="1px" style="width:100%;text-align:center;">
             <tr>
@@ -69,11 +70,12 @@
 
 
          </table>
-         <div style="width:90%;padding-top:10px;padding-bottom:10px;">
-   {{ template "pagination" . }}
+         <div style="width:90%;padding-top:10px;padding-bottom:10px;text-align:center">
+           {{ template "pagination" . }}
+           <a href="/church">Go back to search page</a>
+
          </div>
       </center>
-      <p><a href="church">Go back to search page</a></p>
       <center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
    <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

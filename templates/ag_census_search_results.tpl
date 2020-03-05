@@ -22,14 +22,15 @@
          <p><b>Please cite results as coming from: </b>{{ getcounty .County }} County, {{ getstate .County}}, {{ getyear .Year}} Agricultural Census, Valley of the
             					Shadow: Two Communities in the American Civil War, Virginia Center for Digital
             					History, University of Virginia</br>
-            					(/{{ .QS }}).
+            					({{ .FURL }}?{{ .QS }}).
          </p>
-         <div style="width:100%;padding-top:10px;padding-bottom:10px;">
+         <div style="width:100%;padding-top:10px;padding-bottom:10px;text-align:center">
          {{ template "pagination" .  }}
+       </br>
+         <a href="/ag_census">Go back to search page</a>
 
          </div>
       </center>
-      <p style="align:left; padding-left: 2em;"><a href="ag_census">Go back to search page</a></p>
       <center>
          <table border="1px" style="width:100%;text-align:center;">
             <tr>
@@ -60,12 +61,13 @@
             </tr>
             {{ end }}
          </table>
-         <div style="width:100%;padding-top:10px;padding-bottom:10px;">
+         <div style="width:100%;padding-top:10px;padding-bottom:10px;text-align:center">
          {{ template "pagination" .  }}
+          </br>
+          <a href="ag_census">Go back to search page</a>
 
          </div>
       </center>
-      <p><a href="ag_census">Go back to search page</a></p>
       <div style="display:block; clear:both; border: none; padding-top: 1em;" id="footer">
          <center><a shape="rect" href="/VoS/choosepart.html"><img src="/VoS/images/graphics/full7.gif" border="0" alt="Return to Full Valley Archive"></a></center>
       </div>
