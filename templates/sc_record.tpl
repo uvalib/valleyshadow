@@ -16,7 +16,7 @@
       </h1><br><center><p><b>Please cite results as coming from:</b> Augusta County, Virginia, 1860
          					Slaveowners Census Census</br> Valley of the Shadow: Two Communities in the American
          					Civil War, Virginia Center for Digital History, University of Virginia</br>
-         						({{ .QS }}).
+         						({{ .FURL }}?{{ .QS }}).
       </p></center>
       {{range .Docs}}
       <center>
@@ -37,11 +37,11 @@
          </tr>
          <tr>
             <td class="left" colspan="2"><b>Employer Name:</b></td>
-            <td class="right" colspan="2"></td>
+            <td class="right" colspan="2">{{ .emp_name }}</td>
          </tr>
          <tr>
             <td class="left" colspan="2"><b>Employer Location:</b></td>
-            <td class="right" colspan="2"></td>
+            <td class="right" colspan="2">{{ .emp_location}}</td>
          </tr>
          <tr></tr>
          <tr>
@@ -68,8 +68,10 @@
       </table>
     </center>
       {{ end }}
-      <p><a href="javascript:history.go(-1)">go back to search results page</a><br><a href="slave_census">New Search</a></p>
+    </br>
+      <center><a href="javascript:history.go(-1)">Go back to search results</a><br><a href="/slave_census">New Search</a></center>
       <hr width="80%">
+    </br>
       <center><a href="/VoS/choosepart.html"><img alt="" border="0" src="/VoS/images/graphics/full7.gif"></a></center>
    <script src="/VoS/javascript/libtools.js" type="text/javascript"></script></body>
 </html>

@@ -17,7 +17,7 @@
       <p class="citation-help"><b>Please cite results as coming from:</b>Augusta County, Virginia, 1860 Manufacturing Census</br> Valley of
          					the Shadow: Two Communities in the American Civil War, Virginia Center for
          					Digital History, University of Virginia
-         					<br>(http://valley.lib.virginia.edu/manu_record?db:man_aug_60 AND name:burke AND id_num:1).
+         					<br>({{ .FURL }}?{{ .QS }}).
       </p>
       <p class="citation-help"><b>Please cite results as coming from:</b>{{ getcounty .County }} County, {{ getyear .Year}}, {{ getyear .Year }} Manufacturing Census, Valley of
          					the Shadow: Two Communities in the American Civil War, Virginia Center for

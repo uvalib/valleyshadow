@@ -1,3 +1,4 @@
+{{ $tmpd := .}}
 <!DOCTYPE html
   PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
@@ -48,7 +49,7 @@
             <tr>
                <td>{{ .family_num}}</td>
                <td>2</td>
-               <td><a class="thickbox" href="/census_results?q=id_num:{{ .id_num }} AND db:{{ .db }}&TB_iframe=true&start=0&county={{ .County }}&year={{ .Year}}">{{ .last }}</a></td>
+               <td><a class="thickbox" href="/census_results?q=id_num:{{ .id_num }} AND db:{{ .db }}&start=0&county={{ $tmpd.County }}&year={{ $tmpd.Year}}&TB_iframe=true">{{ .last }}</a></td>
                <td>{{ .first }}</td>
                <td>{{ .age }}</td>
                <td>{{ .sex }}</td>
@@ -62,7 +63,7 @@
          </table>
          <div style="width:100%;padding-top:10px;padding-bottom:10px;text-align:center;">
          {{ template "pagination" .  }}
-         <p><a href="population_census" class="searchReturn">Start a new search</a></p>
+         <p><a href="/population_census" class="searchReturn">Start a new search</a></p>
 
          </div>
       </center>

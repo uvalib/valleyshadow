@@ -1,3 +1,4 @@
+{{ $tmpd := .}}
 <!DOCTYPE html
   PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
@@ -49,7 +50,7 @@
 
 
          <tr>
-            <td><a class="thickbox" href="/manu_record?q=db:{{ .db }} AND id_num:{{ .id_num }}&start=0&county={{ .County }}">{{ .name }}</a></td>
+            <td><a class="thickbox" href="/manu_record?q=db:{{ .db }} AND id_num:{{ .id_num }}&start=0&county={{ getcounty $tmpd.County }}">{{ .name }}</a></td>
             <td>{{ .business }}</td>
             <td>{{ .location }}</td>
             <td>{{ .kinds_annual }}</td>
