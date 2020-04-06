@@ -378,6 +378,10 @@ func getfullurl() string {
 		return "valleyshadow.lib.virginia.edu"
 }
 
+func plusone(addtome int) int {
+		return addtome + 1
+}
+
 /* ===================================================================================
 
 		Reads a file from disc and serves it to client
@@ -581,8 +585,8 @@ func load_html_template(w2 http.ResponseWriter, r2 *http.Request, tpl string) {
 		"getcounty":  getcounty,
 		"getyear":    getyear,
 		"unescape":   html.UnescapeString,
-		"getenv"  :   getenv,
-
+		"getenv": 	  getenv,
+		"plusone":		plusone,
 	}
 
 	t, err := template.New(fname).Funcs(fmap).ParseGlob(fname)
@@ -730,7 +734,8 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 		"getcounty":  getcounty,
 		"getyear":    getyear,
 		"unescape":   html.UnescapeString,
-		"getenv"  :   getenv,
+		"getenv":   	getenv,
+		"plusone":		plusone,
 	}
 
 	t, err := template.New(fname).Funcs(fmap).ParseGlob(fname)
