@@ -245,7 +245,6 @@ func main() {
 
 	r := newRouter()
 	loggedRouter := handlers.LoggingHandler(os.Stdout, r)
-	log.Printf("INFO: running as %s ", os.Getenv("site_url"))
 	log.Printf("INFO: listening on port %s (version: %s)", os.Getenv("listen_port"), version())
 	log.Fatal(http.ListenAndServe(fmt.Sprintf(":%s", os.Getenv("listen_port")), loggedRouter))
 }
@@ -365,21 +364,21 @@ func getcounty(str string) string {
 /*-----------------------------------------------------------------------------------*/
 
 func getenv(key string) string {
-    if value, exists := os.LookupEnv(key); exists {
-			return value
-    }
-		return "valleyshadow.lib.virginia.edu"
+	if value, exists := os.LookupEnv(key); exists {
+		return value
+	}
+	return "valleyshadow.lib.virginia.edu"
 }
 
 /*-----------------------------------------------------------------------------------*/
 
 func getfullurl() string {
 
-		return "valleyshadow.lib.virginia.edu"
+	return "valleyshadow.lib.virginia.edu"
 }
 
 func plusone(addtome int) int {
-		return addtome + 1
+	return addtome + 1
 }
 
 /* ===================================================================================
@@ -578,15 +577,15 @@ func load_html_template(w2 http.ResponseWriter, r2 *http.Request, tpl string) {
 	fname := filepath.Join(cwd, "./templates/*.tpl")
 
 	fmap := template.FuncMap{
-		"noescape":   noescape,
-		"noext":      noext,
-		"titlecase":  titlecase,
-		"getstate":   getstate,
-		"getcounty":  getcounty,
-		"getyear":    getyear,
-		"unescape":   html.UnescapeString,
-		"getenv": 	  getenv,
-		"plusone":		plusone,
+		"noescape":  noescape,
+		"noext":     noext,
+		"titlecase": titlecase,
+		"getstate":  getstate,
+		"getcounty": getcounty,
+		"getyear":   getyear,
+		"unescape":  html.UnescapeString,
+		"getenv":    getenv,
+		"plusone":   plusone,
 	}
 
 	t, err := template.New(fname).Funcs(fmap).ParseGlob(fname)
@@ -632,6 +631,12 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 
 	qun, err := url.QueryUnescape(tmpq)
 	m, _ := url.ParseQuery(qun)
+
+	// no current query
+	if len( m.Get("q") ) == 0 {
+		log.Printf("DEBUG: no active query, doing nothing")
+		return
+	}
 
 	//fmt.Println("raw_st = : " + m.Get("raw_st"))
 	zz := ConstructSolrQuery(qun + "&raw_st=" + m.Get("raw_st"))
@@ -710,9 +715,7 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	solrResponse.Response.Start = startval
 	solrResponse.Response.CURSOR = solrResponse.Response.Start + 50
 	solrResponse.Response.QS = qun
-  solrResponse.Response.FURL = r1.Host + r1.URL.Path
-
-
+	solrResponse.Response.FURL = r1.Host + r1.URL.Path
 
 	if m.Get("county") != "" {
 		solrResponse.Response.County = m.Get("county")
@@ -727,15 +730,15 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	fname := filepath.Join(cwd, "./templates/*.tpl")
 
 	fmap := template.FuncMap{
-		"noescape":   noescape,
-		"noext":      noext,
-		"titlecase":  titlecase,
-		"getstate":   getstate,
-		"getcounty":  getcounty,
-		"getyear":    getyear,
-		"unescape":   html.UnescapeString,
-		"getenv":   	getenv,
-		"plusone":		plusone,
+		"noescape":  noescape,
+		"noext":     noext,
+		"titlecase": titlecase,
+		"getstate":  getstate,
+		"getcounty": getcounty,
+		"getyear":   getyear,
+		"unescape":  html.UnescapeString,
+		"getenv":    getenv,
+		"plusone":   plusone,
 	}
 
 	t, err := template.New(fname).Funcs(fmap).ParseGlob(fname)
@@ -1012,7 +1015,7 @@ func hndl_images_search_results_html(w http.ResponseWriter, r *http.Request) {
 
 func hndl_single_image_result(w http.ResponseWriter, r *http.Request) {
 
-	 defer r.Body.Close()
+	defer r.Body.Close()
 
 	//vars := mux.Vars(r)
 	//filename := fmt.Sprintf("%s", r.RequestURI)
@@ -1467,7 +1470,6 @@ func hndl_memory_search_html(w http.ResponseWriter, r *http.Request) {
 
 ====================================================================================*/
 
-
 func hndl_memory_search_results_html(w http.ResponseWriter, r *http.Request) {
 
 	defer r.Body.Close()
@@ -1478,7 +1480,6 @@ func hndl_memory_search_results_html(w http.ResponseWriter, r *http.Request) {
 
 
 ====================================================================================*/
-
 
 func hndl_cohabitation_search_html(w http.ResponseWriter, r *http.Request) {
 

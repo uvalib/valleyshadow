@@ -15,10 +15,10 @@ package main
 import (
 	"encoding/json"
 	"errors"
+	"fmt"
 	"log"
 	"net/url"
 	"os"
-	"fmt"
 )
 
 /* ===================================================================================
@@ -62,7 +62,7 @@ type DocumentCollection struct {
 	QS       string
 	County   string
 	Year     string
-	FURL		 string
+	FURL     string
 	//Backdoor *datapipe
 }
 
@@ -110,8 +110,8 @@ func ConstructSolrQuery(x string) string {
 	params.Add("rows", "50")
 	params.Add("start", m.Get("start"))
 	params.Add("sort", m.Get("sort"))
-	params.Add("facet", "")
-	params.Add("filter", "")
+	//params.Add("facet", "")
+	//params.Add("filter", "")
 	params.Add("hl", "true")
 	params.Add("hl.fl", "fulltext")
 	params.Add("hl.fragsize", "200")
@@ -227,7 +227,7 @@ func PopulateResponse(j map[string]interface{}) (*SolrResponse, error) {
 func SolrFromHTTP(b []byte) (*SolrResponse, error) {
 
 	// SAVE TO TROUBLESHOOT
-	 fmt.Printf("container : %v", string(b))
+	fmt.Printf("container : %v", string(b))
 
 	var container map[string]interface{}
 
