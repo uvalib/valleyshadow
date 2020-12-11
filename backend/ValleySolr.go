@@ -15,7 +15,6 @@ package main
 import (
 	"encoding/json"
 	"errors"
-	"fmt"
 	"log"
 	"net/url"
 	"os"
@@ -173,11 +172,10 @@ func PopulateResponse(j map[string]interface{}) (*SolrResponse, error) {
 
 		// the total amount of results, irrespective of the amount returned in the response
 		num_found := int(responseMap["numFound"].(float64))
-		//fmt.Printf("NumFound: %v \n", num_found)
+		log.Printf("DEBUG: found %d results", num_found)
 
 		// and the amount actually returned
 		num_results := len(docsSlice)
-		//fmt.Printf("NumReturned: %v \n", num_results)
 
 		coll := DocumentCollection{}
 		coll.NumFound = num_found
@@ -187,7 +185,7 @@ func PopulateResponse(j map[string]interface{}) (*SolrResponse, error) {
 		for i := 0; i < num_results; i++ {
 			document, ok := docsSlice[i].(map[string]interface{})
 			if ok {
-				//fmt.Printf("DOC %v : %v", i, fmt.Sprint(document))
+				//log.Printf("DOC %v : %v", i, fmt.Sprint(document))
 				ds = append(ds, document)
 			}
 		}
@@ -227,7 +225,7 @@ func PopulateResponse(j map[string]interface{}) (*SolrResponse, error) {
 func SolrFromHTTP(b []byte) (*SolrResponse, error) {
 
 	// SAVE TO TROUBLESHOOT
-	fmt.Printf("container : %v", string(b))
+	//log.Printf("DEBUG: response %v", string(b))
 
 	var container map[string]interface{}
 

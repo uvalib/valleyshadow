@@ -670,9 +670,6 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 
 	contents, err := ioutil.ReadAll(response.Body)
 
-	//fmt.Println("post start = " + m.Get("start"))
-
-	//fmt.Printf("start = %v", m.Get("start"))
 	startval, err := strconv.Atoi(m.Get("start"))
 	if err != nil {
 		startval = 0
@@ -1024,7 +1021,7 @@ func hndl_single_image_result(w http.ResponseWriter, r *http.Request) {
 
 	//vars := mux.Vars(r)
 	//filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
-	//fmt.Printf("No ext: %v", filename_noext)
+	//log.Printf("No ext: %v", filename_noext)
 	get_solr_search_results(w, r, "images_single_result.tpl")
 
 }
@@ -1117,10 +1114,10 @@ func hndl_news_topicitem_index_html(w http.ResponseWriter, r *http.Request) {
 	vars := mux.Vars(r)
 	filename_noext := strings.TrimSuffix(vars["filename"], filepath.Ext(vars["filename"]))
 
-	//fmt.Printf("topicvar : %v", filename_noext)
+	//log.Printf("topicvar : %v", filename_noext)
 	//p1 := vars["p1"]
 	//p2 := vars["p2"]
-	//fmt.Printf("p1 : %v : p2 : %v", p1, p2)
+	//log.Printf("p1 : %v : p2 : %v", p1, p2)
 
 	target := "./news-topicitem/" + filename_noext + "topics.html"
 
