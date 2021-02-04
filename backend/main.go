@@ -643,11 +643,11 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	//log.Println(" QS out from CSQ: " + zz)
 
 	// Make solr call
+	log.Printf("DEBUG: request URL: %s", zz)
 	response, err := http.Get(zz)
 
 	if err != nil {
 		log.Printf("ERROR: getting data from SOLR: %s", err.Error())
-		log.Printf("INFO: request URL: %s", zz)
 		http.Error(w1, err.Error(), http.StatusInternalServerError)
 		return
 	}
@@ -657,7 +657,6 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 
 	if response.StatusCode != http.StatusOK {
 		log.Printf("ERROR: SOLR request returns %d", response.StatusCode)
-		log.Printf("INFO: request URL: %s", zz)
 		http.Error(w1, fmt.Sprintf("SOLR request returns %d", response.StatusCode), http.StatusInternalServerError)
 		return
 	}
