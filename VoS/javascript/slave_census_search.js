@@ -9,18 +9,6 @@ $(function () {
         event.preventDefault(); 
     });
     
-    // a function to lowercase string (regardless of contents) and put quotes around non-wildcard search strings, if whitespace is present
-    function checkQuery(item) {
-        var newQuery = item.attr('value').toLowerCase();
-         if (newQuery.match(/\*|\?/g)) {
-        // do nothing
-        }  else if (newQuery.match(/\s/g)) {
-            newQuery = '"' + newQuery + '"';
-        }
-        return newQuery;
-    }; 
-	
-
     function buildRange(rangeTerm, solrFieldName, rangeOp) {
         // this is a general method for building range queries for solr/lucene
         // note it includes boolean operator, so must be used on 2nd and later query fields
@@ -39,13 +27,13 @@ $(function () {
         return queryTerm;
     };
     
-    // a function to lowercase string (regardless of contents) and put quotes around non-wildcard search strings, if whitespace is present
+    // a function to lowercase string (regardless of contents) and put parens around non-wildcard search strings, if whitespace is present
     function checkQuery(item) {
         var newQuery = item.attr('value').toLowerCase();
          if (newQuery.match(/\*|\?/g)) {
         // do nothing
         }  else if (newQuery.match(/\s/g)) {
-            newQuery = '"' + newQuery + '"';
+             newQuery = '(' + newQuery + ')';
         }
         return newQuery;
     }; 

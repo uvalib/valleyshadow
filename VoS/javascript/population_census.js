@@ -23,18 +23,6 @@ $(document) .ready(function () {
         $('#county_cell input#county_augusta').attr({checked: 'checked'});
     }
 
-    // a function to lowercase string (regardless of contents) and put quotes around non-wildcard search strings, if whitespace is present
-    function checkQuery(item) {
-        var newQuery = item.attr('value').toLowerCase();
-         if (newQuery.match(/\*|\?/g)) {
-        // do nothing
-        }  else if (newQuery.match(/\s/g)) {
-            newQuery = '"' + newQuery + '"';
-        }
-        return newQuery;
-    };
-
-
     var queryString; // constructor variable for 'q' param, which will pass all solr search fields
     var solrParams = {
         year   : $('#year_cell') .children("input:checked") .attr('value'),

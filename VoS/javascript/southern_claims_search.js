@@ -21,17 +21,6 @@ $(function () {
     var db = 'db:xml_claims';
 
     
-    // a function to lowercase string (regardless of contents) and put quotes around non-wildcard search strings, if whitespace is present
-    function checkQuery(item) {
-        var newQuery = item.attr('value').toLowerCase();
-         if (newQuery.match(/\*|\?/g)) {
-        // do nothing
-        }  else if (newQuery.match(/\s/g)) {
-            newQuery = '"' + newQuery + '"';
-        }
-        return newQuery;
-    }; 
-
     function checkRange() {
     	if ( parseInt($('[name="start_year"]').attr('value')) > parseInt($('[name="start_year"]').attr('value')) ) {
 			alert('Please select a start year that precedes the end year of your date range.');

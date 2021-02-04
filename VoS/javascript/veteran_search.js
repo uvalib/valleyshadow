@@ -13,13 +13,13 @@ $(document).ready(function() {
 
 
     
-    // a function to lowercase string (regardless of contents) and put quotes around non-wildcard search strings, if whitespace is present
+    // a function to lowercase string (regardless of contents) and put parens around non-wildcard search strings, if whitespace is present
     function checkQuery(item) {
         var newQuery = item.attr('value').toLowerCase();
          if (newQuery.match(/\*|\?/g)) {
         // do nothing
         }  else if (newQuery.match(/\s/g)) {
-            newQuery = '"' + newQuery + '"';
+			 newQuery = '(' + newQuery + ')';
         }
         return newQuery;
     }; 
