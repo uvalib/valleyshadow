@@ -59,7 +59,7 @@ $(document).ready(function() {
 			query = query + queryString;
 		}
 		if ($('input[name="location"]') .attr('value') != null){
-			queryString = ' AND location:' + $('input[name="location"]').attr('value');
+			queryString = ' AND location:' + checkQuery( $('input[name="location"]') );
 			query = query + queryString;
 		}
 		if ($('select[name="rank"]') .attr('value') != null){

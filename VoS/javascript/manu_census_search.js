@@ -260,16 +260,16 @@ $(function () {
 //		if (sort == 'kinds_annual asc') { sort = 'products asc'; }
 
 		if ($('#name') .attr('value') != null) {
-			queryString = ' AND name:' + checkQuery($('#name') );
+			queryString = ' AND name:' + checkQuery( $('#name') );
 			query = query + queryString;
 		}
 		if ($('#business') .attr('value') != null) {
-			queryString = ' AND business:' + $('#business') .attr('value');
+			queryString = ' AND business:' + checkQuery( $('#business') );
 			query = query + queryString;
 		}
 
 		if ($('#location') .attr('value') != null) {
-			queryString = ' AND location:' + $('#location') .attr('value');
+			queryString = ' AND location:' + checkQuery( $('#location') );
 			query = query + queryString;
 		}
 
