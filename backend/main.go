@@ -675,12 +675,17 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	}
 
 	if m.Get("raw_st") != "" {
-		rx := regexp.MustCompile("(?i)" + m.Get("raw_st"))
+		rx, err := regexp.Compile("(?i)" + m.Get("raw_st"))
+		if err != nil {
+			log.Printf("ERROR: compiling regex: %s", err.Error())
+			http.Error(w1, err.Error(), http.StatusInternalServerError)
+			return
+		}
+
 		em_string := "<em>" + m.Get("raw_st") + "</em>"
 		string_contents = rx.ReplaceAllString(string(contents), em_string)
 	} else {
 		string_contents = string(contents)
-
 	}
 
 	//clean_string := html.UnescapeString(string_contents)
