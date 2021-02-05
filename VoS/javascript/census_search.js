@@ -95,7 +95,7 @@ $('td#year_cell input').click(function () {
 			occupation = ' AND occupation:' + checkQuery( $('#occupation') );
 		}
 		if ($('#birth_place') .attr('value') != null){
-			birth_place = ' AND birth_place:' + $('#birth_place') .attr('value');
+			birth_place = ' AND birth_place:' + checkQuery( $('#birth_place') );
 		}
 
 		var age = $('#age') .attr('value');
@@ -251,15 +251,15 @@ $('td#year_cell input').click(function () {
 		}
 
 		if ($('#subdistrict') .attr('value') != null){
-			subdistrict = ' AND subdistrict_text:"' + $('#subdistrict') .attr('value') + '"';
+			subdistrict = ' AND subdistrict_text:' + checkQuery( $('#subdistrict') );
 		}
 
 		if ($('#district') .attr('value') != null){
-			district = ' AND district_text:"' + $('#district') .attr('value') + '"';
+			district = ' AND district_text:' + checkQuery( $('#district') );
 		}
 
 		if ($('#post_office') .attr('value') != null){
-			post_office = ' AND post_office_text:"' + $('#post_office') .attr('value') + '"';
+			post_office = ' AND post_office_text:' + checkQuery( $('#post_office') );
 		}
 
 		var page_num_value = $('#page_num') .attr('value');

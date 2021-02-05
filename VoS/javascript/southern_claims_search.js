@@ -39,7 +39,7 @@ $(function () {
     });
     
 	$('[name="keyword"]') .change(function () {
-		keywordQuery = ' AND keyword:"' +$(this).children("option:selected").attr('value') + '"'; // quoting is important here.
+		keywordQuery = ' AND keyword:' + checkQuery( $(this).children("option:selected") );
 	});
 	
 	

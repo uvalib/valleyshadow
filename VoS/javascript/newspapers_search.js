@@ -103,7 +103,7 @@ $(function () {
 		var count = 0;
 		
 		$('.newspaper:checked') .each(function () {			
-			newspapers[count] = 'newspaper:"' + $(this) .attr('value') + '"';
+			newspapers[count] = 'newspaper:' + checkQuery( $(this) );
 			count++;
 		})
 		newspaperQuery = newspapers.join(' OR ');
