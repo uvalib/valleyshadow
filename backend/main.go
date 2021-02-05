@@ -688,7 +688,6 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 
 	if err != nil {
 		log.Printf("ERROR: reading response body into contents: %s", err.Error())
-		log.Printf("INFO: request URL: %s", zz)
 		http.Error(w1, err.Error(), http.StatusInternalServerError)
 		return
 	}
@@ -696,7 +695,6 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	solrResponse, err := SolrFromHTTP([]byte(string_contents))
 	if err != nil {
 		log.Printf("ERROR: SolrFromHTTP: %s", err.Error())
-		log.Printf("INFO: request URL: %s", zz)
 		http.Error(w1, err.Error(), http.StatusInternalServerError)
 		return
 	}
@@ -740,7 +738,6 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	t, err := template.New(fname).Funcs(fmap).ParseGlob(fname)
 	if err != nil {
 		log.Printf("ERROR: loading templates: %s", err.Error())
-		log.Printf("INFO: request URL: %s", zz)
 		http.Error(w1, err.Error(), http.StatusInternalServerError)
 		return
 	}
@@ -751,7 +748,6 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	err = t.ExecuteTemplate(w1, current_template, solrResponse.Response)
 	if err != nil {
 		log.Printf("ERROR: executing template: %s", err.Error())
-		log.Printf("INFO: request URL: %s", zz)
 		http.Error(w1, err.Error(), http.StatusInternalServerError)
 		return
 	}
