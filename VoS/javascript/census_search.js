@@ -17,7 +17,16 @@ $('td#year_cell input').click(function () {
     }
     });
 
-
+	// a function to lowercase string (regardless of contents) and put parens around non-wildcard search strings, if whitespace is present
+	function checkQuery(item) {
+		var newQuery = item.attr('value').toLowerCase();
+		if (newQuery.match(/\*|\?/g)) {
+			// do nothing
+		}  else if (newQuery.match(/\s/g)) {
+			newQuery = '(' + newQuery + ')';
+		}
+		return newQuery;
+	};
 
     $('input.text').keydown(function(e){
         if (e.keyCode == 13) {
@@ -83,7 +92,7 @@ $('td#year_cell input').click(function () {
 			first = ' AND first:' + $('#first_name') .attr('value');
 		}
 		if ($('#occupation') .attr('value') != null){
-			occupation = ' AND occupation:' + $('#occupation') .attr('value');
+			occupation = ' AND occupation:' + checkQuery( $('#occupation') );
 		}
 		if ($('#birth_place') .attr('value') != null){
 			birth_place = ' AND birth_place:' + $('#birth_place') .attr('value');

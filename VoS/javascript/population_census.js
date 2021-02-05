@@ -30,24 +30,7 @@ $(document) .ready(function () {
         sort   : 'last asc, first asc'
 
     }; // other params passed via GET method to next pipeline
-    /*
-    function inspectSQ() {
-        $('#objectInspector p') .remove();
-        $('#objectInspector') .append('<p>object solrQuery below:</p>');
-        for (key in solrQuery) {
-            $('#objectInspector') .append('<p style="color:green;">' + key + ' = ' + solrQuery[key] + '</p>');
-        }
-        $('#objectInspector') .append('<p><i>other solr params below:</i></p>');
-        for (key in solrParams) {
-            $('#objectInspector') .append('<p style="color:blue;">' + key + ' = ' + solrParams[key] + '</p>');
-        }
-        $('#objectInspector') .append('<p><b>QUERY: ' + queryString + '</b></p>');
-        $('#objectInspector') .append('<p><b>"Color" radio button: ' + $('input[name="colors"]:checked') .val() + '</b></p>');
-        $('#objectInspector') .append('<p><b>q: ' + $('input#query').attr('value') + '</b></p>');
-        $('#objectInspector') .append('<p><i>form action ' + $('form#basic_census').attr('action') + '</i></p>');
 
-    };
-    */
     function buildQuery(obj) {
         var qString = '';
             for (key in obj) {
@@ -69,8 +52,6 @@ $(document) .ready(function () {
 
     var persests_range = '';
     var realests_range = '';
-    var occupation = '';
-    var birth_place = '';
     var page_num_range = '';
     var detailed = $('#census_interface_marker') .attr('value');
     var color = $('#color_cell') .children("input:checked") .attr('value');
@@ -78,6 +59,17 @@ $(document) .ready(function () {
     if ( year == 'undefined' ) { year='1860'; }
     var county = $('#county_cell') .children("input:checked") .attr('value');
     var db = validateDB(year, county);  // validate this var immediately -- it will be used in all solr queries
+
+    // a function to lowercase string (regardless of contents) and put parens around non-wildcard search strings, if whitespace is present
+    function checkQuery(item) {
+        var newQuery = item.attr('value').toLowerCase();
+        if (newQuery.match(/\*|\?/g)) {
+            // do nothing
+        }  else if (newQuery.match(/\s/g)) {
+            newQuery = '(' + newQuery + ')';
+        }
+        return newQuery;
+    };
 
     /* helper function to add fields to our query object */
     function addSQfield(node) {
@@ -201,7 +193,7 @@ $(document) .ready(function () {
         $('input.text').each( function() {
             var myId = $(this).attr('id');
             if ( $(this).val() != '' && $(this).val() != 'undefined' ) {
-                solrQuery[myId] = myId + ':' + $(this).attr('value');
+                solrQuery[myId] = myId + ':' + checkQuery( $(this) );
             } else {
             delete solrQuery[myId];
             }
