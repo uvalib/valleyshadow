@@ -29,9 +29,19 @@ $(function () {
 		return true; 
 		}
     };
-	
 
-    $('#people').keydown(function(e){
+	// a function to lowercase string (regardless of contents) and put parens around non-wildcard search strings, if whitespace is present
+	function checkQuery(item) {
+		var newQuery = item.attr('value').toLowerCase();
+		if (newQuery.match(/\*|\?/g)) {
+			// do nothing
+		}  else if (newQuery.match(/\s/g)) {
+			newQuery = '(' + newQuery + ')';
+		}
+		return newQuery;
+	};
+
+	$('#people').keydown(function(e){
         if (e.keyCode == 13) {
             $('#search_button').click();
             return false;
@@ -51,7 +61,7 @@ $(function () {
         var rangeValidation=checkRange();
 		if (rangeValidation != true) { return false; }
 		
-		var query = db + ' AND fulltext:' + $('[name="search_text"]') .attr('value');
+		var query = db + ' AND fulltext:' + checkQuery($('[name="search_text"]'));
 		var year_range = '';
 		if ($('[name="start_year"]') .attr('value') != null || $('[name="end_year"]') .attr('value') != null) {
 			var start = $('[name="start_year"]') .attr('value');
