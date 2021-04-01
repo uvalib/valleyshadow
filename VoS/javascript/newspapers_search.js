@@ -18,9 +18,19 @@ $(function () {
 			 newQuery = '(' + newQuery + ')';
         }
         return newQuery;
-    }; 
-	
-    $('input[name="search_text"]').keydown(function(e){
+    };
+
+	function checkQueryNewspaper(item) {
+		var newQuery = item.attr('value');
+		if (newQuery.match(/\*|\?/g)) {
+			// do nothing
+		}  else if (newQuery.match(/\s/g)) {
+			newQuery = '"' + newQuery + '"';
+		}
+		return newQuery;
+	};
+
+	$('input[name="search_text"]').keydown(function(e){
         if (e.keyCode == 13) {
             $('[name="search_button"]').click();
             return false;
@@ -103,7 +113,7 @@ $(function () {
 		var count = 0;
 		
 		$('.newspaper:checked') .each(function () {			
-			newspapers[count] = 'newspaper:' + checkQuery( $(this) );
+			newspapers[count] = 'newspaper:' + checkQueryNewspaper( $(this) );
 			count++;
 		})
 		newspaperQuery = newspapers.join(' OR ');
