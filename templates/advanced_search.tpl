@@ -124,14 +124,14 @@
                   <td></td>
                </tr>
                <tr>
-                  <td valign="center" align="right"><a href="/VoS/govdoc/censi/pcensus.html#estate" id="search_page_infolinks"><b>Real estate value</b></a><br>(in $)
+                  <td valign="center" align="right"><a href="/VoS/govdoc/censi/pcensus.html#estate" id="search_page_infolinks"><b>Real estate value</b></a><br>(in $, no punctuation)
                   </td>
                   <td valign="center" align="left"><select id="realests-op">
                         <option value="gt">&gt;</option>
                         <option value="equal">=</option>
                         <option value="lt">&lt;</option>
                         <option value="not">&lt;&gt;</option></select><input size="6" id="realests"></td>
-                  <td valign="center" align="right"><a id="search_page_infolinks" href="/VoS/govdoc/censi/pcensus.html#estate"><b>Personal estate value</b></a><br>(in $)
+                  <td valign="center" align="right"><a id="search_page_infolinks" href="/VoS/govdoc/censi/pcensus.html#estate"><b>Personal estate value</b></a><br>(in $, no punctuation)
                   </td>
                   <td valign="center" align="left"><select id="persests-op">
                         <option value="gt">&gt;</option>

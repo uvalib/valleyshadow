@@ -206,7 +206,7 @@
 							<td align="right" valign="center"><a
 									href="/VoS/govdoc/censi/pcensus.html#estate">
 									<b>Real estate value</b>
-								</a><br/>(in $)</td>
+								</a><br/>(in $, no punctuation)</td>
 							<td align="left" valign="center">
 
 								<select id="realests-op" class="validate">
@@ -220,7 +220,7 @@
 							<td align="right" valign="center"><a
 									href="/VoS/govdoc/censi/pcensus.html#estate">
 									<b>Personal estate value</b>
-								</a><br/>(in $)</td>
+								</a><br/>(in $, no punctuation)</td>
 
 							<td align="left" valign="center" class="validate">
 								<select id="persests-op">
