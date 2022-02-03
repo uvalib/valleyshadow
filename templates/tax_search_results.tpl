@@ -25,10 +25,10 @@
             <td><b>Residence</b></td>
             <td><b>Estate</b></td>
             <td><b>Lot Number</b></td>
-            <td><b>Building Value</b></td>
-            <td><b>Lot-Building Value</b></td>
-            <td><b>Tax Amount</b></td>
-            <td><b>City Tax Amount</b></td>
+            <td><b>Building Value (in $, no punctuation)</b></td>
+            <td><b>Lot-Building Value (in $, no punctuation)</b></td>
+            <td><b>Tax Amount (in $, no punctuation)</b></td>
+            <td><b>City Tax Amount (in $, no punctuation)</b></td>
          </tr>
   		{{range .Docs}}
 

@@ -78,13 +78,13 @@
                      <td bgcolor="#ffcc99" colspan="4"><b>Tax Information</b></td>
                   </tr>
                   <tr style="display:none;" class="franklin_form">
-                     <td>County tax amount:</td>
+                     <td>County tax amount (in $, no punctuation):</td>
                      <td><select id="co_tax-op">
                            <option value="gt">&gt;</option>
                            <option value="equal">=</option>
                            <option value="lt">&lt;</option>
                            <option value="not">&lt;&gt;</option></select><input size="6" name="co_tax"></td>
-                     <td>State tax amount:</td>
+                     <td>State tax amount (in $, no punctuation):</td>
                      <td><select id="st_tax-op">
                            <option value="gt">&gt;</option>
                            <option value="equal">=</option>
@@ -92,7 +92,7 @@
                            <option value="not">&lt;&gt;</option></select><input size="6" name="st_tax"></td>
                   </tr>
                   <tr style="display:none;" class="franklin_form">
-                     <td>State personal tax amount:</td>
+                     <td>State personal tax amount (in $, no punctuation):</td>
                      <td><select id="st_per_tax-op">
                            <option value="gt">&gt;</option>
                            <option value="equal">=</option>
@@ -100,13 +100,13 @@
                            <option value="not">&lt;&gt;</option></select><input size="6" name="st_per_tax"></td>
                   </tr>
                   <tr style="display:none;" class="augusta_form">
-                     <td>Building value:</td>
+                     <td>Building value (in $, no punctuation):</td>
                      <td><select id="build-op">
                            <option value="gt">&gt;</option>
                            <option value="equal">=</option>
                            <option value="lt">&lt;</option>
                            <option value="not">&lt;&gt;</option></select><input size="6" name="build"></td>
-                     <td>Lot-building value:</td>
+                     <td>Lot-building value (in $, no punctuation):</td>
                      <td><select id="lot_build-op">
                            <option value="gt">&gt;</option>
                            <option value="equal">=</option>
@@ -114,13 +114,13 @@
                            <option value="not">&lt;&gt;</option></select><input size="6" name="lot_build"></td>
                   </tr>
                   <tr style="display:none;" class="augusta_form">
-                     <td>Tax amount:</td>
+                     <td>Tax amount (in $, no punctuation):</td>
                      <td><select id="tax_amt-op">
                            <option value="gt">&gt;</option>
                            <option value="equal">=</option>
                            <option value="lt">&lt;</option>
                            <option value="not">&lt;&gt;</option></select><input size="6" name="tax_amt"></td>
-                     <td>City tax amount:</td>
+                     <td>City tax amount (in $, no punctuation):</td>
                      <td><select id="city_tax_amt-op">
                            <option value="gt">&gt;</option>
                            <option value="equal">=</option>
