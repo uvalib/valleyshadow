@@ -159,7 +159,7 @@
                   <td align="right">Handicapped:</td>
                   <td align="left"><select id="handicap_1860">
                         <option></option>
-                        <option value=" AND deaf_dumb:ass*">Ass. &amp; Battery</option>
+                        <option value=" AND deaf_dumb:ass*">Ass. and Battery</option>
                         <option value=" AND deaf_dumb:blind">Blind</option>
                         <option value=" AND deaf_dumb:cataract">Cataract</option>
                         <option value=" AND deaf_dumb:convict">Convict</option>
@@ -220,7 +220,7 @@
                   <td align="right">Handicapped:</td>
                   <td align="left"><select id="handicap_1870">
                         <option></option>
-                        <option value=" AND deaf_dumb:ass*">Ass. &amp; Battery</option>
+                        <option value=" AND deaf_dumb:ass*">Ass. and Battery</option>
                         <option value=" AND deaf_dumb:blind">Blind</option>
                         <option value=" AND deaf_dumb:cataract">Cataract</option>
                         <option value=" AND deaf_dumb:convict">Convict</option>

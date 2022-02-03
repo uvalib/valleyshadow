@@ -195,7 +195,7 @@
                            <option value="QM Sgt.">QM Sgt.</option>
                            <option value="Seaman">Seaman</option>
                            <option value="Sgt.">Sgt.</option>
-                           <option value="Sgt. &amp; Lt.">Sgt. &amp; Lt.</option>
+                           <option value="Sgt. and Lt.">Sgt. and Lt.</option>
                            <option value="Sgt. Maj.">Sgt. Maj.</option>
                            <option value="Sol.">Sol.</option>
                            <option value="Surgeon">Surgeon</option>
@@ -714,9 +714,7 @@
                            </option>
                            <option value="Pa. Light Arty.">Pa. Light Arty.</option>
                            <option value="Penguin">Penguin</option>
-                           <option value="Rank &amp; record unknown">Rank &amp;
-                              											record unknown
-                           </option>
+                           <option value="Rank and record unknown">Rank and	record unknown</option>
                            <option value="Regular Army">Regular Army</option>
                            <option value="Soldier U.S.">Soldier U.S.</option>
                            <option value="U.S.  Cav.">U.S. Cav.</option>

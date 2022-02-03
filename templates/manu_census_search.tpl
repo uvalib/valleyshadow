@@ -84,7 +84,7 @@
                            <option>[?]</option>
                            <option>Agr. Implements</option>
                            <option>Baker</option>
-                           <option>Baker &amp; Confectioner</option>
+                           <option>Baker and Confectioner</option>
                            <option>Bit Maker</option>
                            <option>Blacksmith Shop</option>
                            <option>Boot and Shoemaker</option>
@@ -95,7 +95,7 @@
                            <option>Candles</option>
                            <option>Carriage Maker</option>
                            <option>Cement Mill</option>
-                           <option>Chopping &amp; Sawmill</option>
+                           <option>Chopping and Sawmill</option>
                            <option>Chopping Mill</option>
                            <option>Cigar Manufactory</option>
                            <option>Clover Mill</option>
@@ -107,9 +107,9 @@
                            <option>Distillery</option>
                            <option>Edge Tools</option>
                            <option>F. Shop</option>
-                           <option>Flour &amp;/or Grist Mill</option>
+                           <option>Flour and/or Grist Mill</option>
                            <option>Foundry</option>
-                           <option>Foundry &amp; Machine Shop</option>
+                           <option>Foundry and Machine Shop</option>
                            <option>Furniture Manufacturer</option>
                            <option>Harness</option>
                            <option>Hatter</option>
@@ -130,9 +130,9 @@
                            <option>Rolling Mill</option>
                            <option>Roofing[?] Mill</option>
                            <option>Rope Manufactory</option>
-                           <option>Saddle &amp;/or Harness Shop</option>
+                           <option>Saddle and/or Harness Shop</option>
                            <option>Sawmill</option>
-                           <option>Silver Plate &amp; [?]</option>
+                           <option>Silver Plate and [?]</option>
                            <option>Slaughterhouse</option>
                            <option>Stone Cutter</option>
                            <option>Sumac Mill</option>

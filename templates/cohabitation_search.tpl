@@ -158,7 +158,7 @@
                            <option>Highland Co., VA</option>
                            <option>Jefferson Co., WV</option>
                            <option>Kentucky</option>
-                           <option>King &amp; Queen Co., VA</option>
+                           <option>King and Queen Co., VA</option>
                            <option>King William Co., VA</option>
                            <option>Loudoun Co., VA</option>
                            <option>Louisa Co., VA</option>
