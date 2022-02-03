@@ -173,7 +173,7 @@ $(document).ready(function() {
         $('input[name="q"]') .attr('value', query);
         $('input[name="db"]') .attr('value', db);
         var url = document.taxSearchForm.action + "?q=" + query + "&rows=" + $('[name="rows"]').attr('value')  + "&start=" + $('[name="start"]').attr('value') + "&sort=" + $('[name="sort"]').attr('value') + "&county=" + cnty;
-        alert("county=" + cnty);
+        //alert("county=" + cnty);
         window.location.href=url; // this is a replacement for the form SUBMIT event.
         return false;
 
