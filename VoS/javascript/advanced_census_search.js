@@ -86,10 +86,10 @@ $('td#year_cell input').click(function () {
 		}
 		
 		if ($('#last_name') .attr('value') != null){
-			last = ' AND last:' + $('#last_name') .attr('value');
+			last = ' AND last:' + checkQuery( $('#last_name') );
 		}
 		if ($('#first_name') .attr('value') != null){
-			first = ' AND first:' + $('#first_name') .attr('value');
+			first = ' AND first:' + checkQuery( $('#first_name') );
 		}
 		if ($('#occupation') .attr('value') != null){
 			occupation = ' AND occupation:' + checkQuery( $('#occupation') );
