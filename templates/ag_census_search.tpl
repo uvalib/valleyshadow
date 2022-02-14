@@ -86,7 +86,7 @@
                            <option>&lt;</option>
                            <option>&lt;&gt;</option></select><input size="6" name="no_tot_land"></td>
                      <td align="right"><a id="search_page_infolinks" href="/VoS/govdoc/censi/acensus.html#farm">Farm
-                           									Value</a>:
+                           									Value (in $, no punctuation)</a>:
                      </td>
                      <td><select name="farm_val-op">
                            <option>=</option>
@@ -117,7 +117,7 @@
                      <td colspan="4" valign="center" bgcolor="#416d83" id="search_page_infolinks_white">Animals</td>
                   </tr>
                   <tr>
-                     <td align="right"><a id="search_page_infolinks" href="/VoS/govdoc/censi/acensus.html#livestock">Cash value of livestock</a>:
+                     <td align="right"><a id="search_page_infolinks" href="/VoS/govdoc/censi/acensus.html#livestock">Cash value of livestock (in $, no punctuation)</a>:
                      </td>
                      <td><select name="tot_livestock-op">
                            <option>=</option>
@@ -137,7 +137,7 @@
                   </tr>
                   <tr>
                      <td align="right"><a id="search_page_infolinks" href="/VoS/govdoc/censi/acensus.html#home">Cash
-                           									Value of Home Manufacturing</a>:
+                           									Value of Home Manufacturing (in $, no punctuation)</a>:
                      </td>
                      <td><select name="no_manu-op">
                            <option>=</option>
