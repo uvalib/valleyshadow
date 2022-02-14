@@ -37,7 +37,7 @@
                <td><b>Last Name</b></td>
                <td><b>First Name</b></td>
                <td><b>Location</b></td>
-               <td><b>Farm Value (in $, no punctuation)</b></td>
+               <td><b>Farm Value</b></td>
                <td><b>Total Value of Livestock</b></td>
                <td><b>Pounds of Tobacco</b></td>
                <td><b>Value of Home Manufacturing</b></td>
