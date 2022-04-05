@@ -633,7 +633,7 @@ func get_solr_search_results(w1 http.ResponseWriter, r1 *http.Request, current_t
 	m, _ := url.ParseQuery(qun)
 
 	// no current query
-	if len( m.Get("q") ) == 0 {
+	if len(m.Get("q")) == 0 {
 		log.Printf("DEBUG: no active query, doing nothing")
 		return
 	}
