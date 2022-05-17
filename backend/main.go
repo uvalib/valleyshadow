@@ -367,15 +367,10 @@ func getenv(key string) string {
 	if value, exists := os.LookupEnv(key); exists {
 		return value
 	}
-	return "valleyshadow.lib.virginia.edu"
+	return "none"
 }
 
 /*-----------------------------------------------------------------------------------*/
-
-func getfullurl() string {
-
-	return "valleyshadow.lib.virginia.edu"
-}
 
 func plusone(addtome int) int {
 	return addtome + 1
