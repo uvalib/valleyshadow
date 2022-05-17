@@ -210,7 +210,7 @@ $(function () {
 			query = query + queryString;		
 		} 
 		if (end_date != null) {
-			queryString = ' AND battle_date2:[* TO' + end_date + ']';
+			queryString = ' AND battle_date2:[* TO ' + end_date + ']';
 			query = query + queryString;
 		}
 		
